@@ -1,0 +1,941 @@
+June 11, 2015
+
+                                                           Exemption No. 11797
+                                                           Regulatory Docket No. FAA­2015­1053
+
+Mr. Jeffrey J. Antonelli
+Counsel for Leading Edge Technologies, LLC
+Antonelli Law
+100 North LaSalle Street, Suite 2400
+Chicago, IL 60602
+
+Dear Mr. Antonelli:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter dated April 7, 2015, you petitioned the Federal Aviation Administration (FAA) on
+behalf of Leading Edge Technologies, LLC (hereinafter petitioner or operator) for an
+exemption. The petitioner requested to operate an unmanned aircraft system (UAS) to
+conduct precision agriculture.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner is a SenseFly eBee.
+
+The petitioner requested relief from 14 CFR part 21, Certification procedures for products
+and parts, Subpart H--Airworthiness Certificates. In accordance with the statutory criteria
+provided in Section 333 of Public Law 112-95 in reference to 49 U.S.C. § 44704, and in
+                                                                                                                 2
+
+consideration of the size, weight, speed, and limited operating area associated with the
+aircraft and its operation, the Secretary of Transportation has determined that this aircraft
+meets the conditions of Section 333. Therefore, the FAA finds that the requested relief from
+14 CFR part 21, Certification procedures for products and parts, Subpart H--Airworthiness
+Certificates, and any associated noise certification and testing requirements of part 36, is
+not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection1. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+· They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+· The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+· A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, Leading Edge Technologies, LLC is granted an
+exemption from 14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a),
+91.7(a), 91.119(c), 91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and
+91.417(a) and (b), to the extent necessary to allow the petitioner to operate a UAS to perform
+aerial data collection. This exemption is subject to the conditions and limitations listed
+below.
+
+1 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                             3
+
+Conditions and Limitations
+
+In this grant of exemption, Leading Edge Technologies, LLC is hereafter referred to as
+the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+1. Operations authorized by this grant of exemption are limited to the SenseFly eBee
+    when weighing less than 55 pounds including payload. Proposed operations of any
+    other aircraft will require a new petition or a petition to amend this exemption.
+
+2. Operations for the purpose of closed-set motion picture and television filming are
+    not permitted.
+
+3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+    exemption holder may use either groundspeed or calibrated airspeed to determine
+    compliance with the 87 knot speed restriction. In no case will the UA be operated at
+    airspeeds greater than the maximum UA operating airspeed recommended by the
+    aircraft manufacturer.
+
+4. The UA must be operated at an altitude of no more than 400 feet above ground level
+    (AGL). Altitude must be reported in feet AGL.
+
+5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+    This requires the PIC to be able to use human vision unaided by any device other than
+    corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+    U.S. driver's license.
+
+6. All operations must utilize a visual observer (VO). The UA must be operated within
+    the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+    to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+    capability. The VO and PIC must be able to communicate verbally at all times;
+    electronic messaging or texting is not permitted during flight operations. The PIC
+    must be designated before the flight and cannot transfer his or her designation for the
+    duration of the flight. The PIC must ensure that the VO can perform the duties
+    required of the VO.
+
+7. This exemption and all documents needed to operate the UAS and conduct its
+    operations in accordance with the conditions and limitations stated in this grant of
+    exemption, are hereinafter referred to as the operating documents. The operating
+    documents must be accessible during UAS operations and made available to the
+    Administrator upon request. If a discrepancy exists between the conditions and
+    limitations in this exemption and the procedures outlined in the operating documents,
+                                                                                                            4
+
+    the conditions and limitations herein take precedence and must be followed.
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+                                                                                                            5
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+    exemption holder may apply for a new or amended COA if it intends to conduct
+    operations that cannot be conducted under the terms of the attached COA.
+                                                                                                            6
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+    be as large as practicable.
+
+23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+    any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+    PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+    These documents must be made available to the Administrator or any law enforcement
+    official upon request.
+
+24. The UA must remain clear and give way to all manned aviation operations and
+    activities at all times.
+
+25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless:
+      a. Barriers or structures are present that sufficiently protect nonparticipating persons
+          from the UA and/or debris in the event of an accident. The operator must ensure
+          that nonparticipating persons remain under such protection. If a situation arises
+          where nonparticipating persons leave such protection and are within 500 feet of
+          the UA, flight operations must cease immediately in a manner ensuring the safety
+          of nonparticipating persons; and
+      b. The owner/controller of any vessels, vehicles or structures has granted permission
+          for operating closer to those objects and the PIC has made a safety assessment of
+          the risk of operating closer to those objects and determined that it does not
+          present an undue hazard.
+
+    The PIC, VO, operator trainees or essential persons are not considered
+    nonparticipating persons under this exemption.
+
+27. All operations shall be conducted over private or controlled-access property with
+    permission from the property owner/controller or authorized representative.
+    Permission from property owner/controller or authorized representative will be
+    obtained for each flight to be conducted.
+
+28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+    boundaries of the operational area as defined by the applicable COA must be reported
+    to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+    reported to the National Transportation Safety Board (NTSB) per instructions
+    contained on the NTSB Web site: www.ntsb.gov.
+                                                                                                                 7
+
+ If this exemption permits operations for the purpose of closed-set motion picture and
+ television filming and production, the following additional conditions and limitations apply.
+
+    29. The operator must have a motion picture and television operations manual (MPTOM)
+         as documented in this grant of exemption.
+
+    30. At least 3 days before aerial filming, the operator of the UAS affected by this
+         exemption must submit a written Plan of Activities to the local Flight Standards
+         District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+         notification may be waived with the concurrence of the FSDO. The plan of activities
+         must include at least the following:
+           a. Dates and times for all flights;
+           b. Name and phone number of the operator for the UAS aerial filming conducted
+              under this grant of exemption;
+           c. Name and phone number of the person responsible for the on-scene operation of
+              the UAS;
+           d. Make, model, and serial or N-Number of UAS to be used;
+           e. Name and certificate number of UAS PICs involved in the aerial filming;
+           f. A statement that the operator has obtained permission from property owners
+              and/or local officials to conduct the filming production event; the list of those
+              who gave permission must be made available to the inspector upon request;
+           g. Signature of exemption holder or representative; and
+           h. A description of the flight activity, including maps or diagrams of any area, city,
+              town, county, and/or state over which filming will be conducted and the altitudes
+              essential to accomplish the operation.
+
+    31. Flight operations may be conducted closer than 500 feet from participating persons
+         consenting to be involved and necessary for the filming production, as specified in the
+         exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                    8
+
+This exemption terminates on June 30, 2017, unless sooner superseded or rescinded.
+Sincerely,
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+Drone/UAS Practice Group               100 North LaSalle Street
+                                                        Suite 2400
+
+                                               Chicago, IL 60602
+                                               Tel. 312.201.8310
+                                   Jeffrey@Antonelli-Law.com
+
+U.S. Department of Transportation  April 7, 2015
+Docket Management System
+1200 New Jersey Ave S.E.
+Washington, D.C. 20590
+
+Re: Request for Exemption under Section 333 of the FAA Modernization and Reform Act
+of 2012 and Part 11 of the Federal Aviation Regulations from Certain Provisions of 14
+C.F.R.
+
+Dear Sir or Madam:
+
+         Pursuant to Section 333 of the FAA Modernization and Reform Act of 2012 (the Reform
+
+Act) and 14 C.F.R. Part 11, Antonelli Law files this petition for exemption on behalf of Leading
+Edge Technologies, LLC ("LET"), an operator of Small Unmanned Aircraft ("UA") used for
+
+precision agriculture. Specifically, applicant seeks an exemption from the Federal Aviation
+Regulations ("FARs") listed in Appendices A and B to allow commercial operation of its UA, so
+
+long as such operations are conducted within and under the conditions outlined herein or as may
+
+be established by the FAA in a grant of this petition.
+
+         Approval of the exemption for petitioner will allow commercial operation of the senseFly
+eBee, for precision agriculture in Class G airspace nationwide, or as otherwise prescribed in an
+Air Traffic Organization ("ATO") issued COA. The contemplated applications involve precision
+aerial surveys of agricultural areas (including but not limited to farm fields), using a variety of
+sensors and technologies (including but not limited to LIDAR, infrared photography,
+photogrammetry and high-resolution imagery) to collect high quality, actionable data for use by
+farmers, agronomists, crop consultants, and other agriculture industry professionals. The UA
+operations contemplated by this petition are in the public interest because they clearly satisfy the
+"Four D's" of exemplary uses of UAs: to replace work that is dangerous, difficult, dull, or dirty,
+and at the same time provide an equivalent or greater level of safety than alternative manned
+aircraft operations. The UA covered by this petition is a small battery-powered craft, weighing no
+more than 1.8 lbs. (0.8 kg.), inclusive of battery and payload. Operation of the UA under the strict
+conditions proposed below will provide an equivalent level of safety, as Congress intended, while
+still allowing commercial operations. Operations using this UA are far safer than conventional
+operations conducted with helicopters and fixed-wing aircraft that weigh thousands of pounds,
+carry highly flammable fuel, and operate in close proximity to the ground, trees, infrastructure,
+and people.
+
+Congress directed the FAA to consider seven factors in deciding whether to approve
+                                                 1
+                                               Table of Contents
+I. Publishable Summary ........................................................................................................................... 5
+II. Petitioner's Contact Information........................................................................................................... 5
+III. Proposed Operations ............................................................................................................................. 6
+
+     A. The UA.......................................................................................................................................... 6
+     B. The Crew....................................................................................................................................... 6
+     C. Flight Conditions .......................................................................................................................... 7
+     D. Flight Operations .......................................................................................................................... 7
+IV. Aircraft and Equivalent Level of Safety ............................................................................................... 8
+V. Proposed Conditions of the Exemption ................................................................................................ 8
+VI. Privacy ................................................................................................................................................ 12
+VII. Public Interest and Safety ................................................................................................................... 12
+VIII.Regulations from Which Exemption is Requested ............................................................................. 14
+     A. Appendix A: FARs as to which LET wishes the same determination to be made as has
+
+           been made previously. ................................................................................................... 14
+
+                                                          3
+                                                   Exhibit List
+Exhibit 1: senseFly eBee User Manual...................................Submitted confidentially to the FAA
+Exhibit 2: senseFly eBee Justification of Airworthiness and Safety Assessment ............................
+.................................................................................................Submitted confidentially to the FAA
+Exhibit 3: senseFly eBee Training Documentation ................Submitted confidentially to the FAA
+Exhibit 4: senseFly eBee Maintenance Procedures ................Submitted confidentially to the FAA
+Exhibit 5: Leading Edge Technologies LLC Operating Procedures ................................................
+.................................................................................................Submitted confidentially to the FAA
+Exhibit 6: eBee Technical Specs ............................................Submitted confidentially to the FAA
+Exhibit 7: senseFly eBee.........................................................Submitted confidentially to the FAA
+Exhibit 8: senseFly eMotion ...................................................Submitted confidentially to the FAA
+Exhibit 9: senseFly Postflight Terra 3D .................................Submitted confidentially to the FAA
+
+     Exhibits 1-9 have been submitted confidentially and are not available to the public.
+
+                                                          4
+I. Publishable Summary
+
+         Pursuant to 14 C.F.R. § 11, the following summary is provided for publication in the
+Federal Register, should it be determined that publication is needed:
+
+    Petitioner seeks an exemption from the following rules:
+
+    14 C.F.R 21(h); 14 C.F.R. 43.7; 14 C.F.R. 43.11; 14 C.F.R. 45.11; 14 C.F.R. 45.27; 14
+    C.F.R. 45.29; 14 C.F.R. 91.7(a); 14 C.F.R. 91.9(b)(2); 14 C.F.R. 91.9(c); 14 C.F.R.
+    91.103(b)(2); 14 C.F.R. 91.105; 14 C.F.R. 91.109; 14 C.F.R. 91.113(b); 14 C.F.R.
+    91.119(c); 14 C.F.R. 91.121; 14 C.F.R. 91.151(a); 14 C.F.R. 91.203(a) and (b); 14
+    C.F.R. 215; 14 C.F.R. 91.403; 14 C.F.R. 91.405(a); 14 C.F.R. 91.407(a)(1); 14 C.F.R.
+    409(a)(1) and (a)(2); and 14 C.F.R. 91.417(a) and (b) to operate commercially a small
+    unmanned aircraft system (UA) (1.52lbs or less).
+
+    Approval of the exemption for petitioner will allow commercial operation of the
+    senseFly eBee for precision agriculture in Class G airspace nationwide, or as otherwise
+    prescribed in an ATO issued COA. The requested exemption should be granted because
+    operation of small UA, weighing approximately 1.52 lbs. (0.69 kg.), inclusive of
+    battery and payload, conducted in the strict conditions outlined below, will provide an
+    equivalent level of safety, while still allowing commercial operations. The lightweight
+    aircraft covered by the exemption are far safer than conventional operations conducted
+    with helicopters and fixed-wing aircraft weighing thousands of pounds and carrying
+    highly flammable fuel, and operating in close proximity to the ground and people. The
+    seven factors Congress directed the FAA to consider when approving Section 333
+    exemption petitions - size, weight, speed, operational capability, proximity to airports,
+    proximity to populated areas, and operation within visual line of sight ­ each support
+    the request. In particular, the aircraft are small, and will operate at slow speeds, and
+    close to the ground in order to more safely and efficiently conduct operations that
+    would otherwise be significantly more expensive or time consuming. The substantial
+    increase of safety and decrease of risk to human life, coupled with the low risk use of
+    UAs to conduct these operations, weigh heavily in favor of granting the exemption.
+
+II. Petitioner's Contact Information
+Todd Golly
+CEO
+Leading Edge Technologies LLC
+618 South Main Street
+Winnebago, MN 56098
+
+Counsel for Petitioner:
+Antonelli Law
+100 North LaSalle Street
+Suite 2400
+Chicago, IL 60602
+Tel: 312-201-8310
+Fax: 888-211-8624
+Email: jeffrey@antonelli-law.com
+
+                                                          5
+III. Proposed Operations
+
+A. The UA
+
+         The requested exemption will permit petitioner to operate the eBee, with a maximum
+weight of 1.52 lbs. (0.69 kg.), inclusive of batteries and technical payload. This rotorcraft operates
+at a speed of no more than 49 knots and has the capability to hover and move in the vertical and
+horizontal planes simultaneously.
+
+         The UA will have the following specifications or equivalent:
+
+Airframe: senseFly eBee
+Wingspan: 96 cm. (3.2 ft.)
+Control System: internal to the eBee which includes the Main Controller (MC), Internal
+Measurement Unit (IMU) with a built-in internal sensor, barometric altimeter (which measures
+attitude and altitude), compass, GPS, and radio receiver (Rx).
+Transmitter (Tx): senseFly system with 2.4 GHz
+Receiver (Rx): internal to eBee
+Motor: electric brushless motor with nominal static thrust of 6.2 N
+Data Link: 2.4 GHz USB ground modem
+OSD: senseFly eMotion 2 software, which allows live telemetry to be displayed to the visual
+observer, including the battery level and altitude
+Batteries: Lithium Polymer batteries with capacity of 2150 mah
+
+         Please refer to Exhibits 1-2 and 6-9 for further information about the airframe, control
+system and transmitters. The petition and the supporting documentation in those exhibits and
+Exhibits 3-5 are hereinafter referred to as the "operating documents."
+
+         The specific conditions of the proposed exemption that relate to the characteristics of the
+UA are numbers 1, 5, and 19 in Section V below. Each has been adopted or imposed by the FAA
+in numerous previous grants of Section 333 exemption petitions. In addition, the FAA has
+previously approved flight of the eBee in Exemption No. 11170.
+
+B. The Crew
+
+         The crew will consist of a pilot in command (PIC) and a visual observer (VO). The PIC
+will have, at minimum, a private pilot's license and a third class medical certificate.
+
+         The PIC and VO will have been trained in operation of UA generally and received up-to-
+date information on the UA to be operated pursuant to this grant. The PIC will have completed, at
+a minimum, 16 hours of UA flight training with this specific UA prior to operations, and will be
+required to participate in annual training thereafter.
+
+         The specific conditions of the proposed exemption that relate to the training and
+characteristics of the crew are numbers 3 and 6-10 in Section V below. Each has been adopted or
+imposed by the FAA in numerous previous grants of Section 333 exemption petitions.
+
+                                                          6
+C. Flight Conditions
+
+         The UA will be used for precision agriculture. It will be flown in Class G airspace
+nationwide under 500 feet above ground level ("AGL"), unless otherwise prescribed by an ATO
+issued COA, and under controlled conditions over rural agricultural property. Petitioner will work
+with the local FSDO when planning operations. Petitioner will only operate its UA in visual
+meteorological conditions (VMC). The UA will at all times be no less than 500 feet below and no
+less than 2,000 feet horizontally from a cloud, and petitioner will not conduct operations unless
+visibility is at least 3 statute miles from the PIC. The flight crew will always make a safety
+assessment of the risk of every operation, and will only operate when it is determined that no
+hazards are present.
+
+         The 500 feet AGL limitation is in line with the Small UAS Notice of Proposed Rulemaking
+(NPRM). Operation and Certification of Small Unmanned Aircraft, 80 Fed. Reg. 9543 at 9547
+(proposed Feb. 23, 2015 (to be codified at 14 C.F.R. Parts 21, 43, 45, et al.)). The FAA determined
+that this higher ceiling was a safe limit because:
+
+         "most manned aircraft operations take place above 500 feet. Specifically, most
+         manned aircraft operations conducted over uncongested areas must be flown at an
+         altitude above 500 feet AGL, while most manned aircraft operations conducted
+         over congested areas must be flown at an even higher altitude. Thus, a 500-foot
+         altitude ceiling for small UAS operations would create a buffer between a small
+         unmanned aircraft and most manned aircraft flying in the NAS... [T]here is
+         significantly less air traffic at or below 500 feet than there is above 500 feet altitude.
+         As a result of this difference in air-traffic density, the FAA has determined that
+         small UAS operations would not pose a significant risk to manned aircraft
+         operations taking place below 500 feet altitude if proper precautions are taken by
+         the small UAS operator" Id. at 9562-63.
+
+         Should the FAA not allow this request, petitioner will limit flights to 400 feet AGL.
+
+         Please refer to Exhibit 5, Section 1.A for additional information regarding flight conditions.
+
+         The specific conditions of the proposed exemption that relate to the flight conditions in
+which the UA will be operated are numbers 2, 4, 16, 25, and 27-29 in Section V below. Each has
+been adopted or imposed by the FAA in numerous previous grants of Section 333 exemption
+petitions.
+
+D. Flight Operations
+
+         Every UA flight will use at minimum a two person flight crew: a PIC and a VO. The
+standard operational procedures that they will follow are set out in the operating documents,
+specifically Exhibits 1 and 5. Please refer to the following sections for information pertaining to
+operations:
+
+      Exhibit 1:
+              Section 1.3: Creating a new flight plan
+              Section 1.4: The mission phase of a flight
+              Section 1.5: Simulating your flight
+
+                                                          7
+              Section 1.6: Getting ready for a mission
+              Section 2: Executing a flight
+      Exhibit 5:
+              Section 3: Operating Procedures
+              Section 4: Flights
+              Section 5: Inspections
+              Section 6: Maintenance
+              Section 7: Logbooks
+
+         The specific conditions of the proposed exemption that relate to flight operations are
+numbers 2, 3-4, 11-18, 20-24, 26-27, and 31-36 in Section V below. Each has been accepted or
+imposed by the FAA in numerous previous grants of Section 333 exemption petitions.
+
+IV. Aircraft and Equivalent Level of Safety
+
+         Petitioner proposes that the exemption apply to UAs that have the characteristics and that
+operate with the limitations proposed herein. These limitations provide for a level of safety at least
+equivalent to or higher than manned aircraft operations under the current regulatory structure.
+Section V below identifies the limitations and conditions to which petitioner agrees to be bound
+when conducting commercial operations under a grant of this petition. Appendix A contains a
+matrix connecting: (i) the specific proposed condition with (ii) the FAR provision for which it
+provides an equivalent level of safety and (iii) one or more recent Section 333 exemption grants
+in which the FAA recognized this equivalent level of safety.
+
+      Approval of the commercial operations outlined in this petition presents no national security
+issue. The PIC will possess, at minimum, a private pilot's certificate and third class medical, so
+he or she will have been subject to security screenings by the Department of Homeland Security.
+
+V. Proposed Conditions of the Exemption
+
+1. The UA will weigh no more than 1.8 lbs. (0.8 kg.), inclusive of battery and technical payload.
+
+2. UA operations under this exemption will be limited to conducting operations for the purpose
+    of precision agriculture in Class G airspace nationwide.
+
+3. Flights will be operated within line of sight of a pilot and visual observer.
+
+4. Flights will be operated at an altitude of no more than 500 feet AGL, as indicated by the
+    procedures specified in the operating documents. All altitudes reported to ATC must be in feet
+    AGL.
+
+5. The UA will not be flown at an indicated airspeed exceeding 49 knots.
+
+6. Minimum flight crew for each operation will consist of the UA pilot in command (PIC) and a
+    visual observer (VO).
+
+7. The PIC will have, at minimum, a private pilot license and a third class medical certificate.
+
+                                                          8
+8. The petitioner will not permit any PIC to operate unless the PIC meets its qualification criteria
+    and demonstrates the ability to safely operate the UA in a manner consistent with how the UA
+    will be operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency will be logged in a manner consistent with 14 CFR
+    §61.51(b). A record of the PIC training will be documented and made available upon request
+    by the Administrator. Training operations will only be conducted during dedicated training
+    sessions. During training, proficiency, and experience-building flights, all persons not essential
+    for flight operations will be considered nonparticipants, and the PIC will operate the UA with
+    appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+9. The VO will not perform any other duties beyond assisting the PIC with seeing and avoiding
+    other air traffic and other ground based obstacles/obstructions, and will not be permitted to
+    operate the camera or other instruments.
+
+10. The PIC will be designated before the flight and will not be allowed to transfer his or her
+    designation for the duration of the flight. The PIC will ensure that the VO can perform the
+    functions prescribed in these conditions and the operating documents.
+
+11. A briefing will be conducted in regard to the planned UA operations prior to each day's
+    activities. It will be mandatory that all personnel who will be performing duties in connection
+    with the operations be present for this briefing.
+
+12. Prior to each flight, the PIC will inspect the UA, including the Ground Control Station, to
+    ensure it is in a condition for safe flight. If the inspection reveals a condition that affects the
+    safe operation of the UA, the PIC will not operate the UA until the necessary maintenance has
+    been performed and the UA is found to be in a condition for safe flight. All maintenance and
+    alterations will be properly documented in the aircraft records.
+
+13. Petitioner will conduct a functional flight test on any UA that has undergone maintenance or
+    alterations that affect the UA operation or flight characteristics, e.g. replacement of a flight
+    critical component. The PIC who conducts the functional test flight will make an entry in the
+    aircraft records.
+
+14. The petitioner will carry out its maintenance, inspections, and record keeping requirements, in
+    accordance with the UA manufacturer's aircraft/component, maintenance, overhaul,
+    replacement, inspection, and life limit requirements set forth in the operating documents.
+    Maintenance, inspection, alterations, and status of replacement/overhaul component parts will
+    be noted in the aircraft records, including total time in service, description of work
+    accomplished, and the signature of the authorized person returning the UA to service. The
+    authorized person will make an entry in the aircraft record of the corrective action taken against
+    discrepancies discovered between inspections.
+
+15. The UA will be operated within visual line of sight (VLOS) of the PIC and VO at all times.
+    This requires the PIC to be able to use human vision unaided by any device other than
+    corrective lenses. PIC and VO will at all times be able to communicate verbally. They will not
+    be permitted to use electronic messaging or texting to communicate during flight operations.
+
+16. The PIC will not begin a flight unless (considering wind and forecast weather conditions) there
+                                                          9
+    is enough power to fly at normal cruising speed to the intended landing point and prepare to
+    land the UA with 25% battery power remaining.
+
+17. Actual total flight time for each operational flight will result in no less than a 25% battery
+    reserve.
+
+18. The UA will have the capability to abort a flight in case of unexpected obstacles or
+    emergencies.
+
+19. The UA will be programmed so that if it loses communications or loses its GPS signal, it will
+    return to a pre-determined location within the planned operating area and land or be recovered
+    in accordance with the operating documents
+
+20. If the UA and its radio control link disconnect during flight, the system's failsafe protection
+    will be triggered and the multirotor will return to home and land automatically, rather than
+    flying off uncontrollably or landing at an unknown location.
+
+21. The operating documents required under 14 CFR §§ 91.9 and 91.203 will be maintained and
+    available to the PIC at the Ground Control Station of the UA any time the UA is operating.
+    These documents will be made available to the Administrator or any law enforcement official
+    upon request. If a discrepancy exists between the conditions and limitations in the exemption
+    grant and the procedures outlined in the operating documents, the grant conditions and
+    limitations will take precedence and will be followed. Otherwise, the petitioner will follow the
+    procedures outlined in its operating documents. If it updates or revises its operating documents,
+    it will present updated and revised documents to the Administrator upon request. If the
+    petitioner determines that any update or revision would affect the basis upon which the FAA
+    granted the exemption, then the Petitioner will petition for an amendment to the grant of
+    exemption.
+
+22. Petitioner will obtain written and/or oral permission from the landowners/authorized agents of
+    the landowners of the land over which flights will be conducted.
+
+23. Petitioner will obtain all required permissions and permits from territorial, state, county or city
+    jurisdictions, including local law enforcement, fire, or other appropriate governmental
+    agencies.
+
+24. UA operations will not be conducted during night, as defined in 14 CFR § 1.1. All operations
+    will be conducted under visual meteorological conditions (VMC). Flights will not be
+    conducted under special visual flight rules (SVFR).
+
+25. The petitioner will obtain an Air Traffic Organization (ATO) issued Certificate of Waiver or
+    Authorization (COA) prior to conducting any operations under the grant of exemption.
+    Petitioner will request a Notice to Airman (NOTAM) not more than 72 hours in advance, but
+    not less than 48 hours prior to the operation. All operations will be conducted in accordance
+    with airspace requirements in the ATO issued COA, including class of airspace, altitude level
+    and potential transponder requirements.
+
+26. The UA will not be operated within 5 nautical miles of an airport reference point as denoted
+    on a current FAA-published aeronautical chart unless a letter of agreement with that airport's
+
+                                                         10
+    management has been obtained, and the operation is conducted in accordance with a NOTAM
+    as required by the operator's COA. Any letter of agreement with the airport management will
+    be made available to the Administrator upon request.
+
+27. The UA will not be operated less than 500 feet below, or less than 2,000 feet horizontally from,
+    a cloud or when visibility is less than 3 statute miles from the PIC.
+
+28. All operations shall be conducted in Class G airspace or as otherwise prescribed in an ATO
+    issued COA.
+
+29. All aircraft operated in accordance with this exemption will be identified by serial number,
+    registered in accordance with 14 CFR part 47, and have identification (N-Number) markings
+    in accordance with 14 CFR part 45, Subpart C. Markings will be as large as practicable.
+
+30. Before conducting operations, petitioner will ensure that the radio frequency spectrum used
+    for operation and control of the UA complies with the Federal Communications Commission
+    (FCC) or other appropriate government oversight agency requirements.
+
+31. The UA will remain clear and yield the right of way to all manned aviation operations and
+    activities at all times.
+
+32. The UA will not be operated by the PIC from any moving device or vehicle.
+
+33. The UA will not be operated over congested or densely populated areas.
+
+34. Petitioner will conduct all flight operations at least 500 feet from all nonparticipating persons,
+    vessels, vehicles, and structures unless one of the following three conditions is met:
+
+    a. Barriers or structures are present that sufficiently protect nonparticipating persons from the
+         UA and/or debris in the event of an accident. The petitioner will ensure that
+         nonparticipating persons remain under such protection. If a situation arises where
+         nonparticipating persons leave such protection and are within 500 feet of the UA, the PIC
+         will ensure that flight operations cease immediately.
+
+    b. The aircraft is operated near vessels, vehicles or structures where the owner/controller of
+         such vessels, vehicles or structures has granted permission and the PIC has made a safety
+         assessment of the risk of operating closer to those objects and determined that it does not
+         present an undue hazard.
+
+    c. Operations nearer to the PIC, VO, operator trainees or essential persons do not present an
+         undue hazard to those persons per § 91.119(a).
+
+35. Petitioner will report any incident, accident, or flight operation that transgresses the lateral or
+    vertical boundaries of the operational area as defined by the applicable COA to the FAA's UA
+    Integration Office (AFS-80) within 24 hours. Petitioner will report accidents to the National
+    Transportation Safety Board (NTSB) per instructions contained on the NTSB Web site:
+    www.ntsb.gov.
+
+                                                         11
+VI. Privacy
+
+         There is little concern that the proposed flights will cause invasions of privacy because all
+flights will occur over rural, private property that petitioner has been contracted to fly over. When
+the UA is being flown, the onboard cameras will be focused on ground area, not on
+nonparticipating individuals who may be present during operations. Once the data has been
+collected, the file will be trimmed so that it only contains images of the field being monitored. The
+data will be distributed only to the client.
+
+VII. Public Interest and Safety
+
+         The planned UA use will increase ground safety in the precision agriculture industry. The
+enhanced safety and reduced environmental impact achieved using a UA with the specifications
+described by the petitioner and carrying no passengers or crew, rather than a manned aircraft of
+significantly greater proportions, carrying crew in addition to flammable fuel, gives the FAA good
+cause to find that the UA operation enabled by this exemption is in the public interest.
+
+         Satisfaction of the criteria provided in Section 333 of the Reform Act of 2012 ­ size,
+weight, speed, operating capabilities, proximity to airports and populated areas and operation
+within visual line of sight and national security ­ provide more than adequate justification for the
+grant of the requested exemption allowing commercial operation of applicant's UA for precision
+agriculture operations, pursuant to petitioner's rules of operation.
+
+         Use of UA technology to assist in precision agriculture is a benefit not only to farmers, but
+to the public as a whole, and to the environment. Farmers will have greater crop analytical tools at
+their disposal for managing crops, leading to decreased use of resources. This will result in both
+reduction of cost and increase in quality ­ benefits that will be passed on to the public.
+Additionally, using less water and chemicals during commercial farming operations will reduce
+the impact that the operation has on the environment.
+
+         As Jeff Vanderwerff testified on behalf of the American Farm Bureau Federation before
+members of the Senate Committee on Commerce, Science, & Transportation on March 24, 2015:
+
+         [The benefit of UA comes from] their ability to provide detailed scouting
+         information on weed emergence, insect infestations and potential nutrient
+         shortages. This valuable information allows the farmer to catch these threats before
+         they develop into significant and catastrophic problems. By addressing threats
+         quickly, the farmer has a greater likelihood of being able to respond appropriately
+         so as to optimize yields.
+
+         The imagery from UAS also allows the farmer to spot-treat sections of the fields as
+         opposed to watering or spraying the entire field. The quicker a farmer can discover
+         a potential threat, the quicker the farmer can address the issue. Images from UAS
+         allow the farmer to identify the specific location where a specific treatment ­ be it
+         fertilizer, water, pesticides, or herbicides is necessary; in doing so, the farmer can
+         eliminate the need to use these applications more broadly across the entire field. By
+         spot-treating threats to the crop, the farmer not only lowers the cost of treatment
+         but also has the potential of lowering the environmental impact by minimizing
+
+                                                         12
+         application." (emphasis added)1
+         The FAA has previously determined that the use of the eBee for precision agriculture will
+provide an equivalent or greater level of safety than manned flight in Exemption No. 11170.
+         Additionally, the FAA has previously approved a variety of other UAs for commercial
+precision farming and agriculture applications in Exemption Nos.:
+         11110 (precision aerial surveys);
+         11136 (photogrammetry and crop scouting in order to perform precision agriculture);
+         11166 (agriculture analysis and high resolution aerial imagery);
+         11167 (high-resolution aerial imagery in support of, biomass analysis and estimation, yield
+         monitoring, leaf area indexing and reporting of geographical data and overall crop health
+         to a domestic agricultural seed company);
+         11177 (commercial precision agriculture surveys);
+         11192 (aerial photography and 3D mapping for the agriculture industry);
+         11193 (precision photogrammetry and crop scouting for precision agriculture);
+         11195 (aerial photography for agriculture);
+         11222 (collect high quality, actionable data for use by agronomists, crop consultants, and
+         forestry professionals);
+         11223 (precision agriculture survey and inspection operations);
+         11226 (precision aerial surveys);
+         11228 (aerial acquisition and research in support of the agriculture industry); and
+         11229 ((aerial acquisition and research in support of the agriculture industry).
+
+1 Unmanned Aircraft Systems: Key Considerations Regarding Safety, Innovation, Economic
+Impact, and Privacy Before the S. Comm. On Commerce, Science, & Transportation, 114th
+Cong. 1 (2015) (written statement of Jeff Vanderwerff on behalf of the American Farm Bureau
+Federation).
+
+                                                         13
+VIII. Regulations from Which Exemption is Requested
+
+         Each of the Regulations LET wishes an exemption from has previously been addressed by
+the FAA. Appendix A lists the FARs the FAA has specifically spoken on.
+
+A. Appendix A: FARs as to which LET wishes the same determination to be made as has
+         been made previously.
+
+FAR        Applicable condition(s) in      FAA Exemption Decision
+Provision  Section 5 of petition
+21(h)      1, 2, 3, 5, 16, 25, 28, 29,     Nos. 11062, 11063, 11064, 11065, 11066, 11067,
+           34, 35                          11080, 11109, 11111, 11110, 11114, 11136, 11138,
+43.7                                       11150, 11153, 11156, 11157, 11166, 11167, 11170,
+           13, 14                          11171, 11172, 11174, 11176, 11177, 11178, 11184,
+                                           11185, 11188, 11189, 11191, 11192, 11193, 11195
+                                           No. 11208
+
+43.11      12                              No. 11208
+45.11      30
+45.27      39                              No. 11208
+45.29      30
+91.7(a)    12                              No. 11188
+
+91.9(b)(2) 22                              Nos. 11136, 11157, 11170, 11185, 11193
+
+91.9(c)    30                              Nos. 11062, 11063, 11064, 11065, 11066, 11067,
+                                           11080, 11109, 11110, 11136, 11138, 11150, 11153,
+91.103(b)(2) 3, 9, 16, 17, 18, 19, 20, 28  11156, 11157, 11158, 11160, 11161, 11166, 11167,
+                                           11170, 11171, 11172, 11174, 11177, 11178, 11184,
+91.105     6                               11185, 11188, 11189, 11191, 11192, 11193, 11195,
+91.109     7, 8                            11204
+                                           Nos. 11062, 11063, 11064, 11065, 11066, 11067,
+                                           11080, 11109, 11110, 11111, 11112, 11114, 11136,
+                                           11138, 11150, 11153, 11156, 11157, 11062, 11063,
+                                           11064, 11065, 11066, 11067, 11080, 11109, 11110,
+                                           11111, 11112, 11114, 11136, 11138, 11150, 11153,
+                                           11156, 11157, 11174, 11177, 11178, 11184, 11185,
+                                           11189, 11192, 11193, 11195
+                                           Nos. 11136, 11170, 11171, 11174, 11185
+
+                                           No. 11062, 11063, 11064, 11065, 11066, 11067,
+                                           11080, 11109, 11138, 11150, 11153, 11156, 11158,
+                                           11160, 11161, 11166, 11167, 11171, 11172, 11176,
+                                           11177, 11178, 11184, 11185, 11188, 11188, 11189,
+                                           11191, 11192, 11193, 11195, 11204
+                                           No. 11185
+
+                                           Nos. 11062, 11063, 11064, 11065, 11066, 11067,
+                                           11080, 11109, 11110, 11112, 11136, 11138, 11150,
+                                           11153, 11156, 11157, 11166, 11167, 11170, 11171,
+                                           11174, 11177, 11184, 11185, 11189, 11191, 11192,
+                                           11193, 11194, 11195, 11206, 11208
+
+                                           14
+91.113(b)   3, 32        No. 11238
+91.119(c )  4, 34        Nos. 11162, 11163, 11164, 11165, 11166, 111080,
+                         111109, 11110, 11111, 11112, 11114, 11136,
+91.121      4            11138, 11150, 11153, 11156, 11160 11161, 11166,
+                         11167, 11170, 11171, 11172, 11174, 11176, 11178,
+91.151(a) 17, 18         11185, 11188, 11189, 11190, 11193
+
+91.203 (a)  22           Nos. 11162, 11163, 11164, 11165, 11166, 111080,
+and (b)                  111109, 11136, 11138, 11150, 11153, 11156, 11160
+                         11161, 11166, 11167, 11170, 11171, 11174, 11176,
+91.215      26, 27       11178, 11185, 11188, 11189, 11190, 11193
+                         Nos. 11110, 11153, 11156, 11161; 111109, 11110,
+91.403      12, 13, 14   11112, 11136, 11138, 11150, 11153, 11156, 11160
+91.405(a)   12, 13, 14   11161, 11166, 11167, 11170, 11171, 11172, 11174,
+                         11176, 11178, 11185, 11188, 11189, 11190, 11193
+91.407(a)(1) 14          Nos. 11062, 11063, 11064, 11065, 11066,
+                         11067, 11080, 11109, 11110, 11111, 11112,
+91.409(a)(1) 12, 13, 14  11114, 11136, 11138, 11150, 11153, 11156,
+                         11157, 11170, 11171, 11172, 11174, 11176,
+                         11177, 11178, 11184, 11185, 11188, 11188,
+                         11189, 11191, 11192, 11193, 11195
+                         No. 11185, 11195
+                         No. 11185
+                         Nos. 11062, 11063, 11064, 11065, 11066,
+                         11067, 11080, 11109, 11110, 11111, 11112,
+                         11114, 11136, 11138, 11150, 11153, 11156,
+                         11157, 11158, 11160, 11161, 11166, 11167,
+                         11170, 11171, 11172, 11174, 11176, 11177,
+                         11178, 11184, 11185, 11188, 11188, 11189,
+                         11191, 11192, 11193, 11195, 11204
+                         Nos. 11062, 11063, 11064, 11065, 11066,
+                         11067, 11080, 11109, 11110, 11111, 11112,
+                         11114, 11136, 11138, 11150, 11153, 11156,
+                         11157, 11158, 11160, 11161, 11166, 11167,
+                         11170, 11171, 11172, 11174, 11176, 11177,
+                         11178, 11184, 11185, 11188, 11188, 11189,
+                         11191, 11192, 11193, 11195, 11204
+                         Nos. 11062, 11063, 11064, 11065, 11066,
+                         11067, 11080, 11109, 11110, 11111, 11112,
+                         11114, 11136, 11138, 11150, 11153, 11156,
+                         11157, 11158, 11160, 11161, 11166, 11167,
+                         11170, 11171, 11172, 11174, 11176, 11177,
+                         11178, 11184, 11185, 11188, 11188, 11189,
+                         11191, 11192, 11193, 11195, 11204
+
+                         15
+91.409(a)(2) 12, 13, 14  Nos. 11062, 11063, 11064, 11065, 11066,
+91.417(a) 12, 13, 14     11067, 11080, 11109, 11110, 11111, 11112,
+91.417(b) 12, 13, 14     11114, 11136, 11138, 11150, 11153, 11156,
+                         11157, 11158, 11160, 11161, 11166, 11167,
+                         11170, 11171, 11172, 11174, 11176, 11177,
+                         11178, 11184, 11185, 11188, 11188, 11189,
+                         11191, 11192, 11193, 11195, 11204
+                         Nos. 11062, 11063, 11064, 11065, 11066,
+                         11067, 11080, 11109, 11110, 11111, 11112,
+                         11114, 11136, 11138, 11150, 11153, 11156,
+                         11157, 11158, 11160, 11161, 11166, 11167,
+                         11170, 11171, 11172, 11174, 11176, 11177,
+                         11178, 11184, 11185, 11188, 11188, 11189,
+                         11191, 11192, 11193, 11195, 11204
+                         Nos. 11062, 11063, 11064, 11065, 11066,
+                         11067, 11080, 11109, 11110, 11111, 11112,
+                         11114, 11136, 11138, 11150, 11153, 11156,
+                         11157, 11158, 11160, 11161, 11166, 11167,
+                         11170, 11171, 11172, 11174, 11176, 11177,
+                         11178, 11184, 11185, 11188, 11188, 11189,
+                         11191, 11192, 11193, 11195, 11204
+
+                         16
+

@@ -1,0 +1,951 @@
+July 28, 2015
+
+                                                           Exemption No. 12183
+                                                           Regulatory Docket No. FAA­2015­1770
+
+Mr. Gant Elmore
+Vice President
+Firmatek, L.L.C.
+9360 Corporate Drive, Suite 103
+Selma, TX 78154
+
+Dear Mr. Elmore:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter dated May 5, 2015, you petitioned the Federal Aviation Administration (FAA) on
+behalf of Firmatek, L.L.C. (hereinafter petitioner or operator) for an exemption. The
+petitioner requested to operate an unmanned aircraft system (UAS) to conduct aerial surveys
+and inspections.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner is an Aibotix X6.
+
+In accordance with the statutory criteria provided in Section 333 of Public Law 112-95 in
+reference to 49 U.S.C. § 44704, and in consideration of the size, weight, speed, and limited
+operating area associated with the aircraft and its operation, the Secretary of Transportation
+                                                                                                                 2
+
+has determined that this aircraft meets the conditions of Section 333. Therefore, the FAA
+finds that relief from 14 CFR part 21, Certification procedures for products and parts,
+Subpart H--Airworthiness Certificates, and any associated noise certification and testing
+requirements of part 36, is not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection1. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+ They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+ The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+ A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, Firmatek, L.L.C. is granted an exemption from 14 CFR
+§§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a), 91.7(a), 91.119(c), 91.121,
+91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a) and (b), to the
+extent necessary to allow the petitioner to operate a UAS to perform aerial data collection.
+This exemption is subject to the conditions and limitations listed below.
+
+Conditions and Limitations
+
+In this grant of exemption, Firmatek, L.L.C. is hereafter referred to as the operator.
+
+1 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                                                 3
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+    1. Operations authorized by this grant of exemption are limited to the Aibotix X6 when
+         weighing less than 55 pounds including payload. Proposed operations of any other
+         aircraft will require a new petition or a petition to amend this exemption.
+
+    2. Operations for the purpose of closed-set motion picture and television filming are
+         not permitted.
+
+    3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+         exemption holder may use either groundspeed or calibrated airspeed to determine
+         compliance with the 87 knot speed restriction. In no case will the UA be operated at
+         airspeeds greater than the maximum UA operating airspeed recommended by the
+         aircraft manufacturer.
+
+    4. The UA must be operated at an altitude of no more than 400 feet above ground level
+         (AGL). Altitude must be reported in feet AGL.
+
+    5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+         This requires the PIC to be able to use human vision unaided by any device other than
+         corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+         U.S. driver's license.
+
+    6. All operations must utilize a visual observer (VO). The UA must be operated within
+         the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+         to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+         capability. The VO and PIC must be able to communicate verbally at all times;
+         electronic messaging or texting is not permitted during flight operations. The PIC
+         must be designated before the flight and cannot transfer his or her designation for the
+         duration of the flight. The PIC must ensure that the VO can perform the duties
+         required of the VO.
+
+    7. This exemption and all documents needed to operate the UAS and conduct its
+         operations in accordance with the conditions and limitations stated in this grant of
+         exemption, are hereinafter referred to as the operating documents. The operating
+         documents must be accessible during UAS operations and made available to the
+         Administrator upon request. If a discrepancy exists between the conditions and
+         limitations in this exemption and the procedures outlined in the operating documents,
+         the conditions and limitations herein take precedence and must be followed.
+         Otherwise, the operator must follow the procedures as outlined in its operating
+         documents. The operator may update or revise its operating documents. It is the
+         operator's responsibility to track such revisions and present updated and revised
+                                                                                                            4
+
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+                                                                                                            5
+
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+    exemption holder may apply for a new or amended COA if it intends to conduct
+    operations that cannot be conducted under the terms of the attached COA.
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+    be as large as practicable.
+                                                                                                               6
+
+   23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+       any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+       PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+       These documents must be made available to the Administrator or any law enforcement
+       official upon request.
+
+   24. The UA must remain clear and give way to all manned aviation operations and
+       activities at all times.
+
+   25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+   26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+       persons, vessels, vehicles, and structures unless:
+          a. Barriers or structures are present that sufficiently protect nonparticipating persons
+             from the UA and/or debris in the event of an accident. The operator must ensure
+             that nonparticipating persons remain under such protection. If a situation arises
+             where nonparticipating persons leave such protection and are within 500 feet of
+             the UA, flight operations must cease immediately in a manner ensuring the safety
+             of nonparticipating persons; and
+          b. The owner/controller of any vessels, vehicles or structures has granted permission
+             for operating closer to those objects and the PIC has made a safety assessment of
+             the risk of operating closer to those objects and determined that it does not
+             present an undue hazard.
+
+       The PIC, VO, operator trainees or essential persons are not considered
+       nonparticipating persons under this exemption.
+
+   27. All operations shall be conducted over private or controlled-access property with
+       permission from the property owner/controller or authorized representative.
+       Permission from property owner/controller or authorized representative will be
+       obtained for each flight to be conducted.
+
+   28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+       boundaries of the operational area as defined by the applicable COA must be reported
+       to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+       reported to the National Transportation Safety Board (NTSB) per instructions
+       contained on the NTSB Web site: www.ntsb.gov.
+
+If this exemption permits operations for the purpose of closed-set motion picture and
+television filming and production, the following additional conditions and limitations apply.
+
+   29. The operator must have a motion picture and television operations manual (MPTOM)
+       as documented in this grant of exemption.
+                                                                                                                 7
+
+    30. At least 3 days before aerial filming, the operator of the UAS affected by this
+         exemption must submit a written Plan of Activities to the local Flight Standards
+         District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+         notification may be waived with the concurrence of the FSDO. The plan of activities
+         must include at least the following:
+           a. Dates and times for all flights;
+           b. Name and phone number of the operator for the UAS aerial filming conducted
+              under this grant of exemption;
+           c. Name and phone number of the person responsible for the on-scene operation of
+              the UAS;
+           d. Make, model, and serial or N-Number of UAS to be used;
+           e. Name and certificate number of UAS PICs involved in the aerial filming;
+           f. A statement that the operator has obtained permission from property owners
+              and/or local officials to conduct the filming production event; the list of those
+              who gave permission must be made available to the inspector upon request;
+           g. Signature of exemption holder or representative; and
+           h. A description of the flight activity, including maps or diagrams of any area, city,
+              town, county, and/or state over which filming will be conducted and the altitudes
+              essential to accomplish the operation.
+
+    31. Flight operations may be conducted closer than 500 feet from participating persons
+         consenting to be involved and necessary for the filming production, as specified in the
+         exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                    8
+
+This exemption terminates on July 31, 2017, unless sooner superseded or rescinded.
+
+Sincerely,
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+Submitted electronically
+
+May 5, 2015
+
+U.S. Department of Transportation
+Docket Management System
+1200 New Jersey Avenue SE
+Washington, DC 20590
+
+RE: Petition for Exemption from Certain Federal Air Regulations according to
+       Section 333 of the FAA Reform Act of 2012
+
+Dear Sir or Madam:
+
+Firmatek, L.L.C. (Firmatek) is applying for an exemption from regulations detailed
+below in order to conduct commerical aerial surveys and inspections with a small,
+unmanned aircraft system, thereby delivering accurate metric data to clients operating
+surface mines and mineral quarries while at the same time, improving safety levels for
+those companies.
+
+BACKGROUND
+
+The United States Geological Survey (USGS) estimates that the value of minerals
+mined in the United States during 2014 was more than 77.6 billion dollars. In
+addition, the USGS also reports that 57% of the mining done was within ten States.
+The majority of mineral extraction operations done in these States was surface
+mining.
+
+Stockpile accidents at surface mine locations, fatal and non-fatal, are prevalent within
+the mining industry. Survey exposes mine personnel to risks of fall, slide, and
+encounter with heavy equipment. Spending less time on or near the stockpile can
+mitigate these risks. In these hazardous environments, we believe that the use of a
+small unmanned aircraft offers a fast and safe alternative to human measurement and
+inspection. Acreage for survey has already been permitted for the use of explosives
+and is sited away from population, roadways, airports, and low-flying aircraft. Access
+to the sites is strictly controlled by safety protocols. These protocols are enforced by
+the Mine Safety and Health Administration (MSHA) and state agencies.
+
+Stockpile survey techniques are of three general types:
+
+                                                                                                                                    1
+   1. Total stations and GPS with prism and reflector or reflectorless;
+   2. Terrestrial laser scanners, fixed-position or mobile;
+   3. Aerial photogrammetry by manned aircraft.
+
+There are safety risks to personnel in all three practices. The first technique, total
+stations and GPS, is time-consuming and requires ground survey teams to ascend the
+stockpile with an instrument, accompanied by an experienced quarry employee. The
+second technique, terrestrial laser scanner, involves setting up scanners on the ground
+or transporting them around in the quarry in a vehicle for good measurement angles.
+Measuring from the bottom of the quarry may not give accurate measures, and there
+are many obstacles to view. The following hazards accompany ground survey
+techniques:
+
+    Stockpiles are marginally stable surfaces, may conceal voids, and expose people
+       to falls and slides.
+
+    Moisture and freezing change slope stability and allow it to stand at a steeper
+       angle, then suddenly stress and collapse.
+
+    Exposure to injury is not limited to standing on the top: loading out by heavy
+       equipment at the bottom or face can create slides and collapse of overhangs,
+       and interaction with heavy vehicles is a hazard.
+
+    The top of piles and terraces or benches cannot be accurately surveyed unless
+       measured from above as well as from lateral angles.
+
+Because of these factors, ground access to stockpiles and equipment is hazardous and
+is regulated by the United States Department of Labor's Mining and Health
+Administration (MHSA). In addition to the MHSA, there are 30 States that have
+regulatory agencies monitoring the mining industry.
+
+The third technique, aerial survey by manned aircraft, allows a top view but oblique
+angle viewing is challenging. Descent into the quarry is not an option. Many survey
+targets are 500 or more feet below nearby ground level.
+
+Quarries and surface mines are segregated from populated areas and further separated
+by no-trespass buffer zones. Safety practices onsite are intensely monitored by
+supervisory personnel and by MSHA inspectors and the state in which they are
+located. Property perimeters are strictly controlled due to danger, including frequent
+explosive use. Sometimes more than a million pounds of non commercial materials
+
+                                                                                                                                    2
+per year per site are necessary to move to reach material production of more than two
+million tons. Aircraft overflying surface quarries are vulnerable to flyrock and
+shockwaves.
+
+With appropriate planning, surface mines offer a sterile environment in which to
+operate a small unmanned aircraft: personnel and equipment onsite are under
+supervision and visual line of sight (VLOS) flight operations fit well within
+boundaries. Using a small electric aircraft lets the pilot and survey crew work at a safer
+standoff from danger, and accomplish tasks in less time than other ground-based
+techniques. The risks of manned aircraft flight for survey are avoided, and the use of
+the NAS is consistent with the safety of other users.
+
+DESCRIPTION OF PETITIONER
+
+Firmatek, L.L.C. offers laser profiling and laser stockpile measurement services to the
+surface mining industry. Firmatek is the premiere supplier of 3D mapping services for
+all industries that deal with the measurement and movement of earth. Firmatek effort
+to brings to clients same-day results, setting the standard for the industry.
+
+NAME OF PETITIONER
+
+Gant Elmore, Vice President
+Firmatek, LLC
+9360 Corporate Dr., Suite 103
+Selma, TX 78154
+Telephone: (210) 651-4990
+
+AGENT FOR PETITIONER
+
+For technical and administrative questions on this petition, please contact:
+
+Mr. Brian Dyer
+Remote Pilot Systems LLC
+Telephone: (484) 680-7310
+Email: brian.dyer@remotepilotsystems.com
+
+                                                                                                                                    3
+DESCRIPTION OF UNMANNED AIRCRAFT SYSTEM
+
+Firmatek Instrument wishes to fly the Aibotix X6, an electric multirotor, as its survey
+aircraft. Aibotix in Germany has delivered more than 200 aircraft since 2011. The
+flight control system used with the aircraft is designed and manufactured in Germany,
+has undergone continuous improvement and development since 2008, and several
+thousand units have been delivered for industrial use. If the radio control link is lost,
+emergency failsafe is designed to prevent flyaway and perform a controlled descent or,
+if GPS signal is sufficient, return to the takeoff point. The flight control system can
+fly pre-programmed waypoints yet respond immediately to pilot stick overrides in
+case of route adjustment or emergency. Its radio control system incorporates
+telemetry which is displayed on the pilot's handheld controller and may be announced
+by voice. The X6 aircraft is optimized for aerial survey and incorporates safety
+features to reduce pilot workload. The aircraft is less than four feet in diameter, made
+of carbon-fiber reinforced polymer in high-visibility green, with protective blade
+guards surrounding six rotors, and is designed for a maximum takeoff weight of 13
+pounds and flight time of about thirty minutes with its dual battery power. The
+aircraft carries no flammable liquid fuel.
+
+RF SPECTRUM
+
+Radio control and video transmission systems meet FCC requirements for operation
+in the unlicensed spectrum of the 2.4 and 5.8 Ghz ranges. Manufacturer warnings
+about interference from devices operating at or near these frequencies or their
+harmonics are documented in the Firmatek Flight Operations Manual (FFOM), along
+with procedures to ensure radio safety with the SUAS.
+
+EXTENT OF RELIEF SOUGHT AND WHY
+
+Petitioner asks for relief from regulations tabled below, which the authority of the
+FAA has previously granted in exemption certificates number 11062 along with six
+others described as "in commonality", and in number 11109, which are for use of
+electric rotorcraft. Firmatek's Flight Operation Manual (FFOM) incorporates the
+conditions and limitations of these grants of exemption, and in some cases imposes
+stricter limits on its own operations. Advisors to Firmatek have consulted with
+management of the federal MSHA in the development of its safety procedures for use
+in regulated surface mines.
+
+                                                                                                                                    4
+CFR CODE CITATIONS
+
+14 CFR         SUMMARY OF              REASON FOR                      EQUIVALENT LEVEL OF
+PART            REGULATION
+61.113 (a)  Private pilot privileges   EXEMPTION REQUEST               SAFETY
+            and limitations: Pilot in
+61.113 (b)  command.                   Holder of private pilot         Characteristics of aircraft,
+
+            Private pilot privileges   certificate may not act as pilot VLOS, class G airspace, under
+            and limitations: Pilot in
+            command.                   in command for compensation 400 ft AGL, trained visual
+
+                                       or hire. Flying for             observer in radio
+
+                                       compensation on engineering communication with pilot;
+
+                                       survey missions is central to remote site, quarry industry
+
+                                       purpose of exemption request. safety protocols enhanced by
+
+                                                                       Firmatek's flight safety plan;
+
+                                                                       PIC with minimum of sport
+
+                                                                       pilot certificate, currency in the
+
+                                                                       aircraft listed on the certificate,
+
+                                                                       3rd class medical or valid U.S.
+
+                                                                       driver's license, pilot training,
+
+                                                                       testing, proficiency with similar
+
+                                                                       and same model UA; and
+
+                                                                       inspection/maintenance are
+
+                                                                       defined in the Firmatek Flight
+
+                                                                       Operations Manual (FFOM)
+
+                                                                       and will ensure equivalent
+
+                                                                       levels of safety if not more.
+
+                                       Holder of private pilot         There is no passenger or pilot
+
+                                       certificate may act as pilot in on board the SUAV, thus
+                                       command for compensation or safety issues are different than
+                                       hire if flight is incidental to a manned flight. Firmatek's
+                                       business or employment and aircraft has programmable
+                                       does not carry passengers for
+                                                                       automated safety features and
+                                       compensation or hire. Flying    emergency responses, has pre-
+                                       for compensation on             flight checks for safety beyond
+                                       engineering survey missions is  commercial manned aircraft,
+                                       central to purpose of           can be geographically restricted
+                                                                       by operator with
+                                       exemption request, not          programmable control points,
+                                       incidental to business or       has communications with the
+                                       employment.
+
+                                                                       PIC regarding fuel loss and
+
+                                                                       other flight hazards. PIC will
+
+                                                                       have ground school training
+
+                                                                       certificate and additional 25
+
+                                                                       hours logged flight time and 25
+
+                                                                       hours classroom and field
+
+                                                                       instruction as stated in FFOM.
+
+                                                                                                            5
+14 CFR      SUMMARY OF          REASON FOR EXEMPTION EQUIVALENT LEVEL OF
+PART
+91.119 (c)  REGULATION                       REQUEST                  SAFETY
+
+91.121      Minimum safe altitudes Operating closer than 500 feet to a People will not be allowed
+
+            over other than     person, vehicle, or structure may be over, under or within 500 feet
+
+            congested area      necessary for survey and equipment laterally of the aircraft in flight.
+
+                                inspection.                    Some flights may require the
+
+                                                               participation or guidance of
+
+                                                               quarry personnel, positioned as
+
+                                                               close as 200 feet. Firmatek will
+
+                                                               brief them on safety and obtain
+
+                                                               necessary consent. Quarry site
+
+                                                               safety rules require wearing
+
+                                                               protective helmets, clothing
+
+                                                               and footwear. Vehicles are
+
+                                                               hardened against impact with
+
+                                                               rock and other quarry material.
+
+                                                               Reinforced structures contain
+
+                                                               conveyors to be inspected and
+
+                                                               a safety case is planned in the
+
+                                                               FFOM.
+
+            Altimeter settings  Procedures to set and confirm  An onboard air pressure sensor
+
+                                altitude do not provide for operation and software resolve height
+
+                                of remote telemetry to SUAS pilot. differences as small as one
+
+                                                               centimeter. Altitude is
+
+                                                               controlled by measuring air
+
+                                                               pressure and the z--axis
+
+                                                               accelerometer/GPS values.
+
+                                                               The starting point is a relative
+
+                                                               height measurement calculated
+
+                                                               by the flight controller.
+
+                                                               Altitude above ground is
+
+                                                               displayed on the pilot's
+
+                                                               handheld controller by
+
+                                                               telemetry, and alarms can
+
+                                                               signal conditions of interest.
+
+                                                               400 feet AGL is the maximum
+
+                                                               permissible in the FFOM,
+
+                                                               which describes altimeter
+
+                                                               procedures.
+
+                                                                                                     6
+14 CFR         SUMMARY OF          REASON FOR EXEMPTION EQUIVALENT LEVEL OF
+PART            REGULATION
+91.151 (b)  Fuel requirements for  REQUEST                                     SAFETY
+            flight in VFR
+91.405 (a)  conditions.            Rotorcraft under VFR must carry Battery voltage under load is
+91.405 (b)
+            Maintenance required.  enough fuel to reach first landing displayed on the pilot's
+                                                                          handheld controller during
+            Maintenance records.   point and then another 20 minutes.     flight. The X6 uses 2 lithium
+                                   The X6 multirotor is designed to fly   polymer batteries of a multi--
+                                   for a maximum of 30 minutes with
+                                   its 2 batteries.                       cell design, connected in
+                                                                          parallel for redundancy and
+
+                                                                          optimal current delivery.
+
+                                                                          Battery chemistry does not
+
+                                                                          support adequate current
+
+                                                                          discharge below about 3 v per
+
+                                                                          cell. Circuitry in the onboard
+
+                                                                          flight controller measures
+
+                                                                          voltage and will start a failsafe
+
+                                                                          procedure to land before
+
+                                                                          summed minimums are
+
+                                                                          reached. In the event that one
+
+                                                                          or more cells fail, these
+
+                                                                          minimums may be reached
+
+                                                                          sooner than expected, due to
+
+                                                                          rapid current drain against a
+
+                                                                          smaller number of functioning
+
+                                                                          cells. Firmatek pilots are trained
+
+                                                                          to monitor voltage and
+
+                                                                          recognize abnormal discharge
+
+                                                                          in flight and to land sooner
+
+                                                                          than forced. If 20 minutes of
+
+                                                                          flighttime or 25% of reserve
+
+                                                                          voltage under load is reached,
+
+                                                                          pilot must commence landing.
+
+                                   Required inspections and               Firmatek will document
+
+                                   discrepancies repaired between         maintenance, overhaul,
+
+                                   required inspections pertains to       replacement and inspection
+
+                                   certificated manned aircraft and       requirements in the absence of
+
+                                   procedures conducted by licensed manufacturer's requirements;
+                                   maintenance personnel. In the
+                                   absence of certification requirements  will document and maintain
+                                   for SUAS and SUAS maintenance          maintenance records and
+                                   personnel, reasonable alternatives     technician qualification criteria
+                                   must be developed to maintain          in the FFOM.
+
+                                   equivalent levels of safety.
+
+                                   Qualifications for maintenance         Qualifications, competence and
+
+                                   personnel for SUAS were not            testing for maintenance
+
+                                   contemplated by these regulations, personnel are defined in the
+
+                                   and a reasonable alternative must be FFOM.
+
+                                   developed to maintain equivalent
+
+                                   levels of safety.
+
+                                                                                                             7
+14 CFR      SUMMARY OF       REASON FOR EXEMPTION EQUIVALENT LEVEL OF
+PART
+91.407 (a)  REGULATION                    REQUEST                             SAFETY
+(1)
+            Operation after  There is no authorization procedure Procedures for the PIC to test
+91.409 (a)
+(1)         maintenance, preventive for a person who can approve a     then approve a return to
+
+91.409 (a)  maintenance,     return to service of an SUAS, and a service after maintenance are
+(2)
+91.417 (a)  rebuilding, or alteration. reasonable alternative must be  defined in the FFOM.
+
+91.417 (b)                   developed to maintain equivalent
+
+                             levels of safety.
+
+            Inspections.     Annuals conducted by a qualified Schedules for inspection and
+
+                             inspector require authorization           responsibilities of the PIC and
+
+                             criteria for that inspector, not yet      qualified technician are
+                             defined for SUAS. A reasonable            described in the FFOM.
+                             alternative must be developed to
+
+                             maintain equivalent levels of safety.
+
+            Inspections.     Issuance of airworthiness certificates Airworthiness is the
+
+                             for SUAS under 55 pounds operated responsibility of the PIC and
+
+                             VLOS is not contemplated by these the technician as defined in the
+
+                             regulations                               FFOM.
+
+            Maintenance records. Regulations do not contemplate        The operator will maintain
+
+                             requirements or approval processes records according to the
+
+                             for maintenance and inspection of procedures specified in the
+
+                             uncertificated SUAS, however a            FFOM.
+
+                             reasonable alternative must be
+
+                             developed to maintain equivalent
+
+                             levels of safety.
+
+            Maintenance records. Retaining and transferring records of Records and documentation
+
+                             maintenance and defects according will be kept for all maintenance
+                             to standards prescribed for
+                                                                       performed, defects, and for all
+                             authorized maintenance and
+                                                                       components specified in the
+                             inspection is not contemplated in the FFOM.
+                             regulations for SUAS. A reasonable
+
+                             alternative is necessary to maintain
+
+                             equivalent levels of safety.
+
+PILOT IN COMMAND AND CREW
+
+The Pilot In Command (PIC) must hold a transport, commercial, private, recreational,
+or sport pilot certificate, and be in compliance with the training and testing specified
+in the FFOM. The PIC must also hold a current FAA airman medical certificate or a
+valid U.S. driver's license issued by a state, the District of Colombia, Puerto Rico, a
+territory, a possession, or the Federal government. The PIC must be in compliance
+with the training and testing specified in the operator's manual. He must remain in
+radio communication with a visual observer who is in compliance with the training
+and testing specified in the operator's manual. The pilot must be able to acquire the
+aircraft with his own vision according to eye standards for a thirdclass airman medical
+
+                                                                                                        8
+certificate. He must operate within visual visual line of sight only, and be able to see
+the attitude and orientation of the aircraft himself. If GPS or magnetometer is
+compromised, certain safety features may not operate, and the pilot must understand
+by his training and experience how to recover control.
+
+OPERATION OF THE UNMANNED AIRCRAFT
+
+The aircraft will be under the operational control of the petitioner.
+
+   1. The aircraft used for survey operations by Firmatek will be only the Aibotix
+         X6 as described in the Firmatek Flight Operations Manual (FFOM), unless
+         the FAA approves an amendment to this petition.
+
+   2. The PIC will hold a transport, commercial, private, recreational, or sport
+         pilot certificate, a third-class medical certificate or or a valid U.S. driver's
+         license issued by a state, the District of Colombia, Puerto Rico, a territory, a
+         possession, or the Federal government , and must meet flight review
+         requirements in an aircraft in which the PIC is rated, according to 14 CFR §
+         61.56.
+
+   3. Firmatek pilots will operate at least three (3) nautical miles outside populated
+         areas, at less than 400 feet AGL, in class G airspace, in daylight hours only
+         and within visual line of sight of the PIC, five (5) nautical miles or more
+         away from airports as denoted on current FAA-published charts, and use a
+         FFOM-qualified visual observer in radio communication with the PIC.
+
+   4. Manufacturer's limitations of the aircraft will not be exceeded, and
+         Firmatek's operations will adhere to power reserves and lower operational
+         limits described in the FFOM.
+
+   5. Preflight inspection by the PIC, and inspection and maintenance procedures
+         will be followed according to the FFOM, and will be properly documented
+         and signed for by an authorized technician who has completed training
+         specified in the FFOM.
+
+   6. Test flights by the PIC in connection with maintenance requirements will be
+         documented.
+
+   7. Manufacturer systems and safety bulletins will be followed, and flight critical
+         components will be monitored and replaced when specified in the FFOM.
+
+   8. Discrepancies discovered between inspections will be documented by
+         Firmatek maintenance personnel.
+
+                                                                                                                                    9
+9. If visibility is less than three (3) statute miles from the PIC, the aircraft may
+     not be operated less than 500 feet below a cloud, or less than 2000 feet
+     horizontally from a cloud.
+
+10. The PIC must follow emergency procedures as described in the FFOM in
+     event of lost link, degraded navigation signals, or appearance of
+     unauthorized persons within the secure flight perimeter.
+
+11. A commercial Certificate of Authorization will be obtained by FAA's
+     designated procedure before any operations are conducted, and Notices to
+     Airmen will be filed in accordance with FAA requirements.
+
+12. An N-Number will be obtained for all aircraft operated.
+13. RF spectrum will be used in compliance with FCC requirements.
+14. Documents required by 14 CFR 91.9 and 91.203 will be available to the PIC
+
+     at the point of flight and control, and will be produced upon request by any
+     authority.
+15. The aircraft will remain clear of and yield right of way to all manned aviation
+     operations and activities at all times.
+16. The PIC will operate the aircraft from a stationary ground position and not
+     from any moving device or vehicle.
+17. No operations over congested or densely populated areas is allowed, whether
+     or not these areas are depicted on aeronautical charts.
+18. The safety of people and property is paramount, and no operations may be
+     conducted within 500 feet of non-participants or their property unless
+     conducted according to safety procedures in the FFOM which are approved
+     by the FAA.
+19. All operations will be conducted over controlled-access property, that is,
+     mineral quarries and other properties where the movement of large tonnage
+     of earth is done, for which permission has been obtained prior to flight, and
+     for which safety briefings have been completed according to the FFOM.
+20. All incidents, accidents, and transgressions of allowed flight boundaries will
+
+     be reported as required by FAA and NTSB.
+
+BENEFIT TO THE PUBLIC
+
+The proposed exemption will allow the operator to:
+     mitigate the safety risks for clients who must conduct regular surveys of
+        hazardous stockpiles of minerals and/or track the displacement of earth
+        tonnage,
+     will reduce the risk of climb and fall during equipment inspection,
+
+                                                                                      10
+     will help quarry operators plan safe use of explosives,
+     will reduce the number of flights of manned aircraft for regular survey thereby
+
+        diminishing the danger of such use, both to those onboard as well as to people
+        and property under the flight path, and
+     will reduce the environmental impact of fossil fuel use in aircraft.
+
+A better compliance model is possible for MSHA regulations on coal and noncoal
+surge and storage pile hazards including entrapment (30 CFR 77.209, 56.9312, and
+citations in the FFOM). The SUAS operation offers safer alternatives to stockpile
+inspection than the manner in which it is currently being done. By staying off the pile
+area and away from reclaiming operations and high conveyor-fed work areas,
+necessary survey and inspection will be performed at lower risk to participants.
+
+REASONS WHY THE EXEMPTION WOULD NOT ADVERSELY AFFECT
+SAFETY
+
+The survey aircraft will be operated in accordance with safety protocols defined in the
+FFOM, for which we request approval by the FAA according to its authority granted
+by Congress in Section 333 of the FAA Modernization and Reform Act of 2012.
+
+The survey aircraft carries no person, cargo, or flammable liquid fuel. Its size and
+weight are a small fraction of any manned aircraft, and its safety systems reflect best
+design practices in the SUAS industry.
+
+People on the ground inside a quarry are required to wear helmets and safety clothing,
+and operators of heavy vehicles allowed access are protected against rock strike by
+safety cabs.
+
+As proposed by Firmatek, SUAS operations enhance safety procedures and help with
+MSHA compliance. When operated by licensed pilots over a rock quarry, an SUAS
+used for survey and inspection will reduce the risk and duration of exposure to risk
+for employees, contractors, nearby communities and manned aviation.
+
+When properly operated by trained pilots, a well-designed SUAS can stay clear of
+people and property on the ground and in the air. Procedures, airmanship skills,
+training and testing requirements for SUAS personnel in the FFOM will let the
+
+                                                                                                                                  11
+operator achieve safety levels in the NAS and on the ground which are equivalent to
+or greater than in manned aviation.
+
+SUMMARY FOR PUBLICATION
+
+The following summary may be published in the Federal Register:
+
+Petitioner requests an exemption from:
+
+14 CFR Parts 61.113 (a) and (b)
+14 CFR Parts 91.119 (c), 91.121, 91.151 (b), 91.405 (a) and (b), 91.407 (a) (1), 91.409
+(a) (1), 91.409 (a) (2), 91.417 (a)
+
+in order to operate a small unmanned aircraft system (SUAS) for purposes of 3D
+modeling of surface mine stockpile volume survey, and blasting plan support. The
+pilot in command will be appropriately qualified with a current private pilot certificate
+and specialized training. Access to surface mine operations is restricted to personnel
+with safety training, safety clothing, and vehicles protected against rock strike. Surface
+mines for survey are located away from populated areas, airports, air traffic, and
+surface traffic.
+
+Electronic ground-based survey techniques expose people to risk of rockfall, slide,
+and falling. The Mine Safety and Health Administration regulates access to surge piles,
+stockpiles, and the highwall face and reclaiming areas of surface mines. Manned
+aircraft for aerial survey introduce other risks, and do not supply low-angle views into
+the canyon of a surface mine, which may be 500 to more than 3500 feet deep.
+
+The survey aircraft, an Aibotix X6, is an electric multirotor weighing less than 15
+pounds, under 4 feet in diameter, equipped with flight control and safety features to
+prevent flyaway from mine premises and to minimize risk to people and property
+allowed within the zone of operations and outside it.
+
+No flight operations outside the secure areas are allowed, and there are no impacts to
+privacy.
+
+                                                                                                                                  12
+

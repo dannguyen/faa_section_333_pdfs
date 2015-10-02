@@ -1,0 +1,1005 @@
+September 8, 2015
+
+                                                           Exemption No. 12783
+                                                           Regulatory Docket No. FAA­2015­1586
+
+Mr. Paul Guckian
+Vice President, Engineering
+Qualcomm Technologies, Inc.
+5775 Morehouse Drive
+San Diego, CA 92121
+
+Dear Mr. Guckian:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter dated April 30, 2015, you petitioned the Federal Aviation Administration (FAA) on
+behalf of Qualcomm Technologies, Inc. (hereinafter petitioner or operator) for an exemption.
+The petitioner requested to operate an unmanned aircraft system (UAS) to conduct research
+and development.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner is a DJI Flamewheel F450.
+
+The petitioner requested relief from 14 CFR part 21, Certification procedures for products
+and parts, Subpart H--Airworthiness Certificates. In accordance with the statutory criteria
+provided in Section 333 of Public Law 112-95 in reference to 49 U.S.C. § 44704, and in
+                                                                                                                 2
+
+consideration of the size, weight, speed, and limited operating area associated with the
+aircraft and its operation, the Secretary of Transportation has determined that this aircraft
+meets the conditions of Section 333. Therefore, the FAA finds that the requested relief from
+14 CFR part 21, Certification procedures for products and parts, Subpart H--Airworthiness
+Certificates, and any associated noise certification and testing requirements of part 36, is
+not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection1. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+ They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+ The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+ A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, Qualcomm Technologies, Inc. is granted an exemption
+from 14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a), 91.7(a),
+91.119(c), 91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a)
+and (b), to the extent necessary to allow the petitioner to operate a UAS to perform aerial data
+collection. This exemption is subject to the conditions and limitations listed below.
+
+1 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                             3
+
+Conditions and Limitations
+
+In this grant of exemption, Qualcomm Technologies, Inc. is hereafter referred to as
+the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+1. Operations authorized by this grant of exemption are limited to the DJI Flamewheel
+    F450 when weighing less than 55 pounds including payload. Proposed operations of
+    any other aircraft will require a new petition or a petition to amend this exemption.
+
+2. Operations for the purpose of closed-set motion picture and television filming are
+    not permitted.
+
+3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+    exemption holder may use either groundspeed or calibrated airspeed to determine
+    compliance with the 87 knot speed restriction. In no case will the UA be operated at
+    airspeeds greater than the maximum UA operating airspeed recommended by the
+    aircraft manufacturer.
+
+4. The UA must be operated at an altitude of no more than 400 feet above ground level
+    (AGL). Altitude must be reported in feet AGL.
+
+5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+
+    This requires the PIC to be able to use human vision unaided by any device other than
+    corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+    U.S. driver's license.
+
+6. All operations must utilize a visual observer (VO). The UA must be operated within
+    the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+    to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+    capability. The VO and PIC must be able to communicate verbally at all times;
+    electronic messaging or texting is not permitted during flight operations. The PIC
+    must be designated before the flight and cannot transfer his or her designation for the
+    duration of the flight. The PIC must ensure that the VO can perform the duties
+    required of the VO.
+
+7. This exemption and all documents needed to operate the UAS and conduct its
+    operations in accordance with the conditions and limitations stated in this grant of
+    exemption, are hereinafter referred to as the operating documents. The operating
+    documents must be accessible during UAS operations and made available to the
+    Administrator upon request. If a discrepancy exists between the conditions and
+    limitations in this exemption and the procedures outlined in the operating documents,
+                                                                                                            4
+
+    the conditions and limitations herein take precedence and must be followed.
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+                                                                                                            5
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+    exemption holder may apply for a new or amended COA if it intends to conduct
+    operations that cannot be conducted under the terms of the attached COA.
+                                                                                                            6
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+    be as large as practicable.
+
+23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+    any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+    PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+    These documents must be made available to the Administrator or any law enforcement
+    official upon request.
+
+24. The UA must remain clear and give way to all manned aviation operations and
+    activities at all times.
+
+25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless:
+      a. Barriers or structures are present that sufficiently protect nonparticipating persons
+          from the UA and/or debris in the event of an accident. The operator must ensure
+          that nonparticipating persons remain under such protection. If a situation arises
+          where nonparticipating persons leave such protection and are within 500 feet of
+          the UA, flight operations must cease immediately in a manner ensuring the safety
+          of nonparticipating persons; and
+      b. The owner/controller of any vessels, vehicles or structures has granted permission
+          for operating closer to those objects and the PIC has made a safety assessment of
+          the risk of operating closer to those objects and determined that it does not
+          present an undue hazard.
+
+    The PIC, VO, operator trainees or essential persons are not considered
+    nonparticipating persons under this exemption.
+
+27. All operations shall be conducted over private or controlled-access property with
+    permission from the property owner/controller or authorized representative.
+    Permission from property owner/controller or authorized representative will be
+    obtained for each flight to be conducted.
+
+28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+    boundaries of the operational area as defined by the applicable COA must be reported
+    to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+    reported to the National Transportation Safety Board (NTSB) per instructions
+    contained on the NTSB Web site: www.ntsb.gov.
+                                                                                                                 7
+
+ If this exemption permits operations for the purpose of closed-set motion picture and
+ television filming and production, the following additional conditions and limitations apply.
+
+    29. The operator must have a motion picture and television operations manual (MPTOM)
+         as documented in this grant of exemption.
+
+    30. At least 3 days before aerial filming, the operator of the UAS affected by this
+         exemption must submit a written Plan of Activities to the local Flight Standards
+         District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+         notification may be waived with the concurrence of the FSDO. The plan of activities
+         must include at least the following:
+           a. Dates and times for all flights;
+           b. Name and phone number of the operator for the UAS aerial filming conducted
+              under this grant of exemption;
+           c. Name and phone number of the person responsible for the on-scene operation of
+              the UAS;
+           d. Make, model, and serial or N-Number of UAS to be used;
+           e. Name and certificate number of UAS PICs involved in the aerial filming;
+           f. A statement that the operator has obtained permission from property owners
+              and/or local officials to conduct the filming production event; the list of those
+              who gave permission must be made available to the inspector upon request;
+           g. Signature of exemption holder or representative; and
+           h. A description of the flight activity, including maps or diagrams of any area, city,
+              town, county, and/or state over which filming will be conducted and the altitudes
+              essential to accomplish the operation.
+
+    31. Flight operations may be conducted closer than 500 feet from participating persons
+         consenting to be involved and necessary for the filming production, as specified in the
+         exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                                                 8
+This exemption terminates on September 30, 2017, unless sooner superseded or rescinded.
+Sincerely,
+
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+April 30, 2015
+
+U.S. Department of Transportation
+Docket Management System
+1200 New Jersey Ave., SE
+Washington, D.C. 20590
+
+         Re: Exemption Request Pursuant to Section 333 of the FMRA and Part 11 of the
+                  Federal Aviation Regulations, Seeking Exemption from 14 C.F.R. Part 21 Subpart
+                  H; 14 C.F.R. § 21.191(a); 14 C.F.R. § 45.23(b); 14 C.F.R. § 45.27; 14 C.F.R. §§
+                  61.23(a) and (c); 14 C.F.R. §§ 61.101(e)(4) and (5); 61.113(a) and (b); 14 C.F.R.
+                  § 61.315(a); 14 C.F.R. § 91.7(a); 14 C.F.R. § 91.119(c) ; 14 C.F.R. § 91.121; 14
+                  C.F.R. § 91.151(a)(1); 14 C.F.R. § 91.405(a); 14 C.F.R. § 91.407(a)(1); 14 C.F.R.
+                  §§ 91.409(a)(1) and (2); 14 C.F.R. §§ 91.417(a) and (b).
+
+Dear Sir or Madam:
+
+Pursuant to Section 333 of the FAA Modernization and Reform Act of 2012 ("FMRA") and 14
+C.F.R. Part 11, Qualcomm Technologies, Inc. ("Qualcomm" or "Petitioner") hereby applies for
+an exemption from the listed Federal Aviation Regulations ("FARs") and any other necessary
+regulations to allow operation of its small Unmanned Aircraft Systems ("UAS") for research and
+development ("R&D") of technologies to improve UAS functionality, on the condition that
+Qualcomm's wholly experimental operations are conducted pursuant to the detailed parameters
+described herein. Qualcomm requests such authorization to conduct outdoor R&D focusing on
+important issues for the development of UAS, such as flight control algorithms, communications
+links, and particularly the use of terrestrial long-term evolution ("LTE") mobile broadband
+technology for reliable wireless communications to and from UAS. Qualcomm's R&D work
+will enable Qualcomm to validate its algorithms and pursue work to improve UAS
+communications links. The R&D will also explore potential use of terrestrial wireless networks
+to provide UAS command, control and payload capabilities that employ the very best in state-of-
+the-art LTE mobile broadband technology. Through this testing, Qualcomm will gather
+information that helps to advance the FAA's goals of integrating safe, advanced and efficient
+UAS operations into the National Airspace System ("NAS").
+
+Qualcomm, a wholly owned subsidiary of Qualcomm Incorporated ("Qualcomm Inc."), operates
+at the forefront of mobile technology. Over the past several decades, Qualcomm has
+revolutionized mobile technology through its innovations, including originally developing 2G
+and 3G technology based on Code Division Multiple Access ("CDMA") to enable the first forms
+of wireless broadband communications over cellular phones and other devices and creating
+microprocessors that offer mobile users unparalleled speed and efficiency in transmitting data.
+More recently, Qualcomm has been a leader in developing LTE and incorporating this 4G
+technology into its chipsets powering mobile devices here in the U.S. and around the world. The
+enormous growth of the wireless communications industry is based in large part on Qualcomm's
+technological solutions. And now, Qualcomm seeks to bring the innovations that built the
+modern wireless communications industry into the growing UAS sector and help to pioneer the
+future of UAS flight control technology.
+
+                                                          1
+Qualcomm, like the FAA, is "committed to the safe and efficient integration of UAS into the
+NAS" and wants "this emerging technology to safely achieve its full potential."1 And, as the
+more than nine hundred submitted Section 333 exemption petitions have demonstrated, there is a
+rapidly growing demand for UAS services and applications across countless industries, including
+agriculture, public utilities, cinematography, insurance, railroads, and real estate. These
+petitioners want to use UAS to take aerial photographs, make films, inspect infrastructure,
+improve agriculture, create maps, survey land, evaluate insurance claims, and deliver retail
+goods. Most of these same industries also rely heavily on wireless broadband communications,
+including the technologies developed by Qualcomm and incorporated into its chipsets.
+
+Qualcomm can play a pivotal role in realizing the FAA's goals and unlocking the immeasurable
+potential of UAS by implementing new technologies that optimize UAS for functionality,
+efficiency, and safety. The R&D proposed herein will enable Qualcomm, under safe conditions
+that present no harm to aviation or the public, to validate its algorithms and perfect its flight
+control technologies so that it may offer these safe and tested innovations to consumers.
+Qualcomm's goal is to ensure that the UAS industry, using technologies developed by
+Qualcomm Inc., will be able to safely, efficiently, and more quickly address all of the societal
+needs that UAS have the potential to fulfill while maintaining the existing level of safety in the
+NAS.
+
+Beyond the numerous benefits that Qualcomm's technologies will bring to the UAS industry and
+the general public, Qualcomm's own proposed testing has the benefit of being conducted in safe
+and controlled environments. Qualcomm will use testing sites that are outside densely populated
+areas, controlled as to public access, and selected to ensure no risks to members of the general
+public. The testing sites also will not be near conflicting facilities such as airports. The airspace
+used will be limited to Class G airspace and UAS flights will be restricted to no higher than 400
+feet above ground level ("AGL").2
+
+It would not be practical to use one of the established FAA test sites because of their distance
+from Qualcomm's R&D facilities in San Diego, California, and because they do not provide the
+necessary conditions for the types of testing contemplated by Qualcomm. The nearest FAA-
+approved UAS test site to Qualcomm's research facilities is the Nevada site, which is more than
+350 miles away. Qualcomm depends on the expertise and collaboration of its engineers to make
+major technological developments, and having these innovators in close proximity to the testing
+is essential for success. Qualcomm can conduct its R&D more efficiently, effectively, and
+economically by having the tests occur in close proximity to Qualcomm and Qualcomm
+Research, its corporate research and development division.
+
+1 Integration of Civil Unmanned Aircraft Systems (UAS) in the National Airspace System (NAS) Roadmap 5
+(2013), available at http://www.faa.gov/uas/media/uas_roadmap_2013.pdf.
+2 Qualcomm notes that the FAA has a policy of issuing Certificate of Waiver or Authorization ("COA") to
+Section 333 exemption holders for flights at or below 200 feet. If this petition is granted, Qualcomm will operate
+below 200 feet in accordance with the terms of this "blanket" exemption. Qualcomm plans to file for a separate
+COA to operate at its specific test sites for flights over 200 feet.
+
+                                                          2
+Accordingly, the FAA's grant of this exemption services the goals of advancing UAS
+capabilities in the United States consistent with ensuring safety for manned aircraft and the
+public.
+
+I. REQUEST FOR SUMMARY GRANT
+
+The FAA can issue a summary grant when it finds it has already granted a previous exemption
+similar to the new request. As described in detail below, Qualcomm is requesting to use a small
+UAS for outdoor R&D. The FAA has issued grants of exemption in circumstances similar in all
+material respects to those presented in this petition in Grants of Exemption Nos. 11311 to Next
+Generation Aviation Services, L.L.C. (see Docket No. FAA-2014-1055), 11315 to The Climate
+Corporation and Precision Planting, LLC (see Docket No. FAA-2014-1037), and 11290 to
+Amazon.com (see Docket No. FAA-2014-0474). In these grants, the FAA found that the
+enhanced safety achieved using an unmanned aircraft with the specifications described by the
+petitioner and carrying no passengers or crew, rather than a manned aircraft of significantly
+greater proportions, carrying crew in addition to flammable fuel, gave the FAA good cause to
+find that the UAS operation enabled by the exemptions were in the public interest. The reasons
+stated by the FAA for granting Exemption Nos. 11311, 11315, and 11290 also apply to the
+situation Qualcomm presents and a grant of this exemption is in the public interest.
+
+II. REQUEST FOR EXEMPTION TO USE UAS FOR RESEARCH AND
+         DEVELOPMENT AT QUALCOMM'S TEST SITES
+
+         A. Overview of Request to Use UAS for R&D at Qualcomm's Test Sites.
+
+Qualcomm's UAS testing will further two main areas of research. The first relates to UAS
+functionality and safety measures. Qualcomm is developing manned and unmanned flight
+control algorithms, which run on Qualcomm's Snapdragon processors. Snapdragon processors
+are used today in a wide variety of wireless devices. These algorithms utilize proprietary control
+and computer vision engines running on custom test vehicles capable of flight and ground
+roving. These algorithms enable various activities including autonomous navigation, obstacle
+avoidance, waypoint to waypoint navigation, landing zone determination, stabilized hovering,
+and sensor aided dead reckoning, among others. Improving the technology used to conduct these
+activities has huge positive implications for safety and performance in the UAS industry. As
+such, one aim of the UAS testing that this exemption would provide is to validate these
+implementations and achieve the desired functionality and performance for operations in the
+NAS.
+
+A second focus of Qualcomm's testing involves another crucial aspect of commercial UAS use ­
+the communications link. A reliable, robust, and efficient communications link is an essential
+component of safe UAS operations. "Lost link" scenarios can present serious safety concerns,
+especially in unmanned operations. Qualcomm's testing will focus on various metrics to
+measure the quality of the communications link to and from UAS in a range of operating
+environments, which will help Qualcomm improve UAS-operator communications and thus have
+a tremendous positive impact on the safety of UAS operations.
+
+                                                          3
+Given the benefits of testing, Petitioner requests an exemption to conduct its R&D on property
+owned or leased by Qualcomm that is not open to public access and is restricted to its employees
+or consultants. Qualcomm will maintain controls so that the testing is conducted safely and
+without risk to the safety of the public. The sites will be located in either unpopulated areas or
+areas closed to the public and controlled as to access. They will be at least five nautical miles
+from the nearest airport and a sufficient distance away from densely populated areas and U.S.
+government installations or airfields. UAS flights will occur only in Class G airspace at altitudes
+of 400 feet or less AGL following submission of a Notice to Airmen ("NOTAM"),3 and
+Qualcomm will use geo-fencing to ensure that its UAS remain within these boundaries. Testing
+at these sites will enable Qualcomm to conduct important R&D related to its innovative
+technologies.
+
+         B. Public Interest Benefits of Permitting Use of UAS for R&D.
+
+Granting Qualcomm's request to use UAS for R&D is decidedly in the public interest, as the
+testing creates tremendous benefits for the future of UAS without hazard to the public. Given
+the test site parameters and flight limitations, Qualcomm's testing will not present a physical
+hazard to people on the ground below or aircraft in the NAS. As mentioned above, the test sites
+will be located in either unpopulated areas or areas controlled as to access, with flights occurring
+within predefined airspace surrounded by geo-fencing. Pilots operating the UAS will adhere to
+rigorous operational parameters and qualification requirements. Finally, the proposed operations
+pose no credible threat to national security due to UAS size, speed, location of operation, lack of
+explosive materials or flammable jet fuels, and inability to carry a substantial external load.
+
+In addition to presenting no hazard, Qualcomm's testing will create immense public benefits.
+The ability of Qualcomm to validate and implement its flight control algorithms directly
+advances Congress's goal of integrating civil UAS into the NAS quickly and safely. Once
+Qualcomm can perfect its UAS technologies and introduce them to the market, the UAS that
+enter U.S. airspace will be more functional, efficient, and safe. Flight control systems equipped
+with Qualcomm processors will provide an unparalleled level of performance, bringing the
+industry closer to achieving its full potential. The public benefits of these technological
+developments are immeasurable, and will flow from such diverse operations as retail deliveries
+for consumers, safer ways to maintain infrastructure and conduct inspections, unmatched aerial
+imagery, and enhanced public safety.
+
+Finally, Qualcomm is willing to share the results of its testing with the FAA on a confidential
+basis. Qualcomm will have unique insights into UAS flight control algorithms, communications
+links, and the use of terrestrial long-term evolution ("LTE") networks. The results of
+Qualcomm's testing may be useful to the FAA as the agency promulgates UAS rules and benefit
+the development of the commercial UAS industry as a whole. An FAA grant of Qualcomm's
+exemption request will result in numerous cognizable benefits and is certainly in the public
+interest.
+
+3 Qualcomm notes that the NOTAM may cover flights at a site on a continuous basis for a stated period of
+testing.
+
+                                                          4
+III. THE FAA'S LEGAL AUTHORITY TO GRANT THIS EXEMPTION REQUEST
+
+Congress passed Section 333 of the FMRA to provide an avenue for safe UAS operations to
+begin more quickly than regulatory procedures would generally allow. This provision directs the
+Secretary of Transportation to consider whether certain UAS may operate safely in the NAS
+before completion of the rulemaking required under Section 332 of the FMRA. The Secretary is
+required to determine which types of UAS do not create a hazard to users of the NAS or the
+public or pose a threat to national security in light of the UAS's size, weight, speed, and
+operational capability and whether operation will occur near airports or populated areas and
+within the visual line of sight of the operator.4 The FMRA illustrates Congress's intent to have
+the FAA issue exemptions and allow civil UAS to operate in the NAS, subject to conditions and
+parameters that ensure safe operation.
+
+In addition, the Federal Aviation Act expressly grants the FAA the authority to issue exemptions.
+This statutory authority by its terms includes exempting civil aircraft, as the term is defined
+under § 40101 of the Act, which includes UAS, from the requirement that all civil aircraft must
+have a current airworthiness certificate. The Administrator may grant an exemption from a
+requirement of a regulation prescribed under §§ 44701(a) or (b) or in §§ 44702-44716 of the Act
+if the Administrator finds the exemption in the public interest.5 An FAA grant of Qualcomm's
+exemption request is therefore squarely within the FAA's legal authority and would have the
+benefit of advancing Congress's goals in passing Section 333.
+
+IV. APPLICATION INFORMATION
+
+The name and address of the applicant are:
+
+Qualcomm Technologies, Inc.
+Paul Guckian
+Vice President, Engineering
+5775 Morehouse Drive
+San Diego, CA 92121
+pguckian@qualcomm.com
+(858) 651-1547
+
+Regulations from which the exemption is requested:
+
+14 C.F.R. Part 21 Subpart H;
+14 C.F.R. § 21.191(a);
+14 C.F.R. § 45.23(b);
+14 C.F.R. § 45.27;
+14 C.F.R. §§ 61.23(a) and (c);
+14 C.F.R. §§ 61.101(e)(4) and (5)
+14 C.F.R. §§ 61.113(a) and (b);
+
+4 FAA Modernization and Reform Act of 2012, Pub. L. No. 112-95, 126 Stat. 75-76 (codified as a Note to 49
+U.S.C. § 40101).
+5 49 U.S.C. § 44701(f). See also 49 U.S.C. § 44711(a); 49 U.S.C. § 44704; 14 C.F.R. § 91.203(a)(1).
+
+                                                          5
+14 C.F.R. § 61.315(a);
+14 C.F.R. § 91.7(a)
+14 C.F.R. § 91.119(c);
+14 C.F.R. § 91.121;
+14 C.F.R. § 91.151(a)(1);
+14 C.F.R. § 91.405(a);
+14 C.F.R. § 91.407(a)(1);
+14 C.F.R. §§ 91.409(a)(1) and (2);
+14 C.F.R. §§ 91.417(a) and (b).
+
+V. THE AIRCRAFT: SPECIFICATIONS AND CONDITIONS
+
+Qualcomm specifically proposes to conduct its R&D operations using UAS of its own design.
+Qualcomm's UAS is a custom-built multi-rotor aircraft that uses the DJI Flamewheel F450
+airframe. Qualcomm has outfitted the Flamewheel airframe with an APM:Copter basic motor
+and an 11.8V LiPo battery, which facilitates up to 10 to 13 minutes of flight time with payloads
+under 1200 grams. The UAS uses the ESC 20 Amp electronic speed controller with SimonK,
+further equipped with Qualcomm chips, which incorporate the latest wireless technology.
+Further details about the UAS are available in the Operations Manual, which Qualcomm submits
+under separate cover and with a request for confidential treatment.6
+
+Qualcomm may also wish to use aircraft with comparable characteristics and safety features.
+Qualcomm agrees that any UAS it uses for R&D will include, at minimum: geo-fencing at a
+maximum ceiling of 400 feet AGL, flight programming capabilities, a flight termination link
+available to the operator to prevent a "fly away," and safe abort procedures. The UAS will also
+have the capability of performing an operation such as return-to-launch if a failsafe is triggered
+due to lost ground control station signal, lost GPS lock, lost R/C transmitter signal, and low
+battery. The UAS will have markings identifying the serial number and identification (N-
+number) as large as practicable. Any UAS to be used will weigh less than 55 pounds including
+energy source(s) and equipment.
+
+VI. OPERATING PARAMETERS FOR UAS USE AT QUALCOMM'S TEST SITES
+
+Qualcomm proposes that its exemption request apply to civil UAS that have the characteristics
+and operate with the limitations listed herein. These limitations provide for at least an equivalent
+or even higher level of safety to operations under the current regulatory structure because the
+proposed operations represent a safety enhancement to the already safe operations conducted
+with conventional aircraft. Further details about the UAS and operating procedures are available
+in the Operations Manual.
+
+The limitations and conditions to which Qualcomm agrees to be bound when using UAS to
+conduct R&D at Qualcomm test sites under an FAA-issued exemption include:
+
+6 Petitioner submits its Operations Manual as a Confidential document under 14 C.F.R. § 11.35(b) as it
+contains proprietary information that Petitioner has not and will not share with others. The document contains
+operating conditions and procedures that are not available to the public and are protected from release under the
+Freedom of Information Act, 5 U.S.C. § 552.
+
+                                                          6
+         A. UAS Pilot and Observer
+
+                  1. The UAS R&D flights will be conducted by a pilot-in-command ("PIC")
+                           holding either an airline transport, commercial, private, recreational, or
+                           sport pilot certificate.7 The PIC must also hold a current FAA airman
+                           medical certificate or a valid U.S. driver's license.
+
+                  2. All UAS R&D flights must utilize a visual observer ("VO").
+
+                  3. The PIC and VO must be able to communicate verbally at all times.
+
+                  4. Prior to the outdoor R&D flights, the pilot must have logged a minimum
+                           of five hours as UAS pilot operating the make and model of UAS to be
+                           utilized for operations under the exemption and three take-offs and three
+                           landings in the preceding 90 days.
+
+                           a. Training, proficiency, and experience-building flights can also be
+                                    conducted under the FAA's grant of exemption to accomplish the
+                                    required flight cycles and flight time.
+
+                           b. During training, proficiency, and experience-building flights, all
+                                    persons not essential for flight operations are considered
+                                    nonparticipants, and the pilot must operate the UAS with
+                                    appropriate distance from nonparticipants in accordance with 14
+                                    C.F.R. § 91.119.
+
+                  5. Prior to any R&D flight authorized by this grant of exemption, the PIC
+                           and VO must have successfully completed a qualification process, as
+                           outlined in the Operations Manual.
+
+                           a. The qualification process will be developed and implemented by a
+                                    qualified person designated at the sole discretion of Qualcomm.
+
+                           b. A record of completing of this qualification process must be
+                                    documented and made available to the Administrator upon request.
+
+         B. R&D Parameters.
+
+                  1. Aircraft will not carry pilots or passengers, and aircraft will not carry
+                           explosive materials or flammable liquid fuels.
+
+                  2. UAS must be operated within visual line of sight of the pilot at all times.
+
+                  3. UAS may not be flown at ground speeds exceeding 87 knots.
+
+7 Qualcomm will document its experience in using a licensed pilot during its tests and, based on its findings,
+may seek authority from the FAA to waive or alter the licensed pilot requirement for future Qualcomm tests.
+
+                                                          7
+4. Flights will be operated at an altitude of no more than 400 feet AGL.
+
+5. Each UAS R&D flight will be conducted with a reserve that allows the
+         aircraft to reach a pre-designated safe landing zone and have at least five
+         minutes of battery power remaining.
+
+6. UAS will not be operated over any person (other than participating
+         Qualcomm personnel) below an altitude that is hazardous to persons or
+         property on the surface in the event of a UAS failure or emergency.
+
+         a. The Operator's Manual includes safety mitigations for authorized
+                  and consenting Qualcomm personnel.
+
+         b. Operations will be conducted as far as practicable from non-
+                  participating persons.
+
+7. The UAS will abort the flight in the event of emergencies in accordance
+         with the Operations Manual.
+
+8. The operator must obtain an Air Traffic Organization ("ATO") issued
+         Certificate of Waiver or Authorization ("COA") prior to conducting any
+         operations under this grant of exemption.
+
+         a. This COA will also require the operator to request a NOTAM not
+                  more than 72 hours in advance, but not less than 48 hours prior to
+                  the operation.
+
+9. R&D operations will be limited to the test site(s) meeting the criteria
+         described herein.
+
+10. The UAS pilot will establish a working relationship with a representative
+         at the local Flight Standards District Office ("FSDO") with which to
+         periodically review safety procedures and other operations to further
+         enhance safety. The operator will submit a written Plan of Activities to
+         the local FSDO at least 48 hours prior to conducting R&D operations, or
+         less at the concurrence of the FSDO. The Plan of Activities will include:
+
+         a. Dates and times for all flights;
+
+         b. Name and phone number of the operator for the UAS and for the
+                  person responsible for on-site operations;
+
+         c. Make, model, and serial or N-number of UAS;
+
+         d. Name and certificate number of pilot(s);
+
+         e. Signature of exemption holder or representative;
+
+                                        8
+         f. Description of flight activity, including maps/diagrams of area
+                  over which operations are occurring and essential altitudes.
+
+11. The documents required under 14 C.F.R. § 91.9 must be available to the
+         PIC at the Ground Control Station of the UAS any time the aircraft is
+         operating. These documents must be made available to the Administrator
+         or any law enforcement official upon request.
+
+12. The UAS must remain clear and yield the right of way to all other manned
+         operations and activities at all times (including, but not limited to,
+         ultralight vehicles, parachute activities, parasailing activities, hang gliders,
+         etc.).
+
+13. Qualcomm will ensure safety to first responder aircraft and helicopter
+         traffic, and all other aircraft. Upon notification from manned aircraft
+         controllers or through visual identification of manned aircraft, Qualcomm
+         will immediately suspend the UAS flight until the airspace is cleared.
+
+14. UAS operations may not be conducted during night, as defined in 14
+         C.F.R. § 1.1. All operations must be conducted under visual
+         meteorological conditions ("VMC"). Flights under special visual flight
+         rules ("SVFR") are not authorized.
+
+15. The UAS may not be operated by the PIC from any moving device or
+         vehicle.
+
+16. The UAS may not be operated less than 500 feet below or less than 2,000
+         feet horizontally from a cloud or when visibility is less than 3 statute miles
+         from the PIC.
+
+17. The UAS may not operate in Class B, C, or D airspace without approval
+         from the FAA. The UAS may not operate within 5 nautical miles of the
+         geographic center of a non-towered airport as denoted on a current FAA-
+         published aeronautical chart unless an agreement with that airport's
+         management is obtained, and the operation is conducted in accordance
+         with a NOTAM as required by the Operator's COA. The letter of
+         agreement with the airport management should be made available to the
+         Administrator upon request.
+
+18. Altitude information will be provided to the UAS pilot via a digitally
+         encoded telemetric data feed, which downlinks from the aircraft to a
+         ground-based on-screen display. The UAS may have a GPS altitude
+         readout. Prior to each flight, a zero altitude initiation point will be
+         established and confirmed for accuracy by the PIC.
+
+                                        9
+                  19. Any incident,8 accident,9 or flight operation that transgresses the lateral or
+                           vertical boundaries of the operational area as defined by the applicable
+                           COA must be reported to the FAA's UAS Integration Office (AFS-80)
+                           within 24 hours. Accidents must be reported to the National
+                           Transportation Safety Board ("NTSB") per instructions contained on the
+                           NTSB Web site: www.ntsb.gov. Further flight operations may not be
+                           conducted until the incident, accident, or transgression is reviewed by
+                           AFS-80 and authorization to resume operations is provided.
+
+         C. Operations Manual.
+
+                  1. The operator must follow the procedures as outlined in its Operations
+                           Manual.
+
+                  2. The Operations Manual must be maintained and made available to the
+                           Administrator upon request.
+
+         D. Pre-Flight Inspections and Maintenance.
+
+                  1. Prior to each flight, pilot will inspect UAS to ensure it is in condition for
+                           safe flight. If the inspection reveals a condition that affects the safe
+                           operation of the UAS, the aircraft will be prohibited from operating until
+                           the necessary maintenance has been performed and the UAS is found to be
+                           in a condition for safe flight.
+
+                           a. The preflight inspection must account for all discrepancies not
+                                    covered in the relevant preflight inspection sections of the
+                                    Operations Manual (i.e. inoperable components, items, or
+                                    equipment).
+
+                  2. All maintenance and alterations will be properly documented in the
+                           aircraft records.
+
+                  3. Any UAS that undergoes maintenance or alterations that affect the UAS
+                           operation or flight characteristics will undergo a functional flight test in
+                           accordance with the Operations Manual.
+
+                  4. Petitioner will institute a maintenance program to ensure airworthiness of
+                           UAS as described in the Operations Manual. The operator will follow the
+
+8 The FAA uses NTSB's definition of accident and incident. "Incident means an occurrence other than an
+accident, associated with the operation of an aircraft, which affects or could affect the safety of operations." 49 CFR
+§ 830.2.
+9 "Aircraft accident means an occurrence associated with the operation of an aircraft which takes place
+between the time any person boards the aircraft with the intention of flight and all such persons have disembarked,
+and in which any person suffers death or serious injury, or in which the aircraft receives substantial damage. For
+purposes of this part, the definition of `aircraft accident' includes `unmanned aircraft accident,' as defined herein.
+Id.
+
+                                                         10
+                           manufacturer's UAS aircraft/component, maintenance, overhaul,
+                           replacement, inspection, and life limit requirements.
+
+                  5. Operator will develop procedures to document and maintain a record of
+                           the UAS maintenance, preventative maintenance, alterations, status of
+                           replacement/overhaul component parts, and the total time in service of the
+                           UAS. These procedures will be added to the Operations Manual.
+
+                  6. Operator will develop UAS technician qualification criteria. These criteria
+                           will be added to the Operations Manual.
+
+VII. SPECIFIC SECTIONS OF 14 C.F.R. FROM WHICH PETITIONER SEEKS AN
+         EXEMPTION
+
+Qualcomm requests exemption from the following Federal Aviation Regulations ("FARs") to the
+extent necessary to enable the requested UAS operations for the reasons detailed below.
+
+         A. 14 C.F.R. Part 21 Subpart H including 14 C.F.R. § 21.191(a) Experimental
+                  certificates
+
+Subpart H, entitled Airworthiness Certificates, establishes the procedural requirements for the
+issuance of airworthiness certificates. Given the size and limited operating area associated with
+the aircraft to be utilized, an exemption from Part 21 Subpart H meets the requirements of an
+equivalent level of safety under Part 11 and Section 333 of the Reform Act. The Federal
+Aviation Act10 and Section 333 of the FMRA both authorize the FAA to exempt aircraft from the
+requirement for an airworthiness certificate, upon consideration of the size, weight, speed,
+operational capability, and proximity to airports and populated areas of the particular UAS. In
+all cases, an analysis of these criteria demonstrates that the UAS operated without an
+airworthiness certificate, in the proposed environments and under the conditions proposed will
+be at least as safe, or safer, than a conventional aircraft (fixed wing or rotorcraft) operating with
+an airworthiness certificate without the restrictions and conditions proposed.
+
+The UAS to be operated hereunder will weigh less than 55 pounds with payload, carry neither a
+pilot nor passenger, carry no explosive materials or flammable liquid fuels, and operate
+exclusively within the parameters stated in the Operations Manual. Unlike other civil aircraft,
+operations under this exemption will be tightly controlled and monitored by both the operator
+and under the requirements and in compliance with local public safety requirements, to provide
+security for the area of operation. The FAA will have advance notice of all operations via
+NOTAMS. Finally, the UAS, as a result of its size, weight, speed, operational capability, and
+operation within visual line of sight does not create a hazard to users of the national airspace
+system or the public or pose a threat to national security.
+
+Petitioner also seeks relief from the requirements of 14 C.F.R. § 21.191(a) regarding
+experimental certificates for the same reasons as listed above. Given the size and limited
+
+10 49 U.S.C. § 44701(f).
+
+                          11
+operating area of the UAS to be used by Qualcomm, an exemption from this provision meets the
+requirements of an equivalent level of safety under Part 11 and Section 333 of the FMRA.
+
+         B. 14 C.F.R. § 45.23(b) Display of marks; general; 14 C.F.R. § 45.27 Location of
+                  marks; non-fixed wing aircraft
+
+Section 45.23(b) requires markings in letters not less than 2 inches nor more than 6 inches high
+the word "experimental," as applicable. Section 45.27 requires that each operator of a rotorcraft
+must display on that rotorcraft horizontally on both surfaces of the cabin, fuselage, boom, or tail
+the marks required by § 45.23.
+
+Given the size of the UAS, two-inch lettering will not be feasible. The UAS will also have no
+entrance to the cabin, cockpit, or pilot station on which the word "experimental" can be placed.
+The word "experimental" will be displayed on the aircraft, as applicable, in letters of legible size,
+in a location where the pilot, observer, and others working with the UAS will see the
+identification. The FAA has issued exemptions to § 45.23 in Exemptions Nos. 10700, 8738,
+10167, 10167A, and 11062. The FAA issued an exemption to 45.27 in Exemption No. 8496B.
+
+         C. 14 C.F.R. §§ 61.23(a) and (c) Medical certificates: Requirement and duration; 14
+                  C.F.R. §§ 61.101(e)(4) and (5) Recreational pilot privileges and limitations; 14
+                  C.F.R. §§ 61.113(a) and (b) Private pilot privileges and limitations; 14 C.F.R. §
+                  61.315(a) What are the privileges and limits of my sport pilot certificate.
+
+Because the UAS will not carry a pilot or passengers, the proposed operations can achieve the
+equivalent level of safety of current operations under the above-mentioned rules by requiring the
+PIC operating the aircraft to hold either an airline transport, commercial, private, recreational or
+sport pilot certificate and a current FAA airman medical certificate or a valid U.S. driver's
+license.11 The area of operation is controlled and restricted, and all flights are planned and
+coordinated in advance as set forth in the Operations Manual. The level of safety provided by
+the requirements included in the Operations Manual exceeds that provided by a single individual
+holding a commercial pilot's certificate operating a conventional aircraft. The risks associated
+with the operation of the UAS are so diminished from the level of risk associated with
+commercial operations contemplated by Part 61 when drafted, that allowing operations of the
+UAS as requested with a private, recreational, or sport pilot as the PIC exceeds the present level
+of safety achieved by the above rule sections. The FAA issued an exemption to this regulation in
+Exemption No. 11310, among others.
+
+         D. 14 C.F.R. § 91.7(a) Civil Aircraft Airworthiness
+
+         Petitioner seeks an exemption from 14 C.F.R. § 91.7(a), which requires that a civil
+aircraft be in airworthy condition to be operated. The FAA has stated that no exemption is
+required to the extent that the requirements of Part 21 are waived or found inapplicable.
+
+11 As mentioned in note 6, Qualcomm's real-world experience testing UAS may impact Qualcomm's view of
+the necessity of using a licensed pilot. If Qualcomm revisits this issue with the FAA, Qualcomm will define
+safeguards to ensure that an equivalent level of safety can be achieved using non-licensed pilots.
+
+                                                         12
+Accordingly, Petitioner requests that the requirements for Section 91.7 be treated in accordance
+with Section VI(A), supra.
+
+         E. 14 C.F.R. § 91.119(c) Minimum safe altitudes over congested and other areas
+
+Section 91.119(c) establishes safe altitudes for operation of civil aircraft over areas other than
+congested areas. Qualcomm requests relief from this section with respect to those participating
+persons, vehicles, and structures directly involved with R&D. The UAS will never operate at
+higher than 400 AGL. It will be operated in a restricted area, where buildings and people will not
+be exposed to operations without their pre-obtained consent. Relief from this provision is
+warranted as operations will be conducted with the safety provisions as outlined herein and in the
+Operations Manual. The FAA issued an exemption to this regulation in Exemption No. 11062.
+
+         F. 14 C.F.R. § 91.121 Altimeter Settings
+
+This regulation requires each person operating an aircraft to maintain cruising altitude by
+reference to an altimeter that is set "...to the elevation of the departure airport or an appropriate
+altimeter setting available before departure." As the UAS may not have a barometric altimeter,
+but instead a GPS altitude read out, an exemption may be needed. An equivalent level of safety
+will be achieved by the operator, pursuant to the Operations Manual, confirming the altitude of
+the launch site shown on the GPS altitude indicator before flight. The FAA issued an exemption
+to this regulation in Exemption No. 11062.
+
+         G. 14 C.F.R. § 91.151(a)(1) Fuel requirements for flight in VFR conditions
+
+Section 91.151 (a)(1) prohibits an individual from beginning "a flight in an airplane under VFR
+conditions unless (considering wind and forecast weather conditions) there is enough fuel to fly
+to the first point of intended landing, and, assuming normal cruising speed ­ (1) During the day,
+to fly after that for at least 30 minutes."
+
+Complying with the 30 minute reserve requirement in 14 C.F.R. § 91.151(a)(1), would
+unnecessarily limit the length of Qualcomm's UAS flights. Given the limitations on the UAS's
+proposed flight area and the location of its proposed operations within a predetermined area, a
+longer time frame for flight in daylight conditions is reasonable. Operating the small UAS, in a
+tightly controlled area where only people and property owners or official representatives who
+have signed waivers will be allowed does not engender the type of risks that § 91.151(a)(1) was
+intended to alleviate given the size and speed of the small UAS. Additionally, limiting UAS
+flight minutes would reduce the utility of the flights for R&D for which the exemption will be
+granted. Qualcomm believes that an equivalent level of safety can be achieved by maintaining a
+reserve that allows the aircraft to reach a pre-designated safe landing zone and have at least five
+minutes of battery power remaining. The FAA issued an exemption to this regulation in
+Exemption No. 11062 and 10673.
+
+         H. 14 C.F.R. § 91.405(a) Maintenance required; 14 C.F.R. § 91.407(a)(1) Operation
+                  after maintenance, preventive maintenance, rebuilding or alteration; 14 C.F.R. §§
+                  91.409(a)(1) and (2) Inspections; 14 C.F.R. §§ 91.417(a) and (b) Maintenance
+                  records
+
+                                                         13
+These regulations require that an aircraft operator or owner "shall have that aircraft inspected as
+prescribed in subpart E of this part and shall between required inspections, except as provided in
+paragraph (c) of this section, have discrepancies repaired as prescribed in part 43 of this
+chapter...," and others shall inspect or maintain the aircraft in compliance with Part 43.
+
+Given that these sections and Part 43 apply only to aircraft with an airworthiness certificate,
+these sections will not apply to the Petitioner. Maintenance will be accomplished by the operator
+pursuant to the Operations Manual. An equivalent level of safety will be achieved because this
+small UAS is very limited in size, will carry a small payload, and will operate only in restricted
+areas for limited periods of time. If mechanical issues arise, the UAS can land immediately and
+will be operating from no higher than 400 feet AGL. As provided in the Operations Manual, the
+operator will ensure that the UAS is in working order prior to initiating flight, perform required
+maintenance, and keep a log of any maintenance performed. Moreover, the operator is the person
+most familiar with the aircraft and best suited to maintain the aircraft in an airworthy condition to
+provide the equivalent level of safety. The FAA issued an exemption to these regulations in
+Exemption No. 11062.
+
+         I. Such other relief as the FAA deems appropriate to enable the requested
+                  operations.
+
+Qualcomm also requests exemption from such other FARs as the FAA deems appropriate to
+enable the requested operations. If, during the effective dates of any Grant of Exemption issued
+pursuant to this Petition, the FAA issues interim or final rules for small UAS, Qualcomm
+requests that it be relieved of the requirements of any conditions and limitations of said
+exemption and allowed to comply with any less burdensome applicable regulations that may
+have become effective.
+
+VIII. SUMMARY TO BE PUBLISHED IN FEDERAL REGISTER
+
+Petitioner: Qualcomm Technologies, Inc.
+
+Sections of 14 C.F.R. Affected: Part 21 Subpart H; § 21.191(a); § 45.23(b); § 45.27; §§ 61.23(a)
+and (c); §§ 61.101(e)(4) and (5); §§ 61.113(a) and (b); § 61.315(a); §91.7(a); § 91.119(c); §
+91.121; § 91.151(a)(1); § 91.405(a); § 91.407(a)(1); §§ 91.409(a)(1) and (2); §§ 91.417(a) and
+(b).
+
+Description of Relief Sought: Petitioner seeks relief from the requirements of 14 C.F.R. Part 21
+Subpart H; 14 C.F.R. § 21.191(a); 14 C.F.R. § 45.23(b); 14 C.F.R. § 45.27; 14 C.F.R. §§
+61.23(a) and (c); 14 C.F.R. §§ 61.101(e)(4) and (5); 14 C.F.R. §§ 61.113(a) and (b); 14 C.F.R. §
+61.315(a); 14 C.F.R. §91.7(a); 14 C.F.R. § 91.119(c); 14 C.F.R. § 91.121; 14 C.F.R. §
+91.151(a)(1); 14 C.F.R. § 91.405(a); 14 C.F.R. § 91.407(a)(1); 14 C.F.R. §§ 91.409(a)(1) and
+(2); and 14 C.F.R. §§ 91.417(a) and (b) to conduct small unmanned aircraft systems (UAS)
+research and development operations subject to operating procedures that meet or exceed those
+that FAA requires for similar operations.
+
+                                                         14
+IX. CONCLUSION
+Satisfaction of the criteria provided in Section 333 of the FMRA regarding size, weight, speed,
+operating capabilities, proximity to airports and populated areas, operation within visual line of
+sight, and national security, provide more than adequate justification for the grant of the
+requested exemption allowing operation of Petitioner's UAS for R&D related to development of
+UAS flight control technologies pursuant to the Operations Manual.
+Finally, Qualcomm reserves the right to seek modification to any exemption granted to
+Qualcomm by the FAA as Qualcomm, the FAA, and other commercial UAS operators gain
+experience in this emerging UAS industry. Real world use of UAS may indicate that alternative
+requirements for UAS may be sufficient to protect safety to aircraft and persons on the ground.
+Qualcomm intends to examine these issues in its testing and looks forward to collaborating with
+the FAA going forward on achieving safe operations of UAS for commercial uses.
+Please do not hesitate to contact Qualcomm's outside counsel, R. Michael Senkowski at 202-
+719-7249 or msenkowski@wileyrein.com, Katy Ross at 202-719-7410 or
+kmross@wileyrein.com, and Gary Michel at 202-719-7252 or gmichel@wileyrein.com, with any
+questions about this filing.
+
+Sincerely,
+
+         /s/ Dean R. Brenner
+Dean R. Brenner
+Senior Vice President, Government Affairs
+Qualcomm Technologies, Inc.
+
+Attachment: Confidential Operations Manual
+
+                                                         15
+

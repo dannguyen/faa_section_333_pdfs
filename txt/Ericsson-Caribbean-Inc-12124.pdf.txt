@@ -1,0 +1,1754 @@
+July 23, 2015
+
+                                                           Exemption No. 12124
+                                                           Regulatory Docket No. FAA­2015­1592
+
+Mr. Francisco A. Rullan
+Legal Counsel
+Ericsson Caribbean, Inc.
+City View Plaza II
+Guaynabo, PR 00968
+
+Dear Mr. Rullan:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter dated April 30, 2015, you petitioned the Federal Aviation Administration (FAA) on
+behalf of Ericsson Caribbean, Inc. (hereinafter petitioner or operator) for an exemption. The
+petitioner requested to operate an unmanned aircraft system (UAS) to conduct aerial
+photography and visual surveys.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner is a DJI Phantom 2 Vision+.
+
+The petitioner requested relief from 14 CFR part 21, Certification procedures for products
+and parts, Subpart H--Airworthiness Certificates. In accordance with the statutory criteria
+provided in Section 333 of Public Law 112-95 in reference to 49 U.S.C. § 44704, and in
+                                                                                                                 2
+
+consideration of the size, weight, speed, and limited operating area associated with the
+aircraft and its operation, the Secretary of Transportation has determined that this aircraft
+meets the conditions of Section 333. Therefore, the FAA finds that the requested relief from
+14 CFR part 21, Certification procedures for products and parts, Subpart H--Airworthiness
+Certificates, and any associated noise certification and testing requirements of part 36, is
+not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection1. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+ They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+ The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+ A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, Ericsson Caribbean, Inc. is granted an exemption from
+14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a), 91.7(a), 91.119(c),
+91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a) and (b), to
+the extent necessary to allow the petitioner to operate a UAS to perform aerial data collection.
+This exemption is subject to the conditions and limitations listed below.
+
+1 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                                                 3
+
+Conditions and Limitations
+
+In this grant of exemption, Ericsson Caribbean, Inc. is hereafter referred to as the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+    1. Operations authorized by this grant of exemption are limited to the DJI Phantom 2
+         Vision+ when weighing less than 55 pounds including payload. Proposed operations
+         of any other aircraft will require a new petition or a petition to amend this exemption.
+
+    2. Operations for the purpose of closed-set motion picture and television filming are
+         not permitted.
+
+    3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+         exemption holder may use either groundspeed or calibrated airspeed to determine
+         compliance with the 87 knot speed restriction. In no case will the UA be operated at
+         airspeeds greater than the maximum UA operating airspeed recommended by the
+         aircraft manufacturer.
+
+    4. The UA must be operated at an altitude of no more than 400 feet above ground level
+         (AGL). Altitude must be reported in feet AGL.
+
+    5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+         This requires the PIC to be able to use human vision unaided by any device other than
+         corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+         U.S. driver's license.
+
+    6. All operations must utilize a visual observer (VO). The UA must be operated within
+         the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+         to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+         capability. The VO and PIC must be able to communicate verbally at all times;
+         electronic messaging or texting is not permitted during flight operations. The PIC
+         must be designated before the flight and cannot transfer his or her designation for the
+         duration of the flight. The PIC must ensure that the VO can perform the duties
+         required of the VO.
+
+    7. This exemption and all documents needed to operate the UAS and conduct its
+         operations in accordance with the conditions and limitations stated in this grant of
+         exemption, are hereinafter referred to as the operating documents. The operating
+         documents must be accessible during UAS operations and made available to the
+         Administrator upon request. If a discrepancy exists between the conditions and
+         limitations in this exemption and the procedures outlined in the operating documents,
+         the conditions and limitations herein take precedence and must be followed.
+                                                                                                            4
+
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+                                                                                                            5
+
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+    exemption holder may apply for a new or amended COA if it intends to conduct
+    operations that cannot be conducted under the terms of the attached COA.
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+    number, registered in accordance with 14 CFR part 47, and have identification
+                                                                                                               6
+
+       (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+       be as large as practicable.
+
+   23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+       any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+       PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+       These documents must be made available to the Administrator or any law enforcement
+       official upon request.
+
+   24. The UA must remain clear and give way to all manned aviation operations and
+       activities at all times.
+
+   25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+   26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+       persons, vessels, vehicles, and structures unless:
+          a. Barriers or structures are present that sufficiently protect nonparticipating persons
+             from the UA and/or debris in the event of an accident. The operator must ensure
+             that nonparticipating persons remain under such protection. If a situation arises
+             where nonparticipating persons leave such protection and are within 500 feet of
+             the UA, flight operations must cease immediately in a manner ensuring the safety
+             of nonparticipating persons; and
+          b. The owner/controller of any vessels, vehicles or structures has granted permission
+             for operating closer to those objects and the PIC has made a safety assessment of
+             the risk of operating closer to those objects and determined that it does not
+             present an undue hazard.
+
+       The PIC, VO, operator trainees or essential persons are not considered
+       nonparticipating persons under this exemption.
+
+   27. All operations shall be conducted over private or controlled-access property with
+       permission from the property owner/controller or authorized representative.
+       Permission from property owner/controller or authorized representative will be
+       obtained for each flight to be conducted.
+
+   28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+       boundaries of the operational area as defined by the applicable COA must be reported
+       to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+       reported to the National Transportation Safety Board (NTSB) per instructions
+       contained on the NTSB Web site: www.ntsb.gov.
+
+If this exemption permits operations for the purpose of closed-set motion picture and
+television filming and production, the following additional conditions and limitations apply.
+                                                                                                                 7
+
+    29. The operator must have a motion picture and television operations manual (MPTOM)
+         as documented in this grant of exemption.
+
+    30. At least 3 days before aerial filming, the operator of the UAS affected by this
+         exemption must submit a written Plan of Activities to the local Flight Standards
+         District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+         notification may be waived with the concurrence of the FSDO. The plan of activities
+         must include at least the following:
+           a. Dates and times for all flights;
+           b. Name and phone number of the operator for the UAS aerial filming conducted
+              under this grant of exemption;
+           c. Name and phone number of the person responsible for the on-scene operation of
+              the UAS;
+           d. Make, model, and serial or N-Number of UAS to be used;
+           e. Name and certificate number of UAS PICs involved in the aerial filming;
+           f. A statement that the operator has obtained permission from property owners
+              and/or local officials to conduct the filming production event; the list of those
+              who gave permission must be made available to the inspector upon request;
+           g. Signature of exemption holder or representative; and
+           h. A description of the flight activity, including maps or diagrams of any area, city,
+              town, county, and/or state over which filming will be conducted and the altitudes
+              essential to accomplish the operation.
+
+    31. Flight operations may be conducted closer than 500 feet from participating persons
+         consenting to be involved and necessary for the filming production, as specified in the
+         exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+
+This exemption terminates on July 31, 2017, unless sooner superseded or rescinded.
+
+Sincerely,
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+ ::;;
+
+---ERICSSON
+
+April30, 2015
+
+U. S. Department of Transportation Docket Management System
+1200 New Jersey Ave., SE
+Washington, DC 20590
+
+Dear Sir or Madam:
+Attached please find Ericsson Caribbean, Inc.'s ("Ericsson") request for an exemption
+from the listed Federal Aviation Regulations to allow commercial operation of its Small
+Unmanned Aircraft Systems ("sUASs") to conduct aerial photography and visual surveys
+for various data and telecommunication projects and installations as part of its service
+delivery to mobile telecommunication operators.
+On March 4 , 2015, Ericsson Ireland, an affiliate of Ericsson , obtained from the Irish
+Aviation Authority (IAA) in the Republic of Ireland a commercial license to execute the
+same type of activities as referred to in this letter.
+Also attached to this letter is the sUAS Flight Operations Manual ("Operations Manual"),
+which outlines the operating requirements, limitations, and technical specifications for the
+sUAS. This Operations Manual was developed in Ericsson Ireland as part of the
+licensing requirements of the Government of Ireland but it has been modified and
+adapted to the conditions for sUAS operations within FAA controlled territory.
+Applicant submits the Operations Manual as proprietary information pursuant to 14 CFR
+11 .35 (b). The Operations Manual contains operating conditions and procedures that are
+not available to the public and are protected from release under the Freedom of
+Information Act 5 USC 552 et. seq.
+Thank you for your time and consideration, and please let us know if you have any
+questions.
+
+                                                                                                                                 1
+ =....',
+
+ERICSSON
+In a separate filing in this same docket we will also provide the following supporting
+documents:
+1) Phantom 2 Vision Plus Pilot Training Guide
+2) Phantom 2 Vision Plus User Manual
+3) Flying Camera Project- Training Material
+4) Remote Piloted Aircraft System (Drone) Site Risk Assessment Form
+5) sUAS Checklist- OJI Phantom
+6) sUAS Flight Records and Logs
+
+  r cisco A. Rullan
+ egal Counsel
+Ericsson Caribbean, Inc.
+City View Plaza II
+Suite6010
+Guaynabo, PR 00968
+Tel. 954-804--5724
+Francisco .rullan@ericsson.c o m
+
+                                                                                                                                     2
+ =_..',
+
+ERICSSON
+
+April 30, 2015
+
+U.S. Department of Transportation Docket Management System
+1200 New Jersey Ave., SE
+Washington, DC 20590
+
+Re: Exemption Request Section 333 of the FAA Reform Act and Part 11 of the
+Federal Aviation Regulations from 14 CFR Part 21; 14 CFR 45.23 (b); 14 CFR
+45.27 (a);
+ 14 CFR 61.113 (a) & (b); 14 CFR 91.7 (a); 91.9 (b) (2); 91.103 (b); 91.105; 91.109;
+91.119; 91.121; 91.151 (a); 91.203 (a) & (b); 91.405 (a); 91.407 (a) (1); 91.409 (a)
+(2); 91.417 (a) & (b); 8900.227 §16 (c) (4) and §16 (e) (1)
+
+Dear Sir or Madam:
+
+Pursuant to Section 333 of the FAA Modernization and Reform Act of 2012 (the Reform
+Act) and 14 CFR. Part 11 , Ericsson Caribbean, Inc. ("Ericsson"), a provider of
+telecommunications and data technology services, hereby applies for an exemption
+from the listed Federal Aviation Regulations ("FARs") to allow commercial operation of
+its Small Unmanned Aircraft Systems ("sUASs") for aerial photography and visual
+surveys of telecom sites ("sites") in various projects as part of the service delivery, so
+long as such operations are conducted within and under the conditions outlined herein
+or as may be established by the FAA as required by Section 333.
+As detailed in this document and the attached Operations Manual, the requested
+exemption would permit the operation of sUAS under controlled conditions in
+airspace that is 1) limited, 2) predetermined, 3) controlled as to access, and 4) would
+provide safety enhancements to the already best practices safety protocols followed
+by Ericsson at each one of its sites. Approval of this exemption would thereby
+enhance safety and fulfill the Secretary of Transportation's (the FAA Administrator's)
+responsibilities to "...establish requirements for the safe operation of such aircraft
+systems in the national airspace system." Section 333 (c) of the Reform Act.
+The name and address of the applicant is:
+Ericsson Caribbean, Inc.
+City View Plaza Tower II
+Suite 6010
+Guaynabo, Puerto Rico 00968
+USA
+
+                                                                                                                                    1
+.~...
+
+ERICSSON
+
+Regulations from which the exemption is requested:
+
+14 CFR Part 21
+14 CFR 45.23 (b)
+14 CFR 45.27 (a)
+14 CFR 61 .113 (a) & (b)
+14 CFR 91 .7 (a)
+14 CFR 91 .9 (b) (2)
+14CFR91 .103
+14 CFR 91 .105
+14CFR91 .109
+14 CFR 91 .119
+14CFR91 .121
+14 CFR 91 .151 (a)
+14 CFR 91 .203 (a) & (b)
+14 CFR 91.405 (a)
+14 CFR 407 (a) (1 )
+14 CFR 409 (a) (2)
+14 CFR 417 (a) & (b)
+8900.227 §16 (c) (4) and §16 (e) (1)
+
+I. STATUTORY AUTHORITY FOR EXEMPTIONS
+
+The Federal Aviation Act expressly grants the FAA authority to issue exemptions. This
+statutory authority includes exempting civil aircraft, as the term is defined under
+§40101 of the Act, including sUASs, from the requirement that all civil aircraft must
+have a current airworthiness certificate.
+
+The Administrator may grant an exemption from a requirement of a regulation
+prescribed under subsection (a) or (b) of this section or any sections 44702-44716 of
+this title if the Administrator finds the exemption in the public interest. 49 U.S.C.
+§44701(f) See also 49 USC §44711 (a) ; 49 USC §44704; 14 CFR 91 .203 (a) (1).
+Section 333(b} of the Reform Act assists the Secretary in determining whether sUASs
+may operate in the National Airspace System (NAS) without creating a hazard to the
+user, the public, or a threat to national security. In making this determination, the
+Secretary must consider:
+
+· The sUAS's size, weight, speed , and operational capability;
+· Whether the sUAS operates within the visual line of sight of the operator
+· Whether the sUAS operates outside of highly populated areas and away from
+
+        close proximity to airports
+Reform Act §333 (a). If the Secretary determines that a sUAS "may operate safely in the
+national airspace system, the Secretary shall establish requirements for the safe
+operation of such aircraft in the national airspace system ." /d. §333 (c).
+
+                                                                                                                                     2
+ ~_..,
+
+ERICSSON
+
+Ericsson's sUASs are multirotor vehicles, weighting 10 lbs. or less including payload.
+They operate under normal conditions at a speed of no more than 50 knots and have
+the capability to hover and move in the vertical and horizontal plane
+simultaneously. The sUASs will operate only in the pilot's and/or assistants visual line
+of sight at all times and will operate within the restricted private areas as described in the
+Flight Operations Manual, attached as Exhibit 1 (hereinafter "the Operations Manual")
+Adherence to the Manual will insure that the sUASs will "not create a hazard to users
+of the national airspace system or the public." Reform Act Section 333 (b).
+
+Given the small size of the sUASs involved and the restricted and sterile environment
+within which they will operate, our application falls squarely within the zone of safety
+(an equivalent level of safety) in which Congress envisioned that the FAA must, by
+exemption, allow commercial operations of sUASs to commence immediately.
+
+Also due to the small size of the sUASs and the low altitudes (less than 400 feet AGL)
+and restricted private areas in which our sUASs will operate, approval of the
+application presents no national security issue.
+
+Given the clear direction in Section 333 of the Reform Act, the authority contained
+in the Federal Aviation Act, as amended; the strong equivalent level of safety surrounding
+the proposed operations, and the significant public benefit, including enhanced
+safety, the grant of the requested exemptions is in the public interest. Accordingly,
+Ericsson respectfully requests that the FAA grant the requested exemption without
+delay.
+
+ll. PUBLIC INTEREST
+
+This exemption application is expressly submitted to fulfill Congress' goal in passing
+Section 333 (a) through (c) of the Reform Act. This law directs the Secretary of
+Transportation to consider whether certain unmanned aircraft systems may operate
+safely in the NAS before completion of the rulemaking required under Section 332
+of the Reform Act. By granting an exemption the FAA will fulfill Congress's intent of
+allowing UAS to operate with significant safety precautions in low risk environments.
+
+The use of sUASs on a site can significantly reduce the risk to workers of falls while
+surveying, inspecting or monitoring site progress (e.g., some of the cell towers in
+Puerto Rico are as tall as 300 feet) . sUASs can inspect, photograph , and collect data
+on hard to get to areas that otherwise would require worker inspection. Falls are the
+leading source of workplace fatality and injury on construction sites1 , and reducing
+falls through sUAS use for site imaging could save workers lives.
+
+Additionally, sUASs could replace the use of helicopters and small aircraft to monitor
+telecom sites. The sUASs we propose to fly in this application have a weight less than
+10 pounds, and carry no combustible material on board, as opposed to the much
+larger conventionally powered small aircraft. Shifting to sUASs from helicopters
+presents a marked safety increase for our workers and the public.
+
+Lastly, sUASs reduce the environmental impact by dramatically decreasing the energy
+used for aerial imaging and data collection over a site. Our sUASs use rechargeable
+
+                                                                                                                                    3
+ ~_..
+
+ERICSSON
+
+lithium ion batteries, as opposed to fossil fuels burned in operation of small aircraft that
+are many hundreds of times heavier.
+
+1 "Commonly Used Statistics", Occupational Safety & Health Administration. Available at:
+https://www. osha .gov/oshstats/commonstats. htmI
+
+ill. EQUIVALENT LEVEL OF SAFETY
+Ericsson proposes that the exemption requested herein apply to civil aircraft that have
+the characteristics and that operate with the limitations listed herein. These
+limitations provide for at least an equivalent or even higher level of safety to operations
+under the current regulatory structure because the proposed operations represent a
+safety enhancement to the already safe protocols followed on data and
+telecommunication sites and imaging and surveying operations conducted with
+helicopters and other conventional aircraft.
+
+Ericsson will be bound by the following limitations when conducting its sUAS operations
+under an FAA issued exemption:
+
+     1. Safety will be the first and foremost consideration in any sUAS operation.
+     2. The MTOM weight of the sUAS will be less than 10 lbs.
+     3. Minimum crew for each operation will consist of the sUAS PIC.
+     4. An observer will be utilized if the sUAS in any case will be flown outside line of
+
+          sight for the pilot. Flights therefore always will be operated within line of sight of
+          the pilot and/or an assistant at all times. The observer, if required and pilot will
+          at all times be able to communicate by voice and/or text.
+    5. Maximum total flight time for each operational flight will be 25 minutes. The sUAS
+          calculates battery reserve in real time. The sUAS has two levels of low battery
+          capacity warning. The first appears when the battery has less than 30% power
+          and the second appears when it has less than 15% power. The sUAS will return
+          to its ground station with at least 15% battery power reserve should that occur
+          prior to the 25 minute flight time.
+     6. Flights will be operated normally at an altitude of 200 feet AGL, never exceeding
+          400 feet AGL.
+     7. Flights will be operated in Class G airspace whenever possible. If operation in
+          other airspace is required, the relevant controlling agency will be notified at
+          least 24 hours prior to the operation and, if required, any necessary permission
+          obtained.
+     8. Flights will be operated at daylight and under visibility and cloud clearance
+          requirements equivalent to Visual Flight Rules (VFR).
+     9. The sUAS will at all times give way to any aircraft carrying persons.
+
+                                                                                                                                 4
+_=..',
+
+ERICSSON
+
+     10. Prior to a sUAS flight, an area of operation will be established. This area of
+          operation will include a defined lateral and vertical area, where the sUAS will
+          operate. Safety procedures will be established for persons, property and
+          applicable airspace within the area of operation.
+
+     11 . Ericsson's sUAS aircraft will utilize GPS navigation, failsafe , automatic Return-
+          To-Home (RTH) and/or flight abort safety features when appropriate for the
+          operation.
+
+     12. A briefing will be conducted in regard to the planned sUAS operations prior to
+          operation at each new location. All personnel who will be performing duties
+          within the boundaries of the area of operation will be present for this briefing .
+
+     13. All required permissions and permits will be obtained from appropriate state,
+          county or city jurisdictions, including local law enforcement, fire , or other
+          appropriate governmental agencies.
+
+     14. Written and/or oral permission from the relevant property owners will be
+          obtained prior to an operation.
+
+     15. The pilot will have been trained in operation of sUASs generally and received
+          up-to-date information on the particular sUAS to be operated as required in the
+          Operations Manual.
+
+     16. The pilot must poses at least a second class medical certificate
+
+     17. The sUAS pilot will be trained in advance for the safe operation of the sUAS to
+          be operated . This will include operation of the sUAS both in normal and
+          emergency modes of operation , and will include familiarization with the
+          Operations Manual. Training will also include types of maneuvers to be
+          performed and the safe operation in relation to persons, property and applicable
+          airspace.
+
+     18. The sUAS pilot will establish a working relationship with a representative at the
+          local Right Sta1dards District Offioos (FSOO) with which to annually review safety
+          procedures and other operations to further enhance safety.
+
+IV. DESCRIPTION OF SPECIFIC REGULATIONS
+
+14 CFR Part 21 , Subpart H: Airworthiness Certificates 14 CFR 91.203 (a) (1)
+Subpart II, entitled Airworthiness Certificates, establishes the procedural requirements
+for the issuance of airworthiness certificates as required by FAR 91 .203 (a) (1). Given
+the size and limited operating area associated with the aircraft to be utilized by the
+Ericsson, an exemption from Part 21 Subpart H meets the requirements of an
+equivalent level of safety under Part 11 and Section 333 of the Reform Act. The
+Federal Aviation Act (49 U.S.C.§44701 (f)) and Section 333 of the Reform Act both
+authorize the FAA to exempt aircraft from the requirement for an airworthiness
+certificate, upon consideration of the size, weight, speed , operational capability, and
+proximity to airports and populated areas of the particular UAS. In our particular case,
+the sUASs that we are intending to use are small , and will operate at slow speeds,
+close to the ground, far from airports and in a low risk, low population environment. An
+analysis of these criteria demonstrates that the sUAS operated without an
+
+                                                                                                                            5
+ :_:.;.;.
+
+ERICSSON
+
+airworthiness certificate, in the restricted environment and under the conditions
+proposed will be at least as safe, or safer, than a conventional aircraft (fixed wing or
+helicopter) operating with an airworthiness certificate without the restrictions and
+conditions proposed.
+
+The sUAS to be operated hereunder is less than 10 lbs. fully loaded, carries neither a
+pilot nor passenger, carries no explosive materials or flammable liquid fuels, and
+operates exclusively within a secured area as set out in the Operations Manual. Like
+other civil aircraft, operations under this exemption will be tightly controlled and
+monitored by the operator, pursuant to the Operations Manual's requirements, and
+under the requirements and in compliance with local public safety requirements, to
+provide security for the area of operation as is currently done on active sites. The FAA
+will have advance notice of all operations.
+
+These safety enhancements, which already apply to civil aircraft operated in
+connection with sites, provide a greater degree of safety to the public and property
+owners than conventional operations conducted with airworthiness certificates
+issued under 14 CFR Part 21 , Subpart H. Lastly, application of these same criteria
+demonstrates that there is no credible threat to national security posed by the sUAS,
+due to its size, speed of operation, location of operation, lack of explosive
+materials or flammable liquid fuels, and ability to carry an external load no greater
+than two lbs.
+
+14 CFR 45.23 (b): Marking of the Aircraft and 14 CFR 45.27 (a): Location of
+marks; nonfixed-wing aircraft
+
+This regulation requires certain experimental, provisionally certificated aircraft, or light-
+sport category aircraft to be marked with letters between 2 inches and 6 inches high
+"limited," "restricted," "light-sport," "experimental," or "provisional," near each entrance
+to a cabin, cockpit, or pilot station.
+
+Even though the sUAS will have no airworthiness certificate , an exemption may be
+needed as the sUAS will have no entrance to the cabin, cockpit or pilot station on
+which the word "Experimental" can be placed. Given the size of the sUAS , two-inch
+lettering will be impossible.
+
+The equivalent level of safety will be provided by having the sUAS marked with the
+word "Experimental" will be placed one of the arms of the sUAS in compliance with
+45.29 (f) and on both sides of the UAS in compliance with 45.27 (a) where the pilot,
+observer and others working with the sUAS will see the identification of the sUAS as
+"Experimental." The FAA has issued the following exemptions to this regulation:
+Exemptions Nos. 10700, 8738, 10167 and 10167A.
+
+                                                                                                                          6
+=---'ERICSSON
+
+14 CFR 61.113 (a) & (b): Private pilot privileges and limitations: Pilot in
+command
+
+Sections 61 .113 (a) & (b) limit private pilots to non-commercial operations. Because
+the sUAS will not carry a pilot or passengers, the proposed operations can achieve
+the equivalent level of safety of current operations by requiring the pilot operating
+the aircraft to have completed a sUAS flight training course of at least 50 hours before
+flying a sUAS. Unlike a conventional aircraft that carries the pilot and passengers, the
+sUAS is remotely controlled with no living thing or cargo on board. The area of operation
+is controlled and restricted , and all flights are planned and coordinated in advance as
+set forth in the Operations Manual. The risks associated with the operation of the
+sUAS are so diminished from the level of risk associated with commercial
+operations contemplated by Part 61 when drafted, that allowing operations of the
+sUAS as requested with a pilot who has met the minimum requirements stated in
+chapter 2.2 of the Operations Manual exceeds the present level of safety achieved by
+14 CFR 61 .113 (a) & (b).
+
+14 CFR 91.7 (a): Civil aircraft airworthiness
+
+The regulation requires that no person may operate a civil aircraft unless it is in airworthy
+condition. As there will be no airworthiness certificate issued for the aircraft, should this
+exemption be granted, no FAA regulatory standard will exist for determining
+airworthiness. Given the size of the aircraft and the requirements contained in the
+Operations Manual for maintenance and use of safety checklists prior to each flight,
+an equivalent level of safety will be provided.
+
+14 CFR 91.9 (b) (2): Civil aircraft flight manual, marking, and placard
+requirements
+
+The sUAS , given its size and configuration has no ability or place to carry such a flight
+manual on the aircraft, not only because there is no pilot on board, but because there is
+no room or capacity to carry such an item on the aircraft.
+
+The equivalent level of safety will be maintained by keeping the Operations Manual at
+the ground control point where the pilot flying the sUAS will have immediate access
+to it. The FAA has issued the following exemptions to this regulation : Exemption Nos.
+8607,
+8737, 8738, 9299, 9299A, 9565, 95658, 10167, 10167A, 10602, 32827, and10700.
+
+                                                                                                                                 7
+-=-'ERICSSON
+
+14 CFR 91.103: Preflight Action
+This regulation requires each pilot in command take certain actions before flight to
+ensure the safety of flight. An exemption is needed from this requirement as the pilot
+will take separate preflight actions, including checking for weather conditions, checking
+flight battery requirements, checking takeoff and landing distances, and all other
+actions in the Preflight Checklist in the Manual. These actions will provide an equivalent
+level of safety.
+
+14 CFR 91.105: Flight crewmembers at stations
+This regulation defines the obligations of the flight crewmembers during takeoff and
+landing, and while en route. This part is not applicable due to the sUAS is not carrying
+any flight crewmembers.
+
+Ericsson will not operate the aircraft unless someone is at the controls at all times. Each
+flight will be manual, with the exception when the sUAS goes into emergency mode
+like return-to-home. This will achieve an equivalent level of safety to 14 CFR. 91.105.
+because the flight crew will be at their stations at all times during the flight. The stations
+will not be on the aircraft but on the ground.
+
+14 CFR 91.109: Flight Instruction
+Section 91 .103 provides that no person may operate a civil aircraft (except a manned
+free balloon) that is being used for flight instruction unless that aircraft has fully
+functioning dual controls.
+
+By design , sUASs and remotely piloted aircraft do not have fully functional dual
+controls. Flight control is accomplished through the use of a control box that
+communicates with the aircraft via radio communications. The FAA has previously
+approved exemptions for aircraft without fully functional dual controls. See Exemption
+Nos.5778K & 9862A. The equivalent level of safety provided by the fact that neither a
+pilot nor passengers will be carried in the aircraft, the ability to control the sUAS via
+radio signals from the controller, and by the size and speed of the aircraft.
+
+14 CFR 91.119: Minimum Safe Altitudes
+
+Section 91 .119 establishes safe altitudes for operation of civil aircraft. Section 91 .119
+(d) allows helicopters to be operated at less than the minimums prescribed, provided
+the person operating the helicopter complies w ith any route or altitudes prescribed
+for helicopters by the FAA. This exemption is for a multirotor craft that flies similarly to
+a helicopter, with vertical take-off and vertical landing, which will typically operate at
+altitudes of 200 feet AGL, so an exemption may be needed to allow such
+operations. The sUAS will never operate at altitude higher than 400 feet AGL and will
+be in a restricted area with security perimeter, where buildings and people will not be
+exposed to operations without their pre-obtained consent. See Manual for detailed
+procedures.
+
+                                                                                                                          8
+---:=!
+
+ERICSSON
+
+The equivalent level of safety will be achieved given the size, weight, speed of the
+sUAS as well as the location where it is operated . No flight will be taken without the
+permission of the property owner or local officials. Because of the advance notice to
+the property owner and any onsite personnel as outlined in the Manual, all affected
+individuals will be aware of the planned flight operations. Compared to flight
+operations with aircraft or rotorcraft weighting far more than the maximum 10 lbs.
+proposed herein and carrying flammable fuel, any risk associated with our operations is
+far less than those presently presented with helicopters and other conventional aircraft
+operating at or below 500 feet AGL in the construction industry. In addition, the low-
+altitude operations of the sUAS will ensure separation between these sUAS
+operations and the operations of conventional aircraft that must comply with Section
+91.119.
+
+14 CFR 91.121: Altimeter Settings
+This regulation requires each person operating an aircraft to maintain cruising altitude by
+reference to an altimeter that is set "...to the elevation of the departure airport or an
+appropriate altimeter setting available before departure." As the sUAS may not have a
+barometric altimeter, but instead a GPS altitude read out, an exemption may be
+needed. An equivalent level of safety will be achieved by the operator, pursuant to the
+Manual and Safety Check list, confirming the altitude of the launch site shown on the
+GPS altitude indicator before flight.
+
+14 CFR 91.151 (a): Fuel requirements for flight in VFR conditions
+
+Section 91 .151 (a) outlines fuel requirements for beginning a flight in VFR conditions.
+Our sUAS is limited to operations in sterile and controlled environments as outlined in the
+Manual, and has a limited range and flight time which require an exemption from 14 CFR
+91 .151 (a) .
+
+The battery powering the sUAS provides approximately 25 minutes of powered flight. To
+meet the 30 minute reserve requirement in 14 CFR 91 .151 , sUAS flights would not
+be possible to perform. Given the limitations on the sUAS's proposed flight area
+and the location of its proposed operations within a predetermined area, a longer time
+frame for flight in daylight is reasonable.
+
+Ericsson believes that an exemption from 14 CFR 91 .151 (a) falls within the scope of
+prior exemptions. See Exemption 11191 (allowing Singer's Creation to operate
+without compliance with FAR 91 .151 (a)).
+
+Operating the sUAS, in a tightly controlled area where only people and property
+owners or official representatives who have signed waivers will be allowed, with less
+than 30 minutes of reserve fuel, does not engender the type of risks that Section 91.151
+(a) was intended to alleviate given the size and speed of the sUAS.
+
+The sUAS calculates battery reserve in real time. The sUAS has two levels of low
+battery capacity warning that are presented on the monitoring system. The first appears
+when the battery has less than 30% power and the second appears when it has less
+
+                                                                                                                          9
+ :_=.1.
+
+ERICSSON
+
+than 15% power. The sUAS will return to its ground station with at least 15% battery
+power reserve should that occur prior to the 25 minute flight time.
+
+An equivalent level of safety can be achieved by limiting flights to 20 minutes, or enough
+battery reserve to ensure that the sUAS lands at the ground station with at least 15%
+of battery power (as determined by the onboard monitoring system and the pilot),
+whichever happens first. This restriction would be more than adequate to return the
+sUAS to its planned landing zone from anywhere in its limited operating area.
+
+Similar exemptions have been granted to other operations, including Exemptions
+2689F, 5745, 10673, 10808 and 11191 .
+
+14 CFR 91 .203 (a) & (b): Carrying civil aircraft certificatio n and registration
+
+The regulation provides in part:
+
+(a) Except as provided in 91 .715, no person may operate a civil aircraft unless it has
+within it the following:
+
+(1) An appropriate and current airworthiness certificate.. ..
+(b) No person may operate a civil aircraft unless the airworthiness certificate required by
+paragraph (a) of this section or a special flight authorization issued under 91.715 is
+displayed at the cabin or cockpit entrance so that it is legible to passengers or crew.
+
+The sUAS fully loaded weighs no more than 10 lbs. and is operated without an onboard
+pilot. Therefore there is no ability or place to carry certification and registration
+documents or to display them on the sUAS.
+
+An equivalent level of safety will be achieved by keeping these documents at the
+ground flight control point where the pilot flying the sUAS will have immediate access
+to them, to the extent they are applicable to the sUAS. The FAA has issued numerous
+exemptions to this regulation. A representative sample of other exceptions includes
+Exemption Nos. 9565, 9665, 9789, 9789A, 9797, 9797A, 9816A, and 10700.
+
+14 CFR 91 .405 (a); 407 (a) (1); 409 (a) (2); 417 (a) & (b): Maintenance
+inspections
+
+These regulations require that an aircraft operator or owner "shall have that aircraft
+inspected as prescribed in subpart E of this part and shall between required
+inspections, except as provided in paragraph (c) of this section, have discrepancies
+repaired as prescribed in part 43 of this chapter...," and others shall inspect or maintain
+the aircraft in compliance with Part 43.
+
+Given that these section and Part 43 apply only to aircraft with an airworthiness
+certificate, these sections will not apply to Ericsson. Maintenance will be accomplished
+by the operator pursuant to the flight manual and operating handbook as referenced in
+the Manual. An equivalent level of safety will be achieved because these sUASs are
+very limited in size and will carry a small payload and operate only in restricted areas for
+limited periods of time. If mechanical issues arise the sUAS can land immediately and
+
+                                                                                                                 10
+ :_:.;.;,
+
+ERICSSON
+
+will be operating from no higher than 400 feet AGL. As provided in the Manual, the
+operator will ensure that the sUAS is in working order prior to initiating flight, perform
+required maintenance, and keep a log of any maintenance performed. Moreover, the
+operator is the person most familiar with the aircraft and best suited to maintain the
+aircraft in an airworthy condition to provide the equivalent level of safety.
+
+8900.227 Paragraph 16 (c) (4) PIC Medical. and Paragraph 16 (e) (1) Observer
+Medical.
+This policy provides that both the PIC and observer must have a valid FAA second-
+class medical certificate issued under part. 67 in order to perform as a pilot or observer.
+Requiring the crew to meet the same medical requirements as commercial pilot
+carrying passengers in a large aircraft is an unnecessary burden. We propose that the
+minimum medical requirements be vision corrected to 20/20 and a valid , state-issued
+driver's license. The risk of both the PIC and observer becoming incapacitated at the
+same time and suddenly is very low. Further, since the sUAS is operating close to the
+ground, it could be brought in for landing in a very short time if incapacitation was
+suspected. Finally, most sUAS's are equipped with an automatic return to home feature
+which would provide a final level of safety. We feel this would provide an equivalent
+level of safety.
+
+Pursuant to 14 CFR Part 11, the following summary is provided for publication in the
+Federal Register, should it be determined that publication is needed:
+Applicant seeks an exemption from the following rules:14 CFR 21, subpart H; 14 CFR
+45.23 (b); 45.27 (a);14 CFR 61.113( a) & (b); 14 CFR 91 .7 (a); 91 .9 (b) (2) ;91 .103 (b) ;
+91.1 05; 91.1 09; 91.119; 91.121; 91.151 (a);91.203 (a) & (b); 91.405 (a); 91.407 (a) (1 );
+
+91.409 (a) (2); 91 .409 (a) (2) & 91.417 (a) & (b); 8900.227 §16 (c) (4) and §16 (e) (1) to
+
+operate commercially a small unmanned vehicle (55 lbs. or less) in various data and
+telecommunication projects and installations as part of the service delivery,
+
+Approval of exemptions allowing commercial operations of sUASs in the data and
+telecommunication industry enhances safety while reducing risk. Manned aircraft
+monitoring and surveying creates a greater risk because the craft are much larger,
+have combustible fuel, and carry an onboard human pilot. In contrast, a sUAS weighing
+fewer than 10 lbs. and powered by batteries eliminates virtually all of that risk given
+the reduced mass and lack of combustible fuel carried on board. The sUAS will
+carry no passengers or crew and, therefore, will not expose them to the risks
+associated with manned aircraft flights.
+
+The operation of sUASs, weighting less than 10 lbs., conducted in the strict
+conditions outlined above, will provide an equivalent level of safety supporting the
+grant of the exemptions requested herein, including exempting the applicant from
+the requirements of Part 21 and allowing commercial operations . These lightweight
+aircraft operate at slow speeds, close to the ground, and in a sterile environment and,
+as a result , are far safer than conventional operations conducted with turbine
+helicopters operating in close proximity to the ground and people.
+
+                                                                                                                               11
+ ~_..,
+
+ERICSSON
+Privacy
+All flights will occur over controlled access private property with the private property
+owner's prior consent and knowledge . Images taken may include individuals who
+have also given consent to being filmed or otherwise have agreed to be in the area
+where aerial photography will take place.
+Summary
+Satisfaction of the criteria provided in Section 333 of the Reform Act of 2012-size,
+weight, speed, operating capabilities, proximity to airports and populated areas and
+operation within visual line of sight and national security- provide more than adequate ·
+justification for the grant of the requested exemptions allowing commercial operation of
+applicant's sUASs in the telecom and data technology services industry pursuant to
+the Operations Manual appended hereto.
+
+        ISCO A. Rullan
+Legal Counsel
+
+Ericsson Caribbean, Inc.
+City View Plaza II
+Suite 6010
+Guaynabo, PR 00968
+Tel. 954-804-5724
+Francisco.rullan@ericsson.com
+
+                                                                                                              12
+                                      .~....,
+
+                                                                                                                ERICSSON
+
+Ericsson Operational Manual
+
+Small Unmanned Aircraft System (sUAS): Phantom 2
+Vision+
+PROCEDURE MANUAL
+
+         -
+
+               --
+
+              -
+
+                 /
+
+ RevB
+Commitment of Accountable Manager
+
+This Operations Manual describes the organization and procedures by which Ericsson
+Caribbean Inc. Puerto Rico carries out its Small Unmanned Aircraft Operations.
+
+It is accepted that these procedures do not override the necessity of complying with any
+new or amended regulation published by the Federal Aviation Administration (FAA) from
+time to time, where these new or amended regulations are in conflict with these
+procedures.
+
+Signed........ ..... ................. ...... .. ...... ............................. ..... ........ ... ..... .
+
+For and on behalf of
+
+Registered Company Name:  Ericsson Caribbean Inc. (EPR)
+
+Registered Address:       City View Plaza
+
+                          48 Carr 165 Suite 601 0
+
+                          Guaynabo PR 00968
+
+                          Puerto Rico, USA.
+
+Enquiries regarding the content of this document should be addressed to:
+
+diego.rafael.cardenas@ericsson.com
+1 Administration, Control & Responsibilities ................................... 6
+1.1 Purpose ............................................................................................. 6
+1.2 Scope ................................................................................................6
+1.3 Definitions and Abbreviations.............................................................6
+1.4 Document Control and Amendment Process ..................................... 7
+1.5 Referenced Documents .....................................................................7
+1.6 Organization ...................................................................................... 7
+1.7 Insurance Information ........................................................................ 8
+1.8 Nominated Personnel ........................................................................ 8
+1.9 Responsibilities .................................................................................. 8
+
+2 Crew Composition, Qualification & Health requirements ............. 9
+2.1 Flight Team Composition ................................................................... 9
+2.2 Qualification Requirements ................................................................ 9
+2.3 Lone Working .................................................................................... 9
+2.4 Crew Health ....................................................................................... 9
+2.5 Operation of Multiple types of sUAS ..................................................9
+2.6 Supervision of sUAS Operations........................................................9
+2. 7 Logs and Records............................................................................ 10
+2.8 Useful Android Applications ............................................................. 10
+
+3 Operational Procedures ................................................................ 11
+3.1 Types of Operations ........................................................................ 11
+3.2 Operating limitations and conditions ................................................ 11
+
+4 Flight Planning and Preparation ................................................... 12
+4.1 Determination of intended task and feasibility .................................. 12
+4.2 Operating Site Location and assessment......................................... 12
+4.3 Risk Management. ................................................................ ........... 12
+4.4 Pre-notification ................................................................................. 12
+4.5 Site Permissions .............................................................................. 13
+4.6 Weather ........................................................................................... 13
+4.7 Preparation and serviceability of equipment and sUAS .................... 13
+4.8 Software Upgrades and Calibration ................................................. 13
+4.9 Charging and fitting Batteries ........................................................... 13
+
+5 On Site Procedures ....................................................................... 14
+5.1 Site Survey ...................................................................................... 14
+5.2 Selection of operating areas and alternatives .................................. 14
+5.3 Crew Briefing ................................................................................... 14
+5.4 Controlled Access Measures ........................................................... 14
+5.5 Communications .............................................................................. 15
+5.6 Weather Checks .............................................................................. 15
+5.7 Loading of equipment ...................................................................... 15
+
+6 FLIGHT PROCEDURES .................................................................. 16
+6.1 Pre-embarkation .............................................................................. 16
+6.2 Pre-flight ......................... ................................................................. 16
+6.3 Start-up............................................................................................ 17
+6.4 Take-off ........................................................................................... 17
+6.5 In flight ............................................................................................. 17
+6.6 Shut-down ....................................................................................... 17
+
+7 Absolute Rules............................................................................... 18
+8 EMERGENCY PROCEDURES........................................................ 20
+8. 1 Loss of power to engine...................................................................20
+8.2 Aircraft Battery Failure .....................................................................20
+8.3 Transmitter Battery Failure ..............................................................20
+8.4 Loss of Control Frequency ............................................................... 20
+8.5 Malicious or accidental interference with control frequency.............. 20
+8.6 Pilot Incapacitation........................................................................... 21
+8. 7 Fly Away Action .................................................................. ............. 21
+8.8 Battery fire ....................................................................................... 21
+
+9 AIRCRAFT OPERATION ................................................................22
+9.1 Technical Description....................................................................... 22
+9.2 Aircraft Specifications ...................................................................... 23
+9.3 Accident Prevention and Flight Safety Programme .......................... 24
+
+10 APPENDIX A- PERMISSION FOR AERIAL WORK ...................... 25
+
+11 APPENDIX 8 ................................................................................... 26
+11.1 sUAS Checklist- DJI Phantom........................................................ 26
+
+12 APPENDIX C................................................................................... 27
+12.1 RECORDS AND LOGS ............. ...................... .............. .................. 27
+
+13 APPENDIX D................................................................................... 28
+13.1 Risk Assessment ............................................................................. 28
+1    Administration, Control & Responsibilities
+
+1.1  Purpose
+1.2
+     The purpose of this document is to detail the items to be covered for the operation of the
+1.3  DJI Phantom Vision 2+ Small Unmanned Aircraft System (sUAS) by Ericsson Caribbean
+     Inc. personnel.
+
+     Scope
+
+     This operations manual applies to all personnel involved with the operation of the DJI
+     Phantom Vision 2+.
+
+     By law, any aircraft operation in the national airspace requires a certificated and registered
+     aircraft, a licensed pilot, and operational approval. Section 333 of the FAA Modernization and
+     Reform Act of 2012 (FMRA) grants the Secretary of Transportation the authority to determine
+     whether an airworthiness certificate is required for a UAS to operate safely in the National
+     Airspace System (NAS). A Small Unmanned Aircraft System [sUAS] is defined by the
+     Federal Aviation Administration [FAA] A UAS is the unmanned aircraft (UA) and all of the
+     associated support equipment, control station, data links, telemetry, communications and
+     navigation equipment, etc., necessary to operate the unmanned aircraft.
+
+     The UA is the flying portion of the system, flown by a pilot via a ground control system, or
+     autonomously through use of an on-board computer, communication links and any
+     additional equipment that is necessary for the UA to operate safely. The FAA issues an
+     experimental airworthiness certificate for the entire system, not just the flying portion of
+     the system.
+
+     This authority is being leveraged to grant case-by-case authorization for certain unmanned
+     aircraft to perform commercial operations prior to the finalization of the Small UAS Rule, which
+     will be the primary method for authorizing small UAS operations once it is complete.
+
+     The Section 333 Exemption process provides operators who wish to pursue safe and legal
+     entry into the NAS a competitive advantage in the UAS marketplace, thus discouraging illegal
+     operations and improving safety. It is anticipated that this activity will result in significant
+     economic benefits, and the FAA Administrator has identified this as a high priority project to
+     address demand for civil operation of UAS for commercial purposes.
+
+     Definitions and Abbreviations
+
+     ATZ   Aerodrome Traffic Zone
+
+     CFR   Code of Federal Regulations
+
+     GHz   Gigahertz
+
+     FAA   Federal Aviation Administration
+
+     MTOM  Maximum Take-off Mass
+     NTSB  National Transport Safety Board
+     OSD   On-Screen Display
+     RC    Radio Control
+           Return to Home
+     RTH   Small Unmanned Aircraft System
+           Visual Line of Sight
+     sUAS
+     VLOS
+
+1.4  Document Control and Amendment Process
+1.5
+1.6  When any updates are necessary to Ericsson Caribbean Inc. sUAS Operations Manual,
+     such as the adding of new aircraft, crew or sUAS operational uses, an amended
+     Operations Manual will be sent to the Federal Aviation Administration for approval and the
+     amendment noted in the amendments table.
+
+     Referenced Documents
+
+     1. Section 333 of the FAA Modernization and Reform Act of 2012 (FMRA)
+
+     2. Notice of proposed rulemaking (NPRM), Federal Register I Vol. 80, No. 35 I Monday,
+         February 23, 2015 I Proposed Rules: Operation and Certification of Small Unmanned
+          Aircraft Systems. 14 CFR Parts 21, 43, 45, 47, 61, 91, 101, 107, and 183
+
+     Organization
+
+     Ericsson is the driving force behind the Networked Society- a world leader in
+     communications technology and services. Our long-term relationships with every major
+     telecom operator in the world allow people, businesses and societies to fulfil their potential
+     and create a more sustainable future.
+
+     Our services, software and infrastructure- especially in mobility, broadband and the cloud
+     - are enabling the telecom industry and other sectors to do better business, increase
+     efficiency, improve the user experience and capture new opportunities.
+
+     Ericsson Caribbean Inc. was founded 1999 (company registration number 106645) with
+     office address; City View Plaza, 48 Carr 165 Suite 6010, Guaynabo PR 00968, Puerto
+     Rico, USA. Ericsson Caribbean Inc. has 100 employees providing services to the entire
+     America continent.
+
+     Parent company Telefonaktiebolaget LM Ericsson (company registration number 556016-
+     0680) was founded 1876 and with global headquarter in Stockholm, Sweden.
+
+     Total Number of employees worldwide 118,055, whereof 15,516 in North America and
+     11,066 in Latin America
+
+     Forty percent of the world's mobile traffic is carried over Ericsson networks.
+2    Crew Composition, Qualification & Health
+     requirements
+2.1
+2.2  Flight Team Composition
+
+2.3  Normal operations: sUAS Pilot.
+2.4  More demanding operations may require a payload operator or additional crew.
+2.5
+2.6  Qualification Requirements
+
+     All personnel operating Ericsson Caribbean Inc. sUAS must have undertaken the
+     following :
+
+                       · FAA approved ground training
+                       · FAA approved flight demonstration
+
+     Lone Working
+
+     All personnel operating Ericsson Caribbean Inc. sUAS must adhere to the following:
+                       · Group Directive, 034 02-3132 Uen, Occupational Health and Safety
+
+     Crew Health
+
+     All personnel operating Ericsson Caribbean Inc. sUAS must have a level of medical
+     fitness equivalent of those required for a Private Pilot's License; however no formal
+     certification is needed at this point.
+
+     Operation of Multiple types of sUAS
+
+     Upon the introduction of a new variety of sUAS the Ericsson Caribbean Inc. sUAS
+     Operator must familiarize themselves with the Operating procedures for that sUAS.
+
+     Supervision of sUAS Operations
+
+     All operations must comply within the Ericsson Group Management System.
+     Those instructing the sUAS Operations must ensure that the sUAS Operators comply with
+     FAA Regulations & Ericsson sUAS Operations Manual.
+2.7  Logs and Records
+2.8
+     On each operation, specific logs of the following will be recorded:
+                      · Onsite weather conditions
+                      · Battery voltage before and after each flight
+                      · Pilot hours
+                      · Aircraft hours
+                      · Any incident small enough not to warrant Mandatory Occurrence
+                           Reporting
+                      · Lone Working
+
+     Useful Android Applications
+
+     DJI Phantom Flight Helper
+                 For DJI Phantom Quadcopter Users
+                 Led light explanations
+                 Pre-flight Checks
+                 Setup Wizard
+                 Software Installation
+                 FAQ
+                 Phantom Forum
+                 DJI Dealers
+                 DJI Spare Parts
+
+     Pro Version
+                 Also for non-Phantom Vision 2 + sUAS
+
+     Flightlog - Pilot's Logbook
+                 Specific logs are attached and featured in Appendix C of this manual.
+
+     http://www.staysafeapp.com/
+                 For use when Lone Working
+3 Operational Procedures
+
+3.1 Types of Operations
+
+                        The majority of Ericsson Caribbean Inc. sUAS operations will entail aerial photography
+                        and videography for the following:
+
+                                          · Line Of Sight (LOS) Surveys
+                                          · Site Feasibility Studies (Site Acquisition surveys)
+                                          · Site Physical Installation Audits
+                                          · OASIS (Quality Audits on Installations)
+                                          · Health & Safety inspection and audits
+                                          · Trouble shooting and inspection of corrective works
+                                          · Drive test/signal test horizontally and vertically
+                                          · Thermal inspection of antennas, active elements and cabling
+                                          · Customer acceptance inspection
+                        Ericsson Caribbean Inc. reserves the right to explore new operational uses within the
+                        confines of the FAA regulations & the guidelines highlighted within this manual.
+
+3.2 Operating limitations and conditions
+
+Aircraft Type                     DJI Phantom Vision 2 +
+Operational Ceiling               2624ft amsl
+Operational Endurance             25 mins
+Maximum Speed                     49ft/s amsl
+Maximum OAT                       +40C
+Minimum OAT                       -OC
+Maximum Wind speed for operation  20kts
+4    Flight Planning and Preparation
+
+4.1  Determination of intended task and feasibility
+4.2
+     Before the commencement of any operation, Ericsson Caribbean Inc. sUAS Operator will
+4.3  evaluate the proposed task, ensure that the operation is possible within the bounds of
+4.4  safety, regulation and practicality, and if the desired outcome is achievable for the activity.
+     If the operation falls outside these bounds and cannot be modified to comply, it will not be
+     undertaken.
+
+     Operating Site Location and assessment
+
+          · Before the commencement of any operation, Ericsson Caribbean Inc. sUAS
+               Operator will research the proposed locations suitability for sUAS operations .
+
+          · This may include:
+
+          · Aeronautical map information to check the proximity of the proposed site to
+               airfields, the airspace the location falls inside and any Notice to Airmen (NOTAM)
+               which may affect the operation.
+
+          · Proximity to obstacles such as structures, buildings & bridges.
+
+          · Proximity to any source of radio interference such as high intensity radio masts,
+               power lines.
+
+          · Proximity to residential housing and populace.
+
+          · The topography of the area.
+
+          · Retrieving information and contact details on local Police Office Stations, hospitals
+               and fire brigade in the event of an emergency.
+
+     Risk Management
+
+     A risk assessment matrix (Appendix D) shall be used to help evaluate the potential risks of
+     a particular operation and highlight the areas where safety gains may be made. If not
+     enough can be done to mitigate the highlighted risks and the calculated value considered
+     too high, the operation will be cancelled.
+
+     Pre-notification
+
+     Should the site fall within a congested area, controlled airspace of within 5NM/ 8KM of an
+     aerodrome boundary, contact will be made with the FAA and controlling authority
+     requesting permission for the operation. The operation will only take place after written
+     permission has been achieved. If applicable, local Police Office may also be notified.
+4.5  Site Permissions
+4.6
+4.7  Permission must be obtained from those within 50m of take-off & landing.
+4.8
+4.9  Additional permission from site providers or agents must be sought in accordance with
+     site access requirements & agreements.
+
+     Weather
+
+     The sUAS Operator must familiarize themselves with the long range weather forecasts for
+     the area. This will inform the Operator of the conditions likely to be faced at the site and
+     any precautions which should be taken. In the event of weather conditions that fall
+     outside of the operational envelope of the aircraft, the operation will be cancelled or
+     postponed. Onsite weather checks will also be carried out by the sUAS Operator.
+
+     Preparation and serviceability of equipment and sUAS
+
+     Before an operation, a pre-flight check will also be made of the aircraft as shown in the
+     pre-flight checklist in Appendix B.
+
+     If any maintenance or repair works have been carried out on the aircraft, a flight test will
+     be carried out to prove serviceability and safety. The sUAS will be serviced by an
+     approved competent person annually, and replaced after 10,000 flight hours.
+
+     Software Upgrades and Calibration
+
+     During Preparation the sUAS Operator is to conduct a check for SW upgrades and
+     Calibration of the GPS system on board the aircraft. This requires periodic checks for
+     software updates. The application required- DJI Phantom 2- Naza-M Assistant Software
+     v2.20
+
+     Charging and fitting Batteries
+
+     Lithium Polymer batteries are used to power Ericsson Caribbean Inc. sUAS. An
+     undesirable by-product of these batteries is the ability to self-combust. Caution must be
+     used in the care and management of the flight packs. Flight batteries may be charged
+     using chargers approved by the sUAS Manufacturer specifications & in accordance with
+     Manufacturer guidelines. Flight packs will have their cell voltages recorded before and
+     after charging in the battery log. (See Appendix C)
+
+     Real time monitoring of flight pack voltage will be available to the pilot on an on screen
+     display via live telemetry.
+5 On Site Procedures
+
+5.1 Site Survey
+
+                        Ericsson Caribbean Inc. sUAS Operator will carry out the onsite survey to check that the
+                        site is as expected from the research on the intended location. Any variations on this
+                        information will be evaluated to ensure continued safety and suitability of the operation.
+
+5.2 Selection of operating areas and alternatives
+
+                        Onsite, a suitable take-off and landing site will be chosen that fits the requirements of the
+                        operation. A second landing site may also be chosen if there is the possibility of the first
+                        being compromised.
+
+5.3 Crew Briefing
+
+                        Before the operation commences the crew must be briefed on the following :
+
+                                         · The purpose of the operation
+
+                                         · Applicable airspace considerations
+                                         · Individual's responsibilities
+
+                                         · Relevant safety information
+                                         · Emergency procedures
+
+5.4 Controlled Access Measures
+
+                        Having paced the area in which the Operation will take place the sUAS Operator should
+                        identify landmarks on the periphery of the operation so as to provide a reference for the
+                        restricted area.
+                        In each case the sUAS Operator should consider whether it is appropriate to place
+                        restrictions [cordon off] the take-off and landing area in order to keep third parties safe
+                       from sUAS operations.
+5.5  Communications
+
+5.6  Ericsson Caribbean Inc. sUAS Operator should ensure they have full concentration on the
+5.7  Operation & to consider the risk of external distractions as part of the Operation Risk
+     assessment. If operating as a lone worker, the sUAS Operator is prohibited from using
+     other communications devices, non-essential to the Operation.
+
+     Ericsson Caribbean Inc. sUAS operations crew may communicate using two way radio
+     headsets. This will ensure that difficult communication due to outside noise or distance
+     between the crew will not compromise the safety or efficiency of the operation. If
+     applicable the payload operator will have an ear free in order to listen to 3m Party input, or
+     outside warnings. The pilot will receive any safety warnings or 3m Party input via the
+     payload operator. This ensures no disturbance to the pilot's concentration from unwanted
+     sources and only essential information is relayed . The pre-flight briefing will cover the
+     eventuality of crew communications failure and the procedures to be taken. These
+     communications devices will not operate on a conflicting frequency to any flight operations
+     equipment and Ericsson Caribbean Inc. sUAS Operators will hold any radio license (if
+     required) to operate them.
+
+     Weather Checks
+
+     Forecasts will be updated before all flights & captured in the Risk Assessment. Wind
+     speed will be measured using handheld anemometer prior to take off & recorded in the
+     flight log checklist.
+
+     Loading of equipment
+
+     All payloads must be operated within the range limitations set down in the manufacturer's
+     manual. However, payloads on the Ericsson Caribbean Inc. sUAS cannot be altered. The
+     Phantom Vision 2+ has an integrated Camera/Gimbal Unit that is not modular. Correct
+     function will be assessed onsite before attempting the operations.
+6    FLIGHT PROCEDURES
+
+6.1  Checklists are employed to ensure all equipment needed is present, that the sUAS to be
+6.2  flown is in an airworthy condition and that steps are taken in the correct sequence and
+     without omission. In cases where are two party crew are onsite both personnel should be
+     involved in checklist completion , and if this is the case, a 'challenge-response' method will
+     be utilized.
+
+     Pre-embarkation
+
+     A pre-embarkation checklist ensures all equipment needed to safely complete an
+     operation is present.
+
+     Pre-flight
+
+     The pre-flight checklist runs through the procedure used to inspect the aircraft and
+     payload to ensure its airworthiness. This also includes a last-minute voltage check of the
+     flight batteries to ensure sufficient charge. The sUAS Operator should take time to assess
+     the area in which the Operation will commence. This includes pacing the local &
+     identifying the primary & a secondary landing area (as per Checklist).
+
+     The Ericsson Caribbean Inc. sUAS flight limits are configured within per FAA regulations.
+
+     -'**-Stltd"OltonoQllnICI-lt...,....tolllolglll- -~
+                                                Jt20m
+     CIIc*
+     lhoo.~J_..._,_ I_IISp_oollk_n· lo.r.       ..~ - !500111
+     dltllll M spercill.._..lltMon
+
+      $prglf... "'few ....
+
+     " R-toUIOf_lof_._
+
+                                                - · -~         A
+6.3  Start-up
+
+6.4  The start-up checklist runs through the power-up procedures of all flight operation
+6.5  equipment to the take-off phase of flight. sUAS modes will be confirmed through LED &
+     on-screen display indications (OSD). The pilot will announce 'Rotors On' before
+6.6  application of power.
+
+     Take-off
+
+     When the sUAS Operator is ready for take-off, after a last scan to ensure no hazards
+     exist, the pilot will start the timer and announce 'taking off before starting the engines.
+     The aircraft will then lift-off to a height of around 4-6ft off the ground to clear the ground
+     effect of its propellers. A flight controls check is then performed to satisfy the pilot that the
+     aircraft responds as it should to his control input before departing to start the task.
+
+     In flight
+
+     The sUAS Operator's primary concern whilst airborne is the safety of personnel and other
+     airspace users.
+
+     The sUAS Operator will:
+
+     · Ensure that all regulations are adhered to.
+
+     · Monitor elapsed flight-time and ensure to land before the estimated time for battery
+          depletion as well as monitoring LED/ OSD indications for low power.
+
+     · Fly the sUAS with anticipation of potential failures at all times and will ensure Failsafe
+          and Return-to-home (RTH) features are armed at all times.
+
+     · Sacrifice the craft over the safety of personnel and property.
+
+     · Landing
+
+     · After returning from the operation, the pilot will scan the landing site for hazards.
+          Once satisfied, the pilot will call 'Landing' before lowering the aircraft to the ground.
+
+     Shut-down
+
+     When the sUAS has come to a rest after landing, the shut-down checklist will be
+     completed. Upon shutdown of the rotors the pilot will call 'rotors off and will never apply
+     further power without briefing the crew. Subsequent actions will include unplugging the
+     aircrafts flight batteries first to make the aircraft safe and then on to the shut-down of radio
+     links, video uplinks and the payload. Other than the safety aspect of unplugging the flight
+     packs, the main aim of the shut-down checklist is to ensure that no equipment is left on.
+
+     Specific checklists are attached and featured in Appendix B of this manual.
+7 Absolute Rules
+
+                        Regardless of whether segregated airspace has been granted or not, LM Ericsson IAA
+                        Permission for Aerial Work and Section 333 of the FAA Modernization and Reform Act of
+                       2012 (FMRA) and the Notice of proposed rulemaking (NPRM), Federal Register I Vol. 80,
+                       No. 35 I Monday, February 23, 2015 I Proposed Rules: Operation and Certification of
+                        Small Unmanned Aircraft Systems. 14 CFR Parts 21 , 43, 45, 47, 61 , 91 , 101 , 107, and
+                        183, the following absolute rules must be adhered to:
+
+                             · sUAS shall not be operated beyond Visual Line of Sight (VLOS) and not further
+                                  than 500 meters from the point of operation. Operators may work with a visual
+                                  observer, but the operator still must be able to maintain visual line of sight
+
+                             · sUAS shall not be operated at a height of more than 400 feet (120 meters) above
+                                  ground level and no faster than 100 mph
+
+                             · Flights must take place during daylight hours
+
+                             · The operator must assess weather conditions, airspace restrictions and the
+                                  location of people to lessen risks if he or she loses control of the sUAS
+
+                             · sUAS shall not be operated over or within the confines of a congested area except
+                                  with the written permission of the Authority
+
+                             · sUAS shall not be operated over any assembly of persons on the ground nor
+                                  closer than 150 meters laterally from such an assembly
+
+                            · sUAS shall not be operated within 150 meters of any person , vessel, vehicle or
+                                  structure not under the control of the sUAS operator; during take-off or landing
+                                  however, the aircraft must not be flown within 50 meters of any person , unless that
+                                  person is under the control of the sUAS operator.
+
+                             · sUAS shall not be operated within an aerodrome traffic zone or closer than 8
+                                  kilometers (5 nautical miles) from an aerodrome boundary, whichever is the
+                                  greatest distance, except with the written permission of the Air Controlling
+                                  Authority.
+
+                            · sUAS shall not be operated closer than 2 kilometers from an aircraft in flight. The
+                                  operator must always see and avoid manned aircraft. If there is a risk of collision,
+                                  the drone operator must be the first to maneuver away
+
+                            · sUAS must stay out of airport flight paths and restricted airspace areas, and obey
+                                  any FAA Temporary Flight Restrictions (TFRs)
+
+                            · sUAS shall not be operated unless there is in place a third party liability insurance
+                                  policy covering the operation of the system which is acceptable to the Authority
+
+                            · The drone must be registered and aircraft markings are required
+
+                            · Operators must be 17 years old, pass an aeronautical knowledge test, hold an
+                                  FAA UAS operator certificate, and pass a TSA background check.
+
+                            · Aeronautical knowledge testing must be renewed every 24 months (no private pilot
+                                  license or medical rating would be required)
+· Operators must ensure their aircraft is safe for flight, but there are no
+     airworthiness standards or certification requirements (a preflight inspection
+
+    conducted by the operator, checking communications links and equipment is
+
+     sufficient)
+
+· Operators must report an accident to the FAA within 10 days of any operation that
+     results in injury or property damage
+
+· No operations are allowed in Class A (18,000 feet & above) airspace. Operations
+     in Class B, C, D and E airspace are allowed with the required ATC permission ,
+     Operations in Class G airspace are allowed without ATC permission
+
+· The proposed rule maintains the existing prohibition against operating in a
+     careless or reckless manner. It also would bar an operator from allowing any
+     object to be dropped from the UAS
+
+· The operator must discontinue the flight when continuing would pose a hazard to
+     other aircraft, people or property
+8    EMERGENCY PROCEDURES
+
+8.1  Loss of power to engine
+8.2
+8.3  Motor failures may cause the sUAS to enter an uncontrolled descent. Multi-rotor aircraft
+     have no gliding capability and this kind of failure will certainly result in a crash . A loud
+8.4  warning will be called by the sUAS Operator to anyone near to make them aware of the
+     situation and potential danger.
+8.5
+     Aircraft Battery Failure
+
+     This is the same as total motor failure on single battery aircraft. The aircraft will quickly
+     descend to the ground, uncontrollably with no power. Should the battery fail, the aircraft
+     will descend uncontrolled, and a loud warning will be called to help those around to avoid
+     the danger.
+
+     Transmitter Battery Failure
+
+     The Ericsson Caribbean Inc. Puerto Rico sUAS are equipped with an integrated Failsafe
+     System. This system is set up to "fail safe" in the event of loss of control link to the aircraft
+     which is what will happen in this event. Failsafe mode will give control to the flight
+     controller which will climb the aircraft to 60m altitude if below that height, or stay at its
+     present height, if above 60m. The aircraft will then return on this altitude above its
+     departure point and wait for 30 seconds to see if it can re-establish the control link.
+     Should this not be possible, the aircraft will auto-land at its departure point and shut-down
+     its motors, the shut-down checklist will then be read by the sUAS Operator. The
+     designated sUAS Operator will ensure this mode is armed before flight.
+
+     Loss of Control Frequency
+
+     Having been pre-configured as part of the pre-flight checklist failsafe parameters, the
+     aircraft will be programmed to enter Autoland/ RTH mode. In the event of an Autoland/
+     RTH the shut-down checklist will be read and the aircraft made safe. Investigations will
+     then be made into the failure of the control frequency and the Incident Report will be
+     completed . No further flights will take place at that site until a cause and resolution has
+     been found.
+
+     Malicious or accidental interference with control frequency
+
+     If the source of the interference cannot be found and stopped, the operation will be
+     cancelled .
+8.6  Pilot Incapacitation
+8.7
+8.8  Should the sUAS become incapacitated for any reason the sUAS will activate the return-
+     to-home function once the battery reaches a pre-configured warning level. Return-to-
+     home mode will give control to the flight controller which will climb the aircraft to a
+     predetermined altitude (usually set to 60m) if below that height, or stay at its present
+     height, if above 60m. The aircraft will then return to overhead its departure point and wait
+     for 30 seconds for further instruction. If none are received, the aircraft will auto-land at its
+     departure point and shut-down it's motors. The aircraft will be made safe and appropriate
+     help given to the pilot.
+
+     Fly Away Action
+
+     Fly Away's are uncontrolled aircraft flight where no control input from the pilot has any
+     effect. A Fly Away is very unlikely but still may occur. If the aircraft does not encounter
+     any obstacles, the auto-land feature is likely to be activated when the battery is depleted
+     and the aircraft will attempt to land wherever it is. The other possibility is a collision with
+     an obstacle or the ground. Should a fly-away occur, the sUAS Operator will note the
+     speed and flight direction of the aircraft and inform local Air Traffic Control, if applicable,
+     and the local Police Office. A reasonable estimation could be made about the potential
+     range of a fly-away from the battery duration remaining and the aircrafts speed. Before
+     flight, the sUAS Operator will ensure that the main controller is programmed to limit flight
+     to 500m range and 400ft altitude. This may limit the range the sUAS will travel.
+
+     Battery fire
+
+     LiPo batteries in their initial stages (10-15secs) are almost impossible to extinguish. The
+     sUAS Operator must have a fire extinguisher on hand to extinguish any secondary fires
+     which may occur. All fires will be reported with an Incident Report and to the relevant
+     authorities
+
+     DJI Smart Flight Battery Safety Guidelines to be adhered
+9 AIRCRAFT OPERATION
+
+9.1 Technical Description
+
+9.1.1  Designation and Type
+       OJ I Phantom Vision 2 +
+       Model No. - PV331
+       Serial No.- PH645475998 V3.0 CE
+
+                                        ·.",.......-..
+9.2 Aircraft Specifications
+
+Aircraft  Supported Battery                       DJI 5200mAh LiPo Battery
+          Weight (Battery & Propellers Included)  1242g
+          Hover Accuracy (Ready To Fly)           Vertical: 0.8m; Horizontal: 2.5m
+          Max Yaw Angular Velocity                200°/s
+          Max Tiltable Angle                      35°
+          Max Ascent I Descent Speed              Ascent: 6m/s; Descent: 2m/s
+          Max Flight Speed                        15m/s (Not Recommended)
+          Diagonal Motor-Motor Distance           350mm
+
+Gimbal    Working Current                         Static : 750mA; Dynamic : 900mA
+          Control Accuracy
+          Controllable Range                      ±0.03°
+          Maximum Angular Speed
+                                                  Pitch : -90° -oo
+
+                                                  Pitch : 90°/s
+
+Camera    Operating Environment Temperature       0°C-40°C
+          Sensor Size                             1/2.3"
+          Effective Pixels                        14 Megapixels
+          Resoluti on                             4384x3288
+          HD Recording                            1080p30 & 720p
+          Recording FOV                           110° I 85°
+
+Remote    Operating Frequency                     5.728 GHz-5.85 GHz
+Control
+
+          Communication Distance (Open Area)      CE Compliance: 400m; FCC Compliance: 800m
+          Receiver Sensitivity (1%PER)            -93dBm
+                                                  CE Compliance: 25mW; FCC Compliance: 1OOmW
+          Transmitter Power                       120 mA@3.7V
+          Working Voltage
+          Built-In LiPo Battery Working           3.7V, 2000mAh
+          CurrenVCapacity
+
+Range     Operating Frequency                     2412-2462MHz
+Extender
+          Communication Distance (Open Area)      500-?00m
+          Transmitter Power                       20dBm
+          Power Consumption                       2W
+
+DJI       System Requirement Of Mobile            iOS version 6.1 or above/ Android system version
+VISION    Device                                  4.0 or above
+App
+          Mobile Device Support                   iOS recommended: iPhone 4s, iPhone 5, iPhone
+                                                  5s, iPhone 6, iPhone 6 Plus, iPod touch 5
+
+                                                  Android recommended: Samsung Galaxy S3, S4,
+
+                                                  Note 2, Note 3 or phones of similar configuration
+9.3  Accident Prevention and Flight Safety Programme
+
+     Safety is paramount to Ericsson Caribbean Inc. A constant learning process is employed
+     where incidents are noted including their context, in order to prevent repeats. Depending
+     on the seriousness of the incident, it may be just recorded in Ericsson Caribbean Inc. own
+     incident log. This is for small occurrences, such as minor sUAS Operator errors that could
+     have led to damage to Ericsson Caribbean Inc. equipment or compromise the quality of
+     the service provided to customers. These minor incidents, however, would pose no risk of
+     injury to people or damage to property. More serious events would need to be reported in
+     the FAA's and National Transport Safety Board AccidenUincident Information Reporting
+     Scheme. http://www.ntsb.gov/ layouts/ntsb.aviation/index.aspx
+
+     Examples of NTSB reportable occurrences would be:
+
+                      · Loss of control/data link
+
+                      · Navigation failures
+
+                      · Any incident that injures a third party
+
+                      · Battery damage or fire
+
+                      · Mechanical failure of the motors
+
+     Information retrieved in this log will be implemented in checklists or flight safety briefings
+     in the future to ensure a constant process of improvement.
+10 APPENDIX A- PERMISSION FOR AERIAL
+            WORK
+
+                         Insert specific Permission in here once received from the FAA.
+11    APPENDIX B
+
+11.1  sUAS Checklist- OJI Phantom
+
+      Title : sUAS Checklist- OJI Phantom
+      Document Number: LMI-14:003329 Uen Revision: A
+      Prepared By: LMI/ROR/IDA Sean Fox
+12    APPENDIX C
+
+12.1  RECORDS AND LOGS
+
+      Title: sUAS Flight Records & Logs
+      Document Number: LMI-14:003328 Uen Revision: A
+
+      Prepared By: LMI/ROR/IDA Sean Fox
+13    APPENDIX D
+
+13.1  Risk Assessment
+
+      Title: Risk Assessment - Working with sUAS
+      Document Number: LMI-14:003327 Uen Revision : A
+      Prepared By: LMI/RORIIDA Sean Fox
+

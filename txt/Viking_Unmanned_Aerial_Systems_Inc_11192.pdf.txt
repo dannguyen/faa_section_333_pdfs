@@ -1,0 +1,554 @@
+                                                 1
+
+                                  Exemption No. 11192
+
+      UNITED STATES OF AMERICA
+ DEPARTMENT OF TRANSPORTATION
+FEDERAL AVIATION ADMINISTRATION
+
+          WASHINGTON, DC 20591
+
+In the matter of the petition of
+
+VIKING UNMANNED AERIAL                       Regulatory Docket No. FAA­2014­0850
+SYSTEMS, INC.
+
+for an exemption from part 21; §§ 45.23(b);
+61.113(a) and (b); 91.7(a); 91.9(b)(2);
+91.103; 91.109; 91.119; 91.121; 91.151(a);
+91.203(a) and (b); 91.405(a); 91.407(a)(1);
+91.409(a)(2); and 91.417(a) and (b) of
+Title 14, Code of Federal Regulations
+
+                                  GRANT OF EXEMPTION
+
+         By letter dated June 6, 2014 Mr. Christopher M. Taylor, Viking Unmanned Aerial
+Systems, Inc. (AgriView Aerial Solutions Division) (hereinafter Petitioner or Operator), 16
+Sanford Drive, Suite 5, Gorham, Maine 04038 petitioned the Federal Aviation Administration
+(FAA) for an exemption from part 21, §§ 45.23(b), 61.113(a) and (b), 91.7(a), 91.9(b)(2),
+91.103, 91.109, 91.119, 91.121, 91.151(a), 91.203(a) and (b), 91.405(a), 91.407(a)(1),
+91.409(a)(2), and 91.417(a) and (b) of Title 14, Code of Federal Regulations (14 CFR). The
+exemption would allow the petitioner to operate the Viking Ranger EX unmanned aircraft
+system (UAS) to conduct aerial photography and 3D mapping for the agriculture industry.
+
+The petitioner supports its request with the following information:
+
+The petitioner proposes to operate the Viking Ranger EX UAS to conduct aerial photography
+and 3D mapping for the agriculture industry. See Appendix A for the petition submitted to
+the FAA, including the regulations from which the petitioner seeks an exemption.
+
+The petitioner has provided the following information to support its request for an exemption,
+which includes proprietary supporting documents:
+
+1) AgriView Aerial Solutions Flight Operations Standard Operating Procedure
+    2) Viking Ranger EX 3dMapping ­ UAS System Deployment Manual and Specifications
+    3) Viking Ranger EX UAS Aircraft Safety Checklist
+    4) Pixhawk Autopilot Quick Start Guide
+    5) Pixhawk Flight Controller Component Maintenance Manual Overview
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+
+The FAA's analysis is as follows:
+
+The FAA has organized its analysis into four sections: (1) UAS, (2) the UAS pilot in
+command (PIC), (3) the UAS operating parameters, and (4) the public interest.
+
+UAS
+
+The petitioner requested relief from 14 CFR part 21, Certification procedures for products
+and parts. In accordance with the statutory criteria provided in Section 333 of P.L. 112-95 in
+reference to 49 USC § 44704, and in consideration of the size, weight, speed, and limited
+operating area associated with the aircraft and its operation, the Secretary of Transportation
+has determined that this aircraft meets the conditions of Section 333. Therefore, the FAA
+finds that the requested relief from 14 CFR part 21, and any associated noise certification and
+testing requirements of part 36, is not necessary.
+
+Manned aircraft conducting aerial photography and 3D mapping for the agriculture industry
+can weigh thousands of pounds or more and are operated by an onboard pilot, in addition to
+other crewmembers as necessary. The petitioner's UA weighs less than 6 lbs. The pilot and
+crew will be remotely located from the aircraft. The limited weight reduces the potential for
+harm to participating and nonparticipating persons or damage to property in the event of an
+incident or accident. The risk to an onboard pilot and crew during an incident or accident is
+eliminated with the use of a UAS for the proposed operation.
+
+Manned aircraft are at risk of fuel spillage and fire in the event of an incident or accident. The
+UA carries no fuel, and therefore the risk of fire following an incident or accident due to fuel
+spillage is eliminated.
+
+This exemption does not require an electronic means to monitor and communicate with other
+aircraft, such as transponders or sense and avoid technology. Rather, the FAA is mitigating
+the risk of these operations by placing limits on altitude, requiring stand-off distance from
+clouds, permitting daytime operations only, and requiring that the UA be operated within
+visual line of sight (VLOS) and yield right of way to all manned operations. Additionally, the
+exemption provides that the operator will request a notice to airmen (NOTAM) prior to
+operations to alert other users of the NAS.
+
+The petitioner has stated that its UAS has the capability to operate safely after experiencing
+certain in-flight contingencies or failures and uses a failsafe mode to return to home and land
+in those instances. The petitioner stated as well that its UAS is able to respond to a loss of
+GPS or a lost-link event with pre-coordinated automated flight maneuvers.
+
+Regarding the petitioner's requested relief from 14 CFR § 45.23(b), Display of marks, the
+petitioner's request is made under the assumption that marking with the word "experimental"
+will be required as a condition of an exemption request. However, this marking is reserved for
+aircraft that are issued experimental certificates under § 21.191. Since the petitioner's UAS
+will not be certificated under 14 CFR § 21.191, a relief from 14 CFR § 45.23(b) is not
+necessary. Markings must be as large as practicable per § 45.29(f).
+
+Regarding the petitioner's requested relief from 14 CFR §§ 91.405(a) Maintenance required,
+91.407(a)(1) Operation after maintenance, preventive maintenance, rebuilding, or alteration,
+91.409(a)(2) Inspections, and 91.417(a) and (b) Maintenance records, the FAA has
+determined that relief from § 91.409(a)(1) is also necessary, because it is an alternate
+inspection requirement of § 91.409(a)(2). The FAA notes that the petitioner's operating
+documents contain preflight checks for the UAS. The petitioner also states that all required
+maintenance will be performed and logged. The FAA finds that adherence to the operating
+documents, as required by the conditions and limitations below, is sufficient to ensure that
+safety is not adversely affected. In accordance with the petitioner's UAS maintenance,
+inspection, and recordkeeping requirements, the FAA finds that exemption from
+14 CFR §§ 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a) and (b) is warranted
+subject to the conditions and limitations below.
+
+UAS PIC
+
+Regarding the petitioner's requested relief from 14 CFR § 61.113 Private pilot privileges and
+limitations, the FAA must consider the appropriate level of pilot certification for the
+petitioner's proposed operations. The petitioner states it would operate its UAS with a pilot
+holding a sport pilot certificate or a recreational pilot certificate and certified by the UA
+manufacturer and has completed the FAA private pilot written exam. Under current
+regulations, civil operations for compensation or hire require a PIC holding a commercial pilot
+certificate per 14 CFR part 61. As established in 14 CFR § 61.113(a), with limited exception, a
+pilot holding a private pilot certificate cannot act as a PIC of an aircraft for compensation or
+hire. However, in Grant of Exemption No. 11062 to Astraeus Aerial (Astraeus), the FAA
+determined that a PIC with a private pilot certificate operating the Astraeus UAS would not
+adversely affect operations in the NAS or present a hazard to persons or property on the
+ground. Additionally, as previously determined by the Secretary of Transportation, the
+requirement to have an airman certificate ameliorates security concerns over civil UAS
+operations conducted in accordance with Section 333.
+The FAA has analyzed the petitioner's proposed operation and determined it does not differ
+significantly from the situation described in Grant of Exemption No. 11062 (Astraeus). The
+petitioner commits to operating in Class G airspace, over private property or other confined
+areas, and with a security perimeter established in which a safe separation from non-
+consenting persons can be maintained. Given: 1) the similar nature of the petitioner's
+proposed operating environment to that of Astraeus, 2) the parallel nature of private pilot
+aeronautical knowledge requirements to those of commercial requirements, and 3) the
+airmanship skills necessary to operate the UAS, the FAA finds that the additional manned
+airmanship experience of a commercially certificated pilot would not correlate to the
+airmanship skills necessary for the petitioner's proposed operations. Therefore, the FAA finds
+that a PIC holding a private pilot certificate and a third-class airman medical certificate is
+appropriate for the proposed operations and that granting relief from 14 CFR § 61.113(a) is
+warranted.
+
+With regard to the airmanship skills necessary to operate the UAS, the petitioner has stated
+that it will require its PICs be certified by the manufacturer of the UAS to be operated. The
+conditions and limitations below require the petitioner to ensure the PIC has demonstrated
+the ability to safely operate the UAS in a manner consistent with how the UAS will be
+operated under this exemption, including evasive and emergency maneuvers and maintaining
+appropriate distances from people, vessels, vehicles, and structures.
+
+The petitioner indicates it will supplement its proposed operation(s) with a visual observer
+(VO) who has met the petitioner's training requirements. The conditions and limitations
+below stipulate that the PIC must ensure that the VO can perform the functions prescribed in
+the operating documents. It is the responsibility of the PIC to limit operations of the UA to
+distances within the visual capabilities of both the PIC and VO.
+
+The FAA considers the PIC to be designated for the duration of the flight. Therefore, per the
+conditions and limitations below, the PIC must be designated before the flight and cannot
+transfer his or her designation for the duration of the flight.
+
+UAS Operating Parameters
+
+The petitioner requested relief from 14 CFR § 91.7(a) Civil aircraft airworthiness and the
+FAA finds that relief from § 91.7(a) is necessary. While the petitioner's UAS will not
+require an airworthiness certificate in accordance with 14 CFR part 21, subpart H, the FAA
+considers the petitioner's compliance with its operating documents to be a sufficient means
+for determining an airworthy condition. Therefore, relief from § 91.7(a) is granted. The
+petitioner is still required to ensure that its aircraft is in an airworthy condition ­ based on
+compliance with the operating documents prior to every flight, and as stated in the conditions
+and limitations below.
+
+Additionally, in accordance with 14 CFR § 91.7(b), the PIC of the UAS is responsible for
+determining whether the aircraft is in a condition for safe flight and the FAA finds that the
+PIC can comply with this requirement.
+Regarding the petitioner's requested relief from 14 CFR § 91.9(b)(2) Civil aircraft flight
+manual, marking, and placard requirements and 14 CFR § 91.203(a) and (b) Civil
+aircraft: Certifications required, the FAA has previously determined in Grant of
+Exemption 11062, Astraeus Aerial, that relief from these sections is not necessary.
+Relevant materials may be kept in a location accessible to the PIC in compliance with the
+regulations.
+
+Regarding the petitioner's requested relief from 14 CFR § 91.103, Preflight action, the
+petitioner's operating documents require the PIC to take certain actions before flight to
+ensure the safety of the flight. The procedures outlined in the operating documents address
+the FAA's concerns regarding compliance with § 91.103. According to the petitioner, the
+PIC will take all actions including reviewing weather, flight battery requirements, landing,
+and takeoff distances/conditions, and aircraft performance data before initiation of flight.
+The FAA has imposed stricter requirements with regard to visibility and distance from
+clouds; this is to both keep the UA from departing VLOS and to preclude the UA from
+conflicting with other aircraft operating in the NAS. The FAA also notes the risks
+associated with sun glare; the FAA believes that the PIC's and VO's ability to still see
+other air traffic, combined with the PIC's ability to initiate a return-to-home sequence, are
+sufficient mitigations in this respect. The PIC will also account for all relevant site-
+specific conditions in his or her preflight procedures. Therefore, the FAA finds that
+exemption from 14 CFR § 91.103 is not necessary.
+
+Regarding the petitioner's requested relief from 14 CFR § 91.109 Flight instruction;
+Simulated instrument flight and certain flight tests, the petitioner did not describe training
+scenarios in which a dual set of controls would be utilized or required, i.e. dual flight
+instruction, provided by a flight instructor or other company-designated individual, that would
+require that individual to have fully functioning dual controls. Rather, the petitioner intends to
+accomplish training through the procedures referenced in the operating documents.
+Furthermore, the FAA is requiring that the petitioner's PICs possess at least a private pilot's
+certificate. Also, this exemption will require that training operations only be conducted during
+dedicated training sessions. The FAA finds that safety will not be adversely impacted if the
+petitioner follows the self-administered training and internal procedures outlined in the
+operating documents. Therefore, the FAA finds that the petitioner can conduct its operations
+without the requested relief from § 91.109.
+
+Regarding the petitioner's requested relief from 14 CFR § 91.119, Minimum safe altitude, the
+petitioner states that all operations will be conducted in Class G airspace, will avoid congested
+or densely populated areas (as identified by yellow areas on VFR sectional charts), will operate
+within a confined "sterile area" with landowner permission, and will operate with the consent
+of all persons inside the sterile area. The petitioner also states that it will operate as close as 30
+feet to consenting persons based upon an equivalent level of safety determination. The
+petitioner did not further describe how a "sterile area" would be created nor did it provide
+information on how persons not participating in or essential to the flight operations would be
+protected from an accident involving the UA. Therefore, the FAA is requiring that prior to
+conducting UAS specific operations, all persons not essential to flight operations
+(nonparticipating persons) must remain at appropriate distances. In open areas this requires
+the UA to remain 500 feet from all persons other than essential flight personnel (i.e. the PIC,
+VO, and any sensor operator). The FAA has also considered that the UA in this case will
+weigh less than 6 pounds. If barriers or structures are present that can sufficiently protect
+nonparticipating persons from debris in the event of an accident, then the UA may operate
+closer than 500 feet to persons afforded such protection. The operator must ensure that
+nonparticipating persons remain under such protection. If a situation arises where
+nonparticipating persons leave such protection and are within 500 feet of the UA, flight
+operations must cease immediately. When considering how to immediately cease operations,
+the primary concern is the safety of those nonparticipating persons. In addition, the FAA
+finds that operations may be conducted closer than 500 feet to vessels, vehicles and structures
+when the land owner/controller grants such permission and the PIC makes a safety assessment
+of the risk of operating closer to those objects.
+
+Thus, the FAA finds that relief from § 91.119(c) is necessary because all operations will be
+conducted below 400 feet above ground level (AGL) and may be operated closer than 500
+feet from persons, vessels, vehicles, and structures as described above. Provided adherence
+to the procedures in the operating documents and the additional conditions and limitations
+outlined below, the FAA finds that relief from § 91.119(c) is warranted.
+
+Relief from § 91.119(a), which requires operating at an altitude that allows a safe emergency
+landing if a power unit fails, is not granted. The FAA expects the petitioner to be able to
+perform an emergency landing without undue hazard to persons or property on the surface if a
+power unit fails. Relief from 14 CFR § 91.119(b), operation over congested areas, is not
+applicable, because the petitioner states that operations will only be conducted within the
+sterile area described in the operating documents. The conditions and limitations below will
+specifically prohibit operations over those areas. Relief from § 91.119(d) is also not
+necessary due to the nature of the proposed UAS operations.
+
+The petitioner also noted that it will avoid congested or populated areas "which are depicted
+in yellow on VFR charts." Since there is no precise definition of the term "congested area"
+and because aeronautical charts and NOTAMS provide only general guidance for developing
+a proposed route that complies with § 91.119, the petitioner should consult with the local
+Flight Standards District Office (FSDO) to discuss areas that would reasonably be considered
+"congested" within proximity of the proposed operations. Ultimately, the PIC is responsible
+for maintaining the minimum safe altitudes required in § 91.119.
+
+Regarding the requested relief from 14 CFR § 91.121 Altimeter settings, the petitioner stated
+that its UAS uses a global positioning system (GPS) altitude indicator rather than a barometric
+altimeter. As stated in the conditions and limitations below, the FAA requires any altitude
+reported to Air Traffic Control (ATC) to be in feet AGL. The petitioner may choose to set the
+GPS altitude indicator to zero feet AGL, if that option exists, rather than local barometric
+pressure or field altitude before flight. Considering the limited altitude of the proposed
+operations, relief from 14 CFR § 91.121 is granted to the extent necessary to comply with the
+applicable conditions and limitations stated below.
+Regarding the petitioner's requested relief from 14 CFR 91.151(a) Fuel requirements for flight
+in VFR conditions, relief has been granted for manned aircraft to operate at less than the
+minimums prescribed in 14 CFR § 91.151(a), including Exemption Nos. 2689, 5745, and
+10650. In addition, similar UAS-specific relief has been granted in Exemption Nos. 8811,
+10808, and 10673 for daytime, VFR conditions. The petitioner states that its UAS operations
+will be conducted in a confined "sterile area," with an unmanned aircraft (UA) weighing
+under 6 pounds, within VLOS, and limited to 90 minutes of flying. These factors, combined
+with the petitioner's stated intention to terminate flights with 25% remaining battery power,
+provides the FAA with sufficient reason to grant the requested relief from 14 CFR §
+91.151(a). In accordance with the conditions and limitations below, the PIC is prohibited from
+beginning a flight unless (considering wind and forecast weather conditions) there is enough
+power to fly at normal cruising speed to the intended landing point and land the UA with 25%
+battery power remaining.
+
+Additionally, in evaluating the petitioner's proposed operating parameters with regard to
+VLOS and a safe operating perimeter, the FAA considered operations from a moving device
+or vehicle. Since the petitioner did not discuss provisions for these circumstances, the
+conditions and limitations below preclude operations from moving devices or vehicles.
+
+Regarding an Air Traffic Organization (ATO) issued Certificate of Waiver or Authorization
+(COA), the majority of current UAS operations occurring in the NAS are being coordinated
+through ATC by the issuance of a COA. This is an existing process that not only makes local
+ATC facilities aware of UAS operations, but also provides ATC the ability to consider
+airspace issues that are unique to UAS operations. The COA will require the operator to
+request a NOTAM, which is the mechanism for alerting other users of the NAS to the UAS
+activities being conducted. The conditions and limitations below prescribe the requirement
+for the petitioner to obtain an ATO-issued COA.
+
+Public Interest
+
+The FAA finds that a grant of exemption is in the public interest. The potential improvements
+to the efficiency and yield of U.S. farm lands using a UAS with the specifications described by
+the petitioner, and carrying no passengers or crew, instead of a manned aircraft of significantly
+greater proportions, carrying crew in addition to flammable fuel, gives the FAA good cause to
+find that the UAS operation enabled by this exemption is in the public interest.
+The following table summarizes the FAA's determinations regarding the relief sought by the
+petitioner:
+
+Relief considered (14 CFR)  FAA determination (14 CFR)
+Part 21                     Relief not necessary
+45.23(b)                    Relief not necessary
+61.113(a)                   Relief granted with conditions and
+91.7(a)                     limitations
+91.9(b)(2)                  Relief granted with conditions and
+91.103                      limitations
+91.109                      Relief not necessary
+                            Relief not necessary
+91.119                      Relief not necessary
+                            Relief not granted for paragraph (a);
+91.121                      paragraph (b) relief not applicable;
+91.151(a)                   paragraph (c) relief granted with
+91.203(a) and (b)           conditions and limitations; paragraph (d)
+91.405(a)                   relief not necessary
+91.407(a)(1)                Relief granted with conditions and
+                            limitations
+91.409(a)(2)                Relief from 91.151(a)(1), day, granted
+                            with conditions and limitations
+91.417(a) and (b)           Relief not necessary
+                            Relief granted with conditions and
+                            limitations
+                            Relief granted with conditions and
+                            limitations
+                            Relief granted with conditions and
+                            limitations; relief from 91.409(a)(1) also
+                            granted with conditions and limitations
+                            Relief granted with conditions and
+                            limitations
+
+The FAA's Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, Viking Unmanned Aerial Systems Inc. is granted an
+exemption from 14 CFR §§ 61.113(a), 91.7(a), 91.119(c), 91.121, 91.151(a)(1), 91.405(a),
+91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a) and (b) to the extent necessary to allow
+petitioner to operate a UAS for the purpose of conducting aerial photography and 3D mapping
+for the agriculture industry. This exemption is subject to the conditions and limitations listed
+below.
+Conditions and Limitations
+Relative to this grant of exemption, Viking Unmanned Aerial Systems Inc. is hereafter
+referred to as the operator.
+
+The petition and the following supporting documentation are hereinafter referred to as the
+operating documents:
+
+    1) AgriView Aerial Solutions Flight Operations Standard Operating Procedure
+    2) Viking Ranger EX 3dMapping ­ UAS System Deployment Manual and Specifications
+    3) Viking Ranger EX UAS Aircraft Safety Checklist
+    4) Pixhawk Autopilot Quick Start Guide
+    5) Pixhawk Flight Controller Component Maintenance Manual Overview
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+The following conditions and limitations are subject to all flights utilizing this exemption:
+
+    1. Operations authorized by this grant of exemption are limited to the following aircraft
+         described in the operating documents which has one motor, is fixed wing, and weighs
+         less than 6 pounds: Viking Ranger EX. Proposed operations of any other aircraft will
+         require a new petition or a petition to amend this grant.
+
+    2. UAS operations under this exemption are limited to conducting aerial photography
+         and 3D mapping for the agriculture industry.
+
+    3. The UA may not be flown at a speed exceeding 70 knots.
+
+    4. The UA must be operated at an altitude of no more than 400 feet above ground level
+         (AGL).
+
+    5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+         This requires the PIC to be able to use human vision unaided by any device other than
+         corrective lenses, as specified on the PIC's FAA-issued airman medical certificate.
+
+    6. All operations must utilize a visual observer (VO). The UA must be operated within
+         the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+         to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+         capability. The VO and PIC must be able to communicate verbally at all times.
+         Electronic messaging or texting is not permitted during flight operations. The PIC
+         must be designated before the flight and cannot transfer his or her designation for the
+         duration of the flight. The PIC must ensure that the VO can perform the functions
+         prescribed in the operating documents.
+
+    7. The VO must not perform any other duties beyond assisting the PIC with seeing and
+         avoiding other air traffic and other ground based obstacles/obstructions and is not
+         permitted to operate the camera or other instruments.
+8. The operating documents and this grant of exemption must be accessible during UAS
+    operations and made available to the Administrator upon request. If a discrepancy
+    exists between the conditions and limitations in this exemption and the procedures
+    outlined in the operating documents, the conditions and limitations herein take
+    precedence and must be followed. Otherwise, the operator must follow the procedures
+    as outlined in its operating documents. The operator may update or revise its
+    operating documents. It is the operator's responsibility to track such revisions and
+    present updated and revised documents to the Administrator upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update or
+    revision would affect the basis upon which the FAA granted this exemption, then the
+    operator must petition for amendment to its grant of exemption. The FAA's UAS
+    Integration Office (AFS-80) may be contacted if questions arise regarding updates or
+    revisions to the operating documents.
+
+9. Prior to each flight the PIC must inspect the UAS to ensure it is in a condition for safe
+    flight. If the inspection reveals a condition that affects the safe operation of the UAS,
+    the aircraft is prohibited from operating until the necessary maintenance has been
+    performed and the UAS is found to be in a condition for safe flight. The Ground
+    Control Station must be included in the preflight inspection. All maintenance and
+    alterations must be properly documented in the aircraft records.
+
+10. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g. replacement of a flight critical component, must undergo
+    a functional test flight. The PIC who conducts the functional test flight must make an
+    entry of the flight in the UAS aircraft records. The requirements and procedures for a
+    functional test flight and aircraft record entry must be added to the operating
+    documents.
+
+11. The pre-flight inspection must account for all potential discrepancies, e.g. inoperable
+    components, items, or equipment, not already covered in the relevant sections of the
+    operating documents.
+
+12. The operator must follow the UAS manufacturer's aircraft/component, maintenance,
+    overhaul, replacement, inspection, and life limit requirements.
+
+13. The operator must carry out its maintenance, inspections, and record keeping
+    requirements in accordance with the operating documents. Maintenance, inspection,
+    and alterations must be noted in the aircraft logbook, including total time in service,
+    description of work accomplished, and signature of the person authorized to return the
+    UAS to service.
+
+14. The authorized person must make an entry in the aircraft record of the corrective
+    action taken against discrepancies discovered between inspections.
+
+15. Each UAS operated under this exemption must comply with all manufacturer safety
+    bulletins.
+16. The PIC must possess at least a private pilot certificate and at least a current third -
+    class medical certificate. The PIC must also meet the flight review requirements
+    specified in 14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot
+    certificate.
+
+17. Prior to operations conducted for the purpose of aerial photography and 3D mapping
+    the PIC must have met the operator's qualification criteria and completed the
+    operator's mission specific training. Training, proficiency, and experience-building
+    flights can be conducted under this grant of exemption to qualify the operator's PIC(s),
+    VO(s), and any sensor operators. However, said training operations may only be
+    conducted during dedicated training sessions. During training, proficiency, and
+    experience-building flights the PIC is required to operate the UA with appropriate
+    distance from non-participants in accordance with 14 CFR § 91.119.
+
+18. Prior to operations conducted for the purpose of aerial photography and 3D mapping
+    the PIC, VO, and any sensor operators must have met all qualification and training
+    requirements, as outlined in the operating documents. A record of completion of these
+    requirements must be documented and made available to the Administrator upon
+    request.
+
+19. The operator may not permit the PIC to operate the UAS for the purpose of aerial
+    photography and 3D mapping unless the PIC has demonstrated and logged in a
+    manner consistent with 14 CFR § 61.51(b), the ability to safely operate the UAS in a
+    manner consistent with how the UAS will be operated under this exemption,
+    including evasive and emergency maneuvers and maintaining appropriate distances
+    from people, vessels, vehicles, and structures.
+
+20. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+21. The UA may not operate within 5 nautical miles of the airport reference point as
+    denoted on a current FAA-published aeronautical chart unless a letter of agreement
+    with that airport's management is obtained, and the operation is conducted in
+    accordance with a NOTAM as required by the operator's COA. The letter of
+    agreement with airport management must be made available to the Administrator
+    upon request.
+
+22. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+23. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre- determined location within the planned operating area and land or be recovered
+    in accordance with the operating documents.
+24. The PIC must abort the flight in the event of unpredicted obstacles or emergencies in
+    accordance with the operating documents.
+
+25. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough power to fly at normal cruising speed to the
+    intended landing point and land the UA with 25% battery power remaining.
+
+26. The operator must obtain an Air Traffic Organization (ATO) issued Certificate of
+    Waiver or Authorization (COA) prior to conducting any operations under this grant
+    of exemption. This COA will also require the operator to request a Notice to Airman
+    (NOTAM) not more than 72 hours in advance, but not less than 48 hours prior to the
+    operation. All operations shall be conducted in accordance with airspace
+    requirements in the ATO-issued COA including class of airspace, altitude level and
+    potential transponder requirements.
+
+27. All aircraft operated in accordance with this exemption must be identified by serial
+    number, registered in accordance with 14 CFR part 47, and have identification (N-
+    Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must be
+    as large as practicable.
+
+28. Before conducting operations, the radio frequency spectrum used for operation and
+    control of the UA must comply with the Federal Communications Commission (FCC)
+    or other appropriate government oversight agency requirements.
+
+29. The documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+    PIC at the Ground Control Station of the UAS any time the UAS is operating. These
+    documents must be made available to the Administrator or any law enforcement
+    official upon request.
+
+30. The UA must remain clear and yield the right of way to all manned operations and
+    activities at all times.
+
+31. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+32. The UA may not be operated over congested or densely populated areas.
+
+33. Flight operations must be conducted at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless:
+      a. Barriers or structures are present that sufficiently protect nonparticipating
+          persons from the UA and/or debris in the event of an accident. The operator must
+          ensure that nonparticipating persons remain under such protection. If a situation
+          arises where nonparticipating persons leave such protection and are within 500
+          feet of the UA, flight operations must cease immediately and/or;
+
+      b. The aircraft is operated near vessels, vehicles or structures where the property
+          owner/controller of has granted permission and the PIC has made a safety
+               assessment of the risk of operating closer to those objects and determined that it
+               does not present an undue hazard, and;
+
+          c. Operations near the PIC, VO, sensor operator, operator trainees or other essential
+               persons, do not present an undue hazard to these persons per § 91.119(a).
+
+    34. All operations shall be conducted over private or controlled-access property with
+         permission from the property owner/controller or authorized representative.
+         Permission from property owner/controller or authorized representative will be
+         obtained for each flight to be conducted.
+
+    35. Any incident, accident, or flight operation that transgresses the lateral or vertical
+         boundaries of the operational area as defined by the applicable COA must be reported
+         to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+         reported to the National Transportation Safety Board (NTSB) per instructions
+         contained on the NTSB Web site: www.ntsb.gov.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+
+This exemption terminates on March 31, 2017, unless sooner superseded or rescinded.
+
+Issued in Washington, DC, on March 3, 2015.
+
+/s/
+John Barbagallo
+Acting Deputy Director, Flight Standards Service
+

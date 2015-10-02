@@ -1,0 +1,962 @@
+                                          CORRECTED COPY
+
+The FAA is reissuing the August 20, 2015, grant of exemption of Exemption No. 12543. A
+correction was made to add the Trimble UX5 hp to the Airworthiness Certification section
+and to Conditions and Limitations #1. Below is the amended Exemption No. 12543 that
+includes the aforementioned change. We made the correction in our records as of
+September 1, 2015.
+
+August 20, 2015
+
+                                                           Exemption No. 12543
+                                                           Regulatory Docket No. FAA-2015-1800
+
+Ms. M. Anne Swanson
+Cooley LLP
+Counsel to HLCM Group Inc
+1299 Pennsylvania Avenue, NW, Suite 700
+Washington, DC 20004
+
+Dear Ms. Swanson:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letters dated May 11, 2015, and June 25, 2015, you petitioned the Federal Aviation
+Administration (FAA) on behalf of HLCM Group, Inc. (hereinafter petitioner or operator) for
+an exemption. The petitioner requested to operate an unmanned aircraft system (UAS) to
+conduct aerial surveys and aerial data collection for agriculture and mining.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+                                                                                                                 2
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner are the Trimble UX5 and Trimble UX5 hp.
+
+In accordance with the statutory criteria provided in Section 333 of Public Law 112-95 in
+reference to 49 U.S.C. § 44704, and in consideration of the size, weight, speed, and limited
+operating area associated with the aircraft and its operation, the Secretary of Transportation
+has determined that this aircraft meets the conditions of Section 333. Therefore, the FAA
+finds that relief from 14 CFR part 21, Certification procedures for products and parts,
+Subpart H--Airworthiness Certificates, and any associated noise certification and testing
+requirements of part 36, is not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection1. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+ They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+ The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+ A grant of exemption is in the public interest.
+
+1 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                              3
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, HLCM Group, Inc. is granted an exemption from
+14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a), 91.7(a), 91.119(c),
+91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a) and (b), to
+the extent necessary to allow the petitioner to operate a UAS to perform aerial data collection.
+This exemption is subject to the conditions and limitations listed below.
+
+Conditions and Limitations
+
+In this grant of exemption, HLCM Group, Inc. is hereafter referred to as the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+1. Operations authorized by this grant of exemption are limited to the Trimble UX5 and
+    Trimble UX5 hp when weighing less than 55 pounds including payload. Proposed
+    operations of any other aircraft will require a new petition or a petition to amend this
+    exemption.
+
+2. Operations for the purpose of closed-set motion picture and television filming are
+    not permitted.
+
+3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+    exemption holder may use either groundspeed or calibrated airspeed to determine
+    compliance with the 87 knot speed restriction. In no case will the UA be operated at
+    airspeeds greater than the maximum UA operating airspeed recommended by the
+    aircraft manufacturer.
+
+4. The UA must be operated at an altitude of no more than 400 feet above ground level
+    (AGL). Altitude must be reported in feet AGL.
+
+5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+
+    This requires the PIC to be able to use human vision unaided by any device other than
+    corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+    U.S. driver's license.
+
+6. All operations must utilize a visual observer (VO). The UA must be operated within
+    the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+    to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+    capability. The VO and PIC must be able to communicate verbally at all times;
+    electronic messaging or texting is not permitted during flight operations. The PIC
+                                                                                                            4
+
+    must be designated before the flight and cannot transfer his or her designation for the
+    duration of the flight. The PIC must ensure that the VO can perform the duties
+    required of the VO.
+
+7. This exemption and all documents needed to operate the UAS and conduct its
+    operations in accordance with the conditions and limitations stated in this grant of
+    exemption, are hereinafter referred to as the operating documents. The operating
+    documents must be accessible during UAS operations and made available to the
+    Administrator upon request. If a discrepancy exists between the conditions and
+    limitations in this exemption and the procedures outlined in the operating documents,
+    the conditions and limitations herein take precedence and must be followed.
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+                                                                                              5
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+                                                                                                            6
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+    exemption holder may apply for a new or amended COA if it intends to conduct
+    operations that cannot be conducted under the terms of the attached COA.
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+    be as large as practicable.
+
+23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+    any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+    PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+    These documents must be made available to the Administrator or any law enforcement
+    official upon request.
+
+24. The UA must remain clear and give way to all manned aviation operations and
+    activities at all times.
+
+25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless:
+      a. Barriers or structures are present that sufficiently protect nonparticipating persons
+          from the UA and/or debris in the event of an accident. The operator must ensure
+          that nonparticipating persons remain under such protection. If a situation arises
+          where nonparticipating persons leave such protection and are within 500 feet of
+          the UA, flight operations must cease immediately in a manner ensuring the safety
+          of nonparticipating persons; and
+      b. The owner/controller of any vessels, vehicles or structures has granted permission
+          for operating closer to those objects and the PIC has made a safety assessment of
+          the risk of operating closer to those objects and determined that it does not
+          present an undue hazard.
+
+    The PIC, VO, operator trainees or essential persons are not considered
+    nonparticipating persons under this exemption.
+
+27. All operations shall be conducted over private or controlled-access property with
+    permission from the property owner/controller or authorized representative.
+                                                                                               7
+
+Permission from property owner/controller or authorized representative will be
+obtained for each flight to be conducted.
+
+28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+
+    boundaries of the operational area as defined by the applicable COA must be reported
+    to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+
+    reported to the National Transportation Safety Board (NTSB) per instructions
+
+    contained on the NTSB Web site: www.ntsb.gov.
+
+If this exemption permits operations for the purpose of closed-set motion picture and
+television filming and production, the following additional conditions and limitations apply.
+
+29. The operator must have a motion picture and television operations manual (MPTOM)
+    as documented in this grant of exemption.
+
+30. At least 3 days before aerial filming, the operator of the UAS affected by this
+    exemption must submit a written Plan of Activities to the local Flight Standards
+    District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+    notification may be waived with the concurrence of the FSDO. The plan of activities
+    must include at least the following:
+      a. Dates and times for all flights;
+      b. Name and phone number of the operator for the UAS aerial filming conducted
+          under this grant of exemption;
+      c. Name and phone number of the person responsible for the on-scene operation of
+          the UAS;
+      d. Make, model, and serial or N-Number of UAS to be used;
+      e. Name and certificate number of UAS PICs involved in the aerial filming;
+      f. A statement that the operator has obtained permission from property owners
+          and/or local officials to conduct the filming production event; the list of those
+          who gave permission must be made available to the inspector upon request;
+      g. Signature of exemption holder or representative; and
+      h. A description of the flight activity, including maps or diagrams of any area, city,
+          town, county, and/or state over which filming will be conducted and the altitudes
+          essential to accomplish the operation.
+
+31. Flight operations may be conducted closer than 500 feet from participating persons
+
+    consenting to be involved and necessary for the filming production, as specified in the
+    exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                      8
+
+This exemption terminates on August 31, 2017, unless sooner superseded or rescinded.
+
+Sincerely,
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+M. Anne Swanson
+
++1 202 776 2534
+aswanson@cooley.com
+
+                     May 11, 2015
+
+U.S. Department of Transportation
+Docket Management System
+1200 New Jersey Ave., SE
+Washington, DC 20590
+
+          Re: Application for Issuance of Section 333 Exemption Based upon
+                    Exemption 1111 0 Issued to Trimble Navigation Ltd.
+
+Dear Sir or Madam,
+
+HLCM Group, Inc. ("HLCM"), by its attorneys, herewith applies for the issuance of an exemption
+under Section 333 of the FAA Modernization and Reform Act of 2012 based upon Exemption
+11110 issued to Trimble Navigation Ltd. ("Trimble") on December 10, 2014 and amended on
+May 7, 2015 in FAA Docket 2014-0367. The requested exemption would allow HLCM to
+operate the UX5 and UX5hp aircrafts manufactured by Trimble or other Trimble aircraft
+approved for commercial operations under Exemption 11110, as may be amended in the future.
+HLCM notes that the FAA recently authorized use of the Trimble UX5 by a third party in
+Exemption No. 11257, Regulatory Docket No. FAA-2014-0889, on April2, 2015, under updated
+conditions, and HLCM hereby confirms that it will accept such conditions as well as those set
+forth in Exemption No. 11240, Regulatory Docket No. FAA-2014-0894.
+
+The name and contact information for the applicant are:
+
+ Mr. Carlos Sanabria
+HLCM Group, Inc.
+Street 31 JJ-1 0, Alturas de Flam boyan
+ Bayamon, PR 00959
+ Phone: (787)398-8852
+ csanabria@hlcmgroup.com
+
+ HLCM intends to operate the UX5 or the UX5hp from Trimble and will operate it in strict
+ compliance with the conditions set forth in Exemption 11110, as such conditions may be
+ amended or modified by the FAA from time to time, as was done in Exemption Nos. 11240 and
+ 11257, or such other conditions as the FAA shall specify, and the following manuals:
+
+          1) Trimble UX5 Data Sheet; and
+          2) Trimble UX5 Aerial Imaging Solution User Guide (User Guide)
+
+1299 PENNSYLVANIA AVENUE, NW, SUITE 700, WASHINGTON, DC 20004-2400 T: (202) 842-7800 F: (202) 842-7899 WWW.COOLEY.COM
+May 11, 2015
+Page Two
+
+ Copies of these manuals are attached.
+
+These manuals are very similar to the manuals submitted by Trimble in support of the issuance
+of Exemption 11110, updated to reflect changes reported in Trimble's March 4, 2015
+amendment to Exemption 11110. The manuals will be updated by Trimble, as needed to reflect
+any changes to Exemption 11110, based on amendments thereto.
+
+HLCM acknowledges that under current FAA guidance a separate Certificate of Waiver or
+Authorization ("COA") is required to fly at altitudes in excess of 200 feet AGL, and it will apply
+for COAs where required. HLCM hereby requests a blanket COA for flights up to 200 feet AGL
+in the form approved by the FAA. HLCM will also file NOTAMs for its flights, as required.
+
+To the extent necessary, HLCM refers the FAA to the original exemption and subsequent
+amendment in Docket FAA-2014-0367 for demonstration of the public interest and an equivalent
+level of safety. Because the UX5 and the UX5hp specified in this request are the same as the
+crafts already approved in Exemption 11110, and HLCM will operate the aircraft in strict
+compliance with the conditions in existing exemptions previously granted by the FAA, or as they
+may be amended, notice need not be provided in the Federal Register nor public comment
+solicited. 1
+
+If you have any questions, please contact the undersigned.
+
+                                                                                            r-
+
+               aVery ly yours,
+
+                               /[/~
+
+                                                             M. Anne Swanson
+                                                              Henry H. Wendel
+                                                             Counsel for HLCM Group, Inc.
+
+Enclosure
+
+cc: James Williams
+          Robert Pappas
+          Thuy Cooper
+          Dean Griffith, Esq.
+          James Kirkland
+          Kyle Gilbertson
+
+           Applicant reads Section 333 as placing the duty on the Administrator not only to process
+applications for exemptions under Section 333 but, if he determines that the conditions set forth herein do
+not fulfill the statutory requirements for approval, to craft conditions for the safe operation of the UAS.
+
+     1299 PENNSYLVANIA AVENUE, NW, SUITE 700, WASHINGTON, DC 20004-2400 T: (202) 842-7800 F: (202) 842-7899 WWW.COOLEY.COM
+     IY,
+
+June 25, 2015
+
+U. S. Department of Transportation
+Docket Management System
+1200 New Jersey Ave., SE
+Washington, DC 20590
+
+Re: Summary Processing: Exemption Request Under Section 333 of the FAA Reform Act
+          and Part 11 of the Federal Aviation Regulations Based Upon Exemption 1111 OA Issued
+          to Trimble Navigation Limited
+
+Dear Sir or Madam:
+
+          HLCM Group, Inc. ("Applicant") herewith submits an amended request for exemption
+under Section 333 of the FAA Modernization and Reform Act of 2012 ("Reform Act") in response
+to the June 11, 2015 letter from Brenda Robeson, Program Analyst, Airmen and Airspace Rules
+Division, FAA. That letter, which requests additional information from Applicant prior to
+processing its May 11, 2015 request for exemption, as well as Applicant's May 11, 2015 cover
+letter, are enclosed for FAA staff convenience as Attachments X andY. This filing makes no
+substantive change in the content of the May 11, 2015 filing; this letter simply adds the
+requested information. As before, Applicant seeks grant of an exemption request based upon
+Exemption 11110 issued to Trimble Navigation Limited ('Trimble") on December 10, 2014, as
+amended on May 7, 2015 with issuance of Exemption 11110A in FAA Docket 2014-0367.
+
+          The requested exemption would allow Applicant to operate the UX5 and the UX5 hp
+aircraft manufactured by Trimble or other Trimble aircraft approved for commercial operations
+under Exemptions 11110 and 1111 OA, as they may be amended in the future. Applicant notes
+that, in Exemption 11257, the FAA also recently authorized use of the Trimble UX5 by a third
+party under conditions like those in Exemption 1111 OA. 1 Applicant hereby confirms that it will
+accept the conditions in Exemptions 1111 OA and 11257.
+
+          Applicant aircraft will be used to conduct aerial surveys and perform aerial data
+collection for agriculture, mining, and other purposes, but not for closed set filming (hereinafter
+"the Purpose"). Applicant hereby applies for an exemption from the listed Federal Aviation
+Regulations ("FARs") to allow commercial operation of its small unmanned aerial vehicles
+("sUAVs"), so long as such operations are conducted within and under the conditions outlined
+herein or as may be established by the FAA in an exemption granted under either Section 333
+or Section 49 U.S. C. §44701 (f).
+
+          As this exemption request is identical to the already issued precedent. this request
+should qualify for summary processing as the FAA has already provided public notice of and
+granted similar exemptions. The FAA has issued exemptions in circumstances similar in all
+material respects to those presented in this petition. In numerous exemptions, the FAA has
+found that the enhanced safety achieved using an unmanned aircraft ("UA") with the
+specifications described by the petitioners and carrying no passengers or crew, when compared
+
+          Exemption No. 11257 to Montana Land Surveys (see Docket No. FAA-2014-0889).
+
+     1299 PENNSYLVANIA AVENUE, NW, SUITE 700, WASHINGTON, DC 20004-2400 T: (202) 842-7800 F: (202) 842-7899 WWW.COOLEY.COM
+U. S. Department of Transportation
+June 25, 2015
+Page 2
+
+to flights of much larger manned aircraft that carry crew in addition to flammable fuel, gives the
+FAA good cause to find that the sUAV operation enabled by the exemptions serves the public
+interest.2 In those cases, use of the proposed sUAV not only enhanced safety but also fulfilled
+the Secretary of Transportation's (the FAA Administrator's) responsibility to"... establish
+requirements for the safe operation of such aircraft systems in the national airspace system."
+Section 333(c) of the Reform Act.
+
+          The name and address of the applicant is:
+
+          Mr. Carlos Sanabria
+          HLCM Group, Inc.
+          Street 31 JJ-1 0, Alturas de Flam boyan
+          Bayamon, PR 00959
+          Phone: (787) 398-8852
+          csanabria@hlcmgroup.com
+
+          Regulations from which the exemption is requested:
+
+          14 C.F.R. 61.23(a) and (c)
+          14 C.F.R. 61.101(e)(4) and (5)
+          14.C.F.R. 61.113(a)
+          14 C.F.R. 61.315(a)
+          14 C.F.R. 91.7(a)
+          14 C.F.R. 91.119(c)
+          14 C.F.R. 91.121
+          14 C.F.R. 91.151(a)(1)
+          14 C.F.R. 91.405(a)
+          14 C.F.R. 91.407(a)(1)
+          14 C.F.R. 91.409(a)(1) and (2)
+          14 C.F.R. 91.417(a) and (b)
+
+          This exemption application is expressly submitted to fulfill Congress' goal in passing
+Sections 333(a) through (c) of the Reform Act. This law directs the Secretary of Transportation
+to consider whether certain unmanned aircraft systems may operate safely in the national
+airspace system (NAS) before completion of the rulemaking required under Section 332 of the
+Reform Act. In making this determination, the Secretary is required to determine which types of
+sUAVs do not create a hazard to users of the NAS or the public or pose a threat to national
+security in light of the following:
+
+               · The sUAV's size, weight, speed, and operational capability;
+               · Operation of the sUAV in close proximity to airports and populated areas; and
+               · Operation of the sUAV within visual line of sight of the operator.
+
+2 Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352), 11109 to
+Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see Docket No.
+FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No. FAA-2014-0642).
+U. S. Department of Transportation
+June 25, 2015
+Page 3
+
+Reform Act§ 333(a). Lastly, if the Secretary determines that such vehicles "may operate safely
+in the national airspace system, the Secretary shall establish requirements for the safe
+operation of such aircraft in the national airspace system." /d. § 333(c) (emphasis added). 3
+
+          The Federal Aviation Act, in addition to the authority granted by Section 333 of Reform
+Act, expressly grants the FAA the authority to issue exemptions. This statutory authority by its
+terms includes exempting civil aircraft, as the term is defined under§ 40101 of the Act, from the
+requirement that all civil aircraft, which includes sUAVs, must have a current airworthiness
+certificate. 4
+
+          The sUAVs that Applicant proposes to use are fixed wing and weigh 55 or fewer lbs.
+including payload. They operate, under normal conditions, at a speed of no more than 87 knots.
+They will operate at altitudes of no more than 400 feet, as further explained, and only within line
+of sight. They will operate as set forth in the manuals attached hereto and made a part hereof
+(Exhibits 1 and 2). (These manuals are identical to those submitted with the May 11, 2015
+filing.) Operations in compliance with these manuals will ensure that the sUAV will "not create a
+hazard to users of the national airspace system or the public"5 and that the aircraft will operate
+in compliance with the conditions set forth in this application.
+
+AIRCRAFT AND EQUIVALENT LEVEL OF SAFETY/NATIONAL SECURITY
+
+          The Applicant states that operating in compliance with the conditions set forth in
+Exemption 1111 OA will provide an equivalent level of safety for the operation of the UX5 and
+UX5 hp. Approval of exemptions allowing commercial operations of sUAVs for aerial data
+collection will enhance safety by reducing risk. Conventional operations, using jet or piston
+power aircraft, operate at extremely low altitudes just feet from the subject being photographed
+and in extreme proximity to people and structures and present the risks associated with vehicles
+that weigh in the neighborhood of 6,000 lbs., carrying large amounts of jet A or other fuel (140
+gallons for jet helicopters). Such aircraft must fly to and from the project location. In contrast, a
+sUAV weighing fewer than 55 lbs. and powered by batteries eliminates virtually all of that risk
+given the reduced mass and lack of combustible fuel carried on board. The sUAV is carried to
+the target area and not flown. The sUAV will carry no passengers or crew and, therefore, will
+not expose them to the risks associated with manned aircraft flights. These lightweight aircraft
+operate at slow speeds, close to the ground, and in areas that are under the control of the
+operator and, as a result, are far safer than conventional operations conducted with larger
+manned aircraft operating in close proximity to the ground and people.
+
+3 Applicant interprets this provision to place the duty on the Administrator to not only
+process applications for exemptions under section 333, but for the Administrator to craft
+conditions for the safe operation of the sUAV, if it should be determined that the conditions set
+forth herein do not fulfill the statutory requirements for approval.
+4 "The Administrator may grant an exemption from a requirement of a regulation
+prescribed under subsection (a) or (b) of this section or any sections 44702-44716 of the
+Transportation Act if the Administrator finds the exemption in the public interest." 49 U.S.C.
+§44701 (f). See also 49 U.S.C. § 44711 (a); 49 U.S.C. § 44704; 14 C.F.R. § 91.203(a)(1).
+5 Section 333(b) of the Reform Act.
+U. S. Department of Transportation
+June 25, 2015
+Page4
+
+          Given the small size of the sUAVs involved and the restricted environment within which
+they will operate, Applicant falls squarely within that zone of safety (an equivalent level of
+safety) in which Congress envisioned that the FAA must, by exemption, allow commercial
+operations of sUAVs to commence immediately. Also, due to the size of the sUAVs, the
+restricted areas in which they will operate, and the fact that they will be flown by pilots holding at
+least an FAA sport or recreational pilot license, approval of the application presents no national
+security issue.
+
+PUBLIC INTEREST
+
+          The FAA has granted exemptions to the regulations listed on page 2 in the exemptions
+cited above. As discussed in detail for each of these regulations in the attached Appendix A,
+the public interest will be served by an exemption because, with respect to each, operation in
+compliance with the requested conditions will ensure an equivalent level of safety. As also
+explained at length in Trimble's original Section 333 exemption request submitted on May 30,
+2014, the grant of the requested exemption is in the public interest given the clear direction in
+Section 333 of the Reform Act; the authority included in the Federal Aviation Act, as amended;
+the strong equivalent level of safety surrounding the proposed operations; and the significant
+public benefit derived from, among other things, the enhanced safety and reduced
+environmental impact, including the reduced emissions associated with allowing battery
+powered sUAVs instead of turbine or gas powered aircraft.
+
+                                                                  *********
+
+          Pursuant to 14 C.F.R. Part 11, the following summary is provided for publication in the
+Federal Register, should it be determined that publication is needed:
+
+          Applicant seeks an exemption from the following rules:
+
+          14 C.F.R. §§61.23(a) and (c), 61.101(e )(4) and (5), 61.113(a), 61.315(a), 91.7(a),
+91.119(c), 91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a)
+
+and (b) to operate commercially a small unmanned vehicle (551bs. or less) in aerial surveys and
+
+aerial data collection.
+U. S. Department of Transportation
+June 25, 2015
+Page 5
+
+          Satisfaction of the criteria provided in Section 333 of the Reform Act of 2012 - size,
+weight, speed, operating capabilities, proximity to airports and populated areas and operation
+within visual line of sight and national security - provide more than adequate justification for the
+grant of the requested exemption allowing commercial operation of applicant's sUAV for the
+Purpose outlined herein and are consistent with exemptions already granted, including
+Exemption 111 OA. Accordingly, the applicant respectfully requests that the FAA grant the
+requested exemption without delay.
+
+             L:;fa?--
+                                                                        M. Anne S nson
+                                                                        Henry H. Wendel
+                                                                        Counsel for HLCM Group, Inc.
+
+Enclosures
+
+cc (via e-mail):
+     William Crozier
+     Robert Pappas
+     Jake Troutman
+     Dean Griffith
+     Thuy H. Cooper
+     333exemptions@faa.gov
+                                                        APPENDIX A
+
+14 C.F.R. § 61.23(a) and (c): Medical Certificates: Requirement and Duration
+
+          Sections 61.23(a) and (c) address the requirement of medical certificates for pilots.
+Section 61.23(a) requires a person exercising the privileges of a recreational pilot to hold at
+least a third class medical certificate. Section 61.23(c) permits the holder of a sport pilot
+certificate to act as PIC of a light-sport aircraft with either a medical certificate or U.S. issued
+driver's license. Light-sport aircraft may weigh up to 1,430 pounds and seat up to two persons,
+including the pilot. Comparatively, the Trimble craft will weigh fewer than 55 pounds, and it will
+not carry pilots, passengers, or cargo. The UAS will also be operated within visual line of sight
+of the PIC and below 400 feet above ground level and limited to operations with permission over
+private or controlled-access property.
+
+          Given these safety parameters, Applicant requests that the FAA waive Section 61.23(a)
+upon a finding that an equivalent level of safety will be provided by allowing operation of the
+Trimble craft by pilots with a recreational or sport pilot certificate and a valid U.S. state issued
+driver's license, in lieu of an FAA-issued medical certificate. Applicant also requests that the
+FAA grant relief from Section 61.23(c) to allow sport pilot certificate holders to operate aircraft
+other than light-sport aircraft with a valid U.S. issued driver's license. The FAA has granted
+exemptions to conduct similar operations in a number of cases, including Exemption 11213.
+
+14 C.F.R. Part 61: Private Pilot Privileges and Limitations: Pilot in Command
+
+          Sections 61.113 (a) & (b) limit private pilots to non-commercial operations.
+Section 61.315(a) addresses the privileges and limitations of the holder of a sport pilot
+certificate.
+
+          Because the sUAV will not carry a pilot or passengers, the proposed operations can
+achieve the equivalent level of safety of current operations by requiring the PIC operating the
+aircraft to hold a certificate issued by the FAA authorizing operation of any aircraft (ATP,
+Commercial, Private, Recreational or Sport). Unlike a conventional aircraft that carries the pilot
+and passengers, the sUAV is remotely controlled with no living thing on board. The area of
+operation is controlled and restricted, and all flights are planned and coordinated in advance as
+set forth in the manual. The level of safety provided by the requirements included in the
+manuals exceeds that provided by a single individual holding a commercial pilot's certificate
+operating a conventional aircraft. The risks associated with the operation of the sUAV are so
+diminished from the level of risk associated with commercial operations contemplated by Part
+61 when drafted, that allowing operations of the sUAV as requested with any certificate issued
+by the FAA as the PIC greatly exceeds the present level of safety achieved by 14 C.F.R. Part
+61. The FAA has granted exemptions for private and sport or recreational pilots to conduct
+similar operations in Exemptions 11062, 11213, 11360 and 11447.
+
+14 C.F.R. § 91.119: Minimum Safe Altitudes
+
+          Section 91.119 establishes safe altitudes for operation of civil aircraft. Specifically,
+91.119(c) limits aircraft flying over areas other than congested areas to an altitude of 500 feet
+above the surface, except over open water or sparsely populated areas. In those cases, the
+aircraft may not be operated closer than 500 feet to any person, vessel, vehicle, or structure.
+
+          As set forth herein, the Trimble craft will never operate at higher than 400 feet AGL.
+They will, however, be operated to avoid congested or populated areas that are depicted in
+yellow on VFR sectional charts. Because aerial survey work must be accomplished at relatively
+low altitudes and at altitudes less than 400 feet AGL, an exemption from Section 91.119(c) is
+needed.
+
+          The equivalent level of safety will be achieved given the size, weight, speed, and
+material with which the Trimble craft are built. Also, no flight will be taken without the
+permission of the landowner or those who control the land. Because of the advance notice to
+the landowner, all affected individuals will be aware of the survey flights. Compared to aerial
+survey operations conducted with aircraft or rotorcraft weighing far more than the Trimble craft
+and carrying flammable fuel, any risk associated with these operations will be far less than
+those currently allowed with conventional aircraft operating at or below the same altitude.
+Indeed, the low-altitude operations of the sUAV will maintain separation between these sUAV
+operations and the operations of conventional aircraft that must comply with Section 91.119.
+The FAA has granted exemptions to conduct similar operations in Exemptions 11062, 11213,
+11360 and 11447.
+
+14 C.F.R. § 91.121: Altimeter Settings
+
+          This regulation requires each person operating an aircraft to maintain cruising altitude by
+reference to an altimeter that is set "... to the elevation of the departure airport or an appropriate
+altimeter setting available before departure." As each sUAV model in at least one operating
+mode will not have a barometric altimeter, but instead a GPS altitude read out, an exemption
+will be needed. An equivalent level of safety will be achieved by the operator, pursuant to the
+manuals, confirming the altitude of the launch site shown on the GPS altitude indicator before
+flight. The FAA has granted exemptions to conduct similar operations in Exemptions 11062,
+11213, 11360and 11447.
+
+14 C.F.R. § 91.151(a): Fuel Requirements for Flight in VFR Conditions
+
+          Section 91.151 (a) prohibits an individual from beginning "a flight in an airplane under
+VFR conditions unless (considering wind and forecast weather conditions) there is enough fuel
+to fly to the first point of intended landing, and, assuming normal cruising speed- (1) During the
+day, to fly after that for at least 30 minutes; or (2) At night, to fly after that for at least 45
+minutes."
+
+          The battery powering the sUAV limits the duration of a flight. To meet the 30-minute
+
+reserve requirement in 14 C.F.R. § 91.151, sUAV flights would be severely limited, in some
+
+cases to approximately 10 minutes in length. Given the limitations on the sUAV's proposed
+flight area and the location of its proposed operations within a predetermined area, a longer time
+frame for flight in daylight or night VFR conditions is reasonable.
+
+         Applicant believes that an exemption from 14 C.F.R. § 91.151 (a) falls within the scope of
+
+prior exemptions. See Exemption 10673 (allowing Lockheed Martin Corporation to operate
+without compliance with FAR 91.151 (a)). Operating the sUAV, in a tightly controlled area
+
+                                                                 2
+     lex
+
+where only people and property owners or official representatives who have signed waivers will
+be allowed, with less than 30 minutes of reserve fuel, does not engender the type of risks that
+Section 91.151 (a) was intended to alleviate given the size and speed of the sUAV.
+
+          Applicant believes that an equivalent level of safety can be achieved by limiting flights to
+five minutes of reserve time on the batteries. This restriction would be more than adequate to
+return the sUAV to its planned landing zone from anywhere in its limited operating area. Similar
+exemptions have been granted to other operations in Exemptions 2689F, 5745, 10673, 10808
+and Exemptions 11062, 11213, 11360 and 11447.
+14 C.F.R. Part 91: Maintenance Inspections
+
+          Section 91.405(a) requires that an aircraft operator or owner "shall have that aircraft
+inspected as prescribed in subpart E of this part and shall between required inspections, except
+as provided in paragraph (c) of this section, have discrepancies repaired as prescribed in
+part 43 of this chapter ...." Section 91.407 similarly makes reference to requirements in
+Part 43; Section 91.409(a)(2) requires an annual inspection for the issuance of an airworthiness
+certificate. Section 91.417(a) requires the owner or operator to keep records showing certain
+maintenance work that has been accomplished by certificated mechanics, under Part 43, or
+licensed pilots and records of approval of the aircraft for return to service.
+
+          Given that these sections and Part 43 apply only to aircraft with an airworthiness
+certificate, these sections will not apply to the applicant. Maintenance will be accomplished by
+the operator pursuant to the manuals. An equivalent level of safety will be achieved because
+these sUAVs are very limited in size and will carry a small payload and operate only in areas for
+limited periods of time. If mechanical issues arise, the sUAV can land immediately since it will
+be operating from no higher than 400 feet AGL. As provided in the manuals, the operator will
+ensure that the sUAV is in working order prior to initiating flight, perform required maintenance,
+and keep a log of any maintenance performed. Moreover, the operator is the person most
+familiar with the aircraft and best suited to maintain the aircraft in an airworthy condition in order
+to provide the equivalent level of safety. The FAA has granted exemptions for similar operations
+in Exemptions 11062,11213, 11360and 11447.
+
+                                                              3
+ATTACHMENT X
+                   ATTACHMENT X
+
+U.S. Department    800 Independence Ave.. S.W.
+of Transportation  Washington. D.C. 20591
+
+Federal Aviation
+Administration
+
+ June 11, 2015
+
+ Ms. M. Anne Swanson
+ HLCM Group, Inc.
+ c/o Cooley LLP
+ 1299 Pennsylvania Ave. NW
+ Washington, DC 20004
+
+Dear Ms. Swanson:
+
+ This letter is to inform you that we are unable to process your request for an exemption. It
+explains why we can not process your request and what you should do in the next 30 days.
+
+Why We Can Not Process Your Request
+We entered your May 28, 2015, exemption request into the public docket (No. FAA-2015-
+ 1800), but we are unable to process your request any further. The information you sent does
+not comply with the requirements of § 11.81 (copy enclosed). For us to consider the request
+any further, you must send us all of the following:
+
+· The specific section or sections of 14 CFR from which you seek relief, the extent of the
+     relief you seek, and the reason you seek relief.
+
+· The reasons why granting the request would be in the public interest; that is, how it would
+     benefit the public as a whole.
+
+· The reasons why the exemption would not adversely affect safety or how the exemption
+     would provide a level of safety at least equal to that provided by the rule from which you
+     seek an exemption.
+
+· Any additional information, views, or arguments available to support your request.
+
+What You Should Do
+If you want us to process your request any further, you must send the information described
+earlier to reach us within 30 days. Please note that § 11.63(d) requires you to send your
+petition for exemption at least 120 days before the proposed effective date of the exemption.
+                                                                                                                2
+
+If We Do Not Hear From You
+If we do not hear from you within 30 days, we will close the docket without notifying you
+further. If you have any questions or require additional time, you may call (202) 267-9677.
+Sincerely,
+
+Brenda Robeson
+Program Analyst, Airmen and
+
+ Airspace Rules Division
+Enclosure
+eCFR- Code of Federal Regulations                                                                                                Page I of I
+
+       ELECTRONIC CODE OF FEDERAL REGULATIONS
+
+                       e~CFR Data is current as of March 2, 2015
+
+       Title 14-+ Chapter 1-+ Subchapter B-+ Part 11 -+Subpart A-+ §11.81
+
+       Title 14: Aeronautics and Space
+       PART 11-GENERAL RULEMAKING PROCEDURES
+       Subpart A-Rulemaking Procedures
+
+       §11.81 What information must I include in my petition for an exemption?
+
+       as     You must include the  following information     in  your  petition    for  an  exemption  and      submit      it  to  FAA
+            soon as you know you    need an exemption.
+
+             (a) Your name  and mailing address and, if       you   wish,  other    contact  information      such   as  a   fax
+       number, telephone    number, or e-mail address;
+
+. / (b) The specific section or sections of 14 CFR from which you seek an exemption;
+
+__:/)' (c) The extent of relief you seek, and the reason you seek the relief;                                 .
+
+// /   1 (d) The reasons      why granting    your  request   would  be    in  the  public   interest;  that  is,  how   it  would
+       benefit the public as  a whole;
+  -/
+
+_.f//        (e) The reasons why  granting the exemption would          not adversely affect safety,          or how the
+       exemption would provide    a level of safety at least equal      to that provided by the rule          from which
+                                                                                                                                 you
+       seek the exemption;
+
+            (f) A summary we can publish in the FEDERAL REGISTER, stating:
+            (1) The rule from which you seek the exemption; and
+
+            (2) A brief description of the nature of the exemption you seek;
+
+            (g) Any additional information, views or arguments available to support your request; and
+
+       why  (h) If you want to exercise  the  privileges  of  your  exemption       outside  the  United  States,    the         reason
+            you need to do so.
+
+       For  questions  or comments regarding e-CFR editorial content, features, or design, email ecfr@nara    .gov.
+       For  questions  concerning e-CFR programming and delivery issues, email webteam@gpo.gov.
+
+http://www.ecfr.gov/cgi-bin/text-idx?SID=eee7bb3943bc:0292a08fb8b9feb89c23&node=se... i/41?01 'i
+ATTACHMENT Y
+       ~ev                         ATTACfu\.fENT Y
+
+              t.LP
+
+M. Anne Swanson
++1 202 776 2534
+aswanson@cooley .com
+
+                      May 11,2015
+
+U.S. Department of Transportation
+Docket Management System
+1200 New Jersey Ave., SE
+Washington, DC 20590
+
+         Re: Application for Issuance of Section 333 Exemption Based upon
+                   Exemption 11110 Issued to Trimble Navigation Ltd.
+
+Dear Sir or Madam,
+
+HLCM Group, Inc. ("HLCM"), by its attorneys, herewith applies for the issuance of an exemption
+under Section 333 of the FAA Modernization and Reform Act of 2012 based upon Exemption
+11110 issued to.Trimble Navigation Ltd. ("Trimble") on December 10, 2014 and amended on
+May 7, 2015 in FAA Docket 2014-0367. The requested exemption would allow HLCM to
+operate the UX5 and UX5hp aircrafts manufactured by Trimble or other Trimble aircraft
+approved for commercial operations under Exemption 11110, as may be amended in the future.
+HLCM notes that the FAA recently authorized use of the Trimble UX5 by a third party in
+Exemption No. 11257, Regulatory Docket No. FAA-2014-0889, on April2, 2015, under upd,ated
+conditions, and HLCM hereby confirms that it will accept such conditions as well as those set
+forth in Exemption No. 11240, Regulatory Docket No. FAA-2014-0894.
+
+The name and contact information for the applicant are:
+
+Mr. Carlos Sanabria
+HLCM Group, Inc.
+Street 31 JJ-1 0, Alturas de Flamboyan
+Bayamon, PR 00959
+Phone: (787) 398-8852
+csanabria@hlcmgroup.com
+
+HLCM intends to operate the UX5 or the UX5hp from Trimble and will operate it in strict
+compliance with the conditions set forth in Exemption 11110, as such conditions may be
+amended or modified by the FAA from time to time, as was done in Exemption Nos. 11240 and
+ 11257, or such other conditions as the FAA shall specify, and the following manuals:
+
+          1) Trimble UX5 Data Sheet; and
+         2) Trimble UX5 Aerial Imaging Solution User Guide (User Guide)
+
+1299 PENNSYLVANIA AVENUE, NW, SUITE 700, WASHINGTON, DC 20004-2400 T: (202) 842-7800 F: (202) 842-7899 WWW.COOLEY.COM
+May 11, 2015
+Page Two
+
+Copies of these manuals are attached.
+
+These manuals are very similar to the manuals submitted by Trimble in support of the issuance
+of Exemption 11110, updated to reflect changes reported in Trimble's March 4, 2015
+amendment to Exemption 11110. The manuals will be updated by Trimble, as needed to reflect
+any changes to Exemption 11110, based on amendments thereto.
+
+HLCM acknowledges that under current FAA guidance a separate Certificate of Waiver or
+Authorization ("COA") is required to fly at altitudes in excess of 200 feet AGL, and it will apply
+for COAs where required. HLCM hereby requests a blanket COA for flights up to 200 feet AGL
+in the form approved by the FAA. HLCM will also file NOTAMs for its flights, as required.
+
+To the extent necessary, HLCM refers the FAA to the original exemption and subsequent
+amendment in Docket FAA~2014~0367 for demonstration of the public interest and an equivalent
+level of safety. Because the UX5 and the UX5hp specified in this request are the same as the
+crafts already approved in Exemption 11110, and HLCM will operate the aircraft in strict
+compliance with the conditions in existing exemptions previously granted by the FAA, or as they
+may be amended, notice need not be provided in the Federal Register nor public comment
+solicited. 1
+
+If you have any questions, please contact the undersigned.
+
+                              M. Anne Swanson
+                              Henry H. Wendel
+                              Counsel for HLCM Group, Inc.
+
+Enclosure
+
+cc: James Williams
+         Robert Pappas
+         Thuy Cooper
+         Dean Griffith, Esq.
+         James Kirkland
+         Kyle Gilbertson
+
+          Applicant reads Section 333 as placing the duty on the Administrator not only to process
+applications for exemptions under Section 333 but, if he determines that the conditions set forth herein do
+not fulfill the statutory requirements for approval, to craft conditions for the safe operation of the UAS.
+
+    1299 PENNSYLVANIA AVENUE, NW, SUITE700, WASHINGTON, DC 20004-2400 T: (202) 842-7800 F: (202) 842-7899 WWW.COOLEY.COM
+

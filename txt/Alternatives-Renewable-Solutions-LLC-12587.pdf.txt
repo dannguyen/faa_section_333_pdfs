@@ -1,0 +1,2193 @@
+August 25, 2015
+
+                                                           Exemption No. 12587
+                                                           Regulatory Docket No. FAA-2015-2302
+
+Dr. Daanen Strachan
+Alternatives Renewable Solutions, LLC
+1725 I Street, NW., Suite 300
+Washington DC 20006
+
+Dear Dr. Strachan:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter dated May 23, 2015, you petitioned the Federal Aviation Administration (FAA) on
+behalf of Alternatives Renewable Solutions, LLC (hereinafter petitioner or operator) for an
+exemption. The petitioner requested to operate an unmanned aircraft system (UAS) to
+conduct aerial public safety inspections and photography of properties, bridges, and
+construction sites.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner are the DJI Phantom 2 Vision Plus and Walkera Tali
+H500.
+                                                                                                                 2
+
+The petitioner requested relief from 14 CFR part 21, Certification procedures for products
+and parts, Subpart H--Airworthiness Certificates. In accordance with the statutory criteria
+provided in Section 333 of Public Law 112-95 in reference to 49 U.S.C. § 44704, and in
+consideration of the size, weight, speed, and limited operating area associated with the
+aircraft and its operation, the Secretary of Transportation has determined that this aircraft
+meets the conditions of Section 333. Therefore, the FAA finds that the requested relief from
+14 CFR part 21, Certification procedures for products and parts, Subpart H--Airworthiness
+Certificates, and any associated noise certification and testing requirements of part 36, is
+not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection1. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+· They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+· The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+· A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, Alternatives Renewable Solutions, LLC is granted an
+exemption from 14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a),
+91.7(a), 91.119(c), 91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and
+91.417(a) and (b), to the extent necessary to allow the petitioner to operate a UAS to perform
+
+1 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                               3
+
+aerial data collection. This exemption is subject to the conditions and limitations listed
+below.
+
+Conditions and Limitations
+
+In this grant of exemption, Alternatives Renewable Solutions, LLC is hereafter referred to as
+the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+1. Operations authorized by this grant of exemption are limited to the DJI Phantom 2
+    Vision Plus and Walkera Tali H500 when weighing less than 55 pounds including
+    payload. Proposed operations of any other aircraft will require a new petition or a
+    petition to amend this exemption.
+
+2. Operations for the purpose of closed-set motion picture and television filming are
+    not permitted.
+
+3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+    exemption holder may use either groundspeed or calibrated airspeed to determine
+    compliance with the 87 knot speed restriction. In no case will the UA be operated at
+    airspeeds greater than the maximum UA operating airspeed recommended by the
+    aircraft manufacturer.
+
+4. The UA must be operated at an altitude of no more than 400 feet above ground level
+    (AGL). Altitude must be reported in feet AGL.
+
+5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+    This requires the PIC to be able to use human vision unaided by any device other than
+    corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+    U.S. driver's license.
+
+6. All operations must utilize a visual observer (VO). The UA must be operated within
+    the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+    to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+    capability. The VO and PIC must be able to communicate verbally at all times;
+    electronic messaging or texting is not permitted during flight operations. The PIC
+    must be designated before the flight and cannot transfer his or her designation for the
+    duration of the flight. The PIC must ensure that the VO can perform the duties
+    required of the VO.
+
+7. This exemption and all documents needed to operate the UAS and conduct its
+    operations in accordance with the conditions and limitations stated in this grant of
+                                                                                                            4
+
+    exemption, are hereinafter referred to as the operating documents. The operating
+    documents must be accessible during UAS operations and made available to the
+    Administrator upon request. If a discrepancy exists between the conditions and
+    limitations in this exemption and the procedures outlined in the operating documents,
+    the conditions and limitations herein take precedence and must be followed.
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+                                                                                                            5
+
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+                                                                                       6
+
+exemption holder may apply for a new or amended COA if it intends to conduct
+operations that cannot be conducted under the terms of the attached COA.
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+    be as large as practicable.
+
+23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+    any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+    PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+    These documents must be made available to the Administrator or any law enforcement
+    official upon request.
+
+24. The UA must remain clear and give way to all manned aviation operations and
+    activities at all times.
+
+25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless:
+      a. Barriers or structures are present that sufficiently protect nonparticipating persons
+          from the UA and/or debris in the event of an accident. The operator must ensure
+          that nonparticipating persons remain under such protection. If a situation arises
+          where nonparticipating persons leave such protection and are within 500 feet of
+          the UA, flight operations must cease immediately in a manner ensuring the safety
+          of nonparticipating persons; and
+      b. The owner/controller of any vessels, vehicles or structures has granted permission
+          for operating closer to those objects and the PIC has made a safety assessment of
+          the risk of operating closer to those objects and determined that it does not
+          present an undue hazard.
+
+The PIC, VO, operator trainees or essential persons are not considered
+nonparticipating persons under this exemption.
+
+27. All operations shall be conducted over private or controlled-access property with
+    permission from the property owner/controller or authorized representative.
+    Permission from property owner/controller or authorized representative will be
+    obtained for each flight to be conducted.
+
+28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+    boundaries of the operational area as defined by the applicable COA must be reported
+    to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+                                                                                               7
+
+reported to the National Transportation Safety Board (NTSB) per instructions
+contained on the NTSB Web site: www.ntsb.gov.
+
+If this exemption permits operations for the purpose of closed-set motion picture and
+television filming and production, the following additional conditions and limitations apply.
+
+29. The operator must have a motion picture and television operations manual (MPTOM)
+    as documented in this grant of exemption.
+
+30. At least 3 days before aerial filming, the operator of the UAS affected by this
+    exemption must submit a written Plan of Activities to the local Flight Standards
+    District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+    notification may be waived with the concurrence of the FSDO. The plan of activities
+    must include at least the following:
+      a. Dates and times for all flights;
+      b. Name and phone number of the operator for the UAS aerial filming conducted
+          under this grant of exemption;
+      c. Name and phone number of the person responsible for the on-scene operation of
+          the UAS;
+      d. Make, model, and serial or N-Number of UAS to be used;
+      e. Name and certificate number of UAS PICs involved in the aerial filming;
+      f. A statement that the operator has obtained permission from property owners
+          and/or local officials to conduct the filming production event; the list of those
+          who gave permission must be made available to the inspector upon request;
+      g. Signature of exemption holder or representative; and
+      h. A description of the flight activity, including maps or diagrams of any area, city,
+          town, county, and/or state over which filming will be conducted and the altitudes
+          essential to accomplish the operation.
+
+31. Flight operations may be conducted closer than 500 feet from participating persons
+    consenting to be involved and necessary for the filming production, as specified in the
+    exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                      8
+
+This exemption terminates on August 31, 2017, unless sooner superseded or rescinded.
+
+Sincerely,
+
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+                UNITED STATES OF AMERICA
+           DEPARTMENT OF TRANSPORTATION
+          FEDERAL AVIATION ADMINISTRATION
+
+          Reg. Docket No.________________________
+
+           In the Matter of the Petition for Applicant
+
+Alternatives Renewable Solutions, LLC
+
+             For an Exemption from the Requirements of the
+                  Code of Federal Regulations Sections
+
+          Concerning Operations of Unmanned Aircraft Systems
+                     Pursuant to Section 333 of the
+
+               FAA Modernization and Reform Act of 2012
+
+                               Contact Information: Alternatives Renewable Solutions, LLC
+                                             Point of Contact: Dr. Daanen Strachan
+                                                   Phone: 800-759-7813 x 202
+                                               Email: daanens@arsconsulting.net
+
+                                    Address: 1725 I Street, NW, Suite 300, WDC 20006
+                                                  URL: www.arsconsulting.net
+May 23, 2015
+
+U.S. Department of Transportation
+Docket Management System
+1200 New Jersey Ave., S.E.
+Washington, D.C. 20590
+
+        RE: Exemption Request from Section 333 of the FAA Modernization and Reform Act of
+        2012, Parts 21, 27, 45, 61, 91, and 93 of Federal Aviation Regulations
+
+Dear Sir or Madam:
+
+Pursuant to Section 333 of the FAA Modernization and Reform Act of 2012 and 14 C.F.R. Parts 21, 27,
+45, 61, 91, and 93, Alternatives Renewable Solutions, LLC ("Petitioner"), a construction and engineering
+firm, hereby applies for an exemption from the listed Federal Aviation Regulations to allow commercial
+operations of both Micro Unmanned Aircraft Systems (mUAS) and Small Unmanned Aircraft Systems
+(sUAS) for conducting aerial public safety inspections and photography of vacant/and or occupied
+buildings, temporary tower crane assembly verification, construction activities for compliance
+determination, and substructure bridge inspections, so long as such operations are conducted within and
+under the conditions outlined here in or as may be established by the FAA as required by Section 333. We
+seek an exemption from the following regulations:
+
+         a) 14 C.F.R. Part 21, Subpart H- Airworthiness Certificates and 14 C.F.R. § 91.203(a)(1)
+         b) 14 C.F.R. Part 27 Airworthiness Standards: Normal Category Rotorcraft
+         c) 14 C.F.R. §§ 45.23(b), 45.27(a) and 91.9(c): Aircraft Marking and Identification
+
+              Requirements
+         d) 14 C.F.R. § 61.113: Private Pilot Privileges and Limitations
+         e) 14 C.F.R. §91.7(a): Civil Aircraft Airworthiness
+         f) 14 C.F.R. §91.9(b)(2): Civil Aircraft Flight Manual in the Aircraft
+         g) 14 C.F.R. §91.103: Preflight Action
+         h) 14 C.F.R. §91.109(a): Flight Instruction
+         i) 14 C.F.R. §91.119: Minimum Safe Altitudes
+         j) 14 C.F.R. §91.121: Altimeter Settings
+         k) 14 C.F.R. §91.151(a): Fuel Requirements for Flight in VFR Conditions
+         l) 14 C.F.R. §91.203(a) and (b): Carrying Civil Aircraft Certification and Registration
+         m) 14 C.F.R. §§91.405(a); 407(a)(1); 409(a)(s); 417(a)(b): Maintenance Inspections
+         n) 14 C.F.R. Subchapter F, Part 93-Special Air Traffic Rules, Subpart V-Washington, DC
+
+              Metropolitan Area Special Flight Rules, §93.333: Failure to Comply with this Subpart
+         o) 14 C.F.R. Subchapter F, Part 93-Special Air Traffic Rules, Subpart V-Washington, DC
+
+              Metropolitan Area Special Flight Rules, §93.339 (a) through (e): Requirements for
+              Operating in the DC SFRA, including the DC FRZ
+         p) 14 C.F.R. Subchapter F, Part 93-Special Air Traffic Rules, Subpart V-Washington, DC
+              Metropolitan Area Special Flight Rules, §93.341 (a);(c1) through (c5);(d): Aircraft
+              Operations in the DC FRZ
+
+As shown in this petition and attached supporting documents, we request an exemption that would permit
+the operations of both mUAS and sUAS under controlled conditions in the Class G airspace that is 1)
+limited; 2) predetermined; 3) controlled as to access; 4) identified and monitored; and 5) we will provide
+the necessary safety improvements and enhancements using industry practices for all operations.
+Approving our petition would thereby enhance safety while fulfilling the Secretary of Transportation's
+responsibilities to "establish requirements for the safe operation of such aircraft systems in the national
+airspace system" of Section 333(c) of the FAA Modernization and Reform Act of 2012.
+
+If you have any questions, please feel free to contact me.
+
+Sincerely,
+
+William Jones
+
+William Jones
+General Counsel
+                                                  TABLE OF CONTENTS
+
+1 DESCRIPTION OF PETITIONER ............................................................................................................................6
+2 RELEVANT STATUTORY AUTHORITY TO PETITIONER'S EXEMPTION REQUEST ...................................................6
+3 QUALIFICATIONS FOR APPROVAL UNDER SECTION 333 OF THE FMRA ..............................................................7
+
+   3.1 DJI PHANTOM 2 VISION PLUS, VERSION 3.0 MUAS ASSET.......................................................................................... 8
+   3.2 TALI CARBON H500 SUAS ASSET ......................................................................................................................... 10
+4 DESCRIPTION OF PROPOSED OPERATIONS......................................................................................................11
+   4.1 STANDARD OPERATIONAL PROCEDURES FOR MUAS AND SUAS ASSETS........................................................................ 11
+   4.2 SPECIFIC OPERATIONAL PROCEDURES FOR AERIAL BUILDING PHOTOGRAPHY & INSPECTIONS ............................................ 13
+   4.3 SPECIFIC OPERATIONAL PROCEDURES FOR ILLEGAL AND LEGAL CONSTRUCTION INSPECTIONS ............................................ 14
+   4.4 SPECIFIC OPERATIONAL PROCEDURES FOR TEMPORARY TOWER CRANE ASSEMBLY VERIFICATION INSPECTIONS .................... 14
+   4.5 SPECIFIC OPERATIONAL PROCEDURES FOR SUBSTRUCTURE BRIDGE INSPECTIONS ............................................................ 16
+   4.6 SPECIFIC OPERATIONAL PROCEDURES FOR THE DC SPECIAL FLIGHT RULES AREA (DC SFRA), INCLUDING THE DC
+   METROPOLITAN AREA FLIGHT RESTRICTED ZONE (DC FRZ)..................................................................................................... 18
+5 REGULATIONS FROM WHICH EXEMPTION RELIEF IS REQUESTED ....................................................................19
+   5.1 14 C.F.R. PART 21, SUBPART H- AIRWORTHINESS CERTIFICATES AND 14 C.F.R. § 91.203(A)(1).................................... 19
+   5.2 14 C.F.R. PART 27 AIRWORTHINESS STANDARDS: NORMAL CATEGORY ROTORCRAFT .................................................... 20
+   5.3 14 C.F.R. §§ 45.23(B), 45.27(A) AND 91.9(C): AIRCRAFT MARKING AND IDENTIFICATION REQUIREMENTS ..................... 20
+   5.4 14 C.F.R. § 61.113: PRIVATE PILOT PRIVILEGES AND LIMITATIONS ............................................................................ 20
+   5.5 14 C.F.R. §91.7(A): CIVIL AIRCRAFT AIRWORTHINESS ............................................................................................. 21
+   5.6 14 C.F.R. §91.9(B)(2): CIVIL AIRCRAFT FLIGHT MANUAL IN THE AIRCRAFT ................................................................. 22
+   5.7 14 C.F.R. §91.103: PREFLIGHT ACTION................................................................................................................ 22
+   5.8 14 C.F.R. §91.109(A): FLIGHT INSTRUCTION......................................................................................................... 22
+   5.9 14 C.F.R. §91.119: MINIMUM SAFE ALTITUDES .................................................................................................... 23
+   5.10 14 C.F.R. §91.121: ALTIMETER SETTINGS............................................................................................................. 23
+   5.11 14 C.F.R. §91.151(A): FUEL REQUIREMENTS FOR FLIGHT IN VFR CONDITIONS............................................................ 24
+   5.12 14 C.F.R. §91.203(A) AND (B): CARRYING CIVIL AIRCRAFT CERTIFICATION AND REGISTRATION....................................... 24
+   5.13 14 C.F.R. §§91.405(A); 407(A)(1); 409(A)(S); 417(A)(B): MAINTENANCE INSPECTIONS ............................................ 25
+   5.14 14 C.F.R. SUBCHAPTER F, PART 93-SPECIAL AIR TRAFFIC RULES, SUBPART V-WASHINGTON, DC METROPOLITAN AREA
+   SPECIAL FLIGHT RULES, §93.333: FAILURE TO COMPLY WITH THIS SUBPART .............................................................................. 25
+   5.15 14 C.F.R. SUBCHAPTER F, PART 93-SPECIAL AIR TRAFFIC RULES, SUBPART V-WASHINGTON, DC METROPOLITAN AREA
+   SPECIAL FLIGHT RULES, §93.339 (A) THROUGH (E): REQUIREMENTS FOR OPERATING IN THE DC SFRA, INCLUDING THE DC FRZ ........ 26
+   5.16 14 C.F.R. SUBCHAPTER F, PART 93-SPECIAL AIR TRAFFIC RULES, SUBPART V-WASHINGTON, DC METROPOLITAN AREA
+   SPECIAL FLIGHT RULES, §93.341 (A);(C1) THROUGH (C5);(D): AIRCRAFT OPERATIONS IN THE DC FRZ .......................................... 27
+6 PUBLIC INTEREST.............................................................................................................................................28
+   6.1 THE NEED FOR AERIAL BUILDING PHOTOGRAPHY & INSPECTIONS ................................................................................ 29
+   6.2 THE NEED FOR SUBSTRUCTURE BRIDGE INSPECTIONS ................................................................................................ 30
+   6.3 THE NEED FOR CONSTRUCTION INSPECTIONS........................................................................................................... 32
+   6.4 THE NEED FOR TEMPORARY TOWER CRANE ASSEMBLY VERIFICATION INSPECTIONS ........................................................ 33
+7 DRUG FREE WORKPLACE .................................................................................................................................36
+8 PRIVACY POLICY ..............................................................................................................................................37
+9 FEDERAL REGISTRY SUMMARY........................................................................................................................38
+10 CONCLUSION...................................................................................................................................................38
+11 REFERENCES ....................................................................................................................................................40
+12 SUPPORTING DOCUMENTS .............................................................................................................................41
+U.S. Department of Transportation- Docket Management System
+May 23, 2015
+
+12.1   AERIAL INSPECTION FLIGHT SIGN........................................................................................................................... 41
+12.2   DJI PHANTOM 2 VISION PLUS USER MANUAL ......................................................................................................... 41
+12.3   DJI PILOT TRAINING GUIDE .................................................................................................................................. 41
+12.4   DJI PROP GUARD ASSEMBLY GUIDE....................................................................................................................... 41
+12.5   DJI BATTERY SAFETY GUIDE ................................................................................................................................. 41
+12.6   DJI FLYING FLOWCHART ...................................................................................................................................... 41
+12.7   DJI ADVANCED MANUAL..................................................................................................................................... 41
+12.8   TALI H500 GOPRO MANUAL ............................................................................................................................... 41
+12.9   TALI H500 BLUETOOTH DATALINK MANUAL ........................................................................................................... 41
+12.10
+12.11     TALI H500, QUICK START GUIDE...................................................................................................................... 41
+12.12     TALI H500 ILOOK SETTINGS............................................................................................................................. 41
+          ARS FLIGHT SAFETY AND PROCEDURES MANUAL ................................................................................................. 41
+U.S. Department of Transportation- Docket Management System
+May 23, 2015
+
+1 Description of Petitioner
+
+    Alternatives Renewable Solutions, LLC, a Disadvantage Business Enterprise (DBE) and
+    Certified Business Enterprise (CBE) formed in 2009, is a Washington-DC based consulting
+    company solving problems through innovative applications and solutions. We are addressing
+    customers' needs in construction, engineering, and architecture using industry best practices. We
+    are involved in the planning, coordination of various projects including government, residential,
+    and commercial projects.
+
+    The Petitioner has launched its drone mapping and inspection service. Our quadcopter and
+    hexacopter assets are suitable for various private, industrial, and commercial applications. We
+    seek to provide aerial image-thermography, inspections of sites using high resolution video and
+    photo cameras, surveys, and 3D image mapping from a point cloud. Aerial technology using
+    unmanned aircraft systems (UAS) has been shown to significantly increase productivity and
+    reduce the inherent safety risks to property and personnel. The Petitioner has adopted UAS
+    technology to increase safety, accuracy, value, construction management, rapid turnaround of
+    data, versatility, and its speed as opposed to traditional survey methods.
+
+    Additionally, the Petitioner is staffed with personnel who have UAS operational and
+    maintenance experience. This natural transition to the infrastructure and public safety inspection
+    market, along with our engineering inspection experience, reduces the overall risk to the public,
+    while conducting inspection operations. Therefore, the Petitioner seeks the requested exemptions
+    and a Certificate of Authorization to permit it to offer consulting services for the public and
+    private sectors to conduct UAS operations for a host of industries and applications. These
+    include:
+
+          Aerial building photography and inspections;
+          Aerial surveying and inspections;
+          Substructure bridge inspections;
+          Temporary tower crane assembly verification inspections;
+          Construction activities for compliance determination; and
+          Aerial inspections in the DC Metropolitan Area
+
+2 Relevant Statutory Authority to Petitioner's Exemption Request
+
+    The Federal Aviation Administration (FAA)'s mission is to provide the safest airspace system
+    globally. Since the National Airspace System (NAS) isn't static and will constantly be changing,
+    it must adapt to new technologies and applications, as evidence by the proliferation of unmanned
+    aircraft systems (UAS). Because UAS are inherently different from manned aircraft, introducing
+    UAS into the NAS will be challenging. Under Section 333 of the FAA Modernization and
+    Reform Act of 2012 (FMRA), the Secretary of Transportation has the authority to grant case-by-
+    case authorization for certain unmanned aircraft to perform commercial operations prior to the
+
+Page 6  Petition of Alternatives Renewable Solutions, LLC for Exemption Pursuant to Section 333 of FMRA of 2012
+U.S. Department of Transportation- Docket Management System
+May 23, 2015
+
+    finalization of the small UAS Rule, which will be the primary method for authorizing small UAS
+    operations once it is complete (Section 333, 2015).
+
+    The Section 333 Exemption process provides operators who wish to pursue safe and legal entry
+    into the NAS a competitive advantage in the UAS marketplace, thus discouraging operations
+    which are noncompliant with the implementing regulations and which improves safety.
+    Therefore, this Petition is being submitted in accordance with Sections 333 (a) to (c) of the
+    FMRA. In this Act, Congress directed the FAA "to safely accelerate the integration of civil
+    UASs in the national airspace system", and under Section 333, the FAA Administrator is to
+    permit UASs to operate in the NAS where it is safe and does not create a hazard or pose a threat
+    to national security to do so based on the following:
+
+          The UAS size, weight, speed, and operational capability;
+          Operation of the UAS in close proximity to airports and populated areas; and
+          Operation of the UAS within visual line-of-sight of the operator.1
+
+    In addition, the FAA Administrator has the general authority to grant exemptions from FAA
+    safety regulations and minimum standards when the Administrator decides a requested
+    exemption is in the public interest.2 A party requesting an exemption must explain the reasons
+    why the exemption: (1) would benefit the public as a whole and; (2) would not adversely affect
+    safety or how it would provide a level of safety at least equal to the existing rules.3
+
+    The Petitioner will use multirotor UAS vehicles, weighing 6 or fewer lbs. including payload and
+    operate under normal conditions at a speed of no more than 8.23 meters/sec or 16 knots for aerial
+    public safety inspections. Each UAS will have the capability to hover, and move in the vertical
+    and horizontal plane simultaneously. In addition, the UASs will operate only in the pilot's visual
+    line of sight at all times. As a result, the Petitioner will demonstrate how the proposed UAS
+    aerial public safety inspections will benefit the public and that the proposed operations will not
+    adversely affect safety of the public and to those operating in the National Airspace System.
+
+3 Qualifications for Approval under Section 333 of the FMRA
+
+    The proposed operations in this petition for exemption, qualify for expedited approval under
+    Section 333 of the FMRA. Each of the statutory criteria and other potential relevant factors are
+    satisfied. The Petitioner's planned operations would permit the use of small and relatively
+    inexpensive UAS under controlled conditions in the Class G airspace that is: (a) limited; (b)
+    predetermined; (c) controlled as to access; and (d) would pose an increased level of safety beyond
+    what exists when building inspectors, infrastructure inspectors, fixed or rotor wing aircraft are
+    used to accomplish the same purpose for inspection of buildings, bridge substructures,
+    compliance determinations at construction sites, and crane assembly verifications.
+
+1 §333(b)(1) of FAA Modernization and Reform ACT 2012.
+2 49 U.S.C. §44701(f) (authorizing the grant of exemptions from a requirement of regulations prescribed pursuant to Section
+
+44701(a)-(b) and Sections 44702-44716).
+3 14 C.F.R. §11.81, Petition for Exemptions.
+
+Page 7  Petition of Alternatives Renewable Solutions, LLC for Exemption Pursuant to Section 333 of FMRA of 2012
+U.S. Department of Transportation- Docket Management System
+May 23, 2015
+
+    The Petitioner's sUASs will operate in visual line-of-sight (VLOS) and in specific safe zone
+    areas described in Section 5, Proposed Operations outlined in this Petition. Also, the Petitioner's
+    fleet includes both a micro UAS (mUAS, weighing 2.75 lbs.) quadcopter and a small UAS
+    (sUAS) hexacopter, weighing less than 6 pounds, including payload. They will operate under
+    normal weather conditions, at speeds not to exceed 16 knots and have the capability to hover,
+    and move in both vertical and horizontal positions. The proposed operations will be conducted
+    with sUAS and or mUAS of a size and weight that will ensure a superior level of safety over
+    conducting the same operations with conventional fixed wing, manned aircraft, and reduce the
+    inherent safety risks to property and personnel.
+
+    Given the size of the mUAS and sUAS involved and the restricted safety zones in which they
+    will operate, this Petition for exemption falls within the zone of safety, in which Congress4
+    intended for the FAA to permit commercial UAS operations by exemption, pending completion
+    of their formal ruling. Moreover, the authority granted to the FAA by Congress via Section 333
+    of the FMRA, provides the equivalent level of safety surrounding the proposed operations, and
+    the significant benefit to the public, which the grant of the requested exemption is warranted and
+    is in the public interest. Therefore, the Petitioner respectfully requests that the FAA grant the
+    requested exemption without delay, because such operations will insure that both the mUAS and
+    sUAS will not create a hazard to users of the NAS or the public.
+
+3.1 DJI Phantom 2 Vision Plus, Version 3.0 mUAS Asset
+
+    The Petitioner will deploy the DJI Phantom 2 Vision + (NT0050029), version 3.0 for inspection
+    of vacant or occupied buildings, compliance activities at construction sites, substructure bridge
+    inspections, crane assembly verification inspection, and for general aerial surveys. The Petitioner
+    shall use images captured from the DJI Phantom 2 Vision Plus. These images will be taken
+    automatically and are geo-tagged by the Phantom 2 Vision Plus and then the rendering software
+    will convert images to maps and 3D models.
+
+    A copy of the DJI Phantom 2 Vision Plus User Manual, Pilot Training Guide, Prop Guard
+    Assembly Guide, Battery Safety Guide, and the ARS Flight Safety and Procedures Manual are
+    submitted as supporting documents with this Petition.
+
+    The DJI Phantom 2 Vision+ represents the company's flagship consumer model, improving on
+    the Phantom 2 Vision by adding a Zenmuse H3-3D gimbal camera system. The Phantom 2
+    Vision is only outfitted with a jello-slaying rubber platform to ward off minimal gyration shake,
+    while the new Phantom 2 Vision+ corrects for vertical, horizontal, and angular shake. With this
+    new system, the onboard camera can be tilted up or down, greatly maximizing the range of the
+    lens. DJI also offers the Phantom 2, which comes without a camera or gimbal. The Vision+ can
+    transmit video and flight data to a smart phone thru Wi-Fi with almost no latency, the operator
+    can actually "Fly" the UAS base on the video screen with First Person View (FPV) experience,
+    Wi-Fi range is about 500-700m (Perlman, 2014).
+
+    The Phantom 2 Vision Plus 3.0 or mUAS weighs 2.75 pounds including battery and camera.
+    Incorporated into the programming of the mUAS is an automatic return home feature that
+
+4 Id at § 333(b)(1)
+
+Page 8  Petition of Alternatives Renewable Solutions, LLC for Exemption Pursuant to Section 333 of FMRA of 2012
+U.S. Department of Transportation- Docket Management System
+May 23, 2015
+
+    automatically directs the Phantom back to the point of take-off (Home location) should the unit
+    lose communications with the transmitter. Also, the mUAS has a crusing speed of 15 knots and
+    a maximum speed of 29 knots. Maximum flight time is 25 minutes and has a gross weight of
+    2.75 pounds.
+
+    As for the remote controller, it features a sliding power button, left and right joysticks, S2 and
+    S1 switches, and a chrome eyelet to mount a neck strap to. There is a movable antenna at the top
+    of the controller that can be angled upward, which is recommended by DJI for attaining the best
+    signal. The WiFi extender has two LED lights that indicate connection status, as well as the
+    power level health. In terms of actually piloting the drone, both the S2 and S1 switches need to
+    be flipped up and the WiFi extender needs to be powered on. The S1 switch places the drone in
+    calibration mode by flipping it back and forth several times, and the S2 switch will change the
+    drone's Home location. The left joystick powers the drone up, down, and turns it left and right.
+    The right joystick moves the drone forward, backward, sideways to the left, and sideways to the
+    right (Perlman, 2014). In addition, the Phantom has an additional communication link between
+    the camera and the mUAS's on a different radio frequency for a smart phone connection.
+    Allowing the operator or Pilot in Command (PIC) to monitor battery level, altitude (AGL),
+    distance from PIC, camera imagery, and control camera angle.
+
+    The PIC can use the mUAS's internal software to set maximum altitude AGL for each flight,
+    allowing for customization of flights to no higher than 100 feet, 200 feet, 300 feet are some
+    examples. The 400 feet maximum AGL can be programmed into the UAVs software pre-flight
+    to insure compliance with FAA standards. Also, DJI has internal software that regulates the
+    height of the mUAS with No-Fly-Zones. These zones include airports worldwide and have been
+    divided into two types, A and B. Also, DJI has a flight limitation system that will prevent the
+    mUAS from flying in restricted airspace. For example, if the mUAS is within 1.5 miles of an
+    airport's restricted zone, the vehicle will not fly.
+
+    Finally, the mUAS has an altitude and radar monitoring function that allows the PIC better
+    determination of height, direction of flight and distance from the PIC. Also, the PIC can monitor
+    GPS lock status while in flight with green lights on mUAS and has the ability to anticipate loss
+    of GPS locking so the PIC can land the UAS as a precaution.
+
+Page 9  Petition of Alternatives Renewable Solutions, LLC for Exemption Pursuant to Section 333 of FMRA of 2012
+U.S. Department of Transportation- Docket Management System
+May 23, 2015
+
+Phantom   Supported Battery              5200mAh LiPo Battery
+Vision +  Weight (battery & Propellers)  1242g or 2.75 pounds
+          Hover Accuracy                 Vertical: 0.8m; Horizontal: 2.5m
+          Max Yaw Angular velocity       200 Degrees/second
+          Max Tiltable Angle             35 Degrees
+          Max. Ascent/Descent Speed      Ascent: 6 m/s; Descent 2 m/s
+          Max. Flight Speed              15 m/s
+          Diagonal Motor-Motor Distance  350mm
+
+3.2 Tali Carbon H500 sUAS Asset
+
+    Also, the Petitioner will deploy the Tali Carbon H500 Devo F12 E (N554QW) for inspecting
+    the substructure of bridges and for general aerial surveys. A copy of the Tali H500 DEVO Quick
+    Start Guide, Settings Guide, Bluetooth Datalink Manual, GoPro Manual, and the ARS Flight
+    Safety and Procedures Manual are submitted as supporting documents with the Petition.
+
+    The Tali H500 is considered by many to be the best drone in its class in the world. With its
+    cutting edge technology combined with reliability and ease of use, the Tali H500 delivers
+    excellent performance. It comes with the HD i-Look Plus camera and the mount accepts all
+    GoPro cameras. It has first person view meaning that whatever the camera sees will be
+    transmitted live to the controller. With a 25-minute flight time and the 10 waypoint GPS function,
+    the PIC can tackle substructure bridge inspections. The retractable landing gear and 3D gimbal
+    ensure that the camera shots are 100% unobstructed.
+
+    The Tali H500 weighs 4.45 pounds including battery and iLook camera. Incorporated into the
+    programming of the sUAS is a "One Key Go Home" feature that returns the sUAS to the home
+    location automatically. The Tali's failsafe return to home mode, an advanced return-to-home
+    (RTH) protects the aircraft, in case of loss of control signal; whereby the H500 will automatically
+    attempt to return to its starting position for a safe landing. With its' new Hyper I Intelligent
+    Orientation Control (IOC) function that includes new advanced IOC systems, the H500 can start
+    and fly in any orientation completely solving pilot loss of orientation problems. Also, the sUAS
+    has a crusing speed of 25 knots and a maximum speed of 47.7 knots. Maximum flight time is
+    25 minutes and has a gross weight of 4.6 pounds.
+
+    As for the Devo F12e transmitter, manufactured by Walkera, the unit has 4 slider controls for
+    controlling gains, gimbal, pitch, yaw and roll. Also, it has a built-in 5-in-1 video monitor,
+    capable of displaying both video and telemetry data from the Tali H500. The F12e controller
+    has 5.8 Ghz antenna and can display live data from the built-in screen. Data options include
+    temperature, battery power, GPS position, speed, altitude, and distance from starting point. One
+    great feature is the low power warning; the radio starts buzzing and vibrating when there is 2
+    minutes or less of flight time left on the H500 battery. The battery is a 6S 5400mah Li-Po 22.2V
+    battery with built-in charge status monitoring and promoting safe and convenient flight
+    operations.
+
+Page 10   Petition of Alternatives Renewable Solutions, LLC for Exemption Pursuant to Section 333 of FMRA of 2012
+U.S. Department of Transportation- Docket Management System
+May 23, 2015
+
+Tali H500  Supported Battery              22V, 5200mAh LiPo Battery
+           Weight (battery & Propellers)  2020g or 4.45 pounds
+           Hover Accuracy                 Vertical: 0.8m; Horizontal: 2.5m
+           Main Rotor Diameter            233mm
+           Brushless ESC                  WST-15AH (R/G)
+           Max. Flight Speed              24.58 m/s
+           Stabilized 6 axis FLCS         DEVO-H
+
+4 Description of Proposed Operations
+
+    To assist the FAA in its safety assessment of the Petitioner's proposed mUAS and sUAS
+    operations, standard and industry specific procedures have been created. Below is a summary
+    of operational limitations and conditions, which ensure an equivalent, or higher level of safety
+    to operations conducted under regulatory guidelines.
+
+4.1 Standard Operational Procedures for mUAS and sUAS Assets
+
+    1. For all flight operations, no person shall act as an operator or visual camera observer for
+         more than one UAS operation at a time.
+
+    2. The Petitioner will operate both the Phantom 2 Vision Plus (mUAS) and the TALI H500
+         (sUAS).
+
+    3. All pilots of the mUAS and sUAS will conduct a preflight inspection prior to flight
+         mission.
+
+    4. Prior to any flight mission, the operator and visual camera observer will conduct a preflight
+         inspection, to include specific aircraft and control station systems checks to ensure both the
+         mUAS and sUAS are safe for operations.
+
+Page 11  Petition of Alternatives Renewable Solutions, LLC for Exemption Pursuant to Section 333 of FMRA of 2012
+U.S. Department of Transportation- Docket Management System
+May 23, 2015
+
+    5. The mUAS weigh less than 2.75 pounds, including payload.
+
+    6. The sUAS weigh less than 6 pounds, including payload.
+
+    7. Flights will be operated within visual line-of-sight (VLOS) of a pilot and visual camera
+         observer.
+
+    8. Maximum total flight time of each operational flight will be 25 minutes. Both the mUAS
+         and sUAS calculates battery reserve in real time, and will return to its ground station with
+         at least 20% battery power reserve should that occur prior to 25 minutes limit.
+
+    9. At all times, both the mUAS and sUAS will remain close enough to operator for the
+         operator to be capable of seeing the aircraft with vision unaided by any device other than
+         corrective lenses.
+
+    10. Both the mUAS and sUAS will not operate over any persons not directly involved in the
+         operation.
+
+    11. Flights for both the mUAS and sUAS will occur during daylight-only operations.
+
+    12. During flight operations, both the mUAS and sUAS will yield right-of-way to other
+         aircraft, manned or unmanned.
+
+    13. All flight operations will be in Class G Airspace.
+
+    14. mUAS flights will be operated at an altitude of no more than 400 feet above ground level
+         (AGL) or no more than 100 feet above a structure being inspected, if that structure exceeds
+         400 feet.
+
+    15. sUAS flights will be operated at an altitude of no more than 500 feet above ground level
+         (AGL) or no more than 100 feet above a structure being inspected, if that structure exceeds
+         500 feet.
+
+    16. Flights will be operated at a lateral distance of at least 500 feet from any structure or
+         structure or vehicle unless permission has been granted by the owner or controller of the
+         property in advance of the flight. Flights will not be conducted within 500 feet of any
+         person who is not essential for the conduct of the flight unless that person is in a position
+         where they are shielded from the aircraft and any possible debris resulting from an aircraft
+         failure. Flight will be terminated if a person/s breaches safety zone.
+
+    17. At a minimum, the crew for each operation will consist of the Pilot, Visual Camera
+         Observer, Engineer Inspector, and one or more State or local government inspector.
+
+    18. The mUAS pilot will be an FAA licensed airman with a private pilot's certificate with
+         rotorcraft experience, along with 100 hours of training.
+
+    19. The sUAS pilot will be an FAA licensed airman with a private pilot's certificate with
+         rotorcraft experience along with 100 hours of training.
+
+    20. All Pilots will be vetted by the Transportation Security Administration.
+
+    21. The mUAS Pilot will be trained in flight, operations, and safety procedures in accordance
+         with the ARS Flight Safety and Procedures Manual.
+
+    22. Both the mUAS and sUAS Pilots will be Pilot in Command (PIC). If a pilot certificate
+         holder other than the UAS Pilot, who possesses the necessary PIC qualifications, is also
+         present, that person can be designated as PIC.
+
+    23. The mUAS shall not operate in wind gusts greater than 10 mph.
+
+    24. The sUAS shall not operate in wind gusts greater than 18 mph.
+
+Page 12  Petition of Alternatives Renewable Solutions, LLC for Exemption Pursuant to Section 333 of FMRA of 2012
+U.S. Department of Transportation- Docket Management System
+May 23, 2015
+
+    25. Both the mUAS and sUAS will only operate within a confined "Sterile Area". A sterile
+         area is defined as a safety zone surrounding the subject property that has been cleared of all
+         individuals or animals that aren't part of the inspection. In addition, the Petitioner shall
+         establish a security perimeter for the flight operations area.
+
+    26. A briefing will be conducted in regard to the planned mUAS and sUAS operations prior to
+         each day's missions. It will be mandatory that all personnel who will be performing duties
+         within the boundaries of the safety perimeter be present for this briefing.
+
+    27. The Pilot, Visual Camera Observer, and Inspection Engineer will have been trained in
+         operations of UAS generally and will have experience in flying the particular UAS used for
+         any operations.
+
+    28. The Pilot, Visual Camera Observer, Inspection Engineer and State or local inspector will at
+         all times be able to communicate by voice or text via cellular or similar device.
+
+    29. All required permissions and permits will be obtained from territorial, state, county or city
+         jurisdictions, including local law enforcement, fire or other appropriate governmental
+         agencies.
+
+    30. The Petitioner will make available to the FAA, upon request, both the mUAS and/or sUAS
+         for inspection or testing, and any associated documents/records required to be kept under
+         the proposed rule.
+
+    31. Report an accident to the FAA within 10 days of any operation that results injury or
+         property damage.
+
+    32. If both the mUAS or sUAS loses communications or loses its GPS signal, both assets will
+         have the capability to return to a pre-determined location within the operational area and
+         land.
+
+    33. All flight operations will only operate in optimal weather conditions with visibility of at
+         least 3 miles from control station.
+
+    34. Both the mUAS and sUAS will have the capability to abort a flight in case of unpredicted
+         obstacles or emergencies. The Pilot will then safely terminate mission and gain control of
+         UAS and return to a pre-determine location.
+
+    35. The Petitioner will use a blanket 200-foot Certificate of Waiver or Authorization (COA) for
+         all flights anywhere in the country except in restricted airspace and other areas such as
+         major cities, where the FAA prohibits UAS operations. Moreover, the Petitioner will obtain
+         an Air Traffic Organization (ATO) issued COA for flights above 200 feet prior to
+         conducting any operation under this petition of exemption.
+
+4.2 Specific Operational Procedures for Aerial Building Photography & Inspections
+
+    1. Ten days before flight operations, the operator will contact the State & local government
+         inspection agency that aerial inspection of vacant or occupied buildings will be occurring.
+
+    2. The operator will enforce a safety zone covering 500 feet outside the perimeter of the
+         subject building during flight operations. The safety zone will be established by the
+         operator by using yellow safety tape and the posting of aerial inspection signs (see
+         Supporting Documents).
+
+    3. mUAS flights will be operated at an altitude of no more than 200 feet above ground level
+         (AGL).
+
+Page 13  Petition of Alternatives Renewable Solutions, LLC for Exemption Pursuant to Section 333 of FMRA of 2012
+U.S. Department of Transportation- Docket Management System
+May 23, 2015
+
+    4. Report an accident to the OSHA and the State & local government agency requesting the
+         inspection within 10 days of any operation that results injury or property damage.
+
+4.3 Specific Operational Procedures for Illegal and Legal Construction Inspections
+
+    1. Ten days before flight operations, the operator will contact the State & local government
+         inspection agency that aerial inspection of the construction site will be occurring.
+
+    2. The operator will enforce a safety zone covering 500 feet outside the perimeter of the
+         construction site during flight operations. The safety zone will be controlled by the general
+         contractor with flaggers and other staff and the posting of aerial inspection flight signs (see
+         Supporting Documents).
+
+    3. sUAS flights will be operated at an altitude of no more than 300 feet above ground level
+         (AGL).
+
+    4. Report an accident to the OSHA and the State & local government agency requesting the
+         inspection within 10 days of any operation that results injury or property damage.
+
+4.4 Specific Operational Procedures for Temporary Tower Crane Assembly Verification
+       Inspections
+
+     Cranes are carefully designed, tested, and manufactured for safe operation. When used properly
+     they can provide safe reliable service to lift or move loads. Because cranes have the ability to
+     lift heavy loads to great heights, they also have an increased potential for catastrophic accidents,
+     if safe operating practices are not followed (Culver, 1994). Due to significant advances, safety
+     professionals, and OSHA compliance officers need to keep abreast of modern crane technology
+     and changes in operating procedures to help them recognize problems before potentially unsafe
+     conditions lead to accidents that result in injuries and/or fatalities, as well as damage to
+     equipment.
+
+     Keeping these factors in mind, the need for a better understanding of crane operations and the
+     implementation of appropriate maintenance schedules is evident in preventing accidents. A
+     recent study by Don Dickie, a recognized crane authority with the Construction Safety
+     Association of Ontario, indicated that although mechanical failures represents only 11 percent
+     of the causes of crane accidents, they usually result in major accidents. Studies and analyses of
+     crane accidents involving mechanical failure show they are frequently due to a lack of
+     preventive maintenance or adequate training and/or experience on the part of the personnel
+     involved. Finally, cranes and associated rigging equipment must be inspected regularly to
+     identify and existing or potentially unsafe conditions. This preventive maintenance must be
+     performed as required by the crane manufacturer and/or the supplier to ensure safe crane
+     operation. Below is a detailed summary of operational limitations and conditions, which ensure
+     an equivalent or higher level of safety to operations conducted under regulatory guidelines for
+     proposed tower crane assembly verification inspections (see Figure 1).
+
+Page 14  Petition of Alternatives Renewable Solutions, LLC for Exemption Pursuant to Section 333 of FMRA of 2012
+U.S. Department of Transportation- Docket Management System
+May 23, 2015
+
+Figure 1: Temporary Tower Crane Inspection Map
+
+ 1. The operator will file a FAA form 7711-1, or its equivalent with the local Flight Standards
+     District Office (FSDO).
+
+ 2. At least five days before schedule inspections, the operator of both the mUAS and sUAS
+     affected by this exemption must submit a written Scope of Work Activities to the local
+     FSDO with jurisdiction over the area of proposed infrastructure inspection. The 5-day
+     notification may be waived with the concurrence of the FSDO. The Scope of Work
+     includes the following, but not limited to:
+          a. Dates and times of flights.
+          b. Name and phone number of the operator for the UAS inspections conducted under
+              this petition of exemption.
+          c. Name, phone number, and certificate number of the PIC.
+          d. Make, model, and N-number of UAS asset used in operation.
+          e. A statement that the operator has obtained permission from property owners and/or
+              local officials to conduct the infrastructure inspection event; the list of those who
+              gave permission must be made available to the inspector upon request.
+          f. A description of the flight mission, including maps or diagrams of any area, city,
+              town, county, and/or state over which infrastructure inspection will be conducted
+              and the altitudes essential to accomplish the operation.
+
+Page 15  Petition of Alternatives Renewable Solutions, LLC for Exemption Pursuant to Section 333 of FMRA of 2012
+U.S. Department of Transportation- Docket Management System
+May 23, 2015
+
+    3. Ten days before flight operations, the operator will contact the State & local government
+         inspection agency that aerial inspection of the tower crane will be occurring on a
+         construction site.
+
+    5. The operator will enforce a safety zone covering 500 feet outside the perimeter of the
+         construction site during flight operations. The safety zone will be controlled by the general
+         contractor with flaggers and the operator will impose a non-fly zone and post aerial
+         inspection in progress signs (see Supporting Documents).
+
+    4. Both mUAS and sUAS flights will be operated at an altitude of no more than 400 feet
+         above ground level (AGL).
+
+    5. Prior to inspection, the general contractor will be required to move the hook (#2) and
+         jib/trolley (#3) in a lock position that provides the best and safe flight path without any
+         obstruction of buildings, people or roadways.
+
+    6. The flight operations will be restricted to a spherical flight path surrounding the tower
+         crane starting with the concrete footing (#11), continuing up the mast (#10 -#7), then
+         moving then horizontally to the counter-jib ballast (#1), the counter-jib block (#4), the
+         hoisting drum (#5), continuing past the cabin (#6) and jib-trolley (#3) and finally to the
+         hook (#2). Then the operator will repeat the flight path backwards in the following order:
+         #2, #3, #6, #5, #4, #1, #7-#10, #11, and then land the UAS (see Figure 1).
+
+    7. Report an accident to the OSHA and the State & local government agency requesting the
+         inspection within 10 days of any operation that results injury or property damage.
+
+4.5 Specific Operational Procedures for Substructure Bridge Inspections
+
+    The operator will conduct a systematic method to inspect the substructure of the bridge. The
+    proposed operations includes inspection of bridge substructures over waterways. The
+    substructure supports the superstructure and transmits loads from the superstructure to the
+    ground. The substructure generally consists of pier caps, columns and piles. The substructure
+    may be constructed of timber, concrete or steel. Timber members are inspected for wood rot,
+    crushing, splitting and cracking. Concrete members are inspected for cracking, spalling, and
+    hollow areas. Steel members are inspected for paint peeling, corrosion and cracking. In addition,
+    the substructure is inspected for evidence of settlement or scour. Settlement is elements of the
+    substructure moving downward due to soil conditions. Scour is the undermining of a structure
+    due to water flow removing soil, which supports the structure (see Figure 2). Below is a detailed
+    summary of operational limitations and conditions, which ensure an equivalent or higher level
+    of safety to operations conducted under regulatory guidelines.
+
+Page 16  Petition of Alternatives Renewable Solutions, LLC for Exemption Pursuant to Section 333 of FMRA of 2012
+U.S. Department of Transportation- Docket Management System
+May 23, 2015
+
+Figure 2: Bridge Inspection Map
+
+1. The operator will file a FAA form 7711-1, or its equivalent with the local Flight Standards
+    District Office.
+
+2. Ten days before flight operations, the operator will contact the United States Coast Guard
+    to notify all boaters, military and commercial ship operators that UAS operations are being
+    conducted and to request a Coast Guard Patrol or State/Local Environmental Fishery Unit
+    with boat(s) in the water to monitor the safety zone.
+
+3. The operator will conduct only bridge over waterway substructure inspections.
+
+4. A no-fly zone will be established over bridge.
+
+5. UAS flights will be operated underneath the bridge.
+
+6. The operator will conduct a minimum of two missions, all over water, to inspect the bridge
+    substructures using both the mUAS and sUAS assets.
+
+7. Report an accident to the United States Coast Guard within 10 days of any operation that
+    results injury or property damage.
+
+8. At least five days before scheduled inspections, the operator of both the mUAS and sUAS
+    affected by this exemption must submit a written Scope of Work Activities to the local
+    FSDO with jurisdiction over the area of proposed infrastructure inspection. The 5-day
+    notification may be waived with the concurrence of the FSDO. The Scope of Work
+    includes the following, but not limited to:
+
+         a. Dates and times of flights.
+
+Page 17  Petition of Alternatives Renewable Solutions, LLC for Exemption Pursuant to Section 333 of FMRA of 2012
+U.S. Department of Transportation- Docket Management System
+May 23, 2015
+
+             b. Name and phone number of the operator for the UAS inspections conducted under
+                  this petition of exemption.
+
+             c. Name, phone number, and certificate number of the PIC.
+
+             d. Make, model, and N-number of UAS asset used in operation.
+
+             e. A statement that the operator has obtained permission from property owners and/or
+                  local officials to conduct the infrastructure inspection event; the list of those who
+                  gave permission must be made available to the inspector upon request.
+
+             f. A description of the flight mission, including maps or diagrams of any area, city,
+                  town, county, and/or state over which infrastructure inspection will be conducted
+                  and the altitudes essential to accomplish the operation.
+
+4.6 Specific Operational Procedures for the DC Special Flight Rules Area (DC SFRA),
+       including the DC Metropolitan Area Flight Restricted Zone (DC FRZ)
+
+    1. Airspace surrounding the Whitehouse, the U.S. Treasury Building, the Mall, and the U.S.
+         Capitol building and grounds are prohibited from flight operations.
+
+    2. The operator will notify the U.S. Capitol Police of all flight operations.
+
+    3. The operator shall review all Notice-To-Airmen (NOTAMs) and file a DC SFRA Flight
+         Plan with the Washington Flight Standards Office.
+
+    4. The PIC shall communicate with the Washington Flight Standards Office by cell phone
+         stating the current flight operation, location, altitude, and operational timeframe when
+         conducting operations within the DC SFRA, including the DC FRZ.
+
+    5. The PIC shall provide battery level, altitude, and distance from PIC and location for all
+         flight operations to the Washington Flight Standards Office.
+
+    6. All flight operations in the District of Columbia will be 350 feet or below.
+
+    7. During flight operations, both the mUAS and sUAS will yield right-of-way to all military,
+         manned or unmanned aircraft.
+
+    8. At least five days before schedule inspections, the operator of both the mUAS and sUAS
+         affected by this exemption must submit a written Scope of Work Activities to the
+         Washington FSDO with jurisdiction over the area of proposed infrastructure inspection.
+         The 5-day notification may be waived with the concurrence of the FSDO. The Scope of
+         Work includes the following, but not limited to:
+
+             a. Dates and times of flights.
+
+             b. Name and phone number of the operator for the UAS inspections conducted under
+                  this petition of exemption.
+
+             c. Name, phone number, and certificate number of the PIC.
+
+             d. Make, model, and N-number of UAS asset used in operation.
+
+             e. A statement that the operator has obtained permission from property owners and/or
+                  local officials to conduct the infrastructure inspection event; the list of those who
+                  gave permission must be made available to the inspector upon request.
+
+             f. A description of the flight mission, including maps or diagrams of any area, city,
+                  town, county, and/or state over which infrastructure inspection will be conducted
+                  and the altitudes essential to accomplish the operation.
+
+Page 18  Petition of Alternatives Renewable Solutions, LLC for Exemption Pursuant to Section 333 of FMRA of 2012
+U.S. Department of Transportation- Docket Management System
+May 23, 2015
+
+5 Regulations from Which Exemption Relief is Requested
+
+    The Petitioner requests an exemption from several interrelated provisions of 14 C.F.R. Parts 21,
+    27, 45, 61, 91, and 93 for purposes of conducting the requested operations using both a mUAS
+    and sUAS. Listed below are: (1) the specific sections of 14 C.F.R. for which an exemption is
+    sought: and (2) the operating procedures and safeguards that the Petitioner has established, which
+    will ensure a level of safety equal to or better than the rules from which exemption is sought.5
+
+5.1 14 C.F.R. Part 21, Subpart H- Airworthiness Certificates and 14 C.F.R. §
+       91.203(a)(1)
+
+    The Petitioner seeks an exemption from this provision, which establishes the procedural
+    requirements for the issuance of airworthiness certificates as required by §91.203(a)(1). Under
+    both the Federal Aviation Act (49 U.S.C. §44701 (f)) and Section 333 of the FMRA, both
+    authorizes the FAA to exempt aircraft from the requirement for an airworthiness certificate, upon
+    consideration of the size, weight, speed, operational capability, and proximity to airports and
+    populated areas of the particular UAS. Moreover, given the size and limited operating area
+    associated with both the mUAS (4.4 pounds, including payload) and sUAS (6 pounds, including
+    payload) to be utilized by the Petitioner, an exemption from Part 2, Subpart H meets the
+    requirements of an equivalent level of safety under Part 11 and Section 333 of the FMRA.
+
+    Finally, in all cases, an analysis of these criteria demonstrates that both the mUAS and sUAS
+    operated without an airworthiness certificate, in the restricted environment and under the
+    conditions proposed, will be at least as safe as, or safer than, a conventional craft operating with
+    an airworthiness certificate without the restrictions and conditions of the proposed UAS
+    operations.
+
+    The mUAS, weighing 2.75 pounds and the sUAS weighing less than 6 pounds including payload,
+    carry neither a pilot nor passenger and carry no explosive materials or flammable liquid fuels,
+    and operate exclusively within a secured and sterile area. Unlike other civil aircraft, the proposed
+    operations will be controlled and monitored by the pilot, visual camera observer, and inspection
+    engineer, pursuant to procedures in Section 4. Moreover, the FAA will have advance notice of
+    all operations conducted under this exemption.
+
+    These safety enhancements, which already apply to civil aircraft operated in connection with
+    existing inspection operations, provide a greater degree of safety to the Petitioner's staff and
+    contractors, the public, and property owners than conventional operations conducted with
+    airworthiness certificates issued under 14 C.F.R. Part 21, Subpart H. Moreover, application of
+    these same criteria demonstrates that there is no credible threat to national security posed by both
+    the mUAS and sUAS, due to its size, speed of operation, lack of explosive materials or
+    flammable liquid fuels, and inability to carry a substantial external load.
+
+5 See 14 C.F.R. § 11.81(c) which requires a petition for exemption to include: "the reasons why granting the exemption would not
+adversely affect safety, or how the exemption would provide a level of safety at least equal to that provided by the rule from which
+you seek exemption."
+
+Page 19  Petition of Alternatives Renewable Solutions, LLC for Exemption Pursuant to Section 333 of FMRA of 2012
+U.S. Department of Transportation- Docket Management System
+May 23, 2015
+
+5.2 14 C.F.R. Part 27 Airworthiness Standards: Normal Category Rotorcraft
+
+    The procedural requirements for airworthiness certification of normal category rotorcraft is set
+    forth in 14 C.F.R. Part 27. To the extent that both the Petitioner's mUAS and sUAS would
+    otherwise require certification under Part 27, Petitioner seeks an exemption from Part 27's
+    airworthiness standards for the same reasons identified in the exemption request from 14 C.F.R.
+    Part 21, Subpart H.
+
+5.3 14 C.F.R. §§ 45.23(b), 45.27(a) and 91.9(c): Aircraft Marking and Identification
+       Requirements
+
+    This Petitioner seeks an exemption from the aircraft marking and identification requirements of
+    14 C.F.R. §§45.23(b), 45.27(a), and 91.9(c):
+
+         Section 45.23(b), Markings of the Aircraft, states that marks include only the Roman capital
+         letter "N" and the registration number is displayed on limited, restricted or light-sport
+         category aircraft or experimental or provisionally certificated aircraft, the operator must
+         also display on the aircraft near each entrance to the cabin, cockpit, or pilot station, letters
+         not less than 2 inches nor more than 6 inches high, the worlds "limited," "restricted," "light-
+         sport," "experimental," or "provisional," as applicable.
+
+         Section 45.27(a), Rotorcraft, states each operator of a rotorcraft must display on that
+         rotorcraft horizontally on both surfaces of the cabin, fuselage, boom, or tail the marks
+         required by §45.23.
+
+         Section 91.9(c), Civil Aircraft Flight Manual, Marking, and Placard Requirements, states
+         that no person may operate a U.S. registered civil aircraft unless the aircraft is identified in
+         accordance with Part 45 of this Chapter.
+
+    The request of an exemption from §45.23(b) is warranted because both the mUAS and sUAS
+    have no entrance to the cabin, cockpit, or pilot station on which the registration number can be
+    placed. Moreover, given the size of the UASs, two-inch lettering would be impossible. However,
+    the aircraft registration, or "N Number" will be placed on the fuselage in compliance with
+    §45.29(f). Moreover, given the nature of the specific relief sought by this exemption request,
+    the Petitioner requires relief from the associated marking and identification requirements of
+    §45.27(a) and §91.9(c), which would require compliance with §45.23(b).
+
+    The level of safety for exemptions to the aircraft marking and identification requirements of 14
+    C.F.R. §§45.23(b), 45.27(a), and 91.9(c) will be provided by having both mUAS and sUAS
+    marked on its fuselage as required by §45.29(f) where the Pilot, Visual Camera Observer, and
+    Inspection Engineer and others working with the UASs will see the "N Number" identification
+    on the aircraft. Additionally, the Petitioner will ensure compliance with any requests of UASs'
+    marking by the FAA. The FAA has issued the following exemptions to the aircraft marking
+    requirements of §45.23(b): Exemption Nos. 0692, 0816, 8738, 10700, 10167 and 10167A.
+
+5.4 14 C.F.R. § 61.113: Private Pilot Privileges and Limitations
+
+    The Petitioner seeks an exemption from the private pilot privileges and limitations of 14 C.F.R.
+    §61.113 (a) and (b), which states that:
+
+Page 20  Petition of Alternatives Renewable Solutions, LLC for Exemption Pursuant to Section 333 of FMRA of 2012
+U.S. Department of Transportation- Docket Management System
+May 23, 2015
+
+         (a) Except as provided in paragraphs (b) through (h) of this section, no person who
+         holds a private pilot certificate may act as pilot in command of an aircraft that is
+         carrying passengers or property for compensation or hire; nor may that person, for
+         compensation or hire, act as pilot in command of an aircraft.
+
+         (b) A private pilot may, for compensation or hire, act as pilot in command of an aircraft
+         in connection with any business or employment if: (1) the flight is only incidental to
+         that business or employment; and (2) the aircraft does not carry passengers or property
+         for compensation or hire.
+
+    The purpose of Part 61 is to ensure that the skill and competency of any pilot matches the airspace
+    in which he or she will be operating, as well as requiring certifications if the private pilot is
+    carrying passengers or cargo for hire. In this case, while both the mUAS and sUAS will be
+    operated as part of a commercial operation, they carry neither passengers nor cargo. Accordingly,
+    the Petitioner seeks an exemption from 14 C.F.R. §61.113 (a) and (b), commercial limitation
+    requirement that the flight be incidental to the business to benefit from the exception.
+
+    As set forth in the ARS Flight Safety and Procedures Manual, to ensure an equivalent level of
+    safety, any person acting as a pilot in command, must be knowledgeable in the airspace and
+    communication issues pertaining to all aircraft operations, but also in the unique aspects of both
+    mUAS and sUAS flights. Unlike a conventional aircraft that carries the pilot and passengers,
+    both mUAS and sUAS, are remotely controlled with no living thing or cargo on board.
+
+    The area of operation is controlled and restricted, and all flights are planned and coordinated in
+    advance as set forth in Section 4 of this Petition. Furthermore, while helpful, a pilot license will
+    not ensure remote control piloting skills, though the Petitioner's pilot vetting and training
+    program will ensure the PIC has substantial experience on either the mUAS and/or the sUAS.
+    Moreover, private pilot certificate holders will operate either the mUAS or sUAS with the same
+    skill level. The risk to the operations of both the mUAS and sUAS are far less than the risks
+    levels inherent in the commercial activities within Part 61. As a result, allowing the Petitioner to
+    operate its UASs with a private pilot certificates as the PIC will exceed current safety levels in
+    relations to 14 C.F.R. §61.113 (a) and (b). The Petitioner believes that this system will provide
+    a high-level of competency and proficiency for its pilots that ensures a level of safety equal to or
+    greater than the rules from which this exemption is requested.
+
+5.5 14 C.F.R. §91.7(a): Civil Aircraft Airworthiness
+
+    The Petitioner seeks an exemption from 14 C.F.R. §91.7(a), which requires that a civil aircraft
+    be in airworthy condition to be operated. As there will be no airworthiness certificate issued for
+    the both the mUAS and sUAS, should this exemption be granted, no FAA regulatory standard
+    will exist for determining airworthiness.
+
+    The level of safety is maintained and operated in accordance with all specifications and
+    requirements identified by the manufacturer. The Petitioner will only operate UASs that have a
+    proven track record of reliability and safety. In addition, given that both mUAS and sUAS will
+    be operated by the Petitioner under 6 pounds, and no UAS will be flown unless it has been
+
+Page 21  Petition of Alternatives Renewable Solutions, LLC for Exemption Pursuant to Section 333 of FMRA of 2012
+U.S. Department of Transportation- Docket Management System
+May 23, 2015
+
+    maintained and prepared for flight in accordance with the manufacturer's requirements, and
+    equivalent level of safety will be provided.
+
+5.6 14 C.F.R. §91.9(b)(2): Civil Aircraft Flight Manual in the Aircraft
+
+    The Petitioner seeks an exemption from 14 C.F.R. §91.9(b)(2), which requires that:
+
+         (b) No person may operate a U.S. registered civil aircraft.
+
+         (2) For which an Airplane or Rotorcraft Flight Manual is not required by §21.5 of this
+         chapter, unless there is available in the aircraft a current approved airplane or
+         Rotorcraft Flight Manual, approved manual material, markings and placards, or any
+         combination thereof.
+
+    The UASs, given their size and configuration has no ability or place to carry such a flight manual
+    on the aircraft, not only because there is no pilot on board, but also because there is no room or
+    capacity to carry such an item on the aircraft.
+
+    The equivalent level of safety will be maintained by keeping the flight manual at the ground
+    station or ground control point where the Pilot flying either UAS will have immediate access to
+    it. The FAA has issued the following exemptions to this regulation: Exemption Nos. 8607, 8737,
+    8738, 9299, 9565, 10167, 10602, 32827, and 10700.
+
+5.7 14 C.F.R. §91.103: Preflight Action
+
+    The Petitioner seeks an exemption from 14 C.F.R. §91.103, which requires a PIC to become
+    familiar with specific information before each flight, including information contained in the
+    FAA-approved Flight Manual on board the aircraft. In as such, as the FAA approved flight
+    manual will not be provided for both the mUAS and sUAS, an exemption is requested.
+
+    An equivalent level of safety will be provided by following the ARS Safety & Procedures
+    Manual and flight manual provided by the manufacturer. The PIC will take all required preflight
+    actions-including reviewing weather, flight battery requirements, landing and takeoff distance,
+    and aircraft performance data, prior to flight. Both the Manufacturer Flight Manual and ARS
+    Flight Safety & Procedures Manual will be located at the ground station with the pilot at all
+    times.
+
+5.8 14 C.F.R. §91.109(a): Flight Instruction
+
+    The Petitioner seeks an exemption from 14 C.F.R. §91.109(a), which provides that:
+
+         "No person may operate a civil aircraft (except a manned free balloon) that is being
+         used from flight instruction unless that aircraft has fully functioning dual controls."
+         Both the mUAS and sUAS piloted aircraft, by their design, do not have functional dual
+         controls. Instead, flight control is accomplished through the use of a box that
+         communicates with the aircraft via radio communications.
+
+    As a result of the size and speed of both the mUAS and sUAS, an equivalent level of safe training
+    can still be performed without dual controls because no pilot or passengers are aboard the UASs,
+
+Page 22  Petition of Alternatives Renewable Solutions, LLC for Exemption Pursuant to Section 333 of FMRA of 2012
+U.S. Department of Transportation- Docket Management System
+May 23, 2015
+
+    and all persons will be a safe distance away in the event that the UASs experiences an difficulties
+    during flight instruction. The FAA has approved exemptions from flight training without fully
+    functional dual controls for a number of aircraft and for flight instruction for exemptions
+    numbers 5778K and 9862A.
+
+5.9 14 C.F.R. §91.119: Minimum Safe Altitudes
+
+    The Petitioner requests an exemption from the minimum safe altitude requirements of 14
+    C.F.R. §91.119, which prescribes that:
+
+         The minimum safe altitudes under which aircraft may not operate, including 500 feet
+         above the surface and away from any person, vessel, vehicle, or structure in non-
+         congested areas6.
+
+    Section 91.119(d) allows for a:
+
+         Helicopter to operate at less than those minimum altitudes when it can be operated
+         "without hazard to persons or property on the surface," provided that "each person
+         operating the helicopter complies with any routes or altitudes specifically prescribed
+         for helicopters by the FAA."
+
+    As previously stated in Section 5.1, the mUAS flights will be operated at an altitude of no more
+    than 400 feet above ground level (AGL) or no more than 100 feet above a structure being
+    inspected, if that structure exceeds 400 feet. Also, the sUAS flights will be operated at an altitude
+    of no more than 500 feet above ground level (AGL) or no more than 100 feet above a structure
+    being inspected, if that structure exceeds 500 feet. Flights will operated at a lateral distance of
+    at least 500 feet from any structure or structure or vehicle unless permission has been granted by
+    the owner or controller of the property in advance of the flight. Flights will not be conducted
+    within 500 feet of any person who is not essential for the conduct of the flight unless that person
+    is in a position where they are shielded from the aircraft and any possible debris resulting from
+    an aircraft failure. Flight will be terminated if a person breaches the safety zone.
+
+    Moreover, as compared to flight operations with aircraft or rotorcraft, weighing far more than 6
+    pounds proposed herein and carrying flammable fuel, any risk associated with our operations is
+    far less than those presently presented with helicopters and other conventional aircraft operating
+    at or below 500 feet AGL. An equivalent level of safety will be achieved given the size, weight,
+    and speed of both the mUAS and sUAS, as well as the location where it is operated. Furthermore,
+    by operating at such lower altitudes; both the mUAS and sUAS will not interfere with other
+    aircraft that are subject to the minimum safe altitude regulations.
+
+5.10 14 C.F.R. §91.121: Altimeter Settings
+
+    The Petitioner seeks an exemption from 14 C.F.R. §91.121, which requires that:
+
+    A person operating an aircraft to maintain crusing altitude or flight level by reference to an
+    altimeter that is set to the elevation of the departure airport or barometric pressure. An
+
+6 See 14 C.F.R. §91.119(c)
+
+Page 23  Petition of Alternatives Renewable Solutions, LLC for Exemption Pursuant to Section 333 of FMRA of 2012
+U.S. Department of Transportation- Docket Management System
+May 23, 2015
+
+    exemption is required to the extent that both the mUAS and sUAS do not have a barometric
+    altimeter, but rather a GPS altitude read out.
+
+    An equivalent level of safety will be achieved by following the procedures set forth in the ARS
+    Flight Safety & Procedure Manual. Moreover, as stated in the manual, the operator will confirm
+    the altitude of the launch site shown on the GPS altitude indicator before flight. Finally, the PIC
+    will use the GPS altitude indicator to constantly monitor either the mUAS or the sUAS height,
+    thus ensuring operation at safe altitudes.
+
+5.11 14 C.F.R. §91.151(a): Fuel Requirements for Flight in VFR Conditions
+    The Petitioner seeks an exemption from 14 C.F.R. §91.151(a), which requires that:
+
+         (a) No person may begin a flight in an airplane under VFR conditions unless
+         (considering wind and forecast weather conditions) there is enough fuel to fly to the
+         first point of intended landing and, assuming normal crusing speed.
+
+                  1. During the day, to fly after that for at least 30 minutes; or
+                  2. At night, to fly after that for at least 45 minutes
+
+    The battery powering both the mUAS and sUAS provides approximately 25 minutes of powered
+    flight. An exemption from the 30 minute reserve requirement in 14 C.F.R. §91.151 is therefore
+    required.
+
+    An equivalent level of safety can be achieved by limiting flights to 18 minutes, or enough battery
+    reserve to ensure that the both the mUAS and sUAS land at the ground station with at least 25%
+    of battery power (as determined by the onboard monitoring system and pilot), whichever happens
+    first. This restriction would be more than adequate to return both the mUAS and sUAS to its
+    planned landing zone from anywhere within its limited operating area.
+
+5.12 14 C.F.R. §91.203(a) and (b): Carrying Civil Aircraft Certification and Registration
+    The Petitioner seeks an exemption from 14 C.F.R. §91.203 (a) and (b) which requires that:
+
+         (b) Except as provided in §91.715, no person may operate a civil aircraft unless it
+         has within it the following: (1) An appropriate and current airworthiness certificate.
+
+         (c) No person may operate a civil aircraft unless the airworthiness certificate
+         required by paragraph (a) of this section or a special flight authorization issued under
+         §91.715 is displayed at the cabin or cockpit entrance so that it is legible to passengers
+         or crew.
+
+    The Petitioner's UASs, fully loaded weigh no more than 6 pounds and are operated without an
+    onboard pilot. Therefore, there is no ability or place to carry certification and registration
+    documents or to display them on both the mUAS and sUAS.
+
+    The equivalent level of safety will be achieved and sustained by keeping these documents at the
+    ground station or flight control point where the pilot flying the UAS will have immediate access
+
+Page 24  Petition of Alternatives Renewable Solutions, LLC for Exemption Pursuant to Section 333 of FMRA of 2012
+U.S. Department of Transportation- Docket Management System
+May 23, 2015
+
+    to them at the ground station or control point. The FAA has issued the following exemptions to
+    this regulation: Exemption Nos. 9565, 9665, 9789A, 9797, 9797A, 9816A, and 10700.
+
+5.13 14 C.F.R. §§91.405(a); 407(a)(1); 409(a)(s); 417(a)(b): Maintenance Inspections
+
+    The Petitioner seeks an exemption from the maintenance inspection requirements of 14 C.F.R.
+    §§91.405(a); 407(a)(1); 409(a)(s); 417(a) and (b). These regulations specify that the:
+
+         Maintenance and inspection standards in reference to 14 C.F.R. Part 43. As a result,
+         an exemption to these regulations is needed because Part 43 and the stated sections
+         apply only to aircraft with an airworthiness certificate, which both the mUAS and sUAS
+         will not have.
+
+    An equivalent level of safety will be achieved because maintenance and inspections will be
+    performed in accordance with the UAS Manufacturer Manuals, shown in the Supporting
+    Documents Section. Also, the Pilot will ensure that the mUAS or sUAS are in working order
+    prior to initiating flight, perform the required maintenance, and keep a log of any maintenance
+    performed. The Pilot is the person most familiar with the aircraft and best suited to maintain the
+    aircraft in an airworthy condition to provide the equivalent level of safety.
+
+    Also, given that both the mUAS and sUAS are very limited in size and will carry a small payload
+    and operate only in restricted or sterile areas for limited periods of time during daylight hours,
+    creates less risk than that associated with conventional rotorcraft performing the same operation.
+
+5.14 14 C.F.R. Subchapter F, Part 93-Special Air Traffic Rules, Subpart V-Washington,
+       DC Metropolitan Area Special Flight Rules, §93.333: Failure to Comply with this
+       Subpart
+
+    The Petitioner seeks an exemption from knowingly violating 14 C.F.R. §93.333(b). This
+    regulation states that:
+
+         The DC FRZ and DC SFRA were established for reasons of national security under the
+         provisions of 49 U.S.C. 40103(b)(3). Areas established by the FAA under that authority
+         constitute "national defense airspace" as that term is used in 49 U.S.C. 46307. In
+         addition to being subject to the provisions of paragraph (a) of this section, persons who
+         knowingly or willfully violate national defense airspace established pursuant to 49
+         U.S.C. 40103(b)(3) may be subject to criminal prosecution.
+
+    The Petitioner's PIC will operate its UASs with a private pilot certificate only in the Class G
+    airspace. The Petitioner believes that operating in the Class G airspace and providing the
+    Washington Flight Standards District Office with an equivalent level of means to identify, track
+    (locate), and communicate with the operator during flight operations provides the necessary
+    approval to knowingly operating in the DC FRZ and DC SFRA. Moreover, given the nature of
+    the specific relief sought by this exemption request, the Petitioner requires relief from 14 C.F.R.
+    §93.333(b).
+
+Page 25  Petition of Alternatives Renewable Solutions, LLC for Exemption Pursuant to Section 333 of FMRA of 2012
+U.S. Department of Transportation- Docket Management System
+May 23, 2015
+
+5.15 14 C.F.R. Subchapter F, Part 93-Special Air Traffic Rules, Subpart V-Washington,
+       DC Metropolitan Area Special Flight Rules, §93.339 (a) through (e): Requirements
+       for Operating in the DC SFRA, including the DC FRZ
+
+    The Petitioner seeks an exemption from 14 C.F.R. §93.339 (a) through (e) which states that:
+
+         (a) Except as provided in paragraphs (b) and (c) of this section and in §93.345, or
+             unless authorized by Air Traffic Control, no pilot may operate an aircraft,
+             including an ultralight vehicle or any civil aircraft or public aircraft, in the DC
+             SFRA, including the DC FRZ, unless--
+                  1) The aircraft is equipped with an operable two-way radio capable of
+                      communicating with Air Traffic Control on appropriate radio frequencies;
+                  2) Before operating an aircraft in the DC SFRA, including the DC FRZ, the
+                      pilot establishes two-way radio communications with the appropriate Air
+                      Traffic Control facility and maintains such communications while
+                      operating the aircraft in the DC SFRA, including the DC FRZ;
+                  3) The aircraft is equipped with an operating automatic altitude reporting
+                      transponder;
+                  4) Before operating an aircraft in the DC SFRA, including the DC FRZ, the
+                      pilot obtains and transmits a discrete transponder code from Air Traffic
+                      Control, and the aircraft's transponder continues to transmit the assigned
+                      code while operating within the DC SFRA;
+                  5) For VFR operations, the pilot must file and activate a DC FRZ or DC
+                      SFRA flight plan by obtaining a discrete transponder code. The flight
+                      plan is closed upon landing at an airport within the DC SFRA or when the
+                      aircraft exits the DC SFRA;
+
+         (b) Paragraph (a)(5) of this section does not apply to operators of Department of
+             Defense aircraft, law enforcement operations, or lifeguard or air ambulance
+             operations under an FAA/TSA airspace authorization, if the flight crew is in
+             contract with Air Traffic Control and is transmitting an Air Traffic Control-
+             assigned discrete transponder code.
+
+         (c) When operating an aircraft in the VFR traffic pattern at an airport within the DC
+             SFRA (but not within the DC FRZ) that does not have an airport traffic control
+             tower, a pilot must--
+                  1) File a DC SFRA flight plan for traffic pattern work;
+                  2) Communicate traffic pattern position via the published Common Traffic
+                      Advisory Frequency (CRAF);
+                  3) Monitor VHF frequency 121.5 or UFH frequency 243.0, if the aircraft is
+                      suitably equipped;
+                  4) Obtain and transmit the Air Traffic Control-assigned discrete transponder
+                      code; and
+                  5) When exiting the VFR traffic pattern, comply with paragraphs (a)(1)
+                      through (a)(7) of this section.
+
+         (d) When operating an aircraft in the VFR traffic pattern at an airport within the DC
+             SFRA (but not within the DC FRZ) that has an operating airport traffic control
+             tower, a pilot must:
+
+Page 26  Petition of Alternatives Renewable Solutions, LLC for Exemption Pursuant to Section 333 of FMRA of 2012
+U.S. Department of Transportation- Docket Management System
+May 23, 2015
+
+                  1) Before departure or before entering the traffic pattern, request to remain
+                      in the traffic pattern;
+
+                  2) Remain in two-way radio communications with the tower. If the aircraft is
+                      suitably equipped, the pilot must also monitor VHF frequency 121.5 or
+                      UHF frequency 243.0;
+
+                  3) Continuously operate the aircraft transponder on code 1234 unless Air
+                      Traffic Control assigns a different code; and
+
+                  4) Before exiting the traffic pattern, comply with paragraphs (a)(1) through
+                      (a)(7) of this section
+
+         (e) Pilots must transit the assigned transponder code. No pilot may use transponder
+             code 1200 while in the DC SFRA.
+
+    As a result of the size of both the mUAS and sUAS, neither asset has the ability to carry two-
+    way communications and a transponder on-board to track and communicate with the ATC.
+    However, the Petitioner shall engage and maintain communications with the Washington Flight
+    Standards Office by cell phone stating its current flight operation, location, altitude, and
+    operational timeframe when conducting operations within the DC SFRA, including the DC FRZ.
+    The PIC shall obtain readings from the communication link between the controller and UAS to
+    include battery level, altitude, distance from PIC, and location for all flight operations.
+
+    As part of preflight plans, the operator shall review all NOTAMs and file a DC SFRA Flight
+    Plan with the Washington Flight Standards Office. The operator shall state that "we would like
+    to file a DC SFRA flight plan for a VFR flight at subject property located at
+    ___________________________________________ being inspected." Next, the operator shall
+    remain only in Class G airspace and request approval to conduct flight operations. During flight
+    operations, the operator shall maintain communications with the Washington Flight Standards
+    Office stating current flight operations, location, and altitude. Once flight operations ends, the
+    operator shall notify the Washington Flight Standards Offices by cell phone that flight operations
+    are closed. Given these operational procedures, an equivalent level of means to identify, track
+    (locate), and communicate with the operator during flight operations provides the necessary
+    rationale to operate in the DC FRZ and DC SFRA.
+
+5.16 14 C.F.R. Subchapter F, Part 93-Special Air Traffic Rules, Subpart V-Washington,
+       DC Metropolitan Area Special Flight Rules, §93.341 (a);(c1) through (c5);(d): Aircraft
+       Operations in the DC FRZ
+
+    The Petitioner seeks an exemption from 14 C.F.R. §93.341 (a); (c1) through (c5) and (d) which
+    states that:
+
+         (a) Except as provided in paragraph (b) of this section, no pilot may conduct any flight
+             operation under part 91, 101, 103, 105, 125, 133, 135, or 137 of this chapter in the
+             DC FRZ, unless the specific flight is operating under an FAA/TSA authorization.
+
+         (b) (b) Department of Defense (DOD) operations, law enforcement operations, and
+             lifeguard or air ambulance operations under an FAA/TSA airspace authorization
+             are exempted from the prohibition in paragraph (a) of this section if the pilot is in
+             contact with Air Traffic Control and operates the aircraft transponder on an Air
+             Traffic Control-assigned beacon code.
+
+Page 27  Petition of Alternatives Renewable Solutions, LLC for Exemption Pursuant to Section 333 of FMRA of 2012
+U.S. Department of Transportation- Docket Management System
+May 23, 2015
+
+         (c) The following aircraft operations are permitted in the DC FRZ:
+                  1) Aircraft operations under the DCA Access Standard Security Program
+                      (DASSP) (49 CFR part 1562) with a Transportation Security
+                      Administration (TSA) flight authorization.
+                  2) Law enforcement and other U.S. Federal aircraft operations with prior FAA
+                      approval.
+                  3) Foreign-operated military and state aircraft operations with a State
+                      Department-authorized diplomatic clearance, with State Department
+                      notification to the FAA and TSA.
+                  4) Federal, State, Federal DOD contract, local government agency aircraft
+                      operations and part 121, 129 or 135 air carrier flights with TSA-approved
+                      full aircraft operator standard security programs/procedures, if operating
+                      with DOD permission and notification to the FAA and the National Capital
+                      Regional Coordination Center (NCRCC). These flights may land and depart
+                      Andrews Air Force Base, MD, with prior permission, if required.
+                  5) Aircraft operations maintaining radio contact with Air Traffic Control and
+                      continuously transmitting an Air Traffic Control-assigned discrete
+                      transponder code. The pilot must monitor VHF frequency 121.5 or UHF
+                      frequency 243.0.
+
+         (d) Before departing from an airport within the DC FRZ, or before entering the DC
+             FRZ, all aircraft, except DOD, law enforcement, and lifeguard or air ambulance
+             aircraft operating under an FAA/TSA airspace authorization must file and activate
+             an IFR or a DC FRZ or a DC SFRA flight plan and transmit a discrete transponder
+             code assigned by an Air Traffic Control facility. Aircraft must transmit the discrete
+             transponder code at all times while in the DC FRZ or DC SFRA.
+
+    Given that an equivalent level of means to identify, track (locate), and communicate with the
+    operator during flight operations provides the necessary rationale to operate in the DC FRZ and
+    DC SFRA, the Petitioner requests authorization from the FAA/TSA to conduct flight operations
+    in the Class G airspace. All PICs and visual camera operators shall have background checks
+    conducted by the TSA. Additionally, the Petitioner shall engage and maintain contact with the
+    Washington Flight Standards Office by cell phone, without the need for the pilot to monitor VHF
+    frequency 121.5 or UHF frequency 243.0. Also, there will not be a need to transmit a discrete
+    transponder code assigned by the ATC, since the UAS doesn't have an onboard transponder and
+    that the operator will be notifying the Washington Flight Standards Offices by cell phone of the
+    start and end of flight operations in the DC FRZ and DC SFRA. The Petitioner believes that this
+    system will provide a high-level of notification, tracking and communicating with the FAA,
+    which ensures a level of safety equal to or greater than the rules from which this exemption is
+    requested.
+
+6 Public Interest
+
+    Across the United States, State & local municipalities are responsible for protecting the health,
+    safety, economic interests and the quality of life of local residents, businesses and visitors to
+    their specific jurisdictions. These municipalities' charge an agency to regulate construction
+    activities for compliance determination and inspections of vacant or occupied buildings, crane
+
+Page 28  Petition of Alternatives Renewable Solutions, LLC for Exemption Pursuant to Section 333 of FMRA of 2012
+U.S. Department of Transportation- Docket Management System
+May 23, 2015
+
+    assembly and bridges. However, as a result of budget cuts, many jurisdictions had to reduce
+    resources and the number of government employees to monitor, assess, and inspect these
+    activities. These agencies are faced with a public health and safety crisis that requires the use of
+    aerial technology using UASs. The Petitioner's UASs will significantly increase productivity
+    and reduce the inherent safety risks to property and personnel. The UASs will capture critical
+    images that can then be uploaded to cloud software for rendering and can be processed into
+    orthomosaic and 3D images that will serve as evidence to fine and prosecute individuals breaking
+    local rules.
+
+    In order for the FAA to consider a petition for exemption, the petition must meet the requirements
+    of 14 CFR §11.81(d), which requires the Petitioner to state the reasons why granting a request
+    would be in the public interest and how it would benefit the public as a whole. Granting the
+    approval of exemption of UAS commercial operations for conducting aerial public safety
+    inspections and photography of vacant/and or occupied buildings, temporary tower crane
+    assembly verification inspection, determine compliance with respect to construction activities,
+    and substructure bridge inspections will benefit the public as a whole in many aspects.
+
+6.1 The Need for Aerial Building Photography & Inspections
+
+    In general, a vacant property becomes a problem when the property owner abandons the basic
+    responsibilities of ownership, such as routine maintenance or mortgage and property tax
+    payments. Multiple variables can lead authorities to designate a property as either vacant or
+    abandoned, including the physical condition of a structure, the amount of time that a property
+    has been in that particular condition, and the relationship of the owner to the property. For
+    example, in Baltimore, the city building code defines residences as vacant only if they are
+    uninhabitable, not if they are merely unoccupied. Also, in the District of Columbia, the Vacant
+    Building Enforcement Unit reaches out to owners of vacant buildings, and maintains a list of all
+    vacant and blighted buildings. This list is used by the District of Columbia's Office of Tax and
+    Revenue in reclassifying vacant buildings to the higher property tax rate, as mandated by DC
+    Official Code.
+
+    The absence of universal definitions of vacancy and abandonment complicates efforts to assess
+    the number of vacant and abandoned properties nationally. The best aggregate sources include
+    the U.S. Census Bureau and the U.S. Postal Service, although these are not without limitations.
+    Using these sources, the U.S. Government Accountability Office (GAO) reported in 2011 that
+    vacant residential units, not including those used seasonally or by migrant workers, increased
+    from 7 million in 2000 to 10 million in 2010. The Joint Center for Housing Studies of Harvard
+    University reported that a subset of this category, homes vacant and not being marketed for sale
+    or rent, reached a record high of 7.4 million in 2012, with increases concentrated in the high-
+    foreclosure areas of the South and West. Although vacant homes can be found throughout the
+    country, they tend to be concentrated; nearly 40 percent of the nation's vacant homes are located
+    in just 10 percent of all census tracts. More than half of the census tracts with vacancy rates of
+    20 percent or higher were in just 50 counties, most of them in metropolitan areas. Wayne County
+    in Michigan and Cook County in Illinois, for example, each have more than 200 high-vacancy
+    neighborhoods. Another example is in the District of Columbia, where this 10 square mile city
+    has over 3,000 vacant and abandon buildings. In addition to the many vacant and abandoned
+
+Page 29  Petition of Alternatives Renewable Solutions, LLC for Exemption Pursuant to Section 333 of FMRA of 2012
+U.S. Department of Transportation- Docket Management System
+May 23, 2015
+
+    residential properties across the nation, estimates place the number of brownfields -- idle former
+    industrial properties with real or perceived environmental contamination -- at approximately a
+    half-million (HUD, 2014).
+
+    The use of UASs for inspecting vacant and abandon buildings is warranted and can considerably
+    reduce the risk of building collapse and identify dangerous building conditions for citizens. An
+    inspector may not have the most effective access to monitor, collect, and assess potential building
+    code violations. Also, he or she may not have access to the rear of the building, which could be
+    land locked by other buildings or by other obstacles. Moreover, a mUAS can gather more
+    information safely, survey the alleged violation, and save lives from buildings that may collapse.
+    For example, the DJI Phantom 2 Vision Plus has the capability to inspect, photograph, capture,
+    collect images, and upload data to cloud software that is rendered into 3D images. The inspector
+    can now have the ability to gather 2D volumetric data points and view a 3D image of the entire
+    building through the use of the mUAS's ability to hoover and circle the site.
+
+6.2 The Need for Substructure Bridge Inspections
+
+    In a recent analysis of the U.S. Department of Transportation's bridge inventory database, the
+    2015 American Road & Transportation Builders Association (ARTBA) Report found that over
+    61,000 bridges in the U.S. need structural repair. The analysis of the federal government data,
+    conducted by ARTBA's Chief Economist Dr. Alison Premo Black, shows cars, trucks and school
+    buses cross the nation's 61,064 structurally compromised bridges 215 million times every
+    day. Not surprisingly, the most heavily traveled are on the Interstate Highway System, which
+    carries the bulk of truck traffic and passenger vehicles (Houlihan, 2015).
+
+    Dr. Black suggests that the bridge problem could get worse. For instance, the Federal Highway
+    Trust Fund (HTF) is the source of 52 percent of highway and bridge capital investments made
+    annually by state governments. The HTF has suffered five revenue shortfalls between 2008 and
+    2014, and has been bailed out with nearly $65 billion in revenues from the General Fund just to
+    preserve existing investment levels. Nearly a dozen states so far have canceled or delayed road
+    and bridge projects because of the continued uncertainty over the trust fund situation. "State and
+    local governments are doing the best they can to address these significant challenges, given
+    limited resources," Black says. ARTBA expects that number to increase as the deadline nears.
+    "Many of the most heavily traveled bridges are nearly 50 years old. Elected officials can't just
+    sprinkle fairy dust on America's bridge problem and wish it away," Dr. Black said. "Bridge
+    decks and support structures are regularly inspected by the state transportation departments for
+    deterioration and are rated on a scale of zero to nine--nine being "excellent" condition. A bridge
+    is classified as structurally deficient and in need of repair if its overall rating is four or below.
+    The ARTBA analysis of the bridge data supplied by the states to the U.S. DOT also found
+    (Houlihan, 2015):
+
+Page 30  Petition of Alternatives Renewable Solutions, LLC for Exemption Pursuant to Section 333 of FMRA of 2012
+U.S. Department of Transportation- Docket Management System
+May 23, 2015
+
+          Pennsylvania (5,050), Iowa (5,022),
+
+         Oklahoma (4,216), Missouri (3,310),
+
+         Nebraska (2,654), California (2,501),
+
+         Kansas (2,416), Mississippi (2,275),
+
+         Illinois (2,216) and North Carolina
+
+         (2,199) have the highest numbers of
+
+         structurally deficient bridges. The
+
+         District of Columbia (14), Nevada (34),
+
+         Delaware (48), Hawaii (61), and Utah
+
+         (102) have the least.                    Figure 3: A bridge inspection using truck & boom.
+
+          At least 15 percent of the bridges in eight states--Rhode Island (23 percent),
+             Pennsylvania (22 percent), Iowa (21 percent), South Dakota (20 percent),
+             Oklahoma (18 percent), Nebraska (17 percent), North Dakota (16 percent) and
+             Maine (15 percent)--fall in the structurally deficient category.
+
+These State Bridge Inspection Units are responsible for managing their local transportation
+structures. This includes performing bridge inspections in accordance with Federal regulations
+on all bridges owned by local government agencies, making structure work repair
+recommendations, determining the safe load capacity of all bridges, reviewing and approving
+encroachment permits. These agencies hire engineering contractors or use internal staff to
+inspect bridges. Various methods are used to inspect bridges. They include the use of helicopters,
+truck & boom, underwater diving, trailer mounted units, and water taxi inspections (see Figure
+3). However, these agencies are faced with many challenges using these current methods. One
+such method, as shown in Figure 3, include utilizing a mobile inspection vehicle to lower
+inspectors over the side of the bridge. This method causes traffic congestion, accidents, and has
+the risk of the inspector falling out of the boom carry box. Challenges that agencies must mitigate
+include:
+
+          Reduced work windows because of high traffic demands thus limiting inspectors'
+             access to key sections of bridges.
+
+          More stringent regulatory obligations also require adjustments to inspection
+             schedules to accommodate nesting periods of protected migratory bird species.
+
+          Inspection schedules have flexibility built to accommodate unplanned inspections
+             in the case of a bridge suffering unexpected damage.
+
+          New FHWA inspection performance measures require a bridge to be inspected as
+             close as possible to the date plus the inspection cycle (typically 2 years).
+
+The use of UASs for inspecting bridge substructures is warranted and the Petitioner's planned
+operations dramatically improves safety and reduces risk concerning bridge inspections by
+alleviating human exposure to dangers associated with current methods such as helicopters, truck
+& boom, underwater diving, trailer mounted units, and water taxi inspections. The most used
+method, mobile truck and boom, is dangerous to ongoing motor vehicles and has caused serious
+accidents over the years. In addition, these standard procedures are extremely labor-intensive
+and time consuming. sUASs serves as a feasible solution for State Bridge Inspection Units
+seeking an alternative method that is safer, less expensive, and efficient. For example, using the
+
+Page 31  Petition of Alternatives Renewable Solutions, LLC for Exemption Pursuant to Section 333 of FMRA of 2012
+U.S. Department of Transportation- Docket Management System
+May 23, 2015
+
+    Tali H500, we have the capability to inspect, capture, collect infrared data for analysis and upload
+    data to cloud software that allows engineers to conduct detail assessment of the bridge
+    substructure.
+
+6.3 The Need for Construction Inspections
+
+    Construction is a high hazard industry that comprises a wide range of activities involving
+    construction, alteration, and/or repair. Examples include residential construction, commercial
+    building erection, excavations, demolitions, and large scale jobs. Construction workers engage
+    in many activities that may expose them to serious hazards, such as falling from rooftops,
+    unguarded machinery, being struck by heavy construction equipment, electrocutions, silica dust,
+    and asbestos (U.S. Department of Labor, 2015).
+
+    In general, construction activities falls into two categories, those activities which are conducted
+    in compliance with applicable authorities and those which are not. The vast number of compliant
+    activities are accounted for with permits. Construction activities which are conducted in
+    compliance with permits or regulations are inherently conducted in a safer manner. City
+    inspectors are not onsite full-time to assess potential dangers from deficiencies in excavation,
+    grading, building footings, foundations, and framing. Some general contractors and home
+    owners bypass the permitting process and begin and complete construction activities which are
+    not in compliance with the applicable regulatory or statutory authority. These noncompliant
+    activities are frequently missed by city inspectors, but are often discovered after an accident or
+    the death of workers or citizens.
+
+    Construction which is conducted in violation of permitting or regulatory requirements is difficult
+    to uncover due to some privacy and trespassing rules. Many times, neighbors or concerned
+    citizens call city inspectors to notify them of suspicious construction activities or projects. City
+    inspectors are often thwarted from pursuing an enforcement or compliance action by the simple
+    fact that the homeowner may not be home or the property owner may not be on site at the time
+    of the attempted inspection. The city inspector cannot gather evidence to support a case for
+    noncompliance without violating city regulations with respect to access to private property.
+
+    The use of UASs for determining whether construction sites are in compliance with applicable
+    permits and regulations is justified and can considerably reduce the risk to inspectors, workers,
+    residents, and survey teams. To monitor, gather, and collect data would often require an
+    inspector to get this information from difficult or dangerous areas onsite or be at risk of possibly
+    falling at the jobsite. Falls are the leading source of workplace fatalities and injuries on
+    construction sites (OSHA, 2015). However, a UAS can gather more information safely, reduce
+    falls, and save lives on these types of construction sites. For example, the DJI Phantom 2 Vision
+    Plus has the capability to inspect, photograph, capture, collect images, and upload data to cloud
+    software that is rendered into 3D images and maps. As a result of this technology, the building
+    inspector, now has the ability to gather data and view building site progress without going to the
+    site.
+
+Page 32  Petition of Alternatives Renewable Solutions, LLC for Exemption Pursuant to Section 333 of FMRA of 2012
+U.S. Department of Transportation- Docket Management System
+May 23, 2015
+
+6.4 The Need for Temporary Tower Crane Assembly Verification Inspections
+
+    The Federal Occupational Safety & Health Administration (OSHA) is a small agency that has
+    approximately 2,200 inspectors responsible for the health and safety of 130 million workers,
+    employed at more than 8 million worksites around the nation -- which translates to about one
+    compliance officer for every 59,000 workers.
+
+    OSHA estimates that there are about 125,000 cranes in operation in the construction industry in
+    the United States every day. There are an additional 80,000 to 100,000 involved in the maritime
+    shipping industry. Because cranes are so large, and the weights they carry are so immense, even
+    the slightest operator error or improperly maintained bolt can result in a catastrophic accident.
+
+    Early governmental regulation of the crane and rigging industries was light, mostly occurring at
+    the state level. The most significant development in the regulatory landscape took place when
+    the OSHA Act of 1970 was signed into law. OSHA regulations lagged behind industry standards
+    until 2010, when a broad update of OSHA construction crane regulations went into effect. In
+    developing the new regulations, OSHA consulted with a panel of industry experts and applied
+    cost-benefit analyses in addition to unalloyed safety considerations. Though portions of the
+    regulations remain controversial in the industry, the agency clearly based its work on a broad
+    view without reacting "knee-jerk" to particular events of failures (Shapiro & Ratay, 2013).
+
+    By its very nature, construction is a challenging and dangerous industry. In contrast to most
+    industries, construction often requires travel to multiple sites, each with their own constantly
+    changing hazards. Temporary tower cranes play an essential role on construction sites
+    throughout the United States on a daily basis. Also, temporary tower cranes add many complex
+    risks to the construction process. Recently, numerous fatal crane collapses have grabbed national
+    news headlines, increasing attention and scrutiny of construction crane operations. The most
+    highly publicized being massive tower crane failures in New York, Miami, and Seattle. Estimates
+    indicate that up to 33% of construction casualties and between 8 to 16% of construction fatalities
+    involve cranes (Parfitt, 2010).
+
+    Between 1992 and 2006, 610 construction worker deaths were attributed to crane accidents,
+    about 42 per year. Nearly two-thirds of all crane-related accidents are caused by tower style
+    cranes. Other styles responsible for injuries include mobile cranes, gantries and loader cranes. In
+    the US, most medium-sized and large construction sites are serviced by mobile cranes. Their
+    variety, purposes and duration of use vary greatly. A truck-mounted mobile crane may show up
+    at a site to make a handful of picks before departing, while a crawler crane could be set up for a
+    year-long assignment. Mobility confers its own set of hazards, inferring likelihood that an
+    operating site has not been adequately surveyed beforehand and perhaps not prepared for the
+    presence of a crane. Moreover, the operator and crew may be encountering unfamiliar conditions
+    with unexplored hazards. Mobility also confers the possibility of last-minute changes or
+    improvisations, defeating the benefit of a plan (Shapiro & Ratay, 2013). The Petitioner's work
+    shall focus on the assembly/disassembly failures and among mobile cranes, the frequent types
+    of serious accidents are:
+
+Page 33  Petition of Alternatives Renewable Solutions, LLC for Exemption Pursuant to Section 333 of FMRA of 2012
+U.S. Department of Transportation- Docket Management System
+May 23, 2015
+
+          Electrocution ­ the victims is usually a rigger handling the load when the boom or
+             load line contacts an overhead power line.
+
+          Overturning ­ caused by overloading, ground support failure or improper
+             operation of the crane (see Figure 4).
+
+          Collision ­ a portion the crane or a suspended load strikes a building, person or
+             object, or a suspended load is trapped.
+
+          Over-travel ­ the load block strikes the boom tip or boom runs up against the
+             backstops.
+
+          Structural failure ­ from excessive side loading, overloading or an equipment
+             deficiency.
+
+          Assembly/disassembly failure ­ the crew deviates from a qualified procedure.
+          Crushing ­ a worker is caught by a rotating or moving part such as a revolving
+
+             deck or a spooling rope.
+
+Similar types of accidents can occur with tower cranes,   Figure 4: A crawler crane relies on firm level
+albeit less frequently because tower cranes tend to work  ground support to keep it from tipping.
+under more controlled circumstances than mobile
+cranes. Tower cranes are used in the US primarily on
+major construction sites. By nature, they are fixed or
+semi-fixed in place and, therefore, less prone to
+problems caused by scanty planning, hasty preparation
+or last-minute improvisation. The greatest exposure of
+these machines to accidents occurs when they are being
+erected, dismantled or jumped (Shapiro & Ratay,
+2013).
+
+A crane accident in the core of a large city can be a catastrophic event that splashes across
+television screens and tabloid covers (see Figure 5). Government officials are compelled by
+public outcry to react; their constituents must be made to feel safe while walking through streets
+stalked by the shadows of giant construction cranes. Under such circumstances, major accidents
+in dense urban zones have spurred the creation of crane regulations, particularly in California
+and New York. Officials in other localities have reacted similarly to singular dramatic accidents,
+sometimes creating laws that are closely crafted to the particularities of the accidents that
+spawned them (Shapiro & Ratay, 2013).
+
+Page 34  Petition of Alternatives Renewable Solutions, LLC for Exemption Pursuant to Section 333 of FMRA of 2012
+U.S. Department of Transportation- Docket Management System
+May 23, 2015
+
+This jagged path to the making of crane rules is an aberration. The great bulk of crane standards
+and regulations in both the United States and the world at large are, instead, the product of a
+steady progression of deliberations, built upon collective knowledge and wisdom acquired over
+decades. Much of the knowledge, unfortunately, comes
+from the experience of accidents.
+
+Most crane accidents do not occur in the center of       Figure 5: On the Upper East Side of Manhattan,
+major cities, nor do they make the front pages of        a tower crane collapsed during a climbing
+tabloids. These lesser-publicized events add up to a     operation, resulting in multiple deaths and
+much greater human and economic toll than the            massive property damage.
+headline-grabbers. They do not, however, escape
+attention. Stakeholders, who suffer the losses and deal
+with the consequences, do not ordinarily forget them
+(see Figure 6). For those apt to learn from experience,
+the cruel lessons of a serious mishap will be
+internalized, analyzed and applied (Shapiro & Ratay,
+2013).
+
+Regardless of what laws are in the books -- if enforcement is lacking -- conditions are not apt to
+improve. The arrest of former inspector Edward J. Marquette for allegedly falsify a business
+record and filing it with the buildings department has reduced the number of crane inspectors in
+New York to four. With only four inspectors being left responsible for 250 cranes in use, of
+which 30 are tower cranes, the ability to fully enforce regulations is clearly questionable
+(Sawyer, et al., 2008). Moreover, some building inspection units don't have certified inspectors
+to climb and assess cranes. For example, in the District of Columbia, there are over 52 cranes in
+operations that are required to be inspected by law. However, the D.C. Building Inspection Unit
+does not have a certified inspector on staff to enforce the regulations.
+
+The use of UASs for inspecting cranes is justified and
+alleviates human exposure to danger associated with
+this high-risk job. The current crane inspection method
+consists of an inspector climbing the crane and visually
+inspecting the base, mast, jib, and counter-jib.
+Inspectors are at risk and are exposed to unsafe
+conditions when conducting these inspections. In
+some situations, building inspection units may rely on
+the general contractor to conduct self-inspection of the
+crane, since they lack the resources to provide a
+certified staff to verify the assembly. The Petitioner's Figure 6: A half-mile-long cableway across
+planned operations addresses the safety issues and Black Canyon on the Colorado River collapsed
+diminishes the risk to workers, inspectors, and citizens during high winds. Its loss set back construction
+by ensuring that the assembly was constructed of a vital interstate bridge link by two years.
+properly and reduces the chances of crane failure. To further enhance safety and the public
+interest, the inspector has the ability to review, inspect, and assess the entire crane from detailed
+images gathered from the UAS. The UAS has the capability to capture and upload data to cloud
+
+Page 35  Petition of Alternatives Renewable Solutions, LLC for Exemption Pursuant to Section 333 of FMRA of 2012
+U.S. Department of Transportation- Docket Management System
+May 23, 2015
+
+    software that renders the crane as a 3D image. The inspector, located onsite, now has the ability
+    to view 3D images of the entire crane within 45 minutes.
+
+    The Petitioner's UASs remove the environmental impact by significantly decreasing the energy
+    used for aerial imaging for crane, bridge and construction site inspections. The UAS uses a
+    rechargeable lithium polymer battery, as opposed to Jet A or JP5 (kerosene based) fuel that burns
+    in the operations of a helicopter, which weights thousands of pounds. Also, the public's interest
+    is further minimized in the event of an accident, thus reducing the human exposure to harmful
+    carbon emissions associated with helicopters and/or manned aircraft.
+
+    In addition, the Petitioner's UASs may well replace the need to use helicopters and manned
+    aircraft to inspect cranes, bridges, and construction sites. For our planned operations, our
+    proposed UASs are under 6 pounds and carry no combustible fuel on board, as opposed to the
+    larger powered helicopters and manned aircraft. The paradigm shift to UASs from larger manned
+    aircraft minimizes risks to the public and improves the overall health and safety of workers.
+
+    Finally, granting this Petitioner's exemption application will fulfill Congress's intent of allowing
+    UASs to operate with significant safety precautions in low risk environments as stated in Section
+    333 (a) ­ (c) of the FMRA. The law directs the FAA Administrator to grant case-by-case
+    authorization for certain unmanned aircraft to perform commercial operations prior to the
+    finalization of the small UAS Rule under Section 332 of FMRA, which will be the primary
+    method for authorizing small UAS operations once it is complete (Section 333, 2015). In
+    addition, the Petitioner's goal is to aide and assist government agencies as a contractor to perform
+    aerial public safety inspections and photography of vacant/and or occupied buildings, crane
+    assembly verification, construction activities for compliance determination, and substructure bridge
+    inspections using UASs. As a result, the public as a whole will benefit from the safer, efficient,
+    and reliable aerial services that UASs operations will provide for state and local government
+    agencies.
+
+7 Drug Free Workplace
+
+    Alternatives Renewable Solutions, LLC intends to help provide a safe and drug-free work
+    environment for our clients, employees, and contractors. All employees or contractors who
+    perform safety inspection related activities and functions are prohibited from performing work
+    if they have alcohol or prohibited drugs in their system. With this goal in mind and because of
+    the serious drug abuse problem in today's workplace, we are establishing the following policy
+    for existing and future employees, staff, and contractors of Alternatives Renewable Solutions,
+    LLC.
+
+    The Company explicitly prohibits:
+          The use, possession, solicitation for, or sale of narcotics or other illegal drugs,
+             alcohol, or prescription medication without a prescription on Company, customer
+             premises or while performing an assignment in public domain.
+          Being impaired or under the influence of legal or illegal drugs or alcohol away from
+             the Company customer premises, or public domain, if such impairment or influence
+
+Page 36  Petition of Alternatives Renewable Solutions, LLC for Exemption Pursuant to Section 333 of FMRA of 2012
+U.S. Department of Transportation- Docket Management System
+May 23, 2015
+
+             adversely affects his/her's work performance, the safety of the of others, or puts at
+             risk the Company's reputation.
+          Possession, use, solicitation for, or sale of legal or illegal drugs or alcohol away from
+             the Company, public domain or customer premises, if such activity or involvement
+             adversely affects the employees or contractors work performance, the safety of the
+             employee or of others, or puts at risk the Company's reputation.
+          The presence of any detectable amount of prohibited substances in the employees or
+             contractors system while at work, while on the premises of the company, or its
+             customers, or while on company business. "Prohibited substances" include illegal
+             drugs, alcohol, or prescription drugs not taken in accordance with a prescription given
+             to the employee or contractor.
+
+    The Company will conduct drug and/or alcohol testing under any of the following circumstances:
+
+          RANDOM TESTING: Employees or contractors may be selected at random for drug
+             and/or alcohol testing at any interval determined by the Company.
+
+          FOR-CAUSE TESTING: The Company may ask an employee or contractor to
+             submit to a drug and/or alcohol test at any time it feels that the employee or contractor
+             may be under the influence of drugs or alcohol, including, but not limited to, the
+             following circumstances: evidence of drugs or alcohol on or about the his/her person
+             or in the his/her vicinity, unusual conduct on the his/her part that suggests impairment
+             or influence of drugs or alcohol, negative performance patterns, or excessive and
+             unexplained absenteeism or tardiness.
+
+          POST-ACCIDENT TESTING: Any employee or contractor involved in an on-the-
+             job accident or injury under circumstances that suggest possible use or influence of
+             drugs or alcohol in the accident or injury event may be asked to submit to a drug
+             and/or alcohol test. "Involved in an on-the-job accident or injury" means not only the
+             one who was or could have been injured, but also any employee or contractor who
+             potentially contributed to the accident or injury event in any way.
+
+    If an employee or contractor is tested for drugs or alcohol outside of the employment/contractor
+    context and the results indicate a violation of this policy, or if an employee/contractor refuses a
+    request to submit to testing under this policy, the he or she may be subject to appropriate
+    disciplinary action, up to and possibly including discharge from contract or employment. In such
+    a case, the employee/contractor will be given an opportunity to explain the circumstances prior
+    to any final action becoming effective.
+
+8 Privacy Policy
+
+    All flights will occur in accordance with state, county, or local laws regarding privacy.
+
+Page 37  Petition of Alternatives Renewable Solutions, LLC for Exemption Pursuant to Section 333 of FMRA of 2012
+U.S. Department of Transportation- Docket Management System
+May 23, 2015
+
+9 Federal Registry Summary
+
+    Pursuant to Section 333 of the FAA Modernization and Reform Act of 2012 and 14 C.F.R. Parts
+    21, 27, 45, 61, 91, and 93, the following summary is provided for publication in the Federal
+    Register, should it be determined that publication is needed:
+
+    The Petitioner seeks an exemption from the following rules:
+
+             a) 14 C.F.R. Part 21, Subpart H- Airworthiness Certificates and 14 C.F.R. §
+                  91.203(a)(1)
+
+             b) 14 C.F.R. Part 27 Airworthiness Standards: Normal Category Rotorcraft
+             c) 14 C.F.R. §§ 45.23(b), 45.27(a) and 91.9(c): Aircraft Marking and
+
+                  Identification Requirements
+             d) 14 C.F.R. § 61.113: Private Pilot Privileges and Limitations
+             e) 14 C.F.R. §91.7(a): Civil Aircraft Airworthiness
+             f) 14 C.F.R. §91.9(b)(2): Civil Aircraft Flight Manual in the Aircraft
+             g) 14 C.F.R. §91.103: Preflight Action
+             h) 14 C.F.R. §91.109(a): Flight Instruction
+             i) 14 C.F.R. §91.119: Minimum Safe Altitudes
+             j) 14 C.F.R. §91.121: Altimeter Settings
+             k) 14 C.F.R. §91.151(a): Fuel Requirements for Flight in VFR Conditions
+             l) 14 C.F.R. §91.203(a) and (b): Carrying Civil Aircraft Certification and
+
+                  Registration
+             m) 14 C.F.R. §§91.405(a); 407(a)(1); 409(a)(s); 417(a)(b): Maintenance
+
+                  Inspections
+             n) 14 C.F.R. Subchapter F, Part 93-Special Air Traffic Rules, Subpart V-
+
+                  Washington, DC Metropolitan Area Special Flight Rules, §93.333: Failure to
+                  Comply with this Subpart
+             o) 14 C.F.R. Subchapter F, Part 93-Special Air Traffic Rules, Subpart V-
+                  Washington, DC Metropolitan Area Special Flight Rules, §93.339 (a) through
+                  (e): Requirements for Operating in the DC SFRA, including the DC FRZ
+             p) 14 C.F.R. Subchapter F, Part 93-Special Air Traffic Rules, Subpart V-
+                  Washington, DC Metropolitan Area Special Flight Rules, §93.341 (a);(c1)
+                  through (c5);(d): Aircraft Operations in the DC FRZ
+
+    Approval of these exemptions will allow the Petitioner to offer a unique and real-time
+    commercial UAS services for a host of industries and applications. The exemptions will improve
+    and enhance safety by reducing risk to the public and property owners from the hazards
+    associated with performing equivalent work with conventional aircraft and rotorcraft.
+
+10 Conclusion
+
+    Based on the information submitted within, the Petitioner requests that the FAA Administrator
+    grant this exemption. Given the description of proposed operations, procedures and supporting
+    documents, the Petitioner's proposed usage does not pose a hazard to the NAS or to the public.
+    Moreover, the size, weight, speed, operating capabilities, and operations within visual line of
+
+Page 38  Petition of Alternatives Renewable Solutions, LLC for Exemption Pursuant to Section 333 of FMRA of 2012
+U.S. Department of Transportation- Docket Management System
+May 23, 2015
+
+    sight and security provides more than adequate justification for granting the requested
+    exemption. Therefore, granting of the exemption will permit the Petitioner to offer aerial
+    inspection services to State and local government agencies using both mUAS and sUAS assets
+    for a host of industries and applications. Accordingly, the Petitioner respectfully requests that
+    the FAA grant the requested exemption without delay.
+
+    Submitted on May 23, 2015
+
+ William T. Jones
+
+    William T. Jones, Esq.
+    General Counsel
+    Alternatives Renewable Solutions, LLC
+    1725 I Street, NW, Suite 300
+    Washington, DC 20006
+
+Page 39  Petition of Alternatives Renewable Solutions, LLC for Exemption Pursuant to Section 333 of FMRA of 2012
+U.S. Department of Transportation- Docket Management System
+May 23, 2015
+
+11 References
+
+Culver, C. (1994). Mobile Crane Inspection Guidelines for OSHA Compliance Officers. Washington, DC:
+         U.S. Department of Labor.
+
+Houlihan, E. (2015, April 1). No April Fools' Day Joke: Over 61,000 U.S. Bridges Need Structural Repair,
+         New Analysis of U.S. Department of Transportation Data Finds. Retrieved from ARTBA:
+         http://www.artba.org/2015/04/01/no-april-fools-day-joke-over-61000-u-s-bridges-need-structural-
+         repair-new-analysis-of-u-s-department-of-transportation-data-finds/
+
+HUD. (2014, Winter). Evidence Matters. Retrieved from HUD User:
+         http://www.huduser.org/portal/periodicals/em/winter14/highlight1.html
+
+OSHA. (2015). Commonly Used Statistics. Retrieved from Occupational Safety & Health Administration:
+         https://www.osha.gov/oshstats/commonstats.html
+
+Parfitt, K. (2010). Crane Failures. Retrieved from Crane Failures:
+         https://failures.wikispaces.com/Crane+Failures
+
+Perlman, M. (2014, 10 14). High Flyer? Dji Phantom 2 Vision+ Drone Review. Retrieved from Digital
+         Photography Review: http://www.dpreview.com/articles/6508751066/dji-phantom-2-vision-drone-
+         review
+
+Sawyer, T., Carlsen, R., Barner, C., Fulmer, B., Bodilly, L., E., S., & Wood, D. (2008, March 31). Tower-
+         Crane Fears Drive Regulations. Engineering News Record, p. 11.
+
+Section 333. (2015, March 25). Retrieved from FAA:
+         http://www.faa.gov/uas/legislative_programs/section_333/
+
+Shane, J. M. (2011). Abandoned Buildings and Lots. Retrieved from Center for Problem-Oriented Policing:
+         http://www.popcenter.org/problems/abandoned_buildings_and_lots/1
+
+Shapiro, L., & Ratay, R. (2013, November). Structure Magazine. Retrieved from Changes in Codes,
+         Standards and Practices Following Crane Failures, Part 3 ­ Cranes:
+         http://www.structuremag.org/?p=1110
+
+U.S. Department of Labor. (2015, April). Construction Industry. Retrieved from OSHA:
+         https://www.osha.gov/doc/index.html
+
+Page 40  Petition of Alternatives Renewable Solutions, LLC for Exemption Pursuant to Section 333 of FMRA of 2012
+U.S. Department of Transportation- Docket Management System
+May 23, 2015
+
+12 Supporting Documents
+12.1 Aerial Inspection Flight Sign
+12.2 DJI Phantom 2 Vision Plus User Manual
+12.3 DJI Pilot Training Guide
+12.4 DJI Prop Guard Assembly Guide
+12.5 DJI Battery Safety Guide
+12.6 DJI Flying Flowchart
+12.7 DJI Advanced Manual
+12.8 Tali H500 GoPro Manual
+12.9 Tali H500 Bluetooth Datalink Manual
+12.10 Tali H500, Quick Start Guide
+12.11 Tali H500 iLook Settings
+12.12 ARS Flight Safety and Procedures Manual
+
+Page 41  Petition of Alternatives Renewable Solutions, LLC for Exemption Pursuant to Section 333 of FMRA of 2012
+

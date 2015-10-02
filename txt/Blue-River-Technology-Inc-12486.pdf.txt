@@ -1,0 +1,1039 @@
+August 18, 2015
+
+                                                           Exemption No. 12486
+                                                           Regulatory Docket No. FAA­2015­2259
+
+Mr. Matt Colgan
+Blue River Technology Inc.
+575 N. Pastoria Avenue
+Sunnyvale, CA 94085
+
+Dear Mr. Colgan:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter dated May 26, 2015, you petitioned the Federal Aviation Administration (FAA) on
+behalf of Blue River Technology Inc. (hereinafter petitioner or operator) for an exemption.
+The petitioner requested to operate an unmanned aircraft system (UAS) to conduct aerial data
+for precision agricultural surveys.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner are a Vulcan Raven and DJI S1000.
+
+In accordance with the statutory criteria provided in Section 333 of Public Law 112-95 in
+reference to 49 U.S.C. § 44704, and in consideration of the size, weight, speed, and limited
+operating area associated with the aircraft and its operation, the Secretary of Transportation
+has determined that this aircraft meets the conditions of Section 333. Therefore, the FAA
+                                                                                           2
+
+finds that relief from 14 CFR part 21, Certification procedures for products and parts,
+Subpart H--Airworthiness Certificates, and any associated noise certification and testing
+requirements of part 36, is not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection1. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+· They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+· The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+· A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, Blue River Technology Inc. is granted an exemption
+from 14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a), 91.7(a),
+91.119(c), 91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a)
+and (b), to the extent necessary to allow the petitioner to operate a UAS to perform aerial data
+collection. This exemption is subject to the conditions and limitations listed below.
+
+Conditions and Limitations
+
+In this grant of exemption, Blue River Technology Inc. is hereafter referred to as the operator.
+
+1 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                                                 3
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+    1. Operations authorized by this grant of exemption are limited to the Vulcan Raven and
+         DJI S1000 when weighing less than 55 pounds including payload. Proposed
+         operations of any other aircraft will require a new petition or a petition to amend this
+         exemption.
+
+    2. Operations for the purpose of closed-set motion picture and television filming are
+         not permitted.
+
+    3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+         exemption holder may use either groundspeed or calibrated airspeed to determine
+         compliance with the 87 knot speed restriction. In no case will the UA be operated at
+         airspeeds greater than the maximum UA operating airspeed recommended by the
+         aircraft manufacturer.
+
+    4. The UA must be operated at an altitude of no more than 400 feet above ground level
+         (AGL). Altitude must be reported in feet AGL.
+
+    5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+         This requires the PIC to be able to use human vision unaided by any device other than
+         corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+         U.S. driver's license.
+
+    6. All operations must utilize a visual observer (VO). The UA must be operated within
+         the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+         to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+         capability. The VO and PIC must be able to communicate verbally at all times;
+         electronic messaging or texting is not permitted during flight operations. The PIC
+         must be designated before the flight and cannot transfer his or her designation for the
+         duration of the flight. The PIC must ensure that the VO can perform the duties
+         required of the VO.
+
+    7. This exemption and all documents needed to operate the UAS and conduct its
+         operations in accordance with the conditions and limitations stated in this grant of
+         exemption, are hereinafter referred to as the operating documents. The operating
+         documents must be accessible during UAS operations and made available to the
+         Administrator upon request. If a discrepancy exists between the conditions and
+         limitations in this exemption and the procedures outlined in the operating documents,
+         the conditions and limitations herein take precedence and must be followed.
+         Otherwise, the operator must follow the procedures as outlined in its operating
+         documents. The operator may update or revise its operating documents. It is the
+         operator's responsibility to track such revisions and present updated and revised
+                                                                                                            4
+
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+                                                                                                            5
+
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+    exemption holder may apply for a new or amended COA if it intends to conduct
+    operations that cannot be conducted under the terms of the attached COA.
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+    be as large as practicable.
+                                                                                                               6
+
+   23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+       any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+       PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+       These documents must be made available to the Administrator or any law enforcement
+       official upon request.
+
+   24. The UA must remain clear and give way to all manned aviation operations and
+       activities at all times.
+
+   25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+   26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+       persons, vessels, vehicles, and structures unless:
+          a. Barriers or structures are present that sufficiently protect nonparticipating persons
+             from the UA and/or debris in the event of an accident. The operator must ensure
+             that nonparticipating persons remain under such protection. If a situation arises
+             where nonparticipating persons leave such protection and are within 500 feet of
+             the UA, flight operations must cease immediately in a manner ensuring the safety
+             of nonparticipating persons; and
+          b. The owner/controller of any vessels, vehicles or structures has granted permission
+             for operating closer to those objects and the PIC has made a safety assessment of
+             the risk of operating closer to those objects and determined that it does not
+             present an undue hazard.
+
+       The PIC, VO, operator trainees or essential persons are not considered
+       nonparticipating persons under this exemption.
+
+   27. All operations shall be conducted over private or controlled-access property with
+       permission from the property owner/controller or authorized representative.
+       Permission from property owner/controller or authorized representative will be
+       obtained for each flight to be conducted.
+
+   28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+       boundaries of the operational area as defined by the applicable COA must be reported
+       to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+       reported to the National Transportation Safety Board (NTSB) per instructions
+       contained on the NTSB Web site: www.ntsb.gov.
+
+If this exemption permits operations for the purpose of closed-set motion picture and
+television filming and production, the following additional conditions and limitations apply.
+
+   29. The operator must have a motion picture and television operations manual (MPTOM)
+       as documented in this grant of exemption.
+                                                                                                                 7
+
+    30. At least 3 days before aerial filming, the operator of the UAS affected by this
+         exemption must submit a written Plan of Activities to the local Flight Standards
+         District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+         notification may be waived with the concurrence of the FSDO. The plan of activities
+         must include at least the following:
+           a. Dates and times for all flights;
+           b. Name and phone number of the operator for the UAS aerial filming conducted
+              under this grant of exemption;
+           c. Name and phone number of the person responsible for the on-scene operation of
+              the UAS;
+           d. Make, model, and serial or N-Number of UAS to be used;
+           e. Name and certificate number of UAS PICs involved in the aerial filming;
+           f. A statement that the operator has obtained permission from property owners
+              and/or local officials to conduct the filming production event; the list of those
+              who gave permission must be made available to the inspector upon request;
+           g. Signature of exemption holder or representative; and
+           h. A description of the flight activity, including maps or diagrams of any area, city,
+              town, county, and/or state over which filming will be conducted and the altitudes
+              essential to accomplish the operation.
+
+    31. Flight operations may be conducted closer than 500 feet from participating persons
+         consenting to be involved and necessary for the filming production, as specified in the
+         exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                      8
+
+This exemption terminates on August 31, 2017, unless sooner superseded or rescinded.
+
+Sincerely,
+
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+                                             May 26, 2015
+
+Submitted via www.regulations.gov
+
+U.S. Department of Transportation
+Docket Management System
+1200 New Jersey Ave., SE
+Washington, D.C. 20590
+
+                  Re: Exemption Request under Section 333 of the FAA Reform Act and
+                           Part 11 of the Federal Aviation Regulations
+
+Dear Sir or Madam:
+
+Pursuant to Section 333 of the FAA Modernization and Reform Act of 2012, Pub. L 112-95 (the
+"Reform Act"), 49 U.S.C. § 44701(f) and 14 C.F.R. part 11, Blue River Technology Inc. ("Blue
+River" or "Petitioner") hereby petitions the Federal Aviation Administration ("FAA") for relief
+from 14 C.F.R. §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a), 91.7(a), 91.119
+(c), 91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a) and (b) to
+the extent necessary to permit Blue River to operate small unmanned aircraft systems ("sUAS")
+for the collection of aerial data over rural areas in furtherance of commercial precision
+agricultural surveys. Based on prior FAA grants of Section 333 exemptions as described below
+as well as the information submitted in support of this Petition, Blue River asks that the FAA
+utilize its summary grant process to act on the requested relief, consistent with the FAA's recent
+policy initiative to streamline the processing of sUAS exemption petitions.1
+
+The FAA has granted previous exemptions in accordance with Section 333 of the Reform Act
+under circumstances similar in all material respects to those presented in this petition, including,
+but not limited to, Exemption Nos. 11062 to Astreus Aerial in Docket FAA-2014-0352 (Sep. 25,
+2014), 11109 to Clayco, Inc. in Docket FAA-2014-0507 (Dec. 10, 2014), 11112 to VDOS
+Global, LLC in Docket FAA-2014-0382 (Dec. 10, 2014), 11213 to Aeryon Labs, Inc. in Docket
+FAA-2014-0642 (Mar. 24, 2015), 11261 to AeroVironment in Docket FAA-2014-0715 (Apr. 1,
+2015), 11262 to Avigators in Docket FAA-2014-0720 (Ap. 1, 2015), 11316 to Precision Done in
+Docket FAA-2014-1063 (Apr. 9, 2015). In each of these grants, the FAA found that enhanced
+safety achieved using a small unmanned aircraft ("sUA") and carrying no passengers or crew,
+rather than a manned aircraft of significantly greater proportions carrying crew in addition to
+flammable fuel, gave the FAA good cause to find that the sUAS operation enabled by the
+
+                                                            
+1   FAA, News Release, "FAA Summary Grants Speed Exemptions" (Apr. 9, 2015). 
+
+                                                         -1-
+
+ 
+exemption was in the public interest. Further to its request that the FAA grant summary
+approval of the relief requested herein, Blue River is willing to accept all relevant conditions and
+limitations for commercial operations contained in Exemption 11262, supra, specifically
+paragraph no. 2, and nos. 4 through 28. For ease of administrative processing, these conditions
+and limitations are re-stated on Appendix A to this Petition.
+
+In support of this petition, Blue River is submitting, under separate cover and with a request for
+confidential treatment, the following documents: Blue River Operations Manual; Vulcan Raven
+LD User's Manual; DJI S1000 User's Manual (collectively, the "Operating Documents").
+
+I. STATUTORY CRITERIA
+
+Section 333(a) of the Reform Act directs the Secretary to "determine if certain unmanned aircraft
+systems may operate safely in the national airspace system before completion of the plan and
+rulemaking required by section 332." In reaching the determination required under Section
+333(a), the Secretary "shall determine, at a minimum ­ (1) which types of unmanned aircraft
+systems, if any, as a result of their size, weight, speed, operational capability, proximity to
+airports and populated areas, and operation within visual line of sight do not create a hazard to
+users of the national airspace system or the public or pose a threat to national security; and (2)
+whether a certificate of waiver, certificate of authorization, or airworthiness certification under
+section 44704 of title 49, United States Code, is required for the operation of unmanned aircraft
+systems identified under paragraph (1)." Section 333(b). Once the Secretary makes a
+determination under Section 333(b) that a particular UAS operation may be safely conducted in
+the national airspace system, "the Secretary shall establish requirements for the safe operation of
+such aircraft systems in the national airspace system." Section 333(c) (emphasis added). For the
+reasons set forth herein, Blue River submits that this Petition supports a determination that the
+Company's proposed sUAS operations may be safely conducted in the national airspace system.
+
+II. SUMMARY OF PROPOSED OPERATIONS
+
+The proposed sUAS operations would use onboard cameras and lidar to capture high quality
+imagery that are mosaicked into a digital 3D reconstruction of the surveyed area. Numerous
+agricultural applications demand very high resolution that can only be acquired with sufficient
+quality at low speeds and altitudes that are challenging and, in some cases impossible, to achieve
+with conventional aircraft. Use of the sUAS for aerial surveys reduces the need to operate
+conventional aircraft for the same purpose and provides very high resolution imagery at a
+fraction of the cost. These savings result in enhanced efficiency and productivity for agricultural
+activities.
+
+Blue River will operate sUA weighing less than 55 pounds below 200 feet AGL over rural,
+unpopulated agricultural areas, at a nominal airspeed of 10 knots and a maximum airspeed of 33
+knots, as this is the maximum airspeed for optimal data collection. All operations will utilize a
+
+                                                         -2-
+
+ 
+Pilot-in-Command ("PIC") holding an FAA airman certificate and a Visual Observer ("VO"), as
+more fully described herein.
+
+The sUA will possess visual characteristics so as to be highly visible and easily recognizable in
+the unlikely event of an encroaching general aviation manned aircraft. The sUA will under no
+circumstances be flown in Class A, B, C, or D airspace under the requested exemption. The
+sUAS operator will maintain awareness of, and separation from, any temporary flight restrictions
+and restricted/prohibited areas, and will comply with applicable Notice to Airmen ("NOTAM")
+requirements, including any requirement that NOTAMs be issued at least 24 hours prior to
+operating the sUAS, and that such NOTAM be cancelled upon completion of operations or if
+operations will not be conducted. Operations will comply with the weather minimums as
+prescribed under 14 C.F.R. § 91.155. Prior to and while conducting any operations under the
+authority requested herein, Blue River will ensure the aircraft are (i) is registered in accordance
+with C.F.R. part 47, (ii) is identified by serial number, and (iii) has identification (N-Number)
+markings as required under 14 C.F.R. part 45, Subpart C, with such markings as large as
+practicable.
+
+The sUAS will possess programmable failsafe features such as lost communication and lost link
+procedures as well as instantaneous manual override. The PIC will utilize a Federal
+Communications Commission compliant VHF radio and commercially available handheld
+receivers to maintain 2 way communications with all operational personnel and the nearest
+Common Traffic Advisory Frequency ("CATF") or other necessary operating frequencies during
+all phases of flight. Blue River's sUAS operations personnel also will be equipped with
+ForeFlight Mobile software for up-to-date airspace and current weather information. This
+software additionally includes updated aeronautical charts for operations under visual flight rules
+("VFR"), which will be relied upon to strengthen special awareness.
+
+III. PROPOSED SYSTEMS AND OPERATIONS
+
+             a. Unmanned Aircraft System
+
+Blue River wishes to operate two sUAS types under this petition ­ the Vulcan Raven LD and the
+DJI S1000 ­ which are described in detail in the attached user manuals and summarized in the
+tables below.
+
+Table 1. Vulcan Raven LD technical specifications.
+
+Parameter                                    Value
+
+Configuration                                X8 co-axial multirotor
+Motors                                       8 brushless electric motors
+Motor redundancy                             Yes
+Vehicle weight (no batteries or payload)     17.6 lbs.
+Instrument payload                           8.8 lbs.
+Battery weight                               13.5 lbs.
+Typical take-off weight                      39.9 lbs.
+
+                                          -3-
+Maximum take-off weight (MTOW)                55.0 lbs.
+Nominal airspeed                              10 knots
+Maximum airspeed                              33 knots
+Target altitude                               35 ft AGL
+Endurance                                     Up to 30 minutes
+Diagonal length                               1300 mm
+Frame material                                Carbon fiber, aluminum
+Batteries                                     LiPo 8S, 11 Ah, 40C
+RC control frequency                          2.4 GHz
+Flight controller                             DJI A2
+Payload                                       Visible/NIR cameras, lidar
+
+Table 2. DJI S1000 technical specifications.
+
+Parameter                                     Value
+
+Configuration                                 X8 co-axial multirotor
+Motors                                        8 brushless electric motors
+Motor redundancy                              Yes
+Vehicle weight (no batteries or payload)      9.3 lbs.
+Instrument payload                            8.8 lbs.
+Battery weight                                5.5 lbs.
+Typical take-off weight                       23.6 lbs.
+Maximum take-off weight (MTOW)                24.2 lbs.
+Nominal airspeed                              10 knots
+Maximum airspeed                              29 knots
+Target altitude                               35 ft AGL
+Endurance                                     Up to 15 minutes
+Diagonal length                               1045 mm
+Frame material                                Carbon fiber
+Batteries                                     LiPo 6S, 10-20 Ah, 15C
+RC frequency                                  2.4 GHz
+Flight controller                             DJI A2
+Payload                                       Visible/NIR cameras, lidar
+
+The sUAS identified above are equipped with redundant safety mechanisms allowing them to
+operate safely after experiencing certain in-flight failures. If a lost-link event occurs, including
+the loss of ground communications and/or the loss of a GPS signal, the aircraft have the ability to
+perform a pre-coordinated, predictable, automated flight maneuver and return to a predetermined
+location for landing. The sUAS can be operated safely after the loss of an aircraft electric motor.
+The sUAS use a radio frequency spectrum for operation and control that complies with FCC
+requirements.
+
+                                                         -4-
+
+ 
+             b. Pilot-in-Command
+
+The PIC shall possess (i) either a private, recreational, or sport pilot's certificate and (ii) either an
+FAA medical certificate or a U.S. driver's license. All operations will utilize a VO and the sUAS
+will be operated within VLOS of the PIC and VO at all times. Consistent with previous FAA
+grants of exemptions under Section 333, Blue River proposes that the VO be used to satisfy the
+VLOS requirement as long as the PIC always maintains VLOS capability. The VO and the PIC
+will be able to communicate verbally at all times during operational flights.
+
+Blue River will not permit any PIC to operate the sUAS unless the PIC demonstrates the ability
+to safely operate the sUAS in a manner consistent with how the sUAS must be operated under
+the requested exemption, including evasive and emergency maneuvers and maintaining
+appropriate distances from persons, vessels, vehicles and structures. PIC qualification flight
+hours and currency will be logged in a manner consistent with 14 C.F.R. § 61.51(b). Flights will
+be conducted for the purposes of training Blue River's PICs and VOs (training, proficiency, and
+experience-building) and determining the PIC's ability to safely operate the sUAS. Training
+operations will only be conducted during dedicated training sessions, and, when training flights
+are conducted, the PIC will operate the sUAS with appropriate distance from persons not
+essential for flight operations, i.e., nonparticipants, in accordance with 14 C.F.R. § 91.119.
+
+             c. Operating Parameters of Blue River's sUAS
+
+As indicated above, the sUAS will be operated at a weight of less than 55 lbs. (including
+payload), speed of no more than 33 knots, and altitude of less than 200 ft AGL. The sUA will not
+carry a pilot, passenger, or flammable liquids. The sUA will be operated exclusively over non-
+congested, rural agricultural areas. All flights will be terminated with 20% remaining battery
+power.
+
+Blue River will not conduct sUAS operations within five (5) nautical miles of an airport
+reference point unless a letter of agreement with that airport's management is obtained and the
+operation is conducted in accordance with a Notice to Airmen ("NOTAM"). Additionally,
+Petitioner will not operate the aircraft in Class A, B, C, or D airspace. Nor will Petitioner operate
+the aircraft less than 500 feet below a cloud or less than 2,000 feet horizontally from a cloud or
+when visibility is less than three (3) statute miles from the PIC. sUAS operations will not be
+conducted at night. All operations will be conducted under visual meteorological conditions
+("VMC"). The UAS will remain clear and yield the right of way to all manned operations and
+activities at all times. All operations shall be conducted over private or controlled-access
+property with permission from the property owner/controller or authorized representative.
+
+Any sUAS that has undergone maintenance or alterations that affect the sUAS operation or flight
+characteristics will undergo a functional test flight prior to conducting further operations under
+this exemption. Functional test flights may only be conducted by a PIC with a VO and must
+
+                                                         -5-
+
+ 
+remain at least 500 feet from other people. The functional test flight will be conducted in such a
+manner so as to not pose an undue hazard to persons and property.
+
+Documents used by Blue River to ensure the safe operation and flight of the sUAS, including but
+not limited to Blue River's Operations Manual, the exemption issued by the FAA, ATO-issued
+COA, as well as any FAA-issued U.S. registration certificates for the aircraft, will be
+immediately available to the PIC at the Ground Control Station any time the aircraft is operating.
+These documents will be made available to the Administrator or any law enforcement official
+upon request.
+
+IV. INFORMATION REQUIRED UNDER 14 C.F.R. § 11.81
+
+             a. 14 C.F.R. § 11.81(a) ­ Name and contact information of the Petitioner
+
+Blue River Technology Inc.
+575 N. Pastoria Ave.
+Sunnyvale, CA 94085
+Attn: Matt Colgan, PhD, Senior Systems Engineer
+Phone: (650) 804-4021
+Email: matt.c@bluevrivert.com
+
+             b. 14 C.F.R. § 11.81(b) ­ The specific sections of 14 C.F.R. from which the
+                  Petitioner seeks an exemption
+
+Blue River seeks an exemption from the following sections of 14 C.F.R.:
+
+     14 C.F.R. §§ 61.23(a) and (c)
+     14 C.F.R. §§ 61.101(e)(4) and (5)
+     14 C.F.R. § 61.113(a)
+     14 C.F.R. §§ 61.315(a)
+     14 C.F.R. § 91.7(a)
+     14 C.F.R. § 91.119(c)
+     14 C.F.R. § 91.121
+     14 C.F.R. § 91.151(a)(1)
+     14 C.F.R. § 91.405(a)
+     14 C.F.R. § 91.407(a)(1)
+     14 C.F.R. §§ 91.409(a)(1) and (2)
+     14 C.F.R. §§ 91.417(a) and (b)
+
+                                                         -6-
+
+ 
+             c. 14 C.F.R. § 11.81(c) ­ The extent of and reasons for the relief sought
+
+     14 C.F.R. §§ 61.23(a) and (c) ­ Medical certificates; operations requiring a medical
+         certificate; operations requiring either a medical certificate or U.S. driver's license. 14
+         C.F.R. § 61.23(a) provides, inter alia, that a person exercising the privileges of a private
+         pilot or recreational pilot certificate must hold a third-class medical certificate.
+         Separately, 14 C.F.R. § 61.23(c) allows persons exercising the privileges of a sport pilot
+         certificate in a light-sport aircraft other than a glider or balloon to hold a U.S. driver's
+         license in lieu of a medical certificate. Blue River petitions the FAA for relief from these
+         regulations to the extent necessary to allow the proposed sUAS flights to be operated by a
+         PIC holding (1) a private, recreational, or sport pilot certificate, and (2) a current FAA
+         airman medical certificate or a valid U.S. driver's license. Blue River submits that an
+         equivalent level of safety will be achieved through an FAA medical certificate or a U.S.
+         driver's license. Additionally, grant of the requested relief is (i) appropriate given the
+         nature of the proposed sUAS operations, which pose considerably less safety risk than
+         operations with larger UAS, and (ii) consistent with FAA exemptions issued under
+         circumstances similar in all material respects to those presented in this petition, including,
+         but not limited to, Exemption No. 11261, supra. Moreover, the requested relief is
+         entirely consistent with FAA policy announced on April 9, 2015, in which the FAA
+         determined that sUAS operations under Section 333 may be conducted by a PIC holding
+         a U.S. driver's license in lieu of a medical certificate. In adopting this policy, the FAA
+         explained, "This change is consistent with the agency's approach for sport pilot
+         certificate holders, who may flight light sport aircraft with a driver's license and no FAA
+         medical certificate."2
+
+     14 C.F.R. §§ 61.101(e)(4) and (5) ­ Recreational pilot privileges and limitations; acting
+         as a pilot in command of an aircraft for compensation or hire, or in furtherance of a
+         business. 14 C.F.R. § 61.23(e)(4) provides that a recreational pilot may not act as a PIC
+         of an aircraft for compensation or hire, and 14 C.F.R. § 61.23(e)(5) additionally provides
+         that such persons may not act as a PIC of an aircraft in furtherance of a business. Blue
+         River requests an exemption from these regulations to the extent necessary to allow its
+         sUAS to be operated by a PIC holding a recreational pilot certificate. Given the proposed
+         airspace operations, in particular the size, weight, speed and operational capability of the
+         sUAS at issue, the confinement of such operations to rural areas, the aeronautical
+         knowledge requirements necessary for the issuance of a recreational pilot certificate and
+         the skills necessary for the safe operation of the sUAS, operations should be permitted by
+         a PIC holding a recreational pilot certificate. Most importantly, this relief is consistent
+         with the FAA's policy announced on April 9, 2015, in which the FAA concluded that it
+
+                                                           
+2 FAA, News Release, "FAA Summary Grants Speed Exemptions" (Apr. 9, 2015).
+
+                                                         -7-
+
+ 
+         should "allow[ ] operations under [Section 333] exemptions by people who hold a
+         recreational or sport pilot certificate."3
+
+     14 C.F.R. § 61.113(a) ­ Private pilot privileges and limitations: Pilot in command; acting
+         as a pilot in command of an aircraft for compensation or hire. This regulation provides
+         that no person who holds a private pilot certificate may act as [a PIC] of an aircraft that is
+         carrying passengers or property for compensation or hire; nor may that person, for
+         compensation or hire, act as [a PIC] of an aircraft." Blue River respectfully asks for an
+         exemption from this regulation to the extent necessary to allow its sUAS to be operated
+         by a PIC holding a private pilot certificate. In this regard, the Company submits that the
+         same reasons in support of its requested relief from 14 C.F.R. §§ 61.101(e)(4) and (5),
+         including the equivalent level of safety, apply with equal force to an exemption from 14
+         C.F.R. § 61.113(a).
+
+     14 C.F.R. §§ 61.315(a) ­ Privileges and limitations of sport pilot certificates. This
+         regulation provides that a person holding a sport pilot certificate may act as a PIC of a
+         light-sport aircraft, except as specified in subparagraph (c), which, in turn, prohibits such
+         operations for compensation or hire or in furtherance of a business. Blue River submits
+         that the same justifications applicable to its requested relief from 14 C.F.R. §§
+         61.101(e)(4) and (5), including the equivalent level of safety, apply in the case of its
+         requested relief from 14 C.F.R. §§ 61.315(a). Additionally, as the FAA concluded in
+         recently granting Exemption No. 11261 under circumstances similar in all material
+         respects to those presented by Blue River:
+
+                  The FAA has reviewed the knowledge and training requirements of sport,
+                  recreational, private and commercial certificates and concluded that a UAS PIC
+                  holding a minimum of a sport pilot certificate, and operating under this
+                  exemption, would not adversely affect operations in the [national airspace system]
+                  or present a hazard to persons or property on the ground.4
+
+     14 C.F.R. § 91.7(a) ­ Civil aircraft airworthiness; operations of civil aircraft in an
+         airworthy condition. This regulation provides, "no person may operate a civil aircraft
+         unless it is in an airworthy condition." No airworthiness certificate exists for the aircraft
+         at issue. Blue River therefore seeks relief from this regulation to the extent necessary to
+         permit the proposed sUAS operations set forth in this petition. Blue River submits that
+         an equivalent level of safety will be achieved through reliance on the Operating
+         Documents submitted in support of this petition, thereby ensuring the aircraft remains in
+         an airworthy condition. In this regard, and prior to each flight, the PIC will conduct a
+         pre-flight inspection to ensure the aircraft is in a condition for safe flight. If the inspection
+
+                                                           
+3 Ibid. 
+4 Issued in Docket FAA-2014-0715 (Apr. 1, 2014), at 4.
+
+                                                         -8-
+
+ 
+         reveals a condition that affects the safe operation of the sUAS, the aircraft will not be
+         operated until the necessary maintenance has been performed and the sUAS is found to
+         be in a condition for safe flight. Moreover, if the sUAS undergoes maintenance or
+         alterations that affect the sUAS operation or flight characteristics, e.g., replacement of a
+         flight critical component, the sUAS will undergo a functional test flight prior to
+         conducting further operations.
+
+     14 C.F.R. § 91.119(c) ­ Minimum safe altitudes: General; operations over other than
+         congested areas. 14 C.F.R. § 91.119(b) prohibits aircraft, when operating over congested
+         areas, from operating at less than 1,000 feet above the highest obstacle within a
+         horizontal radius of 2,000 feet from the aircraft. 14 C.F.R. § 91.119(c) prohibits aircraft,
+         when operating over other than congested areas, from operating at less than 500 feet
+         above surface except over open water or sparsely populated areas, in which case the
+         aircraft may not be operated closer than 500 feet to any person, vessel, vehicle, or
+         structure. The sUAS will be operated exclusively over non-congested, rural agricultural
+         areas, however, Blue River petitions the FAA for relief from § 91.119(c) to the extent
+         necessary to permit the sUAS to be operated over such areas at less than 500 feet above
+         surface. In order to ensure an equivalent level of safety, the sUAS operations will be
+         conducted at least 500 feet from all nonparticipating persons, vessels, vehicles, and
+         structures, unless a) nonparticipating persons are sufficiently protected by barriers or
+         structures, and b) the owner/controller of any vessels, vehicles or structures has granted
+         permission for operating closer to those objects and the PIC has made a safety assessment
+         and determined that operating closer to those objects does not present an undue hazard.
+
+     14 C.F.R. § 91.121 ­ Altimeter settings. This regulation requires any aircraft operating
+         within 18,000 feet of Mean Sea Level (MSL) to contain an altimeter set to one of several
+         designated altimeter settings prior to departure. Blue River petitions for relief from this
+         regulation because the sUAS will not have a typical barometric altimeter onboard.
+         Instead, altitude information will be provided to the PIC of the sUAS via a digitally
+         encoded telemetric data feed from the aircraft GPS to a ground-based on-screen display.
+         Prior to each flight, a zero altitude initiation point will be established and confirmed by
+         the PIC. The collection and monitoring of altitude information through these means will
+         provide for an equivalent level of safety.
+
+     14 C.F.R. § 91.151(a)(1) ­ Fuel requirements for flight in VFR conditions;
+         commencement of flight with sufficient fuel; flights during the day. This regulation
+         prohibits any flight from being initiated unless there is enough fuel to fly to the first point
+         of intended landing and to fly after that for at least 30 minutes. Consistent with other
+         sUAS exemptions issued under Section 333, Blue River only proposes to conduct sUAS
+         operations during daytime. Blue River requests an exemption from the regulation to the
+         extent necessary to permit the proposed operations to be conducted by the sUAS
+         described herein, which run on battery power. For the Vulcan Raven LD, the maximum
+
+                                                         -9-
+
+ 
+         duration of flight from a single battery charge is 30 minutes. For the DJI S1000, the
+         maximum duration of flight from a single battery charge is 15 minutes. To ensure an
+         equivalent level of safety, the sUAS will never fly more than 0.5 statute miles from the
+         point of intended landing. Additionally, the PIC (i) will ensure prior to each flight that
+         the sUAS has sufficient battery power for the aircraft to fly at normal cruising speed to
+         the intended landing point (considering wind and forecast weather conditions) and (ii)
+         land the sUA with at least 20% battery power remaining.
+
+     14 C.F.R. § 91.405(a) ­ Maintenance requirements; 14 C.F.R. § 91.407(a)(1) ­ Operation
+         after maintenance, preventive maintenance, rebuilding, or alteration; approval for return
+         to service; 14 C.F.R. §§ 91.409(a)(1) and (2) ­ Inspections; operations and instruction;
+         and 14 C.F.R. §§ 91.417(a) and (b) ­ Maintenance records; retention of records. 14
+         C.F.R. § 91.405(a) provides that an aircraft owner or operator must "have the aircraft
+         inspected as prescribed in subpart E of this part and shall between required inspections . .
+         . have discrepancies repaired as prescribed in part 43 of this chapter." 14 C.F.R. § 91.407
+         provides that "no person may operate any aircraft that has undergone maintenance,
+         preventive maintenance, rebuilding, or alteration unless [i]t has been approved for return
+         to service by a person authorized under §43.7 of this chapter." Additionally, 14 C.F.R.
+         §§ 91.409(a) generally prohibits aircraft operations unless, within the preceding 12
+         calendar months, the aircraft either has had, "An annual inspection in accordance with
+         part 43 of this chapter and has been approved for return to service by a person authorized
+         by §43.7 of this chapter," id. at subparagraph (1), or "An inspection for the issuance of an
+         airworthiness certificate in accordance with part 21 of this chapter." Id. at subparagraph
+         (2). Finally, 14 C.F.R. §§ 91.417(a) requires aircraft owners and operators to retain
+         "[r]ecords of maintenance, preventive maintenance, and alteration and records of the 100-
+         hour, annual, progressive, and other required or approved inspections, as appropriate, for
+         each aircraft (including the airframe) and each engine, propeller, rotor, and appliance of
+         an aircraft," for the time periods prescribed under 14 C.F.R. § 91.417(b). 14 C.F.R. §§
+         91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a) and (b) require, among other
+         things, that maintenance be conducted in accordance with 14 C.F.R. part 43. By its
+         terms, however, part 43, applies to aircraft for which an airworthiness certificate has been
+         issued, and no such certificate has been issued for the aircraft which Blue River proposes
+         to operate.
+
+         Blue River requests an exemption from these regulations to the extent necessary to permit
+         the sUAS operations to be conducted as described herein. To ensure an equivalent level
+         of safety with respect to the maintenance and inspection requirements of these
+         regulations, (i) Blue River will strictly comply with safety and maintenance procedures
+         included in all applicable sUAS manufacturer's instructions and operator's manuals, (ii)
+         the PIC will inspect the sUAS (including ground control station) prior to each flight, to
+         ensure it is in a condition for safe flight and, where such inspections reveal a condition
+
+                                                        -10-
+
+ 
+         affecting safe operation, no operations will be conducted pending performance of
+         necessary maintenance and a finding that the sUAS is in a condition for safe flight, (iii)
+         all maintenance and alterations will be documented in aircraft records, (iv) any
+         maintenance or alterations affecting the sUAS operation or flight characteristics will
+         undergo a functional test flight, with appropriate entries in aircraft records, (v) the pre-
+         flight inspection section of Blue River's Operating Documents will account for all
+         discrepancies, (vi) Blue River will follow the sUAS manufacturer's aircraft/component,
+         maintenance, overhaul, replacement, inspection and life limit requirements, and (vii) all
+         maintenance, inspections and record keeping will be carried out in accordance with the
+         Operating Documents, with appropriate notations in aircraft records, including total flight
+         hours, work accomplished and the signature of the authorized person returning sUAS to
+         service.
+
+In accordance with the statutory criteria provided in Section 333 of the Reform Act regarding
+airworthiness certification under 49 U.S.C. § 44704, Blue River believes that relief from 14
+C.F.R. part 21, Subpart H, and any associated noise certification and testing requirements of 14
+C.F.R. part 36 is not necessary, in consideration of the size, weight, speed and limited operating
+area associated with the sUAS and their operations. To the extent that the FAA believes such
+relief is warranted, however, Blue River asks that such relief be provided for in any exemption
+issued in response to this Petition.
+
+             d. 14 C.F.R. § 11.81(d) ­ The reasons why granting the request would be in the
+                  public interest; that is, how it would benefit the public as a whole
+
+Grant of the relief requested herein would further the objectives of Congress under Section 333
+of the Reform Act, by promoting the operation of sUAS flights to safely and efficiently gather
+aerial data in furtherance of precision agriculture activities. The collection of such data with
+sUAS is more cost-effective to customers than manned aircraft operations, as it provides
+remarkably high resolution imagery at a fraction of the cost. The resulting cost savings drive
+enhanced efficiencies and productivity gains for agricultural activities.
+
+             e. 14 C.F.R. § 11.81(e) ­ The reasons why granting the exemption would not
+                  adversely affect safety, or how the exemption would provide a level of safety
+                  at least equal to that provided by the rule from which you seek the exemption
+
+These reasons are set forth in the information furnished by Blue River pursuant to 14 C.F.R. §
+11.81(c), above. In order to further ensure an equivalent level of safety, Blue River is willing to
+accept the FAA's standard conditions and limitations ordinarily attached to exemptions issued
+under Section 333 in connection with agriculture operations with sUAS, including, but not
+limited to, those recently attached to Exemption No. 11261, supra. For ease of administrative
+processing, such conditions and limitations are set forth on Appendix A to this petition. The
+primary risk associated with Blue River's proposed operations are manned agricultural
+
+                                                        -11-
+
+ 
+operations under 14 C.F.R. § 137, however, given the nature of the proposed operations, in
+particular the very low altitude and speed at which the sUAS will be operated, as well as the
+conditions and limitations which Blue River is willing to accept, such risks are more than
+sufficiently mitigated.
+
+f. 14 C.F.R. § 11.81(f) ­ Federal Register summary
+
+Blue River submits that good cause exists for not publishing a summary of this Petition in the
+Federal Register, as the relief requested herein is not precedential and any delay in acting on this
+petition would be detrimental to Blue River. Nevertheless, in the event the FAA determines to
+publish such a summary, Blue River submits the following:
+
+Petitioner:                    Blue River Technology Inc.
+
+Regulations affected:          14 C.F.R. §§ 61.23(a) and (c), 61.101(e)(4) and (5),
+                               61.113(a), 61.315(a), 91.7(a), 91.119(c), 91.121,
+                               91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1)
+                               and (2), and 91.417(a) and (b)
+
+Description of relief sought:  Blue River Technology Inc. petitions for an
+                               exemption permitting the operation of small
+                               unmanned aerial systems, weighing 55 pounds or
+                               less, for commercial precision agricultural surveys
+                               over remote and rural areas of the United States.
+
+g. 14 C.F.R. § 11.81(g) ­ Operations outside the United States
+
+Blue River does not seek to exercise the privileges of the requested exemption outside the United
+States.
+
+                                                        -12-
+
+ 
+V. CONCLUSION
+
+The enhanced safety achieved under the specific guideJines and procedures proposed by Blue
+River provides the FAA with good cause to find that the operations which are the subject of this
+Petition are in the public interest. Blue River therefore respectfully requests that the FAA grant
+(i) the requested exemption under Section 333 ofthe Reform Act and 49 U.S.C. § 44701(f), and
+(ii) such other or additional relief as the FAA considers consistent with this Petition and the
+pubJic interest, thereby permitting Blue River to conduct sUAS operations for the purpose of
+commercial precision agricultural surveys, as more fully described herein.
+
+                                                Respectfully submitted,
+
+            Matt Colgan, PhD
+            Senior Systems Engineer
+            Blue River Technology Inc.
+
+Enclosures
+
+            ·13-
+                                                   Appendix A
+
+            Blue River Technology Inc. Consents to the Attachment of the Following
+              Conditions and Limitations on its Requested Section 333 Exemption:
+
+    1. Operations authorized by this grant of exemption are limited to the following UAS
+           when weighing less than 55 pounds including payload: the Vulcan Raven LD; the DJI
+           S1000. Proposed operations of any other aircraft will require a new petition or a
+           petition to amend this exemption.
+
+    2. Operations for the purpose of closed-set motion picture and television filming are not
+           permitted.
+
+    3. The UAS may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+           exemption holder may use either groundspeed or calibrated airspeed to determine
+           compliance with the 87 knot speed restriction. In no case will the UA be operated at
+           airspeeds greater than the maximum UAS operating airspeed recommended by the
+           aircraft manufacturer.
+
+    4. The UAS must be operated at an altitude of no more than 400 feet above ground level
+           (AGL). Altitude must be reported in feet AGL.
+
+    5. The UAS must be operated within visual line of sight (VLOS) of the PIC at all times.
+           This requires the PIC to be able to use human vision unaided by any device other than
+           corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+           U.S. driver's license.
+
+    6. All operations must utilize a visual observer (VO). The UA must be operated within
+           the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used to
+           satisfy the VLOS requirement as long as the PIC always maintains VLOS capability.
+           The VO and PIC must be able to communicate verbally at all times. Electronic
+           messaging or texting is not permitted during flight operations. The PIC must be
+           designated before the flight and cannot transfer his or her designation for the duration
+           of the flight. The PIC must ensure that the VO can perform the duties required of the
+           VO.
+
+    7. This exemption and all documents needed to operate the UAS and conduct its
+           operations in accordance with the conditions and limitations stated in this grant of
+           exemption, are hereinafter referred to as the operating documents. The operating
+           documents must be accessible during UAS operations and made available to the
+           Administrator upon request. If a discrepancy exists between the conditions and
+           limitations in this exemption and the procedures outlined in the operating documents,
+
+ 
+           the conditions and limitations herein take precedence and must be followed. Otherwise,
+           the operator must follow the procedures as outlined in its operating documents. The
+           operator may update or revise its operating documents. It is the operator's responsibility
+           to track such revisions and present updated and revised documents to the Administrator
+           or any law enforcement official upon request. The operator must also present updated
+           and revised documents if it petitions for extension or amendment to this grant of
+           exemption. If the operator determines that any update or revision would affect the basis
+           upon which the FAA granted this exemption, then the operator must petition for an
+           amendment to its grant of exemption. The FAA's UAS Integration Office (AFS-80)
+           may be contacted if questions arise regarding updates or revisions to the operating
+           documents.
+
+    8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+           or flight characteristics, e.g. replacement of a flight critical component, must undergo a
+           functional test flight prior to conducting further operations under this exemption.
+           Functional test flights may only be conducted by a PIC with a VO and must remain at
+           least 500 feet from other people. The functional test flight must be conducted in such a
+           manner so as to not pose an undue hazard to persons and property.
+
+    9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+           in a condition for safe operation
+
+    10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+           UAS is in a condition for safe flight. The pre-flight inspection must account for all
+           potential discrepancies, e.g. inoperable components, items, or equipment. If the
+           inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+           prohibited from operating until the necessary maintenance has been performed and the
+           UAS is found to be in a condition for safe flight.
+
+    11. The operator must follow the UAS manufacturer's maintenance, overhaul, replacement,
+           inspection, and life limit requirements for the aircraft and aircraft components.
+
+    12. Each UAS operated under this exemption must comply with all manufacturer safety
+           bulletins.
+
+    13. Under this grant of exemption, a PIC must hold either an airline transport, commercial,
+           private, recreational, or sport pilot certificate. The PIC must also hold a current FAA
+           airman medical certificate or a valid U.S. driver's license issued by a state, the District
+           of Colombia, Puerto Rico, a territory, a possession, or the Federal government. The
+           PIC must also meet the flight review requirements specified in 14 CFR § 61.56 in an
+           aircraft in which the PIC is rated on his or her pilot certificate.
+
+ 
+    14. The operator may not permit any PIC to operate unless the PIC demonstrates the ability
+           to safely operate the UAS in a manner consistent with how the UAS will be operated
+           under this exemption, including evasive and emergency maneuvers and maintaining
+           appropriate distances from persons, vessels, vehicles and structures. PIC qualification
+           flight hours and currency must be logged in a manner consistent with 14 CFR §
+           61.51(b). Flights for the purposes of training the operator's PICs and VOs (training,
+           proficiency, and experience-building) and determining the PIC's ability to safely
+           operate the UAS in a manner consistent with how the UAS will be operated under this
+           exemption are permitted under the terms of this exemption. However, training
+           operations may only be conducted during dedicated training sessions. During training,
+           proficiency, and experience-building flights, all persons not essential for flight
+           operations are considered nonparticipants, and the PIC must operate the UAS with
+           appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+    15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+           operations must be conducted under visual meteorological conditions (VMC). Flights
+           under special visual flight rules (SVFR) are not authorized.
+
+    16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+           denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+           denoted with an ARP, the center of the airport symbol as denoted on the current FAA-
+           published aeronautical chart, unless a letter of agreement with that airport's
+           management is obtained or otherwise permitted by a COA issued to the exemption
+           holder. The letter of agreement with the airport management must be made available to
+           the Administrator or any law enforcement official upon request.
+
+    17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+           horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+    18. If the UAS loses communications or loses its GPS signal, the UA must return to a pre-
+           determined location within the private or controlled-access property.
+
+    19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+    20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+           weather conditions) there is enough available power for the UA to conduct the intended
+           operation and to operate after that for at least five minutes or with the reserve power
+           recommended by the manufacturer if greater.
+
+    21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+           operations shall be conducted in accordance with an ATO-issued COA. The exemption
+
+ 
+           holder may apply for a new or amended COA if it intends to conduct operations that
+           cannot be conducted under the terms of the attached COA.
+
+    22. All aircraft operated in accordance with this exemption must be identified by serial
+           number, registered in accordance with 14 CFR part 47, and have identification (N-
+           Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must be as
+           large as practicable.
+
+    23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+           any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the PIC
+           at the Ground Control Station of the UAS any time the aircraft is operating. These
+           documents must be made available to the Administrator or any law enforcement official
+           upon request.
+
+    24. The UA must remain clear and give way to all manned aviation operations and
+           activities at all times.
+
+    25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+    26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+           persons, vessels, vehicles, and structures unless:
+
+             a. Barriers or structures are present that sufficiently protect nonparticipating persons
+                  from the UA and/or debris in the event of an accident. The operator must ensure
+                  that nonparticipating persons remain under such protection. If a situation arises
+                  where nonparticipating persons leave such protection and are within 500 feet of
+                  the UA, flight operations must cease immediately in a manner ensuring the safety
+                  of nonparticipating persons; and
+
+             b. The owner/controller of any vessels, vehicles or structures has granted permission
+                  for operating closer to those objects and the PIC has made a safety assessment of
+                  the risk of operating closer to those objects and determined that it does not present
+                  an undue hazard.
+
+           The PIC, VO, operator trainees or essential persons are not considered nonparticipating
+           persons under this exemption.
+
+    27. All operations shall be conducted over private or controlled-access property with
+           permission from the property owner/controller or authorized representative. Permission
+           from property owner/controller or authorized representative will be obtained for each
+           flight to be conducted.
+
+ 
+    28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+           boundaries of the operational area as defined by the applicable COA must be reported
+           to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+           reported to the National Transportation Safety Board (NTSB) per instructions contained
+           on the NTSB Web site: www.ntsb.gov.
+
+ 
+

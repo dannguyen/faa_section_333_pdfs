@@ -1,0 +1,1044 @@
+July 21, 2015
+
+                                                           Exemption No. 12106
+                                                           Regulatory Docket No. FAA-2015-0789
+
+Mr. Michael E. Sievers
+Hunton & Williams LLP
+Riverfront Plaza, East Tower
+951 East Byrd Street
+Richmond, VA 23219-4074
+
+Dear Mr. Sievers:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter dated March 20, 2015, you petitioned the Federal Aviation Administration (FAA) on
+behalf of Duke Energy Business Services, LLC (hereinafter petitioner or operator) for an
+exemption. The petitioner requested to operate an unmanned aircraft system (UAS) to
+conduct monitoring, inspections, and damage assessments.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+                                                                                               2
+
+Airworthiness Certification
+The UAS's proposed by the petitioner are the following:
+
+DJI Inspire
+DJI S1000
+3DRobotics X8+
+AeroVironment Shrike
+Aerovironment Puma
+UAV Solutions Phoenix 60
+Lockheed Martin Indago
+SenseFly eBee
+SenseFly eXom
+Draganflyer X4ES
+Draganflyer X6
+Draganflyer Guardian
+Aeyron Skyranger
+Aerialtronics Zenith ATX8
+Blade 350 QX3
+
+The petitioner requested relief from 14 CFR part 21, Certification procedures for products
+and parts, Subpart H--Airworthiness Certificates. In accordance with the statutory criteria
+provided in Section 333 of Public Law 112-95 in reference to 49 U.S.C. § 44704, and in
+
+consideration of the size, weight, speed, and limited operating area associated with the
+
+aircraft and its operation, the Secretary of Transportation has determined that this aircraft
+
+meets the conditions of Section 333. Therefore, the FAA finds that relief from
+14 CFR part 21, Certification procedures for products and parts, Subpart H--Airworthiness
+
+Certificates, and any associated noise certification and testing requirements of part 36, is
+
+necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection. The FAA has issued grants of
+
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+
+by this exemption is in the public interest.
+                                                                                                3
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+ They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+ The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+ A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, Duke Energy Business Services, LLC is granted an
+exemption from 14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a),
+91.7(a), 91.119(c), 91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and
+91.417(a) and (b), to the extent necessary to allow the petitioner to operate a UAS to perform
+aerial data collection. This exemption is subject to the conditions and limitations listed
+below.
+
+Conditions and Limitations
+
+In this grant of exemption, Duke Energy Business Services, LLC is hereafter referred to as
+the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+1. Operations authorized by this grant of exemption are limited to the DJI Inspire, DJI
+    S1000, 3DRobotics X8, AeroVironment Shrike, Aerovironment Puma, UAV
+    Solutions Phoenix 60, Lockheed Martin Indago, SenseFly eBee, SenseFly eXom,
+    Draganflyer X4ES, Draganflyer X6, Draganflyer Guardian, Aeyron Skyranger,
+    Aerialtronics Zenith ATX8, Blade 350 QX3 when weighing less than 55 pounds
+    including payload. Proposed operations of any other aircraft will require a new
+    petition or a petition to amend this exemption.
+
+2. Operations for the purpose of closed-set motion picture and television filming are
+    not permitted.
+
+3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+    exemption holder may use either groundspeed or calibrated airspeed to determine
+    compliance with the 87 knot speed restriction. In no case will the UA be operated at
+    airspeeds greater than the maximum UA operating airspeed recommended by the
+    aircraft manufacturer.
+                                                                                                            4
+
+4. The UA must be operated at an altitude of no more than 400 feet above ground level
+    (AGL). Altitude must be reported in feet AGL.
+
+5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+    This requires the PIC to be able to use human vision unaided by any device other than
+    corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+    U.S. driver's license.
+
+6. All operations must utilize a visual observer (VO). The UA must be operated within
+    the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+    to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+    capability. The VO and PIC must be able to communicate verbally at all times;
+    electronic messaging or texting is not permitted during flight operations. The PIC
+    must be designated before the flight and cannot transfer his or her designation for the
+    duration of the flight. The PIC must ensure that the VO can perform the duties
+    required of the VO.
+
+7. This exemption and all documents needed to operate the UAS and conduct its
+    operations in accordance with the conditions and limitations stated in this grant of
+    exemption, are hereinafter referred to as the operating documents. The operating
+    documents must be accessible during UAS operations and made available to the
+    Administrator upon request. If a discrepancy exists between the conditions and
+    limitations in this exemption and the procedures outlined in the operating documents,
+    the conditions and limitations herein take precedence and must be followed.
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+                                                                                                            5
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance; overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+                                                                                                            6
+
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+    exemption holder may apply for a new or amended COA if it intends to conduct
+    operations that cannot be conducted under the terms of the attached COA.
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+    be as large as practicable.
+
+23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+    any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+    PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+    These documents must be made available to the Administrator or any law enforcement
+    official upon request.
+
+24. The UA must remain clear and give way to all manned aviation operations and
+    activities at all times.
+
+25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless:
+      a. Barriers or structures are present that sufficiently protect nonparticipating persons
+          from the UA and/or debris in the event of an accident. The operator must ensure
+                                                                                                               7
+
+             that nonparticipating persons remain under such protection. If a situation arises
+             where nonparticipating persons leave such protection and are within 500 feet of
+             the UA, flight operations must cease immediately in a manner ensuring the safety
+             of nonparticipating persons; and
+          b. The owner/controller of any vessels, vehicles or structures has granted permission
+             for operating closer to those objects and the PIC has made a safety assessment of
+             the risk of operating closer to those objects and determined that it does not
+             present an undue hazard.
+
+       The PIC, VO, operator trainees or essential persons are not considered
+       nonparticipating persons under this exemption.
+
+   27. All operations shall be conducted over private or controlled-access property with
+       permission from the property owner/controller or authorized representative.
+       Permission from property owner/controller or authorized representative will be
+       obtained for each flight to be conducted.
+
+   28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+       boundaries of the operational area as defined by the applicable COA must be reported
+       to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+       reported to the National Transportation Safety Board (NTSB) per instructions
+       contained on the NTSB Web site: www.ntsb.gov.
+
+If this exemption permits operations for the purpose of closed-set motion picture and
+television filming and production, the following additional conditions and limitations apply.
+
+   29. The operator must have a motion picture and television operations manual (MPTOM)
+       as documented in this grant of exemption.
+
+   30. At least 3 days before aerial filming, the operator of the UAS affected by this
+       exemption must submit a written Plan of Activities to the local Flight Standards
+       District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+       notification may be waived with the concurrence of the FSDO. The plan of activities
+       must include at least the following:
+          a. Dates and times for all flights;
+          b. Name and phone number of the operator for the UAS aerial filming conducted
+             under this grant of exemption;
+          c. Name and phone number of the person responsible for the on-scene operation of
+             the UAS;
+          d. Make, model, and serial or N-Number of UAS to be used;
+          e. Name and certificate number of UAS PICs involved in the aerial filming;
+          f. A statement that the operator has obtained permission from property owners
+             and/or local officials to conduct the filming production event; the list of those
+             who gave permission must be made available to the inspector upon request;
+                                                                                                                 8
+           g. Signature of exemption holder or representative; and
+           h. A description of the flight activity, including maps or diagrams of any area, city,
+
+              town, county, and/or state over which filming will be conducted and the altitudes
+              essential to accomplish the operation.
+
+    31. Flight operations may be conducted closer than 500 feet from participating persons
+         consenting to be involved and necessary for the filming production, as specified in the
+         exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+
+This exemption terminates on July 31, 2017, unless sooner superseded or rescinded.
+
+Sincerely,
+
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosure
+  UNT N ~                    HUNTON & WILLIAMS LLP
+                      ~~s ~  RIVERFRONT PLAZA, EAST TOWER
+                             951 EAST BYRD STREET
+WHII"S                       RICHMOND, VIRGINIA 23219-4074
+
+  March 20, 2015             TEL 804 · 788 · 8200
+                             FAX 804 · 788 · 8218
+
+                             MICHAEL E. SIEVERS
+                             DIRECT DIAL: 804 · 788 · 8532
+                             EMAIL: msievers@hunton.com
+
+                             FILE NO: 34085.000112
+
+VIA ELECTRONIC SUBMISSION
+AND FEDERAL EXPRESS
+
+U.S. Department of Transportation, Docket Operations
+West Building Ground Floor, Room W 12-140
+1200 New Jersey Avenue, S.E.
+Washington, D.C. 20590
+
+Re: Petition for Exemption Under § 333 of the FAA Modernization and Reform Act
+         and Part 11 of the Federal Aviation Regulations
+
+Dear Sir or Madam:
+
+Pursuant to Section 333 of the FAA Modernization and Reform Act of 2012 ("FMRA"),
+49 U.S.C. § 44701, and 14 C.F.R. Part 11, Duke Energy Business Services, LLC ("DEBS" or
+"Petitioner"), a subsidiary of Duke Energy Corporation, a Delaware corporation ("Duke
+Energy"), hereby petitions for exemption in order to operate certain small unmanned aircraft
+systems ("sUAS") I as described in this petition. Duke Energy desires to operate sUAS in
+connection with the construction, operation, repair and maintenance of utility infrastructure,
+including monitoring, inspections, and damage assessments of transmission and distribution
+lines, vegetation, coal ash ponds, boilers, stacks, absorbers, and solar arrays, all of which are
+presently conducted by manned aerial or ground-based methods. Duke Energy anticipates
+that the use of sUAS offers a means to conduct these operations in a safer, faster, and more
+cost effective manner.
+
+Consistent with the safety-conscious and deliberative ethos of Duke Energy and each of its
+affiliates and subsidiaries (collectively, "Duke"), Petitioner proposes to conduct all sUAS
+operations contemplated by this petition within the boundaries of Duke owned or controlled
+properties ("Duke Properties"). The sUAS operations also will be conducted by licensed and
+
+           1 For the purposes of this petition, "sUAS" shall be used to specifically refer to "small unmanned
+aircraft systems," and "UAS" shall be used to refer to the broader category of "unmanned aircraft systems,"
+which includes but is not limited to sUAS.
+
+         ATLANTA AUSTIN BANGKOK BEIJING BRUSSELS CHARLOTTE DALLAS HOUSTON LONDON LOS ANGELES
+             McLEAN MIAMI NEW YORK NORFOLK RALEIGH RICHMOND SAN FRANCISCO TOKYO WASHINGTON
+                                                                                www.hunton.com
+HUNTON
+WHILI"S
+
+  U.S. Department of Transportation
+  March 20, 2015
+  Page 2
+
+  trained pilots and in strict accordance with comprehensive safety and security conditions, as
+  more fully described in this petition.
+
+  As described further below, the sUAS operations addressed by this petition qualify for
+  exemption under Section 333 of the FMRA, and the proposed limitations and conditions on
+  sUAS operations set forth herein will ensure a level of safety at least as great as that which
+  would result from compliance with the specific Federal Aviation Regulations from which
+  exemption is sought. Accordingly, granting this petition will further the objective of safely
+  integrating unmanned aircraft systems into the national airspace, as mandated by the FMRA.
+HUNTON    .
+WRILALMS
+
+U.S. Department of Transportation
+March 20, 2015
+Page 3
+
+Table of Contents
+I. Identity and Description of Petitioner and Petitioner Affiliates ..........................5
+
+   A. Name and Address of Petitioner .....................................................................5
+   B. Duke Energy Corporation and its Affiliates and Subsidiaries ........................5
+   C. Duke Energy Business Services, LLC ............................................................5
+II. Statutory and Regulatory Authority to Grant Petition for Exemption ................6
+   A. Section 333 of the FAA Modernization and Reform Act of 2012 ..................6
+   B. 49 U.S.C. §§ 40109 and 44701 .......................................................................6
+   C. 14 C.F.R. Part 11 .............................................................................................7
+III. Petitioner's Proposed Aircraft and Operations ...................................................7
+   A. The Unmanned Aircraft System .....................................................................8
+
+      1. sUAS Approved by the FAA ......................................................................8
+      2. Additional Operational and Design Details ................................................8
+      3. System Inspection and Maintenance Information .......................................8
+   B. Pilot-in-Command and Observer Duties and Qualifications ..........................8
+   C. Operations Parameters ....................................................................................9
+      1. Site Locations ..............................................................................................9
+      2. Flight Conditions .........................................................................................9
+IV. Section 333 Determination and Need for Relief from 14 CFR Part 21 ............10
+V. Requested Exemptions from Federal Aviation Regulations .............................10
+   A. 14 C.F.R. Part 47 (Aircraft Registration) and Part 49 (Recordation of
+
+                      Aircraft Title and Security Documents) ........................................................11
+   B. 14 C.F.R. Section 61.3 (d) (Requirement of Certificate for Flight
+
+                      Instruction) ....................................................................................................11
+   C. 14 C.F.R. Section 61.31 (d) (Aircraft category, class, and type ratings) ......11
+   D. 14 C.F.R. Section 61.113 (a) &(b); 14 C.F.R. Section 61.133 (a) (Private
+
+                      Pilot Restrictions on Compensation) .............................................................12
+   E. 14 C.F.R. Section 91.105 (Crewmembers at Stations; Seatbelts) .................12
+HUNTON
+WHIIAMS
+
+U.S. Department of Transportation
+March 20, 2015
+Page 4
+
+   F.       14 C.F.R. Section 91.119 (Minimum Safe Altitudes) ...................................13
+   G.       14 C.F.R. Section 91.121 (Altimeter Settings) .............................................14
+   H.       14 C.F.R. Section 91.151 (a) (Fuel Requirements) .......................................14
+   I.       14 C.F.R. Section 91.203 (a) &(b) (Display of Certificates) .......................14
+   J.       14 C.F.R. Section 91.103 (b)(2) (Preflight Action) ......................................15
+VI.      Public Interest ....................................................................................................15
+VII.     Privacy ...............................................................................................................16
+VIII.    Federal Register Notice .....................................................................................16
+IX.      Summary ...........................................................................................................17
+X.       Prayer for Relief ................................................................................................17
+HUNTON
+Wff,LIAMS
+
+  U.S. Department of Transportation
+  March 20, 2015
+  Page 5
+
+  I. Identity and Description of Petitioner and Petitioner Affiliates
+
+           A. Name and Address of Petitioner
+
+  The name and mailing address of the Petitioner are:
+
+            Duke Energy Business Services, LLC
+            Attention: Jacob Velky
+            550 South Tryon Street
+            DEC 15A
+            Charlotte, North Carolina 28202
+            Tel: (704) 382-2115
+
+  All communications in regard to this petition should be sent both to the Petitioner contact
+  named immediately above and to the undersigned, Petitioner's outside counsel, at the address
+  set forth in the letterhead of this petition.
+
+           B. Duke Energy Corporation and its Affiliates and Subsidiaries
+
+  Duke Energy Corporation, through its various affiliates and subsidiaries, is the owner and/or
+  operator of numerous properties and rights-of-way on which are located power generation,
+  transmission, distribution and/or related facilities. Collectively, the service area of the Duke
+  Energy Corporation family of companies covers 95,000 square miles and its regulated
+  business unit serves 7.3 million retail electric customers, representing a population of
+  approximately 23 million people in North Carolina, South Carolina, Indiana, Ohio, Kentucky
+  and Florida.
+
+           C. Duke Energy Business Services, LLC
+
+  Duke Energy Business Services, LLC is a management services company in the Duke Energy
+  Corporation family of companies and provides management services to all regulated utilities
+  of Duke Energy Corporation. In addition to providing such services as Insurance and
+  Information Technology to the Duke Energy Corporation regulated utilities, Duke Energy
+  Business Services, LLC is also home to the corporate aviation department.
+
+  The Duke Energy corporate aviation department has been in operation since 1953 with no
+  incidents or accidents. It currently operates nine aircraft with a staff of 37 people. The
+  aviation department is a member of the National Business Aircraft Association (NBAA) and
+WHURNILTAOINMS
+
+   U.S. Department of Transportation
+  March 20, 2015
+  Page 6
+
+  is International Standard - Business Aircraft Operations (IS-BAO) registered through the
+  International Business Aircraft Council (IBAC). As a part of this highly regarded industry
+   standard, the department has a robust Safety Management System (SMS) that identifies and
+  reduces flight risks. Any sUAS used for operations covered by this petition will undergo a
+  thorough evaluation and will become a fully functioning asset within the Duke Energy
+  aviation department.
+
+  H. Statutory and Regulatory Authority to Grant Petition for Exemption
+
+           A. Section 333 of the FAA Modernization and Reform Act of 2012
+
+  Section 333(a) of the FMRA provides that "the Secretary of Transportation shall determine if
+  certain unmanned aircraft systems may operate safely in the national airspace before
+  completion of the plan and rulemaking required by section 332 of this Act[,]" 2 As part of that
+  assessment, the Secretary is directed to determine "which types of unmanned aircraft systems,
+  if any, as a result of their size, weight, speed, operational capability, proximity to airports and
+  populated areas, and operation within visual line of sight do not create a hazard to users of the
+  national airspace system or the public or pose a threat to national security," as well as whether
+  an airworthiness certification is required for any such unmanned aircraft systems. 3 Finally, if
+  the Secretary determines that certain unmanned aircraft system may operate safely in the
+  national airspace, Section 333(c) further mandates that the Secretary "shall establish
+  requirements for the safe operation of such aircraft systems." 4 Accordingly, the Secretary is
+  required by law to make an initial determination about the potential for safe UAS operations
+  and if the Secretary's determination is in the affirmative, then the Secretary is further required
+  by law to establish the parameters for such safe UAS operations. As recognized by the FAA,
+  Section 333 thus provides the Secretary, acting through the FAA, "flexibility for authorizing
+  safe civil operations [of certain unmanned aircraft systems] in the NAS" on a case-by-case
+  basis. 5
+
+           B. 49 U.S.C. §§ 40109 and 44701
+
+  The FAA Administrator is authorized by several statutory provisions to issue exemptions in
+  appropriate circumstances from the regulations prescribed in otherwise carrying out the
+
+             2 FMRA § 333(a).
+             3 FMRA § 333(b),
+             4 FMRA § 333(c).
+             5 See FAA Home -- Unmanned Aircraft Systems -- Key Initiatives -- Section 333;
+  http://www.faa.gov/uas/legislative programs/section_333/ (last visited Dec. 8, 2014).
+i
+
+U.S. Department of Transportation
+March 20, 2015
+Page 7
+
+requirements of applicable aviation law. For example, Section 40109(b) provides that the
+
+"Administrator ... may grant an exemption from a regulation prescribed in carrying out
+
+sections 40103(b)(1) and (2), 40119, 44901, 44903, 44906, and 44935-44937 of this title
+
+when the Administrator decides the exemption is in the public interest." 6 Similarly,
+
+Section 44701(f) states that the Administrator "may grant an exemption from a requirement of
+
+a regulation prescribed under subsection (a)    or (b) of this section or  any of  isnetcetrieosnts."474702-
+44716 of this title if the Administrator finds  the exemption is in the    public
+
+   C. 14 C.F.R. Part 11
+
+Pursuant to existing FAA regulations, a party may seek relief from current regulations set
+forth in Title 14 of the Code of Federal Regulations by submitting a petition for exemption to
+the FAA. 8 The required contents of such a petition for exemption are set forth in 14 C.F.R.
+§ 11.81. Among other technical requirements, the petition must contain (i) the specific
+section(s) of 14 C.F.R. from which exemption is being sought, (ii) the extent of and reason
+why relief is sought, (iii) an explanation of how granting the exemption would benefit the
+public as a whole (i.e., why it is in the public interest), and (iv) an explanation of how an
+equivalent or greater level of safety will be achieved even with the grant of the exemption
+(i.e., how the exemption would not adversely affect safety). 9
+
+III. Petitioner's Proposed Aircraft and Operations
+
+All sUAS operations proposed under this petition will be conducted under the auspices of the
+Duke Energy aviation department in accordance with the Supplement to the Duke Energy
+Flight Operations Manual for Small Unmanned Aircraft (such Supplement, the "Duke sUAS
+FOM," and such Flight Operations Manual, the "Duke FOM"), 10 and the following specific
+terms, conditions and requirements.
+
+          6 49 U.S.C. § 40109(b) (emphasis added).
+          ' 49 U.S.C. § 44701(f) (emphasis added).
+          8 14 C.F.R. § 11.61.
+          9 14 C.F.R. § 11.81.
+           lo Confidential copies of these documents are being submitted in support of this petition as
+"Confidential Exhibit 1" and "Confidential Exhibit 2," respectively.
+~I
+
+   U.S. Department of Transportation
+   March 20, 2015
+  Page 8
+
+            A. The Unmanned Aircraft System
+
+                      1. sUAS Approved by the FAA
+
+  Petitioner seeks authorization in this petition to operate any sUAS that has been approved, or
+  is hereafter approved, for flight operations under an exemption granted by the FAA pursuant
+  to Section 333 of the FMRA (an "Approved sUAS"). Petitioner will cause the operation of
+  any Approved sUAS to be conducted in accordance with the restrictions, conditions, and
+  Craft-Specific FAR Exemptions (as defined below) set forth in the grant of exemption
+  authorizing the use of such Approved sUAS (such prior or subsequent exemption grant , an
+  "sUAS Approval"), unless there is a conflict between such restrictions, conditions, and
+  exemptions and this petition, in which case the restrictions, conditions, and exemptions of this
+  petition will prevail.
+
+                     2. Additional Operational and Design Details
+
+  Operational and design details for each Approved sUAS are as set forth in the owner's manual
+  and specification materials provided by the manufacturer of such Approved sUAS.
+
+                     3. System Inspection and Maintenance Information
+
+  Pre-flight, post-flight, and scheduled maintenance information is as set forth in the inspection
+  and maintenance materials provided from time to time by the manufacturer of such Approved
+  sUAS and/or such materials as provided to the FAA in connection with such sUAS Approval.
+
+            B. Pilot-in-Command and Observer Duties and Qualitications
+
+  The Pilot-in-Command (PIC) will hold (at a minimum) a private's pilot's license and a third
+  class medical certificate, and be responsible for pre and post flight inspections, logging of
+  flight data, the overall safety of the flight operation, and the operation of the sUAS in
+  accordance with the conditions of the exemption granted by the FAA pursuant to this petition.
+  The visual observer (VO) will remain within speaking distance of the PIC and visually
+  monitor the sUAS at all times.
+i· ;,,:
+
+ U.S. Department of Transportation
+ March 20, 2015
+ Page 9
+
+          C. Operations Parameters
+
+                   1. Site Locations
+
+ This petition covers all properties owned or controlled by Duke, including but not limited to
+ properties for which Duke owns utility easements, rights of way and/or maintains
+ encroachment agreements.
+
+                   2. Flight Conditions
+
+                            a) General Requirements
+
+Petitioner will obtain an Air Traffic Organization (ATO) issued Certificate of Waiver or
+Authorization (COA) in order to coordinate its efforts through Air Traffic Control (ATC). In
+addition, Petitioner will request a Notice to Airman (NOTAM) no more than 72 hours in
+advance, but not less than 48 hours prior to any operation, and flights will not be conducted
+within 5 nautical miles of an airport reference point as denoted on a current FAA-published
+aeronautical chart unless a letter of agreement has been obtained from the airport's
+management or it is concluded that such airport is no longer operational.
+
+                            b) Pre-Flight Routines
+
+Pre-flight inspections and procedures will be conducted in accordance with each Approved
+sUAS's operator's manual.
+
+                            c) Flight Operations and Limitations
+
+The selected aircraft will be flown within visual line of sight (VLOS) in visual metrological
+conditions (VMC) and Petitioner will not permit the aircraft to be operated less than 500 feet
+below or 2,000 feet horizontally from a cloud or when visibility is less than 3 statute miles
+from the PIC. In addition, the aircraft will not be flown over 400 feet above ground level
+(AGL) and Petitioner will comply with the OEM's policies, procedures and limitations listed
+in the relevant operator's manual. If the PIC encounters unpredicted obstacles or emergencies
+the flight will be aborted in accordance with the operator's manual and the aircraft will not be
+flown within 500 feet of nonparticipating persons, vessels, vehicles, or structures. Operations
+within 500 feet of unoccupied vessels, vehicles or structures will only be conducted if
+permission has been granted by the owner/controller.
+HUNTON
+WRIJAMS
+
+  U.S. Department of Transportation
+  March 20, 2015
+  Page 10
+
+                              d) Post-Flight Routines
+
+  Post-flight inspections and procedures will be conducted in accordance with the
+  manufacturer's operating manual.
+
+  IV. Section 333 Determination and Need for Relief from 14 CFR Part 21
+
+  Based on the design and capabilities of Approved sUAS, and the operational limitations
+  specified in this petition, the sUAS operations Petitioner proposes to conduct pursuant to this
+  petition will not pose a threat to users of the NAS, the general public, or to national security.
+  By definition, each Approved sUAS will be one for which the Secretary has determined,
+  pursuant to authority granted under Section 333, that a certification of air worthiness under 14
+  CFR Part 21, or any associated noise certification under 14 CFR Part 36, is not required.
+
+  V. Requested Exemptions from Federal Aviation Regulations
+
+  Petitioner requests an exemption from certain provisions of the Federal Aviation Regulations
+  set out at Title 14 of the Code of Federal Regulations ("FARs") for the operation of Approved
+  sUAS in connection with the construction, operation, repair and maintenance of utility
+  infrastructure, including, inspections of transmission and distribution lines, vegetation, coal
+  ash ponds, boilers, stacks, absorbers, and solar arrays, all of which are presently conducted by
+  manned aerial or ground-based methods. Petitioner hereby requests exemption from all
+  applicable FARs that are based on or necessitated by the design and physical characteristics
+  or the capabilities of a particular Approved sUAS (such FAR exemptions, collectively, the
+  "Craft-Specific FARs") to the same extent that the FAA has granted exemption from such
+  Craft-Specific FARs in any other Grant of Exemption under Section 333 with respect to such
+  particular Approved sUAS. These Craft-Specific FARs include: Parts 21(H) and 36, and
+  Sections 45.23; 91.9(c); 91.7(a); 91.9(b)(2); 91.109; 91.405(a) &(d); 91.407(a)(1);
+  91.409(a)(1) and (2); and 91.417(a) &(b); of Title 14, Code of Federal Regulations. The
+  rationale for the requested exemption from each applicable Craft-Specific FAR is
+  incorporated by reference from the Grant of Exemption and associated petition in which each
+  particular sUAS has been authorized for operation.
+
+  Petitioner hereby also requests exemption from each of the following FARs, which are
+  intended to include all such FARs that are not based on or necessitated by the design and
+  physical characteristics or the capabilities of a particular sUAS (the "Non-Craft-Specific
+  FARs"): All applicable provisions of Parts 47, and 49; and Sections; 61.3(d); 61.31(d);
+  61.113(a) &(b); 61.133(a); 91.105; 91.119; 91.121; 91.151(a); 91.203(a) &(b); and
+i -
+
+ U.S. Department of Transportation
+ March 20, 2015
+ Page 11
+
+ 91.103(b)(2) of Title 14, Code of Federal Regulations. Petitioner addresses each of the Non-
+ Craft-Specific FARs below and provides a basis for the exemption.
+
+          A. 14 C.F.R. Part 47 (Aircraft Registration) and Part 49 (Recordation of
+                   Aircraft Title and Security Documents)
+
+ 14 C.F.R. Part 47 sets forth various aircraft registration requirements regarding ownership and
+identification of the aircraft and Part 49 covers recordation of title and conveyances.
+
+Petitioner does not plan to acquire a particular sUAS until after approval for the operation has
+been obtained under this petition, but Petitioner will comply with all registration requirements
+prior to initiation of operations.
+
+         B. 14 C.F.R. Section 61.3 (d) (Requirement of Certificate for Flight
+                  Instruction)
+
+This regulation states that only those instructors with a flight instructor certificate from the
+FAA may qualify other pilots for solo flight. However, the additional skills required to obtain
+a flight instructor certificate for standard aircraft are generally not applicable to training
+unmanned pilots in the operation of sUAS. The training necessary to master the operation of
+an Approved sUAS need not be as extensive as the training for manned aircraft due to the
+automated features of such aircraft, the built-in failsafe devices, and the lack of a crew or
+heavy payload. Prospective sUAS pilots will already have sufficient aeronautical knowledge
+to operate the aircraft because of their private pilot's license and instructors will be well
+trained in the particular Approved sUAS. Therefore, an exemption to this regulation is
+appropriate because Petitioner's pilots will have a level of training with respect to such
+Approved sUAS that is equivalent to the training required by those who operate manned
+aircraft.
+
+         C. 14 C.F.R. Section 61.31 (d) (Aircraft category, class, and type ratings)
+
+This section requires the pilot in command of an aircraft to hold the appropriate rating for the
+aircraft to be flown or receive an endorsement for solo flight in the aircraft by an authorized
+instructor. Pilots are therefore limited to the types of aircraft for which they possess a license.
+However, sUAS are unique forms of aircraft and the FAA does not issue licenses specifically
+for these devices so this section would not apply to the proposed operations. Exempting
+Petitioner's operations from this section would not adversely impact safety because the pilots
+operating under this proposal would receive special training on the relevant Approved sUAS
+HUNTON
+WHILALMS
+
+  U.S. Department of Transportation
+  March 20, 2015
+  Page 12
+
+  and all flights would take place within Duke Properties. An exemption from this provision is
+  appropriate based on the foregoing information because an equivalent level of safety can be
+  achieved.
+
+           D. 14 C.F.R. Section 61.113 (a) &(b); 14 C.F.R. Section 61.133 (a) (Private
+                    Pilot Restrictions on Compensation)
+
+  These regulations prohibit private pilots from operating an aircraft for commercial purposes
+  except under certain limited circumstances. In order to pilot an aircraft for compensation the
+  operator must possess a commercial pilot certificate and meet the requirements set forth in
+  Section 61.133. The Petitioner seeks an exemption from these regulations so that an operator
+  with a private pilot's license can conduct operations with the Approved sUAS.
+
+  sUAS are a unique type of aircraft and the additional training required for a commercial pilot
+  certificate would not necessarily be relevant to the operation of such devices. The
+  commercial designation is applicable to manned aircraft, but the Approved sUAS do not carry
+  personnel or the property of a third party. A specialized training program conducted in
+  accordance with any manufacturer-recommended training guidelines would provide the
+  additional knowledge and experience required to safely pilot the Approved sUAS. In
+  addition, a visual observer will be present during all flight operations. Petitioner will assure
+  that the operator of the Approved sUAS will have completed sufficient training to ensure the
+  safe operation of the aircraft under the proposed conditions. Petitioner anticipates that such a
+  training program would involve: (a) at least 25 hours of total flight time as a UAS rotorcraft
+  pilot with at least 10 hours of multi-rotor time, (b) at least 5 hours of flight time with the
+  particular Approved sUAS, and (c) a currency requirement of 3 take-offs and landings in the
+  preceding 90 days. Completion of a specialized training program in operation of this sUAS
+  will ensure that an equivalent level of safety is obtained. Moreover, all flights will be pre-
+  planned and aided by the Approved sUAS autopilot features. The FAA has granted similar
+  exemptions to this regulation under Exemptions 11109, 11110, and 11062.
+
+           E. 14 C.F.R. Section 91.105 (Crewmembers at Stations; Seatbelts)
+
+  This regulation requires flight crewmembers to remain at their stations with fastened seatbelts
+  during takeoff and landing. In Exemption No. 11185 the FAA determined that relief from this
+  regulation was not necessary because it did not apply to sUAS operations where
+  crewmembers remained on the ground. The FAA reasoned that the intent of the regulation
+  was to ensure that crewmembers were at the station where their duties could be performed.
+  However, since the crewmembers in the previous Exemption were required to be at their
+U.S. Department of Transportation
+March 20, 2015
+Page 13
+
+assigned stations while operating the aircraft and the stations were not equipped with safety
+belts, the regulation did not apply.
+
+Similarly, the PIC and VO under this petition will remain at their stations during flight
+operations and the Approved sUAS will not have any crewmembers aboard the aircraft during
+any phase of the operation. The stations will not be equipped with safety belts or shoulder
+harnesses. Therefore, this regulation does not apply to the Petitioner's operations. Should
+this regulation be found to apply, an exemption is appropriate for the above mentioned
+reasons.
+
+         F. 14 C.F.R. Section 91.119 (Minimum Safe Altitudes)
+
+This regulation sets the minimum safe altitudes for aircraft operation. Generally, aircraft may
+not be operated lower than 500 feet above the ground, but over open water and sparsely
+populated areas it is permissible to fly below this threshold. Even so, aircraft are still not
+permitted to be operated within 500 feet of any person, vessel, vehicle, or structure.
+
+All of the Approved sUAS flights pursuant to this petition will be conducted under 400 feet
+AGL and within the boundaries of Duke Properties. In addition, Petitioner's personnel may
+be within 500 feet of the operations. Due to these circumstances, an exemption from the 500
+feet restriction is necessary.
+
+The Petitioner is able to achieve an equivalent level of safety because of the small size, light
+weight, lack of combustible fuels, and automated failsafe features of each Approved sUAS.
+In addition, all flights will be conducted within the boundaries of Duke Properties. The
+selected Approved sUAS will not be flown within 500 feet of any structures or vehicles unless
+permission has been obtained from the owner of such structures or vehicles. Similarly, each
+Approved sUAS will only be flown within 500 feet of personnel if they have consented to the
+operation and such proximity is operationally necessary. These operations will be safer than
+equivalent inspections carried out by significantly heavier manned aircraft powered by
+combustible fuels. The low altitude operations conducted by each Approved sUAS will also
+make it less likely to encounter other conventional aircraft. The FAA has granted similar
+exemptions to this regulation, especially in regard to structures and vehicles, under
+Exemptions 11109, 11110, 11111, and 11112.
+HUNTON
+WRILALMS
+
+  U.S. Department of Transportation
+  March 20, 2015
+  Page 14
+
+           G. 14 C.F.R. Section 91.121(Altimeter Settings)
+
+  This regulation requires the operator of an aircraft not equipped with a radio to maintain a
+  cruising altitude by referencing an altimeter that is set to the elevation of the departure airport
+  or an appropriate altimeter setting. An equivalent level of safety can be achieved by utilizing
+  an onboard GPS receiver to determine its current position and navigate accordingly. Prior to
+  flight, the operator will obtain an altitude initiation point and confirm its accuracy. The
+  Approved sUAS pilot can also use the constantly updated GPS information to determine the
+  aircraft's altitude and view this information on the handheld tablet. The FAA has granted a
+  similar exemption to this regulation under Exemption 11109.
+
+           H. 14 C.F.R. Section 91.151 (a) (Fuel Requirements)
+
+  This regulation requires that an aircraft carry enough fuel to reach the first point of its
+  intended landing and: (1) during the day have the ability to fly for at least 30 more minutes; or
+  (2) at night have the ability to fly for at least 45 more minutes. An exemption from this
+  regulation is necessary for aircraft that would not be able to maintain the required 30 minute
+  reserve flight time.
+
+  An equivalent level of safety can be achieved by limiting flights to 20°Io of remaining battery
+  power. This restriction, in conjunction with the Approved sUAS's battery sensors and
+  automatic landing features, provide a high degree of safety considering that the aircraft will
+  only be operated within the boundaries of Duke Properties. In addition, the small size and
+  weight of the Approved sUAS allows for a much safer emergency landing than traditional
+  aircraft should the power supply become depleted. The selected aircraft will be flown within
+  VLOS and the PIC will have up to date knowledge of the battery life of the Approved sUAS.
+  The FAA has granted similar exemptions in the past under Exemptions 2689F, 5745, 10673,
+  10808, 11109, 11110, and 11112.
+
+           I. 14 C.F.R. Section 91.203 (a) &(b) (Display of Certificates)
+
+  This regulation requires that civil aircraft display airworthiness and registration certificates at
+  the cabin or cockpit entrance. Based on the FAA Memorandum "Interpretation regarding
+  whether certain required documents may be kept at an UA's control station," dated August 8,
+  2014, the Petitioner is not required to seek relief from this regulation. However, if this
+  regulation is found to apply, Petitioner expects that it will not be possible to comply because
+  the Approved sUAS are unmanned aircraft and have no cockpit or cabin. Given the small
+  size, weight, and loadbearing capabilities of the Approved sUAS, it is not practical to display
+HUNTON
+WRILALMS
+
+  U.S. Department of Transportation
+  March 20, 2015
+  Page 15
+
+  these certificates in any other part of the aircraft. Such documents can be kept with the pilot
+  where they can be immediately accessed. An exemption, if required, is therefore appropriate
+  under these circumstances. The FAA has reached a similar result regarding this regulation
+  under Exemptions 11109, 11111, 11112, and 11114.
+
+           J. 14 C.F.R. Section 91.103 (b)(2) (Preflight Action)
+
+  This regulation requires the PIC to become familiar with certain information prior to
+  beginning a flight, including information relating to the aircraft performance and
+  environmental conditions. Several prior Exemptions have found that relief from this
+  regulation was not necessary because the petitioners could comply with the requirements by
+  reviewing weather data, checking battery life, and reviewing landings, takeoff distances, and
+  aircraft performance. Exemptions where the FAA found that relief from this regulation was
+  not necessary include 11153, 11109, 11150, and 11138.
+
+  Should the FAA find that this regulation applies, relief would be necessary since there is no
+  approved flight manual for the Approved sUAS. An equivalent level of safety can be
+  achieved because prior to every flight the operator will perform a visual inspection of key
+  components, test all batteries, and keep a log of inspection and flight activities. In addition,
+  weather data and site specific conditions will be reviewed by the operator, a visual observer
+  will be present during all flight operations, and the aforementioned operational requirements
+  will remain in effect.
+
+  VI. Public Interest
+
+  Petitioner submits that the exemptions requested by this petition are in the public interest
+  because the sUAS operations contemplated by this petition will not pose a threat to users of
+  the NAS, the general public, or to national security, and have the potential to provide
+  significant benefits to the employees and customers of Petitioner. Specifically, these sUAS
+  operations will allow employees to inspect critical infrastructure without the dangers of
+  ascending towers or working near high voltage power lines. The public interest is furthered
+  by reducing the danger to the personnel who service utility lines and ensure the safe
+  transmission of electrical power to thousands of customers. In addition, current inspections
+  are often conducted with helicopters that could weigh thousands of pounds and carry many
+  gallons of combustible fuel. sUAS are nearly silent in flight and therefore are less likely to
+  disturb neighboring property owners. In the event of an sUAS crash, no combustible liquid
+  fuel would be onboard and the damage caused would be much less than for a manned aircraft
+  given the light weight and small size of the sUAS. Finally, sUAS operations provide a cost
+HUNTON
+yR,LIAMS
+
+  U.S. Department of Transportation
+  March 20, 2015
+  Page 16
+
+  effective method of inspecting the critical components of the nation's electrical infrastructure,
+  creating a savings that will be passed on to customers throughout the distribution area.
+
+  VII. Privacy
+
+  All flights will occur over Duke Properties. Any images taken will be of individuals who
+  have consented to be filmed or otherwise have agreed to be in the area where aerial
+  photography will take place. In addition, all flights will be monitored by the operator and a
+  visual observer to ensure that the sUAS does not deviate from the proposed flight plan.
+
+  VIII. Federal Register Notice
+
+  Pursuant to 14 CFR Part 11, Petitioner provides the following notice in the event that the
+  FAA determines publication is required:
+
+  Duke Energy Business Services, LLC, ("DEBS") a subsidiary of Duke Energy Corporation,
+  has filed a petition with the FAA seeking an exemption from the following rules in connection
+  with the operation of a small unmanned aircraft system (sUAS):
+
+  14 CFR Part 21 (H); 14 CFR Part 36; 14 CFR Section 45.23; 14 CFR Section 91.9 (c); 14
+  CFR Part 47; 14 CFR Part 49; 14 CFR Section 61.3 (d); 14 CFR Section 61.31 (d); 14 CFR
+  Section 61.113 (a) &(b); 14 CFR Section 61.133 (a); 14 CFR Section 91.7 (a); 14 CFR
+  Section 91.9 (b)(2); 14 CFR Section 91.109; 14 CFR Section 91.119; 14 CFR Section 91.121;
+  14 CFR Section 91.151 (a); 14 CFR Section 91.203 (a) &(b); 14 CFR Section 91.405 (a) &
+  (d); 14 CFR Section 91.407 (a)(1); 14 CFR Section 91.409 (a)(1) and (2); 14 CFR Section
+  91.417 (a) & (b).
+
+  Duke's proposed sUAS operations will take place within the boundaries of Duke owned or
+  controlled properties, under 400 feet above ground level, and for a period of time such that the
+  battery life of the aircraft will not fall below 20%. Duke proposes to operate sUAS in
+  connection with the construction, operation, repair and maintenance of utility infrastructure,
+  including, inspections of transmission and distribution lines, vegetation, coal ash ponds,
+  boilers, stacks, absorbers, and solar arrays. The use of sUAS in lieu of climbing operations or
+  traditional aircraft will enhance the safety of utility workers and reduce the risk to lives and
+  property. The proposed platforms are any of those heretofore or hereafter approved by the
+  FAA pursuant to a Grant of Exemption under Section 333 the FAA Modernization and
+  Reform Act of 2012. The conditions and safety standards set forth in the petition will achieve
+                      ·~~_.
+
+ I·
+
+U.S. Department of Transportation
+March 20, 2015
+Page 17
+
+a level of safety that is equivalent to, or higher than, the level of safety obtained by traditional
+aircraft under the above-mentioned regulations.
+
+IX. Summary
+
+Given the conditions and standards proposed above, and the proven track record of
+Petitioner's aviation department, Petitioner's proposed operations will not create a hazard to
+other aircraft in the NAS or present a threat to national security. The Approved sUAS are or
+will be those that have been evaluated and approved by the FAA under a Grant of Exemption.
+In order to achieve a level of safety equivalent to that of traditional aircraft, Petitioner has
+proposed conditions such as line of sight control, the presence of a visual observer, private
+property restrictions, reserve power levels, training programs, and notice to interested parties
+in the surrounding area. The requested exemptions are appropriate because sUAS provide
+many safety advantages over traditional aircraft and any additional risks posed by such
+systems have been sufficiently mitigated.
+
+X. Prayer for Relief
+
+Based on the foregoing information, Petitioner hereby requests an exemption from the above-
+listed regulations and such further relief that the FAA determines appropriate for the proposed
+operations.
+
+Respectfully submitted,
+
+    ~
+
+Michael E. Sievers
+
+Attachments
+cc: Clayton Morgan, Esq., Duke Energy
+
+         Mr. James Williams, FAA
+         Mr. Robert Pappas, FAA
+HUNTON
+yR,LIAMS
+
+  U.S. Department of Transportation
+  March 20, 2015
+  Page 18
+
+                                                Confidential Exhibit 1
+                                Submitted Confidentially Under Separate Cover
+
+                                       Supplement to the Duke Energy
+                       Flight Operations Manual for Small Unmanned Aircraft
+HUNTON
+WRILI"S
+
+  U.S. Department of Transportation
+  March 20, 2015
+  Page 19
+
+                                                Confidential Exhibit 2
+                                Submitted Confidentially Under Separate Cover
+
+                                       Duke Flight Operations Manual
+

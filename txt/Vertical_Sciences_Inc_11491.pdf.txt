@@ -1,0 +1,1177 @@
+May 5, 2015
+
+                                                           Exemption No. 11491
+                                                           Regulatory Docket No. FAA­2015­0286
+
+Mr. James Bianchin
+President
+Vertical Sciences, Inc.
+2308 Lake Redding Drive
+Redding, CA 96003
+
+Dear Mr. Bianchin:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter dated February 3, 2015, you petitioned the Federal Aviation Administration (FAA)
+on behalf of Vertical Sciences, Inc. (hereinafter petitioner or operator) for an exemption. The
+petitioner requested to operate an unmanned aircraft system (UAS) to conduct mapping,
+geotechnical, and survey applications.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner..]
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner are the DJI S-1000+ and DJI Phantom 2 Vision+.
+                                                                                                                 2
+
+The petitioner requested relief from 14 CFR part 21, Certification procedures for products
+and parts, Subpart H--Airworthiness Certificates. In accordance with the statutory criteria
+provided in Section 333 of Public Law 112-95 in reference to 49 U.S.C. § 44704, and in
+consideration of the size, weight, speed, and limited operating area associated with the
+aircraft and its operation, the Secretary of Transportation has determined that this aircraft
+meets the conditions of Section 333. Therefore, the FAA finds that the requested relief from
+14 CFR part 21, Certification procedures for products and parts, Subpart H--Airworthiness
+Certificates, and any associated noise certification and testing requirements of part 36, is
+not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection1. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+ They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+ The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+ A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, Vertical Sciences, Inc. is granted an exemption from
+14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a), 91.7(a), 91.119(c),
+91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a) and (b), to
+the extent necessary to allow the petitioner to operate a UAS to perform aerial data collection
+
+1 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                                                 3
+
+and/or closed set motion picture and filming. This exemption is subject to the conditions and
+limitations listed below.
+
+Conditions and Limitations
+
+In this grant of exemption, Vertical Sciences, Inc. is hereafter referred to as the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+    1. Operations authorized by this grant of exemption are limited to the DJI S-1000+ and
+         DJI Phantom 2 Vision+ when weighing less than 55 pounds including payload.
+         Proposed operations of any other aircraft will require a new petition or a petition to
+         amend this exemption.
+
+    2. Operations for the purpose of closed-set motion picture and television filming are
+         not permitted.
+
+    3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+         exemption holder may use either groundspeed or calibrated airspeed to determine
+         compliance with the 87 knot speed restriction. In no case will the UA be operated at
+         airspeeds greater than the maximum UA operating airspeed recommended by the
+         aircraft manufacturer.
+
+    4. The UA must be operated at an altitude of no more than 400 feet above ground level
+         (AGL). Altitude must be reported in feet AGL.
+
+    5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+         This requires the PIC to be able to use human vision unaided by any device other than
+         corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+         U.S. driver's license.
+
+    6. All operations must utilize a visual observer (VO). The UA must be operated within
+         the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+         to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+         capability. The VO and PIC must be able to communicate verbally at all times;
+         electronic messaging or texting is not permitted during flight operations. The PIC
+         must be designated before the flight and cannot transfer his or her designation for the
+         duration of the flight. The PIC must ensure that the VO can perform the duties
+         required of the VO.
+
+    7. This exemption and all documents needed to operate the UAS and conduct its
+         operations in accordance with the conditions and limitations stated in this grant of
+         exemption, are hereinafter referred to as the operating documents. The operating
+                                                                                                            4
+
+    documents must be accessible during UAS operations and made available to the
+    Administrator upon request. If a discrepancy exists between the conditions and
+    limitations in this exemption and the procedures outlined in the operating documents,
+    the conditions and limitations herein take precedence and must be followed.
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+                                                                                                            5
+
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+                                                                                       6
+
+exemption holder may apply for a new or amended COA if it intends to conduct
+operations that cannot be conducted under the terms of the attached COA.
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+    be as large as practicable.
+
+23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+    any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+    PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+    These documents must be made available to the Administrator or any law enforcement
+    official upon request.
+
+24. The UA must remain clear and give way to all manned aviation operations and
+    activities at all times.
+
+25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless:
+      a. Barriers or structures are present that sufficiently protect nonparticipating persons
+          from the UA and/or debris in the event of an accident. The operator must ensure
+          that nonparticipating persons remain under such protection. If a situation arises
+          where nonparticipating persons leave such protection and are within 500 feet of
+          the UA, flight operations must cease immediately in a manner ensuring the safety
+          of nonparticipating persons; and
+      b. The owner/controller of any vessels, vehicles or structures has granted permission
+          for operating closer to those objects and the PIC has made a safety assessment of
+          the risk of operating closer to those objects and determined that it does not
+          present an undue hazard.
+
+The PIC, VO, operator trainees or essential persons are not considered
+nonparticipating persons under this exemption.
+
+27. All operations shall be conducted over private or controlled-access property with
+    permission from the property owner/controller or authorized representative.
+    Permission from property owner/controller or authorized representative will be
+    obtained for each flight to be conducted.
+
+28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+    boundaries of the operational area as defined by the applicable COA must be reported
+    to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+                                                                                               7
+
+reported to the National Transportation Safety Board (NTSB) per instructions
+contained on the NTSB Web site: www.ntsb.gov.
+
+If this exemption permits operations for the purpose of closed-set motion picture and
+television filming and production, the following additional conditions and limitations apply.
+
+29. The operator must have a motion picture and television operations manual (MPTOM)
+    as documented in this grant of exemption.
+
+30. At least 3 days before aerial filming, the operator of the UAS affected by this
+    exemption must submit a written Plan of Activities to the local Flight Standards
+    District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+    notification may be waived with the concurrence of the FSDO. The plan of activities
+    must include at least the following:
+      a. Dates and times for all flights;
+      b. Name and phone number of the operator for the UAS aerial filming conducted
+          under this grant of exemption;
+      c. Name and phone number of the person responsible for the on-scene operation of
+          the UAS;
+      d. Make, model, and serial or N-Number of UAS to be used;
+      e. Name and certificate number of UAS PICs involved in the aerial filming;
+      f. A statement that the operator has obtained permission from property owners
+          and/or local officials to conduct the filming production event; the list of those
+          who gave permission must be made available to the inspector upon request;
+      g. Signature of exemption holder or representative; and
+      h. A description of the flight activity, including maps or diagrams of any area, city,
+          town, county, and/or state over which filming will be conducted and the altitudes
+          essential to accomplish the operation.
+
+31. Flight operations may be conducted closer than 500 feet from participating persons
+    consenting to be involved and necessary for the filming production, as specified in the
+    exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                   8
+
+This exemption terminates on May 31, 2017, unless sooner superseded or rescinded.
+
+Sincerely,
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+February 3, 2015
+
+U.S. Department of Transportation
+Docket Operations M-30
+West Building Ground Floor, Room w12-140
+1200 New Jersey Ave., SE
+Washington, DC 20590
+
+Re: Exemption Request Under Section 333 of the FAA Reform Act and Part 11 of the Federal
+Aviation Regulations
+
+Dear Madam, Sir,
+
+Pursuant to Section 333 ofthe FAA Modernization and Reform Act of2012 (the "Reform Act")
+and 14 C.F.R. Part 11, Vertical Sciences, Inc. ("VSI"), an operator ofthe DJI S-1000+ Unmanned
+Aircraft System ("S-1 000+") and a DJI Phantom 2 Vision+ ("Vision"), seeks an exemption from
+the Federal Aviation Regulations ("FARs") listed below:
+
+   · 14 C.F.R. 21
+   · 14 C.F.R. 45.23
+   · 14 C.F.R 45.29
+
+   · 14 C.F.R. 61.133(a)
+   · 14 C.F.R. 91.7(b)
+   · 14 C.F.R. 91.9(b)(2)
+   · 14 C.F.R. 91.109(a)
+
+   · 14 C.F.R. 91.119
+   · 14 C.F.R. 91.151(a)
+   · 14 C.F.R. 91.203(a) & (b)
+   · 14 CFR Subpart E (91.401- 91.417)
+
+VSI is comprised of licensed professional engineers, professional geologists, certified engineering
+geologists, private and commercial pilots, and software specialists trained in working in the civil
+and geotechnical engineering, surveying, environmental, and construction fields. Most of our
+professionals have over 30 years of experience and our pilots, over 5 years of experience that
+includes flying unmanned aircraft. The requested exemption would authorize commercial
+operations using the S-1 000+ and Vision for mapping, geotechnical, and survey applications.
+These operations will be subject to strict operating requirements defined in the S-1000+ Pilot
+Operating Handbook and Vision Pilot Operating Handbook and conditions defined by the Safety
+Code of the Academy of Model Aeronautics (see Annex B), in order to ensure at least an
+equivalent level of safety to currently authorized operations using manned aircrafts.
+
+The S-1000+ and Vision will be operated by an individual who fulfill the following requirements:
+
+    · Has successfully passed a manufacturer's training program for the S-1 000+ and Vision;
+    · Has a Private Pilot license;
+1. CHARACTERISTICS OF THE AIRCRAFT
+The S-1000+ is a small (41 inches between rotors) and ultra-light (maximum take-off weight of
+24 pounds) platform made of composite materials. The Vision is also a small (13.8 inches
+between rotors) and ultra-light (maximum take-off weight of 3.1 pounds) made of composite
+materials. Those aircraft perform pre-programmed precision aerial mapping missions thanks to
+on-board GPS and the related flight management software that allows the operator to plan safely
+and efficiently a mission in 3D, and then monitor it in real-time. With an attached camera, the S-
+1000+ takes a collection of high-definition still images that are used later to generate maps and
+contour lines of the surveyed area. The Vision takes high-definition video that is used later to
+generate maps, photographs, and contour lines of the surveyed area
+
+The four main characteristics of the S-1 000+ and Vision are:
+
+a. Very light weight
+
+The S-1 000+ and Vision are so light that the operator can launch them by hand and let them land
+on almost any surface without requiring a parachute or landing net. Its low impact energy in case
+of a controlled emergency landing, also significantly reduces the risk of hazardous situations.
+Finally, the rotor arms of the S-1 000+ are detachable and made of rounded composite materials
+with no sharp edges. The rotor arms of the Vision are rounded and made of plastic with no sharp
+edges.
+
+b. Electric-powered
+
+The S-1 000+ and Vision are electric powered. The four and eight motors, respectively, are very
+quiet and reliable.
+
+c. Semi-automatic flight
+
+The artificial intelligence incorporated within the S-1 000+ and Vision autopilot system
+continuously analyzes data from the Inertial Measurement Unit and from the onboard GPS and
+takes care of all the aspects of the flight under the supervision of the operator.
+
+d. Option for Manual control
+
+Additionally, the S-1 000+ and Vision provide an override capability that allows the operator to
+take manual actions during the flight (Go to Home, Go Land, Hold and Resume the mission) and
+also suspend automated operations and take manual control of the aircraft should it become
+necessary to respond emergent circumstances, thanks to the remote controller provided with the
+system.
+
+2. APPLICATIONS
+
+The aircraft will be utilized for gathering geologic, geotechnical, environmental, and survey data
+for mining, public works, and construction-related studies and projects. These areas are typically
+
+                                                                          2
+rural and will not include congested areas. Those data will be used for creating highly accurate
+maps and geo-rectified orthophotographs. In addition, the aircraft will allow gathering of
+geologic and geotechnical data in areas where previously, a geologist, engineer, or others would
+be required to repel down slopes or be situated at the base of rock and unstable slopes, thus
+reducing the danger to and increasing the safety for those professionals. Additionally, the use of
+the S-1 000+ and Vision will negate the need for conventional manned helicopters to perform
+work where repelling and access is not possible, thus, reducing risk to pilot and passenger of the
+helicopter, and personnel on the ground. The use of UAV will also reduce the need for
+conventional aircraft in gathering photogrammetric data, thus improving public safety.
+
+3. APPLICABLE LEGAL STANDARD UNDER SECTION 333
+
+a. Operating requirements
+
+Grant of the exemption to VSI for the S-1000+ and Vision will be subject to the following
+operating conditions, based on the operating conditions set forth by the Academy of Model
+Aeronautics (see Appendix B). The main restrictions are summarized below:
+
+    · Operations to be conducted over private or public controlled-access property where
+         approved;
+
+    · Permission from the land owner/authority required before commencing any flight;
+    · Operations over congested areas shall be avoided;
+    · Operations must not interfere with manned aircraft operations, must yield the right of way
+
+         to manned aircraft, and operators must See & Avoid other aircraft and obstacles at all
+         times. Use of an ADS-B receiver by the VO will assist in monitoring the presence of other
+         proximal aircraft;
+    · Operations limited to Visual Flight Rules Meteorological Conditions (VMC) and daylight
+         hours;
+    · Aircraft operations must remain within Visual Line of Sight (VLOS) and will be visually
+         monitored at all times;
+    · VLOS guaranteed with a GPS geo-fence around operator of0.5 miles;
+    · Flight ceiling pre-programed at 400 feet;
+    · All operations conducted within 5 miles from an airport shall only be initiated after verbal
+         coordination with the airport authority, or air traffic control when a control tower is
+         present at the airport;
+    · All operations shall comply with required permissions and permits established by
+         territorial, state, county or city jurisdictions; including local law enforcement, fire, or other
+         appropriate governmental agencies;
+    · The S-1 000+ and Vision operations will be compliant with existing safety procedures
+         inherent to the activities of the related company.
+
+b. Operator Requirements
+
+The S-1 000+ and Vision Pilot in Charge (PIC) will have a Private Pilot license. The PIC and
+Visual Observer (VO) will meet the requirements outlined in FAA Policy N 8900.227 Section 16
+Personnel Qualifications. Additionally, the PIC and VO will perform maintenance on the system
+and will complete a course of maintenance instruction as part of their initial training. Due to the
+
+                                                                          3
+simplicity of the system, we do not anticipate the need for a supplemental pilot in the field.
+3. CONCLUSION
+
+We submit that the combination of the aircrafts' light weight, historically demonstrated flight
+performance, fully qualified flight crew and strict operation under the guidelines established
+in 8900.227, the FAA can have confidence that the operation will have an equivalent or
+greater level of safety of manned aircraft performing the same mission.
+The name and contact information of the applicant are:
+Vertical Sciences, Inc.
+Attn: James Bianchin
+2308 Lake Redding Drive
+Redding, CA 96003
+Phone: 530-949-6241
+Email: jim.bianchin@gmail.com
+
+Respectfully Submitted,
+VERTICAL SCIENCES, INC.
+
+James A. Bianchin, PG, CEG
+President
+
+Appendices
+    A. Exemption Request and Equivalent Level of Safety
+    B. Academy of Model Aeronautics Safety Requirements
+     C. Privacy Issues
+    D. Safety Case
+    E. Maintenance Procedures
+    F. User Manual
+     G. Training Program
+    H. Aviation Experience
+
+                                                                      4
+APPENDIX A: EXEMPTION REQUEST AND EQUIVALENT LEVEL OF SAFETY
+SHOWINGS UNDER APPLICABLE RULES SUBJECT TO EXEMPTION
+
+VSI requests an exemption from the following regulations as well as any additional regulations
+that may technically apply to the operation of the S-1 000+ and Vision:
+
+14 C.F.R. Part 21, Subpart H: Airworthiness Certificates
+
+This part establishes the procedures for the issuance of an airworthiness certificate. While the
+FAA continues to work to develop airworthiness standards for UAS, we request an experimental
+certificate be issued for the S-1000+ and Vision under either or both of the following provisions:
+
+         21.191 Experimental certificates.
+         Experimental certificates are issued for the following purposes:
+
+                  (a) Research and development. Testing new aircraft design concepts, new
+                  aircraft equipment, new aircraft installations, new aircraft operating
+                  techniques, or new uses for aircraft.
+                  (b) Showing compliance with regulations. Conducting flight tests
+                  and other operations to show compliance with the airworthiness
+                  regulations including flights to show compliance for issuance of
+                  type and supplemental type certificates, flights to substantiate major
+                  design changes, and flights to show compliance with the function
+                  and reliability requirements of the regulations.
+
+Since the experimental certificate can be used for commercial purposes such as market
+surveys, sales demonstrations, and customer crew training, we would expect that an
+experimental certificate would permit our commercial purpose as well.
+
+The aircraft will not carry persons or property, will not carry fuel, and will only fly under strict
+operational requirements. Combined with the fact that the aircraft are lightweight, we propose
+that the S-1 000+ and Vision will be at least as safe, if not safer, than a conventionally
+certificated aircraft performing the same mission.
+
+If an experimental airworthiness certificate is not appropriate for this application, then we
+request an exemption of 14 CFR Part 21, Subpart H, and the requirement for an airworthiness
+certificate in general, citing the equivalent level of safety outlined in the previous paragraph.
+
+14 CFR 91.203(a) & (b) Civil aircraft: Certifications required.
+
+The regulation provides that an airworthiness certificate, with the registration number assigned
+to the aircraft and a registration certificate must be aboard the aircraft. Additionally,
+subparagraph (b) provides that the airworthiness certificate be "displayed at the cabin or cockpit
+entrance so that it is legible to passengers or crew." The S-1 000+ and Vision are too small to
+carry documentation, do not have an entrance, and are not capable of carrying passengers or
+crew.
+
+To obtain an equivalent level of safety and meet the intent of 91.203, we propose that
+documents deemed appropriate for these aircraft by the FAA will be co-located with the crew at
+the ground control station and available for inspection upon request. In order to identify the
+aircraft, we propose that the information found on airworthiness and registration certificates be
+permanently affixed to the aircraft via placard:
+
+                                                Manufacturer: DJI
+                                 Model: "S-1 000+" or "Phantom 2 Vision+"
+
+                                            Serial Number: 15-XXXX
+
+                                                   Registered to:
+                                             Vertical Solutions, Inc.
+
+                                                 123 Shasta Street
+                                               Anytown, CA 12345
+                                   If found please contact: (800)-222-1234.
+
+14 C.F.R. § 45.23 & 14 C.F.R. § 45.29: Display of marks; size of marks
+
+These regulations provide that each aircraft must display "N" and the aircraft's registration
+number in letters at least 3 inches high. Additionally, the aircraft must display the word
+"EXPERIMENTAL" in letters at least 2 inches high near the entrance to the cabin, cockpit, or
+pilot station.
+
+Given the size of the S-1 000+ and Vision (rotor to rotor distance of 41 and 13.8 inches,
+respectively), this requirement is impossible to match. We feel that the permanent placard
+discussed in the previous paragraph will provide the aircraft's registration information should it
+be found on the ground. We will also display at the ground station a high contrast flag or banner
+that contains the words "Unmanned Aircraft Ground Station" in letters 3 inches high or greater.
+Since the aircraft will operate within 1/2 NM of the ground station, the banner should be visible
+to anyone that observes the aircraft and chooses to investigate its point of origin.
+
+14 C.F.R. § 91.7(a): Civil aircraft airworthiness
+
+This regulation requires that no person may operate a civil aircraft unless it is in airworthy
+condition. Should the exemption be granted allowing commercial operation of the S-1 000+
+without an airworthiness certificate, no standard will exist for airworthiness ofthe S-1000+. An
+equivalent level of safety will be achieved by insuring compliance with the S-1 000+ Pilot
+Operating Handbook (flight manual) prior to each flight.
+
+14 C.F.R. § 91.9: Civil aircraft flight manual, marking, and placard requirements.
+
+This regulation provides that no person may operate an aircraft unless a current, approved flight
+manual is in the aircraft. VSI assumes that the intent of this requirement is to ensure that flight
+manual information is available to the aircrew while operating the aircraft. VSI requests an
+exemption to this requirement since the aircraft is not only too small to carry documentation, that
+the documentation would not be available to the crew.
+
+To obtain an equivalent level of safety and meet the intent of 91.9, we propose that a current,
+
+                                                                          ii
+approved Pilot Operating Handbook (Appendix F) must be available to the crew at the ground
+station anytime the aircraft is in, or preparing for, flight.
+
+14 C.F.R. § 91.109(a) & 91.319(a)(1): Flight Instruction
+
+The regulation provides that "No person may operate a civil aircraft that is being used for flight
+instruction unless that aircraft has fully functioning dual controls." The S-1 000+ and Vision
+ground control stations are based on a small hand-held computer and while they do not offer a
+second set of "controls", both the student and instructor can, and will, operate the single set of
+controls simultaneously. Both the S-1 000+ and Vision can be controlled from a ground station
+tablet or from the transmitter so, in essence, they have dual control capability and redundancy.
+With both student and instructor having "hands-on" the controls during flight, we feel that this
+technique meets the intent 91.109 and provides an equivalent level of safety.
+
+14 CFR § 91.119: Minimum Safe Altitudes
+
+The regulation provides that over sparsely populated areas the aircraft cannot be operated closer
+than 500 feet to any person, vessel, vehicle, or structure. Since the aircraft will be operating at a
+maximum of 400 feet AGL, the S-1 000+ cannot comply with this requirement.
+
+The equivalent level of safety will be achieved because the S-1 000+ and Vision will only fly over
+property with the permission of the landowner(s) or public agencies. The operator will define
+before every flight a working area radius and a flight area ceiling, preventing the S-1 000+ to go
+beyond the flight area.
+
+The landowner and the persons who may be on the ground in the flight area will be briefed of the
+expected route of flight and the associated risks to persons and property on the ground. Due to the
+small size of the S-1 000+ and the material with which the S-1 000+ is built, the hazard to persons,
+vessels, vehicles, and structures is not comparable to manned aircraft and should be considered in
+granting the exemption.
+
+Moreover, the aircraft will not be operated over congested areas nor over any open-air assembly
+of persons. The aircraft will be operated at an altitude allowing, if a power unit fails, an
+emergency landing without undue hazard to persons or property on the surface.
+
+14 CFR 91.121- Altimeter Settings
+
+This section requires that each person operating an aircraft shall maintain the cruising altitude or
+flight level of that aircraft, as the case may be, by reference to an altimeter that is set, when
+operating below 18,000 feet MSL to:
+
+    · The current reported altimeter setting of a station along the route and within 100 nautical
+         miles of the aircraft;
+
+    · If there is no station within the area prescribed in paragraph (a)(1 )(i) of this section, the
+         current reported altimeter setting of an appropriate available station;
+
+     · In the case of an aircraft not equipped with a radio, the elevation of the departure airport or
+         an appropriate altimeter setting available before departure.
+
+                                                                          iii
+To provide an equivalent level of safety, the S-1 000+ autopilot calculates the reference altitude
+(ground level) with the on-board GPS during the pre-flight tests. The GPS and barometer data are
+merged with respect to their respective precisions. The GPS provides reliable information to
+correct potential barometric bias, while rapid variations in altitude are detected through the
+barometer. Hence, barometric bias induced by environmental factors is rejected. The IOSD
+telemetry of the S-1 000+ provides the CIP and VO real time flight data via the GPS and also
+performs flight recording.
+
+14 C.F.R. § 91.151(a): Fuel Requirements for Flight in VFR Conditions
+
+The regulation provides that no person may begin a flight in an airplane under day-VFR
+conditions unless there is enough fuel to fly to the first point of intended landing and to fly after
+that for at least 30 minutes.
+
+Given the area of operation for the S-1 000+ and Vision, VSI believes that an equivalent level of
+safety is already achieved with the specific procedure preventing the S-1 000+ or Vision from
+accepting a take-off order if the battery level is below a given value. Moreover, VSI will monitor
+the battery levels of the S-1 000+ and Vision during flight and return the aircraft to home when
+battery levels reach 25 to 30 percent capacity (depending on distance from home). DJI has
+integrated battery level warnings into controllers operated for these aircraft.
+
+14 C.F.R. § 91.203 (a) & (b): Carrying Civil Aircraft Certification and Registration
+
+This regulation provides as follows:
+    · No person may operate a civil aircraft unless it has an appropriate and current
+         airworthiness certificate.
+    · No person may operate a civil aircraft unless the airworthiness certificate required by
+         paragraph (a) of this section or a special flight authorization issued under §91.715 is
+         displayed at the cabin or cockpit entrance so that it is legible to passengers or crew.
+
+The S-1000+ and Vision weigh only 24 and 3.5 pounds (max take-offweight), respectively. As
+such, there is no ability or place to carry certification and registration documents or to display
+them on the UAS. In addition, there is no pilot or passengers on board the aircraft.
+
+To obtain an equivalent level of safety and meet the intent of 91.203, VSI proposes that
+documents deemed appropriate for this aircraft by the FAA will be co-located with the operator at
+the ground control station in the S-1 000+ and Vision box and available for inspection upon
+request
+
+14 CFR Subpart E (91.401 - 91.417) -Maintenance, Preventive Maintenance, and
+Alterations
+
+The regulation provides that the operator is primarily responsible for maintaining the aircraft in an
+airworthy condition, including compliance with Parts 39 and 43. Paragraphs 91.407 and 91.409
+require that the aircraft be "approved for return to service by a person authorized under Part 43.7"
+after maintenance and inspection. Section 91.409(a)(2) requires an annual inspection for the
+issuance of an airworthiness certificate. Section 91.417(a) requires the owner or operator to keep
+records showing certain maintenance work that has been accomplished by certificated mechanics,
+
+                                                                          iv
+under Part 43, or licensed pilots and records of approval of the aircraft for return to service.
+VSI proposes that the maintenance of the S-1 000+ and Vision will be accomplished by the
+owner/operator according to the maintenance manual, provided by DJI. VSI requests the FAA
+treat the S-1000+ and Vision training programs as proprietary under 14 C.F.R. 11.35(b) and not
+include these documents in the public docket.
+An equivalent level of safety will be achieved because the S-1 000+ and Vision are small in size,
+they are not a complex mechanical device, and they will operate only in restricted predetermined
+areas. Moreover, the operator is the person most familiar with the aircraft and is best suited to
+maintain the aircraft in an airworthy condition and to ensure an equivalent level of safety.
+
+                                                                     v
+APPENDIX B: ACADEMY OF MODEL AERONAUTICS SAFETY REQUIREMENTS
+
+                                                                              v
+                   Academy of Model Aeronautics National Model Aircraft Safety Code
+
+                                                                                Effective January 1, 2014
+
+A. GENERAL: A model aircraft is a non-human-carrying aircraft capable of sustained flight in the atmosphere. It may not exceed limitations of this code and is
+       intended exclusively for sport, recreation, education and/or competition. All model flights must be conducted in accordance with this safety code and any
+       additional rules specific to the flying site.
+
+  1. Model aircraft will not be flown:
+         (a) In a careless or reckless manner.
+          {b) At a location where model aircraft activities are prohibited.
+
+  2. Model aircraft pilots will:
+          (a) Yield the right of way to all human-carrying aircraft.
+          (b) See and avoid all aircraft and a spotter must be used when appropriate. (AMA Document #540-D.)
+          (c) Not fly higher than approximately 400 feet above ground level within three (3) miles of an airport without notifying the airport operator.
+          (d) Not interfere with operations and traffic patterns at any airport, heliport or seaplane base except where there is a mixed use agreement.
+          (e) Not exceed a takeoff weight, including fuel, of 55 pounds unless in compliance with the AMA Large Model Airplane program. (AMA Document 520-A.)
+         (D Ensure the aircraft is identified with the name and address or AMA number of the owner on the inside or affixed to the outside of the model aircraft. {This
+              does not apply to model aircraft flown indoors.)
+         (g) Not operate aircraft with metal-blade propellers or with gaseous boosts except for helicopters operated under the provisions of AMA Document #555.
+         (h) Not operate model aircraft while under the influence of alcohol or while using any drug that could adversely affect the pilot's ability to safely control the
+              model.
+         (i) Not operate model aircraft carrying pyrotechnic devices that explode or burn, or any device which propels a projectile or drops any object that creates a
+              hazard to persons or property.
+              Exceptions:
+              · Free Flight fuses or devices that burn producing smoke and are securely attached to the model aircraft during flight.
+              · Rocket motors (using solid propellant) up to a G-series size may be used provided they remain attached to the model during flight. Model rockets may
+                   be flown in accordance with the National Model Rocketry Safety Code but may not be launched from model aircraft.
+              · Officially designated AMA Air Show Teams (AST) are authorized to use devices and practices as defined within the Team AMA Program Document.
+                   (AMA Document#718.)
+         U) Not operate a turbine-powered aircraft, unless in compliance with the AMA turbine regulations. (AMA Document #51 0-A.)
+
+  3. Model aircraft will not be flown in AMA sanctioned events, air shows or model demonstrations unless:
+          (a) The aircraft, control system and pilot skills have successfully demonstrated all maneuvers intended or anticipated prior to the specific event.
+          {b) An inexperienced pilot is assisted by an experienced pilot.
+
+  4. When and where required by rule, helmets must be properly worn and fastened. They must be OSHA, DOT, ANSI, SNELL or NOCSAE approved or comply
+         with comparable standards.
+
+B. RADIO CONTROL (RC)
+  1. All pilots shall avoid flying directly over unprotected people, vessels, vehicles or structures and shall avoid endangerment of life and property of others.
+  2. A successful radio equipment ground-range check in accordance with manufacturer's recommendations will be completed before the first flight of a new or
+         repaired model aircraft.
+  3. At all flying sites a safety line(s) must be established in front of which all flying takes place. (AMA Document #706.)
+          (a) Only personnel associated with flying the model aircraft are allowed at or in front of the safety line.
+          {b) At air shows or demonstrations, a straight safety line must be established.
+          (c) An area away from the safety line must be maintained for spectators.
+          (d) Intentional flying behind the safety line is prohibited.
+  4. RC model aircraft must use the radio-control frequencies currently allowed by the Federal Communications Commission (FCC). Only individuals properly
+          licensed by the FCC are authorized to operate equipment on Amateur Band frequencies.
+  5. RC model aircraft will not knowingly operate within three (3) miles of any pre-existing flying site without afrequency-management agreement. (AMA
+          Documents #922 and #923.)
+  6. With the exception of events flown under official AMA Competition Regulations, excluding takeoff and landing, no powered model may be flown outdoors
+          closer than 25 feet to any individual, except for the pilot and the pilot's helper(s) located at the flightline.
+  7. Under no circumstances may a pilot or other person touch an outdoor model aircraft in flight while it is still under power, except to divert it from striking an
+          individual.
+   8. RC night flying requires a lighting system providing the pilot with a clear view of the model's attitude and orientation at all times. Hand-held illumination
+          systems are inadequate for night flying operations.
+   9. The pilot of an RC model aircraft shall:
+          (a) Maintain control during the entire flight, maintaining visual contact without enhancement other than by corrective lenses prescribed for the pilot.
+          (b) Fly using the assistance of a camera or First-Person View (FPV) only in accordance with the procedures outlined in AMA Document #550.
+          (c) Fly using the assistance of autopilot or stabilization system only in accordance with the procedures outlined in AMA Document #560.
+
+C. FREE FLIGHT
+   1. Must be at least 100 feet downwind of spectators and automobile parking when the model aircraft is launched.
+   2. Launch area must be clear of all individuals except mechanics, officials, and other fliers.
+   3. An effective device will be used to extinguish any fuse on the model aircraft after the fuse has completed its function.
+
+D. CONTROL LINE
+   1. The complete control system (including the safety thong where applicable) must have an inspection and pull test prior to flying.
+   2. The pull test will be in accordance with the current Competition Regulations for the applicable model aircraft category.
+   3. Model aircraft not fitting a specific category shall use those pull-test requirements as indicated for Control Line Precision Aerobatics.
+   4. The flying area must be clear of all utility wires or poles and a model aircraft will not be flown closer than 50 feet to any above-ground electric utility lines.
+   5. The flying area must be clear of all nonessential participants and spectators before the engine is started.
+Academy of Model Aeronautics                    A '·i·f.~
+                                                       ACADEMY OF
+5161 East Memorial Drive Muncie, Indiana 47302  MODEL AERONAUTICS
+(800) 435-9262- Membership Services
+www.modelaircraft.org
+
+                  11SEE AND AVOID11 GUIDANCE
+
+A. General:
+
+1. The primary means to avoid collisions between all aircraft flying within our National Airspace System
+(NAS) is "See and Avoid."
+
+2. Vigilance must be maintained by each person operating an aircraft (whether model or manned) so as to
+"see and avoid" other aircraft.
+
+3. Model aircraft must avoid manned aircraft. Our privilege to fly model aircraft in the NAS depends on our
+commitment to remain "well clear" of manned aircraft.
+
+4. Simply avoiding an actual collision is not enough. A "near miss" is not acceptable.
+
+5. Unless flying at a mixed-use site where manned and model aircraft routinely share airspace through
+their own site-specific rules, model aircraft must fly sufficiently far away from manned aircraft so as not to
+create a collision hazard.
+
+6. Model aircraft flying must not only be safe, it must be perceived to be safe by the greater manned
+aviation community. Modelers must continually demonstrate their respect for the safety of manned
+aircraft by remaining vigilant and well clear.
+
+7. Whenever a potential conflict arises between model aircraft and manned aircraft, the pilot of the model
+aircraft must always give way to the manned aircraft.
+
+8. The pilot of a model aircraft must never assume the pilot of a manned aircraft can see the= model or will
+perform any maneuver to avoid the model's flight path.
+
+9. Visual Line of Sight is required by the Safety Code. It means that visual contact with the aircraft must be
+maintained without enhancement other than by corrective lenses prescribed for the model aircraft pilot.
+All RC flying must remain clear of clouds smoke or any other obstruction to the line of sight.
+
+10. "Blue Sky" is a term used to explain the method used to increase separation between a model and a
+manned aircraft in the same vicinity. The modeler should maneuver the aircraft in such a way as to
+increase the amount of blue sky perceived between the model and the manned aircraft. By increasing the
+blue sky separation, the question about depth perception is taken out of the equation and the modeler
+need not worry whether the model is closer to him than the manned aircraft or further away. Increasing
+the blue sky between the model and the manned aircraft automatically increases separation between
+them.
+
+Academy of Model Aeronautics 5161 East Memorial Drive Muncie, Indiana 47302
+
+         (800) 435-9262 I Membership Services I www.modelaircraft.org
+Academy of Model Aeronautics                    A~··A:
+                                                       ACADEMY OF
+5161 East Memorial Drive Muncie, Indiana 47302  MODEL AERONAUTICS
+(800) 435-9262 - Membership Services
+www.modelaircraft.org
+
+11. A modeler should never place any consideration for the well-being of the model aircraft above the
+safety of manned aircraft. Maneuvering to avoid the conflict may require that the model aircraft be
+sacrificed.
+
+12. Free flight models should not be launched with relatively low altitude manned
+aircraft in sight and downwind or headed downwind from the launch site.
+
+B. Spotters:
+
+1. Before a flight, the pilot must insure that the spotter understands his/her duties
+and expectations.
+
+2. A spotter should be used to assist in monitoring the surrounding airspace for manned aircraft whenever
+a flight is expected to exceed 400 feet above the ground and that operation is expected to be in proximity
+to known manned aircraft traffic such as at a mixed-use facility or within three miles of an airport. The
+spotter must have sufficient visual acuity and be mature enough to take this responsibility very seriously.
+
+3. A spotter should also be prepared to assist his/her pilot in the event that another model aircraft or
+spectators become endangered or in turn are perceived to be a danger to the pilot or the pilot's model
+aircraft.
+
+4. If a model aircraft pilot experiences what he or she considers a near miss with a manned aircraft, that
+model aircraft pilot should notify AMA Headquarters with a written report of the incident, including action
+taken by the model aircraft pilot to avoid the manned aircraft. This report is intended to help the modeler,
+the club, and the AMA capture as much detail as possible so that it may be used to assist all parties in
+recalling the particulars of the incident at a later time. Call1-800-435-9262 (1-800-IFLYAMA) extension 230
+or 251 for assistance with this report.
+
+Academy of Model Aeronautics 5161 East Memorial Drive Muncie, Indiana 47302
+
+         (800) 435-9262 I Membership Services I www.modelaircraft.org
+                                          AMA Document # 560
+
+Academy of Model Aeronautics
+
+AMA Advanced Flight Systems Committee
+
+              amaflightsystems@gmail.com
+
+       Radio Controlled Model Aircraft Operation
+Utilizing Failsafe, Stabilization and Autopilot Systems
+
+1. DEFINITION OF TERMS:
+
+         Please refer to Page 3, section 7 which contains an alphabetical listing of the definitions of the
+         terms in italics that are used in this document.
+
+2. GENERAL:
+
+        All model aircraft flights utilizing stabilization and autopilot control systems must be conducted
+        in accordance with AMA's current National Model Aircraft Safety Code and any additional rules
+        specific to a flying site/location.
+
+3. OPERATIONS- REQUIREMENTS- LIMITATIONS:
+
+        a) AMA members flying radio controlled model aircraft equipped with flight stabilization and
+
+             autopilot systems must maintain VLOS with the aircraft at all times including programmed
+             autopilot waypoint flight.
+
+         b) AMA Pilots must be able to instantaneously deactivate programmed flight of autopilot
+              systems at any time during flight and resume manual control of the model aircraft.
+
+        c) AMA Pilots must perform an RIC Test Flight of a model aircraft before activating a newly
+
+              installed autopilot or stabilization system and/or after any repairs or replacement of model
+              aircraft essential flight systems.
+
+        d) Model aircraft exceeding 151bs and/or ?Omph may only use an autopilot for a programmed
+
+             "return to launch" (RTL) flight and not for programmed waypoint flying of a predetermined
+             course.
+
+         e) STABILIZATION & AUTOPILOT SYSTEMS MAY BE USED FOR/TO:
+
+         · Stabilization/automatically stabilize aircraft to level flight when control sticks are centered.
+         · Recovery/activate TRX switch to recover an out of control aircraft to level flight.
+         · Heading/activate TRX switch to hold a model aircraft's heading for precision flight path.
+         · Altitude/activate TRX switch to maintain fixed aircraft altitude while allowing directional control.
+         · Return GPS/activate TRX switch to return aircraft via GPS to launch point.
+         · Return FSS/failsafe activated from radio signal loss to return aircraft via GPS to launch point.
+         · Fixed circle/activate TRX switch to circle aircraft at point of activation at fixed altitude.
+         · Waypointlactivate TRX switch to initiate an autopilot programmed flight path via waypoints.
+         · Fencing/autopilot programed to display site unique boundaries on video monitor/goggles.
+
+PAGE 1 OF 3                               (Revision 01/14/2013)
+4. RANGE -ALTITUDE -WEIGHT- SPEED:
+
+    a) One of the requirements in Federal Law (Public Law 112-95 Sec 336 (c) (2) February 14,
+         2012) for model aircraft to be excluded from FAA regulations is that model aircraft be
+         flown within VLOS of the operator.
+
+    b) Model aircraft must be flown at or below 400 feet AGL when within 3 miles of an airport as
+         stated in the AMA Safety Code.
+
+    c) Model aircraft utilizing an autopilot for waypoint flying are limited to a maximum weight
+         (including fuel, batteries, and onboard autopilot systems) of 151bs and a speed of
+         70mph.
+
+5. RECOMMENDATIONS & INFORMATION:
+
+    a) If your radio system lacks failsafe capability, consider using programmable digital servos or
+         auxiliary failsafe modules. In the event of a radio signal failure these components will
+         activate desired safe servo settings or an autopilot for return to base/launch (RTL).
+
+     b) When using an autopilot system the "return to launch" {RTL) feature should be
+         programmed to return the aircraft to a safe location and safely terminate the flight should
+         manual control of the aircraft be lost. When using RTL, pay particular attention to the
+         manufacturer's throttle recommendations to prevent stalling.
+
+    c) The use of stabilization systems is recommended when flying FPV to improve flight
+         stability and video quality.
+
+    d) Pilots usually choose to incorporate stabilization and autopilot systems for model aircraft
+         flying to enhance flight performance, correct bad tendencies of the model aircraft,
+         maintain stability in windy weather, establish precision heading holds for
+         takeoffs/landings, flight training for novice pilots, create a steady flight platform for
+         cameras, and generally just to make an airplane easier and safer to fly.
+
+    e) When purchasing stabilization and autopilot systems, always try to select quality equipment
+         from reputable dealers, ensure for compatibility with other onboard systems, and install
+         components according to manufacturers' instructions.
+
+6. PRIVACY PROTECTION SAFEGUARDS:
+
+         The use of imaging technology for aerial surveillance with radio control model aircraft
+         having the capability of obtaining high-resolution photographs and/or video, or using any
+         types of sensors, for the collection, retention, or dissemination of surveillance data or
+         information on individuals, homes, businesses, or property at locations where there is
+         a reasonable expectation of privacy is strictly prohibited by the AMA unless written
+         expressed permission is obtained from the individual property owners or managers.
+
+PAGE 2 OF 3  (Revision 01/14/2013)
+7. DEFINITIONS OF TERMS:
+
+    AMA Pilot is an AMA member who is capable of manually operating an R/C transmitter to
+    control a model aircraft's flight path within its safe intended flight envelope without losing
+    control or having a collision.
+
+    Autopilot Systems incorporate programmable flight stabilization with an altitude sensor and
+    a GPS receiver for accurate positioning and to navigate/control a radio controlled model
+    aircraft's flight path. Advanced systems offer software for entering navigable waypoints. The
+    flight data waypoints may be saved to autopilot's/GPS memory for programmed flight.
+
+     Essential Flight Systems are any systems or components necessary to maintain
+     stable flight within a model aircraft's flight envelope. (This includes primary RIC systems
+     and any stabilization or gyros required to maintain stability and heading in certain
+     types of model aircraft that would be uncontrollable/unstable without their use).
+
+    Failsafe Systems are designed to minimize or prevent damage and safely terminate a
+    flight when a radio controlled model aircraft loses radio signal. Modern radio systems can
+    be programmed to position servos to a desired control setting in the event of radio signal
+    failure.
+
+     First Person View (FPV) refers to the operation of a radio controlled (R/C) model aircraft
+     using an on board camera's cockpit view to orient and control the aircraft. (AMA Document
+     #550).
+
+     Flight Envelope is defined as the range of airspeeds, attitudes and flight maneuvers which
+     a model aircraft can safely perform/operate for its intended use.
+
+     Non-Essential Flight Systems are any systems or components that are not necessary to
+     maintain stable flight within the model aircraft's intended flight envelope. (This includes
+     autopilot or stabilization systems that can be activated and deactivated in flight by the pilot
+     without affecting manually controlled stable flight).
+
+     RIC Test Flight requires an AMA Pilot to manually operate an R/C transmitter to control
+     a model aircraft's flight path and determine if the aircraft is capable of maintaining stable
+     flight within its safe intended flight envelope.
+
+     Stabilization Systems are designed to maintain intended model aircraft flight attitudes.
+    The pilot can install, program and/or activate a system to stabilize yaw, pitch, or roll or any
+    one attitude or combination of attitudes. Systems are often based on rate/heading hold
+    gyros or inertial motion sensors utilizing multi-axis gyros and accelerometers for
+     attitude stabilization.
+
+    Visual Line of Sight (VLOS) is the distance at which the pilot is able to maintain visual
+     contact with the aircraft and determine its orientation and attitude without enhancements
+     other than corrective lenses.
+
+PAGE 3 OF 3  (Revision 07/20/2013)
+APPENDIX C: PRIVACY ISSUES
+The S-1 000+ and Vision are proposed to be flown over sterile, unpopulated to lightly populated
+areas. In addition, we propose to obtain landowner permission to fly over properties as part of our
+services and to notify and obtain waivers of consent from non-landowners over which we will be
+flying. Finally, most of our flights will be 300 to 400 feet above ground surface, making visual
+recognition of people on the ground difficult. Because of the sterile environment and the pre-
+notification of landowners and personnel on the ground, privacy compromises due to VSI
+activities are anticipated to be alleviated. Under no circumstances will VSI's aircraft be utilized
+to purposefully invade the privacy of peoples or properties in areas within our studies or outside
+of our study boundaries.
+
+                                                                                                        VI
+APPENDIX D: SAFETY CASE
+
+Safety of our flight crew, other aircraft, people on the ground, and public and private properties is
+of utmost importance to VSI. VSI's Pilot in Command (PIC) will be responsible for all safety
+procedures and protocols while on the ground. The Visual Observer (VO) will assist the PIC in
+maintaining safety procedures throughout the course of a project. Safety procedures to be utilized
+in the filed include the following:
+
+    · A full diagnostic check of the aircraft by the PIC and VO using a pre-flight checklist will
+         be performed on the ground prior to commencement of each project;
+
+    · High visibility (day-glow orange or green) will be worn by the flight crew during each
+         project. In addition, at the ground station, a high contrast flag or banner that contains the
+         words "Unmanned Aircraft Ground Station" will be placed prior to any flights;
+
+    · Operations to be conducted over private or public controlled-access property where
+         approved;
+
+    · Permission from the land owner/authority required before commencing any flight;
+
+    · Operations over congested areas shall be avoided;
+
+    · Operations will not interfere with manned aircraft operations, will yield the right of way to
+         manned aircraft, and operators must See & Avoid other aircraft and obstacles at all times.
+         Use of an ADS-B receiver by the VO will assist in monitoring the presence of other
+         proximal aircraft;
+
+    · Operations limited to Visual Flight Rules Meteorological Conditions (VMC) and daylight
+         hours
+
+    · Aircraft operations will remain within Visual Line of Sight (VLOS) and will be visually
+         monitored at all times;
+
+    · Use of a high-definition first-person view from the aircraft will assist the PIC and VO
+         identify potential flight conflicts and terminate or alter the pre-programmed flight plan;
+
+    · VLOS guaranteed with a GPS geo-fence around operator of 0.5 miles
+
+    · Flight ceiling pre-programed at 400 feet;
+
+    · All operations conducted within 5 miles from an airport shall only be initiated after verbal
+         coordination with the airport authority, or air traffic control when a control tower is
+         present at the airport;
+
+    · All operations will comply with required permissions and permits established by
+         territorial, state, county or city jurisdictions; including local law enforcement, fire, or other
+         appropriate governmental agencies;
+
+    · In areas where the aircraft will operate over sensitive structures or habitat, the use of a
+         deployable drop-safe parachute affixed to the aircraft will be utilized;
+
+    · Post-flight inspection of the aircraft will be performed by the PIC and VO utilizing a post-
+         flight checklist;
+
+    · The S-1 000+ and Vision operations will be compliant with existing safety procedures
+         inherent to the activities of the related company.
+
+                                                                                                       Vll
+APPENDIX E: MAINTENANCE PROCEDURES
+
+VSI's maintenance procedures for our rotor-powered aircraft are as follows:
+
+    · PROPELLER CARE
+         - Propellers must be checked each flight for nicks or cracks
+         - Propellers are designed to last indefinitely if they do not impact dust, dirt or more.
+
+    · BATTERY CARE AND USE
+    Refer to instruction sheet included from the battery manufacturer. Typical
+    information follows:
+
+         - Batteries are highly flammable and can explode, especially when fully charged.
+             Improper charging, vibration, impact, high discharge, etc. can lead to explosion and
+             fire. Batteries must be charged under constant supervision and using proper
+             precautions.
+             Batteries fully charged must be handled with extreme care.
+
+        - Any battery that puffs up is considered damaged and must not be used. It is in a
+             dangerous state. Never charge a puffed up battery.
+
+        - Any battery which holds less than 80% of its rated capacity should be discarded.
+             Cycle test each battery after every 50 cycles or if a battery is suspected to
+             have lost as significant amount of its capacity to determine the current
+             capacity.
+
+        - Properly dispose of batteries. First discharge the battery fully using a battery cycler.
+             Bring to a recycler such as a home improvement store.
+             Always charge flight batteries under "balance" mode.
+
+        - Flight Battery Recommended Charge Rate: 1C which takes approximately 1 hour to
+             charge
+
+        - Flight Battery Maximum Charge Rate: May exceed 5C. Charge rates higher than 1C
+             will decrease life cycles. Maximum charge rating per the manufacturer will provide
+             300+ cycles. Use the lowest charge rate which is practical.
+             Battery Rest Time between discharging and charging: 30 minutes
+             minimum, 1 hour maximum.
+
+        - Do not charge if the battery is more than 2°C warmer than ambient, especially if the
+             temperature is above 20°C. The outer surface is cooler than the inner core after use.
+             Damage will occur when charging a warm battery.
+
+        - Recommended Battery Discharge Amount: 80%. Using more of the capacity of
+             the battery will decrease the life cycles
+
+        - As battery temperature approaches freezing the capacity of Lithium Polymer
+             batteries decrease. Keep warmer than 5°C before installing into the UV
+             (unmanned vehicle).
+
+        - Battery capacity decreases at higher discharge rates. Using more batteries
+             decreases the discharge rate of each battery thereby extending individual
+             battery capacity slightly.
+
+        - Lower discharge rates improve the life cycles.
+        - Batteries are rated at greater than 300 life cycles. 1,000+ life cycles are possible.
+
+             Batteries must not be stored above 60% charged state for extended periods.
+             Batteries should be stored below 25°C for extended periods
+
+                                                                      viii
+         Store batteries between 40% - 60% charged state. Fully charge just before use.
+         Fully charged batteries which are not to be used within 24 hours should be discharged
+         to 40% - 60% charged state using the battery discharger.
+         Using more than one battery at a time requires the proper wiring harness so that the
+         voltage is no more than 25.2V. Over voltage will cause serious damage to electrical
+         equipment.
+· PREVENTATIVE MAINTENANCE
+         ANNUAL INSPECTION (SUGGESTED)
+         · If the airframe has in excess of 300 hours in a one year period, an annual
+
+              inspection must be completed by an approved technician.
+         · An approved technician should disassemble the AV and inspect all components
+
+              for wear and replace any components as required.
+         · Test all batteries for capacity.
+         · Upgrade firmware and software to latest revisions
+         500 HOUR PM (SUGGESTED)
+         · An approved technician should disassemble the AV and inspect all components
+
+              for wear and replace any components as required.
+         · Replace all 8 motors.
+         · Test all batteries for capacity.
+         · Upgrade firmware and software to latest revisions.
+
+                                                                                            IX
+APPENDIX F: USER MANUALS & HANDBOOK
+
+User manuals for the Dn S-1000+ and Vision are included in this appendix. The Pilot's
+
+Operating Handbook prepared for the S-1 000+ is also included within this appendix.
+
+                                                                                                          X
+

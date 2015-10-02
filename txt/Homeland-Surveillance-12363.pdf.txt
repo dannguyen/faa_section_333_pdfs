@@ -1,0 +1,1372 @@
+August 6, 2015
+
+                                                           Exemption No. 12363
+                                                           Regulatory Docket No. FAA­2015­1533
+
+Ms. Kelly Neubecker
+UASolutions Group, Inc.
+Counsel for Homeland Surveillance and Electronics, LLC
+2518 Auburn Drive
+Cocoa, FL 32926
+
+Dear Ms. Neubecker:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter dated April 24, 2015, you petitioned the Federal Aviation Administration (FAA) on
+behalf of Homeland Surveillance and Electronics, LLC (hereinafter petitioner or operator) for
+an exemption. The petitioner requested to operate an unmanned aircraft system (UAS) to
+conduct inspections, aerial mapping, surveying, product demonstration, and product training1.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+
+1 The petitioner requested authority to conduct UAS training. At this time, the FAA is unable to authorize UAS
+operations for training until a further assessment is completed. When the FAA completes its review, we will
+proceed accordingly and no further action will be required by the petitioner. However, the petitioner is permitted
+to train its own pilot in commands and visual observers in accordance with condition no. 14 and the other
+conditions and limitations in this exemption.
+                                                                                                                 2
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner are the Leptron Avenger and Leptron RDASS.
+
+In accordance with the statutory criteria provided in Section 333 of Public Law 112-95 in
+reference to 49 U.S.C. § 44704, and in consideration of the size, weight, speed, and limited
+operating area associated with the aircraft and its operation, the Secretary of Transportation
+has determined that this aircraft meets the conditions of Section 333. Therefore, the FAA
+finds that relief from 14 CFR part 21, Certification procedures for products and parts,
+Subpart H--Airworthiness Certificates, and any associated noise certification and testing
+requirements of part 36, is not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection2. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+ They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+ The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+ A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, Homeland Surveillance and Electronics, LLC is
+
+2 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                                                 3
+
+granted an exemption from 14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a),
+61.315(a), 91.7(a), 91.119(c), 91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and
+(2), and 91.417(a) and (b), to the extent necessary to allow the petitioner to operate a UAS to
+perform aerial data collection. This exemption is subject to the conditions and limitations
+listed below.
+
+Conditions and Limitations
+
+In this grant of exemption, Homeland Surveillance and Electronics, LLC is hereafter referred
+to as the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+    1. Operations authorized by this grant of exemption are limited to the Leptron Avenger
+         and Leptron RDASS when weighing less than 55 pounds including payload. Proposed
+         operations of any other aircraft will require a new petition or a petition to amend this
+         exemption.
+
+    2. Operations for the purpose of closed-set motion picture and television filming are
+         not permitted.
+
+    3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+         exemption holder may use either groundspeed or calibrated airspeed to determine
+         compliance with the 87 knot speed restriction. In no case will the UA be operated at
+         airspeeds greater than the maximum UA operating airspeed recommended by the
+         aircraft manufacturer.
+
+    4. The UA must be operated at an altitude of no more than 400 feet above ground level
+         (AGL). Altitude must be reported in feet AGL.
+
+    5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+         This requires the PIC to be able to use human vision unaided by any device other than
+         corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+         U.S. driver's license.
+
+    6. All operations must utilize a visual observer (VO). The UA must be operated within
+         the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+         to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+         capability. The VO and PIC must be able to communicate verbally at all times;
+         electronic messaging or texting is not permitted during flight operations. The PIC
+         must be designated before the flight and cannot transfer his or her designation for the
+         duration of the flight. The PIC must ensure that the VO can perform the duties
+         required of the VO.
+                                                                                                            4
+
+7. This exemption and all documents needed to operate the UAS and conduct its
+    operations in accordance with the conditions and limitations stated in this grant of
+    exemption, are hereinafter referred to as the operating documents. The operating
+    documents must be accessible during UAS operations and made available to the
+    Administrator upon request. If a discrepancy exists between the conditions and
+    limitations in this exemption and the procedures outlined in the operating documents,
+    the conditions and limitations herein take precedence and must be followed.
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+                                                                                                            5
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+                                                                                                            6
+
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+    exemption holder may apply for a new or amended COA if it intends to conduct
+    operations that cannot be conducted under the terms of the attached COA.
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+    be as large as practicable.
+
+23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+    any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+    PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+    These documents must be made available to the Administrator or any law enforcement
+    official upon request.
+
+24. The UA must remain clear and give way to all manned aviation operations and
+    activities at all times.
+
+25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless:
+      a. Barriers or structures are present that sufficiently protect nonparticipating persons
+          from the UA and/or debris in the event of an accident. The operator must ensure
+          that nonparticipating persons remain under such protection. If a situation arises
+          where nonparticipating persons leave such protection and are within 500 feet of
+          the UA, flight operations must cease immediately in a manner ensuring the safety
+          of nonparticipating persons; and
+      b. The owner/controller of any vessels, vehicles or structures has granted permission
+          for operating closer to those objects and the PIC has made a safety assessment of
+          the risk of operating closer to those objects and determined that it does not
+          present an undue hazard.
+
+    The PIC, VO, operator trainees or essential persons are not considered
+    nonparticipating persons under this exemption.
+
+27. All operations shall be conducted over private or controlled-access property with
+    permission from the property owner/controller or authorized representative.
+    Permission from property owner/controller or authorized representative will be
+    obtained for each flight to be conducted.
+                                                                                                                 7
+
+    28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+         boundaries of the operational area as defined by the applicable COA must be reported
+         to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+         reported to the National Transportation Safety Board (NTSB) per instructions
+         contained on the NTSB Web site: www.ntsb.gov.
+
+ If this exemption permits operations for the purpose of closed-set motion picture and
+ television filming and production, the following additional conditions and limitations apply.
+
+    29. The operator must have a motion picture and television operations manual (MPTOM)
+         as documented in this grant of exemption.
+
+    30. At least 3 days before aerial filming, the operator of the UAS affected by this
+         exemption must submit a written Plan of Activities to the local Flight Standards
+         District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+         notification may be waived with the concurrence of the FSDO. The plan of activities
+         must include at least the following:
+           a. Dates and times for all flights;
+           b. Name and phone number of the operator for the UAS aerial filming conducted
+              under this grant of exemption;
+           c. Name and phone number of the person responsible for the on-scene operation of
+              the UAS;
+           d. Make, model, and serial or N-Number of UAS to be used;
+           e. Name and certificate number of UAS PICs involved in the aerial filming;
+           f. A statement that the operator has obtained permission from property owners
+              and/or local officials to conduct the filming production event; the list of those
+              who gave permission must be made available to the inspector upon request;
+           g. Signature of exemption holder or representative; and
+           h. A description of the flight activity, including maps or diagrams of any area, city,
+              town, county, and/or state over which filming will be conducted and the altitudes
+              essential to accomplish the operation.
+
+    31. Flight operations may be conducted closer than 500 feet from participating persons
+         consenting to be involved and necessary for the filming production, as specified in the
+         exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                      8
+
+This exemption terminates on August 31, 2017, unless sooner superseded or rescinded.
+
+Sincerely,
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+                                UASolutions Group, Inc.
+                                2518 Auburn Drive, Cocoa FL 32926
+                                Tel: (321) 261-2547
+
+                                                                  Kellyneubecker@uasolutionsgroup.com
+
+April 24, 2015
+
+U.S. Department of Transportation, Docket Operations
+West Building Ground Floor, Room W12-140
+1200 New Jersey Avenue, SE
+Washington, DC 20590
+
+Re: Petition for an Exemption to Conduct Small Unmanned Aircraft Systems (sUAS)
+Operations Allowed by Section 333 of the Federal Aviation Administration Modernization
+and Reform Act of 2012, 49 U.S.C. § 44701(f), and 14 C.F.R. Part 11
+
+A. Summary
+
+On behalf of our clients, Homeland Surveillance & Electronics, LLC, and pursuant to
+
+Section 333 of the Federal Aviation Administration (FAA) Modernization and Reform Act of
+2012 ("FMRA"), Subsection (f) of 49 U.S.C. § 44701, and 14 C.F.R. Part 11, Homeland
+Surveillance & Electronics, LLC ("HSE-UAV"), (hereafter known as the "Petitioner"), an
+operator and distributor of Unmanned Aircraft Systems ("UAS"), seeks exemption from the
+following listed Code of Federal Regulations ("CFR") to allow commercial operation of the
+Leptron Avenger ("Avenger") within the National Airspace System (NAS) for controlled, low-
+
+risk, aerial mapping, surveying, product demonstration flights for potential customers, product
+
+training for potential customers, research and development, and structural inspections, conducted
+
+within and under the conditions outlined herein, or as may be established by the FAA, as
+
+required by Section 333 requirements.
+
+As described more fully below, the requested exemption would permit the operation of
+
+the Leptron Avenger sUAS by Petitioner under controlled conditions in predetermined airspace
+
+that is 1) Limited in scope 2) Controlled as to access by mission essential personnel only and
+
+3) Provides improved safety controls and efficiency to industries presently using conventional
+
+                                       1
+
+SPH-2134068-1
+aircraft. Approval of this exemption would thereby enhance safety and fulfill the Secretary of
+Transportation's (the FAA Administrator's) responsibilities to "...establish requirements for the
+safe operation of such aircraft systems in the national airspace system" as stated within Section
+333(c) of the FMRA. In making this determination, the Secretary is required to determine which
+types of sUAS do not create a hazard to users of the NAS or the public or pose a threat to
+national security in light of the aircraft's size, weight, speed and operational capability;
+Operation of the sUAS in close proximity to airports and population centers; Operation of a
+sUAS within visual line of sight of the operator.
+
+         Grant of the requested exemption is in the public interest based upon the concise
+direction expressed within section 333 of the reform act; the added authority granted by the Act,
+as amended; an equivalent level of safety regarding flight operations as expressed herein, and
+significant cost savings achieved by transitioning from traditional manned aerial resources to
+sUASs. The petitioner respectfully requests that the FAA grant the requested exemption without
+delay. Petitioner will operate the Leptron Avenger sUAS while keeping the documents required
+by the regulations at the ground control station and immediately accessible to the Pilot in
+Command (PIC) and by modification of the required markings (registration number) of the sUAS
+to be displayed on the fuselage of the unmanned aircraft.
+
+The name and address of the Petitioner is:
+
+Homeland Surveillance & Electronics, LLC.
+
+The primary contact for this petition, with a copy to me at the address above is:
+
+David Sanders
+546 Business Park Dr.
+Medford, OR 97504
+
+B. Regulations ­ Exemptions Requested
+
+         a. 14 C.F.R. 45.27(a),
+         b. 14 C.F.R. 61.113(a) and (b),
+         c. 14 C.F.R. 91.7(a),
+         d. 14 C.F.R. 91.105,
+         e. 14 C.F.R. 91.119(c)
+         f. 14 C.F.R. 91.121,
+         g. 14 C.F.R. 91.151(b),
+         h. 14 C.F.R. 91.405(a),
+         i. 14 C.F.R. 91.407(a)(1),
+
+                                                          2
+         j. 14 C.F.R. 91.409(a)(1) and (2), and
+         k. 14 C.F.R. 91.417(a) and (b).
+
+C. Corporate Background
+         HSE-UAV is a leader in "Made in America" remotely piloted UAS. HSE-UAV platforms
+
+include the most sophisticated features, are manufactured to be durable, and are the easiest to use
+systems on the market. Additionally, HSE-UAV strives for innovative power cell technology
+with improved power, performance, longevity and superior weight standards for UAS. HSE-
+UAV helicopters are designed for maximum flight time with minimum down time. The team of
+professionals stand ready to design the right UAS and platform to meet law enforcement and first
+responder needs, as well as complete training and a maintenance package to keep the UAS ready
+when the need arrives. HSE-UAV also has the operational infrastructure to provide aerial
+mapping, surveying, product demonstration flights, product training, research and development,
+and structural inspection for numerous customers in different geographical locations throughout
+the Unites States in a safe, convenient, and legal manner.
+
+         HSE-UAV's sUAS for the purposes of this petition is the Leptron Avenger. The
+Avenger has a maximum gross takeoff weight of approximately 35 pounds or less, depending
+upon payload, with a wingspan of 72.5 inches, a length of 83.93 inches, and a height of 21
+inches with standard gear. The Avenger is equipped with a single rotor driven by a lithium
+polymer battery powered 10,000 Watt electric main motor and a 2,200 watt tail motor. HSE-
+UAV will operate only within visual line of sight (VLOS) and during daylight hours in Visual
+Flight Rules (VFR) conditions. Additionally, HSE-UAV will operate only within the parameters
+defined in the blanket Certificate of Authorization (COA) issued by the FAA under the new
+interim policy. In the event any HSE-UAV operation exceeds the 200-foot limitation imposed
+by the policy, a separate COA specific to the airspace required for that operation will be obtained
+prior to flight operations. Such requirements will insure that the sUAS will "not create a hazard
+to users of the national airspace system or the "public" as stated in Section 333 of the FMRA.
+ D. Airworthiness
+
+         A critical element of consideration for grant of the petition is evidence of an equivalent
+ level of safety for airworthiness of the sUAS. The FAA has been authorized to exempt aircraft
+ from the requirement for an actual airworthiness certificate in accordance with the statutory
+ criteria provided in Section 333 of PL 112-95 in reference to 49 USC 44704, in consideration of
+
+                                                          3
+ the size, weight, speed, and limited operating area associated with the aircraft and its operation.
+ However, in accordance with FAA N 8900.291, Petitioner has an established inspection and
+ maintenance program for the continued airworthiness of the aircraft in accordance with the
+ manufacture's maintenance, overhaul, replacement, inspection, and life limit requirements for
+ the aircraft and aircraft components.
+ E. Leptron Avenger Summary
+
+                  1. LEPTRON AVENGER
+         Petitioner seeks an exemption to operate the Leptron Avenger for limited approved
+ commercial purposes within the NAS1. The Avenger is a sUAS that is comprised of an airborne
+ unmanned aircraft and a transportable ground station. The Avenger has a maximum gross
+ takeoff weight of approximately 35 pounds or less, depending upon payload, with a wingspan of
+ 72.5 inches, a length of 83.93 inches, and a height of 21 inches with standard gear. The
+ Avenger is equipped with a single rotor driven by a lithium polymer battery powered 10,000
+ Watt electric main motor and a 2,200 watt tail motor.
+
+1 Petitioner will submit additional Aircraft Registration Applications as required, upon the grant of the exemptions
+sought by this petition.
+
+                                                          4
+         2. Proven Operational History of the Leptron Avenger in the NAS.
+         The Leptron Avenger is acquiring substantial system maturity. It is currently operating
+safely within the NAS pursuant to approximately fourteen (14) COAs granted by the FAA to
+Arlington Texas Police Department, Central Michigan State University, Texas A&M University
+and New Mexico State University.
+         Petitioner proposes that requirements should take into account the characteristics of the
+particular sUAS. The Avenger is characterized by a high degree of pre-programmed control,
+various built-in technical capabilities that limit the potential for operation outside of the
+operating conditions as set forth below, and many built-in functional, safety and redundancy
+features to ensure a safe and reliable operation.
+         In support of these characteristics, and to provide the details for review by the FAA,
+Petitioner submits the following documents and manuals as attachments to this exemption
+request as a set of Confidential Documents under 14 CFR 11.35(b) as each document and manual
+contains proprietary information that the applicant has not and will not share with others. The
+documents and manuals contain specifications, operating conditions and procedures,
+maintenance procedures and a safety management program that are not available to the public
+and are protected from release under the Freedom of Information Act 5 USC 552 et.seq.
+         · Leptron Avenger B Flight Operation's Manual (FOM) and Center of Gravity
+
+                  Overview
+         · HSE- UAV Standard Operating Procedures (SOP) with checklists
+         · Leptron Avenger B Training Manual
+         · HSE-UAV Inspection and Maintenance Manual
+F. Regulatory Basis for Petition
+         Petitioner, pursuant to 14 C.F.R. §§ 11.61(b), 11.81, 2 and the FAA Modernization and
+Reform Act of 2012 ("FMRA"), Section 333, Special Rules for Certain Unmanned Aircraft
+Systems ("Section 333"), hereby respectfully petitions the Administrator for an exemption from
+the requirements of 14 C.F.R. §§, 45.27(a), 61.113(a) and (b), 91.7(a), 91.105, 91.119(c), 91.121,
+91.151 (b), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), 91.417(a) and (b).
+
+2 14 C.F.R. § 11.61(b) ("Using a petition for exemption, you may ask FAA to grant you relief from
+current regulations in 14 C.F.R."), 14 C.F.R. § 11.81 ("What information must I include in my
+petition for an exemption")?
+
+                                                          5
+         1. Section 333
+         Congress identifies Section 333 of the FMRA, as a pathway for "expedited operational
+authorization" of certain sUAS in the NAS. Section 333 (b)(1) ("expedited operational
+authorization.").3 Under Section 333 Congress mandates that the FAA "shall determine if certain
+unmanned aircraft systems may operate safely in the national airspace system before completion
+of the plan and rulemaking required by Section 332 of this Act or the guidance required by
+section 334 of this Act" (Section 333(a)) upon consideration of its "size, weight, speed, operational
+capability, proximity to airports and populated areas, and operation within visual line of sight."
+Section 333(b)(1). If the FAA makes such a determination, the FAA "shall [also] establish
+requirements for the safe operation." Section 333(c). The FAA further may find that the sUAS does
+not require "airworthiness certification under section 44704 of title 49, United States Code." Section
+333(b)(2).
+         2. 49 U.S.C. § 44701
+         The FAA is further authorized to grant exemptions from its safety regulations and
+minimum standards under 49 U.S.C. § 44701 ("Section 44701") "if the Administrator finds
+the exemption is in the public interest." Section 44701(f)4 (authorizing the grant of
+exemptions from safety regulations and minimum standards under Section 44701(a) and (b) and
+Sections 44702-44716).5
+         For the reasons addressed herein, this Petition qualifies for expedited approval of
+Petitioner's request for exemption under both Section 333 of the FMRA and 49 U.S.C § 44701.
+
+G. Leptron Avenger Statutory Criteria for Exemption under Section 333
+         Given its small size, light weight, slow speed, limited load capacity, superior
+
+operational capabilities, and that the operations will be conducted only during the day, under
+visual meteorological conditions ("VMC"), within VLOS of the PIC, with the assistance of a visual
+
+3 See also www.faa.gov/sUAS/legislative_programs/section_333/ (noting that Section 333 grants
+the FAA "the statutory flexibility to expedite requirements for the safe operation of certain aircraft
+systems in the NAS.").
+
+4 Under 49 U.S.C. § 44701(f), the "Administrator may grant an exemption from a requirement
+
+of a regulation prescribed under subsection (a) or (b) of this section or any of sections 44702-
+44716 of [Title 49] if the Administrator finds the exemption is in the public interest."
+
+5 See e.g. 49 USC §44711(a)(1) prohibiting operations without airworthiness certificate; (2)
+prohibiting serving as airman without airman's certificate; (5) prohibiting commercial operations in
+
+violation of regulations); 49 USC §44704 (issuance of airworthiness certificate); 14 C.F.R. §91.203
+
+(a)(1) (carry airworthiness certificate)).
+
+                                            6
+safety observer ("VO"), and confined within the boundaries of a consenting landowner's property
+and not in the proximity of airports or populated areas, the Leptron Avenger is the very category
+of sUAS that qualifies for expedited approval under Section 333.
+
+         1. Section 333(b)(1) Criteria
+                  a. Size
+
+          The Leptron Avenger measures approximately 19.75 inches in height and 58 inches
+ wide, with a wingspan of 72.5 inches.
+
+                  b. Weight
+          The Leptron Avenger has a maximum gross weight of 35 lbs.
+
+                  c. Speed
+          The Leptron Avenger has a maximum autopilot limited speed of approximately 12
+ Meters per second (M/S) (24 KTS). However, Petitioner typically operates the aircraft at below
+ 10 M/S (20 KTS).
+
+                  d. Operational Capability
+          The Leptron Avenger was specially designed for high or low altitude surveillance,
+ photography, and sensor management. Supported by electric batteries that are rechargeable, the
+ Avenger can fly from 20 ­ 60 minutes (*depending upon atmospheric conditions) and carry a
+ variety of cameras or sensors. Other Operational metrics of the Avenger are as follows:
+
+Unmanned Aircraft  The Leptron Avenger is a sUAS that is comprised of an unmanned
+       System      aircraft (UA) and a transportable ground station.
+
+     Serial No.    LEP 822
+
+Unmanned Aircraft  Rotor Diameter:
+    Dimensions     72.25 in.
+                   Length: 83.93 in.
+
+                   7
+      Engine        Engine (Propulsive Unit)
+(Propulsive Unit)
+                   The aircraft uses a 10,000 Watts electric main motor and a 2,200 watt
+                   tail motor.
+
+                   FAA Motor Type Certificate: None
+
+                   Electric-powered propulsion systems.
+
+                      a. Type of Motor - 395 KV Electric Main, 900 KV Electric tail
+                      b. Current draw range ­ Total System current draw cruise = 30
+
+                          Amps and Max total system current draw = 360 Amps
+                      c. All electrical demands are derived from the unmanned aircraft's
+
+                          battery system.
+                    Make: LEPTRON-AVGR
+
+                    Model: 1000
+
+Fuel Not Applicable.
+
+                             NOTE: The Leptron Avenger sUAS is powered by a lithium
+                             polymer rechargeable battery.
+
+Engine (Propulsive Unit) Engine (Propulsive Unit)
+
+Limits             The aircraft uses a 10,000 Watts electric main motor and a 2,200 watt
+
+                   tail motor.
+
+                   FAA Motor Type Certificate: None
+
+                   Electric-powered propulsion systems.
+
+                                              a. Type of Motor - 395 KV Electric Main, 900
+
+                                                  KV Electric tail
+                                              b. Current draw range ­ Total System current
+
+                                                  draw cruise = 30 Amps and Max total
+
+                                                  system current draw = 360 Amps
+
+                                              c. All electrical demands are derived from the
+                                                  unmanned aircraft's battery system.
+
+Propeller and      Make: LEPTRON-AVGR
+  Propeller        Model: 1000
+    Limits
+                   FAA Propeller Type Certificate: None
+                   Propeller Type: 2-blade, hinged (folding), carbon fiber reinforced
+                   plastic, fixed pitch, tractor
+
+Battery Command &  Diameter (Nominal): 17.25 in.
+        Control
+                   Thunder Power Air Vehicle Battery P/N Leptron 6S powers the
+                   motor, and battery command and control.
+
+                                8
+Airspeed Limits          Vne (Never Exceed Speed) 12 m/s
+
+                         Vno (Maximum Structural Cruising Speed) 48 knots (25 m/s)
+
+                         Va (Maneuvering Speed) 12 m/s knots (25 m/s)
+                         Landing Speed: VTOL ­ Vertical 1.5 M/s
+
+Empty Weight C.G.        3-3.5 inches for or aft of datum
+        Range
+
+Datum                    Center of main rotor shaft
+
+Mean Aerodynamic         NA
+   Chord (MAC)
+  Leveling Means         Not Applicable.
+                         14.52 KG (35 lbs)
+Maximum Weights          4.99 KG (11 lbs)
+  Empty Weight
+
+Frequencies                      NOTE: Empty Weight Excludes weight of battery and
+                                 payload modules.
+                         902-928 MHz (ISM Band)
+                         2.4 GHz (ISM Band)
+
+   Computer Software             NOTE: FCC license is not required to utilize the above
+                                 frequencies; uplink and downlink are on the 900Mhz band. If
+     Minimum Crew                video is utilized, uplink, downlink, and video are all on
+    Number of Seats              2.4 Ghz.
+                         Avionics embedded processor ­ UTC Aerospace Cloud Cap
+      Fuel Capacity      Technologies
+       Oil Capacity      (1) The Leptron [model] sUAS can be operated by a single operator
+Max. Operating Altitude  (0) Not Applicable
+     Control Surface     Not Applicable
+       Movements         Not Applicable
+                         1,000 ft. AGL (304 M)
+  Nominal Endurance
+                         MAIN ROTOR ­ VARIABLE PITCH                              +/-5
+  Ambient Outside Air    TAIL ROTOR ­ VARIABLE PITCH                              +12/-12°
+  Temperature (OAT)
+                         30 minutes above 32 °F (0 °C)
+    Wind Limitation
+       Maintenance       15 minutes below 32 °F (0 °C)
+
+                         Maximum OAT: 120 °F (49 °C)
+
+                         Minimum OAT At Altitude: 0°F
+
+                         40 MPH
+
+                         This Leptron Avenger must be maintained in accordance with the
+
+                         Leptron Inspection and Maintenance Manual, or later FAA
+
+                         accepted revision.
+
+2. Proximity to Airports/Population Centers or Areas
+
+         Flight operations pursuant to this Petition will be tightly controlled and restricted to
+low risk areas and in accordance with the blanket 200-foot COA requirements at an altitude of no
+
+                                             9
+more than 200 feet above ground level (AGL). In the event an HSE-UAV operation is required to
+exceed the 200-foot limitation imposed by the policy, a separate COA specific to the airspace
+required for that operation will be obtained prior to operations at an altitude of no more than 400
+feet AGL. All altitudes reported to ATC will be in AGL when required and any operations
+conducted within 5 nautical miles (NM) of the geographic center of a non-towered airport will
+obtain a Letter of Agreement with the appropriate airport management and made available to
+FAA upon request. In addition, access to any property will be limited to persons associated with
+and necessary to flight operations.
+
+         3. Visual Line-of-Sight
+          The minimum crew for each operation will consist of a PIC and VO. The VO will be
+ used as an additional mitigation to satisfy the VLOS requirement, but the PIC will always
+ maintain VLOS with the sUAS. The Leptron Avenger will at all times be flown by Petitioner
+ only in the daytime (not at night) under VMC, within VLOS of the PIC, with the further
+ assistance of the VO with whom the PIC will have the ability for direct and continuous two-
+ way verbal communications6 so as to ensure that the flight operations remain within the PIC's
+ VLOS and prescribed flight boundaries and de-conflict with objects in the air and on the
+ ground. Thus, pursuant to the FAA Order 8900.1 Volume 16, Chapter 1, Section 3, the
+ proposed operations will provide an approved method of control and collision avoidance to
+ satisfy the "see and avoid" requirement of 14 C.F.R. § 91.113:
+ Only qualified and current PIC's and VOs, as provided in the SOP will be used.
+
+         4. Other Factors
+
+                  a. Leptron Avenger Safety Systems
+
+         Including as noted above, the Avenger sSUAS is replete with MechaniSafety Operations
+Procedures to ensure safe operations and protect persons and property on the ground. In addition
+to having an experienced operator/PIC and VO, the Avenger sSUAS has a variety of integrated
+safety systems, including:
+
+          Redundant Communications: The Avenger has two (2) simultaneous
+             communications links that allow for backup and safe operations. This
+
+6 [PIC and VO are within speaking distance and all communications between PIC and VO will be
+without communications equipment]
+
+                                                          10
+             includes a 2.4 GHz wireless hand held radio and a 900 MGhz laptop ground
+             station link. Both links must be terminated to execute a `Lost
+             Communication' return home logic.
+
+          Flight Plan Altitude Constraints: The Avenger has the ability for the
+             operators to set Maximum and Minimum flight altitudes for a specific flight
+             `corridor' for safe operations.
+
+          Flight Safety Logic: The Avenger has the ability for the operators to set
+             safety return logic including: Exceeding a pre-set flight timer, Loss of GPS,
+             Loss of Communications, Max and Min Altitude, and Low Voltage. The
+             Avenger is also equipped with Geo-fencing logic, capable of restricting it
+             within pre-programmable flight boundaries. This may be accomplished by
+             setting permanent borders on the ground station or setting additional
+             temporary files after the flight has begun. Additional features include
+             fencing off buildings, trees, power lines, poles, etc.
+
+          Ground Station Warnings: The Avenger Ground Station has many visual
+             operator cues for error conditions such as low Relative Signal Strength
+             Indicator (RSSI) strength, low battery, low RPM, low system parameters,
+             and many other real time conditions. The system also offers color-coded
+             `Dashboard' lights for the operator.
+
+          Double Entry ­ The Avenger Ground Station has double entry response
+             window for all in-flight parameter changes. This allows the user to not send
+             incorrect information without two verification mouse clicks.
+
+                  b. Safety Management System
+         A Safety Management System ("SAFETY OPERATIONS PROCEDURES") will
+regulate Petitioner's operation of the Avenger and will significantly contribute to maintaining
+the level of safety contemplated by the airworthiness certificate requirements from which
+Petitioner now seeks relief.
+         Pursuant to the SAFETY OPERATIONS PROCEDURES and 14 C.F.R. § 43.13,
+entitled Performance Rules (general), each person performing maintenance, alteration, or
+preventive maintenance on the Avenger, motor, propeller, or appliance shall use the methods,
+
+                                                          11
+techniques, and practices prescribed in the current manufacturer's Inspection and Maintenance
+Manual or Instructions for Continued Airworthiness prepared by its manufacturer, or other
+methods, techniques, and practices acceptable to the Administrator. Each person shall use the
+tools, equipment, and test apparatus necessary to assure completion of the work in accordance
+with accepted industry practices.
+
+         Petitioner proposes that requirements should take into account the characteristics of this
+particular sUAS. The Leptron Avenger is characterized by a high degree of pre-programmed
+control, various built-in technical capabilities that limit the potential for operation outside of the
+operating conditions as set forth below, and many built-in functional, safety and redundancy
+features to ensure a safe and reliable operation. At a minimum: geo-fencing at a maximum
+ceiling of 200'or 400' AGL, flight programming capabilities, a flight termination link available to
+the operator to prevent a "fly away," and safe abort procedures. The Leptron Avenger will have
+markings identifying the serial number and identification (N-number) markings as large as
+practicable. Further, HSE-UAV operations will comply with all manufacturer Safety Bulletins.
+
+                  c. Flight Operation Limitations and Safety
+         To ensure consistent safety operations, Petitioner has developed a SOP Manual based
+upon procedures, notices and guidance the FAA has provided to obtain exemption under
+Section 333, (submitted on a proprietary and confidential basis to the FAA).
+        In seeking this exemption, Petitioner proposes to operate the Leptron Avenger pursuant to
+the following specific operating limitations:
+
+            1. The Leptron Avenger shall only be operated at or below 200 ft AGL, unless a
+                 separate COA specific to the airspace required for that operation is obtained prior to
+                 operations at an altitude of no more than 400 feet AGL.
+
+        2. The Leptron Avenger shall be operated within VLOS of the PIC and safety VO.
+        3. The Leptron Avenger shall be operated pursuant to Day Visual Flight Rules (VFR)
+
+                 in visual meteorological conditions (VMC). The Leptron Avenger shall be
+                 operated only during daylight hours (i.e. between the end of morning civil twilight
+                 and the beginning of evening civil twilight, as published in the American Air
+                 Almanac, converted to local time).
+       4. The radio frequencies used for operations and control of the UAS (2.4GHz) will
+                 comply with the Federal Communications Commission ("FCC") or other
+                 appropriate government oversight agency requirements.
+
+                                                          12
+5. The Leptron Avenger shall operate from on-site takeoff/landing locations directly
+         next to the PIC and co-located VO. The PIC and the VO shall be able to verbally
+         communicate during all operations.
+
+6. Operations shall be conducted by certificated airmen who possess either a
+         commercial, private, recreational, or sport pilot certificate.
+
+7. The PIC will be a FAA licensed airman and will hold a current airman medical
+         certificate or valid U.S. driver's license issued by a state, the District of Colombia,
+         Puerto Rico, a territory, a possession, or the Federal government. The PIC will also
+         meet the flight review requirements specified in 14 CFR § 61.56 in an aircraft in which
+         the PIC is rated on his or her pilot certificate.
+
+8. The PIC shall have successfully completed the training and qualification process as
+         specified in the Leptron Avenger Pilot Training Guide. PIC qualification flight hours and
+         currency will be logged in a manner consistent with 14 CFR § 61.51(b). Training
+         operations will only be conducted during dedicated training sessions.
+
+9. A minimum of three take-offs and three landings in the preceding 90 days will
+         be required by the PIC to maintain currency, such log of which shall be made
+         available to the Administrator upon request.
+
+10. The PIC and VO will have been trained in the operation of sUAS generally and
+         received up-to-date information on Leptron Avenger operations.
+
+11. All operations will utilize a VO. The UA will be operated within the VLOS of the
+         PIC and VO at all times. The VO may be used to satisfy the VLOS requirement as
+         long as the PIC always maintains VLOS capability. The VO and PIC will be able
+         to communicate verbally at all times; electronic messaging or texting is not
+         permitted during flight operations. The PIC will be designated before the flight and
+         cannot transfer his or her designation for the duration of the flight. The PIC will
+         ensure that the VO can perform the duties required of the VO.
+
+12. The UA will be operated within visual line of sight (VLOS) of the PIC at all
+         times. This requires the PIC to be able to use human vision unaided by any
+         device other than corrective lenses, as specified on the PIC's FAA-issued airman
+         medical certificate or U.S. driver's license.
+
+13. If a pilot certificate holder other than the PIC, who possesses the necessary PIC
+         qualifications, is also present during flight operations, that person can also be
+                                                  13
+         designated as PIC and will follow the procedures as defined within the SOP to
+         assume control.
+14. A briefing will be conducted in regard to the planned operations prior to each
+         flight as detailed within the SOP. It will be mandatory that all personnel who are
+         performing duties within the boundaries of the flight operations safety perimeter
+         be present for the briefing.
+15. Petitioner will obtain an Air Traffic Organization (ATO) issued COA prior to
+         conducting any actual flight operations. HSE-UAV will only operate within the
+         guidelines of the blanket 200-foot COA under the FAA's interim policy. For
+         flights above 200 feet AGL, HSE-UAV will operate in a confined geographic
+         area as defined by a separate ATO issued COA.
+16. At least three (3) days before scheduled operations, operator shall submit a written
+         Plan of Activities to the local Flight Standards District Office (FSDO) with
+         jurisdiction over the area of proposed operations, such submission of which may
+         be waived with the concurrence of the FSDO. If required by the FSDO to be
+         submitted, the Plan of Activities shall include: dates and times for all flights;
+         operator's and on-scene flight operator's name and phone number; sUAS make,
+         model and serial or N-number; PIC's name and certificate number; statement that
+         the operator has obtained permission from property owners and/or local officials to
+         conduct the operations (such list of those who gave permission to be made
+         available upon request); description of the planned flight activity, including, as
+         applicable, maps or diagrams of the area, city, town, county and/or state over
+         which the operation will be conducted, and the altitudes essential to accomplish
+         the operation; signature of the exemption holder or representative.
+17. Petitioner will file a NOTAM for each flight no more than 72 hours but no less
+         than 48 hours prior to each flight with the appropriate FSDO.
+18. Any operations that will be conducted within 5 nautical miles (NM) of the
+         geographic center of a non-towered airport will obtain a Letter of Agreement
+         with the appropriate airport management and made available to FAA upon
+         request.
+19. Prior to flight operations, Petitioner shall coordinate 1 hour ahead of the proposed
+         flight a communication with the nearest local Air Traffic Control facility
+
+                                                  14
+         indicating location, altitude and duration of the proposed flight.
+20. All required permissions and permits will be obtained from territorial, state,
+
+         county or city jurisdictions, including local law enforcement, fire, or other
+         appropriate governmental agencies at least 12 hours in advance of any flight
+         operation.
+21. The Leptron Avenger shall be marked with an identification (N-Number) in
+         accordance with 14 C.F.R. § 45.23, such markings to be as large as practicable
+         pursuant to 14 C.F.R. § 45.29(f), and identified by a serial number registered in
+         accordance with 14 C.F.R. Part 47.
+22. All flights will remain clear and yield the right of way to all other manned
+         operations and activities at all times, including, but not limited to: ultralight
+         vehicles, parachute activities, parasailing activities, hang gliders, etc.
+23. Flights will not be operated less than 500 feet below or less than 2,000 feet
+         horizontally from a cloud or when visibility is less than 3 statute miles from the
+         PIC.
+24. For the proposed flight operation, only one Leptron Avenger shall be airborne at
+         any given time.
+25. The Leptron Avenger shall only be operated at or below an airspeed of 24 knots.
+26. Prior to performing any flight operations, the PIC and VO shall have
+         successfully completed a qualifying process, as provided in the SOP.
+27. Any time the Leptron Avenger is operating, all documents required under 14
+         C.F.R. § 91.9 and § 91.203 shall be available to the PIC at the GCS. Such
+         documents shall be made available to the Administrator or any law enforcement
+         official upon request.
+28. The Leptron Avenger shall not be operated directly over any person, except
+         authorized and consenting personnel required for flight/imaging operations.
+29. The Leptron Avenger shall at all times be operated to ensure a safe distance away
+         from all participating and non-participating personnel, at least 500 feet away from
+         persons not involved in the flight operations (non-participating persons) unless:
+          Barriers or structures are present that sufficiently protect nonparticipating
+
+             persons from the UA and/or debris in the event of an accident. The operator
+             must ensure that nonparticipating persons remain under such protection. If a
+
+                                                  15
+             situation arises where nonparticipating persons leave such protection and are
+             within 500 feet of the UA, flight operations must cease immediately in a
+             manner ensuring the safety of nonparticipating persons.
+          The owner/controller of any vessels, vehicles or structures has granted
+             permission for operating closer to those objects and the PIC has made a
+             safety assessment of the risk of operating closer to those objects and
+             determined that it does not present an undue hazard.
+30. Prior to performing any flight operations, a pre-flight checklist will be used by a
+         qualified PIC as provided in the SOP. Documentation of such pre-flight check
+         shall be made in the aircraft records and such records shall be made available to
+         the Administrator upon request.
+31. The flight will be terminated at 20% battery power reserve or 12 minutes,
+         whichever occurs first.
+32. Prior to each flight, the PIC shall inspect the Leptron Avenger, including any
+         inoperable components, items or equipment, to ensure it is in an airworthy
+         condition for safe flight. If the inspection reveals a condition that affects flight
+         readiness or safe operations, the Leptron Avenger shall not be operated until the
+         necessary maintenance has been performed and it is found to be in a condition
+         for safe flight. Any discrepancies and all maintenance or alterations shall be
+         documented in the aircraft records, such records to be made available to the
+         Administrator upon request.
+33. Except as may be designated otherwise for Fail-Safe operations, the Leptron
+         Avenger shall take off and land at a location within the boundaries of the subject
+         property next to the PIC.
+34. Upon loss of communication or GPS signal, the Leptron Avenger shall return to
+         a predetermined location within the boundaries of the landowner's property and
+         land or be recovered in accordance with the Operator's Manual.
+35. In the event of an emergency or unanticipated obstacle to planned operations,
+         the operation shall be aborted and the Leptron Avenger, if airborne, shall return
+         to a predetermined location.
+36. The Leptron Avenger shall be maintained in accordance with the manufacturer's
+         recommended practices and in accordance with the HSE-UAV Maintenance
+
+                                                  16
+                 Manual, including any amendments or updates thereto. All amendments or
+                 updates shall be tracked and a record of such amendments or updates shall be
+                 maintained and made available to the Administrator upon request.
+        37. HSE-UAV will follow the manufacturer's aircraft/component, maintenance,
+                 overhaul, replacement, inspection and life limit requirements.
+        38. All operations shall be conducted over private or controlled-access property
+                 with permission from the property owner/controller or authorized representative.
+                 Permission from property owner/controller or authorized representative will be
+                 obtained for each flight to be conducted.
+        39. Any incident, accident or flight operation that transgresses the lateral or vertical
+                 boundaries of the operational area as defined by the applicable COA shall be
+                 reported to the FAA's UAS Integration Office within 24 hours. Accidents shall
+                 also be reported to the National Transportation Safety Board (NTSB). Further
+                 flight operations shall not be conducted until the incident, accident or
+                 transgression is reviewed by the UAS Integration Office and authorization to
+                 resume operations is provided.
+                  d. Privacy
+        Petitioner will comply with all federal, state, and/or local privacy regulations that may
+apply in the areas in which Petitioner will operate the LEPTRON AVENGER pursuant to this
+Petition. Further, Petitioner's policy is to avoid operations that might invade personal privacy
+in accordance with Petitioner's privacy policy available to the administrator upon request.
+                 e. Physical Security
+        In order to ensure its safe and proper use, Petitioner will be the only operator of the
+Leptron Avenger and the Leptron Avenger will at all times remain in Petitioner's custody.
+         5. .Lack of Threat to the NAS, Public, or National Security
+         For the reasons previously addressed, including meeting Section 333(b)(1) criteria,
+Petitioner's record of safety and the small size of the sUAS involved and the controlled sterile
+area within which they will operate, Petitioner falls squarely within that zone of safety (an
+equivalent level of safety) in which Congress envisioned that the FAA must, by exemption,
+allow commercial operations of sUASs to commence immediately. Petitioner will operate the
+Leptron Avenger in accordance with the aforementioned flight limitations without creating a
+hazard to other aircraft or persons or property on the ground. The fact that each PIC will be
+
+                                                          17
+required to be screened by the Department of Homeland Security, approval of the petition presents no
+threat to national security. Further, given its small size and limit load capacity, the Leptron
+Avenger sUAS is incapable of carrying any substantial external load, including explosive
+materials or flammable liquids.
+
+         For all of these reasons, Petitioner's proposed operations using the Leptron Avenger qualify
+for expedited approval of the sought exemption pursuant to Section 333 for the specified uses
+and under the proposed operating requirements and restrictions.
+H. Public Interest Benefits
+Granting Petitioner's request for exemption would benefit the public and have no adverse effect
+on safety for the following reasons.
+
+                  1. Public Interest Generally
+        The grant of the requested exemption is in the public interest based on the clear
+direction in Section 333 and 49 U.S.C. § 44701(f), the equivalent and enhanced level of
+safety of the proposed operations, the significant public benefit, and cost savings to be
+realized as a result of the use of sUAS for precision aerial imaging and survey services.
+Moreover, the FAA has granted similar exemptions for sUAS used to conduct high
+resolution aerial imaging, surveying, flight demonstration, and training operations.7 The
+Leptron Avenger is a battery powered sUAS that serves as a safer, more efficient, and
+economical alternative to larger and heavier manned aircraft carrying flammable liquid fuels,
+traditionally used for aerial imaging and surveying. This will provide for an added superior level
+of safety to persons and property in the air and on the ground than that provided by manned
+aircraft performing the same operations. No pilot or crew need be airborne and granting the
+exemption would also decrease the number of manned aircraft in the NAS and, as a result, reduce
+congestion as well as the environmental impact of such operations. Using the Leptron Avenger
+also provides the benefit of greater operational flexibility and reduced cost when compared to
+manned aircraft.
+
+                  a. Increased Aircrew Safety and Reduced Risk to Persons/Property On Ground
+         Because the Leptron Avenger is unmanned, the proposed operations eliminate the risk to
+
+7 HSE-UAV requests that the FAA not solicit public comment on its petition because it would not
+set any new precedent and because the relief requested is identical to exemptions granted
+previously. 14 C.F.R. § 11.87.
+
+                                                          18
+pilot and crew associated with flying such aerial-surveying missions in confined airspace at low
+altitude. Further, given its small size and weight and low airspeed, using the Leptron Avenger also
+reduces the risk of damage or injury to persons or property on the ground, and in the air, were there to
+be an unforeseen mishap.
+
+                  b. Reduced Environmental Impact
+         Using the Leptron Avenger sUAS instead of manned aircraft also benefits the public by
+eliminating or greatly reducing air and noise pollution associated with traditional aerial imaging
+operations. Because it is battery powered and uses electric motors, the Leptron Avenger sUAS
+consumes no fuel, generates no air pollution, and creates very little noise. As a result, the public is
+benefited as a result of reduced environmental impact, reduced operator and other human
+exposure, and greater fuel conservation, which serves additionally to support our Government's
+specific efforts to reduce the U.S.'s carbon footprint.8
+
+                  c. Fewer Manned Aircraft in the NAS and Reduced Need for ATC Handling
+         The HSE-UAV Leptron Avenger also does not require a runway or helipad to takeoff or
+land and will not be operated within the close proximity of any airports without prior FAA
+approval. As such, fewer aircraft will need to be handled by air traffic control during ground,
+takeoff, departure, arrival, and landing phases. Operations pursuant to this Petition will further
+reduce the number of manned aircraft flying or transiting at or above 500' AGL to and from the
+areas of imaging operations as well as congestion around airports due to aircraft arrival and
+departure.
+
+                  d. Superior Aerial Imagery and Increased Benefit to U.S. Economy
+         Better aerial footage can also be obtained using the small and nimble Leptron Avenger than
+can be obtained using manned aircraft or other ground-based methods. Due to its small size and
+superior flight performance characteristics, the Leptron Avenger allows for images to be taken from
+certain locations and angles and with better precision than using manned aircraft. As a result, less
+time is needed in the air to obtain the desired footage, which in addition to providing the benefit of
+fewer aircraft in the NAS and associated reduced risk to objects and persons and property in the air
+and on the ground, reduced noise, etc., allows for the production of surveys, which benefits
+consumers. This additionally ensures that companies such as HSE-UAV and its customers remain
+competitive and profitable, thereby providing their employees greater job stability, which
+
+8 Reducing the U.S.'s carbon footprint is a high priority and consistent with the U.S. Environmental
+Protection Agency's regulatory efforts to phase out the use of fossil fuels.
+
+                                                          19
+ultimately contributes further to the U.S. economy through increased consumer spending.
+                  e. Increased Operational Flexibility and Reduced Cost
+
+         Using the Leptron Avenger also provides the benefit of greater operational flexibility and
+reduced cost when compared to manned aircraft. Instead of each time having to hire a manned
+aircraft at thousands of dollars/hour, subject to the pilot's schedule and availability, Petitioner
+can operate the Leptron Avenger, which it has purchased and outfitted at lower combined cost,
+innumerable times and at the convenience of Petitioner's and its customer's schedules.
+
+         2. No Adverse Safety Effects
+         Granting this Petition will also not adversely affect aviation safety or pose any undue
+risks to the public. The operations pursuant to this Petition will be in accordance with
+Petitioner's internal SOP, including approved processes and checklists and in compliance with
+all applicable FAA safety policies and guidance. Accordingly, and as detailed herein,
+granting the requested exemption would not adversely affect safety. Indeed, as detailed below,
+operations pursuant to the limitations and guidelines addressed herein and the safety
+procedures, Petitioner will provide an equivalent level of safety to those regulations from
+which Petitioner seeks exemption. The FAA has also recently set precedence by granting
+exemptions with similar aerial imaging and surveying parameters in all material respects, to
+those presented herein. For these reasons HSE-UAV's operations pursuant to this Petition also
+qualify for an exemption.
+I. Exemptions Sought By Petitioner and Reasons for the Requested Relief
+         Pursuant to Section 333, Petitioner seeks an exemption from the requirements of 14
+C.F.R. §§ 45.27(a), 61.113(a) and (b), 91.7(a), 91.105, 91.119(c), 91.121, 91.151(b), 91.405(a),
+91.407(a)(1) and (2), 91.409(a)(1) and (2), 91.417(a) and (b).
+         1. Section 45.27(a). Location of marks; non fixed-wing aircraft.
+          Section 45.27, entitled Location of marks; nonfixed-wing aircraft, subsection (a) states
+ (emphasis added):
+          (a) Rotorcraft. Each operator of a rotorcraft must display on that rotorcraft
+          horizontally on both surfaces of the cabin, fuselage, boom, or tail the marks
+          required by § 45.23.
+         To the extent subsection 45.27(a) may be deemed to apply to the Leptron Avenger
+sUAS, Petitioner seeks an exemption from the subsection (i.e., that the marks be displayed on
+both surfaces of the cabin, fuselage, boom, or tail) because the Leptron Avenger sUAS is of
+
+                                                          20
+insufficient size to accommodate any such marking. Thus marking the Leptron Avenger sUAS
+as required by this subsection would not be possible.
+
+          An equivalent level of safety can be provided instead by marking the Leptron Avenger
+ sUAS, as may be applicable, with lettering as large as practicable (14 C.F.R. § 45.29(f)) on its
+ largest available surface so as to permit such marking to be displayed to pilot, crew, and
+ others both when the Leptron Avenger sUAS is on the ground and airborne.
+
+          2. Section 61.113(a) and (b). Private pilot privileges and limitations: Pilot in
+                  command.
+
+         Petitioner seeks an exemption from 14 C.F.R. 61.113(a) and (b). Section 61.113, entitled
+Private pilot privileges and limitations: Pilot in command, subsections (a) and (b) state
+(emphasis added):
+
+         (a) Except as provided in paragraphs (b) through (h) of this section, no person who
+         holds a private pilot certificate may act as pilot in command of an aircraft that is
+         carrying passengers or property for compensation or hire; nor may that person,
+         for compensation or hire, act as pilot in command of an aircraft.
+
+         (b) A private pilot may, for compensation or hire, act as pilot in command of an
+         aircraft in connection with any business or employment if:
+
+                  (1) The flight is only incidental to that business or employment; and
+                  (2) The aircraft does not carry passengers or property for compensation or
+                  hire.
+         In general, subsections 61.113 (a) and (b) prohibit a private pilot from conducting
+commercial operations. Petitioner seeks exemption from the subsections because the Leptron
+Avenger will not carry a pilot, passengers or property (other than a camera). As addressed, the
+Leptron Avenger is a very light, remotely controlled sUAS with no persons or property on board.
+The area of operations is generally remote or sparsely populated. Each flight is planned and
+fully coordinated in advance in accordance with those procedures provided in the SOP. Thus
+the risk associated with the proposed operations is so diminished from that associated with
+commercial operations contemplated by Part 61, that allowing a P I C having a private pilot
+certificate, a recreational certificate, or a sport pilot certificate, rather than a commercial
+certificate, met the minimum flight hour and qualification criteria, and operating according to
+the limitations and guidelines provided herein, provides a level of safety that exceeds that
+provided by a pilot having a commercial certificate operating a conventional aircraft as required
+
+                                                          21
+under the regulations.
+         T he FAA has already set precedence by previously granted exemptions in circumstances
+
+similar, in all material respects, to those presented herein.
+          3. Section 91.7(a). Civil Aircraft Airworthiness.
+
+         Either finding that Petitioner meets the Section 333 criteria or exemption from the
+airworthiness certification requirement under 14 C.F.R. Part 21 renders subsection 91.7(a)
+inapplicable.
+
+         Section 91.7, entitled Civil aircraft airworthiness, subsection (a) states (emphasis added):
+"No person may operate a civil aircraft unless it is in an airworthy condition." There is no FAA
+standard by which such a determination of airworthiness can be made. Nonetheless, given the
+limitations and procedures, as contained herein, the Safety Procedures contained within the the
+SOP, and the Maintenance Manual, for maintaining the aircraft and checking it before each
+flight to ensure that it is in peak operational condition, an equivalent level of safety will be
+provided.
+
+          4. Section 91.105. Flight crewmembers at stations.
+         Petitioner seeks an exemption from 14 C.F.R. 91.105. Section 91.105, entitled Flight
+crewmembers at stations, states (emphasis added):
+         (a) During takeoff and landing, and while en route, each required flight
+         crewmember shall--
+
+                  (1) Be at the crewmember station unless the absence is necessary to
+                  perform duties in connection with the operation of the aircraft or in
+                  connection with physiological needs; and
+                  (2) Keep the safety belt fastened while at the crewmember station.
+
+         (b) Each required flight crewmember of a U.S.-registered civil aircraft shall,
+         during takeoff and landing, keep his or her shoulder harness fastened while at his
+         or her assigned duty station. This paragraph does not apply if--
+
+                  (1) The seat at the crewmember's station is not equipped with a shoulder
+                  harness; or,
+                  (2) The crewmember would be unable to perform required duties with the
+                  shoulder harness fastened.
+
+         In general, Section 91.105 requires pilot and crew to be at their duty stations and
+                                                          22
+harnessed during flight. Petitioner seeks exemption from the Section 91.105 because the Leptron
+Avenger sUAS is by definition an unmanned aircraft, having neither pilot nor crew so as to be
+stationed or harnessed as required by the regulation. An equivalent or even higher level of safety
+can be provided instead by using an unmanned aircraft controlled by a PIC who at all times is
+located at and controls the Leptron Avenger from the GCS.
+
+         5. Section 91.119(c). Minimum safe altitudes.
+         Petitioner seeks an exemption from 14 C.F.R. 91.119(c). Section 91.119, entitled Minimum
+safe altitudes: General, subsection (d) states (emphasis added):
+         Except when necessary for takeoff or landing, no person may operate an aircraft
+         below the following altitudes:
+
+         (c) Over other than congested areas. An altitude of 500 feet above the surface,
+         except over open water or sparsely populated areas. In those cases, the aircraft
+         may not be operated closer than 500 feet to any person, vessel, vehicle, or
+         structure.
+
+         Section 91.119(c) establishes safe altitudes for operation of civil aircraft over other than
+congested areas. Petitioner seeks exemption from subsection 91.119(c) because, pursuant to this
+Petition, the Leptron Avenger sUAS will at times be operated at or below 200 or 400 feet AGL in
+accordance with the COA requirements.
+
+         An equivalent or even higher level of safety can be provided instead by, as provided
+herein, operating so as to de-conflict with manned vehicles operating above 500 feet AGL, within
+the VLOS of the PIC with the assistance of a VO so as to ensure the safety of and de-confliction
+with any persons or property in the air and on the ground, including participating and non-
+participating personnel, 100 feet and 500 feet, respectively, away from who the UA would
+generally be restricted. Further the Leptron Avenger sUAS flight operations will be monitored
+at all times by both the PIC and VO and will be in compliance with local public safety
+requirements, so as to prevent access to the restricted areas of operation.
+
+         The FAA has set precedence by previously granted exemptions in circumstances similar,
+in all material respects, to those presented herein.
+
+         6. Section 91.121. Altimeter settings.
+         Petitioner seeks an exemption from 14 C.F.R. 91.121. Section 91.121, entitled Altimeter
+settings, requires each person operating an aircraft to maintain cruising altitude by reference to
+
+                                                          23
+an altimeter that is set "...to the elevation of the departure airport or an appropriate altimeter
+setting available before departure." Petitioner seeks exemption from Section 91.121 because the
+Leptron Avenger sUAS does not use or have on board a typical barometric altimeter as
+contemplated by the regulation.
+
+         Note: An equivalent level of safety will be provided instead, by operating the sUAS at
+or below 400 feet AGL, within the VLOS of the PIC (with the assistance of a VO), with altitude
+information downlinked from the Leptron Avenger to the PIC to maintain altitude and ensure
+safety. Prior to each flight, a zero altitude/AGL will be established at the launch site, as
+confirmed for accuracy by the PIC.
+
+         7. Section 91.151(b). Fuel requirements for flight in VFR conditions.
+         Petitioner seeks an exemption from 14 C.F.R. 91.151(b). Section 91.151(b), entitled Fuel
+requirements for flight in VFR conditions, states (emphasis added):
+         (b) No person may begin a flight in a rotorcraft under VFR conditions unless
+         (considering wind and forecast weather conditions) there is enough fuel to fly to
+         the first point of intended landing and, assuming normal cruising speed, to fly
+         after that for at least 20 minutes.
+
+         The Leptron Avenger is an unmanned aircraft, and thus would not begin a flight with a
+person in it as the regulation contemplates. To the extent the regulation applies to the Leptron
+Avenger, the LEPTRON AVENGER has a maximum flight duration of 20-60 minutes,
+depending upon atmospheric conditions and type of camera or sensor.
+
+         An equivalent level of safety can be achieved by terminating the flight at 20% battery
+power reserve or 12 minutes whichever occurs first. Given that the Leptron Avenger will be
+operated within the VLOS of the PIC, within the confines of the particular landowner's property
+with prior written consent of the landowner and participating and non-participating personnel,
+this restriction would provide more than enough battery reserve to accommodate a safe return to
+the landing zone from anywhere in the operating area with no adverse effect on the safety of
+persons and property in the air or on the ground.
+
+         The FAA has set precedence by previously granted exemptions in circumstances similar,
+in all material respects, to those presented herein.
+
+8. Sections 91.405(a), 91.407(a)(1), 91.409(a)(2), 91.417(a) and (b). Maintenance
+
+inspections and recording.
+
+                            24
+Section 91.405(a), entitled Maintenance required, states:
+         Each owner or operator of an aircraft--
+         (a) Shall have that aircraft inspected as prescribed in subpart E of this part and
+         shall between required inspections, except as provided in paragraph (c) of this
+         section, have discrepancies repaired as prescribed in part 43 of this chapter;
+
+Section 91.407(a)(1), entitled Operation after maintenance, preventive maintenance, rebuilding,
+or alteration, states:
+
+         (a) No person may operate any aircraft that has undergone maintenance,
+         preventive maintenance, rebuilding, or alteration unless--
+
+                  (1) It has been approved for return to service by a person authorized under
+                  § 43.7 of this chapter;
+
+Section 91.409 (a)(2), entitled Inspections, states:
+         (a) Except as provided in paragraph (c) of this section, no person may operate an
+         aircraft unless, within the preceding 12 calendar months, it has had--
+                  (1) An annual inspection in accordance with part 43 of this chapter and
+                  has been approved for return to service by a person authorized by § 43.7
+                  of this chapter; or
+                  (2) An inspection for the issuance of an airworthiness certificate in
+                  accordance with part 21 of this chapter.
+
+         No inspection performed under paragraph (b) of this section may be substituted
+         for any inspection required by this paragraph unless it is performed by a person
+         authorized to perform annual inspections and is entered as an "annual" inspection
+         in the required maintenance records.
+
+Section 91.417(a) and (b), entitled Maintenance records, state:
+         (a) Except for work performed in accordance with §§ 91.411 and 91.413, each
+         registered owner or operator shall keep the following records for the periods
+         specified in paragraph (b) of this section:
+         (1) Records of the maintenance, preventive maintenance, and alteration and
+         records of the 100-hour, annual, progressive, and other required or approved
+         inspections, as appropriate, for each aircraft (including the airframe) and each
+         engine, propeller, rotor, and appliance of an aircraft. The records must include--
+                                                          25
+         (i) A description (or reference to data acceptable to the Administrator) of
+         the work performed; and
+         (ii) The date of completion of the work performed; and
+         (iii) The signature, and certificate number of the person approving the
+         aircraft for return to service.
+
+(2) Records containing the following information:
+         (i) The total time in service of the airframe, each engine, each propeller,
+         and each rotor.
+         (ii) The current status of life-limited parts of each airframe, engine,
+         propeller, rotor, and appliance.
+         (iii) The time since last overhaul of all items installed on the aircraft which
+         are required to be overhauled on a specified time basis.
+         (iv) The current inspection status of the aircraft, including the time since
+         the last inspection required by the inspection program under which the
+         aircraft and its appliances are maintained.
+         (v) The current status of applicable airworthiness directives (AD) and
+         safety directives including, for each, the method of compliance, the AD or
+         safety directive number and revision date. If the AD or safety directive
+         involves recurring action, the time and date when the next action is
+         required.
+         (vi) Copies of the forms prescribed by § 43.9(d) of this chapter for each
+         major alteration to the airframe and currently installed engines, rotors,
+         propellers, and appliances.
+
+(b) The owner or operator shall retain the following records for the periods
+prescribed:
+(1) The records specified in paragraph (a)(1) of this section shall be retained until
+the work is repeated or superseded by other work or for 1 year after the work is
+performed.
+(2) The records specified in paragraph (a)(2) of this section shall be retained and
+transferred with the aircraft at the time the aircraft is sold.
+
+                                                 26
+         (3) A list of defects furnished to a registered owner or operator under § 43.11 of
+         this chapter shall be retained until the defects are repaired and the aircraft is
+         approved for return to service.
+
+         In general, these regulations require that an airworthy certificated aircraft be inspected as
+prescribed in 14 C.F.R. Part 91, Subpart E (Maintenance, Preventive Maintenance, and
+Alterations), any discrepancies be repaired and the aircraft be approved for return to service as
+prescribed in Part 43 (Maintenance, Preventive Maintenance, Rebuilding, and Alterations) and
+that any work on the aircraft be recorded and such records maintained.
+
+         Petitioner seeks an exemption because, as addressed, the Leptron Avenger sUAS will
+operate pursuant to this Petition without airworthiness certification. An equivalent level of
+safety can be provided instead by requiring, as provided herein, that inspections and
+maintenance be accomplished according to the inspection, maintenance, and preflight sections
+of the Maintenance Manual and SOP, and IAW the manufacturer's guidance in the Leptron
+Avenger Operator's Manual. Among other things, the Leptron Avenger will be inspected prior
+to each flight to confirm that it is in good working order. Any maintenance or repairs will be
+perform and logged, and, upon any work being performed on the Leptron Avenger, it will be
+checked and approved for flight by personnel before being returned to service.
+
+         The FAA has set precedence by previously granted exemptions in circumstances similar,
+in all material respects, to those presented herein.
+
+         J. Conclusion
+         As set forth in the document above, the following summary is provided for publication
+in the Federal Register. Petitioner seeks an exemption pursuant to Section 333 of the FAA
+Modernization and Reform Act of 2012, 49 U.S.C. § 44701(f), and 14 C.F.R. Part 11 to permit
+safe operation of the Leptron Avenger sUAS commercially, for controlled, low-risk, aerial
+mapping, surveying, product demonstration flights for potential customers, product training for
+potential customers, research and development, and pipeline inspection. By granting this
+Petition, the FAA Administrator will be fulfilling the Congressional mandate of Section 333 of
+the FAA Modernization and Reform Act of 2012 to expedite approval of operations of certain
+sUAS in the NAS, while also advancing the interests of the public.
+         WHEREFORE, in accordance with the Title 49 of the United States Code, the Code of
+Federal Regulations, and the FAA Modernization and Reform Act of 2012, Section 333,
+Petitioner respectfully requests that the Administrator grant this Petition for an exemption from
+
+                                                          27
+the requirements of 14 C.F.R. §§ 45.27(a), 61.113(a) and (b), 91.7(a), 91.105, 91.119(c),
+91.121, 91.151(b), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (b), and 91.417(a) and (b).
+
+         cc: David Sanders, Homeland Surveillance & Electronics, LLC
+
+                                                          28
+

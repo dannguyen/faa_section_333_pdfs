@@ -1,0 +1,204 @@
+August 18, 2015
+
+                                                      Exemption No. 11432A
+                                                      Regulatory Docket No. FAA-2015-0179
+
+Mr. Hayden Howard
+Vice President
+Compass Data, Inc.
+12353 East Easter Avenue
+Centennial, CO 80112
+
+Dear Mr. Howard:
+
+This letter is to inform you that we have granted your petition for an amendment. It explains
+the basis for our decision, describes its effect, and lists any changes to the original conditions
+and limitations.
+
+By letter dated May 23, 2015 you petitioned the Federal Aviation Administration (FAA) on
+behalf of Compass Data, Inc. (hereinafter petitioner or operator) for an amendment to your
+current exemption. That exemption from §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a),
+61.315(a), 91.7(a), 91.119(c), 91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and
+(2), and 91.417(a) and (b) of Title 14, Code of Federal Regulations (14 CFR) allows the
+petitioner to operate a UAS to perform aerial data collection. You requested an amendment
+to add the Swift Radioplane Lynx M, DJI Phantom 2 Vision+, DJI Phantom 3, DJI Inspire 1,
+and DJI S1000 aircraft to your exemption.
+
+In your petition, you indicate that there has been no change in the conditions and reasons
+relative to public interest and safety that were the basis for granting the original exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested amendment to the exemption would not set a
+precedent, and any delay in acting on this petition would be detrimental to the petitioner. The
+unmanned aircraft authorized in the original grant are comparable in type, size, weight, speed
+and operating capabilities to those in this petition.
+
+Airworthiness Certification
+
+In accordance with the statutory criteria provided in Section 333 of Public Law 112-95 in
+reference to 49 U.S.C. § 44704, and in consideration of the size, weight, speed, and limited
+                                                                                                                  2
+
+operating area associated with the aircraft and its operation, the Secretary of Transportation
+has determined that this aircraft meets the conditions of Section 333. Therefore, the FAA
+finds that relief from 14 CFR part 21, Certification procedures for products and parts,
+Subpart H--Airworthiness Certificates, and any associated noise certification and testing
+requirements of part 36, is not necessary.
+
+Our Decision
+
+The FAA has determined that the justification for the issuance of Exemption No. 11432
+remains valid and is in the public interest. Therefore, under the authority contained
+in 49 U.S.C. 106(f), 40113, and 44701, delegated to me by the Administrator, the operator is
+granted an amendment to add new aircraft to its UAS operations.
+
+The operator shall add this amendment to its original exemption.
+
+Conditions and Limitations
+
+All conditions and limitations within Grant of Exemption No.11432 remain in effect except as
+follows. Condition No. 1 has been updated to reflect the additional aircraft.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+    1. Operations authorized by this grant of exemption are limited to the Trimble UX5,
+         Swift Radioplane Lynx M, DJI Phantom 2 Vision+, DJI Phantom 3, DJI Inspire 1, and
+         DJI S1000 when weighing less than 55 pounds including payload. Proposed
+         operations of any other aircraft will require a new petition or a petition to amend this
+         exemption.
+
+This exemption terminates on April 30, 2017, unless sooner superseded or rescinded.
+
+Sincerely,
+
+/s/
+John S. Duncan
+Director, Flight Standards Service
+May 23,2015                                      Exemption No. 11432
+Addendum                                         Regulatory Docket No. FAA-2015-Q179
+U.S. Dept. of Transportation, Docket Operations
+West Building Ground Floor, Room w12-140
+1200 New Jersey Avenue, SE.,
+Washington, DC 20590
+
+Submitted Electronically via the Federal Docket Management System (FDMS)
+
+Re: Addendum to add additional Unmanned Aerial Systems to current Exemption No. 111432
+
+Dear Sir or Madam :
+
+I Hayden Howard, Vice President of Compass Data, Inc., have prepared the following addendum to our
+Current Exemption No. 11432 approved on April 22"d 2015.
+
+This Addendum allows for the inclusion of one additional Fixed Wing system and four additional Vertical
+Take-Off and Landing (VTOL) Multi-Rotor UA's as follows:
+
+      · A SwiftRadio Planes LYNX M Fixed Wing, Under 9lb Single Motor UA
+     · A DJI Phantom 2 Vision+, Under 31b (4 Motor) Multi-Rotor UA
+     · A DJI Phantom 3, Under 31b (4 Motor) Multi-Rotor UA
+     · A DJIInspire 1, Under 71b (4 Motor) Multi-Rotor UA
+     · A DJI S1000, Under 101b (8 Motor) Multi-Rotor UA
+
+THE UNMANNED AIRCRAFT (UA):
+
+Fixed Wing components:
+
+     · The Swift-Radio Planes Lynx M is a lightweight (under 551b gross weight), battery operated Fixed
+           Wing UA
+
+     · The Lynx is hand launched, and can land in small areas due to its deep stall landing capabilities
+     · The Lynx is comprised of foam and Carbon Fiber with a wingspan of 7.5'
+     · The Lynx can carry various camera payloads which are interchangeable in the field
+     · The Lynx utilizes the Pixhawk autopilot complete with GPS, magnetometer, IMU, airspeed
+
+           sensor, and telemetry radios
+
+VTOL Multi-Rotor's components:
+
+     · The DJI Models: Phantom 2 Vision+, Phantom 3, Inspire 1, and S1000 are lightweight (under
+           551b gross weight), battery operated Multi-Rotor VTOL aircraft
+
+     · Each uses an on-board flight computer with GPS navigation and location ability that receives
+           signals for flight controls from a ground-based transmitter/controller
+
+     · The Phantom 2 Vision+, Phantom 3 and Inspire 1 have an on-board camera attached to the UA
+           via a three axis gimbal, capable of capturing full color, high definition imagery
+
+     o The S1000 can be configured to include a gimbal mount and supports various camera options
+
+Compass Data, Inc. -ADDENDUM ADDING ADDITIONAL UA's Page 1 of 2
+      · The DJI models all have an on-board telemetry system that delivers flight data from the on-
+           board flight computer to the on-board radio transmitter including; altitude (AGL), horizontal and
+           vertical speed, compass direction of flight, and direction back to its launch site
+
+THE GROUND STATION-BASED PART OF THESE SYSTEMS:
+
+      · A Pilot in Command (PIC} in operational control of a flight operation from beginning to end and
+           who controls the UA while in the air
+
+      · A radio transmitter/controller operated by the (PIC} to control the UA while in flight
+      · A Ground Station (Laptop, Tablet or Smart Phone based App) which receives and displays real
+
+           time system telemetry and imagery from the UA
+      · A Visual Observer (VO) is a person who provides a second pair of eyes to visually track the UA
+
+           while in flight.
+
+INTENDED USE:
+
+The requested exemption would allow us to use the UA for aerial image acquisition to support various
+mapping and surveying applications as well as video documentation for the public good. Typical
+applications would include, but are not limited to:
+
+      · Aerial Photography
+      · Aerial Surveys
+      · Volumetric Surveys
+      · Architectural Surveys
+      · Bridge Inspections
+      · Utility Corridor Vegetation Management
+     · Building Inspection Surveys
+     · Disaster Response
+
+This Addendum makes no other changes to the original request including exemptions sought, reasons
+for exemption request, and/or operating parameters. Compass Data will operate these additional UA's
+under the same conditions and limitations provided in Exemption No. 11432
+
+The name and contact information of the applicant remains the same:
+
+Sincerely,
+
+Hayden Howard
+Vice President
+Compass Data, Inc.
+Phone: 303.627.408
+Email: compassdatainc.com
+
+Appendix A- User's Manual (Swift-Radio Planes Lynx M)
+Appendix B- Users Manuals (Phantom 2 Vision+, Phantom 3, Inspire 1, and S1000)
+
+                                      Compass Data, Inc. -ADDENDUM ADDING ADDITIONAL UA's Page 2 of 2
+                              APPENDIX A- USERS MANUALS (Swift-Radio Planes Lynx M)
+
+This addendum incorporates by reference confidential manuals and materials filed by Swift Radioplanes, LLC
+      ("Swift Radioplanes") in connection with our petition for exemption under Section 333 of the FAA
+
+ Modernization and Reform Act of2012 ("FMRA") to allow commercial operations of unmanned aircraft for
+precision aerial survey. Swift Radioplanes has requested confidential treatment of those materials under the
+ trade secrets and proprietary business information exemption of the Freedom of Information Act ("FOIA").
+
+                                                (See 5 U.S. C. § 552(b)(4}.)
+
+                                                            Attached separately
+
+                                                                                                            APPENDIX A- USERS MANUALS
+APPENDIX 8- USERS MANUALS (DJI PHANTOM 3. INSPIRE 1. and SlQQQ)
+
+     Users Manuals for each of these systems can be downloaded here
+       http://www.dji.com/product/phantom-2-vision-plus/download
+              http://www.dji.com/product/phantom-3/download
+                http://www.d ji.com/prod uct/inspire-1/download
+      http://www.dji.com/product/spreading-wings-s1000/download
+
+                                                                              APPENDIX B- USERS MANUALS
+

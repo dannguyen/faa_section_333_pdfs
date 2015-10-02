@@ -1,0 +1,847 @@
+June 26, 2015
+
+                                                          Exemption No. 11929
+                                                          Regulatory Docket No. FAA­2015­0345
+
+Mr. Michael J. Lyons
+President
+9three Solutions Inc.
+1281 Suncrest Towne Centre Drive
+Morgantown, WV 26505
+
+Dear Mr. Lyons:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+The Basis for Our Decision
+
+By letter dated February 5, 2015, you petitioned the Federal Aviation Administration (FAA)
+on behalf of 9three Solutions Inc. (hereinafter petitioner or operator) for an exemption. The
+exemption would allow the petitioner to operate an unmanned aircraft system (UAS) to
+conduct inspections of mining facilities and inspections of oil and natural gas pipelines and
+components.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+                                                                                                                 2
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner is an Align M690.
+
+The petitioner requested relief from 14 CFR part 21, Certification procedures for products
+and parts, Subpart H--Airworthiness Certificates. In accordance with the statutory criteria
+provided in Section 333 of Public Law 112-95 in reference to 49 U.S.C. § 44704, and in
+consideration of the size, weight, speed, and limited operating area associated with the
+aircraft and its operation, the Secretary of Transportation has determined that this aircraft
+meets the conditions of Section 333. Therefore, the FAA finds that the requested relief from
+14 CFR part 21, Certification procedures for products and parts, Subpart H--Airworthiness
+Certificates, and any associated noise certification and testing requirements of part 36, is
+not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection1. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+ They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+ The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+ A grant of exemption is in the public interest.
+
+1 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                             3
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, 9three Solutions Inc. is granted an exemption from
+14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a), 91.7(a), 91.119(c),
+91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a) and (b), to
+the extent necessary to allow the petitioner to operate a UAS to perform aerial data collection.
+This exemption is subject to the conditions and limitations listed below.
+
+Conditions and Limitations
+
+In this grant of exemption, 9three Solutions Inc. is hereafter referred to as the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+1. Operations authorized by this grant of exemption are limited to the Align M690 when
+    weighing less than 55 pounds including payload. Proposed operations of any other
+    aircraft will require a new petition or a petition to amend this exemption.
+
+2. Operations for the purpose of closed-set motion picture and television filming are
+    not permitted.
+
+3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+    exemption holder may use either groundspeed or calibrated airspeed to determine
+    compliance with the 87 knot speed restriction. In no case will the UA be operated at
+    airspeeds greater than the maximum UA operating airspeed recommended by the
+    aircraft manufacturer.
+
+4. The UA must be operated at an altitude of no more than 400 feet above ground level
+    (AGL). Altitude must be reported in feet AGL.
+
+5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+
+    This requires the PIC to be able to use human vision unaided by any device other than
+    corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+    U.S. driver's license.
+
+6. All operations must utilize a visual observer (VO). The UA must be operated within
+    the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+    to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+    capability. The VO and PIC must be able to communicate verbally at all times;
+    electronic messaging or texting is not permitted during flight operations. The PIC must
+    be designated before the flight and cannot transfer his or her designation for the
+                                                                                4
+
+duration of the flight. The PIC must ensure that the VO can perform the duties
+required of the VO.
+
+7. This exemption and all documents needed to operate the UAS and conduct its
+    operations in accordance with the conditions and limitations stated in this grant of
+    exemption, are hereinafter referred to as the operating documents. The operating
+    documents must be accessible during UAS operations and made available to the
+    Administrator upon request. If a discrepancy exists between the conditions and
+    limitations in this exemption and the procedures outlined in the operating documents,
+    the conditions and limitations herein take precedence and must be followed.
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update or
+    revision would affect the basis upon which the FAA granted this exemption, then the
+    operator must petition for an amendment to its grant of exemption. The FAA's UAS
+    Integration Office (AFS-80) may be contacted if questions arise regarding updates or
+    revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g. replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g. inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+                                                                                                            5
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+                                                                                                            6
+
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+    exemption holder may apply for a new or amended COA if it intends to conduct
+    operations that cannot be conducted under the terms of the attached COA.
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+    be as large as practicable.
+
+23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+    any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+    PIC at the Ground Control Station of the UAS any time the aircraft is operating. These
+    documents must be made available to the Administrator or any law enforcement
+    official upon request.
+
+24. The UA must remain clear and give way to all manned aviation operations and
+    activities at all times.
+
+25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless:
+      a. Barriers or structures are present that sufficiently protect nonparticipating persons
+          from the UA and/or debris in the event of an accident. The operator must ensure
+          that nonparticipating persons remain under such protection. If a situation arises
+          where nonparticipating persons leave such protection and are within 500 feet of
+          the UA, flight operations must cease immediately in a manner ensuring the safety
+          of nonparticipating persons; and
+      b. The owner/controller of any vessels, vehicles or structures has granted permission
+          for operating closer to those objects and the PIC has made a safety assessment of
+          the risk of operating closer to those objects and determined that it does not
+          present an undue hazard.
+
+    The PIC, VO, operator trainees or essential persons are not considered
+    nonparticipating persons under this exemption.
+
+27. All operations shall be conducted over private or controlled-access property with
+    permission from the property owner/controller or authorized representative.
+    Permission from property owner/controller or authorized representative will be
+    obtained for each flight to be conducted.
+                                                                                                                 7
+
+    28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+         boundaries of the operational area as defined by the applicable COA must be reported
+         to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+         reported to the National Transportation Safety Board (NTSB) per instructions
+         contained on the NTSB Web site: www.ntsb.gov.
+
+ If this exemption permits operations for the purpose of closed-set motion picture and
+ television filming and production, the following additional conditions and limitations apply.
+
+    29. The operator must have a motion picture and television operations manual (MPTOM)
+         as documented in this grant of exemption.
+
+    30. At least 3 days before aerial filming, the operator of the UAS affected by this
+         exemption must submit a written Plan of Activities to the local Flight Standards
+         District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+         notification may be waived with the concurrence of the FSDO. The plan of activities
+         must include at least the following:
+           a. Dates and times for all flights;
+           b. Name and phone number of the operator for the UAS aerial filming conducted
+              under this grant of exemption;
+           c. Name and phone number of the person responsible for the on-scene operation of
+              the UAS;
+           d. Make, model, and serial or N-Number of UAS to be used;
+           e. Name and certificate number of UAS PICs involved in the aerial filming;
+           f. A statement that the operator has obtained permission from property owners
+              and/or local officials to conduct the filming production event; the list of those
+              who gave permission must be made available to the inspector upon request;
+           g. Signature of exemption holder or representative; and
+           h. A description of the flight activity, including maps or diagrams of any area, city,
+              town, county, and/or state over which filming will be conducted and the altitudes
+              essential to accomplish the operation.
+
+    31. Flight operations may be conducted closer than 500 feet from participating persons
+         consenting to be involved and necessary for the filming production, as specified in the
+         exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                    8
+
+This exemption terminates on June 30, 2017, unless sooner superseded or rescinded.
+
+Sincerely,
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+                                                February 5, 2015
+
+U.S. Department of Transportation
+Docket Management System
+1200 New Jersey Ave., SE
+Washington, D.C. 20590
+
+         Re: Petition of 9three Solutions, for an Exemption Pursuant to Section 333 of the
+                  FAA Modernization and Reform Act of 2012
+
+Dear Gentlemen:
+
+         Pursuant to Section 333 of the FAA Modernization and Reform Act of 2012 ("Reform
+Act") and 14 C.F.R. Part 11, 9three Solutions ("9three"), hereby applies for an exemption from
+the Federal Aviation Regulations ("FARs") identified below, to allow commercial operations of
+small unmanned aerial vehicles (i.e. "small unmanned aircraft " or "UAS").
+
+         The exemption is made based on information in this petition, as well as the
+accompanying Align M690 Operations and Safety Manual ("Operations Manual") and the flight
+and maintenance manuals for the UASs identifies and incorporated by reference into the
+accompanying packet
+
+         For your convenience, the petition is organized as follows:
+
+I. Description of Petitioner
+II. Types of Operations
+
+         A. Request to Use UASs for Survey and Inspection of Mining Facilities
+         B. Request to Use UASs for Survey and Inspection of Oil and Natural Gas
+
+                  Pipelines and Associated Components
+III. Relevant Statutory Authority
+IV. 9three Proposed UAS Operations Meet the Requirements of Section 333 of the
+
+         Reform Act
+V. Regulations From Which Exemption is Requested
+
+         A. 14 C.F.R. Part 21, Subpart H ­ Airworthiness Certificates and 14 C.F.R §
+                  91.203
+
+         B. 14 C.F.R. Part 27 Airworthiness Standards: Normal Category Rotorcraft
+         C. 14 C.F.R. §§ 91.9(c), 45.23(b) and 45.27(a): Aircraft Marking and
+
+                  Identification Requirements
+         D. 14 C.F.R. § 91.9(b)(2): Civil Aircraft Flight Manual in the Aircraft and 14
+
+                  C.F.R. § 91.203(a) and (b): Carrying Civil Aircraft Certification and
+                  Registration
+         E. 14 C.F.R. § 91.7(a): Civil Aircraft Airworthiness
+         F. 14 C.F.R. § 91.103: Preflight Action
+         G. 14 C.F.R. § 91.109(a): Flight Instruction
+         H. 14 C.F.R. § 91.119: Minimum Safe Altitudes
+         I. 14 C.F.R. § 91.121: Altimeter Settings
+         J. 14 C.F.R. § 91.151(a): Fuel Requirements for Flight in VFR Conditions
+         K. 14 C.F.R. § 91.405(a), 91.407(a)(1), 91.409(a)(2); 91.417(a) and (b):
+
+                  Maintenance Inspections
+         L. 14 C.F.R. § 61.113
+VI. Drug and Alcohol Program
+VII. Public Interest
+VIII. Privacy
+IX. Federal Register Summary
+X. Conclusion
+
+I. DESCRIPTION OF PETITIONER
+
+         9three is a privately held company that provides technical solutions for energy companies
+in the Southwestern Pennsylvania and Northern West Virginia regions: offering innovative
+approaches to solve these companies' operational, engineering, and business challenges. 9three
+has a wide variety of experience in the coal and gas industry and holds unique understanding of
+how large energy companies operate. 9three also understands how state government
+requirements impact energy company operations and has built automated hardware and software
+enterprise-grade systems that optimize processes and reduce workload by utilizing cutting-edge
+technologies.
+
+         Recently, multiple companies have approached 9three expressing interest in using an
+UAS to inspect power substations, oil and gas wells, and private wireless towers as well as
+provide 3D mapping and aerial photogrammetry of proposed and existing construction sites.
+Currently these companies use commercial aircraft to perform these roles. Companies are
+looking for not only a lower cost option, but a solution that can yield better information and
+reduce the risk to human life. Utilizing a UAS will meet these requirements with the most
+important factor being safety, as personnel would not be inside or in proximity to the equipment.
+
+II. TYPES OF OPERATIONS
+
+         A. Request to Use UASs for Survey and Inspection of Mining Facilities
+
+         9three is requesting exemptions pursuant to Section 333 to conduct inspections of mining
+companies' surface operations. 9three will use its ability to conduct inspection to maintain safety
+at the facilities and provide predictive failure analysis and engineering design considerations.
+These inspections are conducted on private property, not accessible to the public, to help ensure
+safety. Using a UAS to conduct inspections may reduce human risk as some of these structures
+can be dangerous due to their height above ground, proximity to electricity, heat generation, etc.
+         B. Request to Use UASs for Survey and Inspection of Oil and Natural Gas
+                  Pipelines and Associated Components
+
+         9three also seeks exemption pursuant to Section 333 to conduct inspections of Oil and
+Natural Gas pipelines and the associated components. These inspections are conducted every two
+weeks using a rotorcraft and crew that fly along the pipeline looking for problems. There are
+many advantages to using a UAS to conduct these inspections versus a rotorcraft.
+
+         Using a UAS will be much safer than a rotorcraft in the inspection process. The UAS will
+weigh no more than 17 pounds compared to thousands of pounds for a rotorcraft. The UAS will
+not carry any flammable fuel compared to the rotorcraft and will not carry anyone onboard;
+reducing the risk to human life substantially. Utilizing a UAS will reduce the risk to both human
+life and property substantially while still being able to properly inspect pipelines.
+
+III. RELEVANT STATUTORY AUTHORITY
+
+         This petition for exemption is submitted in accordance with Section 333(a) through (c) of
+the FAA Modernization and Reform Act of 2012. Congress has directed the FAA "to safely
+accelerate the integration of civil unmanned aircraft systems into the national airspace system."
+Pursuant to Section 333 of the Reform Act, The FAA Administrator is to permit unmanned
+aircraft systems to operate in the National Airspace ("NAS") where it is safe to do so based on
+the following considerations:
+
+                   The UAS's size, weight, speed and operational capability;
+
+                   Operation of the UAS in close proximity to airports and populated areas; and
+
+                   Operation of the UAS within the visual line of sight of the operator.
+
+         Additionally, the FAA Administrator has general authority to grant exemptions from the
+agency's safety regulations and minimum standards when the Administrator decides a requested
+exemption is in the public interest. See 49 U.S.C. § 106(f) (defining the authority of the
+Administrator); 49 U.S.C. § 44701(f) (permitting exemptions from § 44701(a), (b) and § 44702 ­
+44716, et seq.). A party requesting an exemption must explain the reasons why the exemption:
+(1) would benefit the public as a whole, and (2) would not adversely affect the safety (or how it
+would provide a level of safety at least equal to the existing rules). See 14 C.F.R. § 11.81
+(petitions for exemption).
+
+IV. 9three PROPOSED OPERATIONS MEET THE REQUIREMENTS OF SECTION
+         333 OF THE REFORM ACT
+
+         The proposed operations in the Petition for Exemption qualify for expedited approval
+under Section 333 of the Reform Act. Each of the statutory criteria and other relevant factors are
+satisfied.
+         A. Approval is Warranted Based on the UASs Size, Weight and Operational
+                  Capability
+
+         9three will employ the UASs identified in Section 2 of the accompanying Operations
+Manual. This UAS will be used for all of the operations as set forth in the Operations Manual.
+The UAS will be limited to a maximum flight speed of 33mph, and vertical ascent speed will be
+limited to 14mph, and will not have a weight in excess of 17 pounds. The UAS has an integrated
+GPS system to calculate the UASs' position and height and to relay that information via a secure
+connection to the operator. In addition, the UAS has failsafe modes that are triggered by certain
+events. The system permits the aircraft to return to a predetermined location and land to prevent
+injury.
+
+         B. Approval is Warranted Based on the Operational Restrictions Set Forth in
+                  the Operations Manual
+
+         The 9three Operations Manual contain all of the procedures and limitations to
+successfully perform inspections of Oil and Gas facilities, pipeline and associated equipment. To
+assist the FAA in its safety assessment of 9three operations, listed below is a summary of
+operational limitations and conditions which will ensure a level of safety equal to or exceeding
+the level of safety for operations that are conducted under the current regulatory guidelines:
+
+         1. The UAS that is used by 9three will weigh 17 pounds or less.
+
+         2. Flights will be operated within the line of sight of both the pilot and observer at
+                  all times
+
+         3. Maximum total flight time for each flight will be limited to the amount of time the
+                  UAS can be flown and still land with at least 25% battery power remaining.
+
+         4. Flights will be operated at an altitude of no more than 400 feel AGL.
+
+         5. Flights will be operated at a lateral distance of at least 100 feet from any persons
+                  or property that are not directly related to the operation who have not given prior
+                  permission.
+
+         6. Aircraft speed will be limited to 33mph for forward flight and vertical ascent will
+                  be limited to 14mph.
+
+         7. Minimum crew for each operations will consist of the IAS PIC, one or more
+                  Visual Observers dependent on the safety requirements of the operation, and a
+                  Sensor Operator if the onboard sensor requires human control.
+
+         8. The PIC will have at least a private pilot's license and will have sufficient
+                  knowledge of the area where the operation is taking place, as well as training to
+                  safely operate the UAS in accordance with the standards set forth in the
+                  Operations Manual.
+
+         9. The designated Observer will be in constant voice contact with the PIC during the
+                  entire operation.
+
+         10. The UAS will operate in accordance with the safety and operational requirements
+                  of the Operations Manual.
+
+         11. Prior to any operation a Mission Plan will be created setting forth the limitations
+                  for the flight as well as any hazard information
+
+         12. A NOTAM will be issued no more than 48 hours in advance of flight, but not less
+                  than 24 hours before flight.
+
+         13. If the UAS lose communications or loses its GPS, it will have the capability to
+                  return to a pre-determined home location set up before flight and safely land.
+
+         14. Contingency plans will be in place to safely terminate the flight if there is a loss
+                  of communication between the pilot and the observer.
+
+         15. The UAS will have the capability to abort a flight in case of unpredicted obstacles
+                  or emergency while in flight.
+
+V. REGULATIONS FROM WHICH EXEMPTION IS REQUESTED
+
+         The Federal Aviation Act expressly grants the FAA the authority to issue exemptions.
+This statutory authority, by its terms, includes exempting civil aircraft as the term is defined
+under § 40101 of the Act, including UASs, from its safety regulations and minimum standards
+when the Administrator decides a requested exemption is in the public interest.
+
+         9three seeks and exemption from several interrelated provisions of 14 C.F.R. Parts 21,
+45, 61, and 91 for purposes of conducting the requested operations using a UAS. Listed below
+are (1) the specific sections of 14 C.F.R. for which exemption is sought, and (2) the operating
+procedures and safeguards that 9three has put into place which will ensure a level of safety that
+is better than or equal to the rules from which the exemption is sought.
+
+         A. 14 C.F.R. Part 21, Subpart H ­ Airworthiness Certificates and 14 C.F.R.
+                  § 91.203(a)(1)
+
+         The FAA has stated that no exemption is necessary from this section if a finding is made
+under the Reform Act that the UAS selected provides an equivalent level of safety when
+compared to aircraft normally used for the same application. These criteria have been met, and
+therefore no exemption is needed. See Grant of Exemption to Clayco, Inc., Docket No. FAA-
+2014-0507 at page 5. If however, the FAA determines that there are characteristics of the UAS
+that fail to meet the requirements of the Reform Act, an exemption is requested.
+
+         Equivalent Level of Safety
+
+         The UAS identified in Section 1 of the Operations Manual is safe when its size, weight,
+speed and operational capability are taken into account. As set forth in Section II, Supra, the
+UAS weigh less than 17 pounds and will be flown less than 33mph and in a sparsely populated
+area. Additionally, the UAS will not be carrying pilots or passengers, explosive materials,
+flammable liquid fuels, and will operate exclusively within the parameters that are outlined in the
+Operations Manual.
+
+         Operations that take place under this exemption will be closely monitored and controlled
+by the PIC and will be conducted in compliance with local public safety requirements. 9three
+will also provide the FAA with advance notice of all operations via NOTAM prior to any
+operations. During all operations the UAS operated under the proposed conditions, will be at
+least as safe as, or safer than conventional rotorcraft operating with an airworthiness certificate
+without the restrictions and conditions of the proposed UAS operations.
+
+         The UAS themselves do not need to communicate with other aircraft or ATC, due to the
+fact that those capabilities will be possessed by the PIC and observer, who are not onboard the
+UAS. Additionally, no sense and avoid technology is necessary on the UAS due to the fact that it
+will be operated by VLOS at all times.
+
+         B. 14 C.F.R. Part 27 Airworthiness Standards: Normal Category Rotorcraft
+
+         14 C.F.R. Part 27 sets forth the procedural requirements for airworthiness certification of
+normal category rotorcraft. To the extent 9three's UAS would otherwise require certification
+under Part 27, 9three seeks an exemption from Part 27's airworthiness standards for the same
+reasons which were identified in the request for exemption from 14 C.F.R. Part 21, Subpart H,
+supra.
+
+         C. 14 C.F.R. §§ 91.9(c), 45.23(b) and 45.27(a): Aircraft Marking and
+                  Identification Requirements
+
+         9three seeks and exemption from the aircraft marking and identification requirements
+contained within 14 C.F.R. §§ 91.9(c), 45.23(b) and 45.27(a).
+
+          14 C.F.R. § 91.9(c), Civil Aircraft Flight Manual, Marking and Placard requirements,
+             provides that:
+
+                  No person may operate a U.S.-registered civil aircraft unless that aircraft is
+                  identified in accordance with Part 45 of this chapter.
+          14 C.F.R. § 45.23(b), Markings of the Aircraft, states:
+
+                  When marks include only the Roman capital letter "N" and the registration
+                  number is displayed on limited, restricted or light-sport category aircraft or
+                  experimental or provisionally certificated aircraft, the operator must also display
+                  on that aircraft near each entrance to the cabin, cockpit, or pilot station, in letters
+                  not less than 2 inches nor more than 6 inches high, the words "limited,"
+                  "restricted," "light-sport," "experimental," or "provisional," as applicable.
+
+          14 C.F.R. § 45.27(a), Rotorcraft, states:
+
+                  Each operator of a rotorcraft must display on that rotorcraft horizontally on both
+                  surfaces of the cabin, fuselage, boom, or tail the marks required by § 45.23.
+
+         In a previous Grant of Exemption, the FAA determined that exemption from these
+requirements was warranted provided that the aircraft "have identification "(N-Number)
+markings in accordance with 14 CFR part 45, Subpart C if the markings are as large as
+practicable." FAA Docket No. FAA-2014-0352.
+
+         Equivalent Level of Safety
+
+         9three will mark all aircraft with appropriate markings on a prominent place on the
+fuselage as large as possible if relief is not granted from 14 C.F.R. Part 21, Subpart H.
+
+         D. 14 C.F.R. § 91.9(b)(2): Civil Aircraft Flight Manual in the Aircraft and 14
+                  C.F.R. § 91.203(a) and (b): Carrying Civil Aircraft Certification and
+                  Registration
+
+         Pursuant to 14 C.F.R. § 91.9(b)(2):
+
+         (b) No Person may operate a U.S.-registered civil aircraft ­
+
+         ...
+
+         (2) For which an Airplane or Rotorcraft Flight Manual is required by § 21.5 of this
+                  chapter, unless there is available in the aircraft a current approved Airplane or
+                  Rotorcraft Flight Manual, approved manual material, markings, and placards, or
+                  any combination thereof.
+
+         Pursuant to 14 C.F.R. § 91.203(a) and (b):
+
+         (a) Except as provided in § 91.715, no person may operate a civil aircraft unless it
+                  has within it the following:
+
+                  (1) An appropriate and current airworthiness certificate...
+         (b) No person may operate a civil aircraft unless the airworthiness certificate required
+                  by paragraph (a) of this section or a special flight authorization issued under §
+                  91.715 is displayed at the cabin or cockpit entrances so that it is legible to
+                  passengers or crew.
+
+         9three does not request an exemption from this section but instead notifies the FAA that,
+in accordance with FAA Office of Chief Counsel's Opinion dated August 8, 2014, the UAS
+flight manual and other documentation will be kept at the control station with the PIC during
+flight, The Chief Counsel's Office has held that for all UAS operations, this alternate method
+constitutes full compliance with the regulations.
+
+         E. 14 C.F.R. § 91.7(a): Civil Aircraft Airworthiness
+
+         9three seeks and exemption from 14 C.F.R § 91.7(a), which requires that all civil aircraft
+be in airworthy condition to be operated. The FAA has stated that no exemption is required to the
+extent that the requirements of Part 21 are waived or found inapplicable. Accordingly, 9three
+requests that the requirements for Section 91.7 be treated in accordance with Section V (A),
+supra.
+
+         F. 14 C.F.R. § 91.103: Preflight Action
+
+         9three seeks an exemption from 14 C.F.R. § 91.103, which requires a PIC to become
+familiar with specific information before each flight, including information contained in the
+FAA-approved Flight Manual on board the aircraft. While the PIC will be familiar with all
+information necessary to safely conduct flight operations, an exemption is requested to the extent
+that an FAA-approved Flight Manual is required.
+
+         Equivalent Level of Safety
+
+         An equivalent level of safety will be provided by following the Aircraft Operations
+Manual and the flight manual provided by the manufacturer. The PIC will take all required
+preflight actions; including performing all required checklists, and reviewing the following:
+flight requirements, battery charge, mission requirements, aircraft performance data, takeoff and
+landing distance, weather, and emergency landing areas before flight. The Operations Manual
+and manufacturer's flight manual will be kept at the ground station with the PIC at all times.
+
+         G. 14 C.F.R. § 91.109(a): Flight Instruction
+
+         9three seeks an exemption from 14 C.F.R. § 91.109(a), which provides that "{n}o person
+may operate a civil aircraft (except a manned free balloon) that is being used for flight
+instruction unless that aircraft has fully functioning dual controls." UASs and remotely piloted
+aircraft, by their design do not have functional dual controls. Instead, flight control is
+accomplished through the use of a device that communicates with the aircraft via radio
+communication through the output of the transmitter.
+         Equivalent Level of Safety
+
+         Given the size and speed of the UAS used by 9three, and equivalent level of safe training
+can still be performed without dual controls because no pilot or passengers are aboard the UAS,
+and all persons will be a safe distance away in the event that the UAS experiences and
+difficulties during flight instruction. In addition 9three will conduct flight training at AMA
+approved flying sites. The training flights will be conducted in a sterile training area and will
+otherwise comply with the provisions in the Operations Manual for flights at the test site. In
+addition, 9three's proposed method of operation provides superior levels of safety.
+
+         H. 14 C.F.R. § 91.119: Minimum Safe Altitudes
+
+         9three requests and exemption from the minimum safe altitude requirements of 14 C.F.R.
+§ 91.119. Section 91.119 prescribes the minimum safe altitudes under which aircraft may not
+operate, including 500 feet above the surface and away from any person, vessel, vehicle, or
+structure in non-congested areas. See 14 C.F.R. § 91.119(c). Section 91.119(d) allows for a
+helicopter to operate at less than those minimum altitudes when it can be operated "without
+hazard to persons or property on the surface," provided that "each person operating the
+helicopter complies with any routes or altitudes specifically prescribed for the helicopters by the
+FAA."
+
+         Equivalent Level of Safety
+
+         Compared to flight operations that are conducted with rotorcraft weighing far more than
+the maximum weights proposed herein, and given the lack of flammable fuel, any risk associated
+with these operations is far less than those that presently exist with conventional aircraft. An
+equivalent level of safety will be achieved given the size, weight, and speed of the UAS, as well
+as the location where it will be operated. In order to avoid any risk to aircraft, flight operations
+will be restricted to 400' AGL or below.
+
+         I. 14 C.F.R. § 91.121: Altimeter Settings
+
+         9three seeks an exemption from 14 C.F.R. § 91.121, which requires a person operating an
+aircraft to maintain cruising altitude or flight level by reference to an altimeter that is set to the
+elevation of the departure airport or barometric pressure. An exemption is required to the extent
+that the UAS does not have a barometric altimeter, but rather a GPS altitude read out.
+
+         Equivalent Level of Safety
+
+         The FAA has states that an equivalent level of safety can be achieved if the UAS will be
+operated at 400' AGL or below and within VLOS in addition to GPS based altitude information
+relayed in real time to the operator. See Grant of Exemption to Astraeus Aerial, Docket No.
+FAA-2014-0352. As the attached Operations Manual indicates, the chosen UAS meets these
+requirements in that a zero altitude initiation point will be obtained prior to flight operations.
+
+         J. 14 C.F.R. § 91.151(a): Fuel Requirements for Flight in VFR Conditions
+
+         9three requests an exemption from 14 C.F.R. § 91.151(a)'s fuel requirements for flight in
+         VFR conditions. Section 91.151 states:
+
+         (a) No person may begin a flight in an airplane under VFR conditions unless
+                  (considering wind and forecast weather conditions) there is enough fuel to fly to
+                  the first point of intended landing and, assuming normal cruising speed ­
+
+                  (1) During the day, to fly after that for at least 30 minutes; or
+
+                  (2) At night, to fly after that for at least 45 minutes.
+
+         Here, the technological limitations on UAS battery power means that no meaningful
+flight operations can be conducted while still maintaining a 30 minute reserve power supply.
+9three proposes that all flights comply with this requirement by mandating that the aircraft be
+safely landed with no less than 25% of remaining battery life.
+
+         Equivalent Level of Safety
+
+         The FAA has states that an equivalent level of safety is provided if the UAS flight is
+terminated with at least 25% reserve battery power still available. See Grant of Exemption to
+Astraeus Aerial, Docket No. FAA-2014-0252. The Operations Manual confirms this limit, which
+provides an equivalent level of safety.
+
+         K. 14 C.F.R § 91.405(a), 91.407(a)(1), 91.409(a)(2); 91.417(a) and (b):
+                  Maintenance Inspections
+
+         9three seeks an exemption from the maintenance inspection requirements contained in 14
+C.F.R. § 91.405(a), 91.407(a)(1), 91.409(a)(2); 911.417(a) and (b). These regulations specify
+maintenance and inspections standards in reference to 14 C.F.R. Part 43. See, e.g., 14 C.F.R. §
+91.405(a) (stating that each owner or operator of an aircraft "[s]hall have the aircraft inspected as
+prescribed in subpart E of this part and shall between required inspections ...have discrepancies
+repaired as prescribed in part 43 of this chapter"). An exemption from these regulations is needed
+because Part 43 and these sections only apply to aircraft with an airworthiness certificate, which
+the UAS will not have.
+
+         Equivalent Level of Safety
+
+         An equivalent level of safety will be achieved because maintenance and inspections will
+be performed in accordance with the UAS Manufacturer's Manual, as referenced in the
+Operations Manual. As provided in the Operations Manual, flights will not be conducted unless a
+flight operations checklist is completed by the PIC that includes all aircraft components. The
+Operations Manual also sets requirements for maintenance log book and record keeping as well
+as routine and post-flight maintenance. The Operations Manual sets requirements for both annual
+maintenance and preventative maintenance based on hours of flight.
+
+         L. 14 C.F.R. § 61.113: Private Pilot Privileges and Limitations
+
+         9three seeks exemption from 14 C.F.R § 61.113, which restricts private pilot certificate
+holders from flying aircraft for compensation or hire, and would also require a second class
+medical certificate. The purpose of Part 61 is to ensure that the skill and competency of any PIC
+matches the airspace in which both the PIC and UAS will be operating, as well as requiring
+certifications if the private pilot is carrying passengers or cargo for hire. In this care, while the
+UAS will be operated as part of a commercial operation, it will carry neither passengers nor
+cargo. In the Grant of Exemption in FAA Docket No. FAA-2014-0507, the FAA determined that
+a person holding a private pilot certificate "would not adversely affect operations in the NAS or
+present a hazard to persons or property on the ground."
+
+         9three will operate in a sterile area away from persons and property not directly involved
+in the operation. It will be flown within VLOS at 400' AGL or below. A NOTAM will be issued
+between 24 and 48 hours before the flight is to occur.
+
+         Equivalent Level of Safety
+
+         In addition to these flight restrictions, 9three will further ensure safe flight operation by
+requiring that any PIC be thoroughly familiar with the airspace being operated in but also in the
+unique aspects of UAS flight. Pilots will also be required to conduct training flights at a local
+AMA site to gain flight experience and become familiar with the way the UAS flies and how it
+responds to inputs. 9three believes that this system will provide a higher level of competency and
+proficiency for its pilots resulting in a safer operational environment.
+
+VI. DRUG AND ALCOHOL PROGRAM
+
+         9three has a very strict policies in place regarding drug and alcohol use that ensures no
+person may act as a PIC, observer, or sensor operator if they are under the influence of alcohol or
+any drug
+
+VII. PUBLIC INTEREST
+
+         Granting 9three's exemption request furthers the public interest in many ways. National
+policy set by Congress favors early integration of UAS into NAS in controlled, safe working
+environments such as those proposed with this petition. Additionally the public also has an
+interest in reducing the hazards and emissions associated with the alternate use of helicopters or
+other aircraft used to conduct similar inspections. The UAS are much lighter than their passenger
+carrying counterparts, do not carry any human life or flammable fuel thus reducing the risk to
+human life in the event of an accident. Currently these inspections are done with helicopters or
+light aircraft; if these inspections were done with a UAS instead it would benefit the public as the
+risk of an accident affecting human life are drastically reduced. Having a 15 pound UAS operate
+around oil and gas facilities also poses far less risk to the facilities if there was an accident. If
+there was an accident during an inspection of oil and gas facilities in a full size helicopter full of
+flammable fuel the potential for death and sever damage to the facilities including environmental
+consequences is much higher than if a drone crashed while doing the same inspection. In light of
+all these advantages it furthers the public interest to use a UAS instead of other aircraft for these
+inspections.
+
+VIII. PRIVACY
+
+         All flights will be conducted in accordance with any federal, state or local laws regarding
+privacy.
+
+IX. FEDERAL REGISTER SUMMARY
+
+         Pursuant to 14 C.F.R. Part 11, the following summary is provided for publication in the
+Federal Register, should it be determined that publication is necessary:
+
+         9three seeks an exemption from the following rules:
+
+         14 CRF Part 21, Subpart H; 14 CFR Part27; 14 CFR 45.23(b); 14 CFR § 61.113; 14 CFR
+91.7(1); 14 CFR 91.9(b)(2); 14 CFR 91.103; 14 CFR 91.109(a); 14 CFR 91.119; 14 CFR 91.121;
+14 CFR 91.151(a); 14 CFR 91.203(a) & (b); 14 CFR 91.405(a); 14 CFR 91.407(a)(1); 14 CFR
+91.409(a)(2); 14 CFR 91.417 (a) & (b).
+
+         This exemption will enhance the safety by reducing risk to the general public and
+property owners from the hazards associated with performing the same work with conventional
+rotorcraft and aircraft.
+
+X. CONCLUSION
+
+         Satisfaction of the criteria provided in Section 333 of the Reform Act of 2012: size,
+weight, speed, operating capabilities, proximity to airports and populated areas, operation within
+visual line of sight, and national security; provides more than adequate justification for the grant
+of the requested exemptions to permit 9three to operate the selected UAS in the manner
+described within.
+
+         Granting the requested exemption will benefit the public interest in many ways including
+(1) significantly improving safety and reducing risk to human life, and (2) improving the quality
+of services offered and decreasing the operating costs compared to those of conventional aircraft
+and rotorcraft.
+
+                                                                                 9three Solutions Inc.
+                                                                                 ________________________
+                                                                                 Michael J. Lyons, President
+
+Attachments: UAS Operations Manual, Flight Log, Preflight Checklist.
+

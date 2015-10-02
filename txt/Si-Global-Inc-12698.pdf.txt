@@ -1,0 +1,572 @@
+September 1, 2015
+
+                                                           Exemption No. 12698
+                                                           Regulatory Docket No. FAA-2015-2632
+
+Mr. Roland H. Beason
+Counsel for Si Global
+Si Global, Inc.
+1791 OG Skinner Drive, Suite C
+West Point, GA 31833
+
+Dear Mr. Beason:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter dated June 11, 2015, you petitioned the Federal Aviation Administration (FAA) on
+behalf of Si Global, Inc. (hereinafter petitioner or operator) for an exemption. The petitioner
+requested to operate an unmanned aircraft system (UAS) to conduct data collection on
+elevated structures and other property.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner are the a DJI Phantom 3, DJI Phantom 2, DJI Inspire 1,
+DJI S1000+, and Aeryon SkyRanger.
+
+In accordance with the statutory criteria provided in Section 333 of Public Law 112-95 in
+reference to 49 U.S.C. § 44704, and in consideration of the size, weight, speed, and limited
+                                                                                                                 2
+
+operating area associated with the aircraft and its operation, the Secretary of Transportation
+has determined that this aircraft meets the conditions of Section 333. Therefore, the FAA
+finds that relief from 14 CFR part 21, Certification procedures for products and parts,
+Subpart H--Airworthiness Certificates, and any associated noise certification and testing
+requirements of part 36, is not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection1. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+ They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+ The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+ A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, Si Global, Inc. is granted an exemption from 14 CFR
+§§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a), 91.7(a), 91.119(c), 91.121,
+91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a) and (b), to the
+extent necessary to allow the petitioner to operate a UAS to perform aerial data collection.
+This exemption is subject to the conditions and limitations listed below.
+
+1 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                             3
+
+Conditions and Limitations
+
+In this grant of exemption, Si Global, Inc. is hereafter referred to as the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+1. Operations authorized by this grant of exemption are limited to the DJI Phantom 3,
+    DJI Phantom 2, DJI Inspire 1, DJI S1000+, and Aeryon SkyRanger when weighing
+    less than 55 pounds including payload. Proposed operations of any other aircraft will
+    require a new petition or a petition to amend this exemption.
+
+2. Operations for the purpose of closed-set motion picture and television filming are
+    not permitted.
+
+3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+    exemption holder may use either groundspeed or calibrated airspeed to determine
+    compliance with the 87 knot speed restriction. In no case will the UA be operated at
+    airspeeds greater than the maximum UA operating airspeed recommended by the
+    aircraft manufacturer.
+
+4. The UA must be operated at an altitude of no more than 400 feet above ground level
+    (AGL). Altitude must be reported in feet AGL.
+
+5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+
+    This requires the PIC to be able to use human vision unaided by any device other than
+    corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+    U.S. driver's license.
+
+6. All operations must utilize a visual observer (VO). The UA must be operated within
+    the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+    to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+    capability. The VO and PIC must be able to communicate verbally at all times;
+    electronic messaging or texting is not permitted during flight operations. The PIC
+    must be designated before the flight and cannot transfer his or her designation for the
+    duration of the flight. The PIC must ensure that the VO can perform the duties
+    required of the VO.
+
+7. This exemption and all documents needed to operate the UAS and conduct its
+    operations in accordance with the conditions and limitations stated in this grant of
+    exemption, are hereinafter referred to as the operating documents. The operating
+    documents must be accessible during UAS operations and made available to the
+    Administrator upon request. If a discrepancy exists between the conditions and
+    limitations in this exemption and the procedures outlined in the operating documents,
+                                                                                                            4
+
+    the conditions and limitations herein take precedence and must be followed.
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+                                                                                                            5
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+    exemption holder may apply for a new or amended COA if it intends to conduct
+    operations that cannot be conducted under the terms of the attached COA.
+                                                                                                            6
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+    be as large as practicable.
+
+23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+    any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+    PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+    These documents must be made available to the Administrator or any law enforcement
+    official upon request.
+
+24. The UA must remain clear and give way to all manned aviation operations and
+    activities at all times.
+
+25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless:
+      a. Barriers or structures are present that sufficiently protect nonparticipating persons
+          from the UA and/or debris in the event of an accident. The operator must ensure
+          that nonparticipating persons remain under such protection. If a situation arises
+          where nonparticipating persons leave such protection and are within 500 feet of
+          the UA, flight operations must cease immediately in a manner ensuring the safety
+          of nonparticipating persons; and
+      b. The owner/controller of any vessels, vehicles or structures has granted permission
+          for operating closer to those objects and the PIC has made a safety assessment of
+          the risk of operating closer to those objects and determined that it does not
+          present an undue hazard.
+
+    The PIC, VO, operator trainees or essential persons are not considered
+    nonparticipating persons under this exemption.
+
+27. All operations shall be conducted over private or controlled-access property with
+    permission from the property owner/controller or authorized representative.
+    Permission from property owner/controller or authorized representative will be
+    obtained for each flight to be conducted.
+
+28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+    boundaries of the operational area as defined by the applicable COA must be reported
+    to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+    reported to the National Transportation Safety Board (NTSB) per instructions
+    contained on the NTSB Web site: www.ntsb.gov.
+                                                                                                                 7
+
+ If this exemption permits operations for the purpose of closed-set motion picture and
+ television filming and production, the following additional conditions and limitations apply.
+
+    29. The operator must have a motion picture and television operations manual (MPTOM)
+         as documented in this grant of exemption.
+
+    30. At least 3 days before aerial filming, the operator of the UAS affected by this
+         exemption must submit a written Plan of Activities to the local Flight Standards
+         District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+         notification may be waived with the concurrence of the FSDO. The plan of activities
+         must include at least the following:
+           a. Dates and times for all flights;
+           b. Name and phone number of the operator for the UAS aerial filming conducted
+              under this grant of exemption;
+           c. Name and phone number of the person responsible for the on-scene operation of
+              the UAS;
+           d. Make, model, and serial or N-Number of UAS to be used;
+           e. Name and certificate number of UAS PICs involved in the aerial filming;
+           f. A statement that the operator has obtained permission from property owners
+              and/or local officials to conduct the filming production event; the list of those
+              who gave permission must be made available to the inspector upon request;
+           g. Signature of exemption holder or representative; and
+           h. A description of the flight activity, including maps or diagrams of any area, city,
+              town, county, and/or state over which filming will be conducted and the altitudes
+              essential to accomplish the operation.
+
+    31. Flight operations may be conducted closer than 500 feet from participating persons
+         consenting to be involved and necessary for the filming production, as specified in the
+         exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                                                 8
+
+This exemption terminates on September 30, 2017, unless sooner superseded or rescinded.
+
+Sincerely,
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+Si Global, Inc.
+
+1791 OG Skinner Drive, Suite C
+West Point, GA 31833
+
+Direct Phone: 205-223-3001
+Email: roland@siglobal.com
+
+June 11, 2015
+
+U. S. Department of Transportation Docket
+Management System
+1200 New Jersey Ave., SE
+Washington, DC 20590
+
+Re: Si Global's Request for Exemption from Certain Regulations per Section 333 of the FAA
+         Reform Act and Part 11 of the Federal Aviation Regulations
+
+Dear Sir or Madam:
+
+Pursuant to Section 333 of the FAA Modernization and Reform Act of 2012 (the Reform Act) and 14
+C.F.R. Part 11, Si Global, Inc. ("Si Global") hereby applies for an exemption from the listed Federal
+Aviation Regulations ("FARs") to allow business use (commercial operation) of its sUASs, so long as
+such operations are conducted within and under the conditions outlined herein or as may be
+established by the FAA as required by Section 333.
+
+I. INTRODUCTION
+
+Si Global seeks to operate sUASs for aerial data collection. In support of its application, Si Global
+submits confidentially a Flight Operations Manual and flight manuals for the DJI Phantom 3, DJI
+Phantom 2, DJI Inspire 1, DJI S1000+, and Aeryon SkyRanger. To the extent anything in this letter
+conflicts with the Flight Operations Manual or flight manuals, those documents control.
+
+Specific Regulations for which an exemption is sought:
+
+14 CFR 61.113 (a)               14 CFR 91.405 (a)
+14 CFR 91.7(a)                  14 CFR 407 (a) (1)
+
+14 CFR 91.119(b) & (c)          14 CFR 409 (a) (1) & (2)
+14 CFR 91.121                   14 CFR 417 (a) & (b)
+
+14 CFR 91.151 (a)
+
+                                1
+  
+
+ II. SI GLOBAL'S OPERATIONS DO NOT POSE SIGNIFICANT HAZARDS
+ The sUAS's utilized by Si Global are electric multi-rotor craft, weighing less than 55 lbs. including
+ payload. They operate at a speed of no more than 80 mph (29 knots) and have the capability to
+ hover, and/or move in a vertical and horizontal plane simultaneously. They will only be operated as
+ visual line of sight (VLOS), remain under 400 ft. above ground level, or no more than 50 ft, above
+ the structure being inspected, if that structure exceeds 400 ft. The sUASs will operate only with
+ permission of involved property owners and/or local government officials.
+ During the proposed data collection operations, the site will be secured, and non-participants will be
+ kept at least 500 feet away from the operation, unless barriers or structures are present that
+ sufficiently protect non-participants from debris in the event of an accident.
+ Si Global has drafted, and submits confidentially, a Flight Operations Manual which discusses safety
+ considerations, training and general operating procedures for the proposed operations. Si Global has
+ also drafted, and submits confidentially, sUAS Aircraft Flight Manuals which set forth the
+ specifications, inspection and setup of the sUASs intended for use in the proposed operations.
+ III. SI GLOBAL' PROPOSED OPERATIONS ARE IN THE PUBLIC
+
+          INTEREST
+ The FAA recently issued a Grant of Exemption to FalconSkyCam for operations that are substantially
+ similar to those proposed herein. Docket No. FAA-2014-0884 (used March 6, 2015). In issuing the
+ Grant, the FAA noted that "[t]he enhanced safety and reduced environmental impact achieved using a
+ UAS with the specifications described by the petitioner and carrying no passengers or crew, rather
+ than a manned aircraft of significantly greater proportions, carrying crew in addition to flammable
+ fuel, gives the FAA good cause to find that the UAS operation enabled by this exemption is in the
+ public interest."
+ Accordingly, Si Global respectfully requests that the FAA grant the requested exemption without
+ delay.
+
+                                                                                                2
+  
+
+ IV. EQUIVALENT LEVEL OF SAFETY
+
+ Si Global proposes that the exemption requested herein apply to civil aircraft that have the
+ characteristics and operate with the limitations listed herein. These limitations, as listed below, provide
+ for at least an equivalent or even higher level of safety to operations under the current regulatory
+ structure.
+ These limitations and conditions to which Si Global agrees to be bound when conducting
+ commercial operations under an FAA issued exemption include:
+
+          The sUASs utilized by Si Global will weigh less than 55 lbs.
+          Flights will be operated during daylight hours, in visual meteorological conditions, and within
+          visual line of sight (VLOS) of the pilot of the sUAS.
+          All operations will utilize a visual observer in addition to the operator.
+          Maximum total flight time for each operational flight will be approximately 30 minutes, or when
+          the sUAS reaches 25% battery power..
+          As noted, non-participants will be kept at least 500 feet away from the operation, unless barriers
+ or structures are present that sufficiently protect non-participants from debris in the event of an accident.
+
+ V. EXEMPTIONS REQUESTED
+
+          14 C.F.R. § 61.113(a) and (b): Private vs. Commercial Pilot Certificates
+ Sections 61.113(a) and (b) prohibit non-commercially rated pilots from operating an aircraft for
+ compensation or hire. Si Global proposes that its pilots will have at least a sport or recreational pilot's
+ certificate, and a medical certificate. Its operations will be limited to controlled areas as reflected in Si
+ Global' Flight Operations Manual. For the reasons set forth in the FAA's grant of an exemption to
+ Astraeus Aerial, Si Global does not believe a commercial pilot certificate is necessary for the
+ operations it intends to conduct. See, e.g., In the matter of the petition of Astraeus Aerial, Exemption
+ No. 11062 (issued Sept. 25, 2014). For those reasons, Si Global requests an exemption from 14 C.F.R.
+ § 61.113(a) and (b).
+
+                                                                                                3
+  
+
+          14 C.F.R. § 91.7(a): Civil Aircraft Airworthiness
+
+ Section 91.7 prohibits operation of an unairworthy aircraft, and places responsibility for airworthiness
+ determinations on the pilot in command. The sUASs will not have an airworthiness certificate, and
+ there is no FAA regulatory standard for determining airworthiness of the sUASs. Additionally, Si
+ Global' operating documents set forth inspection and maintenance procedures to ensure airworthiness.
+ For these reasons, and in accordance with the FAA's grant of an exemption from 91.7 to Total Safety
+ U.S., Inc., Si Global requests an exemption from 14 CFR. § 91.7(a). See, e.g., In the matter of the
+ petition of Total Safety U.S., Inc., Exemption No. 11156 (issued Jan. 29, 2015).
+
+          14 C.F.R. §91.119(b) and (c): Minimum Safe Altitudes
+
+ Section 91.119 establishes safe altitudes for operation of civil aircraft. Section 91.119(b) prohibits
+ aircraft in congested areas from flying less than 1,000 feet above the highest obstacle within a horizontal
+ radius of 2,000 feet of the aircraft. To the extent that the structures that Si Global would be inspecting
+ are considered to be in "congested areas,"1 Si Global' operational procedures, and the size, weight and
+ speed of the sUAS, provide an equivalent level of safety such that operations at lower altitudes should be
+ allowed.
+
+ As described in its Flight Operations Manual, Si Global will establish a 500' buffer/sterile area for its
+ operations that will exclude personnel not associated with the operations. Si Global will also exercise
+ additional control over the sterile area as needed, as set forth in the Manual. Consequently, Si Global
+ believes these procedures will reduce or eliminate any potential adverse impacts to safety for operations
+ in congested areas. Si Global therefore requests an exemption from 14 CFR
+ § 91.119(b).
+
+  Section 91.119 (c) prohibits operations in other than congested areas below 500 feet above the surface,
+ or closer than 500 feet to any person, vessel, vehicle or structure. As this exemption is for sUASs that
+ fly similarly to a helicopter and the exemption requests authority to operate at altitudes up to 400 ft AGL
+ (or no more than 50 ft above the structure being inspected, if taller than 400 ft) , an exemption may be
+ needed to allow such operations.
+
+ The equivalent level of safety will be achieved given the size, weight, speed of the UAS as well as the
+ location where it is operated. As discussed above, Si Global' Flight Operations Manual provides for
+ establishment of a sterile area, included safety buffers of 500 feet for personnel not associated with
+ the operation. A 100 foot safety buffer will be in place for authorized personnel associated with the
+ operation, unless the PIC determines a reduced buffer is essential to the current
+
+ 1 The FAA Office of the Chief Counsel has indicated that whether an area is "congested" is determined on a case-by-case
+ basis. See, e.g., June 18, 2012, Memorandum from Rebecca B. MacPherson, Assistant Chief Counsel for Regulations, to
+ James E. Gardner, Manager, Flight Standards Division, re "To what extent an operator can make a congested area
+ uncongested."
+
+                                                                                                4
+  
+
+ operation. Si Global therefore requests an exemption from Section 91.119(c) for all authorized
+ personnel associated with the operation.
+
+          14 C.F.R. §91.121 Altimeter Settings
+ This regulation requires each person operating an aircraft to maintain cruising altitude by reference to
+ an altimeter that is set "... to the elevation of the departure airport or an appropriate altimeter setting
+ available before departure." As the sUASs may not have a barometric altimeter, but instead a GPS
+ altitude read out, an exemption may be needed.
+
+          14 C.F.R. § 91.151(a): Fuel Requirements for Flight in VFR Conditions
+ Section 91.151 (a) prohibits an individual from beginning "a flight in an airplane under VFR
+ conditions unless (considering wind and forecast weather conditions) there is enough fuel to fly to the
+ first point of intended landing, and, assuming normal cruising speed ­ (1) During the day, to fly after
+ that for at least 30 minutes; or (2) At night, to fly after that for at least 45 minutes."
+ Maximum total flight time for each operational flight will be approximately 30 minutes. Flights will be
+ safely landed when the battery falls below its nominal voltage, should that occur prior to completion of
+ the operation. The sUASs Si Global proposes to use all have a Low Voltage Warning which alerts
+ when the battery reaches pre-determined levels. This battery level would be more than adequate to
+ return the sUAS to its planned landing zone from anywhere in its limited operating area when the Low
+ Voltage Warning alerts.
+ For these reasons, Si Global requests an exemption from 14 C.F.R. § 91.151(a). Similar exemptions
+ have been granted to other operations, including Exemptions 2689F, 5745, 10673, and 10808.
+
+          14 C.F.R. §91.405 (a); 407 (a) (1); 409 (a) (1) & (2); 417(a) & (b): Maintenance Inspections
+ These regulations require that an aircraft operator or owner "shall have that aircraft inspected as
+ prescribed in subpart E of this part and shall between required inspections, except as provided in
+ paragraph (c) of this section, have discrepancies repaired as prescribed in part 43 of this chapter ...,"
+ and others shall inspect or maintain the aircraft in compliance with Part 43.
+ As provided in Si Global' Operations Manual, the operator will ensure that the UAS is in working
+ order prior to initiating flight, perform required maintenance and inspections, and keep a log of any
+ maintenance performed.
+ VI. REGULATIONS FOR WHICH EXEMPTIONS ARE UNNECESSARY
+
+                                                                                                5
+  
+
+ The Federal Aviation Administration just issued a number of exemptions for UAS operations in filming
+ of movies. In those exemptions, the agency noted that exemptions from certain regulations were not
+ necessary, due to "the size, weight, speed and limited operating area associated with [the UASs] and its
+ operation."
+
+ Based upon the FAA's guidance, and the fact that Si Global sUASs are similar in size or smaller than
+ those proposed by the film-making industry, Si Global believes exemptions from the following
+ regulations are not necessary:
+
+                   14 C.F.R. Part 21, Subpart H: Airworthiness Certificates
+                   14 C.F.R. § 45.23 (b). Marking of the Aircraft
+                   14 C.F.R. §91.7(b): Civil aircraft airworthiness.
+                   14 C.F.R. §91.109: Flight instruction.
+
+ Si Global also believes that an exemption from 14 C.F.R. § 91.103: Preflight Action, is not
+ necessary. This regulation requires each pilot in command to take certain actions before flight to
+ insure the safety of flight. An FAA approved rotorcraft flight manual will not be provided for the
+ aircraft. An equivalent level of safety will be provided as set forth in the operating documents
+ submitted as part of this request.
+
+ The FAA has previously found that adherence to procedures contained in an applicant's operating
+ documents demonstrate compliance with § 91.103, and therefore an exemption from the regulation
+ was not necessary. See, e.g., In the matter of the petition of Total Safety U.S., Inc., Exemption No.
+ 11156 (issued Jan. 29, 2015).
+
+ As detailed in its operating documents, Si Global' PIC will take all actions including reviewing
+ weather, flight battery requirements, landing and takeoff clearance distances and aircraft
+ performance data before initiation of flight to ensure the safety of the flight. Consequently, in light
+ of the agency's prior finding in Total Safety U.S., Inc., Si Global does not believe an exemption
+ from 14 C.F.R. § 91.103 is necessary.
+
+ Pursuant to 14 C.F.R. Part 11, the following summary is provided for publication in the Federal
+ Register, should it be determined that publication is needed:
+
+          Si Global LLC seeks an exemption from the following rules:
+
+          14 C.F.R. § 61.113(a) and (b); 91.7 (a); 91.119(b) and (c); 91.121; 91.151(a); 91.405
+          (a); 91.407 (a) (1); 91.409 (a) (1) & (2) and 91.417 (a) & (b) to conduct aerial data collection.
+
+          Approval of exemptions allowing commercial operations of sUASs for these operations will
+          enhance safety by reducing risk. Conventional means for performing data collection on
+          elevated structures and other property require ladders, ropes, aerial lifts, or using conventional
+
+                                                                                                6
+  
+
+          helicopters operating at extremely low altitudes over the subject structure being photographed.
+          These conventional means all pose risks to persons and property.
+          In contrast, an sUAS weighing less than 55 lbs. and powered by batteries, eliminates virtually
+          all of that risk given the reduced mass and lack of combustible fuel carried on board. The
+          sUAS is carried to the project site and not flown. The sUAS will carry no passengers or crew
+          and, therefore, will not expose them to the risks associated with manned aircraft flights,
+          ground-based aerial lift (bucket truck) operations, or manual climbing and inspection
+          operations.
+          The operation of small UASs, weighing less than 55 lbs., conducted in the strict conditions
+          outlined above, will provide an equivalent level of safety supporting the grant of the
+          exemptions requested herein, including exempting Si Global from the requirements of Part 21
+          and allowing commercial operations. These lightweight aircraft operate at slow speeds, and
+          close to the ground, and, as a result, are far safer than conventional alternatives.
+          Privacy
+          All flights will occur over private or controlled access property with the property owner's
+          prior consent and knowledge.
+ Satisfaction of the criteria provided in Section 333 of the Reform Act of 2012--size, weight, speed,
+ operating capabilities, proximity to airports and populated areas and operation within visual line of sight
+ and national security ­ provide more than adequate justification for the grant of the requested
+ exemptions allowing commercial operation of Si Global' sUASs to conduct aerial data collection.
+ Very truly yours,
+
+ Roland H Beason
+
+ Roland H. Beason
+ Counsel for Si Global
+
+                                                                                                7
+

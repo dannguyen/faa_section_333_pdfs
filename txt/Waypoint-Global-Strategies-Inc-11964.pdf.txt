@@ -1,0 +1,1356 @@
+June 30, 2015
+
+                                                           Exemption No. 11964
+                                                           Regulatory Docket No. FAA­2015­0945
+
+Mr. Brandon Blackburn
+Cheif Executive Officer
+Mr. Brian Behling
+Director, Business Development
+Waypoint Global Strategies, Inc.
+146 Orange Place
+Maitland, FL 32751
+
+Dear Messrs. Blackburn and Behling:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter dated April 4, 2015, you petitioned the Federal Aviation Administration (FAA) on
+behalf of Waypoint Global Strategies, Inc. (hereinafter petitioner or operator) for an
+exemption. The petitioner requested to operate an unmanned aircraft system (UAS) to
+conduct aerial surveying, inspection, patrolling, monitoring, and public entity support.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner are the SenseFly eBee, C-Atral Bramor RTK, and DJI
+Inspire 1.
+                                                                                                                 2
+
+The petitioner requested relief from 14 CFR part 21, Certification procedures for products
+and parts, Subpart H--Airworthiness Certificates. In accordance with the statutory criteria
+provided in Section 333 of Public Law 112-95 in reference to 49 U.S.C. § 44704, and in
+consideration of the size, weight, speed, and limited operating area associated with the
+aircraft and its operation, the Secretary of Transportation has determined that this aircraft
+meets the conditions of Section 333. Therefore, the FAA finds that the requested relief from
+14 CFR part 21, Certification procedures for products and parts, Subpart H--Airworthiness
+Certificates, and any associated noise certification and testing requirements of part 36, is
+not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection1. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+ They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+ The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+ A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, Waypoint Global Strategies, Inc. is granted an
+exemption from 14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a),
+91.7(a), 91.119(c), 91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and
+91.417(a) and (b), to the extent necessary to allow the petitioner to operate a UAS to perform
+
+1 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                             3
+
+aerial data collection. This exemption is subject to the conditions and limitations listed
+below.
+
+Conditions and Limitations
+
+In this grant of exemption, Waypoint Global Strategies, Inc. is hereafter referred to as
+the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+1. Operations authorized by this grant of exemption are limited to the the SenseFly eBee,
+    C-Atral Bramor RTK, and DJI Inspire 1 when weighing less than 55 pounds including
+    payload. Proposed operations of any other aircraft will require a new petition or a
+    petition to amend this exemption.
+
+2. Operations for the purpose of closed-set motion picture and television filming are
+    not permitted.
+
+3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+    exemption holder may use either groundspeed or calibrated airspeed to determine
+    compliance with the 87 knot speed restriction. In no case will the UA be operated at
+    airspeeds greater than the maximum UA operating airspeed recommended by the
+    aircraft manufacturer.
+
+4. The UA must be operated at an altitude of no more than 400 feet above ground level
+    (AGL). Altitude must be reported in feet AGL.
+
+5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+
+    This requires the PIC to be able to use human vision unaided by any device other than
+    corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+    U.S. driver's license.
+
+6. All operations must utilize a visual observer (VO). The UA must be operated within
+    the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+    to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+    capability. The VO and PIC must be able to communicate verbally at all times;
+    electronic messaging or texting is not permitted during flight operations. The PIC
+    must be designated before the flight and cannot transfer his or her designation for the
+    duration of the flight. The PIC must ensure that the VO can perform the duties
+    required of the VO.
+
+7. This exemption and all documents needed to operate the UAS and conduct its
+    operations in accordance with the conditions and limitations stated in this grant of
+                                                                                                            4
+
+    exemption, are hereinafter referred to as the operating documents. The operating
+    documents must be accessible during UAS operations and made available to the
+    Administrator upon request. If a discrepancy exists between the conditions and
+    limitations in this exemption and the procedures outlined in the operating documents,
+    the conditions and limitations herein take precedence and must be followed.
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+                                                                                                            5
+
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+                                                                                       6
+
+exemption holder may apply for a new or amended COA if it intends to conduct
+operations that cannot be conducted under the terms of the attached COA.
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+
+    be as large as practicable.
+
+23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+    any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+    PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+    These documents must be made available to the Administrator or any law enforcement
+    official upon request.
+
+24. The UA must remain clear and give way to all manned aviation operations and
+    activities at all times.
+
+25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless:
+      a. Barriers or structures are present that sufficiently protect nonparticipating persons
+          from the UA and/or debris in the event of an accident. The operator must ensure
+          that nonparticipating persons remain under such protection. If a situation arises
+          where nonparticipating persons leave such protection and are within 500 feet of
+          the UA, flight operations must cease immediately in a manner ensuring the safety
+          of nonparticipating persons; and
+      b. The owner/controller of any vessels, vehicles or structures has granted permission
+          for operating closer to those objects and the PIC has made a safety assessment of
+          the risk of operating closer to those objects and determined that it does not
+          present an undue hazard.
+
+The PIC, VO, operator trainees or essential persons are not considered
+nonparticipating persons under this exemption.
+
+27. All operations shall be conducted over private or controlled-access property with
+    permission from the property owner/controller or authorized representative.
+    Permission from property owner/controller or authorized representative will be
+    obtained for each flight to be conducted.
+
+28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+
+    boundaries of the operational area as defined by the applicable COA must be reported
+    to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+                                                                                               7
+
+reported to the National Transportation Safety Board (NTSB) per instructions
+contained on the NTSB Web site: www.ntsb.gov.
+
+If this exemption permits operations for the purpose of closed-set motion picture and
+television filming and production, the following additional conditions and limitations apply.
+
+29. The operator must have a motion picture and television operations manual (MPTOM)
+    as documented in this grant of exemption.
+
+30. At least 3 days before aerial filming, the operator of the UAS affected by this
+    exemption must submit a written Plan of Activities to the local Flight Standards
+    District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+    notification may be waived with the concurrence of the FSDO. The plan of activities
+    must include at least the following:
+      a. Dates and times for all flights;
+      b. Name and phone number of the operator for the UAS aerial filming conducted
+          under this grant of exemption;
+      c. Name and phone number of the person responsible for the on-scene operation of
+          the UAS;
+      d. Make, model, and serial or N-Number of UAS to be used;
+      e. Name and certificate number of UAS PICs involved in the aerial filming;
+      f. A statement that the operator has obtained permission from property owners
+          and/or local officials to conduct the filming production event; the list of those
+          who gave permission must be made available to the inspector upon request;
+      g. Signature of exemption holder or representative; and
+      h. A description of the flight activity, including maps or diagrams of any area, city,
+          town, county, and/or state over which filming will be conducted and the altitudes
+          essential to accomplish the operation.
+
+31. Flight operations may be conducted closer than 500 feet from participating persons
+
+    consenting to be involved and necessary for the filming production, as specified in the
+    exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                    8
+
+This exemption terminates on July 31, 2017, unless sooner superseded or rescinded.
+Sincerely,
+
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+  
+
+ALEX MIROT                                           PRESIDENT
+386.866.0471  Alex.Mirot@UnmannedSafetyInstitute.Org
+
+U.S. Department of Transportation
+Docket Management System
+1200 New Jersey Ave., SE
+Washington, DC 20590
+
+April 3, 2015
+
+Re: Petition of WAYPOINT GLOBAL STRATEGIES, INC for Exemption Pursuant to
+Section 333 of the FAA Modernization and Reform Act of 2012
+
+Dear Sir and/or Madam:
+
+Pursuant to Section 333 of the FAA Modernization and Reform Act of 2012 ("Reform
+Act") and 14 C.F.R. Part 11, WAYPOINT GLOBAL STRATEGIES, INC
+("WAYPOINT"), hereby applies for an exemption from Federal Aviation Regulations ("F
+ARs") identified below, to allow commercial operations of small unmanned aerial
+vehicles (i.e., "small unmanned aircraft" or "sUAS").
+
+This exemption is made based on the information in this petition, as well as the
+accompanying UAS Operations Manual (''Operations Manual") and Emergency
+Response Plan. Petitioner submits the Operations Manual and Emergency Response
+Plan, and as Confidential documents under 14 C.F.R. § 11.35(b), as the entire
+Operations Manual and Emergency Response Plan contain confidential commercial and
+proprietary information that the Petitioner has not and will not share with others. The
+documents contain operating conditions and procedures that are not available to the
+public and are protected from release under the Freedom of Information Act, 5 U.S.C. §
+552 et seq., and any other requirements established by the FAA pursuant to Section
+333 of the FAA Reform Act.
+
+         For your convenience, the petition is organized as follows:
+
+    I. Description of Petitioner
+    II. Relevant Statutory Authority
+    III. Qualifications for Approval Under Section 333 of the Reform Act
+    IV. Description of Proposed Operations
+    V. Regulations From Which Exemption is Requested
+
+             a. 14 C.F.R. Part 21, Subpart H-Airworthiness Certificates and 14 C.F.R.
+                  § 91.203
+
+U.S. Department of Transportation
+April 3, 2015
+Page 1
+  
+
+             b. 14 C.F.R. § 61.113 (a) & (b), 61.133 (a): Private Pilot Privileges and
+                  Limitations: Pilot in Command. Commercial Pilot Privileges and
+                  Limitations.
+
+             c. 14 C.F.R. § § 91.9(c), and 45.23(b): Aircraft Marking and Identification
+                  Requirements
+
+             d. 14 C.F.R. § 91.9(b)(2): Civil Aircraft Flight Manual in the Aircraft and
+                  14 C.F.R. § 91.203(a) and (b): Carrying Civil Aircraft Certification and
+                  Registration
+
+             e. 14 C.F.R. § 91.7(a): Civil Aircraft Airworthiness F. 14 C.F.R. § 91.103:
+                  Preflight Action
+
+             f. 14 C.F.R. § 91.109(a): Flight Instruction
+             g. 14 C.F.R. § 91.119: Minimum Safe Altitudes
+             h. 14 C.F.R. § 91.121: Altimeter Settings
+             i. 14 C.F.R. § 91.151(a): Fuel Requirements for Flight in VFR Conditions
+             j. 14 C.F.R. § 91.405(a), 91.407(a)(1), 91.409(a)(2); 91.417(a) and (b):
+
+                  Maintenance Inspections
+    VI. Advanced UAS Flight Safety Training
+    VII. Drug and Alcohol Program
+    VIII. Public Interest
+    IX. Privacy
+    X. Federal Registry Summary
+    XI. Conclusion
+
+I. DESCRIPTION OF PETITIONER
+
+WAYPOINT is a strategy and technology consulting firm providing remote sensing, on-
+demand UAS flight service and advanced analytics solutions to customers in the civil
+and commercial markets worldwide. WAYPOINT provides digital satellite services and
+contract flight operations with sUAS to customers around the world. WAYPOINT is an
+affiliate of the Unmanned Safety Institute, a professional organization dedicated to UAS
+flight safety. WAYPOINT has been recognized by some of the world's leading
+insurance brokerage firms and underwriting companies as a leader in UAS operations,
+risk mitigation, and flight safety.
+
+WAYPOINT is the sole provider of UAS flight safety training to Global Aerospace's
+industry-leading SM4 Safety Program and the exclusive provider of flight safety
+education to individuals and proponent organizations seeking to safely operate sUAS
+around the world. Global Aerospace, a leading provider of insurance and risk
+management solutions for the aviation and aerospace industries, recognizes
+WAYPOINT as a highly competent proponent organization dedicated to aviation safety
+and the highest standards of excellence. Global Aerospace, with more than 90 years of
+experience, and over 14 offices around the world, has placed trust and confidence into
+WAYPOINT as the sole provider of flight safety training and education to its worldwide
+
+U.S. Department of Transportation
+April 3, 2015
+Page 2
+  
+
+portfolio of clients seeking to responsibly integrate sUAS into their businesses and
+operate safely.
+
+As an affiliate to the Unmanned Safety Institute, WAYPOINT staff have provided a
+variety of flight safety training programs to both individuals and proponent organizations
+around the world, as part of its role in the SM4 Safety Program, as well as through other
+independent channels. These include:
+
+         · A workshop on unmanned aviation safety to a major Part 135 operator
+             providing unique air services to government and private industry, including
+             international air ambulance services and transportation of unique cargo such
+             as explosives. The local FSDO participated in this training workshop.
+
+         · UAS safety training to one of the largest multinational oil and gas corporations
+             in the world.
+
+         · UAS operator training, flight safety training, and scenario-based training to
+             one of the largest electric utilities companies in the world, and a leading
+             utilities company in the United States.
+
+         · UAS flight safety education and curriculum development for Embry-Riddle
+             Aeronautical University, one of the world's most prestigious aviation
+             universities.
+
+WAYPOINT seeks the requested exemptions and a Certificate of Authorization to permit
+it to offer on-demand commercial UAS operations for the following industries and
+applications:
+
+         · Precision agriculture
+
+WAYPOINT has adopted a philosophy that recognizes that UAS operations are a part of
+complex, interconnected systems that make up the NAS. As a result, WAYPOINT, in
+partnership with the Unmanned Safety Institute, has instituted for its UAS operations in
+the NAS, a strict policy on flight safety. These include FAA-credentialed private pilots
+cross trained by the Unmanned Safety Institute to rigorous flight safety standards to
+serve as Pilot in Command (PIC), the designation of a Safety Manager and
+implementation of a robust Safety Management System (SMS), and participating in
+routine Safety Audits by the Unmanned Safety Institute.
+
+As set forth in more detail in the attached Confidential documents, WAYPOINT will
+provide a mission capable UAS, FAA-credentialed PIC who is trained and endorsed by
+the Unmanned Safety Institute, observer, sensor operator (if needed), and any
+additional flight crew members needed for the specific flight operation. WAYPOINT will
+retain operational control of all UASs, and each operation will be performed pursuant to
+a set of general procedures applicable to all flights, as well as additional flight
+procedures developed as suitable for each defined area of work.
+
+U.S. Department of Transportation
+April 3, 2015
+Page 3
+  
+
+The contact information for Petitioner is as follows:
+
+         WAYPOINT GLOBAL STRATEGIES, INC.
+         Attn: Aaron L. Greenwald
+         146 Orange Place, Maitland Florida 32751
+         Phone: (202) 505-0862
+         Toll-Free: 1-844-200-0155 Ext. 2
+         E-mail: Aaron.Greenwald@WaypointGS.com
+
+II. RELEVANT STATUTORY AUTHORITY
+
+This petition for exemption is submitted in accordance with the Section 333(a) through
+(c) of the FAA Modernization and Reform Act of 2012. Congress has directed the FAA
+"to safely accelerate the integration of civil unmanned aircraft systems into the national
+airspace system." Pursuant to Section 333 of the Reform Act, the FAA Administrator is
+to permit unmanned aircraft systems to operate in the National Airspace System
+("NAS") where it is safe to do so based on the following considerations:
+
+         · The UAS's size, weight, speed, and operational capability;
+         · Operation of the UAS in close proximity to airports and populated areas; and
+         · Operation of the UAS within the visual line of sight of the operator.1
+
+Additionally, the FAA Administrator has general authority to grant exemptions from its
+safety regulations and minimum standards when the Administrator decides a requested
+exemption is in the public interest. See 49 U.S.C. § 44701(±) (permitting exemptions
+from§§ 44701(a), (b) and§§ 44702-44716, et seq.). A party requesting an exemption
+must explain the reasons why the exemption: (1) would benefit the public as a whole,
+and (2) would not adversely affect safety (or how it would provide a level of safety at
+least equal to the existing rules). See 14 C.F .R. § 11.81 (petitions for exemption).
+
+III. QUALIFICATIONS FOR APPROVAL UNDER SECTION 333 OF THE REFORM
+ACT
+
+The proposed operations in this petition for exemption qualify for expedited approval
+under Section 333 of the Reform Act. Each of the statutory criteria and other relevant
+factors are satisfied.
+
+The proposed operations would permit the use of small and relatively inexpensive UAS
+under controlled conditions in airspace that is: (1) limited; (2) predetermined; (3)
+controlled as to access; and that (4) provides an increased level of safety beyond that
+existing when fixed or rotor wing aircraft are used to accomplish the same purpose.
+
+                                                                                                                         
+1 Id. at § 333(b)(1).
+U.S. Department of Transportation
+April 3, 2015
+Page 4
+  
+
+Given the small size of the sUASs involved and the restricted environment within which
+they will operate, this petition exemption falls within the zone of safety, i.e., an
+equivalent level of safety, in which Congress desired the FAA to permit commercial
+UAS operations by exemption pending completion of formal rulemaking. Also, due to
+the size of the sUASs, their sole intended use in remote sensing for agriculture, and the
+restricted area in which the sUASs will operate, approval of the application presents no
+national security issue.
+
+Considering the clear direction in Section 333 of the Reform Act, the authority contained
+in the Federal Aviation Act, as amended, the equivalent level of safety surrounding the
+proposed operations, and the significant public benefit, the grant of the requested
+exemptions is also in the public interest.
+
+Accordingly, Petitioner respectfully requests the FAA grant the requested exemption
+without delay.
+
+IV. DESCRIPTION OF PROPOSED OPERATIONS
+
+A. Scope of Operations.
+
+As an affiliate to the Unmanned Safety Institute, WAYPOINT will draw upon its vast
+aviation and flight safety experience to provide UAS services to a highly regarded
+agriculture customer in pre-defined areas. Detailed, industry specific procedures have
+been created and are set forth in the accompanying Confidential documents to ensure
+safe operation for the potential UAS application. To assist the FAA in its safety
+assessment of Petitioner's proposed sUAS operations, below is a summary of
+operational limitations and conditions, which will ensure an equivalent or higher level of
+safety to operations conducted under current regulatory guidelines:
+
+         1. The UAS will weigh less than 55 pounds.
+
+         2. Flights will be operated within visual line-of-sight of a pilot and/or observer.
+
+         3. Maximum total flight time for each operational flight will be limited to the
+             amount of time the UAS can be flown and still maintain a reserve battery
+             power of no less than 25%.
+
+         4. Flights will be operated at an altitude of no more than 400 feet above ground
+             level ("AGL"). As a result, the UAS flight will not be conducted within
+             navigable airspace.
+
+U.S. Department of Transportation
+April 3, 2015
+Page 5
+  
+
+         5. Flights will be operated at a lateral distance of least 100 feet from any
+             inhabited structures, buildings, vehicles, vessels, or people not associated
+             with the operation or who have not signed a waiver in advance of the
+             operation.
+
+         6. The petitioner will file a Notice to Airman ("NOTAM") with an appropriate air
+             traffic control ("ATC") facility between 72 and 48 hours before the flight.
+
+         7. A Certificate of Authorization ("COA'') will be obtained prior to flight.
+
+         8. The petitioner will coordinate operations with the appropriate Flight Standards
+             District Office ("FSDO").
+
+         9. Minimum crew for each operation will consist of the UAS Pilot, one or more
+             Visual Observers as necessary to safely conduct the mission, and a Sensor
+             Operator if required.
+
+         10. The UAS Pilot will hold an FAA private pilot's license with class III medical
+             certificate.
+
+         11. The observer designated for any operation will have at least a class II medical
+             certificate.
+
+         12. The UAS Pilot will be Pilot in Command ("PIC"). If a pilot certificate holder
+             other than the UAS Pilot, who possesses the necessary PIC qualifications, is
+             also present, that person can be designated as PIC.
+
+         13. The UAS will operate in accordance with the safety and operational
+             requirements of the Operations Manual.
+
+         14. Prior to the operation, a Safety Risk Analysis Plan (SRAP) will be created
+             which includes all safety and operational information necessary to safely carry
+             out the flight.
+
+         15. A briefing will be conducted in regard to the planned sUAS operations prior to
+             each day's missions. It will be mandatory that all personnel who will be
+             performing duties within the boundaries of the safety perimeter be present for
+             this briefing.
+
+         16. Pilot, Visual Observer and Sensor Operator will at all times be able to
+             communicate by voice.
+
+U.S. Department of Transportation
+April 3, 2015
+Page 6
+  
+
+         17. The UAS PIC will be trained and certified by the Unmanned Safety Institute to
+             the Professional System Operator© ("PSO©") level. To obtain the PSO
+             credential, the UAS PIC must possess an FAA Private Pilots License, obtain
+             a aircraft-specific training on the specific air vehicle, and attend an Small
+             Unmanned Aircraft Safety workshop presented by the Unmanned Safety
+             Institute. The PSO© credential, outlined further below, will address critical
+             components of safe flight for UAS operators.
+
+         18. All required permissions and permits will be obtained from territorial, state,
+             county or city jurisdictions, including local law enforcement, fire or other
+             appropriate governmental agencies.
+
+         19. The operator will file a FAA Form 7711-1, or its equivalent, as modified in light
+             of the requested exemption, with the local Flight Standards District Office
+             ("FSDO").
+
+         20. If the sUAS loses communications or loses its GPS signal, the sUAS will have
+             the capability to return to a pre-determined location within the operational
+             area and land.
+
+         21. An Emergency Response Plan will be developed to safely terminate flight if
+             there is a loss of communication between the pilot and the observer.
+
+         22. The UAS will have the capability to abort a flight in case of unpredicted
+             obstacles or emergencies.
+
+         23. The petitioner will enroll in the Unmanned Safety Institute's Safety Audit
+             Program that will independently assess petitioner's safety management
+             practices. Petitioner will designate a Safety Manager and also implement
+             Safety Management Systems (SMS) to ensure UAS flight safety best
+             practices. .
+
+V. REGULATIONS FROM WHICH EXEMPTION IS REQUESTED
+
+The Federal Aviation Act expressly grants the FAA the authority to issue exemptions.
+This statutory authority, by its terms, includes exempting civil aircraft, as the term is
+defined under§ 40101 of the Act, including sUASs, from its safety regulations and
+
+U.S. Department of Transportation
+April 3, 2015
+Page 7
+  
+
+minimum standards when the Administrator decides a requested exemption is in the
+public interest.2
+
+Petitioner seeks an exemption from several interrelated provisions of 14 C.F.R. Parts
+21, 45, 61 and 91 for purposes of conducting the requested operations using a UAS.
+Listed below are (1) the specific sections of 14 C.F .R. for which exemption is sought,
+and (2) the operating procedures and safeguards that Petitioner has established which
+will ensure a level of safety better than or equal to the rules from which exemption is
+sought.3
+
+A. 14 C.F.R. Part 21, Subpart H- Airworthiness Certificates and 14 C.F.R. §
+91.203(a)(1)
+
+Petitioner seeks an exemption from 14 C.F.R. Part 21, Subpart H, which establishes the
+procedural requirements for the issuance of airworthiness certificates as required by 14
+C.F .R. § 91.203(a)(1). The Federal Aviation Act and Section 333 of the Reform Act
+both authorize the FAA to exempt aircraft from the requirement for an airworthiness
+certificate, upon consideration of the size, weight, speed, operational capability, and
+proximity to airports and populated areas of the particular UAS.
+
+All UAS operated by WAYPOINT will meet the requirements of a small UAS, i.e., have a
+gross take-off weight of less than 55 pounds. Given the size and limited operating area
+associated with the UAS operations, an exemption from Part 21, Subpart H, meets the
+requirements of an equivalent level of safety under Part 11 and Section 333 of the
+Reform Act.
+
+In all cases, an analysis of these criteria demonstrates that the sUAS operated without
+an airworthiness certificate, in the restricted environment and under the conditions
+proposed, will be at least as safe as, or safer than, a conventional aircraft operating with
+an airworthiness certificate without the restrictions and conditions of the proposed sUAS
+operations.
+
+Equivalent Level of Safety
+
+The sUASs to be operated hereunder weigh less than 55 pounds with payload, carry
+neither a pilot nor passenger, carry no explosive materials or flammable liquid fuels, and
+operate exclusively within a secured and sterile area. Unlike other civil aircraft, the
+proposed operations will be controlled and monitored by the operator, as well as an
+
+                                                                                                                         
+2 See 49 U.S.C. § 44701(f) (authorizing the grant of exemptions from requirements of regulations
+prescribed pursuant to Sections 44701(a) and (b) and Sections 44702- 44716)
+3  See 14 C.F .R. § 11.81 (e), which requires a petition for exemption to include: The reasons why granting
+the exemption would not adversely affect safety, or how the exemption would provide a level of safety at
+least equal to that provided by the rule from which you seek exemption.  
+U.S. Department of Transportation
+April 3, 2015
+Page 8
+  
+
+observer and sensor operator, pursuant to the Manual's requirements. Moreover, the
+FAA will have advance notice of all operations conducted under this exemption.
+
+These safety enhancements, which already apply to civil aircraft operated in connection
+with existing inspection operations, provide a greater degree of safety to the Petitioner's
+employees, members of the public, and property owners than conventional operations
+conducted with airworthiness certificates issued under 14 C.F.R. Part 21, Subpart H.
+Lastly, application of these same criteria demonstrates that there is no credible threat to
+national security posed by the sUAS, due to its size, speed of operation, lack of
+explosive materials or flammable liquid fuels, and inability to carry a substantial external
+load.
+
+B. 14 C.F.R. § 61.113 (a) & (b), 61.133 (a): Private Pilot Privileges and Limitations:
+Pilot in Command. Commercial Pilot Privileges and Limitations.
+
+The regulation provides that no person that holds a private pilot certificate may act as
+pilot in command of an aircraft for compensation or hire. Subparagraph (b) allows a
+private pilot to act as pilot in command of an aircraft in connection with any business or
+employment if: (1) The flight is only incidental to that business or employment; and (2)
+The aircraft does not carry passengers or property for compensation or hire.
+
+WAYPOINT's proposed operations meet the requirements of 8900.227 para 16(c)(2)(c)
+"Operations without a pilot certificate" in which the PIC is required to complete "FAA
+private pilot ground instruction" and pass "the FAA Private Pilot written examination."
+Since there are currently no means available for the pilot of a UAS to gain the
+experience in an equivalent category and class in order to apply for a commercial pilot's
+license, WAYPOINT's proposed operations can achieve the equivalent level of safety by
+having their pilots to complete an advanced flight safety training program as outlined in
+Section VI of this petition whereby all pilots employed by WAYPOINT will undergo
+advanced UAS training by the Unmanned Safety Institute and each be certified as a
+Professional System Operator©.
+
+Equivalent Level of Safety
+
+Because the UAS will not carry a pilot or passengers, the proposed operations can
+achieve the equivalent level of safety of current operations by requiring the PIC
+operating the aircraft to have a private pilot's license rather than a commercial pilot's
+license to operate this small UAS, as well as an advanced UAS flight safety training as
+documented in Section VI of this petition. Unlike a conventional aircraft that carries the
+pilot and passengers, the sUAS is remotely controlled with no person on board. The
+area of operation is controlled and restricted, and all flights are planned and coordinated
+in advance as set forth in the Operations Manual. The level of safety provided by the
+requirements included in the Operations Manual exceeds that provided by a single
+individual holding a commercial pilot's certificate operating a conventional aircraft. The
+
+U.S. Department of Transportation
+April 3, 2015
+Page 9
+  
+
+risks associated with the operation of the sUAS are so diminished from the level of risk
+associated with commercial operations contemplated by Part 61 when drafted, that
+allowing operations of the sUAS as requested with a private pilot who holds advanced
+UAS flight safety training exceeds the present level of safety achieved by 14 C.F.R.
+§61.113 (a) & (b).
+
+C. 14 C.F.R. § § 91.9(c) and 45.23(b): Aircraft Marking and Identification
+Requirements
+
+Petitioner seeks an exemption from the aircraft marking and identification requirements
+contained in 14 C.F.R. § § 91.9(c), and 45.23(b).
+
+    · 14 C.F.R. § 91.9(c), Civil Aircraft Flight Manual, Marking and Placard
+         requirements, provides that:
+
+                  No person may operate a U.S.-registered civil aircraft unless that aircraft
+                  is identified in accordance with Part 45 of this chapter.
+
+    · 14 C.F.R. § 45.23(b), Markings of the Aircraft, states:
+
+                  When marks include only the Roman capital letter "N" and the registration
+                  number is displayed on limited, restricted or light-sport category aircraft or
+                  experimental or provisionally certificated aircraft, the operator must also
+                  display on that aircraft near each entrance to the cabin, cockpit, or pilot
+                  station, in letters not less than 2 inches nor more than 6 inches high, the
+                  words "limited," "restricted," "light-sport, "experimental," or "provisional,"
+                  as applicable.
+
+Exemption from 14 C.F.R. § 45.23(b) is warranted because the sUAS has no entrance
+to the cabin, cockpit, or pilot station on which the word "Experimental" can be placed.
+Moreover, given the size of the sUAS, two-inch lettering will be impossible. The word
+"Experimental" will be placed on the fuselage in compliance with 14 C.F.R. § 45.29(f).
+
+Equivalent Level of Safety
+
+The equivalent level of safety for exemptions to the aircraft marking and identification
+requirements of§§ 91.9(c) and 45.23(b) and will be provided by having the sUAS
+marked on its fuselage as required by § 45.29(f).
+
+The FAA has previously issued the following exemptions to the aircraft marking
+requirements of§ 45.23(b): Exemption Nos. 10700, 10167 and 10167A.
+
+U.S. Department of Transportation
+April 3, 2015
+Page 10
+  
+
+D. 14 C.F.R. § 91.9(b)(2): Civil Aircraft Flight Manual in the Aircraft and 14 C.F.R. §
+91.203(a) and (b): Carrying Civil Aircraft Certification and Registration
+
+Pursuant to 14 C.F.R. § 91.9(b)(2):
+
+         (b) No person may operate a U.S.-registered civil aircraft
+
+         (2) For which an Airplane or Rotorcraft Flight Manual is not required by§ 21.5 of
+         this chapter, unless there is available in the aircraft a current approved airplane
+         or Rotorcraft Flight Manual, approved manual material, markings and placards,
+         or any combination thereof.
+
+Pursuant to 14 C.F.R. § 91.203(a) and (b):
+
+         (a) Except as provided in§ 91.715, no person may operate a civil aircraft unless it
+         has within it the following:
+
+         (1) An appropriate and current airworthiness certificate...
+
+         (b) No person may operate a civil aircraft unless the airworthiness certificate
+         required by paragraph (a) of this section or a special flight authorization issued
+         under § 91.715 is displayed at the cabin or cockpit entrance so that it is legible to
+         passengers or crew.
+
+WAYPOINT does not request an exemption from this section but instead notifies the
+FAA that, in accordance with FAA Office of Chief Counsel's Opinion dated August 8,
+2014, the UAS flight manual, registration certificate and other documentation will be
+kept at the control station with the PIC during flight. The Chief Counsel's Office has held
+that for all UAS operations, this alternate method constitutes full compliance with the
+regulations.
+
+E. 14 C.F.R. § 91.7(a): Civil Aircraft Airworthiness
+
+Petitioner seeks an exemption from 14 C.F.R. § 91.7(a), which requires that a civil
+aircraft be in airworthy condition to be operated. Inasmuch there will be no airworthiness
+certificate issued for the sUAS, should this exemption be granted, no FAA regulatory
+standard will exist for determining airworthiness.
+
+Equivalent Level of Safety
+
+The UASs will be fully maintained and operated in accordance with all specifications
+and requirements identified by the manufacturer. WAYPOINT will only operate sUAS
+that have a proven track record of reliability and safety. Further, given that no UAS will
+
+U.S. Department of Transportation
+April 3, 2015
+Page 11
+  
+
+be operated by WAYPOINT with a weight of over 55 pounds, and no UAS will be flown
+unless it has been maintained and prepared for flight in accordance with the
+manufacturer's requirements, an equivalent level of safety will be provided.
+
+The FAA has issued the following exemptions to this regulation: Exemption Nos. 8607,
+8737, 8738, 9299, 9299A, 9565, 9565B, 10167, 10167A, 10602, 32827, and 10700.
+
+F. 14 C.F.R. § 91.103: Preflight Action
+
+Petitioner seeks an exemption from 14 C.F.R.§ 91.103, which requires a PIC to become
+familiar with specific information before each flight, including information contained in
+the FAA-approved Flight Manual on board the aircraft. While the PIC will be familiar with
+all information necessary to safely conduct the flight, an exemption is requested to the
+extent that an FAA -approved Flight manual is required.
+
+Equivalent Level of Safety
+
+An equivalent level of safety will be provided by following the Aircraft Operations Manual
+and flight manual provided by the manufacturer. The PIC will take all required preflight
+actions- including reviewing weather, flight battery requirements, landing and takeoff
+distance, and aircraft performance data - before initiation of flight. The Aircraft
+Operations Manual and manufacturer's flight manual will be kept at the ground station
+with the operator at all times.
+
+G. 14 C.F.R. § 91.109(a): Flight Instruction
+
+Petitioner seeks an exemption from 14 C.F.R. § 91.109(a), which provides that "no
+person may operate a civil aircraft (except a manned free balloon) that is being used for
+flight instruction unless that aircraft has fully functioning dual controls." sUASs and
+remotely piloted aircraft, by their design, do not have functional dual controls. Instead,
+flight control is accomplished through the use of a box that communicates with the
+aircraft via radio communications.
+
+Equivalent Level of Safety
+
+Given the size and speed of the sUAS, an equivalent level of safety can still be
+achieved without dual controls because no pilot or passengers are aboard the sUAS,
+and all persons will be a safe distance away in the event that the sUAS experiences any
+difficulties during flight instruction.
+
+U.S. Department of Transportation
+April 3, 2015
+Page 12
+  
+
+The FAA has approved exemptions for flight training without fully functional dual
+controls for a number of aircraft and for flight instruction in experimental aircraft.
+Exemptions include: Nos. 5778K and 9862A.
+
+H. 14 C.F.R. § 91.119: Minimum Safe Altitudes
+
+Petitioner requests an exemption from the minimum safe altitude requirements of 14
+C.F .R. § 91.119. Section 91.119 prescribes the minimum safe altitudes under which
+aircraft may not operate, including 500 feet above the surface and away from any
+person, vessel, vehicle, or structure in non-congested areas; See 14 C.F .R. §
+91.119(c). Section 91.119(d) allows for a helicopter to operate at less than those
+minimum altitudes when it can be operated "without hazard to persons or property on
+the surface," provided that "each person operating the helicopter complies with any
+routes or altitudes specifically prescribed for helicopters by the FAA."
+
+To provide the intended services, the sUAS is normally operated below 400 feet AGL.
+Additionally, the sUAS will maintain a lateral distance of at least 100 feet from inhabited
+structures, buildings, vehicles, and vessels, and from people not associated with the
+operation.
+
+Equivalent Level of Safety
+
+Compared to flight operations with rotorcraft weighing far more than the maximum
+sUAS weight proposed herein, and given the lack of flammable fuel, any risk associated
+with these operations is far less than those that presently exist with conventional
+aircraft. An equivalent level of safety will be achieved given the 'size, weight, and speed
+of the UAS, as well as the location where it is operated. As set forth in the Manual, the
+sUAS will be operated in a restricted area. Furthermore, by operating at such lower
+altitudes, the sUAS will not interfere with other aircraft that are subject to the minimum
+safe altitude regulations.
+
+I. 14 C.F.R. § 91.121: Altimeter Settings
+
+This petition seeks an exemption from 14 C.F .R. § 91.121, which requires a person
+operating an aircraft to maintain cruising altitude or flight level by reference to an
+altimeter that is set to the elevation of the departure airport or barometric pressure. An
+exemption is required to the extent that the sUAS does not have a barometric altimeter,
+but rather a GPS altitude read out.
+
+Equivalent Level of Safety
+
+An equivalent level of safety will be achieved by following the procedures set forth in the
+Manual. As prescribed in the Manual, the operator will confirm the altitude of the launch
+
+U.S. Department of Transportation
+April 3, 2015
+Page 13
+  
+
+site shown on the GPS altitude indicator before flight. Moreover, the PIC will use the
+GPS altitude indicator to constantly monitor the sUAS's height, thus ensuring operation
+at safe altitudes.
+
+J. 14 C.F.R. § 91.151(a): Fuel Requirements for Flight in VFR Conditions
+
+Petitioner requests an exemption from 14 C.F.R. § 91.151(a)'s fuel requirements for
+flight in VFR conditions. Section 91.151 states:
+
+         (a) No person may begin a flight in an airplane under VFR conditions unless
+         (considering wind and forecast weather conditions) there is enough fuel to fly to
+         the first point of intended landing and, assuming normal cruising speed
+
+         (1) During the day, to fly after that for at least 30 minutes; or
+
+         (2) At night, to fly after that for at least 45 minutes.
+
+Here, the technological limitations on sUAS battery power means that no meaningful
+flight operations can be conducted while still maintaining a 30-minute reserve.
+WAYPOINT proposes that all flights comply with this requirement by mandating that the
+aircraft be safely landed with no less than 25% of battery life remaining.
+
+Equivalent Level of Safety
+
+An equivalent level of safety will be achieved because the operations will be conducted
+on-site without significant transit time by the sUAS. All flights will be planned to be
+terminated with no less than 25% reserve battery power still available. This restriction
+would be more than adequate to return the sUAS safely to the ground and its planned
+landing zone from anywhere in its limited operating area even in the event of an
+unexpected occurrence. Operation of the sUAS with less than 30 minutes of reserve
+fuel does not include the type of risks that Section 91.151 (a) was intended to alleviate
+given the size and speed of the small UAS, and the proximity of the flight operation to
+the landing zone. Moreover, operation will be limited to controlled areas where only
+people and property owners, or official representatives who have signed waivers, will be
+allowed.
+
+This request for exemption falls within the scope of prior exemptions, including
+Exemption Nos. 10673, 2689F, 5745, 10673, and 10808.
+
+U.S. Department of Transportation
+April 3, 2015
+Page 14
+  
+
+K. 14 C.F.R. § 91.405(a), 91.407(a)(l), 91.409(a)(2); 91.417(a) and (b): Maintenance
+Inspections
+
+Petitioner also seeks an exemption from the maintenance inspection requirements
+contained in 14 C.F.R. § 91.405(a), 91.407(a)(l), 91.409(a)(2); 91.417(a) and (b). These
+regulations specify maintenance and inspection standards in reference to 14 C.F.R.
+Part 43. See, e.g., 14 C.F.R.§ 91.405(a) (stating that each owner or operator of an
+aircraft "[s]hall have the aircraft inspected as prescribed in subpart E of this part and
+shall between required inspections ... have discrepancies repaired as prescribed in part
+43 of this chapter"). An exemption to these regulations is needed because Part 43 and
+these sections only apply to aircraft with an airworthiness certificate, which the sUAS
+will not have.
+
+Equivalent Level of Safety
+
+An equivalent level of safety will be achieved because maintenance and inspections will
+be performed in accordance with the UAS Manufacturer's Manual, as referenced in the
+Aircraft Operations Manual. As provided in the Operations Manual, the operator will
+ensure that the sUAS is in working order prior to initiating flight, perform required
+maintenance, and keep a log of any maintenance performed. The operator is the person
+most familiar with the aircraft and best suited to maintain the aircraft in an airworthy
+condition to provide the equivalent level of safety.
+
+If mechanical issues arise, the sUAS's size and carrying capacity, and the fact that flight
+operations will only take place in restricted areas for limited periods of time during
+daylight hours, creates less risk than that associated with conventional aircraft
+performing the same operation.
+
+VI. ADVANCED UAS FLIGHT SAFETY TRAINING
+
+WAYPOINT recognizes that UAS present a significant and complex flight safety
+challenge within the NAS. WAYPOINT is committed to the highest standards of
+excellence in flight safety and safety risk management. As a result, any PIC employed
+by WAYPOINT will not only possess a Private Pilot's License provided by the FAA but
+will also be trained and certified as a Professional System Operator© (PSO©) by the
+Unmanned Safety Institute.
+
+To become certified as a PSO©, the student must have a valid Private Pilot's License
+issued by the FAA. After presenting this credential the candidate must attend and pass
+the Small Unmanned Aircraft System Safety workshop at the Unmanned Safety
+Institute. This workshop focuses on eight specific flight safety modules.
+
+U.S. Department of Transportation
+April 3, 2015
+Page 15
+  
+
+    Area one: Unmanned Aircraft Systems
+
+       1. Small unmanned aircraft system loading and performance
+       2. Basic unmanned aircraft systems
+       3. Dealing with common UAS Emergencies
+
+    Area two: Operations Planning
+
+       1. Field site survey and preparation
+       2. Safety zones and sterile area concept
+       3. Energy planning
+
+    Area three: Weather
+
+      1. Official sources of weather and effects of weather on performance
+      2. Field weather measurements
+
+    Area four: Airspace
+
+      1. Rules and Regulations
+      2. Airspace classification, control authority, and operating requirements
+      3. Procedures for safely operating near airports
+
+    Area five: Crew Resource Management
+
+      1. Human factors and Crew resource management
+      2. Physiological effects of drugs and alcohol
+      3. Six core Crew Resource Management concepts
+      4. The crew concept
+
+    Area six: Hazard Identification and Mitigation
+
+     1. Four hazard domains
+     2. Risk mitigation strategies
+
+    Area seven: Aeronautical Decision Making
+
+     1. Decision processes
+     2. Limitations and external pressures
+
+    Area eight: Safety Management Systems
+
+    1. Safety Procedures and Policy
+    2. Assessing risks
+    3. Safety Assurance practices
+    4. Safety promotion
+
+U.S. Department of Transportation
+April 3, 2015
+Page 16
+  
+
+Upon completion of the Small UAS Safety Workshop, the candidate must participate in
+Unmanned Aircraft ("UA") specific training and demonstrate proficiency in UAS type.
+This UA training must include all areas listed below per Unmanned Safety Institute
+guidelines;
+
+Area 1: Syllabus and Instruction Administration
+
+    1. Clearly defined objectives for each block of training
+    2. Training plan defining the number and sequence of events
+    3. Each training event has a completion standard and has identified items that must
+
+         be covered in order to be considered complete
+    4. Training may include a combination of CBT, classroom, simulation, and live fly
+
+         however, the program must include the greater of 5 hours or 10 flight training
+         cycles
+    5. The training plan has standardized grade sheets for each block of training and is
+         "signed off" by both the trainee and the instructor
+    6. The training record is kept for one year after training (digital versions okay)
+    7. The training operator has an instructor upgrade and qualification program
+    8. All trainees are required to pass a standardized practical and written test
+         administered by an impartial party (check airman, chief of training, evaluator,
+         etc.)
+    9. Trainees participate in operations as part of a team conducting full scale
+         operations, not just part tasks as individual crew positions
+    10. Safety program and records of data
+
+Area 2: Vehicle Specification
+
+    1. Is capable of waypoint navigation
+    2. Has stabilization and stability augmented by automation
+    3. Has a human machine interface other than just a controller
+
+Area 3: Unmanned Aircraft Vehicle Specific Module
+
+    1. Systems components and functions
+    2. Flight controls, aerodynamics and modes of control
+    3. Telemetry and displays
+    4. Payloads and use
+    5. Data link equipment, operational bands, and limitations
+    6. Mission/operation planning software
+    7. Performance and limitations
+    8. UAS flight manual and documents review
+
+Area 4: Pre-flight Procedures Module
+
+    1. Certificates, logs and documents
+    2. Preflight inspection
+    3. Control station and antenna equipment setup (if applicable)
+
+U.S. Department of Transportation
+April 3, 2015
+Page 17
+  
+
+    4. Launch and recovery equipment, operational use, service limits, setup and
+         teardown
+
+    5. Engine/motor starting
+    6. Before takeoff check
+    7. Radio/communications with ATC or CTAF
+
+Area 5: Launch and Recovery Procedures Module
+
+    1. Normal and crosswind launch and recovery
+    2. Normal and crosswind approach
+    3. Confined area operations (if applicable to UAS)
+    4. Go-around
+    5. Controlling rate of descent (if applicable to UAS)
+
+Area 6: Hover/Orbit Maneuvers Module
+
+    1. GPS fixed position hold
+    2. Hover
+    3. Station keeping to maintain a fixed orbit around a point
+
+Area 7: Operational Maneuvers Module
+
+    1. Departure climb outs
+    2. Level off/routine checks
+    3. Establishing and maintaining alt.
+    4. Straight and level flight
+    5. Airspeed change, straight-and-level
+    6. Clearing turns with aircraft or payload (if applicable)
+    7. Climbs
+    8. Systems monitoring during turns
+    9. Inflight change of waypoints or flight path
+    10. Descends or arrival profiles
+    11. Edge of visual range operations
+    12. In-flight checks of the system
+    13. Proper checklist usage (if applicable)
+
+Area 8: Navigation Module
+
+    1. Use of local area map for orientation
+    2. Map reading (aeronautical charts)
+    3. Correlation of aircraft position with map
+    4. Maneuvering within assigned airspace
+    5. Using visual landmarks in flight
+    6. Waypoint placement and selection(if applicable)
+    7. Switching autopilot modes of control (if applicable)
+    8. Data link management
+    9. Use of fail safes or "geo fences" to limit UAS operations (if applicable)
+    10. Calculation of actual fuel/energy consumption
+
+U.S. Department of Transportation
+April 3, 2015
+Page 18
+  
+
+    11. In-flight navigation or flight path planning
+    12. Calculation/compensation for in flight winds
+    13. Calculation of estimated time of arrival (eta)
+
+Area 9: Airmanship Module
+
+    1. GCS and flight line safety procedures
+    2. Flight line and air discipline
+    3. Airmanship, judgment, & decision making and situation awareness
+
+Area 10: Abnormal and Emergency Module
+
+    1. Loss of data link
+    2. Systems and equipment malfunction
+    3. Aircraft runaway
+    4. Flight termination
+    5. Uncontrolled flight into an obstacle
+    6. Airspace violation
+    7. Stalls or abnormal flight recovery procedures
+
+Area 11: Crew Interaction Module
+
+    1. Collision awareness using a visual observer
+    2. Crew communication and coordination
+    3. Briefing and debriefing
+    4. Recovering from loss of situation awareness
+    5. Identifying lapses in flight safety
+
+Area 13: Post-Flight Module
+
+    1. After landing checks
+    2. Post landing procedures
+    3. Engine shutdown checks
+    4. Equipment tear down (if applicable)
+    5. Servicing or minor repairs to the systems
+    6. Completion of flight time logs
+    7. Completion of maintenance logs
+    8. Safety procedures for securing UAS components
+
+This course of study and practice comprise the advanced flight safety training provided
+by the Unmanned Safety Institute and is widely recognized by the world's leading
+aviation insurance underwriting organizations and brokers. This training, in conjunction
+with the additional requirements for UAS PIC noted above, will ensure the operator
+conducts flight safety practices of the highest standards as certified and endorsed by
+the Unmanned Safety Institute.
+
+U.S. Department of Transportation
+April 3, 2015
+Page 19
+  
+
+VII. DRUG AND ALCOHOL PROGRAM
+
+As set forth in the Manual, WAYPOINT is committed to a drug-free work place and the
+right of the flying public it serves to safe and efficient flight service. All employees of
+WAYPOINT who perform safety sensitive and/or security related functions are
+prohibited from performing work if they have alcohol or a prohibited drug in their system.
+
+VIII. PUBLIC INTEREST
+
+Granting WAYPOINT's exemption request furthers the public interest. National policy
+set by Congress favors early integration of UAS into the NAS in controlled, safe working
+environments such as those proposed in this petition. In addition, maintaining industrial
+safety has been a priority of state and local governments for decades. By its nature, the
+proposed use of sUAS offers superior safety to performing the same tasks with
+conventional aircraft or rotorcraft.
+
+In addition, granting the exemption will help advance the knowledge base for conducting
+commercial UAS operations. WAYPOINT is committed to working with the local FSDO
+to share data from its operations.
+
+This additional data will help the FAA set future rules regarding UAS flight operations,
+maintenance, and crew qualifications. The public also has an interest in reducing the
+hazards and emissions associated with alternate use of conventional aircraft to conduct
+similar operations. The UAS in question is very light weight and does not carry any
+flammable fuel, further reducing the risk from any potential accident.
+
+IX. PRIVACY
+
+All flights will occur in accordance with any state or local laws regarding privacy.
+
+X. FEDERAL REGISTRY SUMMARY
+
+Pursuant to 14 C.F.R. Part 11, the following summary is provided for publication in the
+Federal Register, should it be determined that publication is needed:
+
+         WAYPOINT seeks an exemption from the following rules:
+         · 14 CFR Part 21, Subpart H
+         · 14 CFR 45.23(b)
+         · 14 CFR 61.113 (a) & (b)
+         · 14 CFR Part 61.133 (a)
+         · 14 CFR 91.7(a)
+
+U.S. Department of Transportation
+April 3, 2015
+Page 20
+  
+
+         · 14 CFR 91.9(b)(2)
+
+         · 14 CFR 91.103
+         · 14 CFR 91.109(a)
+         · 14 CFR 91.119
+         · 14 CFR 91.121
+         · 14 CFR 91.151(a)
+         · 14 CFR 91.203 (a) & (b)
+         · 14 CFR 91.405(a)
+         · 14 CFR 91.407(a)(1)
+         · 14 CFR 91.409(a)(2)
+         · 14 CFR 91.417 (a) & (b)
+
+Approval of these exemptions will allow WAYPOINT to offer on-demand commercial
+UAS operations for applications in precision agriculture. The exemptions will enhance
+safety by reducing risk to the general public and property owners from the hazards
+associated with performing equivalent work with conventional aircraft and rotorcraft.
+
+XI. CONCLUSION
+
+Satisfaction of the criteria provided in Section 333 of the Reform Act of 2012-size,
+weight, speed, operating capabilities, proximity to airports and populated areas,
+operation within visual line of sight, and national security-provides more than adequate
+justification for the grant of the requested exemptions to permit WAYPOINT to operate
+sUASs and provide on-demand UAS services to private entities.
+
+Granting the requested exemption will benefit the public interest as a whole in many
+ways, including (1) significantly improving safety and reducing risk by alleviating human
+exposure to danger, and (2) improving the quality of services and decreasing operating
+costs compared with conventional flight operations.
+
+If you have any questions or require any additional information, please do not hesitate
+to call.
+
+                                                 UNMANNED SAFETY INSTITUTE, LLC
+
+                                                  ________________________________
+                                                      Alex Mirot, President
+                                                      (386) 866-0471
+
+Attachments: Operations Manual and Emergency Response Plan (submitted as a
+Confidential Documents under 14 C.F.R. § 11.35(b) and exempt from disclosure under
+
+U.S. Department of Transportation
+April 3, 2015
+Page 21
+  
+
+the Freedom of Information Act, 5 U.S.C. § 552 et seq., and any other requirements
+established by the FAA pursuant to Section 333 of the Reform Act).
+
+U.S. Department of Transportation
+April 3, 2015
+Page 22
+

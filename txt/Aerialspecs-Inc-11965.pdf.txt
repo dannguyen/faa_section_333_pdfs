@@ -1,0 +1,1929 @@
+June 30, 2015
+
+                                                           Exemption No. 11965
+                                                           Regulatory Docket No. FAA­2015­0222
+
+Mr. Douglas Sigler
+CEO and Owner
+Aerialspecs, Inc.
+48675 Jefferson Drive
+Macomb, MI 48044
+
+Dear Mr. Sigler:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter posted to the public docket on January 30, 2015, you petitioned the Federal Aviation
+Administration (FAA) on behalf of Aerialspecs, Inc. (hereinafter petitioner or operator) for an
+exemption. The petitioner requested to operate an unmanned aircraft system (UAS) to
+conduct remote visual line-of-sight videography, data collection, sensing, and visual
+inspection.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner. However, the FAA
+received two comments in support of the petition made to the docket.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner are the Lockheed Martin Indago, DJI Phantom 3, DJI
+Inspire 1, DJI S900, DJI S1000, and SenseFly eBee Ag.
+                                                                                                                 2
+
+The petitioner requested relief from 14 CFR part 21, Certification procedures for products
+and parts, Subpart H--Airworthiness Certificates. In accordance with the statutory criteria
+provided in Section 333 of Public Law 112-95 in reference to 49 U.S.C. § 44704, and in
+consideration of the size, weight, speed, and limited operating area associated with the
+aircraft and its operation, the Secretary of Transportation has determined that this aircraft
+meets the conditions of Section 333. Therefore, the FAA finds that the requested relief from
+14 CFR part 21, Certification procedures for products and parts, Subpart H--Airworthiness
+Certificates, and any associated noise certification and testing requirements of part 36, is
+not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection1. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+ They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+ The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+ A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, Aerialspecs, Inc. is granted an exemption from 14 CFR
+§§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a), 91.7(a), 91.119(c), 91.121,
+91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a) and (b), to the
+
+1 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                                                 3
+
+extent necessary to allow the petitioner to operate a UAS to perform aerial data collection.
+This exemption is subject to the conditions and limitations listed below.
+
+Conditions and Limitations
+
+In this grant of exemption, Aerialspecs, Inc. is hereafter referred to as the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+    1. Operations authorized by this grant of exemption are limited to the Lockheed Martin
+         Indago, DJI Phantom 3, DJI Inspire 1, DJI S900, DJI S1000, and SenseFly eBee Ag
+         when weighing less than 55 pounds including payload. Proposed operations of any
+         other aircraft will require a new petition or a petition to amend this exemption.
+
+    2. Operations for the purpose of closed-set motion picture and television filming are
+         not permitted.
+
+    3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+         exemption holder may use either groundspeed or calibrated airspeed to determine
+         compliance with the 87 knot speed restriction. In no case will the UA be operated at
+         airspeeds greater than the maximum UA operating airspeed recommended by the
+         aircraft manufacturer.
+
+    4. The UA must be operated at an altitude of no more than 400 feet above ground level
+         (AGL). Altitude must be reported in feet AGL.
+
+    5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+         This requires the PIC to be able to use human vision unaided by any device other than
+         corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+         U.S. driver's license.
+
+    6. All operations must utilize a visual observer (VO). The UA must be operated within
+         the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+         to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+         capability. The VO and PIC must be able to communicate verbally at all times;
+         electronic messaging or texting is not permitted during flight operations. The PIC
+         must be designated before the flight and cannot transfer his or her designation for the
+         duration of the flight. The PIC must ensure that the VO can perform the duties
+         required of the VO.
+
+    7. This exemption and all documents needed to operate the UAS and conduct its
+         operations in accordance with the conditions and limitations stated in this grant of
+         exemption, are hereinafter referred to as the operating documents. The operating
+                                                                                                            4
+
+    documents must be accessible during UAS operations and made available to the
+    Administrator upon request. If a discrepancy exists between the conditions and
+    limitations in this exemption and the procedures outlined in the operating documents,
+    the conditions and limitations herein take precedence and must be followed.
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+                                                                                                            5
+
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+                                                                                       6
+
+exemption holder may apply for a new or amended COA if it intends to conduct
+operations that cannot be conducted under the terms of the attached COA.
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+
+    be as large as practicable.
+
+23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+    any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+    PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+    These documents must be made available to the Administrator or any law enforcement
+    official upon request.
+
+24. The UA must remain clear and give way to all manned aviation operations and
+    activities at all times.
+
+25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless:
+      a. Barriers or structures are present that sufficiently protect nonparticipating persons
+          from the UA and/or debris in the event of an accident. The operator must ensure
+          that nonparticipating persons remain under such protection. If a situation arises
+          where nonparticipating persons leave such protection and are within 500 feet of
+          the UA, flight operations must cease immediately in a manner ensuring the safety
+          of nonparticipating persons; and
+      b. The owner/controller of any vessels, vehicles or structures has granted permission
+          for operating closer to those objects and the PIC has made a safety assessment of
+          the risk of operating closer to those objects and determined that it does not
+          present an undue hazard.
+
+The PIC, VO, operator trainees or essential persons are not considered
+nonparticipating persons under this exemption.
+
+27. All operations shall be conducted over private or controlled-access property with
+    permission from the property owner/controller or authorized representative.
+    Permission from property owner/controller or authorized representative will be
+    obtained for each flight to be conducted.
+
+28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+
+    boundaries of the operational area as defined by the applicable COA must be reported
+    to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+                                                                                               7
+
+reported to the National Transportation Safety Board (NTSB) per instructions
+contained on the NTSB Web site: www.ntsb.gov.
+
+If this exemption permits operations for the purpose of closed-set motion picture and
+television filming and production, the following additional conditions and limitations apply.
+
+29. The operator must have a motion picture and television operations manual (MPTOM)
+    as documented in this grant of exemption.
+
+30. At least 3 days before aerial filming, the operator of the UAS affected by this
+    exemption must submit a written Plan of Activities to the local Flight Standards
+    District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+    notification may be waived with the concurrence of the FSDO. The plan of activities
+    must include at least the following:
+      a. Dates and times for all flights;
+      b. Name and phone number of the operator for the UAS aerial filming conducted
+          under this grant of exemption;
+      c. Name and phone number of the person responsible for the on-scene operation of
+          the UAS;
+      d. Make, model, and serial or N-Number of UAS to be used;
+      e. Name and certificate number of UAS PICs involved in the aerial filming;
+      f. A statement that the operator has obtained permission from property owners
+          and/or local officials to conduct the filming production event; the list of those
+          who gave permission must be made available to the inspector upon request;
+      g. Signature of exemption holder or representative; and
+      h. A description of the flight activity, including maps or diagrams of any area, city,
+          town, county, and/or state over which filming will be conducted and the altitudes
+          essential to accomplish the operation.
+
+31. Flight operations may be conducted closer than 500 feet from participating persons
+
+    consenting to be involved and necessary for the filming production, as specified in the
+    exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                    8
+
+This exemption terminates on July 31, 2017, unless sooner superseded or rescinded.
+Sincerely,
+
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+                                  9
+
+Project Officer: _______________
+
+MR DOUGLAS SIGLER
+CEO AND OWNER
+AERIALSPECS INC
+48675 JEFFERSON DRIVE
+MACOMB MI 48044
+Petition for Exemption /
+
+Rulemaking to the FAA
+
+Commercial visual line-of-sight sUAS Operations
+
+Prepared by Robert R. Murrell
+
+CIO Aerialspecs, Inc.
+48675 Jefferson Drive
+Macomb, MI 48044
+
++1 (248) 845-8365
+info@aerialspecs.com
+Petition for Exemption/Rulemaking to the FAA
+Commercial visual line-of-sight sUAS operations
+
+TABLE OF CONTENTS
+
+  Summary ....................................................................................................................................................................1
+  Exemption ..................................................................................................................................................................1
+
+      Scope ....................................................................................................................................................................1
+      Specific Exemptions ..............................................................................................................................................1
+
+          14 CFR Part 61: Certification: Pilots, Flight Instructors, and Ground Instructors ............................................1
+          14 CFR §61.113 (a) & (b): Private pilot privileges and limitations: Pilot in command.....................................1
+          14 CFR Part 21, Subpart H: Airworthiness Certificates 14 CFR §91.203 (a) (1) ...............................................2
+          14 CFR §45.23 (b): Marking of the Aircraft......................................................................................................2
+          14 CFR §91.7(a): Civil aircraft airworthiness ...................................................................................................2
+          14 CFR §91.9 (b) (2): Civil Aircraft Flight Manual in the Aircraft .....................................................................2
+          14 CFR §91.103(b)(2): Preflight action ............................................................................................................3
+          14 CFR §91.105: Flight Crewmembers at Stations ..........................................................................................3
+          14 CFR §91.109: Flight instruction ..................................................................................................................3
+          14 CFR §91.119: Minimum safe altitudes........................................................................................................4
+          14 CFR §91.121: Altimeter Settings.................................................................................................................4
+          14 CFR §91.151: Fuel requirements for flight in VFR conditions.....................................................................4
+          14 CFR §91.203 (a) & (b): Carrying Civil Aircraft Certification and Registration .............................................5
+          14 CFR §91.405 (a); 407 (a) (1); 409 (a) (2); 417(a) & (b): Maintenance Inspections......................................5
+  Public Safety...............................................................................................................................................................6
+      Safety of our Employees .......................................................................................................................................7
+      Safety of our Customers .......................................................................................................................................7
+  Operational Roles.......................................................................................................................................................7
+      Chief Equipment Operator ...................................................................................................................................7
+      Equipment Operator.............................................................................................................................................8
+      Spotter ..................................................................................................................................................................8
+  Flight Operations Certification...................................................................................................................................8
+      Flight Certification ................................................................................................................................................8
+          Equipment Operator and Spotter Flight Time Requirements .........................................................................9
+          Chief Equipment Operator Flight Time Requirements ..................................................................................10
+          TSA Equivalent Background Check ................................................................................................................10
+          Medical Examination .....................................................................................................................................10
+          Basic First Aid Certification............................................................................................................................10
+Petition for Exemption/Rulemaking to the FAA
+Commercial visual line-of-sight sUAS operations
+
+  Operating Standards ................................................................................................................................................10
+      Fly-off Procedures...............................................................................................................................................12
+      Flight Standards District Offices Notification......................................................................................................13
+      Equipment Specification .....................................................................................................................................13
+      Maintenance and Repair ....................................................................................................................................14
+
+  Specific Use Cases ....................................................................................................................................................15
+      Wind Turbine Construction and Inspection........................................................................................................15
+          Operational Area ...........................................................................................................................................15
+          Additional Safety Measures ..........................................................................................................................17
+          Payload ..........................................................................................................................................................17
+      Electric Generation, Transmission, Sub Transmission, and Distribution Facilities Inspection............................18
+          Operational Area ...........................................................................................................................................18
+          Additional Safety Measures ..........................................................................................................................19
+          Payload ..........................................................................................................................................................20
+      Building, Bridge, Structure or Span Inspection ...................................................................................................20
+          Operational Area ...........................................................................................................................................20
+          Additional Safety Measures ..........................................................................................................................22
+          Payload ..........................................................................................................................................................22
+      Agriculture Inspection ........................................................................................................................................22
+          Operational Area ...........................................................................................................................................23
+          Additional Safety Measures ..........................................................................................................................23
+          Payload ..........................................................................................................................................................23
+      Industrial / Mining Environmental Inspection ....................................................................................................23
+          Operational Area ...........................................................................................................................................23
+          Additional Safety Measures ..........................................................................................................................24
+          Payload ..........................................................................................................................................................24
+      Municipal Police, Fire, and Search and Rescue...................................................................................................25
+          Operational Area ...........................................................................................................................................25
+          Additional Safety Measures ..........................................................................................................................26
+          Payload ..........................................................................................................................................................27
+
+  Appendix ..................................................................................................................................................................28
+      A. General Flight Process ....................................................................................................................................28
+      B. Fly-off Process.................................................................................................................................................29
+
+  Glossary of Terms ....................................................................................................................................................30
+Petition for Exemption/Rulemaking to the FAA
+Commercial visual line-of-sight sUAS operations
+
+      AGL......................................................................................................................................................................30
+      AIRMET ...............................................................................................................................................................30
+      ATC......................................................................................................................................................................30
+      C2 ........................................................................................................................................................................30
+      EM.......................................................................................................................................................................30
+      Fly-Off .................................................................................................................................................................30
+      FSDO ...................................................................................................................................................................30
+      GPS......................................................................................................................................................................30
+      IMU .....................................................................................................................................................................30
+      IR .........................................................................................................................................................................31
+      NIR ......................................................................................................................................................................31
+      NTSB....................................................................................................................................................................31
+      SFC ......................................................................................................................................................................31
+      SIGMET ...............................................................................................................................................................31
+      sUAS ....................................................................................................................................................................31
+      TFR ......................................................................................................................................................................31
+      UAV .....................................................................................................................................................................31
+      UV .......................................................................................................................................................................31
+      VFR ......................................................................................................................................................................31
+  References ...............................................................................................................................................................32
+Petition for Exemption/Rulemaking to the FAA
+Commercial visual line-of-sight sUAS operations
+
+SUMMARY
+
+Pursuant to 14 CFR Part 11, the following summary is provided by Aerialspecs, Inc. for publication in the Federal
+Register:
+
+Aerialspecs, Inc. is seeking exemption from the following regulations to operate small Unmanned Aerial Systems
+for the purposes of remote visual line-of-sight videography, data collection, sensing, and visual inspection:
+
+      14 CFR PART 61: Certification: Pilots, Flight Instructors, and Ground Instructors
+      14 CFR §61.113 (a) & (b): Private pilot privileges and limitations: Pilot in Command
+      14 CFR Part 21, Subpart H: Airworthiness Certificates 14 CFR §91.203 (a) (1)
+      14 CFR §45.23 (b). Marking of the Aircraft
+      14 CFR §91.7(a): Civil Aircraft Airworthiness
+      14 CFR §91.9 (b) (2): Civil Aircraft Flight Manual in the Aircraft
+      14 CFR §91.103 (b)(2): Preflight Action
+      14 CFR §91.105: Flight Crewmembers at Stations
+      14 CFR §91.109: Flight Instruction
+      14 CFR §91.119: Minimum safe altitudes
+      14 CFR §91.121: Altimeter Settings
+      14 CFR §91.151: Fuel requirements for flight in VFR conditions
+      14 CFR §91.203 (a) & (b): Carrying Civil Aircraft Certification and Registration
+      14 CFR §91.405 (a); 407 (a) (1); 409 (a) (2); 417(a) & (b): Maintenance Inspections
+
+It is the position of Aerialspecs, Inc. that a new license class be created for the commercial visual line-of-sight of
+sUAS. Many industries needlessly place the lives of employees in harm's way every day to keep the general public
+safe and deliver products to their customers. Requiring reasonable everyday workers in hazardous jobs to obtain a
+Pilot's license is too costly and time consuming. The rigor and cost associated to achieving a private pilots
+certificate is typically $10,000 USD and 50 - 60 hours of an individual's time. This far exceeds the training necessary
+to achieve a CDL with a Hazmat endorsement required to transport dangerous cargo over land.
+
+Aerialspecs, Inc. believes it has created training, certifications, operational standards, and equipment specifications
+that represent reasonable guidelines for operation of sUAS comparable to risk sUAS poses and similar to CDL,
+forklift, or other hazardous equipment employees are entrusted to operate every day. Aerialspecs, Inc. is willing to
+partner with the FAA to create a new license class leveraging this exemption as its springboard. Until then we
+believe or training and certification standards, the type of equipment, operating standards, fly-off procedures, and
+clear areas of operation defined herein exceed the standards set forth in FAA Advisory Circular AC 91-57 for hobby
+operations and provide an equivalent level of safety supporting the grant of the exceptions requested herein. This
+satisfies the criteria provided in Section 333 of the Reform Act of 2012 providing adequate justification for these
+exceptions allowing for commercial operations of sUAS within visual line-of-sight by Aerialspecs, Inc.
+
+Aerialspecs, Inc. is committed to the safety of the everyday worker and believes that through our services and this
+exemption we can provide safe, quality operations of sUAS to reduce the risk to employees, improve our
+customers OSHA ratings, and protect the public.
+
+Douglas Sigler                                           Robert R. Murrell
+CEO and Owner - Aerialspecs, Inc.                        CIO and Owner - Aerialspecs, Inc.
+
++1 (586) 745-4503                                        +1 (248) 845-8365
+info@aerialspecs.com                                     info@aerialspecs.com
+
+Page |1
+Copyright © Aerialspecs, Inc, 2015. All Rights Reserved
+Petition for Exemption/Rulemaking to the FAA
+Commercial visual line-of-sight sUAS operations
+
+   EXEMPTION
+
+       SCOPE
+
+          The scope of this exemption includes Aerialspecs, Inc. employees, affiliates, partners, vendors, or any
+          other person or entity operating in a flight capacity on behalf of Aerialspecs, Inc. for the purpose of
+          commercial visual line-of-sight sUAS operations leveraging both manual command and control, and auto
+          piloted flight.
+
+       SPECIFIC EXEMPTIONS
+
+         14 CFR PART 61: CERTIFICATION: PILOTS, FLIGHT INSTRUCTORS, AND GROUND INSTRUCTORS
+
+          The regulations set forth in 14 CFR Part 61 require a pilot certificate and medical certificate for anyone
+          operating as a required pilot of a civil aircraft.
+
+          Aerialspecs, Inc. is seeking exemption from 14 CFR Part 61 on the grounds that the FAA does not require a
+          pilot certificate for recreational use of aerial vehicles with the same configurations hereunder today as
+          defined by FAA Advisory Circular AC 91-57, Model Aircraft Operating Standards1. Also, the operation of
+          sUAS is far simpler than large scale aircraft, especially with modern flight control and stabilization
+          systems, requiring less training and experience to be safe and effective. Finally, there is no evidence to
+          support the rigor of a pilot certificate, or lack thereof, makes the operations of sUAS more or less safe.
+
+          Aerialspecs, Inc. exceeds the voluntary standards defined in FAA Advisory Circular AC 91-57 as well as
+          maintains the equivalent level of safety intended by 14 CFR Part 61 by strictly following the Flight
+          Operations Certification and General Operational Guidelines herein. Equipment Operators will have a
+          minimum number of total flight hours overall, minimum number of total flight hours per sUAS type,
+          minimum number of flight hours per year, knowledge of airspace and restrictions, aviation background
+          checks, medical certification, and basic first aid training.
+
+         14 CFR §61.113 (A) & (B): PRIVATE PILOT PRIVILEGES AND LIMITATIONS: PILOT IN COMMAND
+
+          These regulations limit private pilots to non-commercial operations only. Although Aerialspecs, Inc. is
+          seeking exemption from certificates, ratings, and authorizations, it may still leverage licensed pilots to
+          operate a sUAS. To not violate the regulations set forth in 14 CFR §61.113 (a) & (b), an exemption is
+          required.
+
+          Aerialspecs, Inc. is seeking exemption from 14 CFR §61.113 (a) & (b) on the grounds that the level of risk
+          associated with the operation of a sUAS compared to commercial operations of a piloted aircraft when
+          Part 61 was conceived is so negligible that having a private pilot as the Pilot In Command exceeds the
+          present level of safety achieved by 14 CFR §61.113 (a) & (b).
+
+          Aerialspecs, Inc. will maintain an equivalent level of safety by operating a sUAS hereunder in specific
+          operational areas away from the general public that will not carry passengers or crew, not exceed an
+          operational weight of 24.9476 kg (55 lbs.) including payload, and not exceed ground speeds of 25 m/s (56
+          mph).
+
+Page |1
+Copyright © Aerialspecs, Inc, 2015. All Rights Reserved
+Petition for Exemption/Rulemaking to the FAA
+Commercial visual line-of-sight sUAS operations
+
+         14 CFR PART 21, SUBPART H: AIRWORTHINESS CERTIFICATES 14 CFR §91.203 (A) (1)
+
+          This regulation requires that aircraft have a current certificate of airworthiness. It also requires that the
+          airworthiness certificate be displayed in the cabin or cockpit entrance so that it is legible to passengers
+          and crew.
+
+          Aerialspecs, Inc. is seeking exemption from 14 CFR Part 21, Subpart H: Airworthiness Certificates 14 CFR
+          §91.203 (a) (1) on the grounds that a sUAS operated hereunder does not carry passengers or crew, will
+          not weigh more than 24.9476 kg (55 lbs.) including payload, and will not exceed ground speeds of speeds
+          of 25 m/s (56 mph). A sUAS hereunder will fly under strict guidelines in narrow operational areas. This
+          combined with the safety measures herein provide a greater degree of safety to the public than
+          conventional operations conducted with airworthiness certificates issued under 14 CFR Part 21, Subpart
+          H. See Public Safety and General Operational Guidelines for more information.
+
+          The Federal Aviation Act (49 USC §44701 (f)) and Section 333 of the Reform Act both authorize the FAA to
+          exempt aircraft from the requirement for an airworthiness certificate, upon consideration of the size,
+          weight, speed, operational capability, and proximity to airports and populated areas of the particular
+          sUAS.
+
+         14 CFR §45.23 (B): MARKING OF THE AIRCRAFT
+
+          This regulation requires:
+
+                        "When marks include only the Roman capital letter `N' and the registration number is
+                        displayed on limited, restricted or light-sport category aircraft or experimental or
+                        provisionally certificated aircraft, the Equipment Operator must also display on that
+                        aircraft near each entrance to the cabin, cockpit, or pilot station, in letters not less than 2
+                        inches nor more than 6 inches high, the words `limited,' `restricted,'' 'light-sport,'
+                        `experimental,' or `provisional,' as applicable."
+
+          Aerialspecs, Inc. is seeking exemption from 14 CFR § 45.23 (b) on the grounds that sUAS operated
+          hereunder do not have a cabin, cockpit or pilot station. Their size makes it impossible to fit the word
+          "Experimental" in letting no smaller than 2 inches high. To maintain compliance with §45.29 (f),
+          Aerialspecs, Inc. will require the word "Experimental" on sUAS fuselages so that the operator, spotter, or
+          supporting personnel working with the vehicle will see the identification.
+
+          Precedence has been set by the following exemptions issued by the FAA2: Exemptions Nos. 10700, 10167,
+          and 10167A.
+
+         14 CFR §91.7(A): CIVIL AIRCRAFT AIRWORTHINESS
+
+          This regulation requires that no person may operate a civil aircraft unless it is in airworthy condition.
+
+          Aerialspecs, Inc. is seeking exemption from 14 CFR §91.7(a) on the grounds that there will be no
+          airworthiness certificate issued for the aircraft. Should this exemption be granted, no FAA regulatory
+          standard will exist for determining airworthiness for such vehicles.
+
+          Given the size of the aircraft, the requirements contained in the equipment maintenance manuals, and
+          use of safety check lists prior to each flight, an equivalent level of safety will be provided.
+
+         14 CFR §91.9 (B) (2): CIVIL AIRCRAFT FLIGHT MANUAL IN THE AIRCRAFT
+
+          This regulation requires that an approved Flight Manual, manual materials, markings, and place cards, or
+          any combination thereof be placed in the aircraft and available to the pilot.
+
+Page |2
+Copyright © Aerialspecs, Inc, 2015. All Rights Reserved
+Petition for Exemption/Rulemaking to the FAA
+Commercial visual line-of-sight sUAS operations
+
+          Aerialspecs, Inc. is seeking exemption from 14 CFR §91.9 (b) (2) on the grounds that the sUAS operated
+          hereunder have no cockpit and are not large enough to carry a Pilot or the Flight Manual.
+
+          The equivalent level of safety will be maintained by keeping the flight manual at the ground control point
+          where the Equipment Operator controlling the sUAS or the Observer will have immediate access to it.
+
+          Precedence has been set by the following exemptions issued by the FAA3: Exemption Nos. 8607, 8737,
+          8738, 9299, 9299A, 9565, 9565B, 10167, 10167A, 10602, and 10700.
+
+         14 CFR §91.103(B)(2): PREFLIGHT ACTION
+
+          This regulation requires the pilot in command to take certain action before a flight, specifically:
+
+                        "(b) For any flight, runway lengths at airports of intended use, and the following takeoff
+                        and landing distance information:
+
+                        (1) For civil aircraft for which an approved Airplane or Rotorcraft Flight Manual containing
+                        takeoff and landing distance data is required, the takeoff and landing distance data
+                        contained therein; and
+
+                        (2) For civil aircraft other than those specified in paragraph (b)(1) of this section, other
+                        reliable information appropriate to the aircraft, relating to aircraft performance under
+                        expected values of airport elevation and runway slope, aircraft gross weight, and wind
+                        and temperature."
+
+          Aerialspecs, Inc. is seeking exemption from 14 CFR §91.103 on the grounds that there is no FAA approved
+          Rotorcraft Flight Manual for the UAV. The Equipment Operator will follow a preflight checklist provided by
+          the UAV manufacturer as well as validating UAV performance, battery requirement for the specific flight,
+          landing and takeoff distances, area of operations, and weather conditions appropriate for VFR. See
+          General Operational Guidelines for more information.
+
+         14 CFR §91.105: FLIGHT CREWMEMBERS AT STATIONS
+
+          This regulation requires that crewmember be at flight stations, presumably in the aircraft, wearing safety
+          belts or harnesses during takeoff, landing, and while en route.
+
+          Aerialspecs, Inc. is seeking exemption from 14 CFR §91.105 on the grounds that sUAS operated hereunder
+          have no cockpit and are not large enough to carry a Pilot. Aerialspecs, Inc. will provide the equivalent level
+          of safety by requiring an Equipment Operator and Spotter for each sUAS in operation and require a
+          securing strap between the C2 remote and the Equipment Operator.
+
+         14 CFR §91.109: FLIGHT INSTRUCTION
+
+          This regulation requires any civil aircraft (except a manned free balloon) to have dual flight controls when
+          used for flight instruction.
+
+          Aerialspecs, Inc. is seeking exemption from 14 CFR §91.109 on the grounds that sUAS are remotely
+          controlled within line-of-sight and by design do not have dual controls. Flight control is accomplished
+          through a microcontroller accepting human and/or software input that communicates flight commands
+          via radio to the UAV. Aerialspecs, Inc. will provide the equivalent level of safety by the fact that neither
+          Equipment Operator nor instructor will be onboard the UAV. It will also follow the General Operational
+          Guidelines defined herein where the sUAS will be operated is specific, predefined areas, and the flight
+          instruction behaving in the role of Chief Equipment Operator, will be present during instruction and have
+          access to the controller.
+
+Page |3
+Copyright © Aerialspecs, Inc, 2015. All Rights Reserved
+Petition for Exemption/Rulemaking to the FAA
+Commercial visual line-of-sight sUAS operations
+
+          Precedence has been set by the following exemptions issued by the FAA4: Exemption Nos. 5778K &
+          9862A.
+
+         14 CFR §91.119: MINIMUM SAFE ALTITUDES
+
+          This regulation specifies the minimum altitudes of operation under various conditions including restricting
+          operations below 152.4 m (500 Ft. AGL) over non-congested areas.
+
+          Aerialspecs, Inc. is seeking exemption from 14 CFR §91.119 under special circumstances on the grounds
+          that many of the specific use cases defined herein have structures below 152.095 m (499 ft.) AGL and to
+          gather relevant information on said structure the UAV must operate well below specified minimums.
+
+          Aerialspecs, Inc. will provide the equivalent level of safety by flying in specific areas of operation away
+          from the general public. The equipment will not carry any hazardous or explosive cargo, travel no more
+          than 25 m/s (56 mph), and not exceed 24.9476 kg (55 lbs.) in operational weight including payload. The
+          Equipment Operator and Spotter will also be equipped with aviation radios to communicate with nearby
+          traffic. The details of the flight will be publicly publish on the Aerialspecs, Inc. corporate web site
+          indicating the location, two dimensional operational area, maximum altitude, start time, and expected
+          duration.
+
+         14 CFR §91.121: ALTIMETER SETTINGS
+
+          This regulation requires each person operating an aircraft to maintain cruising altitude by reference to an
+          altimeter that is set:
+
+                     "(iii) In the case of an aircraft not equipped with a radio, the elevation of the departure
+                     airport or an appropriate altimeter setting available before departure; "
+
+          Aerialspecs, Inc. is seeking exemption from 14 CFR §91.121 on the grounds that some of the aircraft used
+          rely strictly on GPS for altitude and those aircraft that have an altimeter will auto calibrate ground level to
+          the atmospheric pressure at time of startup.
+
+          Aerialspecs, Inc. will provide an equivalent level of safety by including in the preflight checklist verification
+          that GPS fix is sufficient to maintain altitude within a reasonable margin of error, that the GPS altitude is
+          correct before flight, or in case of barometric altimeter based aircraft, that the altimeter reads 0 m (0 ft.)
+          AGL before flight.
+
+         14 CFR §91.151: FUEL REQUIREMENTS FOR FLIGHT IN VFR CONDITIONS
+
+          This regulation requires:
+
+                        "(a) No person may begin a flight in an airplane under VFR conditions unless (considering
+                        wind and forecast weather conditions) there is enough fuel to fly to the first point of
+                        intended landing and, assuming normal cruising speed--
+
+                        (1) During the day, to fly after that for at least 30 minutes; or
+                        (2) At night, to fly after that for at least 45 minutes.
+
+                        (b) No person may begin a flight in a rotorcraft under VFR conditions unless (considering
+                        wind and forecast weather conditions) there is enough fuel to fly to the first point of
+                        intended landing and, assuming normal cruising speed, to fly after that for at least 20
+                        minutes."
+
+          Aerialspecs, Inc. is seeking exemption from 14 CFR §91.151 on the grounds that sUAS operated hereunder
+          generally have battery limits of approximately 20-60 minutes depending on atmospheric conditions,
+
+Page |4
+Copyright © Aerialspecs, Inc, 2015. All Rights Reserved
+Petition for Exemption/Rulemaking to the FAA
+Commercial visual line-of-sight sUAS operations
+
+          make, model, and age of the battery. In some cases this would provide no reserve capability, in others,
+          leaving not enough flight time to gather the information required for the visual inspection of the wind
+          turbine.
+
+          Aerialspecs, Inc. will maintain an equivalent level of safety by flying in specific areas of operation away
+          from the general public. The equipment will not carry any hazardous or explosive cargo, travel no more
+          than 25 m/s (56 mph), and not exceed 24.9476 kg (55 lbs.) in operational weight including payload. Flight
+          operations will cease when battery levels reach 15% of their startup capacity. This restriction will provide
+          ample battery life for the UAV to return to its designated landing area.
+
+          Precedence has been set by the following exemptions issued by the FAA5: Exemptions Nos. 10673, 2689F,
+          5745, 10673, and 10808.
+
+         14 CFR §91.203 (A) & (B): CARRYING CIVIL AIRCRAFT CERTIFICATION AND REGISTRATION
+
+          This regulation requires in part:
+
+                        "(a) Except as provided in § 91.715, no person may operate a civil aircraft unless it has
+                        within it the following:
+
+                        (1) An appropriate and current airworthiness certificate...
+
+                        (b) No person may operate a civil aircraft unless the airworthiness certificate required by
+                        paragraph (a) of this section or a special flight authorization issued under §91.715 is
+                        displayed at the cabin or cockpit entrance so that it is legible to passengers or crew."
+
+          Aerialspecs, Inc. is seeking exemption from 14 CFR §91.203 (a) & (b) on the grounds that the sUAS at full
+          operations weight will be less than 24.9476 kg (55 lbs.) including payload, has no cockpit, and has no
+          room to carry a pilot onboard.
+
+          Aerialspecs, Inc. will maintain an equivalent level of safety by keeping these documents at the ground
+          control point where the pilot flying the sUAS will have immediate access to them; to the extent they are
+          applicable to the sUAS.
+
+          Precedence has been set by the following exemptions issued by the FAA6: Exemption Nos. 9565, 9665,
+          9789, 9789A, 9797, 9797A, 9816A, and 10700.
+
+         14 CFR §91.405 (A); 407 (A) (1); 409 (A) (2); 417(A) & (B): MAINTENANCE INSPECTIONS
+
+           These regulations require that each owner or operator:
+
+                        "Shall have that aircraft inspected as prescribed in subpart E of this part and shall between
+                        required inspections, except as provided in paragraph (c) of this section, have
+                        discrepancies repaired as prescribed in part 43 of this chapter;"
+
+          Aerialspecs, Inc. is seeking exemption from 14 CFR §91.405 (a), 407 (a) (1), 409 (a) (2), and 417(a) and (b)
+          on the grounds that these regulations and the regulations set forth in Part 43 are intended for aircraft
+          with airworthiness certificates and a sUAS hereunder will not be issued an airworthiness certificate.
+
+          Aerialspecs, Inc. will maintain an equivalent level of safety by operating a sUAS hereunder in specific
+          operational areas away from the general public that will not carry passengers or crew, not exceed an
+          operational weight of 24.9476 kg (55 lbs.) including payload, and not exceed ground speeds of 25 m/s (56
+          mph). Should a mechanical issue arise the sUAS can immediately land within the operational area.
+
+Page |5
+Copyright © Aerialspecs, Inc, 2015. All Rights Reserved
+Petition for Exemption/Rulemaking to the FAA
+Commercial visual line-of-sight sUAS operations
+
+          Aerialspecs, Inc. will also perform routine and scheduled inspections of all sUAS and follow the
+          maintenance recommendations of the equipment manufacturer. A log of all maintenance and repair will
+          be kept for each sUAS to ensure the highest operational performance.
+
+          Per the Operational Procedures herein, all flights will perform a pre-flight and post-flight checklists which
+          will include visual inspection of the equipment to identify anomalies before they become an issue. See
+          Maintenance and Repair for more information on the maintenance and repair of sUAS by Aerialspecs, Inc.
+
+   PUBLIC SAFETY
+
+          Aerialspecs, Inc. will follow these specific safety measures to ensure the safety of our employees and the
+          general public:
+
+                 A sUAS operated hereunder will remain confined to an operational area.
+                 No flight operations will occur inside restricted or special use, airspace.
+                 No flight operations will occur inside Class B, C, or D airspace with the following conditions:
+
+                           o No flight operations will occur within a 5 nm (9260 m) radius of a Class A airport in Class
+                                B, C, or D airspace with a floor of SFC.
+
+                           o Flight operations will be restricted to a maximum altitude of 400 ft. (121.92 m) AGL
+                                outside the 5 nm (9260 m) radius of a Class A airport in Class B, C, or D airspace with a
+                                floor of SFC.
+
+                     Figure 1.1 depicts the area of operations in Class B, C, or D airspace with floor of SFC new a Class
+                     A airport.
+                 No UAV will operate or cross over a roadway designated as a highway by the Federal or State
+                     government the roadway is in with the exception of the specific use case of Municipal Police,
+                     Fire, and Search and Rescue or specific situations during Bridge Inspection. See Municipal Police,
+                     Fire, and Search and Rescue and Building, Bridge, Structure, or Span Inspection below for more
+                     information.
+                 All operations will be performed by a trained two-man crew: Equipment Operator and Spotter.
+                     The Equipment Operator will be responsible for piloting the UAV while the Spotter will focus on
+                     ground and air hazard identification.
+                 No UAV operated hereunder will exceed an operational Weight 24.9476 kg (55 lbs.) including
+                     payload.
+                 No UAV operated hereunder will exceed a ground speed of 25 m/s (56 mph).
+                 All UAV operated hereunder will be battery operated with no more than 60 minutes of minutes
+                     of flight time on a single charge.
+                 All UAV operated hereunder will have "Return to Home" capability to return to a predetermined
+                     point should the sUAS Equipment Operator lose C2 communications.
+                 No UAV operated hereunder will carry flammable, explosive or otherwise hazardous material.
+
+          For more information on Equipment Operator and Spotter see the Operational Roles below, for more
+          information on equipment, see Equipment Specification below. Additional information on Aerialspecs,
+          Inc. operating standards is available in Operating Standards and Appendix A. General Flight Process below.
+
+Page |6
+Copyright © Aerialspecs, Inc, 2015. All Rights Reserved
+Petition for Exemption/Rulemaking to the FAA
+Commercial visual line-of-sight sUAS operations
+
+       SAFETY OF OUR EMPLOYEES
+
+          Employees with operational roles will be issued and minimally required to wear during operations the
+          following personal protection equipment:
+
+                 ANSI Z89.1-2009 Type I Class C Helmet with chin strap.
+                 Safety Glasses.
+                 Safety Gloves.
+                 Hard sole steel toe safety boots that cover the ankle.
+                 ANSI Class 2 Safety Vest.
+
+          Addition safety equipment may be required depending on the specific use case or environment. The
+          Equipment Operator is accountable for safety equipment beyond the minimum specified above.
+
+          During operations the Equipment Operator or Spotter will have immediately available the following safety
+          equipment:
+
+                 ABC fire extinguisher.
+                 5 person first aid kit.
+
+       SAFETY OF OUR CUSTOMERS
+
+                 All nonessential customer personnel we be prohibited from entering the defined operational
+                     area.
+
+                 All essential customer personnel we be required to use the same safety equipment as the
+                     Equipment Operator and Spotter while inside the operational area.
+
+                 All essential customer personnel we be briefed by Aerialspecs, Inc. on the associated health and
+                     safety hazards of being in close proximity of a sUAS.
+
+   OPERATIONAL ROLES
+
+          Aerialspecs, Inc. will utilize the following operational roles to provide safe operations of sUAS. All
+          operational roles will be required to maintain Flight Operations Certification status as defined below.
+          Employees in Equipment Operator or Spotter roles will be used interchangeably.
+
+       CHIEF EQUIPMENT OPERATOR
+
+          The Chief Equipment Operator is in charge of and accountable for all flight operations hereunder and is
+          accountable for the Equipment Operators and Spotters.
+
+          The Chief Equipment Operator will have knowledge of and authorize all sUAS flight operations hereunder
+          and will monitor weather, VFR conditions, Restricted, TFR, or SUA airspace, and AIRMET/SIGMET zones.
+          The Chief Equipment Operator will manage the operational relationship between Aerialspecs, Inc. and the
+          FAA, FDSO, NTSB, State of Michigan, and local municipalities, obtaining permits and permission for
+          operations where required.
+
+          The Chief Equipment Operator will have full authority to cancel or abort any flight, any time, for any
+          reason. The Chief Equipment Operator will also conduct the daily Mission Briefing for all employees with
+          operational roles.
+
+Page |7
+Copyright © Aerialspecs, Inc, 2015. All Rights Reserved
+Petition for Exemption/Rulemaking to the FAA
+Commercial visual line-of-sight sUAS operations
+
+       EQUIPMENT OPERATOR
+
+          The Equipment Operator is accountable for the safe operation of the sUAS and is effectively the Pilot-In-
+          Command. The Equipment Operator will have full authority to cancel or abort any flight, any time, for any
+          reason.
+
+       SPOTTER
+
+          The Spotter is responsible for the safe operation of the sUAS. The job of the Spotter is to assist the
+          Equipment Operator in "see and avoid," monitoring the operational area for hazards, and/or incursions by
+          unauthorized personnel or the general public on land, sea, or in the air. The Spotter will have full
+          authority to cancel or abort any flight, any time, for any reason. A Spotter will maintain the same level of
+          proficiency as an Equipment Operator.
+
+   FLIGHT OPERATIONS CERTIFICATION
+
+          Failure to comply with the terms of this Petition for Exemption, the process and procedures established
+          by Aerialspecs, Inc., as well as local, State, and Federal laws may result in the revocation of certification
+          for flight and termination from Aerialspecs, Inc.
+
+       FLIGHT CERTIFICATION
+
+          To be eligible for an operational role an employee must be 21 years of age or older, pass a TSA equivalent
+          background check, pass a Third Class medical examination, maintain basic first aid certifications, have a
+          valid driver's license in the State of Michigan, and have not been convicted of a DUI or DWI or have
+          refused an alcohol or drug test in the 60 working days prior to flight operations certification training.
+
+          All operational roles will receive an 8 hour training course one the basics of safe operations of sUAS used
+          by Aerialspecs, Inc. This course will include the following:
+
+                 Health and safety hazards to employees and the general public.
+                           o Required Personal Protection Equipment.
+                           o Cutting hazards.
+                           o Fall hazards.
+                           o High speed collision hazards.
+                           o Electric shock hazards.
+                           o Fire hazards.
+                           o Safe handling and disposal of batteries.
+
+                 Additional hazards to other land, sea, and air traffic.
+                           o Potential issues encountering traffic.
+                           o "See and avoid" tactics.
+
+                 Identifying hazards on the job site.
+                           o Obstacle Identification.
+                           o Overhead utility lines.
+                           o Ropes, cables, and guy wires.
+                           o Areas designated for the public.
+                           o Avian hazards.
+
+                 Potential issues during operations, including:
+
+Page |8
+Copyright © Aerialspecs, Inc, 2015. All Rights Reserved
+Petition for Exemption/Rulemaking to the FAA
+Commercial visual line-of-sight sUAS operations
+
+                           o Equipment Failure.
+                           o Operational Area incursion.
+                           o RF Interference.
+                           o Fly-offs or un-commanded flight.
+                           o Unexpected changes in weather.
+                           o Fires.
+                 Aerialspecs, Inc. operating standards.
+                 General flight procedures.
+                           o Roles and responsibilities.
+                           o SUA checks.
+                           o TFR checks.
+                           o Airspace checks.
+                           o Weather verification.
+                           o Effective pre and post-mission briefings.
+                           o Pre and post-flight checklists.
+                 Emergency flight procedures.
+                           o Fly-off or un-commanded flight.
+                           o Operational Area incursions.
+                           o Crashes.
+                           o Aborting a flight.
+                           o Communicating with pilots over Aviation Radio.
+                 Reporting incidents to the FAA.
+
+          Upon completion of the training all operational roles will be given a test on the materials. Failure to pass
+          the test with an 80% score or better will require the employee to retake the course. All operational roles
+          will be required to take this course annually or sooner should major operational changes be required.
+          Should major operations changes be required inside the annual period, operational roles may only be
+          required to take a bridge course with appropriate testing designed around the changes.
+
+          Each operational role must obtain 8 hours of combined flight and equipment training for each type of
+          equipment before being certified to operate the equipment.
+
+          Aerialspecs, Inc. will keep a record of training, certification, logged operational hours, and equipment
+          certified, for each person in an operational role.
+
+         EQUIPMENT OPERATOR AND SPOTTER FLIGHT TIME REQUIREMENTS
+
+          The equipment operator and spotter must 8 hours of flight time logged checked off by a Chief Equipment
+          Operator to obtain a Flight Operation Certification. Once certified an Equipment Operator or Spotter will
+          have an 8 hour flight time probation where they cannot be partnered with another Equipment Operator
+          or Spotter who is on probation. Those 8 hours of flight will be logged and checked off by the experienced
+          Equipment Operator or Spotter not on probation.
+
+          To maintain Flight Operations Certification an Equipment Operator or Spotter must log at least 10 hours
+          of operational time, either on-the-job or practice, annually, excluding the flight time logged during the
+          initial Flight Operations Certification checks.
+
+Page |9
+Copyright © Aerialspecs, Inc, 2015. All Rights Reserved
+Petition for Exemption/Rulemaking to the FAA
+Commercial visual line-of-sight sUAS operations
+
+         CHIEF EQUIPMENT OPERATOR FLIGHT TIME REQUIREMENTS
+
+          In addition to the Equipment Operator and Spotter Flight Time Requirements above, A Chief Equipment
+          Operator must have at least 20 hours of operational time in the field and no incidents where he or she
+          was deem "at fault" in the last 12 calendar months.
+
+         TSA EQUIVALENT BACKGROUND CHECK
+
+          Aerialspecs, Inc. employees, affiliates, partners, vendors, or any other person or entity operating in a flight
+          capacity on behalf of Aerialspecs, Inc. must pass an annual Aviation Background Check pursuant to FAA
+          Regulations 14 CFR Parts 121, 125 and 135. Aerialspecs, Inc. will contract UniversalTM 13, to provide
+          Aviation Background Checks.
+
+         MEDICAL EXAMINATION
+
+          All roles will be required to maintain annually a Third Class Medical certification from a local Aviation
+          Medical Examiner.
+
+         BASIC FIRST AID CERTIFICATION
+
+          All roles will be required to maintain annual Basic CPR, Basic First Aid, and Basic AED certifications from
+          the American Red Cross.
+
+   OPERATING STANDARDS
+
+          The following are a set of operational standards Aerialspecs, Inc. will use upon approval of the exemption.
+          These standards are intended to replicate the level of safety intended during the drafting of many of the
+          regulations Aerialspecs, Inc. is seeking exemption for. These standards are not all inclusive and will likely
+          change as Aerialspecs, Inc. matures this capability.
+
+                 No flight operations will occur inside restricted or special use, airspace.
+                 No flight operations will occur inside Class B, C, or D airspace with the following conditions:
+
+                           o No flight operations will occur within a 5 nm (9260 m) radius of a Class A airport in Class
+                                B, C, or D airspace with a floor of SFC.
+
+                           o Flight operations will be restricted to a maximum altitude of 400 ft. (121.92 m) AGL
+                                outside the 5 nm (9260 m) radius of a Class A airport in Class B, C, or D airspace with a
+                                floor of SFC.
+
+                     Figure 1.1 depicts the area of operations in Class B, C, or D airspace with floor of SFC new a Class
+                     A airport.
+                 No UAV will operate outside visual line-of-sight of the Equipment Operator or Spotter.
+                 No UAV will operate outside the range of the C2 transceiver of the Equipment Operator.
+                 No UAV will operate or cross over a roadway designated as a Highway by the Federal or State
+                     government the roadway is in with the exception of the specific use case of Municipal Police,
+                     Fire, and Search and Rescue or specific situations during Bridge Inspection. See Municipal Police,
+                     Fire, and Search and Rescue and Building, Bridge, Structure, or Span Inspection below for more
+                     information.
+                 All planned operations will have an on-site survey done by an Equipment Operator or Spotter
+                     prior to operations.
+                 No flight operations will occur without the knowledge and permission of a Chief Equipment
+                     Operator.
+
+P a g e | 10
+Copyright © Aerialspecs, Inc, 2015. All Rights Reserved
+Petition for Exemption/Rulemaking to the FAA
+Commercial visual line-of-sight sUAS operations
+
+                 There will be a daily Mission Briefing conducted by a Chief Equipment Officer evaluating weather,
+                     AIRMET/SIGMET, SUA, TFR, and other factors to determine flights and flight windows for the day.
+
+                 A Chief Equipment Operator will monitor all restricted or Special Use Airspace, TFR, and
+                     AIRMET/SIGMET restrictions taking the appropriate actions with the Equipment Operator.
+
+                 All planned flight operations will be made publically available on the Aerialspecs, Inc. corporate
+                     web site with the exception of Municipal Police operations of extreme circumstance. The
+                     information published will include:
+                           o The date, time, and duration of the operations.
+                           o The geographical position of the operational area.
+                           o The type of equipment being used.
+
+                 There will be an Equipment Operator and Spotter for each UAV during flight operations.
+                 A Chief Equipment Operator, Equipment Operator, or Spotter may cancel or abort a flight at any
+
+                     time for any reason. The Equipment Operator and Spotter have the responsibility to abort the
+                     flight should the situation arise.
+                 All flight operations require a Chief Equipment Operator or Equipment Operator, and Spotter
+                     present per sUAS in operation.
+                 The Equipment Operator and Spotter will have in their possession the ability to communicate
+                     with aircraft in the area via Aviation Radio.
+                 A Mission briefing will be conducted to identify local hazards and plan of action to meet the
+                     objectives of the flight.
+                 A designated takeoff and landing point will be identified and clearly marked as a hazard with
+                     cones, flags, or some other obvious means. This point will also be set as the "return to home"
+                     point of the UAV.
+                 A pre-flight check will be conducted per the equipment manufacturer and any standards set
+                     forth by Aerialspecs, Inc.
+                 The Equipment Operator and Spotter will remain in constant communication during operations
+                     via voice or radio. In the event that communications between the Equipment Operator and
+                     Spotter are lost, flight operations shall cease with a controlled landing of the UAV until
+                     communications can be established.
+                 Should unauthorized personnel or a member of the general public enter the operational area,
+                     either on land, sea, or in the air during sUAS operations, flight operations shall cease with a safe,
+                     controlled landing of the UAV until the hazard has cleared.
+
+                           o All other air traffic in or near the operational area will have the right of way and
+                                appropriate action will be taken by the Equipment Operator to avoid the traffic.
+
+                 sUAS operations hereunder will comply with FAA §91.155 Basic VFR weather minimums7 for
+                     daytime operations for Class G airspace and follow typical "see and avoid" standards during
+                     operations.
+
+                 No sUAS will be flown in weather conditions that exceed FAA §91.155 Basic VFR weather
+                     minimums7 for daytime operations for Class G airspace or the operational envelope set forth by
+                     the equipment manufacture.
+
+                 Flight operations will cease with a safe, controlled landing of the UAV at the designated landing
+                     point when battery onboard the UAV reaches 15% of its capacity.
+
+                 The Equipment Operator and Spotter will conduct a Mission Debriefing when flight operations
+                     have been completed to document and share any learnings during the flight.
+
+P a g e | 11
+Copyright © Aerialspecs, Inc, 2015. All Rights Reserved
+Petition for Exemption/Rulemaking to the FAA
+Commercial visual line-of-sight sUAS operations
+
+                 The Equipment Operator will log the flight when operations have been completed.
+          For detailed information on the process see Appendix A. General Flight Process below. Figure 1.1 depicts
+          the area of operations in Class B, C, or D airspace with floor of SFC neear a Class A airport.
+
+             Fig. 1.1 Example area of operations inside Class B, C, or D airspace with a Class A airport. No flight operations are permitted within 5
+             nautical miles. Flight operations within the 12 nautical mile Class B airspace SFC to 10,000 ft. (3048 m) AGL will be restricted to
+             maximum altitude of 400 ft. (121.92 m) AGL.
+
+       FLY-OFF PROCEDURES
+
+          In the unlikely event of loss of control or communications with a UAV resulting in un-commanded flight
+          outside the operational area where all other attempts to abort the flight have failed, the following
+          procedures will be followed:
+
+                 The Equipment Operator will immediately contact the ATC responsible for the airspace the
+                     operations are in to notify them of the hazard. The Equipment Operator will provide ATC with
+                     the following information:
+                           o Last known position of the UAV.
+                           o The last known situation: altitude AGL, ground speed, and heading.
+                           o The operational weight of the UAV.
+                           o The estimated flight time remaining.
+                           o Any defining characteristics of the UAV to help in locating and identifying the vehicle in
+                                flight.
+
+                 The Equipment Operator will contact the Chief Equipment Operator to log the incident.
+                 The Equipment Operator will provide periodic updates the ATC responsible for the airspace
+
+                     providing information, if telemetry is available, until UAV is recovered or the estimated flight
+                     time remaining has expired.
+                 The Equipment Operator will contact the ATC responsible for the airspace once the UAV is
+                     recovered or the estimated flight time remaining has expired to inform them the hazard no
+                     longer exists.
+                 The Equipment Operator will contact the Chief Equipment Operator once the UAV is recovered,
+                     or the estimated flight time remaining has expired, to close the incident.
+
+P a g e | 12
+Copyright © Aerialspecs, Inc, 2015. All Rights Reserved
+Petition for Exemption/Rulemaking to the FAA
+Commercial visual line-of-sight sUAS operations
+
+                 The FSDO will be notified of the incident.
+                 A safety incident will be logged with Aerialspecs, Inc. with a follow-up investigation in an attempt
+
+                     to learn from the incident.
+
+          For detailed information on the process see Appendix B, Fly-Off Process below. Similar to the General
+          Operating Standards above, these procedures are not all inclusive and will likely change as Aerialspecs,
+          Inc. matures this capability.
+
+       FLIGHT STANDARDS DISTRICT OFFICES NOTIFICATION
+
+          Aerialspecs, Inc. will report weekly to the FSDO the planned flights for the coming business week in
+          electronic document format. This document will include the following information:
+
+                 Date, time, and duration of the mission.
+                 Location of the operations.
+                 Operational area.
+                 Nature or objective of the mission.
+                 Planned equipment to be used.
+                 How to contact the Equipment Operator and Spotter for the mission.
+
+          Aerialspecs, Inc. will also create a special webpage on its corporate website specifically for the FSDO
+          containing the information above and allowing for additional comments or request. Ad-hoc or emergency
+          services will be reported to the FSDO within one business week. Any fly-off, aerial operational area
+          incursion, or crash will be reported to the FSDO in accordance to current guidelines.
+
+          The company is currently focusing on business operations in the State of Michigan. The Michigan FSDO
+          locations are:
+
+                           East Michigan
+                           8800 Beck Road-Eastside, Belleville, Michigan, 48111
+                           Phone: (734) 487-7222
+                           Fax: (734) 487-7221
+                           Grand Rapids
+                           3196 Kraft Avenue Southeast, Grand Rapids, Michigan, 49512
+                           Phone: (616) 954-6657
+                           Fax: (616) 940-3140
+
+          Aerialspecs, Inc. will establish a relationship with the FSDO East Michigan and Grand Rapids offices
+          following the approval of this Petition for Exemption.
+
+       EQUIPMENT SPECIFICATION
+
+          Aerialspecs, Inc. will limit operations of a UAV hereunder to light weight, battery operated configuration
+          with following minimum specifications:
+
+                 Fixed wing or multi-rotor craft
+                 Maximum operational Weight 24.9476 kg (55 lbs.) including payload.
+                 Maximum ground speeds of 25 m/s (56 mph).
+                 Battery operated with no more than 60 minutes of minutes of flight time on a single charge.
+                 "Return to Home" capability.
+
+P a g e | 13
+Copyright © Aerialspecs, Inc, 2015. All Rights Reserved
+Petition for Exemption/Rulemaking to the FAA
+Commercial visual line-of-sight sUAS operations
+
+                 A flight controller leveraging any combination of the following: GPS, IMU, altimeter, computer
+                     vision, magnetic compass, or ultrasonic ranging and stabilization.
+
+                 Remotely operated in the public 2.4 GHz, 5.8 GHz, or 900 MHz FCC Part 15 bands as well as non-
+                     C2 information from the cellular bands in the GSM, CDMA, and LTE spectrums depending on
+                     carrier or service availability.
+
+                 External GPS tracker with cellular transmitter in the GSM, CDMA, and LTE spectrums, depending
+                     on carrier or service availability, to send periodic location updates.
+
+       MAINTENANCE AND REPAIR
+
+          Aerialspecs, Inc. will keep a maintenance log of all sUAS operated hereunder and make available this log
+          to the FAA or NTSB upon written request. This log will include:
+
+                 The uniquely identifiable sUAS requiring maintenance or repair.
+                 The date and time of the maintenance or repair.
+                 The nature of the maintenance or repair.
+                 The motivation for the maintenance or repair.
+
+                           o Equipment Failure.
+                           o Crash.
+                           o Manufacturer recall or request.
+                           o Chief Equipment Operator, Equipment Operator, or Spotter service request.
+                           o Mandate by a regulating body at the Federal, state, or local level.
+                 The company, organization, and/or individual who performed the maintenance or repair.
+                 The actions taken to validate the maintenance or repair was complete and successful and the
+                     equipment is in operational order as defined by the equipment manufacturer.
+          Aerialspecs, Inc. will minimally follow the maintenance and repair recommendations set forth by the sUAS
+          equipment manufacturer.
+
+P a g e | 14
+Copyright © Aerialspecs, Inc, 2015. All Rights Reserved
+Petition for Exemption/Rulemaking to the FAA
+Commercial visual line-of-sight sUAS operations
+
+   SPECIFIC USE CASES
+
+          Below are the specific use cases Aerialspecs, Inc. is intending to operate under. Each use case describes
+          how the sUAS will be used as well as the operational area, and any additional safety measures unique to
+          the use case. In the event that a specific use cases operational area conflicts with the constraints defined
+          in the Operating Standards herein, those constraints defined in the Operating Standards will take
+          precedence.
+          In the event the size of an operational area exceeds the range constraints defined in the Operational
+          Standards herein the mission will be broken up into multiple sorties.
+
+       WIND TURBINE CONSTRUCTION AND INSPECTION
+
+          Using sensors, video and still image surveillance, a sUAS will be used to visually inspect the easements,
+          tower, nacelle, blades, and hub in multiple EM spectrums for the purposes of routine inspection, damage
+          verification, restoration planning, 3D site mapping, and flood and drainage monitoring of easements on
+          privately owned farms.
+          Aerialspecs, Inc. will also experiment with probes that can take measurements on engineering points on
+          wind turbine blades. These measurements will typically be impedance measurement to validate that
+          blade lightning arrester systems are in good operating condition.
+          Prior to turbine construction a sUAS will be used to fly the complete blade sweeping area of a planned
+          turbine. Leveraging an attached strobe light, aerial and ground video, point clouds, and computer
+          simulation, Aerialspecs, Inc. can ensure the visibility of a wind turbine to the property owners before
+          committing to an agreement with the operator.
+
+         OPERATIONAL AREA
+
+          For inspection of an existing turbine the UAV will operate within a 600 ft. (182.88 m) horizontal radius of
+          the wind turbine center with a maximum altitude of 400 ft. (1221.92 m) AGL. If the wind turbine is over
+          400 ft. (121.92 m) AGL, then the maximum altitude will be no more than 50 ft. (15.24 m) above the tip of
+          the airfoil fully extended above the nacelle. In the State of Michigan, that is typically no more than 550 ft.
+          (167.64 m) AGL as the majority of wind turbines are no more than 499 ft. (152.1 m) AGL. The UAV will also
+          operate over the easements designated as access to the wind turbine. In such a case the UAV will not fly
+          more 50 ft. (15.24 m) on either side from the center line of the easement and no more than 100 ft. (30.48
+          m) AGL in height. Figure 2.1 depicts the operational area for a wind turbine inspection.
+
+P a g e | 15
+Copyright © Aerialspecs, Inc, 2015. All Rights Reserved
+Petition for Exemption/Rulemaking to the FAA
+Commercial visual line-of-sight sUAS operations
+
+             Fig. 2.1 Operational area for wind turbine inspection.
+
+          During turbine construction planning, the operational area will be limited to the property it is planned to
+          reside on and no more than 400 ft. (121.92 m) AGL. Figure 2.2 depicts the operational area for a proposed
+          wind turbine.
+
+             Fig. 2.2 Operational area for wind turbine construction planning.
+
+          In the case of validating the visibility of turbine prior to construction the UAV will operate within a 600 ft.
+          (182.88 m) horizontal radius of the wind turbine center with a maximum altitude of 400 ft. (1221.92 m)
+          AGL. If the wind turbine is over 400 ft. (121.92 m) AGL, then the maximum altitude will be no more than
+          50 ft. (15.24 m) above the tip of the airfoil fully extended above the nacelle. In the State of Michigan, that
+          is typically no more than 550 ft. (167.64 m) AGL as the majority of wind turbines are no more than 499 ft.
+          (152.1 m) AGL in height. Figure 2.3 depicts the operational area for validating the visibility of a wind
+          turbine.
+
+P a g e | 16
+Copyright © Aerialspecs, Inc, 2015. All Rights Reserved
+Petition for Exemption/Rulemaking to the FAA
+Commercial visual line-of-sight sUAS operations
+
+             Fig. 2.3 Operational area for wind turbine visibility validation.
+
+         ADDITIONAL SAFETY MEASURES
+
+                 The wind turbine must be shut down, in a locked configuration to prevent wing feathering,
+                     nacelle, or blade rotation, and tagged as "personnel on site" or other relevant protective tagging
+                     that would prevent the turbine or its operators from starting it up during sUAS operations.
+
+                 Under certain circumstances the nature of the fault may prevent the turbine from being
+                     completely passivated. In those situations operations may commence provided that:
+                           o The hub, blades, or nacelle are damaged in a manner that would likely prevent the
+                                blades rotation.
+                           o The tower has collapsed.
+                           o The nacelle is directed into the wind and the wings are feathered to minimize rotation.
+                           o The operator has physically secured the turbine on sight.
+
+                 No members of the general public will be permitted in the operational area during operations
+                     with appropriate signage on display.
+
+         PAYLOAD
+
+                 Passive video and/or still imaging equipment in various electromagnetic spectrums including IR,
+                     NIR, visible light, terahertz, and UV.
+
+                 Environmental Monitoring Sensors including but not limited to radiological, biological, chemical,
+                     gas, noise, light, vibration, and range sensors.
+
+                 Impedance Measurement Probe
+                 Other sample probes requiring direct or indirect contact with structure or equipment.
+                 Strobe light.
+
+P a g e | 17
+Copyright © Aerialspecs, Inc, 2015. All Rights Reserved
+Petition for Exemption/Rulemaking to the FAA
+Commercial visual line-of-sight sUAS operations
+
+       ELECTRIC GENERATION, TRANSMISSION, SUB TRANSMISSION, AND DISTRIBUTION
+       FACILITIES INSPECTION
+
+          Using sensors, video and still image surveillance a sUAS will be used to inspect transformers, insulators,
+          switches, breakers, fuses, lines, enclosures, towers, poles and any other supporting equipment at
+          substations and generating facilities.
+          In addition, sUAS will be used to inspect high voltage transformers, insulators, switches, breakers, fuses,
+          lines, enclosures, towers, poles and any other supporting equipment. A sUAS will also be used to generate
+          3D maps and validate construction of new equipment.
+          Using sensors, video and still image surveillance a sUAS will be used to document and provide live video
+          feeds to utilities to validate issues, assess damage to transformers, insulators, switches, breakers, fuses,
+          lines, enclosures, towers, poles and any other supporting equipment, and generate 3D maps to plan
+          repairs after large storms or other incident severely impacting the distribution grid.
+
+         OPERATIONAL AREA
+
+          The operational area for substations and generation facilities is no more than 100 ft. (30.48 m)
+          horizontally from the building or structures property line and a maximum altitude of 400 ft. (121.92 m)
+          AGL. If the substation or generating facility has equipment over 400 ft. (121.92 m) AGL then the
+          operational area will be a maximum altitude of 50 ft. (15.24 m) above the tallest part of the substation or
+          generation facility and 100 ft. (30.48 m) horizontally from the building or structure down to 400 ft.
+          (121.92 m) AGL. Below 400 ft. (121.92 m) AGL, the horizontal operational area will then extend to 100 ft.
+          (30.48 m) from the building or structures property line. Figure 3.1 depicts the operational area for a
+          substation or generation facility.
+
+             Fig. 3.1 Operational area for transmission and sub transmission Towers.
+
+          The operational area for transmission, sub transmission, and tie lines will be 100 ft. (30.48 m) from the
+          utility easement and a maximum altitude of 400 ft. (1221.92 m) AGL.
+
+P a g e | 18
+Copyright © Aerialspecs, Inc, 2015. All Rights Reserved
+Petition for Exemption/Rulemaking to the FAA
+Commercial visual line-of-sight sUAS operations
+
+             Fig. 3.2 Operational area for transmission and sub transmission Towers.
+
+          For distribution assets, the operational area will be localized to job sites or incident areas with due
+          diligence of focusing on the utility easement defined with a maximum altitude of 400 ft. (121.92 m) AGL.
+          Figure 3.3 depicts the operational area of operations on the distribution grid.
+
+             Fig. 3.3 Operational area for the distribution grid. In most cases on residential property.
+
+         ADDITIONAL SAFETY MEASURES
+
+                 sUAS will be tested at a utility training facilities to validate safe operations near energized
+                     equipment.
+
+                 A representative will be present during any utility operations inside the property of a substation
+                     or generation facility.
+
+                 Employees will be trained in the health and safety hazards of electrical equipment and power
+                     lines.
+
+P a g e | 19
+Copyright © Aerialspecs, Inc, 2015. All Rights Reserved
+Petition for Exemption/Rulemaking to the FAA
+Commercial visual line-of-sight sUAS operations
+
+         PAYLOAD
+
+                 Passive video and/or still imaging equipment in various electromagnetic spectrums including IR,
+                     NIR, visible light, terahertz, and UV.
+
+                 Environmental Monitoring Sensors including but not limited to radiological, biological, chemical,
+                     gas, noise, light, vibration, and range sensors.
+
+       BUILDING, BRIDGE, STRUCTURE OR SPAN INSPECTION
+
+          Using video and still image surveillance, a sUAS will be used to visually inspect commercial, industrial, or
+          residential buildings, church spires, bridges, structures, or spans and their supporting equipment for
+          routine inspection, damage assessment, 3D site mapping, or construction or repair verification. This
+          inspection may include, but not limited to, piping, ductwork, conduit, cabling, expansion joints, smoke
+          stacks or chimneys, storage containers, boilers, pressure vessels, and other equipment for industrial
+          purposes may be inspected as well. In the case of smoke stacks or chimneys, a UAV may be used to mount
+          and retrieve inspection rigs for internal inspection.
+          A UAV equipped with a rudimentary de-nesting rod may be used on industrial equipment that requires
+          the area to be free of debris such as pressure relief values, inspection ports, intake or exhaust ports, or
+          transceiver equipment.
+
+         OPERATIONAL AREA
+
+          In the case of buildings or structure the operational area is no more than 100 ft. (30.48 m) horizontally
+          from the building or structures property line and a maximum altitude of 400 ft. (121.92 m) AGL. If the
+          building or structure is over 400 ft. (121.92 m) AGL then the operational area will be a maximum altitude
+          of 50 ft. (15.24 m) above the tallest part of the building or structure and 100 ft. (30.48 m) horizontally
+          from the building or structure down to 400 ft. (121.92 m) AGL. Below 400 ft. (121.92 m) AGL, the
+          horizontal operational area will then extend to 100 ft. (30.48 m) from the building or structures property
+          line. Figure 4.1 depicts the operational area around a large building above 400 ft. (121.92 m) AGL. Figure
+          4.2 depicts the operational area around a structure below 400 ft. (121.92 m) AGL.
+
+             Fig. 4.1 Operational area around a building taller than 400 ft. (121.92 m) AGL. Note the area around the perimeter of the property
+             only extends to 400 ft. (121.92 m) AGL. Also note the North side of the operational area does not extend over the highway.
+
+P a g e | 20
+Copyright © Aerialspecs, Inc, 2015. All Rights Reserved
+Petition for Exemption/Rulemaking to the FAA
+Commercial visual line-of-sight sUAS operations
+
+             Fig. 4.2 Operational area around a structure below 400 ft. (121.92 m) AGL limit.
+
+          The operational area for bridges or spans is no more than 100 ft. (30.48 m) horizontally from the span or
+          bridges property or outer most structure, where appropriate and a maximum altitude of 400 ft. (121.92
+          m) AGL. If the bridge or span is above 400 ft. (121.92 m) AGL then the maximum altitude is 50 ft. (15.24
+          m) above the tallest part of the bridge or span. The area underneath the bridge to the ground or water
+          level will be considered the operational area as well. For bridges carrying vehicle traffic, no UAV will be
+          flown over the roadway except around tower sections. Figure 4.3 depicts the operational area around a
+          bridge or span.
+          The operational area around the tower section of a bridge or span when over roadways is no more than
+          50 ft. (15.24 m) horizontally from the tower section, a minimum altitude of 50 ft. (15.24 m) above the
+          roadway, and a maximum altitude of 400 ft. (121.92 m) AGL. If the tower section of a bridge or span is
+          above 400 ft. (121.92 m) AGL, including the 50 ft. (15.24 m) buffer, then the maximum altitude is 50 ft.
+          (15.24 m) above the tallest part of the bridge or span.
+
+             Fig. 4.3 Operational area around a bridge or span, minus the towers. Note no area over roadway.
+
+P a g e | 21
+Copyright © Aerialspecs, Inc, 2015. All Rights Reserved
+Petition for Exemption/Rulemaking to the FAA
+Commercial visual line-of-sight sUAS operations
+
+         ADDITIONAL SAFETY MEASURES
+
+                 No sUAS will operate in an explosive atmosphere environment.
+                 No bridge, span, or structure that crosses over a roadway designated as a Highway by the Federal
+
+                     or State government the roadway is in will be inspected unless the highway has been closed in
+                     the operational area.
+                 The EM spectrum of antennas, buildings, bridges, structures, or spans containing transmitting
+                     equipment will be evaluated for interference of the C2 systems of the sUAS and vice versa.
+                 Equipment with intake or exhaust ports, or transmitters will be shut down before de-nesting
+                     operations will occur.
+                 Equipment tied to smoke stacks or chimneys to be inspected will be shut down before internal
+                     inspections occur.
+                 Due to the nature of visibility in major metropolitan areas special handling of heliports will be
+                     taken. No sUAS operations in a major metropolitan area will occur within 1 statute mile (1.6 km)
+                     of a heliport without informing the owner of the heliports of the sUAS operations. This
+                     communication will include:
+
+                           o Date, time, and duration of the mission.
+                           o Location of the operations.
+                           o Operational area.
+                           o Planned equipment to be used.
+                           o How to contact the Equipment Operator and Spotter for the mission.
+                 Sidewalks, bike paths, and any other pedestrian pathways inside the operational area will have
+                     appropriate warning signs, rope, tape, or other signaling methods to cordon off the area.
+                 If a bridge or span can carry pedestrian traffic, the bridge or span must be closed to pedestrians.
+                 If a bridge or span is for vehicle traffic the UAV will not be flown over the roadway with the
+                     exception of the tower sections. It will be flown outside the guardrail, main cables, hangers, or
+                     underneath the roadway.
+                 Operations over roadways around bridge or span tower sections will not be conducted if wind
+                     gusts exceed 20 MPH (8.94 m/s).
+
+         PAYLOAD
+
+                 Passive video and/or still imaging equipment in various electromagnetic spectrums including IR,
+                     NIR, visible light, terahertz, and UV.
+
+                 Environmental Monitoring Sensors including but not limited to radiological, biological, chemical,
+                     gas, noise, light, vibration, and range sensors.
+
+                 De-Nesting or debris removal probes for removing animal nests or other debris.
+                 Other sample probes requiring direct or indirect contact with structure or equipment.
+
+       AGRICULTURE INSPECTION
+
+          Using video and still image surveillance, a sUAS will be used to gather visible, NIR, and IR photos of crops
+          to establish crop health for farmers. Aerialspecs, Inc. may also experiment with using other sensors to
+          evaluate air, water, and soil conditions of crops.
+
+P a g e | 22
+Copyright © Aerialspecs, Inc, 2015. All Rights Reserved
+Petition for Exemption/Rulemaking to the FAA
+Commercial visual line-of-sight sUAS operations
+
+         OPERATIONAL AREA
+
+          UAV operations will be limited to a no more than 100 ft. (30.48 m) horizontally from the property line
+          with a maximum altitude of 400 ft. (121.92 m) AGL. Figure 5.1 depicts the operational area for agriculture
+          inspection.
+
+             Fig. 5.1 Operational area for agriculture inspection.
+
+         ADDITIONAL SAFETY MEASURES
+
+                 No farm equipment will be manned or operational in the operational area.
+
+         PAYLOAD
+
+                 Passive video and/or still imaging equipment in various electromagnetic spectrums including IR,
+                     NIR, visible light, terahertz, and UV.
+
+       INDUSTRIAL / MINING ENVIRONMENTAL INSPECTION
+
+          Using video and still image surveillance, a sUAS will monitor stockpiles, ash piles, run-off, storage ponds,
+          erosion, and document the environmental impact of those areas. 3D mapping will be leveraged to
+          measure volume and traversal of the environment over time. Aerialspecs, Inc. will experiment with other
+          sensors including radiological, biological, and chemical as well.
+
+         OPERATIONAL AREA
+
+          UAV operations will be limited to a no more than 100 ft. (30.48 m) horizontally from the property line
+          with a maximum altitude of 400 ft. (121.92 m) AGL. Figure 6.1 and Figure 6.2 depict operational areas for
+          environmental inspection. In the case of a quarry, pit, or hole, AGL will be measure from the base.
+
+P a g e | 23
+Copyright © Aerialspecs, Inc, 2015. All Rights Reserved
+Petition for Exemption/Rulemaking to the FAA
+Commercial visual line-of-sight sUAS operations
+
+             Fig. 6.1 Operational area for environmental monitoring, in this case a stockpile.
+
+             Fig. 6.2 Operational area for environmental monitoring, in this case a quarry.
+
+         ADDITIONAL SAFETY MEASURES
+
+                 No sUAS will operate in an explosive atmosphere environment.
+
+         PAYLOAD
+
+                 Passive video and/or still imaging equipment in various electromagnetic spectrums including IR,
+                     NIR, visible light, terahertz, and UV.
+
+                 Environmental Monitoring Sensors including but not limited to radiological, biological, chemical,
+                     gas, noise, light, vibration, and range sensors.
+
+                 De-Nesting or debris removal probes for removing animal nests or other debris.
+                 Other sample probes requiring direct or indirect contact with structure or equipment.
+
+P a g e | 24
+Copyright © Aerialspecs, Inc, 2015. All Rights Reserved
+Petition for Exemption/Rulemaking to the FAA
+Commercial visual line-of-sight sUAS operations
+
+       MUNICIPAL POLICE, FIRE, AND SEARCH AND RESCUE
+
+          Using audio, video, and still image surveillance a sUAS will be used to provide live visual, audio, telemetry
+          information to Police, Fire, Search and Rescue personnel during major incidents such as bomb threats,
+          major vehicle accident involving hazardous materials, infrastructure or building collapse, flooding,
+          mudslide, landslide, hostage situation, or any other incident that poses an immediate threat to the health,
+          lives, or safety of the general public or emergency response personnel. When equipped, the sUAS may
+          also be used to provide live audio via directional microphone or active laser listening device where
+          allowed by law. Aerialspecs, Inc. will experiment with other sensors including radiological, biological, and
+          chemical as well.
+          A sUAS will be used to generate point clouds for 3D mapping and monitoring of flood zones, rubble piles,
+          or measuring spills.
+          Aerialspecs, Inc. will experiment with using a sUAS to tow a rescue rope or drop flotation devices to
+          people during water or ice rescue.
+
+         OPERATIONAL AREA
+
+          The operational area will be defined by the Incident Commander handling the response. A typical
+          operational area for a Police or Fire incident will be any suburban or metropolitan public, commercial,
+          industrial, or residential property. In the case of buildings or structure the operational area is no more
+          than 100 ft. (30.48 m) horizontally from the building or structures property line and a maximum altitude
+          of 400 ft. (121.92 m) AGL. If the building or structure is over 400 ft. (121.92 m) AGL, including the 50 ft.
+          (15.24 m) buffer, then the operational area will be a maximum altitude of 50 ft. (15.24 m) above the
+          tallest part of the building or structure and 100 ft. (30.48 m) horizontally from the building or structure
+          down to 400 ft. (121.92 m) AGL. Below 400 ft. (121.92 m) AGL, the horizontal operational area will then
+          extend to 100 ft. (30.48 m) from the building or structures property line. For the safety of the Equipment
+          Operator and Spotter the horizontal area may be extended to 1000 ft. (304.8 m) from the incident area.
+          Figure 7.1 depicts the operational are for a Police or Fire incident. Figure 7.2 depicts the operational area
+          for search and rescue.
+
+             Fig. 7.1 Operational area for Police and Fire.
+
+P a g e | 25
+Copyright © Aerialspecs, Inc, 2015. All Rights Reserved
+Petition for Exemption/Rulemaking to the FAA
+Commercial visual line-of-sight sUAS operations
+
+             Fig. 7.2 Operational area for search and rescue.
+
+          For broader operations such as damage assessment, impact analysis, or search and rescue the operational
+          area will be defined by the Incident Commander handling the response with a maximum altitude of 400 ft.
+          (121.92 m) AGL.
+          Over a highway, the operational area will be 1000 ft. (304.8 m) radius around the approximate center of
+          the Incident area with a maximum altitude of 400 ft. (121.92 m) AGL. Per the Additional Safety Measures
+          defined hereunder, a 300 foot (91.44 m) barrier or buffer must be established and the highway must be
+          closed.
+
+             Fig. 7.3 Operational area over highway. Due to the nature of hazardous or explosive cargo sometimes shipped over highways, an
+             sUAS may have to enter anywhere from up to 1000 ft. (304.8 m) away for increased safety to the Equipment Operator and Spotter.
+             Note the 300 ft. (91.44) barrier established in the Incident Area depicted in red.
+
+         ADDITIONAL SAFETY MEASURES
+
+                 No sUAS will operate in an explosive atmosphere environment.
+                 No operations will occur while any other police, fire, or search and rescue aerial vehicles are
+
+                     operating in response to the incident.
+P a g e | 26
+Copyright © Aerialspecs, Inc, 2015. All Rights Reserved
+Petition for Exemption/Rulemaking to the FAA
+Commercial visual line-of-sight sUAS operations
+
+                 The agency handling the response to the incident will designate the Incident Commander on
+                     scene as the liaison between the agency and the Equipment Operator and Spotter.
+                           o The Incident Commander will be responsible for obtaining the necessary warrants,
+                                permits, exemptions, authorizations, or licenses to operate sUAS for the situation.
+                           o The Incident Commander will have the same authority to abort or cancel a flight as the
+                                Equipment Operator and Spotter.
+                           o The Incident Commander must be in constant communication with the Equipment
+                                Operator and Spotter via voice or radio during Operations. In the event that
+                                communications between the Equipment Operator and Incident Commander are lost,
+                                flight operations shall cease with a controlled landing of the UAV until communications
+                                can be established.
+
+                 The Equipment Operator and Spotter will operate under the guidelines of the National Incident
+                     Management System as governed by the United States Department of Homeland Security.
+
+                 Personal protection equipment appropriate for the situation will be specified by the liaison and
+                     used by employees at all times during operations. Examples include respirators, flame retardant
+                     clothing, or ballistics vests.
+
+                 Due to the nature of visibility in major metropolitan areas special handling of heliports will be
+                     taken. No sUAS operations in a major metropolitan area will occur within 1 statute mile (1.6 km)
+                     of a heliport without informing the owner of the heliports of the sUAS operations. This
+                     communication will include:
+                           o Date, time, and duration of the mission.
+                           o Location of the operations.
+                           o Operational area.
+                           o Planned equipment to be used.
+                           o How to contact the Equipment Operator and Spotter for the mission.
+
+                 A UAV never be used to restrain, detain, subdue, or physically engage an individual. In the case of
+                     water or ice rescue, a UAV may be used to tow a lead line to, or drop a flotation device near an
+                     individual in a manner that minimizes the risk of contact with the individual.
+
+                 Every attempt will be made by the Equipment Operator to access the incident area with the UAV
+                     via easements or public property, avoiding flying over private property except in extreme cases.
+
+                 No sUAS operations will occur over any roadway designated a Highway by Federal or State
+                     Government the roadway is in unless the Highway has been closed at the point of the incident
+                     and a minimum 300 ft. (91.44 m) safety zone has been established around the incident.
+
+         PAYLOAD
+
+                 Passive video and/or still imaging equipment in various electromagnetic spectrums including IR,
+                     NIR, visible light, terahertz, and UV.
+
+                 Environmental Monitoring Sensors including but not limited to radiological, biological, chemical,
+                     gas, noise, light, vibration, and range sensors.
+
+                 Active and/or passive listening devices (in accordance with local, State, and Federal laws).
+                 Rescue Lead lines or life preservers for search and rescue.
+                 Audio speaker, siren, or bull horn.
+
+P a g e | 27
+Copyright © Aerialspecs, Inc, 2015. All Rights Reserved
+Petition for Exemption/Rulemaking to the FAA
+Commercial visual line-of-sight sUAS operations
+
+      APPENDIX
+
+       A. GENERAL FLIGHT PROCESS
+
+P a g e | 28
+Copyright © Aerialspecs, Inc, 2015. All Rights Reserved
+Petition for Exemption/Rulemaking to the FAA
+Commercial visual line-of-sight sUAS operations
+
+       B. FLY-OFF PROCESS
+
+P a g e | 29
+Copyright © Aerialspecs, Inc, 2015. All Rights Reserved
+Petition for Exemption/Rulemaking to the FAA
+Commercial visual line-of-sight sUAS operations
+
+      GLOSSARY OF TERMS
+
+       AGL
+
+          Above Ground Level: The altitude above ground level for any given location.
+
+       AIRMET
+
+          AIRman's METeorological Information: An AIRMET is a weather advisory issued by the NOAA that advises
+          of weather that maybe hazardous, other than convective activity, to single engine, other light aircraft, and
+          Visual Flight Rule (VFR) pilots.
+
+       ATC
+
+          A service provided by ground-based controllers who direct aircraft on the ground and through controlled
+          airspace, and can provide advisory services to aircraft in non-controlled airspace.9
+
+       C2
+
+          Command and Control: Telemetry used to control the vehicle including manual commands from the
+          controller.
+
+       EM
+
+          Electromagnetic Radiation: radiation consisting of electromagnetic waves, including radio waves,
+          infrared, visible light, ultraviolet, x-rays, and gamma rays.15
+
+       FLY-OFF
+
+          The un-commanded flight of an UAV due to interference or malfunction that typically resulting in loss of
+          the vehicle.
+
+       FSDO
+
+          Flight Standards District Office: pronounced FIZ-doe, is a regional office of the United States Federal
+          Aviation Administration.14
+
+       GPS
+
+          Global Positioning System: A device used to determine geographic position I latitude, longitude and
+          altitude above sea level.
+
+       IMU
+
+          Inertial Measurement Unit: Sometimes referred to as a solid state gyro, an IMU determines position and
+          orientation or an object through a technique known as dead reckoning by detecting the gravitational
+          force, or G, on a particular axis.
+
+P a g e | 30
+Copyright © Aerialspecs, Inc, 2015. All Rights Reserved
+Petition for Exemption/Rulemaking to the FAA
+Commercial visual line-of-sight sUAS operations
+
+       IR
+
+          Infrared: is invisible radiant energy, electromagnetic radiation with longer wavelengths than those of
+          visible light, extending from the nominal red edge of the visible spectrum at 700 nanometers (frequency
+          430 THz) to 1 mm (300 GHz).10
+
+       NIR
+
+          Near Infrared: Infrared region of the electromagnetic spectrum (from about 800 nm to 2500 nm).11
+
+       NTSB
+
+          National Transportation and Safety Board: The independent Federal Agency Charged with determining
+          the probable cause of transportation accidents and promoting transportation safety, and assisting victims
+          of transportation accidents and their families.
+
+       SFC
+
+          Surface or Ground Level.
+
+       SIGMET
+
+          SIGnificant METeorological Information: A SIGMET is a weather advisory issued by the NOAA that
+          contains meteorological information concerning the safety of all aircraft.
+
+       SUAS
+
+          Small Unmanned Aircraft System: A UAV and all its supporting systems for operations. Usually includes
+          the remote controller and ground stations used for communication, imagery, and telemetry.
+
+       TFR
+
+          Temporary Flight Restriction: The pertinent sections of the FAR (14 CFR Sections 91.137, 91.138, 91.139,
+          91.141, 91.143, 91.145, 99.7) describe temporary flight restrictions. A TFR is a geographically-limited,
+          short-term, airspace restriction, typically in the United States. Temporary flight restrictions often
+          encompass major sporting events, natural disaster areas, air shows, space launches, and Presidential
+          movements.8
+
+       UAV
+
+          Unmanned Aerial Vehicle: An unmanned, remotely operated, aerial vehicle in a fixed wing or multiple
+          rotor copter configuration.
+
+       UV
+
+          Ultraviolet: Ultraviolet (UV) light is electromagnetic radiation with a wavelength from 400 nm to 10 nm,
+          shorter than that of visible light but longer than X-rays.12
+
+       VFR
+
+          Visual Flight Rules: A set of regulations which allow a pilot to operate an aircraft in weather conditions
+          generally clear enough to allow the pilot to see where the aircraft is going.
+
+P a g e | 31
+Copyright © Aerialspecs, Inc, 2015. All Rights Reserved
+Petition for Exemption/Rulemaking to the FAA
+Commercial visual line-of-sight sUAS operations
+
+   REFERENCES
+
+                1. FAA Advisory Circular AC 91-57, Model Aircraft Operating Standards
+
+                           http://rgl.faa.gov/Regulatory_and_Guidance_Library/rgAdvisoryCircular.nsf/0/1acfc3f689769a56862569e70077c9cc/$FIL
+                           E/ATTBJMAC/ac91-57.pdf
+
+                2. Exemptions relating to 14 CFR §45.23 (b): Marking of the Aircraft
+
+                           http://aes.faa.gov/Form/Doc.asp?SelExemptID=15968&ExemptNo=10700
+                           http://aes.faa.gov/Form/Doc.asp?SelExemptID=15071&ExemptNo=10167
+
+                3. Exemptions relating to 14 CFR §91.9 (b) (2):
+
+                           http://aes.faa.gov/Form/Doc.asp?SelExemptID=12862&ExemptNo=8607
+                           http://aes.faa.gov/Form/Doc.asp?SelExemptID=13111&ExemptNo=8737
+                           http://aes.faa.gov/Form/Doc.asp?SelExemptID=13119&ExemptNo=8738
+                           http://aes.faa.gov/AES.NET/GetPDFDocument.aspx?ExemptNo=9299
+                           http://aes.faa.gov/AES.NET/GetPDFDocument.aspx?ExemptNo=9565
+                           http://aes.faa.gov/Form/Doc.asp?SelExemptID=15071&ExemptNo=10167
+                           http://aes.faa.gov/AES.NET/GetPDFDocument.aspx?ExemptNo=10602
+                           http://aes.faa.gov/AES.NET/GetPDFDocument.aspx?ExemptNo=10700
+
+                4. Exemptions relating to 14 CFR §91.109: Flight Instruction
+
+                           http://aes.faa.gov/AES.NET/GetPDFDocument.aspx?ExemptNo=5778K
+                           http://aes.faa.gov/AES.NET/GetPDFDocument.aspx?ExemptNo=9862A
+
+                5. Exemptions relating to 14 CFR §91.151: Fuel requirements for flight in VFR conditions
+
+                           http://aes.faa.gov/AES.NET/GetPDFDocument.aspx?ExemptNo=10673
+                           http://aes.faa.gov/AES.NET/GetPDFDocument.aspx?ExemptNo=2689F
+                           http://aes.faa.gov/AES.NET/GetPDFDocument.aspx?ExemptNo=5745
+                           http://aes.faa.gov/AES.NET/GetPDFDocument.aspx?ExemptNo=10673
+                           http://aes.faa.gov/AES.NET/GetPDFDocument.aspx?ExemptNo=10808
+
+                6. Exemptions relating to 14 CFR §91.203 (a) & (b): Carrying Civil Aircraft Certification and
+                     Registration
+
+                           http://aes.faa.gov/AES.NET/GetPDFDocument.aspx?ExemptNo=9565
+                           http://aes.faa.gov/AES.NET/GetPDFDocument.aspx?ExemptNo=9665
+                           http://aes.faa.gov/AES.NET/GetPDFDocument.aspx?ExemptNo=9789
+                           http://aes.faa.gov/AES.NET/GetPDFDocument.aspx?ExemptNo=9797
+                           http://aes.faa.gov/AES.NET/GetPDFDocument.aspx?ExemptNo=9816A
+                           http://aes.faa.gov/AES.NET/GetPDFDocument.aspx?ExemptNo=10700
+
+                7. FAA Code of Federal Regulations, Part 91 General Operating and Flight Rules, Subpart B - Flight
+                     Rules, Sec. 91.155 Basic VFR weather minimums:
+
+                           http://rgl.faa.gov/Regulatory_and_Guidance_Library/rgFAR.nsf/0/074608a2fa18b48a86256eeb006704ef!OpenDocumen
+                           t
+
+                8. TFR Definition
+
+                           http://en.wikipedia.org/wiki/Federal_Aviation_Regulations#Temporary_flight_restrictions
+
+                9. ATC Definition
+
+                           http://en.wikipedia.org/wiki/Air_traffic_control
+
+                10. Infrared Definition
+
+                           http://en.wikipedia.org/wiki/Infrared
+
+                11. Near Infrared Definition
+
+                           http://en.wikipedia.org/wiki/Near-infrared_spectroscopy
+
+                12. Ultraviolet Definition
+
+                           http://en.wikipedia.org/wiki/Ultraviolet
+
+                13. UniversalTM Aviation Background Check
+
+                           http://www.universalbackground.com/solutions/aviation.asp
+
+                14. FSDO Definition
+
+                           http://en.wikipedia.org/wiki/Flight_Standards_District_Office
+
+P a g e | 32
+Copyright © Aerialspecs, Inc, 2015. All Rights Reserved
+Petition for Exemption/Rulemaking to the FAA
+Commercial visual line-of-sight sUAS operations
+
+                15. EM Definition
+
+                           http://dictionary.reference.com/browse/electromagnetic+radiation
+
+P a g e | 33
+Copyright © Aerialspecs, Inc, 2015. All Rights Reserved
+

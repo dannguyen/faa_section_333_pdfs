@@ -1,0 +1,820 @@
+June 30, 2015
+
+                                                           Exemption No. 11953
+                                                           Regulatory Docket No. FAA­2015­1407
+
+Mr. Kevin Kianka, P.E.
+Director of BIM/Modeling Program
+Haag 3D Solutions, LLC
+625 Industrial Boulevard
+Sugar Land, TX 77478
+
+Dear Mr. Kianka:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter dated April 28, 2015, you petitioned the Federal Aviation Administration (FAA) on
+behalf of Haag 3D Solutions, LLC (hereinafter petitioner or operator) for an exemption. The
+petitioner requested to operate an unmanned aircraft system (UAS) to conduct mapping,
+inspection and photography of landfills, mining facilities, utilities, oil and gas facilities,
+agriculture, construction sites, forensic engineering assessments, damage assessments and fire
+investigation applications.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner are the DJI Phantom 3, DJI Phantom 2 Vision+, and
+DJI Phantom 2.
+                                                                                                                 2
+
+The petitioner requested relief from 14 CFR part 21, Certification procedures for products
+and parts, Subpart H--Airworthiness Certificates. In accordance with the statutory criteria
+provided in Section 333 of Public Law 112-95 in reference to 49 U.S.C. § 44704, and in
+consideration of the size, weight, speed, and limited operating area associated with the
+aircraft and its operation, the Secretary of Transportation has determined that this aircraft
+meets the conditions of Section 333. Therefore, the FAA finds that the requested relief from
+14 CFR part 21, Certification procedures for products and parts, Subpart H--Airworthiness
+Certificates, and any associated noise certification and testing requirements of part 36, is
+not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection1. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+ They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+ The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+ A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, Haag 3D Solutions, LLC is granted an exemption from
+14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a), 91.7(a), 91.119(c),
+91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a) and (b), to
+
+1 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                                                 3
+
+the extent necessary to allow the petitioner to operate a UAS to perform aerial data collection.
+This exemption is subject to the conditions and limitations listed below.
+
+Conditions and Limitations
+
+In this grant of exemption, Haag 3D Solutions, LLC is hereafter referred to as the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+    1. Operations authorized by this grant of exemption are limited to the DJI Phantom 3,
+         DJI Phantom 2 Vision+, and DJI Phantom 2 when weighing less than 55 pounds
+         including payload. Proposed operations of any other aircraft will require a new
+         petition or a petition to amend this exemption.
+
+    2. Operations for the purpose of closed-set motion picture and television filming are
+         not permitted.
+
+    3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+         exemption holder may use either groundspeed or calibrated airspeed to determine
+         compliance with the 87 knot speed restriction. In no case will the UA be operated at
+         airspeeds greater than the maximum UA operating airspeed recommended by the
+         aircraft manufacturer.
+
+    4. The UA must be operated at an altitude of no more than 400 feet above ground level
+         (AGL). Altitude must be reported in feet AGL.
+
+    5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+         This requires the PIC to be able to use human vision unaided by any device other than
+         corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+         U.S. driver's license.
+
+    6. All operations must utilize a visual observer (VO). The UA must be operated within
+         the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+         to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+         capability. The VO and PIC must be able to communicate verbally at all times;
+         electronic messaging or texting is not permitted during flight operations. The PIC
+         must be designated before the flight and cannot transfer his or her designation for the
+         duration of the flight. The PIC must ensure that the VO can perform the duties
+         required of the VO.
+
+    7. This exemption and all documents needed to operate the UAS and conduct its
+         operations in accordance with the conditions and limitations stated in this grant of
+         exemption, are hereinafter referred to as the operating documents. The operating
+                                                                                                            4
+
+    documents must be accessible during UAS operations and made available to the
+    Administrator upon request. If a discrepancy exists between the conditions and
+    limitations in this exemption and the procedures outlined in the operating documents,
+    the conditions and limitations herein take precedence and must be followed.
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+                                                                                                            5
+
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+                                                                                       6
+
+exemption holder may apply for a new or amended COA if it intends to conduct
+operations that cannot be conducted under the terms of the attached COA.
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+
+    be as large as practicable.
+
+23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+    any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+    PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+    These documents must be made available to the Administrator or any law enforcement
+    official upon request.
+
+24. The UA must remain clear and give way to all manned aviation operations and
+    activities at all times.
+
+25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless:
+      a. Barriers or structures are present that sufficiently protect nonparticipating persons
+          from the UA and/or debris in the event of an accident. The operator must ensure
+          that nonparticipating persons remain under such protection. If a situation arises
+          where nonparticipating persons leave such protection and are within 500 feet of
+          the UA, flight operations must cease immediately in a manner ensuring the safety
+          of nonparticipating persons; and
+      b. The owner/controller of any vessels, vehicles or structures has granted permission
+          for operating closer to those objects and the PIC has made a safety assessment of
+          the risk of operating closer to those objects and determined that it does not
+          present an undue hazard.
+
+The PIC, VO, operator trainees or essential persons are not considered
+nonparticipating persons under this exemption.
+
+27. All operations shall be conducted over private or controlled-access property with
+    permission from the property owner/controller or authorized representative.
+    Permission from property owner/controller or authorized representative will be
+    obtained for each flight to be conducted.
+
+28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+
+    boundaries of the operational area as defined by the applicable COA must be reported
+    to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+                                                                                               7
+
+reported to the National Transportation Safety Board (NTSB) per instructions
+contained on the NTSB Web site: www.ntsb.gov.
+
+If this exemption permits operations for the purpose of closed-set motion picture and
+television filming and production, the following additional conditions and limitations apply.
+
+29. The operator must have a motion picture and television operations manual (MPTOM)
+    as documented in this grant of exemption.
+
+30. At least 3 days before aerial filming, the operator of the UAS affected by this
+    exemption must submit a written Plan of Activities to the local Flight Standards
+    District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+    notification may be waived with the concurrence of the FSDO. The plan of activities
+    must include at least the following:
+      a. Dates and times for all flights;
+      b. Name and phone number of the operator for the UAS aerial filming conducted
+          under this grant of exemption;
+      c. Name and phone number of the person responsible for the on-scene operation of
+          the UAS;
+      d. Make, model, and serial or N-Number of UAS to be used;
+      e. Name and certificate number of UAS PICs involved in the aerial filming;
+      f. A statement that the operator has obtained permission from property owners
+          and/or local officials to conduct the filming production event; the list of those
+          who gave permission must be made available to the inspector upon request;
+      g. Signature of exemption holder or representative; and
+      h. A description of the flight activity, including maps or diagrams of any area, city,
+          town, county, and/or state over which filming will be conducted and the altitudes
+          essential to accomplish the operation.
+
+31. Flight operations may be conducted closer than 500 feet from participating persons
+
+    consenting to be involved and necessary for the filming production, as specified in the
+    exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                    8
+
+This exemption terminates on July 31, 2017, unless sooner superseded or rescinded.
+Sincerely,
+
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+625 Industrial Blvd   281.313.9700
+Sugar Land, TX 77478  281.313.9707 fax
+Haag3DSolutions.com
+
+                                                      April 28, 2015
+
+U.S. Department of Transportation
+Federal Aviation Administration
+Document Management System
+1200 New Jersey Ave., SE
+Washington, D.C. 20590
+
+RE: Exemption Request ­ Section 333 of the FAA Report Act and Part 11 of the Federal
+         Aviation Regulations
+
+Dear Sir or Madam:
+
+Pursuant to Section 333 of the FAA Modernization and Reform Act of 2012, Pub. L. No. 112-95,
+126 Stat.11 (amending 49 U.S.C.) (hereinafter, the "Reform Act") and 14 C.F.R. Part 11, Haag 3D
+Solutions LLC ("H3DS"), a developer and operator of small unmanned aircraft systems (singularly
+a "sUAS" or cumulatively "sUASs") seeks an exemption from the Federal Aviation Regulations
+listed below, to allow commercial operation of its sUASs.
+
+Haag 3D Solutions, LLC a division of Haag Engineering Co., Forensic Engineers & Consultants
+since 1924, provides professional 3D geospatial solutions for all types of design and construction
+projects. Haag 3D Solutions, LLC (H3DS) is a technology and services company specializing in
+the application of 3D imaging and BIM technologies delivering highly accurate and reliable as built
+documentation for both public and private sector clients. Having completed hundreds of 3D Laser
+Scanning, mapping and BIM assignments throughout North America, the Haag 3D Solutions team
+has gained a uniquely practical familiarity with 3D Laser Scanning technology and processes and
+offers real solutions to a wide variety of measurement and physical documentation tasks.
+
+As described more fully below, the requested exemption would permit the operation of small,
+unmanned sUAS under controlled condition in airspace that (a) is limited, (b) is predetermined, (c)
+is controlled as to access, and (d) would provide safety enhancements to the already safe
+operations in the mapping industry. Approval of this exemption would thereby enhance safety and
+fulfill the Secretary of Transportation's responsibilities to "... establish requirements for the safe
+operation of such aircraft systems in the national airspace system." Reform Act 333 (c).
+
+The name and address of the applicant ("Applicant"):
+
+         Haag 3D Solutions, LLC
+         Attn: Kevin Kianka, P.E.
+         625 Industrial Blvd
+         Sugar Land, TX 77478
+         TEL: 281-313-9700
+         FAX: 281-313-9707
+         Email: kkianka@haagglobal.com
+U.S. Department of Transportation ­ Federal Aviation Administration           Page 2
+Exemption Request ­ Section 333 of the FAA Reform Act                April 28, 2015
+
+The Applicant hereby requests exemption from the following FARs:
+
+     · 14 C.F.R. 21, subpart H
+     · 14 C.F.R. 61.3
+     · 14 C.F.R. 61.113(a)&(b)
+     · 14 C.F.R. 61.133(a)
+     · 14 C.F.R. 91.9(b)(2)
+     · 14 C.F.R. 91.103(b)
+     · 14 C.F.R. 91.105
+     · 14 C.F.R. 91.109(a)
+     · 14 C.F.R. 91.119
+     · 14 C.F.R. 91.121
+     · 14 C.F.R. 91.151(a)
+     · 14 C.F.R. 91.203(a) & (b)
+     · 14 C.F.R. 91.319(a)(1)
+     · 14 CFR 91, Subpart E (91.405, 91.407, 91.409, 91.417)
+
+The requested exemption would authorize H3DS to conduct commercial operations using the DJI
+Phantom 3, DJI Phantom 2 Vision+, and DJI Phantom 2 for mapping, inspection and photography
+of landfills, mining facilities, utilities, oil & gas facilities, agriculture, construction sites, forensic
+engineering assessments, damage assessments and fire investigation applications.
+
+In order to ensure at least an equivalent level of safety to currently authorized operations using
+manned aircraft, all operations will be subject to the strict operating requirements defined in the
+H3DS UAS Flight Operations Manual and Preflight Checklist (H3DS will provide these documents
+if required, but requests that the FAA treat them as proprietary under 14 C.F.R. 11.35(b) and not
+include this document in the public docket). Additionally, this petition for exemption is supported by
+the information contained in the Phantom 2 Vision+ User Manual, Phantom 2 User Manual,
+Phantom 2 Vision Pilot Training Guide, and the Smart Flight Battery Safety Guidelines (hereafter
+collectively referred to as "Manufacturer's Operations Manuals").
+
+All H3DS UAS will be operated only by individuals who hold at least an FAA issued private,
+recreational, or sport pilot certificate and who have successfully completed H3DS's UAS Training
+Program (the H3DS UAS Training Program Outline will be submitted separately if required and
+H3DS requests that the FAA treat this document as proprietary under 14 C.F.R. 11.35(b) and not
+include this document in the public docket).
+
+The characteristics of the sUAS, detailed sUAS operator requirements, and sUAS operating
+parameters given below will ensure that all H3DS UAS operations are carried out with an
+equivalent or higher level of safety than currently authorized manned aircraft operations. The
+details below regarding H3DS's intended UAS applications provide clear evidence that approval
+of this exemption is in the public interest.
+U.S. Department of Transportation ­ Federal Aviation Administration           Page 3
+Exemption Request ­ Section 333 of the FAA Reform Act                April 28, 2015
+
+CHARACTERISTICS OF THE sUAS
+
+The Phantom 3, Phantom 2 Vision+, and Phantom 2 are all very similar UAS. One exception is
+that the Phantom 3 and Vision+ include an integrated camera, while a third party camera can be
+affixed to the Phantom 2. The Phantom 2 Vision+ and Phantom 2 have a diagonal motor-to- motor
+distance of approximately 14 inches. The Phantom 3 is approximately 27 inches across, measured
+diagonally and including the propellers. All three UA are constructed primarily of frangible materials
+(plastic) and weigh less than 3 pounds each. The Vision+ and Phantom 2 are powered by a 5200
+mAh 3S LiPo battery. The Phantom 3 is powered by a 4480 mAh 4S LiPo battery.
+
+The max flight speed of the Phantom 2 Vision+ and the Phantom 2 is approximately 34 mph, while
+the max flight speed of the Phantom 3 is approximately 36 mph. All three UA contain an on-board
+GPS and an inertial measurement unit for flight stabilization and automatic failsafe return to home
+in case of a lost control signal. Additionally, these UAS offer geo-fencing and max altitude features
+to restrict the maximum vertical and horizontal distance the aircraft will fly from its home point. The
+Phantom 3 and Vision+ offer the added feature of displaying real time flight data, including battery
+status, altitude and distance from home, within the DJI App.
+
+Each sUAS operated by H3DS for commercial use will be registered in accordance with 14 C.F.R
+Part 47, and will be marked in accordance with 14 C.F.R. Part 45, , Subpart C, in a size as large
+as practical for the size of the sUAS.
+
+All sUASs operated by H3DS will be maintained in accordance with the manufacture's
+maintenance, overhaul, replacement, inspection, and life limit requirements for the aircraft and
+aircraft components and all pertinent instructions in the user manuals. Repairs, component
+changes, and software/firmware updates will be recorded in the sUAS's maintenance log.
+Maintenance log entries will include the date, sUAS ID number, registration number, current sUAS
+flight time, a description of work performed, and the name of the individual who completed the
+work. Any UAS that has undergone maintenance or alterations that affect the sUAS operation or
+flight characteristics, e.g. replacement of a flight critical component, must undergo a functional test
+flight, prior to use in any commercial operations. The functional test flight must be conducted in
+such a manner so as to not pose an undue hazard to persons and property. The PIC who conducts
+the functional test flight must make an entry in the aircraft records. A pre-flight inspection of the
+sUAS will be completed by the PIC prior to each flight operation as specified in the H3DS sUAS
+Flight Operations Manual. If the inspection reveals a condition that affects the safe operation of the
+UAS, the aircraft is prohibited from operating until the necessary maintenance has been performed
+and the UAS is found to be in a condition for safe flight. All H3DS UAS will comply with all applicable
+manufacturer safety bulletins.
+
+Additional information on the aircraft specifications, performance limitations, operating procedures,
+and pre-flight inspections is contained in the attached documents. The safety and reliability of the
+DJI Phantom 2 Vision+ and DJI Phantom 2 sUAS is further supported by the fact that numerous
+FAA exemptions have previously been approved for their use in commercial operations. As noted
+above, the DJI Phantom 3 is very similar to these sUAS and incorporates additional safety features.
+
+UAS OPERATOR REQUIREMENTS
+
+All H3DS sUAS operators will hold at least an FAA issued private, recreational, or sport pilot
+certificate and will have successfully completed H3DS's UAS Training Program. Completion of the
+U.S. Department of Transportation ­ Federal Aviation Administration           Page 4
+Exemption Request ­ Section 333 of the FAA Reform Act                April 28, 2015
+
+H3DS sUAS Training Program will ensure safe operations by not allowing any PIC to operate a
+sUAS unless that PIC has demonstrated, that he/she is able to safely operate the sUAS in a
+manner consistent with the exemption, including evasive and emergency maneuvers and
+maintaining appropriate distances from people, vessels, vehicles and structures. All operators will
+either meet the flight review requirements specified in 14 CFR § 61.56 or will annually complete
+and log at least 4 hours of ground instruction with a certified flight instructor (CFI) covering
+regulations and issues pertinent to commercial operation of the Phantom 3, Phantom 2 Vision+
+and Phantom 2 sUAS.
+
+The individual acting as PIC of a sUAS will be identified prior to any flight and will not change once
+the flight has begun. The PIC is the individual in operational control of the flight operation from
+beginning to end and is responsible for safe flight of the sUAS. All PIC flight hours used to
+demonstrate qualifications and currency will be logged in a manner consistent with 14 CFR §
+61.51(b).
+
+In order to act as PIC, all H3DS sUAS operators will hold a current FAA airman medical certificate
+or a valid U.S. driver's license issued by a state, the District of Colombia, Puerto Rico, a territory,
+a possession, or the Federal government.
+
+UAS OPERATING PARAMETERS
+
+In order to provide for a level of safety at least equivalent to operations conducted using manned
+aircraft, all H3DS commercial sUAS operations will be conducted in accordance with the following
+specific operating limitations:
+
+     · The sUAS may not be operated at a speed exceeding 30 knots (34 miles per hour). In no
+           case will the sUAS be operated at airspeeds greater than the maximum sUAS operating
+           airspeed recommended by the aircraft manufacturer.
+
+     · All operations shall be conducted in accordance with an ATO-issued COA.
+
+     · All sUAS operations will occur at or below 500 ft AGL or the maximum altitude specified
+           in the COA limitations, unless the purpose of the flight is to inspect a building or
+           structure which is taller than 500 ft. If the purpose of the flight is to inspect a building or
+           structure which is taller than 500 ft then the max altitude of the sUAS will be restricted to
+           20 ft above the highest point of that building or structure. All altitudes must be reported in
+           feet AGL.
+
+     · No sUAS will be operated within 3 nautical miles of an airport reference point (ARP) as
+           denoted in the current FAA Airport/Facility Directory (AFD) or for airports not denoted with
+           an ARP, the center of the airport symbol as denoted on the current FAA published
+           aeronautical chart, unless a letter of agreement with that airport's management is
+           obtained or otherwise permitted by a COA issued to H3DS. The letter of agreement with
+           the airport management must be made available to the Administrator or any law
+           enforcement official upon request.
+
+     · No sUAS will be operated within class B, C, D or E airspace unless a letter of agreement
+           from the controlling ATC office is obtained or the flight is otherwise permitted by a COA
+           issued to H3DS. The letter of agreement from ATC must be made available to the
+           Administrator or any law enforcement official upon request.
+U.S. Department of Transportation ­ Federal Aviation Administration           Page 5
+Exemption Request ­ Section 333 of the FAA Reform Act                April 28, 2015
+
+· The sUAS must be operated within visual line of sight (VLOS) of the PIC at all times. This
+    requires the PIC to be able to use human vision unaided by any device other than
+    corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or U.S.
+    driver's license.
+
+· All operating documents and a grant of exemption must be accessible during sUAS
+    operations and made available to the Administrator upon request. If a discrepancy exists
+    between the conditions and limitations in the grant of exemption and the procedures
+    outlined in the operating documents, the conditions and limitations in the grant of
+    exemption take precedence and must be followed. Otherwise, the PIC must follow the
+    procedures as outlined in the operating documents. H3DS may update or revise its
+    operating documents. However, it is H3DS's responsibility to track such revisions and
+    present updated and revised documents to the Administrator or any law enforcement
+    official upon request. H3DS must also present updated and revised documents if it
+    petitions for extension or amendment to the grant of exemption. If H3DS determines that
+    any update or revision would affect the basis upon which the FAA granted the exemption,
+    then H3DS must petition for an amendment to the grant of exemption.
+
+· sUAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized. The sUAS may not be
+    operated less than 500 feet below or less than 2,000 feet horizontally from a cloud or
+    when visibility is less than 3 statute miles from the PIC.
+
+· Prior to each flight the PIC must inspect the sUAS to ensure that it is in a condition for
+    safe flight. If the inspection reveals a condition that affects the safe operation of the sUAS,
+    the aircraft is prohibited from operating until the necessary maintenance has been
+    performed and the sUAS is found to be in a condition for safe flight. All maintenance and
+    alterations must be properly documented in the aircraft records.
+
+· Any sUAS that has undergone maintenance or alterations that affect the sUAS operation
+    or flight characteristics, e.g. replacement of a flight critical component, must undergo a
+    functional test flight. The PIC who conducts the functional test flight must make an entry
+    in the aircraft records.
+
+· If the UAS loses communications or loses its GPS signal, the sUAS must return to a
+    predetermined location.
+
+· The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+· The PIC is prohibited from beginning a flight unless the sUAS's battery level is at 75% or
+    higher. The PIC must begin returning the sUAS to the designated landing area when the
+    battery level drops below 25%.
+
+· Documents used by the operator to ensure the safe operation and flight of the sUAS and
+    any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the PIC
+    at the Ground Control Station of the sUAS any time the aircraft is operating. These
+    documents must be made available to the Administrator or any law enforcement official
+    upon request.
+
+· The sUAS must remain clear and give way to all manned aviation operations and
+    activities at all times.
+
+· The sUAS may not be operated by the PIC from any moving device or vehicle.
+U.S. Department of Transportation ­ Federal Aviation Administration           Page 6
+Exemption Request ­ Section 333 of the FAA Reform Act                April 28, 2015
+
+     · sUAS will not be operated directly over nonparticipating persons unless barriers or
+           structures are present that sufficiently protect nonparticipating persons from the UA
+           and/or debris in the event of an accident. UA will not be operated over any open-air
+           assembly of people.
+
+     · Any incident, accident, or flight operation that transgresses the lateral or vertical
+           boundaries of the operational area as defined by the applicable COA will be reported to
+           the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents will be reported to
+           the National Transportation Safety Board (NTSB) per instructions contained on the NTSB
+           Web site: www.ntsb.gov.
+
+APPLICATIONS AND PUBLIC INTEREST
+
+The requested exemption would allow H3DS to operate the DJI Phantom 3, Phantom 2 Vision+,
+and Phantom 2 for the purposes of forensic engineering inspections and fire cause and origin
+investigations. These inspections and investigations are completed on both residential and
+commercial properties and are typically conducted in support of the property insurance industry.
+Use of sUAS for these applications will offer significant advantages related to safety, time, and
+cost. Most properties throughout the country are insured, and property owners have an interest in
+insurance underwriting, coverage, and claims processing; therefore it is clear that grant of this
+exemption would be in the public interest.
+
+Current options for gathering the data which under this exemption would be collected using sUAS,
+include use of ladders, lifts, and manned aircraft. Use of ladders and lifts are inherently dangerous
+and result in numerous injuries each year. Use of manned aircraft is typically not feasible and
+therefore valuable information remains beyond the reach of the investigator. In most cases, use of
+a sUAS is quicker and easier than any other alternative and often yields better information.
+
+Due to their small size and the fact they carry no fuel, all three models of the DJI Phantom pose a
+very low risk of damage to persons or structures on the ground. Because these sUAS are electric
+powered, they create no harmful emissions and make very little noise.
+
+SUMMARY THAT CAN BE PUBLISHED IN THE FEDERAL REGISTER
+
+H3DS requests the grant of an exemption to the following specific sections of the Title 14 Code of
+federal Regulations which would allow it to operate micro UAS for commercial use:
+
+14 CFR 21, subpart H, 14 C.F.R Sections 61.3, 61.113(a)&(b), 61.133(a), 91.9 (b)(2), 91.103(b),
+91.105, 91.109(a), 91.119, 91.121, 91.151(a), 91.203(a) &(b), 91.319(a)(1), 91.405, 91.407,
+91.409, 91.417
+
+CONCLUSIONS
+
+H3DS respectfully requests that the FAA grant the exemption sought in this request. H3DS believes
+that considering the small size and weight of the sUAS, along with the sUAS PIC training and
+certification requirements stipulated above and the strict operating guidelines proposed herein, it
+is clearly demonstrated that the sUAS will be operated safely in the national air space (NAS) with
+an equivalent or greater level of safety compared to manned aircraft.
+U.S. Department of Transportation ­ Federal Aviation Administration           Page 7
+Exemption Request ­ Section 333 of the FAA Reform Act                April 28, 2015
+
+We are prepared to modify or amend any part of this request as deemed necessary by the FAA to
+satisfy the need for an equivalent level of safety. Please contact us at any time if you require
+additional information or clarification.
+
+Respectfully Submitted,
+
+HAAG 3D SOLUTIONS, LLC
+A DIVISION OF HAAG ENGINEERING CO.
+
+Kevin A. Kianka, PE
+Director of BIM/Modeling Program
+
+281-201-6727 DIR
+856-986-5434 CELL
+kkianka@haagglobal.com
+
+Attachments:
+H3DS Phantom Pre-Flight Checklist
+Phantom_2_Vision_Plus_User_Manual_v1.8en
+Phantom_2_Vision_Plus_Pilot_Training_Guide_v1.1_en
+Phantom_2_Vision_Plus_Quick_Start_Guide_en
+U.S. Department of Transportation ­ Federal Aviation Administration           Page 8
+Exemption Request ­ Section 333 of the FAA Reform Act                April 28, 2015
+Appendix A
+
+                         APPENDIX A: REGULATIONS REQUIRING EXEMPTION
+
+H3DS requests an exemption from the following regulations as well as any additional regulations
+that may technically apply to the operation of the Phantom 3, Phantom 2 Vision+, and Phantom 2
+sUAS:
+
+14 C.F.R. Part 21, Subpart H: Airworthiness Certificates 14 CFR § 91.203(a)(1)
+
+Section 91.203 requires all civil aircraft to have a certificate of airworthiness. Part 21, Subpart H,
+entitled Airworthiness Certificates, establishes the procedural requirements for the issuance
+of airworthiness certificates as required by FAR § 91.203(a). Given the size of the sUAS, its
+light weight, and the limited operating area associated with its utilization, it is unnecessary
+to go through the certificate of airworthiness process under Part 21 Subpart H in order to
+achieve or exceed current safety levels.
+
+Such an exemption meets the requirements of an equivalent level of safety under Part 11 and
+Section 333 of the Reform Act. The Federal Aviation Act and Section 333 of the Reform Act both
+authorize the FAA to exempt aircraft from the requirement for an airworthiness certificate, upon
+consideration of the size, weight, speed, operational capability, and proximity to airports and
+populated areas of the sUAS involved. An analysis of these different criteria demonstrates that
+the sUAS operated without an airworthiness certificate, under the conditions proposed in that
+exemption, will be at least as safe, or safer, than a conventional aircraft with an airworthiness
+certificate.
+
+14 C.F.R. § 61.3: Requirements for certificates, ratings and authorizations
+14 C.F.R. § 61.113(a) & (b); 61.133(a): Private Pilot Privileges and Limitations; Pilot in
+Command; Commercial Pilot Privileges and Limitations
+
+The regulation provides that no person may serve as a required pilot flight crewmember of a civil
+aircraft of the United States, unless that person:
+
+(1) Has a pilot certificate or special purpose pilot authorization issued under this part in that
+person's physical possession or readily accessible in the aircraft when exercising the privileges of
+that pilot certificate or authorization. However, when the aircraft is operated within a foreign
+country, a pilot license issued by that country may be used.
+
+The regulation provides also that no person that holds a private pilot certificate may act as pilot
+in command of an aircraft for compensation or hire. Subparagraph (b) allows a private pilot to act
+as pilot in command of an aircraft in connection with any business or employment if:
+
+ (1) The flight is only incidental to that business or employment;
+ (2) The aircraft does not carry passengers or property for compensation or hire.
+U.S. Department of Transportation ­ Federal Aviation Administration           Page 9
+Exemption Request ­ Section 333 of the FAA Reform Act                April 28, 2015
+Appendix A
+
+Given the size, weight, speed, operational limitations, and range of the sUAS, H3DS proposes
+that operators of the UAS should not be required to hold a commercial pilot certification. Instead,
+operators should be required to:
+
+Hold at least an FAA issued private, recreational, or sport pilot certificate. All operators will either
+meet the flight review requirements specified in 14 CFR § 61.56 or will annually complete and log
+at least 4 hours of ground instruction with a certified flight instructor (CFI) covering regulations
+and issues pertinent to commercial operation of the Phantom 3, Phantom 2 Vision+ and Phantom
+2 UAS.
+
+14 C.F.R. § 91.9: Civil aircraft flight manual, marking, and placard requirements.
+
+This regulation provides that no person may operate an aircraft unless a current, approved flight
+manual is in the aircraft. H3DS proposes to provide an equivalent level of safety by maintaining
+a copy of all documents used by the operator to ensure the safe operation and flight of the UAS
+as well as documentation of an exemption and COA with the ground control station and accessible
+to the PIC during flight operations.
+
+14 C.F.R. § 91.103: Preflight action
+
+This regulation requires that each pilot in command shall, before beginning a flight, become
+familiar with all available information concerning that flight. This information must include runway
+lengths at airports of intended use, and the following takeoff and landing distance information.
+
+This regulation is not applicable due to the fact H3DS sUAS operations will not occur at an airfield.
+To provide an equivalent level of safety, the PIC will complete a preflight inspection as directed
+by the manufacturer's manuals and H3DS UAS operations manual before any flight.
+
+14 C.F.R. § 91.109(a) & 91.319(a)(1): Flight Instruction
+
+The regulation provides that "No person may operate a civil aircraft that is being used for flight
+instruction unless that aircraft has fully functioning dual controls."
+
+The equivalent level of safety will be achieved through H3DS's sUAS flight training program and
+conducting flight training within controlled environments.
+
+14 C.F.R § 91.105: Flight Crewmembers at Stations
+
+The regulation states that required crewmembers must be at their stations in the aircraft during
+specific portions of a flight.
+
+This is not applicable since the sUAS carry no crewmembers. An equivalent level of safety will be
+maintained by ensuring that the PIC is identified prior to any flight and that the PIC does not
+change during a flight. The PIC will maintain control of the UAS for the duration of the flight.
+U.S. Department of Transportation ­ Federal Aviation Administration         Page 10
+Exemption Request ­ Section 333 of the FAA Reform Act                April 28, 2015
+Appendix A
+
+14 CFR § 91.119: Minimum Safe Altitudes
+
+The regulation provides that over sparsely populated areas the aircraft cannot be operated closer
+than 500 feet to any person, vessel, vehicle, or structure. Since the UA will be operating at a
+maximum of 500 feet AGL, these operations cannot comply with this requirement.
+
+The equivalent level of safety will be achieved given the size, weight and speed of the sUAS.
+Additionally the sUAS will be operated in a defined and relatively small AOI. Moreover, the sUAS
+will not be operated over any open-air assembly of persons or over any person not involved with
+the operation. The aircraft will be operated at an altitude allowing, if a power unit fails, an
+emergency landing without undue hazard to persons or property on the surface.
+
+14 CFR 91.121 ­ Altimeter settings
+
+This section requires that each person operating an aircraft shall maintain the cruising altitude or
+flight level of that aircraft, as the case may be, by reference to an altimeter that is set, when
+operating below 18,000 feet MSL to:
+
+     · The current reported altimeter setting of a station along the route and within 100 nautical
+           miles of the aircraft;
+
+     · If there is no station within the area prescribed in paragraph (a)(1)(i) of this section, the
+           current reported altimeter setting of an appropriate available station;
+
+     · In the case of an aircraft not equipped with a radio, the elevation of the departure airport
+           or an appropriate altimeter setting available before departure.
+
+To provide an equivalent level of safety, the sUAS utilize a GPS system, barometric pressure
+sensors, and internal gyroscopes to calculate the altitude.
+
+14 C.F.R. § 91.151(a): Fuel Requirements for Flight in VFR Conditions
+
+The regulation provides that no person may begin a flight in an airplane under day-VFR conditions
+unless there is enough fuel to fly to the first point of intended landing and to fly after that for at
+least 30 minutes.
+
+Given the area of operation for the UAS, H3DS believes that an equivalent level of safety is
+achieved by requiring at least 75% battery power in order to begin a flight and requiring the UA
+to return to land when the battery power reaches 25%.
+
+14 C.F.R. § 91.203 (a) & (b): Carrying Civil Aircraft Certification and Registration
+
+This regulation provides as follows:
+     · No person may operate a civil aircraft unless it has an appropriate and current
+U.S. Department of Transportation ­ Federal Aviation Administration         Page 11
+Exemption Request ­ Section 333 of the FAA Reform Act                April 28, 2015
+Appendix A
+
+           airworthiness certificate.
+     · No person may operate a civil aircraft unless the airworthiness certificate required by
+
+           paragraph (a) of this section or a special flight authorization issued under §91.715 is
+           displayed at the cabin or cockpit entrance so that it is legible to passengers or crew.
+
+To obtain an equivalent level of safety and meet the intent of 91.203, H3DS proposes to maintain
+a copy of all documents used by the operator to ensure the safe operation and flight of the sUAS
+as well as documentation of an exemption and COA with the ground control station and these will
+be available to the Administrator or any law enforcement official upon request.
+
+14 CFR 91, Subpart E (91.405, 91.407, 91.409, 91.417) - Maintenance, Preventive
+Maintenance, and Alterations
+
+The regulation provides that the operator is primarily responsible for maintaining the aircraft in an
+airworthy condition, including compliance with Parts 39 and 43. Paragraphs 91.407 and 91.409
+require that the aircraft be "approved for return to service by a person authorized under 43.7"
+after maintenance and inspection. Section 91.409(a)(2) requires an annual inspection for the
+issuance of an airworthiness certificate. Section 91.417(a) requires the owner or operator to keep
+records showing certain maintenance work that has been accomplished by certificated
+mechanics, under Part 43, or licensed pilots and records of approval of the aircraft for return to
+service.
+
+H3DS proposes that the maintenance, as well as preflight inspections of the sUAS will be
+accomplished by the PIC. All maintenance will be conducted and logged in accordance with the
+manufacturer's specifications. An equivalent level of safety will be achieved because the sUAS
+are small in size, are not complex mechanical devices, and will carry no external payload.
+

@@ -1,0 +1,746 @@
+June 9, 2015
+
+                                                           Exemption No. 11790
+                                                           Regulatory Docket No. FAA­2015­1005
+
+Mr. John Monaco
+CEO, Chief sUAS Operator, and Founder
+Eagle View Aerial Imaging LLC
+6610 Star Vista Lane
+Rocklin, CA 95677
+
+Dear Mr. Monaco:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter dated April 6, 2015, you petitioned the Federal Aviation Administration (FAA) on
+behalf of Eagle View Aerial Imaging LLC (hereinafter petitioner or operator) for an
+exemption. The petitioner requested to operate an unmanned aircraft system (UAS) to
+conduct aerial photography and videography services for real estate brokers, appraisers,
+property managers; builders of homes and buildings; solar panel installers; farmers; chambers
+of commerce and associated businesses for marketing campaigns; inspections of utilities;
+public agencies; and wildlife conservation organizations.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner is a DJI Inspire 1.
+                                                                                                                 2
+
+In accordance with the statutory criteria provided in Section 333 of Public Law 112-95 in
+reference to 49 U.S.C. § 44704, and in consideration of the size, weight, speed, and limited
+operating area associated with the aircraft and its operation, the Secretary of Transportation
+has determined that this aircraft meets the conditions of Section 333. Therefore, the FAA
+finds that relief from 14 CFR part 21, Certification procedures for products and parts,
+Subpart H--Airworthiness Certificates, and any associated noise certification and testing
+requirements of part 36, is not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection1. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+ They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+ The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+ A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, Eagle View Aerial Imaging LLC is granted an
+exemption from 14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a),
+91.7(a), 91.119(c), 91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and
+91.417(a) and (b), to the extent necessary to allow the petitioner to operate a UAS to perform
+aerial data collection. This exemption is subject to the conditions and limitations listed
+below.
+
+1 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                                                 3
+
+Conditions and Limitations
+
+In this grant of exemption, Eagle View Aerial Imaging LLC is hereafter referred to as
+the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+    1. Operations authorized by this grant of exemption are limited to the DJI Inspire 1(s)
+         when weighing less than 55 pounds including payload. Proposed operations of any
+         other aircraft will require a new petition or a petition to amend this exemption.
+
+    2. Operations for the purpose of closed-set motion picture and television filming are
+         not permitted.
+
+    3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+         exemption holder may use either groundspeed or calibrated airspeed to determine
+         compliance with the 87 knot speed restriction. In no case will the UA be operated at
+         airspeeds greater than the maximum UA operating airspeed recommended by the
+         aircraft manufacturer.
+
+    4. The UA must be operated at an altitude of no more than 400 feet above ground level
+         (AGL). Altitude must be reported in feet AGL.
+
+    5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+         This requires the PIC to be able to use human vision unaided by any device other than
+         corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+         U.S. driver's license.
+
+    6. All operations must utilize a visual observer (VO). The UA must be operated within
+         the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+         to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+         capability. The VO and PIC must be able to communicate verbally at all times;
+         electronic messaging or texting is not permitted during flight operations. The PIC
+         must be designated before the flight and cannot transfer his or her designation for the
+         duration of the flight. The PIC must ensure that the VO can perform the duties
+         required of the VO.
+
+    7. This exemption and all documents needed to operate the UAS and conduct its
+         operations in accordance with the conditions and limitations stated in this grant of
+         exemption, are hereinafter referred to as the operating documents. The operating
+         documents must be accessible during UAS operations and made available to the
+         Administrator upon request. If a discrepancy exists between the conditions and
+                                                                                                            4
+
+    limitations in this exemption and the procedures outlined in the operating documents,
+    the conditions and limitations herein take precedence and must be followed.
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+                                                                                                            5
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+    exemption holder may apply for a new or amended COA if it intends to conduct
+    operations that cannot be conducted under the terms of the attached COA.
+                                                                                                            6
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+    be as large as practicable.
+
+23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+    any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+    PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+    These documents must be made available to the Administrator or any law enforcement
+    official upon request.
+
+24. The UA must remain clear and give way to all manned aviation operations and
+    activities at all times.
+
+25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless:
+      a. Barriers or structures are present that sufficiently protect nonparticipating persons
+          from the UA and/or debris in the event of an accident. The operator must ensure
+          that nonparticipating persons remain under such protection. If a situation arises
+          where nonparticipating persons leave such protection and are within 500 feet of
+          the UA, flight operations must cease immediately in a manner ensuring the safety
+          of nonparticipating persons; and
+      b. The owner/controller of any vessels, vehicles or structures has granted permission
+          for operating closer to those objects and the PIC has made a safety assessment of
+          the risk of operating closer to those objects and determined that it does not
+          present an undue hazard.
+
+    The PIC, VO, operator trainees or essential persons are not considered
+    nonparticipating persons under this exemption.
+
+27. All operations shall be conducted over private or controlled-access property with
+    permission from the property owner/controller or authorized representative.
+    Permission from property owner/controller or authorized representative will be
+    obtained for each flight to be conducted.
+
+28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+    boundaries of the operational area as defined by the applicable COA must be reported
+    to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+    reported to the National Transportation Safety Board (NTSB) per instructions
+    contained on the NTSB Web site: www.ntsb.gov.
+                                                                                                                 7
+
+ If this exemption permits operations for the purpose of closed-set motion picture and
+ television filming and production, the following additional conditions and limitations apply.
+
+    29. The operator must have a motion picture and television operations manual (MPTOM)
+         as documented in this grant of exemption.
+
+    30. At least 3 days before aerial filming, the operator of the UAS affected by this
+         exemption must submit a written Plan of Activities to the local Flight Standards
+         District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+         notification may be waived with the concurrence of the FSDO. The plan of activities
+         must include at least the following:
+           a. Dates and times for all flights;
+           b. Name and phone number of the operator for the UAS aerial filming conducted
+              under this grant of exemption;
+           c. Name and phone number of the person responsible for the on-scene operation of
+              the UAS;
+           d. Make, model, and serial or N-Number of UAS to be used;
+           e. Name and certificate number of UAS PICs involved in the aerial filming;
+           f. A statement that the operator has obtained permission from property owners
+              and/or local officials to conduct the filming production event; the list of those
+              who gave permission must be made available to the inspector upon request;
+           g. Signature of exemption holder or representative; and
+           h. A description of the flight activity, including maps or diagrams of any area, city,
+              town, county, and/or state over which filming will be conducted and the altitudes
+              essential to accomplish the operation.
+
+    31. Flight operations may be conducted closer than 500 feet from participating persons
+         consenting to be involved and necessary for the filming production, as specified in the
+         exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                    8
+
+This exemption terminates on June 30, 2017, unless sooner superseded or rescinded.
+Sincerely,
+
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+Petition for Exemption Filed Under Section 333
+
+Petitioner
+    John Monaco, Chief Executive Officer, Chief sUAS Operator, and Founder, Eagle View
+    Aerial Imaging LLC, 6610 Star Vista Lane, Rocklin, CA 95677,
+    john.monaco@EagleViewAerial.com.
+
+    Date: 6 April 2015
+
+Objective
+    Seek FAA exemption to Title 14 of Code of Federal Regulations, sections:
+    · 61.113(a)
+    · 91.103(b)(2)
+    · 91.105
+    · 91.109
+    · 91.119(b) and (c)
+    · 91.121
+    · 91.151(a) and (b)
+    · 91.405(a)
+    · 91.407(a)(1)
+    · 91.409(a)(1) and (2)
+    · 91.417(a) and (b)
+
+Definitions
+    · AGL = Above ground level
+    · ATC = Air traffic control
+    · CFR = Code of Federal Regulations
+    · NAS = National Air Space
+    · NPRM = Notice of Proposed Rule Making
+    · sUAS = small unmanned aerial system, consisting of the Inspire 1 aircraft, remote
+         controller from DJI (and iOS mobile device).
+    · TSA = Transportation Security Administration, an agency of the U.S. Department of
+         Homeland Security.
+    · UA = Unmanned aircraft = DJI Inspire 1 aircraft
+    · USC = United States Code
+    · VFR = Visual flight rules
+
+Company Description
+    Eagle View Aerial Imaging LLC (hereafter, "the Company") offers contracted aerial
+    photography and videography services for real estate brokers, appraisers, property
+    managers; builders of homes and buildings (no higher than 500 AGL); solar panel installers;
+    farmers; chambers of commerce & associated businesses for marketing campaigns;
+
+Eagle View Aerial Imaging LLC  Petition for FAA Exemption  Page 1 of 8
+    inspections of utilities (excluding high power electric or radio transmission structures that
+    may affect aircraft operations); public agencies; and wildlife conservation organizations.
+
+    The Company was founded in 2014 by John Monaco, CEO and Chief sUAS Operator. Mr.
+    Monaco has 25+ years of experience in the high-tech industry in engineering, management,
+    and senior-level program management roles.
+
+    The Company uses the Inspire 1 UAS from DJI. Key features include:
+    · Positioning: GPS & GLONASS systems, visual and sonar sensors, live view & map;
+    · Internal Measurement Unit (IMU): 6-axis gyroscope, accelerometer, barometer;
+    · Flight termination system - in the event of low battery or loss of communication link
+    · Power Management System - when to return home, auto land, battery cell health;
+    · Flight telemetry - altitude, speed, distance;
+    · 4K video and 12 megapixel imaging.
+
+    Key specifications of the sUAS include:
+    · Weight = 6.5 pounds, including battery, gimbal, and camera
+    · Size = 17.3 x 11.8 x 17.1 inches
+    · Maximum ascent speed = 16 feet / second
+    · Maximum horizontal speed = 49 miles (statute) / hour
+    · Flight time ~ 18 minutes
+    · Rotors = 4
+
+Regulatory Relief Requests
+
+    In this section, the petitioner uses the following outline to address potential CFR impacts:
+    · If relief from the regulation is requested;
+    · The reason whether or not relief is requested;
+    · Mitigation that will be taken to follow the rule if relief is requested.
+
+    1. Part 21 - Certification Procedures for Products and Parts, Subpart H -
+         Airworthiness Certificates:
+
+         1. Relief requested: No; don't believe is necessary
+
+         2. Reason: In accordance with statutory criteria provided in Section 333 of Public Law
+              112-95 in reference to 49 U.S.C. § 44704, and consideration of the size, weight,
+              speed, and limited operating area associated with the aircraft and its operation, this
+              aircraft meets the conditions of Section 333 and as such the petitioner believes that
+              any associated noise certification and testing requirements of part 36 is not
+              necessary.
+
+         3. Mitigation: Not applicable.
+
+    2. 45.23 (b) - Display of marks; general:
+
+         1. Relief requested: No.
+
+         2. Reason: Aircraft will be registered with the FAA and marked with an "N" number on
+              the left and right side in a size as large as practical.
+
+         3. Mitigation: Not applicable. Will comply.
+
+Eagle View Aerial Imaging LLC  Petition for FAA Exemption  Page 2 of 8
+3. 47.15 - Registration number:
+
+    1. Relief requested: No.
+
+    2. Reason: Aircraft will be registered with the FAA and marked with an "N" number on
+         the left and right side in a size as large as practical.
+
+    3. Mitigation: Not applicable. Will comply.
+
+4. 61.113(a) - Private pilot privileges and limitations - Pilot in Command:
+
+    1. Relief requested: Yes.
+
+    2. Reason: It is understood that 49 USC 44711 requires the FAA to issue airman
+         certificates. However, as of the date of this petition, none of the airman certificates
+         issued by the FAA for student, recreational, private, commercial, airline transport, or
+         sport pilots seems to be a good fit for sUAS pilots. As stated in NPRM
+         FAA-2015-0150-0017, the airman certification requirements for a private or
+         commercial pilot certificate imposes an unnecessary burden on the Company's
+         business. Much of the knowledge required for a private or commercial pilot certificate
+         does not apply to operating the sUAS per the Company UAS Policies and
+         Procedures and does not result in a significant, relevant safety benefit. The sUAS'
+         size, weight, operational capability, proximity to airports and populated areas, and
+         operation within daylight, clear visibility, and visual line-of-sight rules pose minimal
+         risk to public safety or pose a threat to national security.
+
+    3. Mitigation: The petitioner clearly understands the importance of being trained in and
+         knowledgable of operating the sUAS in the NAS in a responsible manner to so as not
+         to adversely affect the operations in the NAS or present a hazard to persons or
+         property on the ground. The petitioner proposes the following mitigation:
+
+         1. Knowledge & training. Compliance with the Company's Operator Training Policy
+              and completion of the Operator Training Program which specifies the training
+              required of operators before conducting flight for commercial purposes. They
+              include:
+              1. Viewing DJI videos:
+                   · Introducing the Inspire 1
+                   · Unboxing the Inspire 1
+                   · Quick Start Guide
+                   · Pilot App Tutorial
+                   · Setting It Up
+                   · How to Fly
+                   · Dual Operator
+                   · Flight Simulator App
+              2. Viewing websites:
+                   · Know Before You Fly
+                   · DJI No Fly Zones
+                   · SkyVector Aeronautical Charts
+              3. Reading:
+                   · DJI:
+                        · User Manual
+                        · Quick Start Guide
+                        · Safety Guidelines
+                        · Battery Safety Guidelines
+
+Eagle View Aerial Imaging LLC  Petition for FAA Exemption  Page 3 of 8
+                        · Maintenance Manual
+                   · FAA Pilot's Handbook of Aeronautical Knowledge:
+
+                        · Preface
+                        · Chapter 1 Introduction to Flying
+                        · Chapter 7 - Flight Instruments
+                        · Chapter 8 - Flight Manuals
+                        · Chapter 14 - Airspace
+                        · Chapter 16 - Aeromedical Factors
+                        · Chapter 17 - Aeronautical Decision Making
+                   · FAA / AeroNave Aeronautical Chart User's Guide
+              4. Flight practice (specifics provided in the Company's UAS Policies and
+                   Procedures):
+                   · Pilot App Simulator
+                   · Flying the UAS
+                   · Proficiency
+                   · Currency
+
+         2. National security. The TSA has vetted the petitioner and determined that the
+              operator does not present a threat to national security. The operator has been
+              assigned a Known Traveler Number (KTN), as shown in the Operator Log Book.
+
+         3. Medical. The operator holds a valid U.S. driver's license. The operator has
+              general annual physical exams. The due date of the next exam is provided in the
+              Operator Log Book.
+
+         4. New certificate. Recommendation for the FAA to create a sUAS-specific airman
+              certificate covering knowledge and requirements.
+
+5. 91.7 - Civil aircraft airworthiness:
+
+    1. Relief requested: No.
+
+    2. Reason: It is critical that the sUAS can be flown in a safe manner.
+
+    3. Mitigation: The sUAS undergoes a maintenance check per the specifications and
+         procedures provided in the Inspire 1 Maintenance Manual. UAS Policies and
+         Procedures require the completion of a Pre-Flight and Post-Flight Checklist for each
+         flight.
+
+6. 91.103(b)(2) - General Operating and Flight Rules, Subpart B - Flight Rules,
+    Preflight action:
+
+    1. Relief requested: Yes.
+
+    2. Reason: The UA for this petition will not be flown at airports. Takeoff and landing
+         distances are zero since the aircraft is a sUAS.
+
+    3. Mitigation: The capture of still images and video along with associated flight path will
+         be discussed and agreed-upon with the client in advance of the shoot and confirmed
+         or revised just prior to flight. The sUAS displays, records, and retains flight data
+         including take-off height, take-off-speed, horizontal distance traveled, horizontal
+         speed, altitude, flown flight path, and other flight parameters.
+
+7. 91.105 - General Operating and Flight Rules, Subpart B - Flight Rules,
+    Flight crew members at stations:
+
+    1. Relief requested: Yes.
+
+Eagle View Aerial Imaging LLC  Petition for FAA Exemption  Page 4 of 8
+    2. Reason: The UA is unmanned and does not have on-board pilots, and as such, no
+         safety harnesses are worn.
+
+    3. Mitigation: The sUAS operator will always be in sole control of the UA. If absence of
+         the operator is necessary in connection with physiological or other emergent needs,
+         the operator shall first land the UA in a prompt manner to assure public safety.
+
+8. 91.109 - General Operating and Flight Rules, Subpart B - Flight Rules,
+    Flight instruction:
+
+    1. Relief requested: Yes.
+
+    2. Reason: The UA does not have flight dual controls. (A slave controller is an option
+         but can only be configured to control the gimbal and camera for unique image
+         capture. It cannot control the aircraft flight.)
+
+    3. Mitigation: The Company's Operator Training Program requires practice time on the
+         Simulator app.
+
+9. 91.119(b) and (c) - General Operating and Flight Rules, Subpart B - Flight
+    Minimum safe altitudes: General:
+
+    1. Relief requested: Yes.
+
+    2. Reason: UAS will be flown no higher than 500 feet AGL as proposed in NPRM
+         FAA-2015-0150-0017.
+
+    3. Mitigation: Per the Company UAS Policies and Procedures, UA will not be flown
+         higher than 500 feet AGL. All flight operations will be conducted at least 200 feet
+         from all non-participating persons, vessels, vehicles, and structures unless:
+
+         a. Barriers or structures are present that sufficiently protect nonparticipating
+              persons from the UA and/or debris in the event of an accident. The operator will
+              ensure that nonparticipating persons remain under such protection. In the vent
+              such persons leave the protection area and are within 200 feet of the UA, the
+              operator will cease operation immediately in a manner ensuring the safety of
+              nonparticipating persons: and
+
+         b. The owner/controller of any vessels, vehicles, or structures as granted
+              permission for operating closer to those subjects and the operator has made a
+              safety assessment of the risk of operating closer to those objects and determined
+              that it does not present an undue hazard.
+
+         The distance of 200 feet was chosen based on target real estate lots of about 0.5
+         acres which for assumption sake measure about 150 feet by 150 feet.
+
+10. 91.121 - General Operating and Flight Rules, Subpart B - Altimeter settings:
+
+    1. Relief requested: Yes.
+
+    2. Reason: The UAS is unable to take input from stations.
+
+    3. Mitigation: The UAS under this petition contains an on-board barometer. It's altitude
+         is based on barometric pressure reading at take-off.
+
+11. 91.151(a) and (b) - General Operating and Flight Rules, Subpart B - Fuel
+    requirements for flight in VFR conditions:
+
+    1. Relief requested: Yes.
+
+    2. Reason: The fuel for this UA is 100% battery power. Designed maximum flight time
+         is approximately 18 minutes with a standard 4500 mAh battery.
+
+Eagle View Aerial Imaging LLC  Petition for FAA Exemption  Page 5 of 8
+    3. Mitigation: The low battery level failsafe is triggered with the battery is depleted to a
+         point that may affect safe return of the UA. Advanced algorithms calculate the
+         distance of the UA and estimated time to return home, letting the operator know
+         when it's time to fly back. The operator is advised via the Pilot App to return home or
+         land the aircraft immediately when the warning is displayed. The aircraft will return
+         automatically to the home point if no action is taken after a 10 second countdown.
+         The UA will land automatically if the current battery level can only support the aircraft
+         to land to the ground from the current altitude. Per the UA manufacturer and the
+         Company's preflight checklist, the battery is to be fully charged before initiating flight
+         operations.
+
+12. 91.405(a) - General Operating and Flight Rules, Subpart E - Maintenance
+    Required:
+
+    1. Relief requested: Yes.
+
+    2. Reason: FAA-required inspections are not specified for this UAS.
+
+    3. Mitigation: According to the Company UAS Policies and Procedures, any anomalies
+         observed during the preflight, flight, or post flight check that would adversely affect
+         the safe control of the UA must be resolved before resuming flight operations.
+
+13. 91.407(a)(1) - General Operating and Flight Rules, Subpart E - Operations
+    after maintenance, preventive maintenance, rebuilding, or alteration:
+
+    1. Relief requested: Yes.
+
+    2. Reason: No person authorized under §43.7 of chapter 1 of Title 14 exists to approve
+         a return to service for this type of UAS.
+
+    3. Mitigation: If aircraft requires repair by the manufacturer, the manufacturer conducts
+         flight test worthiness after repairs and before shipping the UA back to the operator.
+         The Company's UAS Policies and Procedures and the manufacturer's
+         correspondence with the petitioner specify to calibrate the Internal Measurement Unit
+         after every firmware upgrade. This is done by the operator.
+
+14. 91.409(a)(1) and (2) - General Operating and Flight Rules, Subpart E -
+    Inspections:
+
+    1. Relief requested: Yes.
+
+    2. Reason: Per the manufacturer's maintenance manual, this UA does not undergo
+         annual inspections. Airworthiness certificates do not apply to this UA.
+
+    3. Mitigation: Per the manufacturer's maintenance manual, maintenance and
+         inspections are conducted after every 200 flights or 50 hours of flight.
+
+15. 91.417(a) and (b) - General Operating and Flight Rules, Subpart E -
+    Maintenance records:
+
+    1. Relief requested: Yes.
+
+    2. Reason: Maintenance, preventive maintenance and alterations are not conducted at
+         100-hour and annual intervals. The type of record details call out in this section do
+         not apply to this UA.
+
+    3. Mitigation: The operator does record all maintenance in the Operator Log Book per
+         the Company's UAS Policies and Procedures. Records are retained for as long as
+         the UA is flown and are available for inspection by the FAA Administrator upon
+         request.
+
+Eagle View Aerial Imaging LLC  Petition for FAA Exemption  Page 6 of 8
+Public Interest
+
+    Granting the requested relief is in the public interest. FAA approval of the petitioner to fly the
+    subject sUAS enables the petitioner to offer several key benefits to the public as a whole,
+    including, but not limited to:
+
+    · Home owners and their real estate brokers would increase the probability of meeting or
+         exceeding their asking price and reducing the time on the market by being able to show
+         attention-getting aerial images and video of their property on sales web sites;
+
+    · Property managers can more quickly and safely inspect their grounds, roofs, and
+         structures to forestall any adverse issues with tenants' living environment and potentially
+         reduce overall maintenance costs;
+
+    · Builders can inspect for anomalies during construction to verify proper workmanship and
+         potentially reduce the costs of unexpected repairs;
+
+    · Solar panel installers can inspect their installations quicker and more safely than
+         climbing ladders;
+
+    · Public works entities can inspect their systems from new perspectives that provide
+         faster, more thorough, and more cost effective means of assessing the conditions of
+         their systems.
+
+    · Farmers can inspect their farmland and pastures in less time and can more readily
+         identify any concerning growth patterns by using aerial imaging rather than ground-
+         based machines and travel;
+
+    · Farmers can use aerial images of their corn mazes in their marketing campaign resulting
+         in increased revenue;
+
+    · Chambers of Commerce, wineries, media & marketing firms, and other businesses could
+         use attention-getting aerial images and video fly-throughs in their marketing campaigns
+         to increase revenue;
+
+    · Wildlife conservation organizations can use aerial imaging to attain a more
+         comprehensive understanding of the wildlife they monitor;
+
+    · Search and rescue organizations and their clients would be able to utilize aerial imaging
+         service to potentially more quickly locate individuals. That would result in quicker
+         medical care, potential of reduction in loss of life, and reduced search costs.
+
+Public Safety
+
+    Granting the requested relief would not adversely affect public safety, and in fact provide a
+    level of safety that is equal to that provided by the rules cited in the requested relief.
+
+    The subject UAS of this petition provides the same if not more nimble and safer alternative
+    to using manned aircraft that weigh multi-magnitudes more, carry highly flammable and
+    explosive fuels, and carry persons where the risk of injury or worse is greater.
+
+    The petitioner has provided mitigations for the requested CFR relief that provide the same or
+    better level of safety for persons, vehicles, animals, property, and structures than manned
+    alternatives.
+
+Privacy
+
+    To meet the spirit of the Presidential Memorandum: Promoting Economic Competitiveness
+    While Safeguarding Privacy, Civil Rights, and Civil Liberties in Domestic Use of Unmanned
+
+Eagle View Aerial Imaging LLC  Petition for FAA Exemption  Page 7 of 8
+    Aircraft Systems, the Company has policies and procedures in place to protect the public's
+    privacy, civil rights, and civil liberties. Permission is required to conduct flight operations on
+    private property.
+
+Federal Register Summary
+    Eagle View Aerial Imaging LLC seeks an exemption for the following rules:
+    14 CFR Chapter 1, sections: 61.113(a), 91.103(b)(2), 91.105, 91.109, 91.119(b) and (c),
+    91.121, 91.151(a) and (b), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a) and
+    (b).
+
+    Approval of these exemptions will allow Eagle View Aerial Imaging LLC to offer contracted
+    commercial UAS operations for a wide range of industries and applications. Granting these
+    exemptions will enhance public safety by reducing the risk to the general public from
+    hazards associated with performing the same service with conventional manned aircraft.
+
+Additional Supporting Information
+    Several documents are provided with this petition in support of the relief request. They
+    include:
+    1. Aircraft manufacturer - DJI:
+         · Release Note 2015.2.27
+         · Inspire 1 User Manual (EN) v1.0
+         · Inspire 1 Safety Guidelines v1.0
+         · Inspire 1 Flight Battery Safety Guidelines v1.0
+         · Inspire 1 Maintenance Manual v1.0
+    2. Eagle View Aerial Imaging LLC (company confidential)
+         · UAS Policies and Procedures, covering topics such as, but not limited to:
+              · Documents held with operator during flight operations;
+              · Line-of-sight flights, day-time only flights, favorable weather conditions;
+              · Airspace restrictions
+              · Reporting accidents to the FAA
+         · Operator Log Book, containing Flight Record, Training Log, Aircraft Maintenance
+              Log, and Pre-Flight and Post-Flight Checklists.
+
+    These documents also cover mitigations for control/communication link failures and also
+    state FCC compliance specifics.
+
+Eagle View Aerial Imaging LLC  Petition for FAA Exemption  Page 8 of 8
+

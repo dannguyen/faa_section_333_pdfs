@@ -1,0 +1,2195 @@
+September 21, 2015
+
+                                                           Exemption No. 12946
+                                                           Regulatory Docket No. FAA-2015-2557
+
+Mr. Ryan Baker
+Director, sUAS Flight Operations
+Black and Veatch Corporation
+11401 Lamar Avenue
+Overland Park, KS 66211
+
+Dear Mr. Baker:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter dated June 10, 2015, you petitioned the Federal Aviation Administration (FAA) on
+behalf of Black and Veatch Corporation (hereinafter petitioner or operator) for an exemption.
+The petitioner requested to operate an unmanned aircraft system (UAS) to conduct aerial
+photography, videography, inspections, and data collection.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner is a DJI S1000.
+                                                                                                                 2
+
+The petitioner requested relief from 14 CFR part 21, Certification procedures for products
+and parts, Subpart H--Airworthiness Certificates. In accordance with the statutory criteria
+provided in Section 333 of Public Law 112-95 in reference to 49 U.S.C. § 44704, and in
+consideration of the size, weight, speed, and limited operating area associated with the
+aircraft and its operation, the Secretary of Transportation has determined that this aircraft
+meets the conditions of Section 333. Therefore, the FAA finds that the requested relief from
+14 CFR part 21, Certification procedures for products and parts, Subpart H--Airworthiness
+Certificates, and any associated noise certification and testing requirements of part 36, is
+not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection1. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+ They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+ The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+ A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, Black and Veatch Corporation is granted an exemption
+from 14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a), 91.7(a),
+91.119(c), 91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a)
+
+1 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                                                 3
+
+and (b), to the extent necessary to allow the petitioner to operate a UAS to perform aerial data
+collection. This exemption is subject to the conditions and limitations listed below.
+
+Conditions and Limitations
+
+In this grant of exemption, Black and Veatch Corporation is hereafter referred to as
+the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+    1. Operations authorized by this grant of exemption are limited to the DJI S100 when
+         weighing less than 55 pounds including payload. Proposed operations of any other
+         aircraft will require a new petition or a petition to amend this exemption.
+
+    2. Operations for the purpose of closed-set motion picture and television filming are
+         not permitted.
+
+    3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+         exemption holder may use either groundspeed or calibrated airspeed to determine
+         compliance with the 87 knot speed restriction. In no case will the UA be operated at
+         airspeeds greater than the maximum UA operating airspeed recommended by the
+         aircraft manufacturer.
+
+    4. The UA must be operated at an altitude of no more than 400 feet above ground level
+         (AGL). Altitude must be reported in feet AGL.
+
+    5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+         This requires the PIC to be able to use human vision unaided by any device other than
+         corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+         U.S. driver's license.
+
+    6. All operations must utilize a visual observer (VO). The UA must be operated within
+         the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+         to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+         capability. The VO and PIC must be able to communicate verbally at all times;
+         electronic messaging or texting is not permitted during flight operations. The PIC
+         must be designated before the flight and cannot transfer his or her designation for the
+         duration of the flight. The PIC must ensure that the VO can perform the duties
+         required of the VO.
+
+    7. This exemption and all documents needed to operate the UAS and conduct its
+         operations in accordance with the conditions and limitations stated in this grant of
+         exemption, are hereinafter referred to as the operating documents. The operating
+                                                                                                            4
+
+    documents must be accessible during UAS operations and made available to the
+    Administrator upon request. If a discrepancy exists between the conditions and
+    limitations in this exemption and the procedures outlined in the operating documents,
+    the conditions and limitations herein take precedence and must be followed.
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+                                                                                                            5
+
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+                                                                                       6
+
+exemption holder may apply for a new or amended COA if it intends to conduct
+operations that cannot be conducted under the terms of the attached COA.
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+
+    be as large as practicable.
+
+23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+    any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+    PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+    These documents must be made available to the Administrator or any law enforcement
+    official upon request.
+
+24. The UA must remain clear and give way to all manned aviation operations and
+    activities at all times.
+
+25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless:
+      a. Barriers or structures are present that sufficiently protect nonparticipating persons
+          from the UA and/or debris in the event of an accident. The operator must ensure
+          that nonparticipating persons remain under such protection. If a situation arises
+          where nonparticipating persons leave such protection and are within 500 feet of
+          the UA, flight operations must cease immediately in a manner ensuring the safety
+          of nonparticipating persons; and
+      b. The owner/controller of any vessels, vehicles or structures has granted permission
+          for operating closer to those objects and the PIC has made a safety assessment of
+          the risk of operating closer to those objects and determined that it does not
+          present an undue hazard.
+
+The PIC, VO, operator trainees or essential persons are not considered
+nonparticipating persons under this exemption.
+
+27. All operations shall be conducted over private or controlled-access property with
+    permission from the property owner/controller or authorized representative.
+    Permission from property owner/controller or authorized representative will be
+    obtained for each flight to be conducted.
+
+28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+
+    boundaries of the operational area as defined by the applicable COA must be reported
+    to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+                                                                                               7
+
+reported to the National Transportation Safety Board (NTSB) per instructions
+contained on the NTSB Web site: www.ntsb.gov.
+
+If this exemption permits operations for the purpose of closed-set motion picture and
+television filming and production, the following additional conditions and limitations apply.
+
+29. The operator must have a motion picture and television operations manual (MPTOM)
+    as documented in this grant of exemption.
+
+30. At least 3 days before aerial filming, the operator of the UAS affected by this
+    exemption must submit a written Plan of Activities to the local Flight Standards
+    District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+    notification may be waived with the concurrence of the FSDO. The plan of activities
+    must include at least the following:
+      a. Dates and times for all flights;
+      b. Name and phone number of the operator for the UAS aerial filming conducted
+          under this grant of exemption;
+      c. Name and phone number of the person responsible for the on-scene operation of
+          the UAS;
+      d. Make, model, and serial or N-Number of UAS to be used;
+      e. Name and certificate number of UAS PICs involved in the aerial filming;
+      f. A statement that the operator has obtained permission from property owners
+          and/or local officials to conduct the filming production event; the list of those
+          who gave permission must be made available to the inspector upon request;
+      g. Signature of exemption holder or representative; and
+      h. A description of the flight activity, including maps or diagrams of any area, city,
+          town, county, and/or state over which filming will be conducted and the altitudes
+          essential to accomplish the operation.
+
+31. Flight operations may be conducted closer than 500 feet from participating persons
+
+    consenting to be involved and necessary for the filming production, as specified in the
+    exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                                                 8
+This exemption terminates on September 30, 2017, unless sooner superseded or rescinded.
+Sincerely,
+
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+                                                                                                             BLACK & VEATCH CORPORATION
+
+                                                                                                                                       11401 LAMAR AVENUE, OVERLAND PARK, KS 66211
+
+                                                                                                  +1 913-458-7823 I BAKERRL2@BV.COM
+
+             June 10, 2015
+
+             U.S. Department of Transportation, Docket Operations
+             West Building Ground Floor, Room W12-140
+             1200 New Jersey Ave, SE
+             Washington, DC 20590
+
+             Re: Petition ofBlack & Veatch Corporation for an Exemption Pursuant to Section,.$33 ofthe FAA
+                  Modernization and Reform Act of2012 to Operate an Small Unmanned Aircraft System.
+
+             Dear Sir or Madam:
+
+             Pursuant to Section 333 of the FAA Modernization and Reform Act of 2012 (the Reform Act)
+             and 14 C.F.R. Part 11, Black & Veatch Corporation (Black & Veatch) a global engineering,
+             consulting, and construction company, hereby applies for an exemption from the listed Federal
+             Aviation Regulations (FARs) to allow commercial operation of small unmanned aerial systems
+             (sUAS), for aerial imaging for safety and monitoring of secured and controlled project sites, so
+             long as such operations are conducted within and under the conditions outlined herein or as
+             may be established by the FAA as required by Section 333.
+
+             This exemption is in accordance with protocols outlined in this petition for exemption and
+             incorporates the material contained in the following:
+
+                  · Appendix A: Black & Veatch sUAS Operation, Inspections, and Maintenance Manual
+                  · Appendix B: Black & Veatch sUAS Pilot Operating Handbook
+                  · Appendix C: Black & Veatch sUAS Training Manual
+                  · Appendix D: DJI S1000 User Manual
+                  · Appendix E: A2 Flight Control System User Manual
+
+             The Appendices are submitted as confidential under 14 C.F.R. § 11.35(b), because they contain
+             commercial and proprietary information that Black & Veatch has not and will not share with
+             others, is not available to the public, and is protected from release under the Freedom of
+             Information Act, 5 U.S.C. § 552 et seq.
+
+             As described more fully below, the requested exemption would permit the operation of sUAS
+             under controlled conditions in airspace that is 1) limited 2) predetermined 3) controlled as to
+             access and 4) would provide safety enhancements to the already best practices safety protocols
+             followed by Black & Veatch. Approval of this exemption would therefore create no safety
+             concerns regarding national airspace and would fulfill the Secretary of Transportation's (the
+             FAA Administrator's) responsibilities to "...establish requirements for the safe operation of such
+) aircraft systems in the national airspace system." Section 333(c) of the Reform Act.
+
+                                                                                                                                                                   www.bv.com ;
+                                                                                                                    JUNE 10, 2015 I PAGE 2
+
+/
+
+             The contact information for the applicant is as follows:
+
+                       Black & Veatch Corporation
+                       Attn: Ryan Baker
+                        Email: bakerrl2@bv.com
+                        11401 Lamar Avenue
+                        Overland Park, KS 66211
+                        (913) 458-7823
+
+             Regulations from which the exemption is requested:
+
+                        14 CFR Part 21 Subpart H
+                        14 CFR 91.203(a)(1)
+                        14 CFR Part 27
+                        14 CFR 45.23(b)
+                        14 CFR 61.113(a)&(b)
+                        14 CFR 91.7(a)
+                        14 CFR 91.9(b)(2)
+                        14 CFR 91.103
+                        14 CFR 91.109(a)
+                        14 CFR 91.119
+                        14 CFR 91.121
+                        14 CFR 91.151(a)
+                        14 CFR 91.203(a) & (b)
+                        14 CFR 91.405(a)
+                        14 CFR 91.407(a)(1)
+                        14 CFR 91.409(a)(2)
+                        14 CFR 91.417(a) & (b)
+
+             STATUTORY AUTHORITY FOR EXEMPTIONS
+             The Federal Aviation Act expressly grants the FAA the authority to issue exemptions. This
+             statutory authority by its terms includes exempting civil aircraft, as the term is defined under
+             §40101 of the Act, that includes sUASs, from the requirement that all civil aircraft must have a
+             current airworthiness certificate.
+
+             The Administrator may grant an exemption from a requirement of a regulation prescribed
+             under subsection (a) or (b) of this section or any sections 44702-44716 ofthis title if the
+             Administrator finds the exemption in the public interest. 49 U.S.C. §44701(f) See also 49 USC
+             §44711(a); 49 USC §44704; 14 CFR §91.203 (a) (1).
+
+             Section 333(b) of the Reform Act assists the Secretary in determining whether sUAS may
+             operate in the National Airspace System (NAS) without creating a hazard to the user, the
+             public, or a threat to national security. In making this determination, the Secretary must
+             consider:
+
+                                                                                                                                                            www.bv.com
+                                                                                                                   JUNE 10, 2015 I PAGE 3
+
+                  · The sUAS's size, weight, speed, and operational capability;
+                  · Operation of the sUAS in close proximity to airports and populated areas; and
+                  · Operation of the sUAS within visual line of sight of the operator.
+
+             Reform Act§ 333 (a). Lastly, if the Secretary determines that such vehicles "may operate safely
+             in the national airspace system, the Secretary shall establish requirements for the safe
+             operation of such aircraft in the national airspace system." Black & Veatch interprets this
+             provision to place the duty on the Administrator to not only process applications for
+             exemptions under Section 333, but for the Administrator to craft conditions for the safe
+             operation of the sUAS, if it should be determined that the conditions set forth herein do not
+             fulfill the statutory requirements for approval.
+
+             Black & Veatch's sUAS is a multirotor vehicle, weighing 55 or fewer lbs. including payload.
+             The sUAS operates, under normal conditions, at a speed of no more than 50 knots and has
+             the capability to hover, and move in the vertical and horizontal plane simultaneously. The
+             sUAS will operate only in the Pilot's visual line of sight at all times and will operate
+             only within the sterile area described in the Appendices. Such operations will insure that
+             the sUAS will "not create a hazard to users of the national airspace system or the public."
+
+             Given the small size of the sUAS and the restricted and sterile environment within which it
+             will operate, Black & Veatch falls squarely within that zone of safety (an equivalent level of
+             safety) in which Congress envisioned that the FAA must, by exemption, allow commercial
+             operations of s UAS to commence immediately. Also due to the s m a 11 size of the s UASs and
+             the low altitudes and restricted areas in which the sUAS will operate, approval
+             of the application presents no national security issue.
+
+             Given the clear direction in Section 333 of the Reform Act, the authority contained in the
+             Federal Aviation Act, as amended; the strong equivalent level of safety surrounding the
+             proposed operations, and the significant public benefit, including enhanced safety, the grant
+             ofthe requested exemption is in the public interest. Accordingly, Black & Veatch respectfully
+             requests that the FAA grant the requested exemption without delay.
+
+           PUBLIC INTEREST
+
+             This exemption application is expressly submitted to fulfill Congress' goal in passing Section
+             333(a) through (c) of the Reform Act. This law directs the Secretary of Transportation to
+             consider whether certain unmanned aircraft systems may operate safely in the NAS before
+             completion of the rulemaking required under Section 332 of the Reform Act. By granting an
+             exemption the FAA will fulfill Congress's intent of allowing UAS to operate with significant
+             safety precautions in low risk environments.
+
+             The use of sUAS on Black & Veatch project sites can significantly reduce the risk to workers of
+             falls while inspecting, surveying, or monitoring site construction progress. sUAS can inspect,
+             photograph, and collect data in hard to reach areas that otherwise would require worker
+) inspection. Falls are a leading source of workplace fatality and injury (www.osha.gov). With
+
+                                                                                                                                                              www.bv.com ,~, '
+                                                                                                                   JUNE 10, 2015 I PAGE 4
+
+            the use of the proposed sUAS Black & Veatch could minimize the need to expose it's
+            professionals to high fall risk activities, which in turn could save lives.
+
+            Additionally, sUAS could replace the use of helicopters and small aircraft to monitor sites. The
+            sUAS Black & Veatch proposes to fly in this application is less than 55lbs. and carries no
+             combustible material on board, as opposed to the much larger conventionally powered small
+             aircraft. Shifting to sUAS from helicopters presents a marked safety increase for our workers
+             and the public.
+
+             Lastly, sUAS reduce the environmental impact by dramatically decreasing the energy used for
+             aerial imaging and data collection over a project site. The proposed sUAS uses rechargeable
+            lithium ion batteries, as opposed to fossil fuels burned in operation of much heavier small
+             aircraft.
+
+           EQUIVALENT LEVEL OF SAFETY
+
+             Black & Veatch proposes that the exemption requested herein apply to sUAS that have the
+             characteristics and that operate with the limitations listed herein. These limitations provide for
+             an exceptional level of safety to operations. These limitations and conditions to which Black &
+            Veatch agrees to be bound when conducting commercial operations under an FAA issued
+             exemption include:
+
+\
+ !
+
+                  1. The sUAS will weigh less than 55 lbs.
+                  2. Flights will be operated within line of sight of Pilot in Command or Visual
+
+                       Observer.
+                  3. Maximum total flight time for each operational flight will be 20 minutes. Flights will be
+
+                       terminated at 20% battery power reserve should that occur prior to the 20 minute limit.
+                  4. Flights will normally be operated at an altitude below 200 feet AGL, never exceeding
+
+                       400 feetAGL
+                  5. The sUAS pilot will be trained and certified in the proper safety and operations of the
+
+                       sUAS.
+                  6. The sUAS will only operate within a controlled area as defined in the Appendices.
+                  7. The sUAS pilot will post advisory notices where people are located around the
+
+                       controlled area.
+                  8. A briefing will be conducted in regard to the planned sUAS operations prior to each
+
+                       day's production activities. It will be mandatory that all personnel who will be
+                       performing duties within the boundaries of the safety perimeter be present for this
+                       briefing.
+                  9. All onsite personnel will consent to the sUAS flyover by waiver, and the operator will
+                       obtain additional verbal or written consent of all persons who will be allowed within
+                       100 feet of the flight operation.
+                  10. Operator will have been trained in operation of sUAS generally and will have received
+                       up-to-date information on the particular sUAS to be operated as required by the
+                       Appendices.
+                  11. Written and/or oral permission from the relevant property holders will be obtained.
+
+                                                                                                                                                            www.bv.com ·lll"
+                                                                                                                     JUNE 10, 2015 I PAGE 5
+
+                    12. If the sUAS loses communications or loses its GPS signal, the UAS will have the capability
+                         to return to a pre-determined location within the Security Perimeter and land.
+
+                    13. The sUAS will have the capability to abort a flight in case ofunpredicted obstacles or
+                         emergencies.
+
+             DESCRIPTION OF SPECIFIC REGULATIONS
+
+               Subpart H, entitled Airworthiness Certificates, establishes the procedural requirements for the
+               issuance of airworthiness certificates as required by FAR §91.203 (a) (1).
+
+               Given the size and limited operating area associated with the sUAS to be utilized by Black &
+               Veatch, an exemption from Part 21 Subpart H meets the requirements of an equivalent level of
+               safety under Part 11 and Section 333 of the Reform Act. The Federal Aviation Act (49 U.S.C.
+               §44701 (f)) and Section 333 of the Reform Act both authorize the FAA to exempt aircraft from
+               the requirement for an airworthiness certificate, upon consideration of the size, weight, speed,
+               operational capability, and proximity to airports and populated areas of the particular sUAS. In
+               all cases, an analysis of these criteria demonstrates that the sUAS operated without an
+               airworthiness certificate, in the restricted environment and under the conditions proposed will
+               be at least as safe, or safer, than a conventional aircraft (fixed wing or rotorcraft) operating with
+               an airworthiness certificate without the restrictions and conditions proposed.
+
+. j The proposed sUAS to be operated is less than 55 lbs. fully loaded, carries neither a pilot nor
+               passenger, carries no explosive materials or flammable liquid fuels, and operates exclusively
+               within a controlled area as set out in the Appendices. Unlike other civil aircraft, operations
+               under this exemption will be tightly controlled and monitored by the sUAS pilot, pursuant to the
+               requirements set out in the Appendices. Lastly, application of these same criteria demonstrates
+               that there is no credible threat to national security posed by the sUAS, due to its size, speed of
+               operation, location of operation, lack of explosive materials or flammable liquid fuels, and
+               inability to carry a substantial external load.
+
+              14 CFoR Part 27:
+               This regulation sets forth the procedural requirements for airworthiness certification of normal
+               category rotorcraft. To the extend the S1000 would otherwise require certification under Part
+               27, Black & Veatch seeks an exemption from Part 27's airworthiness standards for the same
+               reasons identified in the request for exemption from 14 C.F.R. Part 21, Subpart H.
+
+               14 CFJ~. § 45o23
+               The regulation requires when marks include only the Roman capital letter "N" and the
+               registration number is displayed on limited, restricted or light-sport category aircraft or
+               experimental or provisionally certificated aircraft, the operator must also display on that
+               aircraft near each entrance to the cabin, cockpit, or pilot station, in letters not less than 2 inches
+               nor more than 6 inches high, the words "limited," "restricted," "light-sport," "experimental," or
+               "provisional," as applicable.
+
+                                                                                                                                                                    www. bv.com ··
+                                                                  JUNE 10, 2015 I PAGE 6
+
+ \
+
+)
+
+             Even though the sUAS will have no airworthiness certificate, an exemption may be needed as
+             the UAS will have no entrance to the cabin, cockpit or pilot station on which the word
+             "Experimental" can be placed.
+
+      Given the size of the sUAS, two-inch lettering will be impossible. The word "Experimental" will
+      be placed on the fuselage in compliance with §45.29 (f). The equivalent level of safety will be
+      provided by having the sUAS marked on its fuselage as required by §45.29 (f) where the
+      operator working with the sUAS will see the identification of the sUAS as "Experimental." The
+      FAA has issued the following exemptions to this regulation to Exemptions Nos. 10700, 8738,
+      10167 and 10167A.
+
+      14 CFI=t  &
+
+      Sections 61.113 (a) & (b) limit private pilots to non-commercial operation. Because the sUAS
+      will not carry a pilot or passengers, the proposed operations can achieve the equivalent level of
+      safety of current operations by requiring the Pilot operating the aircraft to have completed a
+      sUAS flight training course as detailed in the Appendices. Unlike a conventional aircraft that
+      carries the pilot and passengers, the sUAS is remotely controlled with no living thing or cargo
+      on board. Black & Veatch's sUAS can also be operated by an autopilot, which greatly reduces
+      the danger of human error. The area of operation is controlled and restricted, and all flights are
+      planned and coordinated in advance as set forth in the Appendices.
+
+'\    The sUAS to be operated hereunder is less than 55 lbs. fully loaded, carries neither a pilot nor
+   i
+      passenger, carries no explosive materials or flammable liquid fuels, and operates exclusively
+/ within a secured area as set out in the Appendices. Like other civil aircraft, operations under
+
+      this exemption will be tightly controlled and monitored by the operator and in compliance with
+
+      local public safety requirements.
+
+      The risks associated with the operation of the sUAS are therefore diminished from the level of
+      risk associated with commercial operations contemplated by Part 61 when drafted, and
+      allowing operations of the sUAS as requested with a Pilot who has met the minimum
+      requirements stated in the Appendices and achieves the level of safety contemplated by 14
+      C.F.R. § 61.113 (a) & (b).
+
+      14 CF,ft
+
+      The regulation requires that no person may operate a civil aircraft unless it is in airworthy
+      condition. As there will be no airworthiness certificate issued for the aircraft, should this
+      exemption be granted, no FAA regulatory standard will exist for determining airworthiness.
+
+      Given the size of the aircraft and the requirements contained in the Appendices for
+      maintenance and use of safety check lists prior to each flight, an equivalent level of safety will
+      be provided.
+
+      14
+      Section 91.9 (b) (2) provides:
+
+      No person may operate a U.S.-registered civil aircraft ...
+
+                                                                  www.bv.com
+       JUNE 10, 2015 I PAGE 7
+
+    J
+
+       (2) For which an Airplane or Rotorcraft Flight Manual is not required by §21.5 of this chapter,
+
+I unless there is available in the aircraft a current approved Airplane or Rotorcraft Flight Manual,
+
+ i     approved manual material, markings, and placards, or any combination thereof.
+
+lI
+
+       The sUAS, given its size and configuration has no ability or place to carry such a flight manual
+       on the aircraft, not only because there is no pilot on board, but because there is no room or
+       capacity to carry such an item on the aircraft.
+
+       The equivalent level of safety will be maintained by keeping the flight manual at the ground
+       control point where the operator flying the sUAS will have immediate access to it. The FAA has
+       issued the following exemptions to this regulation: Exemption Nos. 8607, 8737, 8738, 9299,
+       9299A, 9565,95658,10167, 10167A, 10602,32827, and 10700.
+
+       14 CFR LlOJ:
+
+       This regulation requires each operator to take certain actions before flight to insure the safety
+       of flight. As FAA approved rotorcraft flight manuals will not be provided for the aircraft an
+       exemption will be needed. An equivalent level of safety will be provided as set forth in the
+       Appendices. The operator will take all actions including reviewing weather, flight battery
+       requirements, landing and takeoff distances and aircraft performance data before initiation of
+       flight.
+
+    ) 14 CFR 91.109: Fi
+
+                 Section 91.109 provides that no person may operate a civil aircraft (except a manned free
+                 balloon) that is being used for flight instruction unless that aircraft has fully functioning dual
+                 controls.
+
+       sUAS's and remotely control piloted aircraft, by their design do not have fully functional dual
+       controls. Flight is accomplished through the use of a control box that communicates with the
+       aircraft via radio communications. The FAA has approved exemptions for flight training
+       without fully functional dual controls for a number of aircraft and for flight instruction in
+       experimental aircraft. See Exemption Nos.5778K & 9862A. The equivalent level of safety
+       provided by the fact that neither a pilot nor passengers will be carried in the aircraft and by the
+       size and speed of the aircraft.
+
+       14 CFR 91.119: n
+
+       Section 91.119 establishes safe altitudes for operation of civil aircraft. Section 91.119 (d) allows
+       helicopters to be operated at less than the minimums prescribed, provided the person
+       operating the helicopter complies with any route or altitudes prescribed for helicopters by the
+       FAA.
+
+                 As this exemption is for a sUAS that is a helicopter and the exemption requests authority to
+
+                 operate at altitudes up to 400 AGL, an exemption may be needed to allow such operations. As
+
+                 set forth herein the sUAS will never operate at higher than 400 AGL.
+
+     \,
+
+    j
+
+                                                                                      www.bv.com
+                                                 JUNE 10, 2015 I PAGE 8
+
+The equivalent level of safety will be achieved given the size, weight, speed of the sUAS as well
+as the location where it is operated. In addition, the low-altitude operations of the sUAS will
+ensure separation between these sUAS operations and the operations of conventional aircraft
+that must comply with Section 91.119.
+
+14 CFR 91.121:
+
+This regulation requires each person operating an aircraft to maintain cruising altitude by
+reference to an altimeter that is set "... to the elevation of the departure airport or an
+appropriate altimeter setting available before departure." As the sUAS may not have a
+barometric altimeter, but instead a GPS altitude read out, an exemption may be needed. An
+equivalent level of safety will be achieved by the operator, pursuant to the Appendices,
+confirming the altitude of the launch site shown on the GPS altitude indicator before flight.
+
+14 CFR 910                                  VFR
+
+Section 91.151 (a) prohibits an individual from beginning "a flight in an airplane under VFR
+conditions unless (considering wind and forecast weather conditions) there is enough fuel to fly
+to the first point of intended landing, and, assuming normal cruising speed - (1) During the day,
+to fly after that for at least 30 minutes; or (2) At night, to fly after that for at least 45 minutes."
+
+             Given the technological limitations on the sUAS battery power means that no meaningful flight
+
+) operations can be conducted while still maintaining a 30 minute reserve. The aircraft is battery
+             powered with a maximum flight time of 30 minutes. Black & Veatch proposes that the
+             maximum flight time for each operational flight will be 20 minutes. The aircraft will be safely
+             landed with no less than the greater of (a) 20% battery life remaining or (b) five minutes of
+             flight time remaining.
+
+Applicant believes that an exemption from 14 CFR §91.151(a) falls within the scope of prior
+exemptions. See Exemption 10673 (allowing Lockheed Martin Corporation to operate without
+compliance with FAR 91.151 (a)). Operating the small UAS, in a tightly controlled area, with less
+than 30 minutes of reserve fuel, does not create the type of risks that Section 91.151 (a) was
+intended to alleviate given the size and speed of the sUAS.
+
+The FAA has stated that an equivalent level of safety is provided if the sUAS flight is conducted
+under daytime VFR flight conditions using visual line of sight (VLOS), and terminated with at
+least 25% reserve battery power still available. See Grant of Exemption No. 11062, p. 21-22.
+The Appendices requires an equivalent level of safety by safely landing with no less than the
+greater of (a) 20% battery life remaining or (b) five minutes of light time remaining and
+otherwise complying with the flight restrictions above.
+
+14 & Ca
+The regulation provides in pertinent part:
+
+(a) Except as provided in§ 91.715, no person may operate a civil aircraft unless it has within it
+the following:
+
+                                                 www.bv.com
+                                                             JUNE 10, 2015 I PAGE 9
+
+(1) An appropriate and current airworthiness certificate...
+
+(b) No person may operate a civil aircraft unless the airworthiness certificate required by
+paragraph (a) of this section or a special flight authorization issued under §91.715 is displayed
+at the cabin or cockpit entrance so that it is legible to passengers or crew.
+
+The sUAS fully loaded weighs no more than 55 lbs. and is operated without an onboard pilot. As
+such, there is no ability or place to carry certification and registration documents or to display
+them on the sUAS.
+
+An equivalent level of safety will be achieved by keeping these documents at the ground control
+point where the operator flying the sUAS will have immediate access to them, to the extent they
+are applicable to the sUAS. The FAA has issued numerous exemptions to this regulation. A
+representative sample of other exceptions includes Exemption Nos. 9565, 9665, 9789, 9789A,
+9797,9797A, 9816A, and 10700.
+
+14 91  & ntenance
+
+These regulations require that an aircraft operator or owner "shall have that aircraft inspected
+as prescribed in subpart E of this part and shall between required inspections, except as
+provided in paragraph (c) of this section, have discrepancies repaired as prescribed in part 43
+of this chapter...," and others shall inspect or maintain the aircraft in compliance with Part 43.
+Given that these sections and Part 43 apply only to aircraft with an airworthiness certificate,
+these sections will not apply to the Applicant. Maintenance will be accomplished by the
+operator pursuant to the flight manual and operating handbook as referenced in the
+Appendices. An equivalent level of safety will be achieved because the sUAS is limited in size
+and will carry a small payload and operate only in controlled areas for limited periods of time
+from no higher than 400 feet AGL.. If mechanical issues arise the sUAS can land immediately.
+As provided in the Appendices, the operator will ensure that the sUAS is in working order prior
+to initiating flight, perform required maintenance, and keep a log of any maintenance
+performed. Moreover, the operator is the person most familiar with the aircraft and best suited
+
+to maintain the aircraft in an airworthy condition to provide the equivalent level of safety.
+
+FEDERAL REGISTER PULICATION SUMMARY
+
+Pursuant to 14 C.F.R. Part 11, the following summary is provided for publication in the Federal
+Register, should it be determined that publication is needed:
+
+Black & Veatch Corporation seeks an exemption from the following rules: 14 CFR Part 21
+Subpart H; 14 CFR 91.203{a)(1); 14 CFR Part27; 14 CFR 45.23(b); 14 CFR 61.113{a)&(b);
+14 CFR 91.7{a); 14 CFR 91.9(b}{2); 14 CFR 91.103; 14 CFR 91.109{a); 14 CFR 91.119; 14
+CFR 91.121; 14 CFR 91.151(a); 14 CFR 91.203{a) & (b); 14 CFR 91.405(a); 14 CFR
+91.407(a)(1); 14 CFR 91.409{a)(2); 14 CFR 91.417(a) & (b) to commercially operate a
+small unmanned aerial system (sUAS, 55 lbs. or less) for the purpose ofinspection,
+monitoring, mapping and photographing equipment and engineering studies.
+
+                                                             www.bv.com
+                                                                                                     JUNE 10, 2015 I PAGE 10
+
+         Approval ofexemptions allowing commercial operations ofsUASs will create a level of
+         safety by reducing risk. Conventional inspections and construction monitoring tasks
+          involve extreme risks to personnel physically climbing structures andjor utilizing high rise
+          equipment both ofwhich create numerous and extreme risk to such personnel. In contrast,
+          a sUAS weighing fewer than 55 lbs. and powered by batteries eliminates virtually all of
+          that risk. The sUAS will carry no passengers or crew and, therefore, will not expose
+          personnel to any ofthe risks described above.
+
+         Allflights will occur over private or controlled access property with the property owner's
+          prior consent and knowledge. The granting ofthis exemption request will provide
+          innovative safety operations.
+Satisfaction of the criteria provided in Section 333 of the Reform Act of 2012--size, weight,
+speed, operating capabilities, proximity to airports and populated areas and operation within
+visual line of sight - provide more than adequate justification for the grant of the requested
+exemptions allowing commercial operation of applicant's sUAS in and pursuant to the
+Procedures appended hereto.
+Sincerely,
+
+Ryan Baker, Director of sUAS Flight Operations
+Black & Veatch Corporation
+Enclosures
+
+                                                                                                                                             www.bv.com
+        Appendix A: Black & Veatch sUAS Operations, Inspection,
+
+        and Maintenance Manual
+
+\
+)
+~~
+
+)
+
+                FLIGHT OPERATIONS
+
+                      1. Black & Veatch (B&V) will conduct flight operations using a small unmanned aerial
+                           system (sUAS) as described in these Operations, Inspection, and Maintenance Manual
+                            (hereafter, "Manual") for the purpose of inspection, monitoring, mapping and
+                           photographing equipment and engineering studies.
+
+                      2. B&V will designate a Director of sUAS Flight Operations (Director).
+
+                      3. The Director will ensure this Manual is revised to contain all current information.
+
+                      4. The Director will ensure that this Manual is distributed to all personnel involved with
+                           sUAS operations as well as any revisions to this manual.
+
+                      5. The Director will ensure all sUAS pilots are trained according to the Black &Veatch
+                           sUAS Training Manual and the Black & Veatch sUAS Pilot Operating Handbook.
+
+                                    sUJ~S
+
+                      1. sUAS operations will be conducted using a DJI S1000 Plus with the A2 Flight Control
+                            System, manufactured by DJI Innovations (the "S1000").
+
+                       2. The S1000 weighs approximately 8.8 pounds with a maximum takeoff weight of
+                            approximately 24 pounds including payload.
+
+                       3. Operation of the S1000 is described in Appendix B. Black & Veatch sUAS Pilot Operating
+                            Handbook.
+
+                       4. A complete description of the S1000 is contained in Appendix D. DJI S1000 Plus User
+                            Manual and Appendix E. A2 Flight Control System User Manual.
+
+                                                          Book,
+                       1. The S1000 will be identified by serial number, registered with the FAA, and have
+
+                            identification (N-Number) markings as large as practicable.
+
+                       2. The S1000 will have a Log Book to record inspections, maintenance, and flight
+                            operations.
+
+                       3. All required paperwork including Registration, Log Book, and Manuals will be located at
+                            the ground control station in close proximity to the pilot in command.
+
+                                 Crew
+                       1. sUAS operations will require a minimum crew of a pilot in command (PIC) and a visual
+
+                            observer (VO)
+\
+
+)
+
+                      2. The PIC will possess at least a sport pilot license and an airman medical certificate or
+                           U.S. driver's license and will be trained according to the Black & Veatch sUAS Training
+                           Manual (Appendix C).
+
+       An.~ as
+
+    1. The sUAS will only operate within private or controlled-access property with
+        permission from the property owner/controller or authorized representative.
+
+       Permission from the property ownerI controller or authorized representative will be
+
+        obtained for each flight to be conducted.
+
+    2. Flight operations will not be conduct within 5 nautical miles of an airport reference
+        point (ARP) as denoted in the current FAA Airport/Facility Directory (AFD) or for
+        airports not denoted with an ARP, the center of the airport symbol as denoted on the
+        current FAA-published aeronautical chart unless a letter of agreement with that
+        airport's management is obtained or otherwise permitted by a certificate of waiver or
+        authorization (COA).
+
+    3. All flight operations will be conducted at least 500 feet from all nonparticipating
+
+    persons (the PIC, VO, operator trainees or essential persons will not be considered
+
+    nonparticipating persons), vessels, vehicles, and structures unless:
+
+\.
+ )
+    a. Barriers or structures are present that sufficiently protect nonparticipating
+/
+
+    persons from the sUAS andjor debris in the event of an accident.
+
+    b. The ownerf controller of any vessels, vehicles, or structures has granted
+
+         permission for operating closer to those objects and the PIC has made a safety
+         assessment of the risk of operating closer to those objects and determined that it
+         does not present an undue hazard.
+
+                       Parameters
+    1. Flights will be operated within visual line of sight (VLOS) of the PIC or VO during
+
+         daylight and under visual meteorological conditions (VMC).
+
+    2. The sUAS will not be operated if wind gust greater than 30 mph.
+
+    3. Prior to each flight, a zero altitude initiation point will be established and confirmed for
+        accuracy by the PIC.
+
+    4. Maximum flight time for each operational flight will be 20 minutes.
+
+    5. The sUAS will be safely landed with no less than the greater of (a) 20% battery life
+        remaining or (b) five minutes of flight time remaining.
+
+                   6. Flights will be operating at or below 400 feet above ground level (AGL).
+
+  \
+
+./
+                     7. Flights will be limited to a groundspeed of 25 mph and vertical ascent will be limited to
+                          20 mph.
+
+                     8. The flight operations will yield the right of way to other manned aircraft operations.
+
+                     9. The flight will be aborted in case of unpredicted obstacles or emergencies.
+
+                     10. Each flight will be recorded in the Log Book.
+
+                Lost
+                    1. Flight recovery following lost gpsjcommunications will be performed according to
+                          Appendices B, C, and D.
+
+               INSPECTION AND FUNCTIONAL TEST FLIGHT
+
+                                              Procedures
+                    1. Before each flight, either the PIC or the VO will conduct a preflight inspection of the
+
+                          sUAS.
+
+                     2. The sUAS and ground control station will be inspected for signs of damage. Screws will
+                          be checked and tightened if necessary.
+
+"\
+  i
+
+/ 3. The ground control station will be inspected to ensure they are not damaged, loose, or
+                          misaligned.
+
+                     4. Motors will be inspected to ensure they are not loose and the supports are not cracked.
+
+                     5. Batteries for both sUAS and ground control station will be checked to ensure they are
+                          fully charged.
+
+                     6. The S1000 batteries will be charged and maintained according to Appendix D.
+
+                     7. A preflight maintenance inspection will be recorded in the aircraft log book.
+
+                     1. After each flight, either the PIC or the VO will conduct a post-flight inspection of the
+                          sUAS.
+
+                     2. The sUAS and ground control station will be inspected for signs of damage. Screws will
+                          be checked and tightened if necessary.
+
+                     3. Propellers will be inspected to ensure they are not damaged, loose, or misaligned.
+
+                     4. Motors will be inspected to ensure they are not loose and the supports are not cracked.
+
+                     5. Batteries will be charged and maintained according to Appendix D.
+
+     )
+
+      /
+MAINTENANCE
+
+     1. The S1000 will be maintained in accordance with Appendices B, D, and E.
+     2. The S1000 will have a log book to record inspections, maintenance, and flight
+
+          operations.
+
+     3. Batteries will be charged in accordance with Appendix D.
+
+              Test
+     1. After a flight critical component, such as a propeller or motor, has undergone
+
+          maintenance or been repaired or replaced, the aircraft will undergo a functional test
+          flight.
+
+               a. The PIC will conduct the test flight in accordance with Appendix D.
+               b. The PIC will make an entry in the log book of the functional test flight
+     2. Every 500 hours of flight time, the PIC will conduct a functional test flight regardless of
+          the maintenance activities.
+     3. The PIC will make an entry in the log book of the functional test flight.
+           Appendix B: Black & Veatch sUAS Pilot Operation
+
+            Handbook
+
+.\
+  )
+) KEY PARAMETERS                                                            24lbs
+                                                                          13.4lbs
+      Max Takeoff Weight
+      Weight with Zenmuse and all other equipment- no camera, no battery       1lb
+      Weight of NexS/6/7 camera                                           1.7Slbs
+      Weight of Canon SD camera
+      Max Battery Weight with ZenmusefNex Camera:                          9.5lbs
+      Max Battery Weight with ZenmusefCanon SD:                              9lbs
+
+Flight Times using 90% of battery:
+
+                                    16,000 mah battery Nex 7:  17min
+                                    20,000 mah battery Nex 7:  20 min
+                                    32,000 mah battery Nex 7:  22 min
+
+Flight times using the Canon SD or other cameras similar in weight will reduce the flight times by
+about 1 minute. These times are averages. An operator may get longer or shorter flight times
+based on weight and flying style.
+           DJI S-1000 Plus
+
+                                 CHECKLISTS
+
+     DJI S-1000 PLUS BENCH SET UP & TESTS
+            o All screws/bolts are tight
+            o Timer alarm for flight time to not exceed 80% battery capacity set properly
+            o Batteries are secure
+            o Antennas are secure
+            o Props balanced
+            o Props aligned
+            o Props not chipped
+            o Check blades, arms, etc. for cracks/damage
+            o Wiring Tight
+            o No excessive flexing of motors or booms
+            o Boomsjmotors will not twist
+            o Center of gravity is correct
+            o Warning lights set for low battery if used
+            o Batteries charged. Replace any battery which cycles below 80% of rated capacity
+                      · Laptop Battery
+                      · Flight Battery
+                      · Copter RC Transmitter Battery
+                      · Video RC Transmitter Battery
+                      · Spare Laptop Battery
+
+   i
+
+./
+DJI S-1000 PLUS INVENTORY CHECKLIST
+     o Load Flight plan
+     o Aircraft
+     o Camera with SD card
+     o Spare parts/tools
+     o Spare batteries
+     o Two RC transmitters (Copter & Video)
+     o Laptop
+     o Battery Charger
+     o Flight Controller Cable
+     o Video monitor, stand, battery, antennas
+
+     o Datalink & cable
+1 DJI S-1000 PLUS PREFLIGHT CHECKLIST
+
+I o Determine emergency flight plan and alternate landing zones avoiding power lines and
+                    obstacles
+
+               o Check wind direction
+               o Set a perimeter of 500 feet- area must be clear of non-participants
+               o All antennas installed and all pointing in correct directions
+               o Engage GCS, monitor, laptop, etc. (bring up flight plan)
+
+            o Remove lens cap I Clean lens
+
+               o Camera On
+               o Ensure camera has SD card installed.
+               o Check battery voltage
+               o Install battery on copter.
+                o Check center of gravity
+                o Level copter with front pointing in correct direction for course lock- do not turn on
+                o Copter RC Transmitter- Set switches- Throttle Down, Return to Home switch Off, Manual
+
+                    Flight Mode
+                o Switch On, Flight Path Switch Off- Not Course or Home Lock
+                o Copter Transmitter On
+                o Check Model Selection on Tx
+                o Check Tx battery voltage (above 7.4v)
+                o On PhVideo Tx- set switches- HDMI switch Off, Freestyle switch On
+                o Video Transmitter On
+                o Check Model Selection on Tx
+                o Check Video Tx battery voltage (above 7.4v)
+                o Plug in battery black lead first.
+                o Calibrate GPS/Compass if necessary
+                o If calibrated, cycle battery with correct heading for course lock.
+                o Do not touch the Copter until 30 seconds after full GPS Lock. Initial 3 red blinks is
+
+                    normal meaning no GPS lock. Wait until no flashes. Continue with checklist.
+                o Check Copter Voltage from GCS
+                o Engage Attitude Mode- Must Achieve Double Amber Flash
+                o Engage GPS Mode- Must Achieve Double Purple Flash
+
+     \
+
+   J o While in GPS mode engage "Course Lock" mode. Must achieve green Flash
+o Do not engage motors. Set throttle to center position. Must achieve single amber flash in
+    Attitude Mode and single purple flash in GPS mode
+
+o HDMI switch On (video on camera itself should go off)
+o Freestyle switch On (FPV Off)
+o Verify camera operation (If problems, check Drive Mode- Remote Cmdr must be "on",
+
+    manual focus, intelligent auto)
+
+o Verify data link if installed - rolling copter manually should change gauges
+o Upload flight plan
+o Verify altitude is about 0 via gauge on computerjGCS/video monitor
+o Timers set properly
+~\ TAKEOFF CHECKLIST
+) o Engage GPS mode - Double purple flash
+
+               o Engage Course Lock mode (double green flash)
+               o Announce loudly: "CLEAR PROP"
+               o Position the sticks in the lower left hand corners, then immediately raise the throttle 2
+
+                    clicks, and center the right stick.
+               o Advance throttle to 1/4 power for 5 seconds. Assure all motors are operating.
+
+               o Verify that left/right and forward/back stick movement engages the proper motors
+               o Verify data and video links are still operational
+               o Announce loudly: "TAKING OFF"
+               o Advance throttle to full. Copter must jump off of the ground.
+               o Ascend to 10 feet. Center throttle stick. Should be single green flash. Verify wireless
+
+                    link, GPS hold, camera operation, gauges, etc. are working properly.
+
+               o Verify course lock is operational by rotating 90 degrees and pushing forward on stick.
+               o Verify copter stability. If unstable, land and reset gains, recalibrate, or retest as
+
+                    necessary.
+
+               o Raise landing gear
+               o Proceed with manual mission
+               o For autopilot operation
+
+                         · Ascend to 30 feet manually
+                         · Engage autopilot
+               o PIC/VO must monitor the informational LED and be ready to take over in manual
+                    mode when necessary.
+               o PIC to request copter flight battery voltage readout from camera operator
+                    periodically.
+   QUICK PREFLIGHT CHECKLIST
+            o Landing zone clear
+            o Level copter with correct heading
+            o Battery 4.1 +full, 3.8 depleted
+            o Camera on. SD card in.
+            o Both TX on
+            o Copter on
+            o Check GPS and Course lock checks
+            o Video check
+            o Photo check
+            o Timers ready
+            o Takeoff
+            o Raise Landing Gear
+            o Unplug batteries upon landing
+
+)
+    ERROR MESSAGES
+
+             o White flashes
+                       · IMU malfunction. Land and determine cause. Possibilities:
+
+                                · GPS/Compass not pointing forward
+
+                                · IMU not pointing forward
+
+                                · Set up of X, Y, Z for location of IMU and Compass is incorrect
+
+              o Excessive rocking/instability possible causes:
+
+                   · Weak motor
+                   · Structure flexing from fatigue or cracks
+
+                      · Motor mount
+                      · Main frame
+                      · Booms
+
+                   · Loose Bolts causing flexing or misalignment
+
+                      · Props
+                      · Mounts
+
+\. · Props out of balance
+) · Props misaligned
+
+                   · Excessive wind speeds or gusts
+                   · Excessive Gains
+
+                       · Excessive motor power. Max motor power must be a little more than typical
+                           ascent power.
+
+              o Red Flashes (1, 2 or 3 flashes with pauses) - GPS loss (3 is more serious). Land if loss
+                  lasts for more than 30 seconds. Possible causes:
+                       · Clouds
+
+                       · Structures
+
+                       · GPS mal-function
+
+                       · GPS too close to electrical components
+                       · GPS vibration
+    LANDING CHECKLIST
+              o Landing area clear
+              o Lower landing gear
+              o Note obstacles in flightpath
+              o Announce loudly: "LANDING"
+              o First cut power to the aircraft
+              o Note elapsed time of flight
+              o Adjust any parameters (camera servo speed, exponential, etc)
+              o Turn power off to transmitters, camera, goggles, monitors, Rxs, etc.
+              o Touch motors to verify temperatures are similar
+              o Complete flight log
+
+                     · Date and time of flight
+
+                   · Batteries used
+                   · Time of Flight
+
+\
+)
+TABLE OF CONTENTS
+    · Section 1: General
+    · Section 2: Limitations
+    · Section 3: Emergency Procedures
+    · Section 4: Normal Procedures
+    · Section 5: Performance
+    · Section 6: Weight and Balance/Equipment List
+    · Section 7: Air Vehicle and Systems Description
+    · Section 8: Handling, Service and Maintenance
+    · Section 9: Supplements
+                                                SECTION 1
+                                                 GENERAL
+
+NOTE: In an effort to minimize costs and maximize spare parts availability, many COTS
+(commercial off the shelf) components have been utilized. Some may have slight modifications to
+better suit this application. Most COTS products have separate data sheets, assembly manuals and
+instruction manuals. They are reference in this document, with key factors being emphasized.
+
+As with all high technology products utilizing constantly evolving software, it is important to
+periodically check for online upgrades to the COTS components, including hardware, firmware
+and software.
+
+WARNING: Great care must be taken with the batteries. Much of this manual and supplemental
+information is devoted to the use and care of the batteries, especially the flight batteries. They are
+less volatile than gasoline, though they should be treated with the same respect. Become very
+familiar with proper techniques of their use.
+
+GENERAL CHARACTERISTICS
+         o Primarily for ISR (Intelligence, Surveillance, and Reconnaissance)
+         o Economical due to extensive use of COTS products
+         o Low Visual Signature
+         o Low Aural Signature
+         o Quick Launch and Recovery
+         o Short Training Period
+         o Simple Operation
+         o Waypoint Navigation
+         o Backpackable
+         o VTOL
+         o Quick Repairs
+         o Redundant Flight Systems
+         o Safety Return to Home during lost link or low battery
+         o High Degree of Mission Success
+         o GPS navigation aid
+         o Various sensors
+         o 24lb max takeoffweight
+         o Operating Temp Range: -5°C to +60°C
+         o Flight Modes: Manual and GPS aided waypoint navigation
+             o Maximum Operating Altitude: 1000 meters
+             o Maximum Operation Wind Conditions: 10 mjs
+             o Propulsion System: LiPoly batteries
+             o Takeoff: Manual or Automatic
+             o Landing: Manual or Automatic
+             o Takeoff/Recovery Area: 5m square
+
+    IMPORTANT DIMENSIONS
+              o Distance rotor to rotor across the center: 41"
+              o Height with GPS/Compass folded down: 21"
+              o Height with GPS/Compass up: 25"
+              o Length of landing gear skids: 18"
+              o Distance between landing gear skids: 21"
+
+    IMPORTANT WEIGHTS
+              o Weight including Nex 7 camera, Zenmuse gimbal, A2 autopilot system, landing gear,
+
+) data transceiver, RC transceiver, video transmitter, regulators and all wiring-
+
+                  everything except battery: 13.4lbs
+              o Maximum TakeoffWeight: 24lbs
+              o Battery Weight: up to 9.5 lbs with Nex camera and Zenmuse Gimbal
+
+    MOTORS
+              o Manufacturer: DJI-Innovations
+              o Number of motors: 8
+              o Motor type: 41mm x 14mm
+              o Motor Model Number: 4114-11
+              o Motor KV/RPM: 400
+              o Motor max@ 25.2V: 10,000 rpm
+              o Motor Max Power: 500 Watts
+              o Power rating: 4000 Watts maximum power consumption for all8 motors
+              o Current Max: 100 amps
+              o Amp Draw Typical Average: 65 amps
+     PROPELLERS
+               o Manufacturer: DJI-Innovations
+               o Material: Composite
+               o Number of propellers: 8
+               o Propeller model number: DJI 15 x 5.2
+               o Number of blades: 2- folding
+               o Propeller Diameter: 15"
+               o Propeller Pitch (fixed): 5.2"
+               o Max rpm: 10,000 rpm
+
+      ELECTRONIC SPEED CONTROLS
+               o Manufacturer: DJI-Innovations
+               o Number of speed controls: 8
+               o Speed control model number: DJI 40A Opto
+               o Rating in amps: 40 Amps continuous
+               o Signal Frequency: 30- 450Hz
+
+) o Drive PWM Frequency: 8 KHz
+
+     AUTOPILOT
+               o Manufacturer: DJI-Innovations
+               o Autopilot Model Number: DJI A2
+               o Components: GPS/Compass, IMU, Master Controller, Power Distribution System, LED
+                   Indicator Lighting System, Data Transceiver, GCS Software
+               o Power Consumption: SW
+               o Operating Temp Range: -5°C to +60°C
+
+            o Software Compatible: Windows XP sp3 I Windows 7
+
+               o Hovering Accuracy: Vertical:± O.Sm; Horizontal:± 2m
+\. WIRELESS LINKS
+            o Distributor: DJI-Innovations
+            o Frequencies:
+                     · 2.4 Ghz datalink with WiFi
+                     · 2.4 Ghz Command & Control
+                     · 5.8 Ghz Video
+            o Power Consumption: 1 watt
+            o Usable Range: Less than 2 km.
+
+   FUEL/FLIGHT BATTERY
+            o Manufacturers: Various COTS suppliers
+            o Battery chemistry recommended: Lithium Polymer
+            o Battery Capacity: 16,000 - 42,000 mah
+            o Battery cell count required: 6S (6 cells in series)
+            o Battery Voltage: 21 V minimum during hover, 22.2V nominal, 25.2V maximum
+            o Battery Minimum Rated Discharge Rate: 20C minimum
+
+')\ o Battery Minimum Charge Rate: 1C (3C preferable)
+            o Battery Rest Time between discharging and charging: 0-30 minutes
+            o Batteries used simultaneously: 1-4
+            o Recommended Battery Discharge Amount: 80-90%
+
+   FLIGHT PARAMETERS
+            o Flight Time: up to 30 minutes
+            o Payload Max: 11lbs
+            o Power Consumption in a Hover at 21lb takeoffweight: 1500 Watts, 65 amps
+   WARNINGS
+
+   o Never power a video transmitter or receiver without an antenna connected or overload
+       failure will occur.
+
+   o Read all information regarding batteries contained in this manual and supplements.
+
+   o Batteries are highly flammable and can explode, especially when fully charged.
+       Improper charging, vibration, impact, high discharge, etc. can lead to explosion and fire.
+       Batteries must be charged under constant supervision and using proper precautions.
+
+   o Batteries fully charged must be handled with extreme care.
+
+   o Store batteries between 20%- 50% charged state. Fully charge just before use.
+
+   o Fully charged batteries which are not to be used within 24 hours should be discharged
+       to 20%- 50% charged state.
+
+   o Discharging LiPoly batteries in excess of 80% of their rated capacity can cause harm to
+       the batteries.
+
+   o Using more than one battery at a time requires the proper wiring harness so that the
+       voltage is no more than 25.2V. Over voltage will cause serious damage to electrical
+       equipment.
+
+   o Using more than one battery at a time requires weight and balance checks. Proper CG is
+       critical to performance. Airframe must not be overloaded.
+
+\  o Propellers must be balanced to avoid excessive vibration.
+
+)
+
+   o GPS/Compass must be facing forward.
+
+   o Do not use GPS Mode without GPS lock.
+
+   o Use low strength thread locking compound on all screws.
+
+   o Wireless Video and Data ranges vary considerably on many factors including weather,
+       equipment, and obstructions. Be prepared for com failures.
+
+)
+                                                   SECTION 2
+                                                LIMITATIONS
+
+  AIRSPEED LIMITATIONS
+           o Vne- Velocity to Never Exceed: 15 mjs
+           o Va- Typical Maneuvering Speed: 5 mjs
+
+  POWER & POWERPLANT LIMITATIONS
+            o 40 Amps max per motor
+            o 40 Amps max per speed control
+            o 320 Amps max total
+            o Do not exceed 80-90% discharge of rated battery capacity
+            o Do not charge batteries which are warmer than air temperature
+            o Allow batteries to cool after use before charging
+            o Leave an air gap between batteries when multiple batteries are used simultaneously
+
+\. WEIGHT LIMITS
+
+)
+
+            o TakeoffWeight Max: 24lbs
+                     · Must be checked prior to takeoff if any change in equipment is made
+
+  CENTER OF GRAVITY LIMITS
+            o 3mm from the center of any of the three pairs of arms
+                     · Must be checked before every flight to ensure batteries were installed in the
+                          proper location.
+                     · Check all 4 pairs of arms before flight
+
+  MANEUVER LIMITS
+            o This aircraft is intended for non-aerobatic operations
+            o G-loading maximum: 2G
+)
+
+  TEMPERATURE LIMITS
+            o Operating Temp Range: -10°C to +40°C
+            o In cold temperatures
+                     · Keep IMU at room temperature if possible before the flight
+
+               · Keep Batteries above soc before flight
+
+                     · Do not fly with any frost or ice on the propellers
+            o In warm temperatures
+
+                     · Batteries heat up when discharged
+
+                 · The higher the discharge rate the higher the temperature increase during use
+                 · At temperatures above 45°C, use of 2 or more batteries is required to lower the
+
+                         load on any one battery pack to keep it cooler.
+
+  WEATHER LIMITS
+            o Light dust and light rain require the use of a shield for the electronics in the center
+                section.
+
+\ o Light dust and light rain are acceptable for the unshielded motor and ESC.
+)
+
+  RANGE LIMITS
+            o FUEL
+                     · Fuel capacity is a primary limiting factor.
+                     · Flying into the wind will use more battery power to travel the same ground
+                         distance. Higher air speeds will be required to penetrate the wind which used
+                         more battery power. Take this into account when flying a mission.
+                     · Where possible, fly upwind at the start of a mission and downwind at the end to
+                         avoid depleting the battery before returning to base. Have alternative landing
+                         sites available in case of emergency landing.
+            o WIRELESS LINK
+
+                 · Wireless links will be stable in LOS (line of sight) in most conditions
+                 · Wireless links are always susceptible to shorter ranges due to
+
+                              · Atmospheric conditions
+                              · Other transmission devices in the area
+                              · Jamming
+                              · Antennas not aligned properly
+                              · Improper voltage
+
+J
+
+                              · Antenna blockage from Aerial Vehicle (AV) in certain positions
+                              · Multipath- reflection off buildings or ground which cause multiple
+
+                                   signals to arrive at different times and/or phase.
+
+)
+                                              SECTION 3
+                                    EMERGENCY PROCEDURES
+
+   MOTOR FAILURE
+
+            o Operation is possible with one motor/ESC/propeller failure
+
+                     · The two adjacent motors/ESCs will be increased in thrust automatically by the
+                          flight controller to overcome the loss
+
+                     · In cases where the airframe is highly loaded the maximum rating of 40 amps
+                          may be exceeded by these two motors/ESCs
+
+                     · Operation should be terminated as soon as possible to reduce the possibility of
+                          damage to the remaining motors
+
+   COMMUNICATION FAlLURE
+
+            o Video link failure
+
+                     · 5.8 Ghz being the shortest wavelength in general AV use has the least ability to
+                          penetrate. This link should be the first to be lost.
+
+                     · It is best to lose video first! It is the least likely to cause a crash when it fails.
+                          5.8 Ghz can lose link with little warning.
+
+) · Ensure that the GCS station antennas are perpendicular to the AV. Do not point
+
+                          the antenna at the AV.
+
+                     · Yaw the AV to change the antenna position
+
+                     · Other links should still be good. Return back to the GCS until link is restored.
+                          Transmitters produce heat when in operation. When overheated they may have
+                          thermal protection which interrupts use temporarily. Use of a heat sink or fan
+                          may be required especially with high ambient temperatures.
+
+                     · Higher gain antennas may be used, but do so with caution. High gain antennas
+                          are directional.
+
+                     · Multiple antennas using "diversity" can be used. Diversity is a device which
+                          determines the best signal, and uses that.
+
+                     · 5.8 Ghz even at high wattages theoretically has less range than lower
+                          frequencies. Changing to 1.3 Ghz is an option, though there are other issues to be
+                          considered.
+
+            o RC link failure
+
+                     · 2.4 Ghz antennas can lose link with little warning.
+
+                     · Anything in between the two antennas can cause temporary signal loss
+                          especially a person.
+                       · Hold the transmitter up in the air and walk in the general direction of the AV.
+
+                       · Ensure that the antenna is vertical. Do not point the antenna at the AV.
+
+                       · The failsafes on the RC link should be set so that the AV returns to home. Should
+                           this require a heading change, the antenna may move into a more desirable
+                           position and link will be restored.
+
+                       · The onboard equipment may block the signal. Yaw the AV so that the antennas
+                           point towards the GCS.
+
+                       · A LRS (long range system) can be used as a permanent solution. This is higher in
+                           wattage and usually on 43 3 Mhz.
+
+              Data Link Failure
+                       · 900 Mhz do not lose link without some warning. When drop outs are noticed to
+                           increase in frequency that is the limit of the range.
+
+                       · If using 900 Mhz, this is on cell phone frequency. If a cell tower is nearby it can
+                           swamp the signal. 900 Mhz may not be usable in that area. Change to a different
+                           freq. or remain closer to the AV
+
+               LOW BATTERY POWER
+
+.\
+
+ ) · Fail-safes can be set such that in the event of low battery power, either due to a
+                           failure or too long of a flight, the warning light on the AV will constantly flash
+                           amber. This is the first level of warning.
+
+                       · The second warning level is red flashing lights
+
+                       · Auto landing will occur when battery power is low. It may land in a tree or a
+                           lake, so this is not desirable.
+
+                       · Landing with 80-90% of battery depleted is best. Therefore landing with 17,000
+                           mah used and 3,000 mah remaining of a 20,000 mah battery is desirable.
+                           Batteries should be drawn down equally when in use if they are both charged
+                           equally and both in relatively the same condition/age.
+
+                       · Do not mix partially charged batteries. Only use completely charged batteries.
+
+                       · Over discharging a battery below 19.8V can permanently damage the battery.
+\ GCS FAILURE
+
+)
+
+                     · Takeover by the external pilot should happen ASAP using the RC link.
+                     · Most often happens due to a low battery.
+                     · Keep a spare 3 cell LiPoly battery with the appropriate plug to plug into the
+
+                          charge jack for emergency use. Most chargers are 19V output which is roughly
+                          equivalent to a 4-cell battery. 3-cell batteries may work.
+
+            COMPASS CALIBRATION ERROR
+                     · Ifthe compass is out of calibration the warning light will flash red. This is the
+                          same signal as low voltage. If the voltage is correct, there is a calibration error.
+                     · Recalibrate the compass following the instruction manual
+
+            FIRE
+                     · Fires can occur due to a short circuit or battery failure.
+                     · Disconnect the battery ASAP unless there is danger in doing so if there is any
+                          electrical issue.
+                     · It is not possible to put out a battery fire.
+                     · Do not attempt to put out a battery fire. Use a fire extinguisher to put out fires
+                          surrounding the battery. A C02 fire extinguisher is better than the powder or
+                          chemical type. C02 does not leave a residue. Water can be used though it may
+                          cause other electrical component failures.
+
+            FORCED LANDINGS
+                     · If alternate emergency landing zones should be chosen ahead of time.
+                     · Be sure that the LZ is clear of people to avoid any incidents.
+                     · Land in the nearest LZ which is clear of people.
+                     · Announce your intentions of landing as loud as necessary to alert people of the
+                          incoming AV.
+                                                SECTION 4
+                                        SET UP SUGGESTIONS
+
+ELECTRONICS BURN IN
+
+         o We recommend that you put weights onto the landing skids to keep the copter on the
+             ground and run the copter at about 70% throttle for about 2 hours to burn in the
+             electronics. Most electronic failures occur in the first 2 hours of operation.
+
+GPS/COMPASS MAST LENGTH
+
+        o We found that the higher the mast, the better the GPS reception
+
+Nex5N vs. Nex7 vs. Canon 50 vs. Panasonic GH3
+
+         o These cameras are excellent for stills, and very good for video. The best for video is the
+              Panasonic GH4 with 4k capabilities.
+
+         o We found that the Nex SN takes exceptional quality stills and video, though most
+             professionals use the Nex 7. The Canon SD is better than the Nex7 due to its larger
+             sensor.
+
+         o Use the Panasonic GH4 if you primarily shoot video
+
+RADIO SETUP
+
+         o Follow the instructions in the manual
+         o We prefer the switch assignment as shown in the checklists above though feel free to
+
+             modify to your liking
+
+COPTER COMMAND AND CONTROL
+
+         o We recommend the use of a dual rate switch for main copter operation.
+                  · High rate - used to initialize the motors. The flight controller will not engage
+                       unless it sees full down throttle, full left rudder, full left cyclic and full back
+                       cyclic. However, these may be too high for normal flying. On high rate it is helpful
+                       to utilize fairly high exponential to make the stick feel soft around center. Adjust
+                       to your preference.
+                  · Low rate - used for typical flying. Set the end point adjustments such that full
+                       stick deflection offers the maximum speed required in normal flying. If
+                       conditions require higher flight speeds, switch to high rate. On low rate it is also
+                       helpful to utilize a small amount of exponential to make the stick feel soft around
+                       center. Adjust to your preference.
+    ZENMUSE COMMAND AND CONTROL
+             o We recommend the use of a dual rate switch for gimbal operation.
+                      · High rate - used to initialize the gimbal. The gimbal may not engage unless it
+                           sees full motion. However, these may be too high for shooting video smoothly.
+                           This is best for still photography so as to put the camera on target quickly. On
+                           high rate it is helpful to utilize fairly high exponential to make the stick feel soft
+                           around center. Adjust to your preference.
+                      · Low rate- used for videography. Set the end point adjustments such that full
+                           stick deflection offers the maximum speed required for videography. If
+                           conditions require higher gimbal speeds, switch to high rate. On low rate it is
+                           also helpful to utilize a small amount of exponential to make the stick feel soft
+                           around center. Adjust to your preference.
+
+    TIMERS
+             o Use of the countdown timer is a good backup method to ensure landing with battery
+                 power.
+                      · Set the timer for 20 minutes (or what you deem appropriate) and have it start
+                           when the throttle is over 1/4. Then adjust the timer upwards until the amount of
+                           battery used is about 80-90% of the total available. If using 20,000 mah
+                           batteries, a total of 17,000 mah would be the target. Set the timer such that you
+                           have a minute or so to land after the alarm sounds so that you have adequate
+
+) time to return to base. Adjust to your preference.
+
+    BATTERIES
+             o Replace the transmitter standard battery with a Lipoly battery to extend use times to 8
+                  hours. Supplied batteries often last about 2 hours.
+
+  )
+         . \ NORMAL PROCEDURES
+                  }
+
+               PREFLIGHT CHECKLIST
+
+                        o Confirm all communication radios are operational
+
+"'
+
+                                 · Radios with others in the group
+
+                        o Set a perimeter of 500 feet
+                                 · Area must be clear of people to avoid collision
+
+                        o Check for overhead power lines and other obstacles to avoid
+
+                        o Check structural integrity
+                                 · In event of prior crash, inspect all booms, props and motor mounts for excessive
+                                      flex indicating structural fatigue/failure
+
+                        o Have a manual flight plan avoiding obstacles.
+
+                        o Load auto flight plan if using one
+                                · Be sure that the total flight time is under 15 minutes to avoid low battery
+
+                        o Clean lens
+
+                              · Remove lens cap
+
+                        o Ensure camera has SD card installed
+
+                        o Install batteries
+                                 · Ensure that the straps are tight and the Velcro keeps the batteries from moving
+                                      which will avoid a shift in the CG (Center of Gravity- or that it balances evenly)
+
+                        o Check CG (Center of Gravity)
+
+                                 · Lift the copter on each of the 3 pairs of arms. The copter should balance
+                                     properly. If not, do not fly. Rearrange the equipment to achieve proper
+                                      CG
+
+                        o IMU pointing forward
+                                 · The Inertial Measurement Unit is set so that it must face forward
+
+                        o GPS/Compass installed, limited free play, pointing forward
+                                 · This device must be installed with a screw to hold it in place. It cannot vibrate
+                                      easily. If it does not point forward, the corrections in ATTI and GPS mode will be
+                                      incorrect and it will crash. The FC will provide a warning with constant flashing
+                                      white lights.
+
+                        o Level copter using a bubble level with front pointing in correct direction for course lock
+                             - do not turn on
+
+                                 · Keep in mind the best angle for pointing the landing gear in the direction that
+            ./ will keep the landing gear out of the shot when flying.
+            o Turn on Pilot Tx
+
+            o If using the rate gyro, set it at the correct position. This is usually a slider switch. Gains
+                should have the range set from 200- 350. Use the highest gain possible which does not
+                cause oscillation.
+
+            o Check Model Selection on Tx to be S1000
+
+            o Throttle on Tx Down
+
+            o Return to Home switch Off
+
+            o Adjust gain to correct position (if required)
+
+            o Manual Flight Mode Switch to manual (notATTl or GPS mode)
+
+            o Flight Path Switch Off- Not Course or Home or POI
+
+            o Check Tx battery voltage (above 7.5v)
+
+                     · These settings above are required to initialize the copter properly. If the
+                         switches are in the incorrect position, it will not initialize properly which may
+                         cause some of the functions like course lock or GPS mode to not operate
+                          properly.
+
+                     · If the copter does not function properly after takeoff, land immediately and
+                          disconnect the copter power. Then put all the switches in the proper position for
+                         initialization and turn the power back on to the copter.
+
+\
+
+) o Count down timer should be set to 20 minutes. This can be adjusted to your flying style.
+                The timer should engage at 1/4 throttle and trigger an alarm at the proper time. This is
+                a backup alarm in case the indicator lights on the copter are not visible.
+
+            o Turn on Video Tx
+
+            o Check Model Selection on Tx- should read Zenmuse
+
+            o Check Tx battery voltage (above 7.5v)
+
+            o HDMI switch Off
+
+            o Freestyle switch Off (FPV On)
+
+                     · These settings above are required to initialize the Zenmuse properly. If the
+                          switches are in the incorrect position, it will not initialize properly which may
+                          cause some of the functions like live video or gimbal operation to not operate
+                          properly.
+
+                     · If the camera or gimbal do not function properly, disconnect the copter power.
+                         Then put all the switches in the proper position for initialization and turn the
+                          power back on to the copter.
+
+            o Engage power to copter
+
+                     · Plug in the battery pack
+                   · 6 quick chirps should be heard confirming 6S LiPoly batteries are recognized by
+
+                         the ESCs.
+
+                              · Hearing less than 6 chirps indicates fewer cell battery packs are being
+                                  recognized which is incorrect. Check for improper or damaged batteries.
+
+           o Do not move or vibrate the copter until 30 seconds after full GPS Lock
+
+                     · Initial 3 red blinks is normal meaning no GPS lock. No red flashes indicates full
+                         GPS lock.
+
+                     · Continue with checklist as you are waiting for full GPS lock, but do not move the
+                         copter.
+
+                     · Ifthe GPS takes more than 5 minutes to lock, there is a problem with the area. It
+                         is not receiving the proper signals from the satellites. GPS signals are weak, so
+                         trees, people, buildings, terrain, weather, have an effect. Move the copter into a
+                         more open area where it can more easily see the satellites.
+
+           o Check Copter Voltage from both Tx's (transmitters)
+
+                     · The transmitters receive a signal from the corresponding receivers. The voltages
+                         are regulated to about Sv. If the voltage is below 4.4v or above 6v do not fly.
+                         There may be power regulation issues. The receivers cannot work outside this
+                         voltage consistently. Also there is some issue if the voltage is outside that range
+                         which should be resolved before flying.
+
+\ o Engage Attitude Mode- Must achieve double amber flash
+
+           o Engage GPS Mode- Must achieve double purple flash
+
+           o Engage course cock mode- Must achieve double green flash
+
+           o Disengage course lock mode. Must achieve double purple flash. Stay in this mode until
+                just prior to takeoff, after takeoff at any time, or do not use.
+
+           o Do not engage motors. Set throttle to center position. Must achieve single purple flash
+                when in GPS mode.
+
+                     · To verify that the sticks are all centered properly:
+
+                     · With throttle in the center position, use the trim buttons on the transmitter to
+                         check that the sticks are centered. Trim the roll (the stick located on the right
+                         side of the transmitter when moved to the right and left) to the right, counting
+                         the number of clicks until a double flash occurs. Then center the trim. Then move
+                         the trim to the left, counting the number of clicks until a double flash occurs. An
+                         equal number of clicks should be counted each side of center.
+
+                     · Do this check for the 3 stick movements other than throttle.
+
+                     · Center the trim such that when the stick is in the neutral position that there are
+                         equal numbers of clicks in each direction. This ensures that when the sticks are
+                         neutralized that the flight controller will recognize this signal and engage GPS
+                         mode.
+            \. o Calibrate GPS/Compass before the first flight each day or if receiving continuous red
+            ) blinks or continuous white blinks.
+
+                                 · Flip the GPS mode switch 7 times very quickly from manual to GPS. End with the
+                                      switch in the manual position. The indicator light will be blue. Rotate the copter
+
+l about 1.5 turns in a horizontal position. A green flashing light indicates that this
+                                      is complete. Then hold the copter vertically and rotate about 1.5 turns. A white
+                                      flashing light indicates that this is complete. Repeat if necessary until this is
+                                      completed.
+
+                        o After calibration, reset the copter by cycling battery with copter pointed in the correct
+                             heading for course lock
+
+                        o Engage Camera
+
+                        o HDMI switch On
+
+                                 · This will stop video from playing on the back of the camera and will send the
+                                      video signal to the video transmitter via the HDMI connection.
+
+                        o Freestyle switch On (FPV Off)
+
+                                 · This allows the camera to be operated freely through the transmitter
+
+                        o Verify camera operation
+
+                                 · Operate the shutter
+
+        ) · Set the focus to auto or manual. Manual setting is usually set to infinity to stop
+
+                                      constant focusing of the camera.
+
+                        o Verify data link if installed
+
+                                 · Roll the copter about 45 degrees on its side by lifting one side of the copter and
+                                      resting one side of the landing gear on the ground
+
+                                 · A corresponding roll should be seen on the gauge.
+
+                                 · If the copter is rolled to the right, it will appear on the gauge that the horizon
+                                      rolls to the left- not the right because the view from inside the copter is that the
+                                      horizon rolls the opposite direction of the copter.
+
+                        o Verify altitude is about 0 via gauge on computer
+
+                                 · If it is not about 0, the altitude settings for the waypoints will be off by this
+                                      amount. This could cause the copter to fly at 10 meters or 30 meters if the
+                                      waypoint is set for 20 meters and the altitude is off by 10 meters one way or
+                                      another. If the copter thinks it is at 10 meters when it is on the ground, then it
+                                      will only rise 10 meters above the ground to achieve what it believes it to be 20
+                                      meters above the ground.
+
+                                 · The altitude can be reset using the ground control software by going to altitude
+                                      offset.
+
+                        o Alternate Emergency Landing Sites Established
+NORMAL TAKEOFF
+
+         o Engage GPS mode- Double purple flash when the throttle is down.
+         o Switch to Course Lock flight mode if required. Purple flashes are replaced with green
+
+             flashes. Flying in course lock is not required, but helpful in many instances.
+
+         o Announce loudly: "CLEAR PROP"
+
+         o Move both of the sticks to the bottom left corners to engage the motors. Within 1
+             second move the throttle up 1/8- 1/4. The copter should not lift off until about 50%
+             stick is reached.
+
+         o Verify data and video links before lifting off. If anything is not working properly, move
+             the throttle stick to low to disengage the motors and determine a solution.
+
+         o If all flight checks are passed, announce loudly: "TAKING OFF"
+
+       o Advance throttle to about 3I 4. Copter must jump off of the ground to avoid one skid
+
+             coming up before the other skid, and the skid on the ground getting caught and flipping
+             the copter over sideways.
+
+         o Ascend to 3 meters. Then decrease throttle to 50% to engage the GPS hold.
+
+         o Verify links, GPS, Attitude, etc. Should be single purple flash.
+         o Verify that the copter is holding position within .5m in all directions.
+
+         o Verify camera operation
+
+         o Verify course lock is operational by rotating 90 degrees and pushing forward on stick
+         o Verify copter stability. If unstable, land and reset gains, recalibrate, or retest as
+
+             necessary.
+
+         o Proceed with manual mission or
+
+         o For autopilot operation
+                  · Ascend to 30 feet
+
+                  · Command aerial vehicle observer (AVO) to proceed with mission.
+
+                           · Pilot should say "It's yours"
+
+                           · Response from AVO "I have it"
+         o Manual pilot/observer must monitor the informational LED and be ready to take over
+
+             in manual mode when necessary.
+
+                  · White flashes indicates flight controller issue
+                  · Amber flashes indicates low battery
+
+                  · Red flashes indicate loss of GPS or severe battery condition
+
+                           · Quick decisions are required when red flashes are indicated
+
+                           · 10 seconds or more ofloss of GPS signal will stop waypoint guidance and
+                                any GPS hold and put into manual mode.
+\ · Red indicator light battery warning requires immediate landing
+
+)
+
+            o Manual pilot to request copter flight battery voltage readout from AVO periodically.
+                     · Reset the first and second indicator lights as required for your set up.
+
+                     · Also use the countdown timer on the transmitter. This gives a good indication of
+                          battery level because the current used is fairly constant from flight to flight.
+
+   POST LANDING
+            o Note flight time from transmitter. Write this down in the log book.
+            o Note battery power used during the flight. Write this down in the log book.
+            o ALWAYS disconnect the main power to the AV first, then turn off the transmitter.
+            o Check motor temperatures by touching them with your fingers. Any motors which are
+                 excessively hot should be further inspected and possibly replaced.
+            o Check battery temperatures by touching them with your fingers. Battery temperatures
+                 should not be hot to the touch. Battery temperatures should be slightly above ambient.
+            o Inspect all components especially the propellers for wear.
+            o Note in logbook which batteries were used to calculate life cycle.
+
+\
+
+ )
+
+   AIRCRAFT FLIGHT LOG BOOK
+            o Keep a log of all flights.
+
+                   · Date
+
+                  · Time of Day
+                  · Time in Operation (in hours)
+                  · Battery serial numbers
+                  · Mah used in flight
+                  · Location
+                  · Pilot, Observer, Sensor Operator Names
+                  · Flight Objective
+                  · Remarks
+AIRCRAFT MAINTENANCE LOG BOOK
+        o Keep a log of significant inspections, tests, repairs, alterations, equipment changes.
+                  · Date maintenance is performed
+                  · Accumulated hours of operation
+                  · Remarks
+
+PILOT LOG BOOK
+         o Keep a log of all flights. Include the following:
+
+               · Aircraft flown
+               · Aircraft serial number
+               · Date
+               · Time of Day
+               · Time in Operation (in hours)
+               · Location
+               · Flight Objective
+               · Remarks
+                                               SECTION 5
+                                            PERFORMANCE
+
+FLIGHT TIMES
+
+         o The AVis designed to hover at high efficiency. Hovering is much less efficient than
+             flying on a wing, thus flight times are low compared to fixed wing aircraft.
+
+         o All the weight of the AVis supported by power from the batteries. As the batteries are
+             used in a flight, the amount of power available decreases. Therefore the power reserve
+             is constantly decreasing as the battery is being used. Thus loading a rotorcraft above its
+             limit is not recommended. While the AV may have enough power to lift off initially on a
+             full charge, the power reserve at partial charge may be too low to allow for
+             maneuvering and will result in a crash.
+
+         o High lateral speeds will add lift to slightly improve efficiency. The rotors act similar to
+             fixed wings at higher speeds. This increase in efficiency may be negated by the
+             increased power consumption of forward flight.
+
+         o High winds or gusts decrease efficiency/flight time. The motors work harder to hold
+             position.
+
+         o As weight increases flight times decrease.
+
+WIRELESS TRANSMISSION
+
+         o Refer to the specific manuals for performance ratings.
+
+         o Wireless communications utilized provide acceptable communication for line of sight
+         (LOS).
+         o In general:
+
+                  · LOS is required
+
+                  · The higher the GCS antennas, the better the range
+
+                  · RSSI (Received Signal Strength Indication) should be monitored for indication of
+                       communication drop out.
+                                                SECTION 6
+                          WEIGHT AND BALANCE EQUIPMENT LIST
+
+Center of Gravity (CG)
+
+         o CG is critical to the efficient operation of any AV
+
+         o When components are shifted, the CG will be altered.
+         o The main components which are moved on a regular basis are the sensors and the
+
+             batteries.
+
+         o The sensors are typically in the front of the AV, and the batteries are located in the
+             correct position to offset all the components on the AV.
+
+         o The CG must be tested after any change to the components or their placement.
+
+         o The CG should be tested by lifting the UV with fingers on the bottom of the arms. Check
+             all4 pairs of arms. The CG should be no more than 2mm off in any on the 3 checks. The
+             closer the CG is to the centerlines of the arms the more efficient and the more stable the
+             AVwill be.
+
+WEIGHT
+
+         o Weight is critical to the operation of any aircraft
+         o Weight is especially critical to a rotor wing aircraft. At full throttle the motors have a
+
+             finite amount of thrust. All the weight is lifted by the battery power, there is no wing to
+             assist in providing lift.
+
+         o As the batteries are operated, they lose power. At full charge they have about 25v. At
+             20% remaining capacity they have about 21v. This is a loss of 8% of the power available
+             which is significant.
+
+         o Do not overload the aircraft or there will not be sufficient reserve power to maneuver
+             at low battery levels.
+                                                SECTION 7
+                          AIR VEHICLE AND SYSTEMS DESCRIPTION
+
+FUEL/BATTERY REQUIRED
+         o Manufacturers: Various COTS suppliers.
+         o Refer to manufacturer data sheet.
+         o Battery chemistry required: Lithium Polymer
+         o Battery Capacity: 16,000 mah (minimum)
+         o Battery cell count required: 6S (6 cells in series)
+         o Battery Voltage: 21 V minimum at hover, 22.2V nominal, 25.2V maximum
+         o Battery Minimum Rated Discharge Rate: 20C minimum
+         o Batteries used simultaneously: 1-4 typical
+         o Recommended Battery Discharge Amount: 80-90%
+
+WIRELESS COMMUNICATIONS
+         o Refer to the specific manuals for performance ratings.
+         o Never power a video transmitter or receiver without an antenna connected or overload
+             failure will occur.
+         o Wireless communications utilized provide acceptable communication for LOS.
+         o In general:
+                 o LOS is required.
+                 o Lower frequencies penetrate objects such as trees better than higher frequencies.
+                 o Lower frequencies have longer range than high frequencies
+                 o Higher frequencies can transfer more data than lower frequencies
+                 o Higher frequencies use smaller/shorter antennas
+             o The higher the GCS antennas, the better the range and reception
+         o Frequencies may have severe degradation due to location to other admitters such as
+             cell towers
+         o Range must be constantly monitored.
+         o Alternate antenna types may be utilized to improve link/range. Patch, helical, omni, etc.
+             can be substituted. They must be verified before use.
+         o Alternate frequencies may be utilized to improve link/range.
+                                                SECTION 8
+                           HANDLING, SERVICE AND MAINTENANCE
+
+PROPELLER CARE
+
+         o Propellers must be checked each flight for nicks or cracks
+         o Propellers are designed to last indefinitely if they do not impact dust, dirt or more.
+
+BATTERY CARE AND USE
+
+         o Refer to instruction sheet included from the battery manufacturer. Typical information
+             follows.
+
+         o Batteries are highly flammable and can explode, especially when fully charged.
+             Improper charging, vibration, impact, high discharge, etc. can lead to explosion and fire.
+             Batteries must be charged under constant supervision and using proper precautions.
+
+         o Batteries fully charged must be handled with extreme care.
+         o Any battery which puffs up is considered damaged and must not be used. It is in a
+
+             dangerous state. Never charge a puffed up battery.
+         o Any battery which holds less than 80% of its rated capacity should be discarded.
+         o Cycle test each battery after every 50 cycles or if a battery is suspected to have lost as
+
+             significant amount of its capacity to determine the current capacity.
+         o Properly dispose of batteries. First discharge the battery fully using a battery cycler.
+
+             Bring to a recycler such as a home improvement store.
+         o Always charge flight batteries under "balance" mode.
+         o Flight Battery Recommended Charge Rate: 1 C
+
+         o Flight Battery Maximum Charge Rate: May exceed SC. Charge rates higher than 1C will
+             decrease life cycles. Maximum charge rating per the manufacturer will provide 300+
+             cycles. Use the lowest charge rate which is practical.
+
+         o Battery Rest Time between discharging and charging: 30 minutes minimum, 1 hour
+             maximum.
+
+      o Do not charge if the battery is more than zoe warmer than ambient, especially if the
+         temperature is above zooc. The outer surface is cooler than the inner core after use.
+
+             Damage will occur when charging a warm battery.
+         o Recommended Battery Discharge Amount: 80%. Using more of the capacity of the
+
+             battery will decrease the life cycles
+         o As battery temperature approaches freezing the capacity of Lithium Polymer batteries
+
+         decrease. Keep warmer than soc before installing into the UV (unmanned vehicle).
+

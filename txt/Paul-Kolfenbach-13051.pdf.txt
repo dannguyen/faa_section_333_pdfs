@@ -1,0 +1,1990 @@
+October 1, 2015
+
+                                                           Exemption No. 13051
+                                                           Regulatory Docket No. FAA-2015-2789
+
+Mr. Paul Kolfenbach
+31926 Rosales Ave
+Murrieta, CA 92563
+
+Dear Mr. Kolfenbach:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter posted to the public docket on July 13, 2015, you petitioned the Federal Aviation
+Administration (FAA) for an exemption. You requested to operate an unmanned aircraft
+system (UAS) to conduct aerial photography, cinematography, videography, mapping, crop
+surveying, and inspections.
+
+See the docket, at www.regulations.gov, for the petition submitted to the FAA describing the
+proposed operations and the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner is a DJI Phantom 2 Vision+.
+
+In accordance with the statutory criteria provided in Section 333 of Public Law 112-95 in
+reference to 49 U.S.C. § 44704, and in consideration of the size, weight, speed, and limited
+operating area associated with the aircraft and its operation, the Secretary of Transportation
+has determined that this aircraft meets the conditions of Section 333. Therefore, the FAA
+finds that relief from 14 CFR part 21, Certification procedures for products and parts,
+                                                                                           2
+
+Subpart H--Airworthiness Certificates, and any associated noise certification and testing
+requirements of part 36, is not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection1. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+ They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+ The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+ A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, Mr. Paul Kolfenbach is granted an exemption from
+14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a), 91.7(a), 91.119(c),
+91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a) and (b), to
+the extent necessary to allow the petitioner to operate a UAS to perform aerial data collection.
+This exemption is subject to the conditions and limitations listed below.
+
+Conditions and Limitations
+
+In this grant of exemption, Mr. Paul Kolfenbach is hereafter referred to as the operator.
+
+1 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                                                 3
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+    1. Operations authorized by this grant of exemption are limited to the DJI Phantom 2
+         Vision+ when weighing less than 55 pounds including payload. Proposed operations
+         of any other aircraft will require a new petition or a petition to amend this exemption.
+
+    2. Operations for the purpose of closed-set motion picture and television filming are
+         not permitted.
+
+    3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+         exemption holder may use either groundspeed or calibrated airspeed to determine
+         compliance with the 87 knot speed restriction. In no case will the UA be operated at
+         airspeeds greater than the maximum UA operating airspeed recommended by the
+         aircraft manufacturer.
+
+    4. The UA must be operated at an altitude of no more than 400 feet above ground level
+         (AGL). Altitude must be reported in feet AGL.
+
+    5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+         This requires the PIC to be able to use human vision unaided by any device other than
+         corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+         U.S. driver's license.
+
+    6. All operations must utilize a visual observer (VO). The UA must be operated within
+         the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+         to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+         capability. The VO and PIC must be able to communicate verbally at all times;
+         electronic messaging or texting is not permitted during flight operations. The PIC
+         must be designated before the flight and cannot transfer his or her designation for the
+         duration of the flight. The PIC must ensure that the VO can perform the duties
+         required of the VO.
+
+    7. This exemption and all documents needed to operate the UAS and conduct its
+         operations in accordance with the conditions and limitations stated in this grant of
+         exemption, are hereinafter referred to as the operating documents. The operating
+         documents must be accessible during UAS operations and made available to the
+         Administrator upon request. If a discrepancy exists between the conditions and
+         limitations in this exemption and the procedures outlined in the operating documents,
+         the conditions and limitations herein take precedence and must be followed.
+         Otherwise, the operator must follow the procedures as outlined in its operating
+         documents. The operator may update or revise its operating documents. It is the
+         operator's responsibility to track such revisions and present updated and revised
+         documents to the Administrator or any law enforcement official upon request. The
+                                                                                                            4
+
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+                                                                                                            5
+
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least 5 minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+    exemption holder may apply for a new or amended COA if it intends to conduct
+    operations that cannot be conducted under the terms of the enclosed COA.
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+    be as large as practicable.
+                                                                                                               6
+
+   23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+       any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+       PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+       These documents must be made available to the Administrator or any law enforcement
+       official upon request.
+
+   24. The UA must remain clear and give way to all manned aviation operations and
+       activities at all times.
+
+   25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+   26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+       persons, vessels, vehicles, and structures unless:
+          a. Barriers or structures are present that sufficiently protect nonparticipating persons
+             from the UA and/or debris in the event of an accident. The operator must ensure
+             that nonparticipating persons remain under such protection. If a situation arises
+             where nonparticipating persons leave such protection and are within 500 feet of
+             the UA, flight operations must cease immediately in a manner ensuring the safety
+             of nonparticipating persons; and
+          b. The owner/controller of any vessels, vehicles or structures has granted permission
+             for operating closer to those objects and the PIC has made a safety assessment of
+             the risk of operating closer to those objects and determined that it does not
+             present an undue hazard.
+
+       The PIC, VO, operator trainees or essential persons are not considered
+       nonparticipating persons under this exemption.
+
+   27. All operations shall be conducted over private or controlled-access property with
+       permission from the property owner/controller or authorized representative.
+       Permission from property owner/controller or authorized representative will be
+       obtained for each flight to be conducted.
+
+   28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+       boundaries of the operational area as defined by the applicable COA must be reported
+       to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+       reported to the National Transportation Safety Board (NTSB) per instructions
+       contained on the NTSB Web site: www.ntsb.gov.
+
+If this exemption permits operations for the purpose of closed-set motion picture and
+television filming and production, the following additional conditions and limitations apply.
+
+   29. The operator must have a motion picture and television operations manual (MPTOM)
+       as documented in this grant of exemption.
+                                                                                                                 7
+
+    30. At least 3 days before aerial filming, the operator of the UAS affected by this
+         exemption must submit a written Plan of Activities to the local Flight Standards
+         District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+         notification may be waived with the concurrence of the FSDO. The plan of activities
+         must include at least the following:
+           a. Dates and times for all flights;
+           b. Name and phone number of the operator for the UAS aerial filming conducted
+              under this grant of exemption;
+           c. Name and phone number of the person responsible for the on-scene operation of
+              the UAS;
+           d. Make, model, and serial or N-Number of UAS to be used;
+           e. Name and certificate number of UAS PICs involved in the aerial filming;
+           f. A statement that the operator has obtained permission from property owners
+              and/or local officials to conduct the filming production event; the list of those
+              who gave permission must be made available to the inspector upon request;
+           g. Signature of exemption holder or representative; and
+           h. A description of the flight activity, including maps or diagrams of any area, city,
+              town, county, and/or state over which filming will be conducted and the altitudes
+              essential to accomplish the operation.
+
+    31. Flight operations may be conducted closer than 500 feet from participating persons
+         consenting to be involved and necessary for the filming production, as specified in the
+         exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+
+This exemption terminates on October 31, 2017, unless sooner superseded or rescinded.
+
+Sincerely,
+
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosure
+Paul Kolfenbach                                                i __.,,
+31926 Rosales Ave
+Murrieta, CA. 92563                                                     . ;.)
+Cell347-840-0581
+Email: blackhawkmanagement(q),hotmail.com
+
+U.S. Department of Transportation
+Docket Management System
+1200 New Jersey Ave; SE
+Washington, DC. 20590
+
+RE: Exemption Request Section 333 ofthe FAA Reform Act of2012
+
+Attachments: 1) Phantom 2 Vision+ Owners Manual V1.6
+                  2) Phantom 2 Quick Start Manual V1.7
+                  3) Phantom 2 Flying Flowchart V1.0
+
+References: 1) FAA Exemption No. 11138, Regulatory Docket No. FAA-2014-0481 in
+                   the matter of the petition of DOUGLAS TRUDEAU.
+                    2) FAA Exemption No. 11136, Regulatory Docket No. FAA-2014-0508 in
+                    the matter of the petition of ADVANCED AVIATION SOLUTITIONS LLC.
+                  3) FAA Exemption No. 11080, Regulatory Docket No. FAA- 2014-0355 in
+                      the matter ofthe petition ofFLYING CAM INC.
+                  4) FAA Exemption No. 11405, Regulatory Docket No. FAA-2015-0118 in
+                      The matter of the petition of BRIAN CHERRY.
+
+Dear Sir or Madam,
+
+In accordance with the FAA's Guidelines for Submitting a Petition for Exemption under
+Section 333 of the FAA Modernization and Reform Act of2012, I Paul Kolfenbach, referred to
+hereafter
+as the petitioner, request exemption from the following sections ofTitle 14, Code of Federal
+Regulations §§
+61.113(a); 61.113(b); 91.119(c); 91.121; 91.151(a); 91.405(a); 91.407(a); 91.409(a);
+91.409(a)(2);
+91.417(a) & (b);
+
+In order to operate small unmanned aircraft systems (UAS) commercially in airspace regulated
+by the Federal Aviation Agency (FAA) for the purposes of aerial photography, cinematography,
+Videography, mapping, crop surveying, inspections and other flight operations that could be
+Performed safely and more cost effectively with the use of small UAS at low altitude within the
+U.S. national airspace system as compared to a manned aircraft. Operations will be performed
+only at the request of and with the authorization and permission of clients or their authorized
+agents in order to facilitate commerce and raise awareness of the beneficial uses of small
+unmanned air systems. So long as such operations are conducted within and under the conditions ·
+ outlined herein or as may be established by the FAA as required by Section 333. The conditions
+identified and proposed by the petitioner are drawn from references 1-3.
+
+TheFARS
+
+The petitioner seeks exemption from the above mentioned FARs for the following reasons;
+61.113(a) & 9b); The petitioner requests relief in order to facilitate the utilization
+of pilots who hold a Private Pilots (or greater) certificate. Any pilots operating under this
+exemption would be required to comply with any conditions as set forth and in a similar fashion
+to the previously granted exemptions.
+
+91.119(c) As discussed in Exemption 11138 (DOUGLAS TRUDEAU), operations
+conducted closer than 500 feet to the ground may require that the UA be operated closer than
+500 feet to essential persons, or objects that would not be possible without additional relief. The
+petitioner requests modification, waiver or exemption and clarification concerning the terms
+"congested areas" and "densely populated". The petitioner requests waiver for this condition to
+allow reasonable operations in areas of subdivisions and neighborhoods if required.
+
+91.121 As discussed in Exemption 1138 (DOUGLAS TRUDEAU) is inapplicable since the UAS
+does not have an altimeter but instead utilizes electronic GPS with barometric sensors for altitude
+information.
+
+91.151(a) As discussed in Exemption 11136 (ADVANCED AVIATION SOLUTIONS LLC)
+prior relief has been granted for manned aircraft to operate at less than the prescribed minimums,
+including Exemption Nos, 2689, 5745, and 10650. In addition, similar UAS-specific relief has
+been granted in Exemption Nos, 8811, 10808, and 10673 for day time VFR conditions. The
+UAS provides battery power reaming in percent to the PIC. The UA batteries provide
+approximately 25 minutes of powered flight. Information provided in the operating documents
+discuss procedures regarding remaining battery power management. Those documents contain a
+condition in which the PIC will initiate a landing procedure when battery remaining reaches a
+specified level. Given the limitations on proposed operations and the location of those proposed
+operations, the FAA found that a reduced minimum reserve for flight in day time VFR
+conditions was reasonable.
+
+91.405(a); 91.407(a)(l); 91.409(a)(l) & (2); 91.417(a) & (b) As discussed in Exemption 1138
+
+(DOUGLAS TRUDEAU). The petitioner proposes to inspect and ensure that the UAS is in a
+condition for safe flight in accordance with the operating documents. The FAA found that
+adherence to the petitioner's operating documents and the conditions and limitations specified,
+describing the requirements for maintenance, inspection and recordkeeping, were sufficient to
+ensure that safety would not be adversely affected.
+
+The UAS
+
+The DJI Phantom 2 vision+ advanced is a highly successful consumer grade small rotorcraft in
+the quadcopter configuration with an advertised weight of less than 44 ounces (1242g) designed
+primarily to carry aloft a high definition camera. It has an advertised maximum speed of less
+than 30 knots (15m/s) and a maximum climb rate ofless than 1200 feet per minute (6m/s). It is
+powered by four electric motors with a distance between motors ofless than 14 inches ((350m).
+exemption(s), should need arise. Operations within class B airspace are requested due to the lack
+of mode C transponder.
+
+Public interest
+
+Use of the UAS in lieu of a manned aircraft would enhance safety and reduce the environmental
+impact as compared to similar operations conducted with manned aircraft of greater proportions,
+carrying a crew and flammable fuel. Additionally, use of the UAS in order to facilitate
+commerce could lead to economic growth. Operations for this petition will enable service for
+property owners or their designees seeking an enhanced perspective for characteristics, amenities
+and benefits of their desired photographic subjects that cannot be displayed through ground level
+videography/photography. Aerial photography is a valuable marketing tool that can lead to
+increased commerce and enhance personal photography. Crop surveying applications could lead
+to decreased use of pesticides and fertilizer and conservation of water as well as increased crop
+yields and decreased costs. Aerial surveying and inspections can increase work site efficiency,
+improve volumetric estimations and reduce risk. The petitioner will provide clients with
+photographic data for these purposes on a "for hire" basis acting as an independent contractor. A
+visual observer will be utilized. Liability insurance will be obtained commensurate with the
+granting of this request for exemption. Flight data including UA flight time, Control Unit
+operation time, incident, accident and details concerning any deviations from normal operations
+will be available to FAA for use in collecting data regarding the use of the UAS as part of this
+application. This data may be submitted to FAA via traditional means (COA monthly reports),
+or other means as the Administrator may require.
+
+Conclusion
+
+The petitioner is requesting this exemption for the purposes of"aerial photography,
+cinematography, videography, mapping, crop surveying, inspections and other flight operations.
+The reason for such a general and broad based request is that the petitioner wishes to utilize a
+business strategy of horizontal integration and maximize economies of scope in order to
+capitalize on opportunities as they may arise in the future, without the long turnaround time
+associated with additional exemptions. The petitioner's business model is based on the idea of
+offering ad hoc small UAS services to individuals or companies, who wish to employ these
+services as a safe, effective and legal option to enhance their business or hobby. The petitioner's
+own market research shows pent up demand for these services currently exist, in the real estate
+market and other markets are just beginning to emerge. Although videography and photography
+are included in the request, the primary objective will be aerial survey of farm crops for precision
+agriculture. The petitioner has identified university's and other agencies that could benefit from
+the operation requested in this application.
+
+A quick internet search will show that many are currently operating similar UAS in exactly the
+same fashion without, it is assumed FAA authorization. The petitioner has refrained from
+engaging in commercial use of the UAS. The primary purpose of seeking this exemption is to
+obtain the capability to offer those services while remaining in compliance. The petitioner has
+over 7 years in the radio control model aircraft hobby, along with 25 years of flight experience in
+both general and commercial aviation, holds an AIRLINE TRANSPORT PILOTS LICENSE
+( #1635701 ) Sea Plane rating, four type ratings and over 14,000 hours of flight time in both
+domestic and international operations.
+
+Respectively submitted,
+
+~~r:~
+
+Paul Kolfe~h
+             TM
+
+User Manual
+          Contents
+
+           1     Introduction                   1
+           1.1   System Overview                1
+           1.2   Aircraft Overview              2
+           1.3   Controller Overview            3
+           1.4   Operating Parameters           4
+          . 1.5  Autopilot                      5
+                 Propulsion                     5
+           1.6   LED Meanings                   5
+           1.7
+                                                6
+          2 Setup                               6
+          2.1 In the Box                        6
+          2.2 Battery                           8
+          2.3 Controller                        9
+          2.4 Propellers                        9
+          2.5 Camera                           11
+          2.6 MobileApp
+                                               15
+          3 Safety                             15
+                                               15
+          3.1 Location                         15
+                                               15
+          3.2 Environmental Awareness          16
+                                               16
+          3.3 Visual Line of Sight             16
+                                               16
+          3.4 Flight School                    17
+                                               18
+          3.5 Propellers                       18
+                                               18
+          3.6 GPS
+                                               19
+          3.7 Home Position
+                                               19
+-         3.8 Altitude Limit                   19
+                                               20
+   \. 3.9 Emergency Procedures                 21
+       I                                       21
+          3.10 Flight Battery                  22
+    /                                          25
+
+   ~                                           26
+                                               26
+          3.11 Controller                      27
+                                               29
+          3.12 Antenna Configuration           30
+
+          4 First Flight                       32
+          4.1 Preflight Checklist              32
+          4.2 Takeoff                          33
+          4.3 Landing
+          4.4 Return Home                      36
+          4.5 In-Flight Data                   36
+          4.6 Joystick Control                 37
+          4.7 App Interface Overview           37
+                                               37
+          5 Smart Shots                        38
+          5.1 Selfie                           38
+          5.2 Cable Cam                        38
+          5.3 Orbit
+          5.4 Follow
+
+          6 Alerts
+
+          6.1 Preflight Errors
+          6.2 In-Flight Errors
+
+          7 Advanced Settings
+
+          7.1 Advanced Flight Modes
+          7.2 Enabling Advanced Flight Modes
+          7.3 Accessing Advanced Flight Modes
+          7.4 Home Position Safety
+          7.5 Performance Adjustment
+          7.6 Units
+          7.7 Maximum Altitude Adjustment
+8 Support                           39 '\
+
+9 Maintenance                       39
+9.1 Controller Battery Replacement  39
+9.2 Calibrations                    40
+9.3 Pairing                         41
+9.4 Legs                            42
+9.5 Battery Tray                    45
+9.6 Motors                          46
+9.7 Factory Reset                   48
+
+10 Appendix                         49
+10.1 Specifications                 49
+10.2 Warranty                       50
+10.3 Regulatory Compliance          50
+Figures
+
+Figure 1.1.3.1: Solo System Context Diagram                           1 Figure 5.2.2.1: App - Cable Cam Controls                       28
+
+Figure 1.2.4.1 : Solo Overview                                        2 Figure 5.2.2.2: Controller- Cable Cam Controls                 28
+
+Figure 1.3.1 0.1: Controller Overview                                 4 Figure 5.2.3.1: App - Cable Cam Settings                       28
+
+Figure 1.4.10.1: Solo Operating Parameters                            4 Figure 5.3.1.1: App - Orbit Setup                              29
+
+Figure 1.6.1 0.1: Solo Motor Order                                    5 Figure 5.3.2.1: App - Orbit Controls                           29
+
+Figure 2.1.1 0.1: Solo Parts                                          6 Figure 5.3.2.2: Orbit Controls                                 30
+
+Figure 2.2.1.1: Solo Battery Charging                                 7 Figure 5.3.3.1: App - Orbit Settings                           30
+
+Figure 2.2.2.1: Powering Solo                                         7 Figure 5.4.1.1: App - Follow Setup                             30
+
+Figure 2.3.1.1: Controller Charging                                   8 Figure 5.4.2.1: Follow Controls                                31
+
+Figure 2.3.2.1: Power On Controller                                   8 Figure 5.4.3.1: App- Follow Settings                           31
+
+Figure 2.4.1.1: Attach Propellers                                     9 Figure 6.1.1.1: Controller - Calibration in Progress Alerts    32
+
+Figure 2.5.1.1: Attach Camera                                         10 Figure 6.1.1.2: Controller - Uneven Surface Alert             32
+
+Figure 2.5.2.1: Camera Configuration Process                          10 Figure 6.1.1.3: Controller- Re-Calibration Required Aletis    32
+
+Figure 2.6.2.1: Connect to Solo Link                                  11 Figure 6.1.1.4: Controller- Calibration Error Alert           33
+
+Figure 2.6.3.1: App - Settings Menu                                   11 Figure 6.1.2.1: Controller - Service Alerts                   33
+
+Figure 2.6.3.2: App - Wi-Fi Settings                                  12 Figure 6.2.1.1: Controller - Altitude Limit Alert             33
+
+Figure 2.6.4.1: Controller Preflight Update Prompt                    12 Figure 6.2.2.1: Controller- App Connection Alerts             34
+
+Figure 2.6.4.2: App- Software Update                                  12 Figure 6.2.3.1: Controller- Controller Disconnected Alert     34
+
+Figure 2.6.4.3: App - Download Update                                 12 Figure 6.2.3.2: Controller- Controller Signal Alerts          34
+
+Figure 2.6.4.4: App - Update Download in Progress                     13 Figure 6.2.4.1: Controller- GPS Signal Alerts                 35
+
+Figure 2.6.4.5: App- Reconnect to Solo Wi-Fi                          13 Figure 6.2.5.1: Controller- Low Battery Alerts                35
+
+Figure 2.6.4.6: App- Start Update                                     13 Figure 6.2.5.2: Controller- Critical Battery Alert            35
+
+Figure 2.6.4.7: Controller- Updating                                  13 Figure 6.2.6.1: Controller - Controller Battery Alerts        35
+
+Figure 2.6.4.8: App - Update Disconnection Confirmation               13 Figure 7.2.5.1: App- Advanced Settings                        37
+
+Figure 2.6.4.9: Controller Update Complete Displays                   14 Figure 7.3.5.1: App- A and B Presets                          37
+
+Figure 2.6.4.1 0: Controller- Waiting for Solo                        14 Figure 7.5.5.1: App- Performance Sliders                      38
+
+Figure 2.6.4.11: App - Update Success                                 14 Figure 7.6.5.1: App- Change Units                             38
+
+Figure 2.6.5.1: App - Viewing Video                                   14 Figure 7.7.5.1: App- Altitude Limit                           38
+
+Figure 3.4.5.1: App Flight School                                     15 Figure 8.7.5.1: App- Submit Trouble Ticket                    39
+
+Figure 3.9.5.1: Controller- Motor Shutoff                             17 Figure 9.1.5.1: Controller Battery Installation               39
+
+Figure 3.11 .5.1: Controller Antenna Orientation                      18 Figure 9.2.1.1: App- Compass Calibration Setup                40
+
+Figure 4.2.1.1: Controller - Start Motors Prompt                      19 Figure 9.2.1.2: App- Compass Calibration Procedure            40
+
+\ Figure 4.2.2.1: Controller- Takeoff Prompts                         20 Figure 9.2.2.1: App- Level Calibration                        40
+                  Figure 4.3.2.1: Controller- User-Initiated Landing  20 Figure 9.3.2.1: Solo Pair Button                              41
+                                                                      21 Figure 9.3.2.2: Controller Pairing Procedure                  41
+/ Figure 4.4.2.1: Return Home Behavior
+
+Figure 4.5.2.1: Controller- In-Flight Data                            21 Figure 9.4.2.1: Leg Types                                     42
+
+Figure 4.6.2.1: Controller Left Joystick                              22 Figure 9.4.1.1: Standard Leg Replacement Process              42
+
+Figure 4.6.2.2: Throttle Joystick Behaviors                           22 Figure 9.4.2.1: Detaching the Antenna from the Leg            43
+
+Figure 4.6.2.3: Yaw Joystick Behavior                                 23 Figure 9.4.2.2: Attaching a New Leg with an Existing Antenna  43
+
+Figure 4.6.2.4: Controller Right Joystick Controls                    23 Figure 9.4.2.3: Attaching an Existing Antenna to a New Leg    43
+
+Figure 4.6.2.5: Pitch Joystick Controls                               24 Figure 9.4.3.1: Compass Connector on Mainboard                44
+
+Figure 4.6.2.6: Roll Joystick Controls                                24 Figure 9.4.3.2: Insert New Leg with Compass                   44
+
+Figure 4. 7.2.1: App - Main Interface                                 25 Figure 9.5.1.1: GPS Cover Removal                             45
+
+Figure 4.7.2.1: App- Shot List                                        25 Figure 9.5.2.1: Battery Tray Removal                          45
+
+Figure 5.1.2.1: Selfie Path and Settings                              26 Figure 9.5.2.2: Battery Tray Detachment                       45
+
+Figure 5.1.1.1: App - Selfie Activation                               26 Figure 9.6.2.1: LED Cover Removal                             46
+
+Figure 5.1.2.1: App - Selfie Control                                  27 Figure 9.6.2.2: Motor Pod Removal                             46
+
+Figure 5.1.2.2: Controller- Selfie Control                            27 Figure 9.6.2.3: Motor Pod Disconnection                       47
+
+Figure 5.1.3.1: App - Selfie Settings                                 27 Figure 9.6.2.4: Motor Pod Connection                          47
+
+Figure 5.2.1.1: App - Cable Cam Setup                                 28 Figure 9.6.2.5: Motor Pod and LED Cover Attachment            47
+We designed Solo to be the perfect aerial-video too!. It's powerful, simple and reliable with intuitive Smart Shots
+inspired by our favorite cinema pilots. With Solo, you don't need a professional camera crew, you can get the
+perfect shot every time. We're excited to share our passion with you and help you see your world from a new
+perspective. Join us in capturing the next evolution of creative videography.
+
+1.1 System Overview                                                                                                      /
+
+The Solo system includes Solo, the controller, the "3DR Solo" app, and you. As the operator, you interact with the
+controller and app on the ground, and the controller communicates with Solo during flight.
+
+1.1.1 Solo
+
+Solo is a small unmanned aerial vehicle powered by four motors and four propellers. Solo's onboard computers
+control navigation, attitude, and communications in flight while sending real-time telemetry and video output and
+receiving control inputs over the 3DR Link secure Wi-Fi network. Solo is optimized for capturing aerial video using a
+GoPro® HERO camera.
+
+1.1.2 Controller
+
+The controller provides control mechanisms and displays in-flight data on a full-color screen. Using twin long-
+range antennas, the controller acts as the central hub for all communication on the 3DR Link network, receiving all
+communications from Solo and the app, forwarding telemetry outputs to the app, and managing the transmission of
+all control inputs to Solo.
+
+1.1.3 App
+
+The "3DR Solo" app outputs a live video stream from an onboard GoPro® camera to an Android or iOS device. The
+app allows you to view the live video with overlaid telemetry and access a simplified graphic interface for controlling
+Solo's advanced functions. The app also connects to the 3DR Link network to receive video and telemetry outputs
+and send control inputs.
+
+               ------i> Video output
+                 --~ Telemetry output
+                 ~---+ Control input
+
+          Ground                                         Air
+
+Operator                                      ··~             3DR Solo
+
+                  ----y-; 3DR Lin~---·--~--+!
+
+                                 Secure WiFi
+                                    Network
+
+          Figure 1.1.3.1: Solo Systern Context Diagrarn
+1.2 Aircraft Overview
+
+1.2.1 Smart Battery
+The battery connects to Solo's battery bay. Solo's power button is located on the battery; Solo can only be powered
+when the battery is connected.
+
+1.2.2 Motors and Propellers
+Solo's arms are labeled one through four on the ends of the arms. Motors on arms #1 and #2 spin counterclockwise
+and use clockwise-tightening propellers with silver tops. Motors on arms #3 and #4 spin clockwise and use
+counterclockwise-tightening propellers with black tops.
+
+1.2.3 Orientation LEOs
+Each arm contains an LED for ground-to-air directional awareness; the two front arms (#1 and #3) display white, and
+the two rear arms (#2 and #4) display red. This LED scheme mimics the headlight and taillight style of a car.
+
+1.2.4 Fixed Camera Mount and HDMI Cable
+Solo includes a GoPro® The Frame fixed mount to mount a GoPro® HERO camera. The HDMI cable connects to the
+GoPro® to output video during flight.
+
+                                                                                                        Silver-top propeller
+
+                                                                                                         Power button
+                                                                                                         Battery
+                                                                             ::::=F······-····--·~~-~~b Rear orientation LEOs
+                                                                                                         Black-top propeller
+
+                                                                                     .··.·,,.._._,,,.~-? Motor
+                                                             ~-···········-·--····--- ·'"'"'""'""~----- Arm numbering
+
+Height:  10.2"
+
+Motor-to-motor: 18.1"
+
+Weight (no camera): 3.3 lbs.
+
+                              Figure 1.2.4.1: Solo Overview
+
+                                                                                                                               2
+1.3 Controller Overview
+
+1.3.1 Mobile-Device Holder
+Mount an Android or iOS device to run the Solo app and effortlessly integrate the app into the controller's
+operational flow. A user-supplied smartphone or tablet is required to initialize Solo and use Smart Shots.
+
+1.3.2 Joysticks
+The controller's left and right joysticks provide direct manual control of Solo and physical control mechanisms for
+using Smart Shots.
+
+1.3.3 Screen
+The controller's full-color screen provides live in-flight data and prompts for correct operation of Solo.
+
+1.3.4 Power Button
+Press the power button once to check the controller's battery level. Hold the power button until you see the
+controller startup screen to power on the controller.
+
+1.3.5 Fly Button
+The Fly button lets you control Solo's main flight functions: starting motors, takeoff, land, and activating standard
+flight.
+
+1.3.6 Return Home
+The Return Home button allows you to end your flight automatically at any point by returning Solo to its original
+launch point and landing.
+
+1.3.7 Pause Button
+The Pause button is Solo's emergency air brake. Press Pause to stop Solo and hover in place at any time.
+
+1.3.8 Option Buttons
+The A and 8 buttons change functionality based on where you are in the operational flow. The screen will show the
+currently assigned functions of A and 8 at all times. You can program A and 8 to specific functions using the app.
+By default, the A button is assigned to Cable Cam and the 8 button is assigned to Orbit.
+
+1.3.9 Antennas
+The controller's long-range dipole antennas communicate with Solo during flight. See Section 3.12 for proper
+antenna configuration.
+
+1.3.1 0 Gimbal Controls
+The paddle, buttons, and dial on the top of the controller are used to control the Solo Gimbal. They can also be used
+in some Smart Shots.
+
+                                                                                                                                                                                           3
+) Antennas
+
+                                       Mobile-device holder
+
+                                       Gimbal controls
+                                       Joysticks
+
+                                       Screen
+
+                                       Pause
+                                       Return home
+                                       Fly
+                                       Power
+                                       Options
+
+Figure 1.3.1 0.1: Controller Overview
+
+1.4 Operating Parameters
+
+The following operating parameters apply to Solo. Always operate Solo within these parameters. Solo's pertormance
+and behaviors are not guaranteed when conditions violate the parameters listed below.
+
+                                                                 Figure 1.4.10.1: Solo Operating Parameters
+
+*Flight time varies with payload, wind conditions, elevation, temperature, humidity, flying style,
+and pilot skill. Listed flight time applies to elevations less than 2,000 ft above sea level.
+**See Section 7.7 to adjust maximum altitude.
+***Depending on environmental conditions
+****This top speed corresponds to Solo when operating in Fly mode. Maximum speeds for advanced
+modes may vary, see Section 7.1 for more information.
+
+                                                                                                                                                                   4
+1.5 Autopilot
+
+Solo uses a Pixhawk 2 autopilot running ArduPilot Copter software. ArduPilot is open-source flight control based on
+the MAVIink communication protocol. Pixhawk 2 runs an ARM Cortex-M4 STM32F427 processor with 2MB of flash
+memory and 256 KB of RAM. Combined with an array of CAN, 12C, SPI, PWM, and UART interfaces, Pixhawk 2
+uses a suite of onboard sensors to calculate Solo's orientation and motion in flight. This data is input into ArduPilot's
+inertial navigation and position estimation algorithms and combined with control inputs to send commands to Solo's
+propulsion system.
+
+1.6 Propulsion
+
+Solo uses four brushless 880 K, motors and four self-tightening propellers for propulsion. For control and
+aerodynamic efficiency, two motors spin clockwise and two motors spin counterclockwise. Navigation in the air is
+achieved by mixing propulsion of the four motors to actuate flight control along the roll, pitch, and yaw axes.
+
+Each of the four motors is numbered by the marking on the arm. These numbers correspond to the autopilot
+calculations for these commands and are used for indicating motor replacement procedures. Each motor is
+controlled by an ESC (Electronic Speed Controller) that regulates the rotation of the motors to achieve the speed
+commanded by the autopilot.
+
+                                         Figure ! .6.1 0.1: Solo Motor Order
+
+1.7 LED Meanings
+
+Solo's four LEOs indicate its status during startup and in flight.
+
+· Solid white (front) and red (back):        Ready to fly, standard flight configuration
+
+· Pulsing white (front) and red (back):      Solo is flying under autopilot control
+
+· Flashing red alternating front and back:   Controller signal lost
+
+· Flashing rainbow:                          Update in progress
+
+· Solid green, then turning off one-by-one:  Startup successful
+
+· Solid green without turning off automatically: Startup unsuccessful, please restart Solo
+
+                                                                                                                           5
+             This sections covers everything you need to set up Solo out of the box.
+
+      2.1 In the Box
+
+             Solo includes the drone, controller, propellers (four plus two spares), Solo charger, and controller charger.
+
+                                                 Controller
+
+                                                                                             Figure 2.1.1 0.1: Solo Parts
+
+\
+
+) 2.2 Battery
+
+             Solo is powered by the rechargeable Solo Smart Battery that provides up to 25 minutes of flight time per full charge.
+             (Keep in mind that flight time depends on payload, wind conditions, elevation, temperature, humidity, flying style and
+             pilot skill, so the actual flight time may vary.) As a lithium polymer battery, the Solo Smart Battery requires specific
+             handling practices to ensure safe operation and prevent accidents. For more information about battery safety, see
+             Section 3.1 0.
+             2.2.1 Charging
+             The level of the battery is indicated by the lights below the power button. Press the power button once to display
+             the current power level. The Solo battery ships with approximately 50% charge, so charge fully before your first
+             flight for maximum flight time.
+             Remove the battery from Solo before charging by holding the release button and sliding the battery towards the
+             back of Solo. Charge the battery using the designated Solo charger only; using a different charger can damage the
+             battery or cause a fire.
+             To charge the battery, connect the Solo charger to the battery and a wall outlet. While charging, the indicator lights
+             pulse at the current level. There is an additional indicator on the battery charger that turns from red to green when
+             the battery is fully charged. The battery takes approximately 1.5 hours to charge to 100%.
+
+                                                                                                                                                                                                          6
+           , ,(~a)
+           W-
+
+                                                                ~---- --- --_ -___ - - - -
+
+                                                          Charge indicator
+
+                                                                  Figure 22 U: Solo Battery Charging
+2.2.2 Powering
+To power Solo, insert the battery into Solo's battery bay and slide the battery forward until it clicks into place. Press
+and hold the battery power button to turn on Solo. When Solo powers on, the battery will display an LED animation
+
+and you will hear the startup tone. Only power Solo using the designated 3DR Solo Smart Battery; using a different
+battery can permanently damage Solo.
+
+                                  Make sure Solo is level before powering on and keep Solo still during
+
+          A startup and while the sensors initiallz~. Moving Solo during this
+                                  process causes the sensors to calibr-ate; incorrectly and can create a
+                                  preflight error or affect in-flight performance.
+
+                                                                    1 Slide to connect
+
+                                                                       Figure 2.221: Powering Solo
+
+                                                                                                                                                                                                  7
+2.3 Controller
+
+The Solo controller includes a pre-installed rechargeable lithium ion (Li-ion) battery.
+2.3.1 Charging
+Charge the controller using the designated controller charger only; using a different charger can damage the
+controller or cause a fire.
+To charge the controller, connect the controller charger to the barrel jack on the side of the controller and to a
+wall outlet. To check the battery level of the controller, press the power button. A fully charged controller lasts for
+approximately 6 hours. Always check the controller's battery level before you fly, and recharge when prompted by
+the controller. The controller takes approximately 3 hours to charge to 100%.
+
+                                                                       Figure 2.3.1.1: Controller Charging
+
+2.3.2 Powering
+To power on the controller, press and hold the controller power button until you see the startup screen.
+
+Figure 2.3.2.1: Power On Controller
+
+                                                                                                                         8
+2.4 Propellers
+
+Solo uses two types of self-tightening propellers, indicated by the color of the circle at the center of the propeller.
+2.4.1 Attaching
+Attach the propellers with silver tops to the motors with a silver dot on the top of the motor shaft, and attach the
+black-top propellers to the motors with black dots. Make sure to remove the paper labels from the motors before
+attaching the propellers.
+Silver-top propellers tighten clockwise; black-top propellers tighten counterclockwise. Check the lock and unlock
+icons on each propeller to see the correct directions for tightening and removing.
+
+                                                                                                                             .. .... remove motor labels
+
+                                                                    (]
+
+                                                                           Figure 2.4.1."1: Attach Propellers
+
+2.5 Camera
+
+Solo includes a fixed GoPro® The FrameTM mount for your GoPro® HERO 3, 3+ or 4.
+2.5.1 Attaching
+To attach the camera to the GoPro® The FrameTM fixed mount, insert your GoPro® upside down and connect the
+Solo HDMI cable to the camera.
+
+                                                                                                                                                                                    9
+!
+
+                                        Mount your GoPro®  Connect the HDMI
+                                        upside down.       cable.
+
+                                                                            Figum 2.5. i .1: Attach Camera
+
+   2.5.2 Settings
+   For best results, adjust the camera settings for inverted orientation and medium field of view. (Setting the field of
+   view to medium ensures that you won't see the propellers in the frame.}
+
+   Set the GoPro® HER03
+   to inverted orientation:
+
+\                            GoPro®     Camera
+
+)                            Setting$   Orientation
+
+   Enable GoPro® HEFl04
+
+   auto~orlentation:
+
+   Set the GoProf& to        1-·                           I
+   medium field of view:
+                             GoPro® ..
+                             Settings
+
+   Figure 2.5.2. 1: Camera Configuration Process
+
+   Make surethatthe Wi~Fi on your G:oPto® is turned OFF. it can interfere
+   with Solo's communication signals and cause unexpected behavior.
+
+                                                                                                                          10
+2.6 Mobile App
+
+"3DR Solo" provides a streaming video link to a mobile device and a simple graphic interface for interacting with
+Smart Shots and other advanced Solo features.
+2.6.1 Install
+Visit 3dr.com/soloapp or download "3DR Solo" from the App Store or Google Play Store. 3DR Solo works with iOS
+8.0 or later and Android 4.3 or later. For Android, you must also install the "3DR Services" app to your device.
+2.6.2 Connect to Solo
+To connect the app to Solo's 3DR Link Wi-Fi network, access the Wi-Fi settings on the mobile device and select
+Solo_Link-####. Enter the temporary password "sololink". Once connected, return to the app to continue. Both Solo
+and the controller must be powered on to connect to the app.
+
+                                                                  Figure 2.6.2. 1: Connect to Solo Link
+2.6.3 Change SoloLink Password
+Once connected to Solo Wi-Fi, change your password to secure your SoloLink network. Select the Settings menu
+from the top-left drop-down, and choose Solo to access the options for your drone.
+
+                                                                  Figure 2.6.3. 1: /'>,pp - Settings Menu
+In the Solo menu, select Wi-Fi Settings, and set a new password. The password should be between 8 and 32
+characters with no spaces. Select Apply to enable your changes. If you forget your SoloLink password, perform the
+factory reset procedure in Section 9. 7 to reset the password to the temporary password (sololink).
+
+                                                                                                                                                                                               11
+\
+)
+
+                                                                                      Figure 2.6.3.2: App - Wi-Fi Settings
+
+             2.6.4 Update
+             Before your first flight, use the app to perform the required first-flight update. The controller will prompt you for the
+             update with the preflight update alert. Ensure that both the controller and Solo are powered, the controller has at
+             least 50% battery remaining, and the app is connected to Solo Wi-Fi. The total update process can take up to 10
+             minutes.
+
+                                                                            Figure 2.6.4.1: Controller Preflight Update Prompt
+
+             To start the update, open the Settings menu in the app, and select Software Update.
+
+)
+
+                                                                                    Figure 2.6.4.2: App - Software Update
+
+             Before starting the update, you'll need to connect your device to the Internet and download the update. Select
+             Download Update to start the process, then exit the app and connect to the Internet.
+
+                                                                   Figure 2.6.4.3: App - Download Update
+
+The app will show the following display while the update is downloading.
+
+                                                                                                                                        12
+                                                         Figure 2.6A.4: App - Update Download in Progress
+
+When the download is complete, the app will prompt you to re-connect to Solo Wi-Fi in your device's Wi-Fi settings.
+
+                                                             Figure 2.6.4.5: App - Reconnect to Solo Wi-Fi
+
+When the app detects an active connection with the controller, it will prompt you to begin the update. (Solo and the
+controller must be powered on to connect to Solo Wi-Fi.) Select Begin to start the update.
+
+'" '· t   Software Updat~
+
+                                                                      Figure 2.6.4.6: App- Start Update
+
+While the update is in progress, the controller will show the controller updating display. The controller will complete
+a full restart as part of the update process, which can take up to 5 minutes.
+
+Figure 2.6.4.7: Controller- Updating
+
+Because the controller must restart as part of the update process, your device will lose its connection to Solo Wi-Fi.
+When you see the display below, select Next to continue.
+
+" ... ,~  SqJt\varatJpdate
+
+Figure 2.6.4.8: App- Update Disconnection Confirmation
+
+                                                                                                                         13
+The controller will restart and display a green checkmark to indicate that the controller was updated successfully.
+When you see the green checkmark on the controller, re-connect to Solo Wi-Fi in the app and press A on the
+controller to continue the update.
+
+                                                          Figure 2.6.4.9: Controller Update Complete Displays
+
+After pressing A, Solo will restart to complete the update. The controller will display waiting for Solo while Solo
+restarts.
+
+                                                                                Figure 2.6.4.1 0: Controller- Waiting for Solo
+
+\, When the update is complete, Solo's LEOs will turn green, the controller will return to the standard takeoff screen,
+J and the app will show that the software is up to date. After displaying green, Solo's LEOs will return to the standard
+
+              white-and-red pattern. If you do not see white-and-red LEOs after a few minutes following the update, restart Solo.
+
+                                                                   Figure 2.6.4.11: App - Update Success
+
+2.6.5 View Video
+
+After the update is complete, select Fly Solo to view video in the app. Solo, the controller, and the GoPro® must
+be powered to view video. Verify that you can view video before your first flight. If the video is inverted, see section
+2.5.2.
+
+Figure 2.6.5.1: App -Viewing Video
+
+                                                                                                                                   14
+The following best practices will help ensure safe, successful flights and help reduce the risk of accident and serious
+injury. Always fly under adult supervision and with your full attention at all times. Do not fly under the influence of
+drugs or alcohol or when your ability to operate Solo safely is impaired. Use your common sense to avoid unsafe
+situations and always operate Solo responsibly.
+
+                    A.. ·.· Read and und~rstaf'ld't~~se important safetY instructions before your
+                  - first flight to harp red !.Ice the risk of acCident and serious injury.
+
+3.1 Location
+
+Don't fly Solo indoors. Always fly outside in clear, open areas at a safe distance from yourself, other people, power
+lines, animals, vehicles, trees, and buildings. When flying in areas with potential hazards, maintain i 00 feet (30 m)
+from any people, vehicles, or structures. As the operator, you are responsible for navigating Solo to avoid obstacles,
+including during Smart Shots.
+
+Don't fly within 5 miles of an airport or within any airspace restricted by your local, state, or national airspace
+authority. As the operator, you are responsible for knowing and understanding the regulations that govern small
+unmanned aircraft like Solo in your jurisdiction.
+
+3.2 Environmental Awareness
+
+Don't fly Solo in extreme weather conditions such as rain, high winds, snow, or fog. Extreme weather conditions can
+permanently damage Solo or cause instability in flight.
+
+Before flying, determine the boundaries of the safe flying area at your location. Be aware of any risks, including
+bodies of water, structures, trees, power lines, etc, and designate a few areas where you can land Solo in case of
+an unsafe situation. Throughout your flight, be prepared to recover Solo manually or use an emergency procedure if
+Solo flies outside the safe flying area.
+
+3.3 Visual Line of Sight
+
+Always fly Solo within your visual line of sight. Don't let Solo get so far away from you that you cannot see its
+orientation or so that any physical obstructions block your view of Solo.
+
+o~structlonsA .. P.hysical  . can alsoblookcqmmunication signa..l.s..w.· it.h fhecontrolle.r1
+a causing Solo to attempt to Return Home along an obstructed path
+                                                                   >'. ;
+
+3.4 Flight School
+
+If you're new to flying, review the video tutorials in the Flight School area of the app before your first flight. Flight
+School provides useful tips for learning to operate Solo safely and correctly.
+
+                            Figure 3.4.5.1: App Flight School                                                              15
+3.5 Propellers
+
+A Spprionpneil!~~~~/$JjQ~rop~ilalceei1aSncyaonbjceaCitJ~~elnstehneowua~yinojfutrhye. Nperovpeer ltloeurachrcs~owvhiinleg
+         Solo is pewf?rect  ·
+
+To avoid hazardous contact with Solo's high-speed propellers, always power off Solo before handling Solo or
+the propellers. When prompted to start motors before takeoff, always ensure that the propellers are clear of any
+obstructions and at least 20 feet away from any people, animals, or property before activating. Do not touch moving
+propellers or approach Solo while the propellers are spinning.
+
+After landing or returning home, Solo will automatically detect the landing and stop the motors. Do not approach
+Solo until the propellers stop spinning, and always power off Solo before picking it up.
+
+3.6 GPS
+
+Solo requires an active GPS signal for flight. After powering on, Solo can take up to 5 minutes to acquire a strong
+GPS lock. Always choose a flying location with a clear view of the sky to improve GPS signal strength. The following
+requirements define a GPS lock:
+
+· Reported horizontal position accuracy                             <16ft. (5 m)
+· Reported speed accuracy                                           < 2 mph (1 m/s)
+· Number of satellites                                              26
+· Difference between GPS and inertial navigation vertical velocity  < 2 mph (1 m/s)
+
+3.7 Home Position
+
+Solo's home position is the latitude and longitude coordinates of the launch point used by the autopilot as the
+end point of a return-home command. The autopilot saves the home position at the location where the motors are
+started only after achieving GPS lock. The location of the home position depends on GPS signal strength and is
+usually within I to 2 meters of accuracy. Always take off from an open location with a clear path for Solo to return
+home safely. For home position safety in advanced mode, see Section 7.4.
+
+3.8 Altitude Limit
+
+Always fly at appropriate altitudes for your flying location and local regulations. Solo cannot avoid obstacles on its
+own, so always select altitudes that avoid any obstacles, such as trees, buildings, and power lines.
+
+Solo includes a safety fence enabled by default at 150ft. (46 m). If Solo reaches the altitude limit, Solo will stop
+ascending and limit throttle input to stay below the altitude limit. FAA regulations mandate a maximum altitude of
+400 ft. to avoid potential conflicts with manned aircraft and represents a safe line-of-sight altitude.
+
+                                                                                                                          16
+3.9 Emergency Procedures                                                                                                    \
+
+If you experience a problem in flight, use one of the following emergency procedures to stop Solo, end your flight, or      J
+shut off the motors.
+
+3.9.1 Pause
+
+The controller's Pause button allows you to stop Solo mid-air. Solo will hover at the paused location until given
+another command. Use the Pause button to stop Solo from hitting an obstacle or to re-orient Solo for navigation.
+Press Pause during Return Home or Land to pause Solo and stop the landing. Pause is available only with GPS
+lock.
+
+3.9.2 Regain Manual Control
+
+Keep the controller easily accessible at all times during flight, including during Smart Shots, and be prepared to
+regain manual control at any time. To return to standard flight during Smart Shots, Return Home, or Land, press the
+Fly button.
+
+3.9.3 Return Home
+
+If Solo acquired GPS lock prior to takeoff, press the controller's Home button to return Solo to the launch point
+and land. Use return home after receiving a low battery notification or to end your flight easily. Solo will not avoid
+obstacles while returning home; always verify that the return path is clear before activating Return Home.
+
+3.9.4 land
+
+To land Solo at its current position, press and hold the Fly button. If Solo does not have GPS lock, there will be no
+automatic positioning as Solo descends, and drifting may occur depending on environmental conditions.
+
+3.9.5 Motor Shutoff
+
+In the event that Solo's motors do not stop after landing or for an emergency in-flight kill switch, Solo includes
+an emergency motor shutoff procedure. To shut off the motors at any time, either in flight or on the ground, hold
+the A, B, and Pause buttons at the same time. An initial screen will appear on the controller to confirm the shutoff
+command; continue to hold A, B, and Pause buttons to activate motor shutoff. Use the emergency motor shutoff
+only as a last resort.
+
+Figure 3. 9.5.1: Controller - Motor Shutoff
+
+                                                                                                                        17
+3.10 Flight Battery
+
+Use caution when handling the Solo Smart Battery; lithium polymer batteries can cause a fire if handled incorrectly.
+Never alter, puncture, throw, bend, or impact the battery. Keep the battery away from liquids, fire, microwaves, and
+other hazardous or combustible materials. Don't expose the battery to extreme temperatures. If the battery is hot to
+the touch, wait for it to cool before using or charging.
+
+Inspect the battery before and after each flight. It is possible for the battery to be damaged in shipping, use or
+charging. If you notice any abnormal features such as damage to the exterior shell, swelling, deformation of the
+battery, abnormal smell, leakage, or other unexpected behavior, do not use the battery! These can be signs of
+serious damage that can cause the battery to catch fire. To prevent a hazard in case of fire or explosion, disconnect
+the battery, and place the battery in a safe area outside of any buildings or vehicles and away from flammable
+materials. Do not dispose of the battery in the trash; dispose of the battery at local battery recycling center as soon
+as possible. In the US and Canada, visit call2recycle.org to find a location.
+
+For long term storage, store the battery in an 64° F to 82° F environment, between 45-85% relative humidity
+and with 50% charge. Always make sure to store the battery in a place where it won't be exposed to extreme
+temperatures or direct sunlight.
+
+3.11 Controller
+
+The controller's rechargeable lithium ion (Li-ion) battery is housed inside the controller, accessible by the battery
+door on the back of the controller. The controller battery is pre-attached to the controller, and shouldn't be
+disconnected unless:
+
+      · You plan to store the controller for over three months without using it. In this case, disconnect the battery
+      from the controller and leave the battery inside the controller to store it.
+      · You need to replace or upgrade the controller battery. Upgraded controller batteries with double the
+      capacity are available from store.3dr.com or an authorized retailer. In the case where you need to store the
+      extra controller battery, store it in location where it will not come into contact with metal objects or other
+      batteries. If the battery's connector comes into contact with a metal object, it can short circuit the battery and
+      cause a fire.
+
+Keep the controller away from liquids, fire, microwaves, and other hazardous or combustible materials. Don't
+expose the controller to extreme temperatures. If the controller is hot to the touch, wait for it to cool before using
+or charging. Perform periodic visual inspections of the controller battery to check for any damage, and handle the
+controller battery using the same safety precautions as the flight battery.
+
+3.12 Antenna Configuration
+
+For the strongest connection to Solo, position the antennas down and away from the controller so they are
+approximately perpendicular with Solo in flight, and tilt each antenna out and away from one another at a 20° angle.
+
+                                                                                ···~
+
+Figure 3.12.5.1: Controller Antenna Orientation
+
+                                                                                                                          18
+This section covers basic Solo flight procedures, including takeoff, landing, and manual control.
+
+4.1 Preflight Checklist
+
+Before flying, check the following conditions.
+
+4.1.1 Location
+, Your current location and environmental conditions are suitable for flight. (Section 3.1)
+, Solo is on a level surface at a clear launch point a sufficient distance from yourself and others. (Section 3.1)
+
+4.1.2 Components
+, The propellers are correctly attached. (Section 2.4)
+, The propellers can spin smoothly and without obstruction when turned.
+,, No components on Solo appear loose or damaged.
+
+4.1.3 Power
+, The controller is powered on with at least 50% charge. (Section 2.3)
+, Solo is powered on with a fully charged battery. (Section 2.2)
+
+4.1.4 Video {Optional)
+, The Solo app is connected to Solo and streaming video. (Section 2.6)
+, The GoPro® is recording.
+
+4. 2 Takeoff
+
+The takeoff process has two steps: start motors then take off. Always place Solo at a clear launch point for takeoff,
+at least 20 feet away from you, other people, and structures.
+
+4.2.1 Activating Motors
+When Solo is ready to fly, the controller will prompt you to hold the Fly button to start Solo's motors. Hold Fly until
+the propellers spin. Solo is now active, ready for takeoff, and needs to be treated with appropriate caution to avoid
+safety hazards. Press the Pause button anytime Solo is on the ground with the motors spinning to stop the motors.
+
+Figure 4.2.1.1: Controller- Start Motors Prompt                                                                          19
+$1\li,l'l!).ing propeUers can caJ.lS~ serious inJtJ.ry! Always make sure
+SQIO.is clear of~ny obstructions and all people and animals are away
+from\  Solol::\~fore spinningtoeprops.
+                                                           ·  ·
+
+4.2.2 Initiating Takeoff
+Hold Fly again to initiate takeoff. Solo wiU rise to 10 feet (3 m) and hover until receiving further control inputs.
+
+       Figure 4.2.2.1: Controller- Takeoff Prompts
+
+'a~~ware ofSolbl#.onentatloh~efo?etakeoff so. you can safely navigate Solo
+·A if:$·.up and awayfrom you once in the air. If Solo is facing towards you at
+& ,takeoff, move th~ right stick.b~i~,Ck; If Solo is taping away from you, move the
+!.,right stick forward,  ··· ·
+
+4.3 Landing
+
+Hold the Fly button to land Solo at its current location.
+
+                                                                            Figure 4.3.2.1: Controller- User-Initiated Landing
+
+                       A·'".··. When cot:nrrfand~d to land, $olo Wlliiand atthe~Urrent location,
+
+                                 ·· · · wher~v~r{j is, Always make.·sure there is a:¢1ear path toa· 'Safe landing
+                                                point ditectlybelow Solo before landing. ·.
+
+             After landing, the propellers will stop spinning automatically; wait until the propellers stop spinning before
+             approaching Solo. If the propellers do not stop, press the controller's Pause button or use the emergency shutoff
+            option described in Section 3.9.5.
+
+                                    Never aJ:?t:>roach Solo while:the propellers ate spinning. After an
+
+                                                auto..:.lant!ing or return-to-home, always wait until the propellers stop
+
+) before approaching or touching Solo.
+
+                                                                                                                                                                                         20
+4.4 Return Home
+
+The Home button ends your flight automatically by returning Solo to the home position (launch point) and landing.
+When commanded to Return Home, Solo:
+1 Achieves a minimum altitude of 49 feet (15 m) or maintains current altitude if above 98 feet.
+2 Moves to launch point and hovers for 5 seconds.
+3 Lands at the home point.
+
+                                     49 feet
+
+                      ~·
+
+                                  ·"*'
+
+                                                                                                       home
+
+                                                                     Figure 4.4.2.1: Return Horne Behavior
+
+          A Always verify th~t there is a clear path to the home point before activating
+                                    Return Home.
+
+4.5 In-Flight Data
+
+Use the controller's main data display to monitor Solo's status in flight.
+
+                                                    Figure 4.5.2.1: Controller- In-Flight Data
+
+Flight battery percentage remaining
+GPS signal strength and number of active satellites
+Active mode or Smart Shot ("Fly" indicates standard flight.)
+Controller battery level
+Solo Wi-Fi signal strength
+Horizontal distance from the home position (launch point)
+Current altitude
+Currently assigned functions of controller A and 8 buttons
+
+                                                                                                                   21
+4.6 Joystick Control
+
+The controller's two joysticks allow you to navigate Solo in flight. The left stick controls Solo's altitude and rotation.
+
+                                                                                     Figure 4.6.2.1: Controller L.eft Joystick
+
+             Move the left stick vertically to control Solo's altitude and acceleration.
+\
+)
+
+                                     To take off and to gain altitude,
+                                     move the. left stick slightly past
+                                     the center position.
+
+                                     Set the left stick to center to
+                                     maintain the current altitude.
+
+                                     Move the left stick back from
+                                     center to decrease altitude.
+
+                                    Set the left stick fully back to
+                                     land once Solo is a few inches
+                                    above the ground.
+
+                                                                                   Figure 4.6.2.2: Tl1rottle Joystick Behaviors
+
+                                                                                                                                 22
+Move the left stick horizontally to rotate Solo and control orientation.  ~
+
+                      Move the stick to the left to                         l*\
+                      rotate counterclockwise.
+
+                      Move the stick to the right to
+                      rotate clockwise.
+
+                       Release the stick to stop
+                       rotating the maintain the
+                      current orientation
+
+                                                                     Figure 4.6.2.3: Yaw Joystick Behavior           )
+                                                                                                                     J
+Use the right stick to fly Solo forward, back, left, and right. These movements are relative to Solo's current
+orientation, so always maintain awareness of Solo's forward-facing direction before using right-stick controls.
+
+Figure 4.6.2.4: Controller Right Joystick Controls
+
+                                                                                                                 23
+             Move the right stick vertically to control pitch.
+)
+
+                                          Move tht;3 right stick
+                                          forward .to fly forward.
+
+                                         Move the right stick
+                                           back to fly backward.
+
+                                                                                    Figure 4.6.2.5: Pitch Joystick Controls
+
+             Move the right stick horizontally to control roll.
+\
+)
+
+                                        Move the right stick
+                                        left to fly fett.
+
+                                        Move the right stick right
+                                         to tlyright
+
+                                                                                     Figure 4.6.2.6: Roll Joystick Controls
+
+                                                If you're new to drones, take some time to learn the basics before your
+                                             first flight. Vislt3dr.com/solo/info or check out Flight School in the Solo
+                                                 app to learn about filght controls and best practices.
+
+                                                                                                                             24
+4.7 App Interlace Overview
+
+The Solo app provides a simplified interface for viewing Solo's video feed and managing Smart Shots.
+
+                                                                       Figure 4. 7.2.1: App - Main lntetiace
+
+            Live video feed
+            Main menu
+            Horizontal distance from home
+            Altitude
+5 Shot List
+6 Flight battery percentage remaining
+            Controller signal strength
+8 Hide telemetry bar
+9 Map view
+            Start/stop recording to mobile device
+            Alerts and instructions
+
+4.7.1 Map View
+
+To access the small map view, swipe left from the right edge of the app. Swipe left again to full-screen the map, and
+tap the video display to hide the map. The map view is available only with GPS lock and on devices with cellular
+Internet.
+
+4.7.2 Shot List
+
+To access the Shot List, select the active mode or shot from the title bar. Choose from Selfie, Cable Cam, Orbit, and
+Follow to start a shot, or select Fly for standard flight.
+
+SEtHE  !J;-tH!T                                                     "'OLLOW
+
+~ V'laihng fur GPS                                                           "
+                         M.::-&&.iffl IDM~'_ffi~M#.<~<>"hi<'\'11">
+
+Figure 4. "! .2. 1: App - Shot List
+
+                                                                                                                       25
+Solo's Smart Shots automate video capturing to make it easy to get stunning aerial video. Cable Cam and Orbit are
+automatically assigned to the controller's A and B buttons. Use the app to access Selfie or Follow. Smart Shots are
+available only with the Solo app.
+
+When using Smart Shots without a Solo Gimbal, Solo cannot ensure that the subject is in the frame at all times.
+When attempting Smart Shots without a Solo Gimbal, adjust the camera mount so the camera is fixed at an
+appropriate angle to improve the chances of keeping the subject in the frame.
+
+5.1 Selfie
+
+In Selfie, Solo flies a smooth up-and-back path to capture a subject in a cinematic establishing shot. Before starting
+a selfie, always ensure that there is a clear path 200 feet (61 m) behind and above Solo. Once Selfie is activated,
+Solo will fly up and away from the subject to a point 164 feet (50 m) from the subject at 82 feet (25 m) altitude.
+
+                                                                    Figure 5.1 .2.-1: Selfie Path and Settings
+
+            Distance out (default 164ft.)
+2 Altitude up (default 82 ft.)
+
+            Flight path
+
+         ',A, .Always ensure th&t there rs a clear path 200 fe(')t (30 m) behind and
+                                   a~pveSolo befgt~'starting Selfii;1,pre~;;s Pause~fany time during Seltle
+                          . to:sto~ Solo. Press Fly at any time .to switch to: manual controL
+
+5.1.1 Selfie Setup
+To start Selfie, fly Solo to a starting point, facing the subject from approximately 10 feet away, and select Selfie from
+the Shot List. The app will prompt you to press the right arrow to start the selfie.
+
+                                                                      Figure 5.1.1.1: App - Selfie Activation
+
+5.1.2 Selfie Operation
+Tap the forward and back arrows in the app to fly Solo along the Selfie path. The default cruise speed when using
+the app to control Solo in Selfie is set to 9 mph (4 m/s).
+
+                                                                                                                           26
+                                                                                                                                                                                                                \,
+
+                                                                 Figure 5.1.2.1: i\pp - Selfie Control
+To control Selfie using the controller, use the right stick to move Solo forward and back along the Selfie path. Press
+Pause at any time to stop Solo; press Fly to exit to standard flight.
+
+                                                                   Figure 5.1.2.2: Controller- Selfie Control
+
+5.1.3 Settings
+To access the settings from the in-flight Selfie interface, select the option icon with the three dots in the bottom-
+right. Use the sliders to adjust distance out, altitude up, and cruise speed. Select Selfie How-To for instructions and
+tips.
+
+                                                                 Figure 5.1.3.1: App - Selfie Settings
+
+5.2 Cable Cam
+
+Cable Cam creates a smooth shot by flying Solo along an invisible cable between any two preset points.
+5.2.1 Starting Cable Cam
+Press A on the controller, or select Cable Cam from the Shot List on the app. Both devices will prompt you to fly
+Solo to your first point and press A to save it as the first Cable Cam point. Then fly to your second point and press B
+to save the second point. Try adding a difference in altitude or orientation between the two points for an impressive
+cinematic effect.
+
+                                                                                                                                                                                      27
+J. 0 ,-110} 0
+                                                            I\:__) C--__j \:__)
+                                           I
+                                                                         0®0 e~
+                                           1
+
+Figure 5.2.1 .I : App - Cable Cam Setup
+
+5.2.2 Cable Cam Operation
+
+To control Cable Cam through the app, tap the right arrow to move towards point A and tap the left arrow to move
+towards point B. Cable Cam's default cruise speed is set to 9 mph (4 m/s).
+
+                     AlWays ~nsure t~at rne·rfLllst·aclear pathbetwE:1:~~-poin~ A and B bef~rf';l
+                     startif!\rCable Cam.
+
+                                                                                 Figure 5.2.2.1: App - Cable Cam Controls
+\
+
+) To operate Cable Cam using the controller, move the right stick to the left to fly towards point A and to the right to
+             fly towards point B. Release the right stick to pause along the cable. Use the left stick to temporarily override the
+             camera and look left and right. Press Pause at any time to stop Solo; press Fly to exit to standard flight.
+
+DCamera                                 Cable
+
+!(8'Jo·,·                      8··<0}>·.~1
+                                                     ~
+~ :.
+                                                                     .,
+ :
+
+                                                              Figure 5.2.2.2: Controller·· Cable Cam Controls
+
+5.2.3 Cable Cam Settings
+
+To adjust Cable Cam's options, select the settings menu in the bottom-right corner. Automatic view lock prevents
+left-stick camera control during Cable Cam. Choose Fly Counterclockwise and Fly Clockwise to customize the
+direction Solo rotates between your A and B points. Select Cable Cam How-To for instructions and tips.
+
+r~v C(l'·''*"· ·:::loc:<ww..,  1t'Ji
+Cl\bf*C:af'llH:;w~1t·
+                               ~
+
+Figure 5.2.3.1: l\pp - Cable Cam Settings
+
+                                                                                                                                    28
+5.3 Orbit                                                                                                                     \
+
+Use Orbit to fly Solo along a preset circle while fixing the camera on a central target.
+
+5.3.1 Starting Orbit
+
+Select Orbit from the Shot List. The app will display the currently set radius of the orbit and show the location of the
+subject on the map. Fly Solo to correct the subject's position on the map if necessary then press A on the controller
+to lock onto the subject. The app will display a Subject Locked confirmation once the orbit subject is set. To adjust
+the position of the subject during Orbit, move the center point on the map.
+
+                                                                       Figure 5.3.1.1: App - Orbit Setup
+
+                         Soio wmq¥1t at a constantaltitud~:f~l~~ivelo its launch point~
+
+         .A not taking irto account ch?n!;ies inQround level. Be awar~bf any .
+                                elevatibns·chat;~ges at your !ocatiorrth{!ltvvould affect Sblo,Aiways.
+                       ensure there Is aciear path for Solo b~fore starttng Orbit.
+
+5.3.2 Orbit Operation
+Tap the !eft and right arrows to fly Solo along the Orbit path. The default cruise speed for Orbit is 2.2 mph (1 m/s).
+
+                                                                      Figure 5.3.2.1: App - Orbit Controls
+
+To control Orbit using the controller, move the right stick left and right to fly Solo along the Orbit path. Move the
+right stick up to reduce the radius of the orbit and move Solo closer to the subject; move the right stick down to
+increase the radius and move Solo away from the subject.
+
+Move the left stick left and right to temporarily override the camera's lock on the subject and look left and right.
+Move the left stick up and down to adjust Solo's altitude. Use the paddle on the top of the controller to raise and
+lower the altitude of the target. Press Pause at any time to stop Solo; press Fly to exit to standard flight.
+
+                                                                                                                          29
+Subject altitude
+
+  D
+
+Figure 5.3.2.2: Orbit Controls
+
+5.3.3 Orbit Settings
+Select the Orbit Settings Menu to adjust Solo's default cruise speed in Orbit.
+
+Orbit Sl>t«ngs    x
+
+                                                                       Figure 5.3.3. 1: App - Orbit Settings
+
+5.4 Follow
+
+Follow creates a virtual tether between Solo and your mobile device, allowing Solo to track you as you move. If
+the Follow subject is engaged in an activity that prevents them from using the controller, you are required to use a
+safety pilot during Follow. The subject will carry the mobile device and be followed by Solo, and the safety pilot will
+hold the controller and be ready to regain manual control at any time.
+
+Don't allow more than 500 feet of distance between the controller and the mobile device; however, specific range
+limits depend on the device being used. If too much distance is a!!owed between the contro!!er and the mobile
+device, the device could lose connection with the controller.
+
+                          Always ensure that there is a clear path tor Solo during Follow. tt
+
+                                   wm not avoid obstacles that come irito the flight path as a result of
+                                 fof!owlYlg the sub}ect.
+
+5.4.1 Follow Setup
+
+To start Follow, select Follow from the Shot List in the app and navigate Solo to face the subject. Tap the
+instructional bar to begin following.
+
+Figure 5.4. i. i: App - Follow Setup
+
+                                                                                                                         30
+5.4.2 Follow Operation
+Once activated, Solo will automatically follow the mobile device wherever the subject carries it. In the app, the
+subject can press the left and right arrows to orbit Solo around them. On the controller, move the right stick up and
+down to adjust the following distance, and move the right stick left and right to orbit around the subject. Use the
+left stick to adjust Solo's altitude during Follow and to override the camera tracking and temporarily pan the camera
+left and right. At any time during Follow, press Pause to stop Solo and the camera will continue to track the subject.
+Press Fly to return to standard flight.
+
+                  D
+
+                                                                          Figure 5.4.2.1: Follow Controls
+
+5.4.3 Follow Settings
+Select the Settings menu to adjust the default cruise speed during Follow. Follow's default cruise speed is set to 2.2
+mph (1 m/s).
+
+                                                                      Figure 5.4.3.1: App - Follow Settings
+
+                                                                                                                                                                                                            31
+The following alerts will appear on the controller in the event of a preflight or in flight error. Always monitor the
+controller for alerts and perform the recommended actions.
+
+6.1 Preflight Errors
+
+Before starting the motors, Solo runs a series of automatic checks to ensure that the system is ready for flight.
+
+6.1.1 Calibration
+The following errors indicate that a preflight check is in progress: altitude calibrating, calibrating solo, and calibrating
+compass. Please wait for the error to clear before continuing.
+
+                                                         Figure 6.1. ·1 .·1: Controller - Caiibration in Progress Alerts
+
+If Solo is not placed on a level surface, you will receive the following alert to move Solo to a level surface for takeoff.
+
+                                                               Figure 6.1 .1 .2: Controller - Uneven Surface Alert
+
+If Solo requires manual calibration, the following alert messages show the displays for compass and level
+calibrations. Refer to Section 9.2 for compass and level calibration instructions.
+
+                                                        Figure 6.1.1.3: Controller- Re-Calibration Required Alerts
+
+In the case of a calibration or sensor error during startup, restart Solo to clear the following alerts.
+
+                                                                                                                              32
+                                                          Figure 6. 1. ·1.4: Controller - Calibration Error Alert
+
+6.1.2 Service Alerts
+The following alerts indicate a system error that requires service. Use the app to submit a trouble ticket with 3DR
+Support or contact an authorized Solo Service Center to service Solo and clear the alert. A control stick error can
+occur either in flight or before takeoff. If the control stick error is received in flight, Solo will return home and land.
+
+                                                              Figure 6. ·1 .2. i: Controller - Service Alerts
+
+6.2 In-Flight Errors
+
+During flight, the controller monitors Solo's GPS signal, controller signal, flight battery level, and controller battery
+level.
+6.2.1 Altitude Limit
+If Solo reaches the altitude limit during flight, it will maintain and not exceed that altitude and the controller will
+display the following alert.
+
+                                                           Figure 6.2. i. i: Controller -Altitude Limit Alert
+
+6.2.2 App Connection
+The controller will display the following banner-style alerts in the event that the Solo app is connected to or
+disconnected from Solo. We recommend having an active connection to the Solo app at all times during flight. Refer
+to Section 2.6 for connecting to Solo Wi-Fi with the app. Solo will not return home if the connection to the app in
+lost during flight.
+
+                                                                                                                                                                                           33
+                                                            Figure 6.2.2.1: Contmller- App Connection Alerts
+
+6.2.3 Controller Signal Alerts
+
+Flying behind solid objects, like buildings and trees, blocks communication signals between Solo and the controller.
+Always maintain visual contact with Solo to ensure that the signal is unobstructed. Cell phone towers and nearby
+Wi-Fi signals can cause interference with the communication system and decrease its range. Avoid flying in
+populated areas to avoid sources of interference.
+
+If the controller becomes unpaired from Solo during flight, the controller will display the following alert and Solo will
+Return Home. See Section 9.3 for pairing instructions.
+
+                                                                       Figure 6.2.3.1: Controller- Controller Disconnected Alert
+
+\
+             If the signal between Solo and the controller is lost during flight, the controller will display the controller signal lost
+             alert and Solo will Return Home. If signal is recovered while returning home, the controller will display the signal
+             recovered alert and provide the option to regain manual control by pressing the Fly button.
+
+                                                            Figure 6.2.3.2: Controllet·- Controller Signal Alerts
+
+6.2.4 GPS Signal Alerts
+
+If GPS is lost during flight, Solo will switch into Fly: Manual. In the event of a loss of GPS, we recommend landing
+Solo and waiting to acquire GPS lock before taking off again.
+
+In Fly: Manual, Solo uses the same joystick controls as in standard flight (displayed as "Fly"), but it does not include
+any GPS positioning. Therefore, in Fly: Manual, Solo will not hold its position when the right stick is released, and
+you must maintain close control over roll, pitch, and yaw. Without GPS, Pause, Return Home, and Smart Shots are
+not available. During Land, Solo will not be able to maintain position due to the lack of GPS positioning and will drift
+according to wind and other environmental conditions. If another alert occurs while Solo is in Fly: Manual, Solo will
+not be able to Return Home and will instead initiate a non-positioned landing at the current location.
+
+If GPS is recovered in flight, Solo will switch from Fly: Manual to standard flight (Fly), and GPS positioning will
+activate. The following displays show (from left to right) the GPS lost alert, Solo in Fly:Manual, and GPS recovered
+alert. Always choose a location with a clear view of the sky to improve GPS signal strength.
+
+                                                                                                                                          34
+                                                               Figure 6.2.4.1: Controller- GPS Signal Alerts
+
+6.2.5 Flight Battery Alerts
+The controller monitors the Solo battery during flight and provides alerts when the battery reaches critical levels. At
+25% and 1O% power remaining, the controller will provide a land-soon alert recommending that you end your flight
+to prevent an automatic landing.
+
+                                                               Figure 6.2.5.1: Controller - Low Battety Alerts
+
+If the battery reaches 5%, Solo will Return Home to prevent a crash. After landing, turn off Solo immediately; if the
+battery level reaches 0% at any time, irreversible damage will occur and the battery should be recycled.
+
+                                                              Figure 6.2.5.2: Controller- Critical Battety Alert
+
+6.2.6 Controller Battery Alerts
+
+When the controller battery reaches 10% of its remaining charge, the controller will display an alert to notify you to
+charge the controller at your next opportunity. At 5%, the controller will prompt you to end your flight and charge
+the controller. If the controller battery reaches a critical level in flight, Solo will Return Home. The following displays
+show (left to right) the 10%, 5%, and 0% alerts
+
+Figure 6.2.6.1: Controller- Controller Battety Alerts
+
+                                                                                                                             35
+             This section provides instructions for accessing and using Solo's advanced features and settings.
+
+      7.1 Advanced Flight Modes
+
+             Are you a quadcopter pro? We designed Solo to be simple and reliable, but also really fun to fly. Solo includes five
+             advanced flight modes: FLY:Manual, stabilize, aero, sport, and drift.
+
+                                         Advandect flight mod~~ are for experienced operators only. Do not
+                                       attempt to ft¥'1!1 any advanced modes unless you are comfortable
+
+                                                 flying multl&opters without positioning and altitude assistance.
+
+             7.1.1 Fly:Manual
+
+             Fly: Manual mode is a version of standard flight without GPS lock. In Fly:Manual, the throttle stick controls altitude
+             the same way as standard flight (Fly mode). However, Fly: Manual includes no GPS positioning so that, when
+             you release the right stick, Solo will not hold its position; it will drift according to wind conditions and existing
+             momentum. When flying in Fly: Manual, make constant adjustment to the right stick to control Solo's position and
+             use the left stick to maintain Solo's orientation.
+
+             7.1.2 Stabilize
+
+             Stabilize mode provides full manual control without autopilot assistance. In stabilize, the autopilot regulates Solo's
+             roll and pitch angles so that Solo returns to level when you release the right stick. The throttle stick controls power
+             and acceleration directly; it does not correspond to altitude. Stabilize requires fine-tuned control of both the left and
+             right sticks to fly Solo. Stabilize does not require GPS lock.
+
+             7.1.3 Drift
+
+             Drift modes requires GPS lock and provides a plane-like flying experience. Drift is ideal for navigating Solo using
+             the video feed. This is known as first-person view (FPV) and provides an immersive flying experience. In drift, Solo
+             combines roll, pitch, and yaw onto the controller's right stick. To navigate Solo in drift, move the right stick to initiate
+             a coordinated turn in that direction. Releasing the right stick will cause Solo to drift to a stop over a two-second
+             period. Solo does not automatically control altitude in drift, and will require constant adjustments to the throttle stick
+             when flying in drift.
+
+             7.1.4 Aero
+
+             Aero is the most advanced of Solo's flight modes. It provides unrestricted control over Solo's roll and pitch angles.
+             Aero is intended for performing aerial acrobatics, flips, and maneuvers requiring extreme angles. There is no altitude
+             or position assistance in aero, so be prepared to make constant adjustment to both sticks. Aero is a copter-frame
+             oriented mode, meaning that, in aero, Solo will always respond to controls relative to its own orientation. Aero does
+             not require GPS lock.
+
+                                        Do not fly in aero unless you are an extremely experienced operator.
+
+                                              Without the proper skills; 'Cr<iishes in aero are highly likely, '
+
+I
+
+j
+
+                                                                                                                                                                                            36
+7.1.5 Sport
+
+Sport mode in a modified version of aero that includes altitude assistance and earth-frame orientation. With
+altitude assistance, the throttle stick behaves the same in sport as it does in standard flight (Fly mode). Earth-frame
+orientation differs from copter-frame orientation in that the direction of yaw rotation is in relation to the earth instead
+of in relation to the copter itself. For example, if Solo is pitched forward in sport mode and left yaw is applied,
+Solo will maintain the same pitch angle and rotate around the vertical axis. As opposed to in aero's copter-frame
+orientation, in which, in the same situation, Solo will perform a cartwheel. Sport does not require GPS lock.
+
+7.2 Enabling Advanced Flight Modes
+
+To unlock Solo's advanced flight modes, use the app to select Advanced Settings from the Settings menu. Toggle
+the Enable Advanced Flight Modes option to gain access to Solo's advanced modes.
+
+                                                                  Figure 7.2.5. ·1: App- Advanced Settings                                                                                  )
+
+7.3 Accessing Advanced Flight Modes
+
+Once enabled, advanced flight modes can be accessed only be assigning them to the controller's A and B buttons
+using the app. In the app, select Preset A or Preset B from the Solo menu. (The app must be connected to Solo to
+apply button assignments.) Once assigned, use the controller to activate advanced modes during flight.
+
+                                                                                                                           Oti!t
+
+                                                              Figure 7 .3.5.1: App - A and B Presets
+
+7.4 Home Position Safety
+
+Fly:Manual, stabilize, aero, and sport modes do not require GPS lock. To take off without GPS lock, Solo must be
+set to one of these modes. Without an active GPS signal, Return Home, Pause, and Smart Shots will be disabled.
+If you choose to take off without GPS lock, Solo will not save a home position at the launch point. If Solo acquires
+GPS lock mid-flight, the autopilot will save a home position at that location. To prevent a potentially unsafe situation,
+do not use Return Home if Solo did not acquire GPS prior to takeoff.
+
+                                   If Solo did not acquire GPS lock prior to takeoff, do not use Return
+                                   Hom17.
+
+                                                                                                                                                                                        37
+\ 7.5 Performance Adjustment
+
+j
+
+             The Solo app includes options to adjust Solo's performance to suit your flying style. To access the performance
+             sliders, select Performance from the Solo menu. The flight slider controls how fast Solo flies and how responsive
+             it is to controls. The camera pan slider regulates the speed that Solo rotates. Move the slider towards the turtle for
+             slower, more cushioned movement, or move the slider towards the rabbit for faster, more responsive movement.
+
+    Medium
+
+·.          4
+
+                                                           Figure 7.5.5.1: App - Pe1iormance Sliders
+
+7.6 Units
+
+To change the units in the Solo app from imperial to metric, select Units from the Settings menu.
+
+                                                                             Figure 7.6.5.1: App - Change Units
+
+     7.7 Maximum Altitude Adjustment
+
+            To adjust the altitude limit, select Altitude Limit from the Solo menu. If you choose to select No llmit, ensure that you
+            always operate Solo within your visual line of sight and in compliance with local regulations.
+
+                                                                                                                                                                 400ft
+
+                                                                              Figure 7. 7.5.1: App - Altitude Limit
+
+)
+
+                                                                                                                                                                                               38
+3DR Support is here to help you get the most out of Solo. If you have any questions, please contact us at
+support@3dr.com or give us a call at 1 (855) 982-2898 (toll free in the US and Canada) or direct at +1 (858) 225-
+1414. To submit a support request through our website, visit 3dr.com/support.
+
+Use the Solo app to submit a trouble ticket and your flight logs will automatically be sent to 3DR Support. To submit
+a support request within the Solo app, select Support from the main menu, and select Log Trouble Ticket.
+
+   Having Flight Troubles?                           Ema:iSupp<Vl:
+ ; cn <1 t:O'Jt·l~ t;::-k<:<t fl'ld ~1<" wi~ swk-i
+
+  C<!Sl<Xr:t~· ;;up,-~,!1 <~n ~~rt1il w~th .,..,.,,
+
+":1&l$ \let.~ jjig!il M<1 b(>\iH \ltldGr$.(H1J6
+    !~~ ;-.-df(:f:; ',a! ;ve c.xpN,('.<=<:'-<::1.
+
+Figure 8. 7.5.1 : App - Submit Trouble Ticket
+
+This section covers basic operational maintenance procedures for Solo. For repairs not covered in this manual,
+contact 3DR Support or an authorized Solo Service Center.
+
+Solo's exterior components are designed to absorb impact from hard landings and protect the core electronics.
+If damage is sustained to Solo's legs or motors, replace them with official 3DR parts from store.3dr.com or an
+authorized retailer. 3DR offers an extended controller battery upgrade with double the capacity so you can fly more
+between charges. Before opening the battery bay or performing any maintenance on Solo, always ensure that Solo
+is powered off with the battery removed.
+
+9.1 Controller Battery Replacement
+
+To replace the controller battery, open the battery door on the back of the controller. Remove the foam block and
+disconnect the battery from the port in the side of the battery compartment. To install a battery, connect the battery
+to the controller, and, for standard-size controller batteries, use the foam block to pad the empty space in the
+compartment. See Section 3.11 for information on safely storing spare controller batteries.
+
+Figure 9.1.5.1: Controller Battery Installation
+
+                                                                                                                        39
+9.2 Calibrations
+
+Use the Solo app to perform compass and level calibrations when prompted by the controller. Remove Solo's
+propellers before performing calibrations.
+
+9.2.1 Compass Calibration
+
+To calibrate Solo's compass, connect the app to Solo Wi-Fi and select Compass Calibration from the Solo menu.
+Ensure that Solo and the controller are powered on with the propellers removed. Solo requires an interference-free
+environment for compass calibration, so ensure that you are away from metal buildings, reinforced concrete, or
+other metal structures before starting calibration.
+
+                                                        Figure 9.2. i. i: App - Compass Calibration Setup
+
+The app will prompt you to rotate Solo end-over-end multiple times until the bar at the top of the screen is
+completely green. If the calibration fails, move to a different location and try again.
+
+~ "' v '  Comp-ass Ga!lbfatmn
+
+          fl:ntat<:< :Suio mu!Ut.-'4:0 1ime.s Until tlm hm< iS- green.
+
+          ,,,, '· ,. ·,: !~:;.;.:· '~"'~·"' ,.,.~·.·:.;  ,.,,.,,·:.
+
+Figure 9.2.1 .2: App- Compass Calibration Procedure
+
+9.2.2 Level Calibration
+
+A level calibration zeroes Solo's accelerometers to recognize static states. To perform a level calibration, remove
+the propellers from Solo and connect the app to Solo Wi-Fi. Select Level Calibration from the Solo menu, and follow
+the prompts to place Solo perfectly still on each side in turn. In each step, wait a few seconds after moving Solo to
+press Next.
+
+Figure 9.2.2.1: App - Level Calibration
+
+                                                                                                                       40
+9.3 Pairing
+
+To pair a controller with Solo, power both the controller and Solo. Power off any other Solos or controllers in the
+vicinity. Once powered, use a paper clip to press the pair button on the underside of Solo to activate pairing mode.
+
+                                                                         Figur·e 9.3.2.1: Solo Pair Button
+
+The controller will automatically detect Solo and prompt you to pair. This can take up to 3 minutes. Hold the A and B
+buttons on the controller to start pairing. To cancel pairing, press B.
+
+                                                                 Figure 9.3.2.2: Controller Pairing Procedure
+
+                                                                                                                                                                                                             41
+

@@ -1,0 +1,1119 @@
+September 16, 2015
+
+                                                           Exemption No. 12870
+                                                           Regulatory Docket No. FAA-2014-0842
+
+Mr. Donald G. Bintz
+President
+Unmanned Systems, Inc.
+2709 Cyrano Street
+Henderson, NV 89044
+
+Dear Mr. Bintz:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letters dated October 14, 2014, January 26, 2015, and May 27, 2015, you petitioned the
+Federal Aviation Administration (FAA) on behalf of Unmanned Systems, Inc. (hereinafter
+petitioner or operator) for an exemption. The petitioner requested to operate an unmanned
+aircraft system (UAS) to conduct training1 and research operations.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner. The FAA received two
+individual comments in opposition to the petition and one in support. In granting this
+exemption, the FAA has determined that the proposed operations can safely be conducted
+under the conditions and limitations of this exemption. As with exemptions issued to Aeryon
+
+1 The petitioner requested authority to conduct UAS training. At this time, the FAA is unable to authorize UAS
+operations for training until a further assessment is completed. When the FAA completes its review, we will
+proceed accordingly and no further action will be required by the petitioner. However, the petitioner is permitted
+to train its own pilot in commands and visual observers in accordance with condition no. 14 and the other
+conditions and limitations in this exemption.
+                                                                                                                 2
+
+Lab, Astraeus Aerial, Clayco, Inc., and VDOS Global, LLC, failure to comply with the
+document's conditions and limitations is grounds for immediate suspension or rescission of
+the exemption.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner is a Sandstorm.
+
+The petitioner requested relief from 14 CFR part 21, Certification procedures for products
+and parts, Subpart H--Airworthiness Certificates. In accordance with the statutory criteria
+provided in Section 333 of Public Law 112-95 in reference to 49 U.S.C. § 44704, and in
+consideration of the size, weight, speed, and limited operating area associated with the
+aircraft and its operation, the Secretary of Transportation has determined that this aircraft
+meets the conditions of Section 333. Therefore, the FAA finds that the requested relief from
+14 CFR part 21, Certification procedures for products and parts, Subpart H--Airworthiness
+Certificates, and any associated noise certification and testing requirements of part 36, is
+not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection2. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+ They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+ The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+ A grant of exemption is in the public interest.
+
+2 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                              3
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, Unmanned Systems, Inc. is granted an exemption from
+14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a), 91.7(a), 91.119(c),
+91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a) and (b), to
+the extent necessary to allow the petitioner to operate a UAS to perform aerial data collection.
+This exemption is subject to the conditions and limitations listed below.
+
+Conditions and Limitations
+
+In this grant of exemption, Unmanned Systems, Inc. is hereafter referred to as the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+1. Operations authorized by this grant of exemption are limited to the Sandstorm when
+    weighing less than 55 pounds including payload. Proposed operations of any other
+    aircraft will require a new petition or a petition to amend this exemption.
+
+2. Operations for the purpose of closed-set motion picture and television filming are
+    not permitted.
+
+3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+    exemption holder may use either groundspeed or calibrated airspeed to determine
+    compliance with the 87 knot speed restriction. In no case will the UA be operated at
+    airspeeds greater than the maximum UA operating airspeed recommended by the
+    aircraft manufacturer.
+
+4. The UA must be operated at an altitude of no more than 400 feet above ground level
+    (AGL). Altitude must be reported in feet AGL.
+
+5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+
+    This requires the PIC to be able to use human vision unaided by any device other than
+    corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+    U.S. driver's license.
+
+6. All operations must utilize a visual observer (VO). The UA must be operated within
+    the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+    to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+    capability. The VO and PIC must be able to communicate verbally at all times;
+    electronic messaging or texting is not permitted during flight operations. The PIC
+    must be designated before the flight and cannot transfer his or her designation for the
+                                                                                            4
+
+duration of the flight. The PIC must ensure that the VO can perform the duties
+required of the VO.
+
+7. This exemption and all documents needed to operate the UAS and conduct its
+    operations in accordance with the conditions and limitations stated in this grant of
+    exemption, are hereinafter referred to as the operating documents. The operating
+    documents must be accessible during UAS operations and made available to the
+    Administrator upon request. If a discrepancy exists between the conditions and
+    limitations in this exemption and the procedures outlined in the operating documents,
+    the conditions and limitations herein take precedence and must be followed.
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+                                                                                                            5
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+                                                                                                            6
+
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+    exemption holder may apply for a new or amended COA if it intends to conduct
+    operations that cannot be conducted under the terms of the attached COA.
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+    be as large as practicable.
+
+23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+    any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+    PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+    These documents must be made available to the Administrator or any law enforcement
+    official upon request.
+
+24. The UA must remain clear and give way to all manned aviation operations and
+    activities at all times.
+
+25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless:
+      a. Barriers or structures are present that sufficiently protect nonparticipating persons
+          from the UA and/or debris in the event of an accident. The operator must ensure
+          that nonparticipating persons remain under such protection. If a situation arises
+          where nonparticipating persons leave such protection and are within 500 feet of
+          the UA, flight operations must cease immediately in a manner ensuring the safety
+          of nonparticipating persons; and
+      b. The owner/controller of any vessels, vehicles or structures has granted permission
+          for operating closer to those objects and the PIC has made a safety assessment of
+          the risk of operating closer to those objects and determined that it does not
+          present an undue hazard.
+
+    The PIC, VO, operator trainees or essential persons are not considered
+    nonparticipating persons under this exemption.
+
+27. All operations shall be conducted over private or controlled-access property with
+    permission from the property owner/controller or authorized representative.
+    Permission from property owner/controller or authorized representative will be
+    obtained for each flight to be conducted.
+                                                                                                                 7
+
+    28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+         boundaries of the operational area as defined by the applicable COA must be reported
+         to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+         reported to the National Transportation Safety Board (NTSB) per instructions
+         contained on the NTSB Web site: www.ntsb.gov.
+
+ If this exemption permits operations for the purpose of closed-set motion picture and
+ television filming and production, the following additional conditions and limitations apply.
+
+    29. The operator must have a motion picture and television operations manual (MPTOM)
+         as documented in this grant of exemption.
+
+    30. At least 3 days before aerial filming, the operator of the UAS affected by this
+         exemption must submit a written Plan of Activities to the local Flight Standards
+         District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+         notification may be waived with the concurrence of the FSDO. The plan of activities
+         must include at least the following:
+           a. Dates and times for all flights;
+           b. Name and phone number of the operator for the UAS aerial filming conducted
+              under this grant of exemption;
+           c. Name and phone number of the person responsible for the on-scene operation of
+              the UAS;
+           d. Make, model, and serial or N-Number of UAS to be used;
+           e. Name and certificate number of UAS PICs involved in the aerial filming;
+           f. A statement that the operator has obtained permission from property owners
+              and/or local officials to conduct the filming production event; the list of those
+              who gave permission must be made available to the inspector upon request;
+           g. Signature of exemption holder or representative; and
+           h. A description of the flight activity, including maps or diagrams of any area, city,
+              town, county, and/or state over which filming will be conducted and the altitudes
+              essential to accomplish the operation.
+
+    31. Flight operations may be conducted closer than 500 feet from participating persons
+         consenting to be involved and necessary for the filming production, as specified in the
+         exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                                                 8
+
+This exemption terminates on September 30, 2017, unless sooner superseded or rescinded.
+
+Sincerely,
+/s/
+
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+October 14, 2014
+
+U.S. Department of Transportation
+Docket Management System
+1200 New Jersey Ave., SE
+Washington, DC 20590
+
+RE: Exemption Request Under Section 333 of the FAA Modernization and Reform Act of
+      2012 and 14 C.F.R. Part 11
+
+Dear Sir or Madam:
+
+Pursuant to Section 333 of the FAA Modernization and Reform Act of 2012 ("FAA Reform Act")
+and 14 C.F.R. Part 11, Unmanned Systems, Inc. ("USI") request exemptions from two
+provisions of the Federal Aviation Regulations ("FAR"), specifically portions of 14 C.F.R. Part §
+91.119 and Part § 91.151(a) to allow, commercial operations of its Sandstorm unmanned aerial
+system ("Sandstorm") in the continental United States ("CONUS") by individuals who, at a
+minimum, maintain a FAA commercial pilot certification or FAA-recognized equivalents, and
+have successfully completed USI's FAA approved training plan for Sandstorm.
+
+The Sandstorm is an all-environment, electric-powered, traditional fixed wing take-off and
+landing small unmanned aerial system ("UAS") that, is capable of transmitting live airborne
+location and video information to a Ground Control Station ("GCS"). Depending on payload
+configuration, Sandstorm will also be able of transmitting real-time high resolution video and
+photogrammetry collection to the ground based camera control station and stored on board for
+post flight production and forensics. The Sandstorm has a maximum weight of 70 pounds
+including payloads, a wingspan of 15 feet, and a length of 8 feet. The Sandstorm airplane
+weight without payload is a maximum of 40 pounds. The Sandstorm's normal cruising speed
+and maximum speed are 40-60 knots indicated airspeed and 80 knots indicated airspeed,
+respectively. It is battery powered that provides a flight endurance between one and one-half
+hours and three hours depending on battery configuration. Sandstorm is capable of operation in
+temperatures ranging from -15°F to 115°F. Launch and recovery of the aircraft is conducted via
+traditional fixed-wing take-off and landing procedures. The Sandstorm's 900 MHz datalink and
+2.4 GHz control link has a range of five miles and provides all positional information and control
+capability required for safe operation of the aircraft.
+
+The Sandstorm is unique among the various UASs applying for exemptions under Section 333
+because it has received a Special Experimental Airworthiness Certificate from the FAA based
+on its operations near Columbia Falls, Montana. The Sandstorm has an unparalleled safety
+record based on our current and on-going flight operations in Montana with FAA certified
+aircraft. When this experience is considered in tandem with the remote areas in which it will
+operate, it becomes clear that the Sandstorm can operate safely in the National Airspace
+System ("NAS"), without posing a threat to national security, by operating in accordance with the
+requirements discussed herein.
+
+The Sandstorm's capabilities, along with USI's experience to date, make it ideally suited to
+conduct commercial operations such as commercial film production, agriculture, aerial
+surveying, and patrolling in remote areas (i.e. non-congested or non-populated areas, private or
+controlled-access property) under Class E or Class G airspace and within Visual Line of Sight
+("VLOS"). Use of the Sandstorm reduces the need to operate manned aircraft, decreasing the
+risk to the pilot, crew, and those on the ground as the Sandstorm will be transported to the
+U.S. Department of Transportation
+October 14, 2014
+Page 2 of 7
+
+operational site for launch and recovery and will be not flown to the location with a load of
+flammable fuel.
+
+As a result of the Sandstorm's size, weight, maximum speed, operational capability, and safety
+record; the distance at which it will operate from airports and populated areas; and its operation
+using visual observers to provide de-confliction from other air traffic, the Sandstorm does not
+create a hazard to users of the NAS or the public. Neither does it pose a threat to national
+security. Therefore, the FAA should grant USI the requested exemptions. Alternatively, if the
+FAA finds that modification of USI's application is required for safe operation of the Sandstorm
+in the NAS, USI requests that the FAA delineate the required modifications and either process
+USI's application as if the modifications were already made or allow USI to amend its
+application to incorporate the FAA's findings.
+
+The name and address of the applicant are:
+
+Unmanned Systems Inc.
+Address: 2709 Cyrano Street, Henderson NV 89044
+
+Attn: Don Bintz
+Ph: (702) 324-9966
+Fax: (702) 656-8782
+Email: Don.Bintz@unmannedsystemsinc.com
+
+Attn: William Reynolds
+Ph: (702) 606-7539
+Email: bill.reynolds@unmannedsystemsinc.com
+
+USI's exemption request encompasses the following regulations:
+
+14 C.F.R. § 21 subpart H
+14 C.F.R. § 91.119
+14 C.F.R. § 91.151(a)
+
+                           Section 333's Mandate and the Federal Aviation Act
+
+Grant of this exemption application for use of the Sandstorm in agriculture, precision aerial
+surveys, and patrols, pursuant to the exemption requested herein, will advance the
+Congressional mandate in Section 333 of the FAA Reform Act to accelerate the introduction of
+UASs into the NAS. Section 333 directs the Secretary of Transportation to consider whether
+certain UASs may operate safely in the NAS before completion of the rulemaking required
+under Section 332 of the FAA Reform Act. To make that determination, the Secretary must
+evaluate which types of UASs do not create a hazard to users of the NAS or the public or pose
+a threat to national security in light of several criteria:
+
+         · The UAS's size, weight, speed, and operational capability;
+         · Operation of the UAS in close proximity to airports and populated areas; and
+         · Operation of the UAS within visual line of sight of the operator.
+U.S. Department of Transportation
+October 14, 2014
+Page 3 of 7
+
+FAA Reform Act § 333(b)(1). Once the Secretary determines that such vehicles "may operate
+safely in the national airspace system, the Secretary shall establish requirements for the safe
+operation of such aircraft in the national airspace system." Id. § 333(c) (emphasis added).
+
+The Federal Aviation Act expressly grants the FAA the authority to issue exemptions. 49 U.S.C.
+§ 44701(f). This statutory authority, by its terms, includes exempting civil aircraft, as the term is
+defined under §40101 of the Act, from the requirements that all civil aircraft must have a current
+airworthiness certificate, 49 U.S.C. § 44711(a), and those used in commercial service must be
+piloted by private and/or commercial pilots. 14 C.F.R. §§ 61.113(a) and (b), 61.133.
+
+The grant of the requested exemption is in the public interest based on (i) the clear direction in
+Section 333 of the FAA Reform Act; (ii) additional authority in the Federal Aviation Act, as
+amended; (iii) the strong equivalent level of safety surrounding the proposed operations; and (iv)
+the significant public benefit, including enhanced safety and cost savings associated with
+utilizing UASs for commercial film production, agriculture, aerial survey photography, and
+patrolling. Accordingly, USI respectfully requests that the FAA grant the requested exemption
+without delay.
+
+                                                      Airworthiness
+
+The Sandstorm is safe and fit for operation in the NAS under the conditions listed herein. The
+FAA has deemed the Sandstorm safe by initially issuing a Special FAA Experimental
+Airworthiness Certificate for flight on September 14, 2011. USI has flown the Sandstorm since
+this date in 2011 and currently continues to operate near Columbia Falls, Montana under the
+FAA issued Experimental Airworthiness Certificate for Unmanned Aircraft with an assigned
+Registration Mark N441KS, being the first tail USI got certified.
+
+In support of this application, USI can provide with a request for confidentiality, the following
+documents: the Combined Sandstorm S3TM Aircrew Operating Handbook ("AOH"); the USI
+Local Pilot Initial Qualification Syllabus; the USI Observer Initial Qualification Syllabus; and the
+USI Safety Pilot Initial Qualification Syllabus.
+
+                                        Mandatory Operating Conditions
+
+USI proposes that the grant of the exemption be subject to the following mandatory conditions,
+which are based upon operating conditions set forth for operation of UAS by public entities
+pursuant to Certificates of Waiver or Authorization, with additional restrictions:
+.
+
+         · Operations to avoid congested or populated areas to the maximum extent possible.
+         · Operations to be conducted over private or controlled-access property.
+         · Permission from land owner/controller required before commencing any flight.
+         · Operations to occur during Visual Flight Rules Meteorological Conditions (VMC).
+         · Aircraft to remain within Visual Line of Sight (VLOS).
+         · Operations to occur during daylight hours.
+         · Above Ground Level (AGL) altitude to be restricted to 400 feet and below.
+         · All operations conducted in vicinity of airport to remain more than 2.5 NM from
+
+            centerline azimuth of runway centerline measured from runway thresholds.
+         · Operator will file a NOTAM for each flight.
+         · All required authorizations and permits will be obtained from territorial, state, county, or
+
+            city jurisdictions, including local law enforcement, fire, or other governmental agencies.
+U.S. Department of Transportation
+October 14, 2014
+Page 4 of 7
+
+                                               Operator Requirements
+
+USI respectfully proposes that operator requirements should take into account the
+characteristics of the particular UAS. The Sandstorm is an inherently stable, light-weight aircraft
+that weighs less than 40 pounds without payload, has a proven safety flight safety record and
+will be operated in remote areas.
+
+Sandstorm is configured to give the Local Pilot ("LP") or Remote Pilot ("RP") full control of the
+aircraft during all phases of flight. It is equipped with an advanced autopilot that can be used to
+fly the aircraft in one of four modes: Stabilized, Return to Home ("RTH"), Circle or Nav.
+Stabilized mode commands the aircraft to fly straight and level with no input from the pilot. RTH
+mode commands the aircraft to fly to a "return to home point" designated by the pilot and then
+circle until transitioned to manual control by the pilot. Circle mode commands the aircraft to
+circle around its current position until the pilot takes control manually or activates another
+autopilot mode. Engaging Nav mode commands the aircraft to fly to pre-programmed waypoints
+designated by the pilot on the GCS Map screen. Each of these autopilot modes creates a
+predictable aircraft flight pattern that allows Sandstorm to operate within the intended flight
+envelope with minimal input from the pilot. Flight limits are coded into the autopilot and define
+the aircraft's normal flight operating envelope. Manual flight modes that do not use the autopilot
+require the operator to provide control input to maintain heading, altitude and airspeed. Pitch,
+roll and throttle inputs are accomplished by the LP using the handheld radio
+controller/transmitter (JR-12X) or by the RP using GCS RP Control Stick station via the 900
+MHz or 2.4 GHz link respectively.
+
+The GCS is the primary control station; providing the RP situational awareness and command
+and control interface for the UA. The S³TM GCS is a environment consisting of three monitor
+displays including a Map screen, a Head-up Display (HUD) screen, and a Standby Instrument
+Panel screen. Flight controls consist of a control stick, throttle, and rudder pedals. Additional
+system controls utilize touchscreen "push buttons" on the three displays to control gear position,
+flap position, barometric altimeter setting, transponder settings, autopilot modes, and active
+control link selections. The LP will always have the capability to take control of the aircraft with
+the handheld JR-12X if necessary for safety of flight in all phases of flight while maintaining
+VLOS.
+
+In the event of a Total Lost-Link ("TLL") the autopilot shall navigate the UAS back to a
+designated Return to Home ("RTH") point. Standard operating procedures will have a
+designated RTH point prior to every flight. While in circle mode around the RTH point, recovery
+of control should be possible. In the event that recovery of control link is not possible, the UAS
+will spiral down to a controlled landing around the designated RTH point. If the motor batteries
+have been depleted, the avionics and flight control surfaces are powered independently to allow
+for continued control by the LP to conduct a pilot controlled landing of the aircraft.
+
+             Specific Exemption Requests and Equivalent Level of Safety Showings
+
+14 C.F.R. Part 21, Subpart H: Airworthiness Certificates
+U.S. Department of Transportation
+October 14, 2014
+Page 5 of 7
+
+Subpart H, entitled Airworthiness Certificates, establishes the procedural requirements for the
+issuance of airworthiness certificates as required by FAR §91.203 (a) (1). Given the size and
+limited operating area associated with the aircraft to be utilized by the Applicant, an exemption
+from Part 21 Subpart H meets the requirements of an equivalent level of safety under Part 11
+and Section 333 of the Reform Act. The Federal Aviation Act (49 U.S.C.§44701 (f)) and Section
+333 of the Reform Act both authorize the FAA to exempt aircraft from the requirement for an
+airworthiness certificate, upon consideration of the size, weight, speed, operational capability,
+and proximity to airports and populated areas of the particular UAS. In all cases, an analysis of
+these criteria demonstrates that the UAS operated without an airworthiness certificate, in the
+restricted environment and under the conditions proposed will be at least as safe, or safer, than
+a conventional aircraft (fixed wing or rotorcraft) operating with an airworthiness certificate
+without the restrictions and conditions proposed.
+
+Sandstorm has already been certified as airworthy via a Special Airworthiness certificate of the
+Experimental class and has been recertified as such on four separate occasions. The
+exemption USI seeks at this time is to be able to conduct commercial operations while only
+having an Experimental certification.
+
+14 C.F.R. § 91.119: Minimum Safe Altitudes
+
+Section 91.119 establishes safe altitudes for operation of civil aircraft. Specifically, Section
+91.119(c) limits aircraft flying over areas other than congested areas to an altitude of 500 feet
+above the surface, except over open water or sparsely populated areas. In those cases, the
+aircraft may not be operated closer than 500 feet to any person, vessel, vehicle, or structure.
+
+As set forth herein, the Sandstorm will never operate at higher than 400 feet AGL. It will,
+however, be operated in a manner that avoids congested or populated areas that are depicted
+in yellow on VFR sectional charts. Because commercial film flights, agriculture, aerial survey
+work, and patrolling must be accomplished at relatively low altitudes, i.e., less than 500 feet
+AGL, an exemption from Section 91.119(c) is required.
+
+The equivalent level of safety will be achieved given the size, weight, speed, and material with
+which the Sandstorm is built. Also, no flight will be taken without the permission of the land
+owner or the party controlling the operating area. With advance notice to the landowner, all
+affected individuals will be aware of the agriculture, survey, and patrolling flights. Compared to
+similar operations conducted with conventional aircraft or rotorcraft, which weigh thousands of
+pounds and carry flammable fuel, any risk associated with these operations will be significantly
+reduced from those currently allowed for conventional aircraft operating at or below 500 feet
+AGL. Waivers have been granted to other UAS operators for such operations in Alaska. USI
+believes such operations can be conducted within the CONUS in Class E and Class G airspace
+for the same reasons justifying like operations under the existing waiver in Alaska.
+
+14 C.F.R. § 91.151(a): Fuel Requirements for Flight in VFR Conditions
+
+Section 91.151(a) prohibits an individual from beginning "a flight in an airplane under VFR
+conditions unless (considering wind and forecast weather conditions) there is enough fuel to fly
+to the first point of intended landing and, assuming normal cruising speed ­ (1) During the day,
+to fly after that for at least 30 minutes; or (2) At night, to fly after that for at least 45 minutes." 14
+C.F.R. § 91.151(a).
+U.S. Department of Transportation
+October 14, 2014
+Page 6 of 7
+
+The Sandstorm's batteries provide between one and three hours of powered flight. Without an
+exemption from 14 C.F.R. § 91.151, the Sandstorm's flights could be limited to approximately
+thirty minutes in length. Given the limitations on its proposed operations and the location of
+those proposed operations, a longer duration for flight in daylight VFR conditions is reasonable.
+
+USI believes that an exemption from 14 C.F.R. § 91.151(a) is safe and consistent with the
+scope of a prior exemption. See Exemption 10673 (allowing Lockheed Martin Corporation to
+operate without compliance with 91.151(a)). Operating the Sandstorm, a small UAS, without 30
+minutes of reserve fuel does not engender the type of risks that Section 91.151(a) was meant to
+prevent. The fact that the Sandstorm carries neither pilot, passenger, nor cargo also enhances
+the reduced risk to overall safety. Additionally, limiting Sandstorm flights to thirty minutes would
+greatly reduce the operational utility of the platform. In the unlikely event that the Sandstorm
+should run out of fuel, it would glide under pilot control for landing. Given its weight and
+construction material, the risk is significantly less than contemplated by the current regulation.
+
+USI believes that an equivalent level of safety can be achieved by maintaining 10 minutes of
+reserve fuel, which, allowing at least fifty minutes of flight time, would be more than adequate to
+return the UAS to its planned landing zone from anywhere in its planned operating area.
+
+Similar exemptions have been granted to others, including Exemptions 2689F, 5745, 10673,
+and 10808.
+
+                                             Federal Register Summary
+
+Pursuant to 14 C.F.R. § 11.81(f), the following summary is provided for publication in the
+Federal Register, should the FAA determine that publication is needed:
+
+         Petitioner: Unmanned Systems Inc.
+                   Section of 14 C.F.R.: 14 C.F.R. § 21(h), 14 C.F.R. § 91.119, 14 C.F.R. §
+
+         91.151(a).
+
+Approval of exemptions allowing commercial operations of UASs in the film industry will
+enhance safety by reducing risk. Conventional film operations, using jet or piston power aircraft,
+operate at extremely low altitudes in close proximity to people and structures and present the
+risks associated with vehicles that weigh in the neighborhood of 4,000 pounds, carrying large
+amounts of jet A or other fuel (140 gallons for jet helicopter) Such aircraft must fly to and from
+the film location. In contrast, a battery powered UAS weighing fewer than 70 pounds eliminates
+virtually all of that risk given the reduced mass and lack of combustible fuel carried on board.
+The UAS will carry no passengers or crew and, therefore, will not expose them to the risks
+associated with manned aircraft flights.
+
+The operation of small UASs, weighing less than 70 pounds, conducted in the strict conditions
+outlined above, will provide an equivalent level of safety supporting the grant of the exemptions
+requested herein, including exempting the applicant from the requirements of Part 21 and
+allowing commercial operations. These lightweight aircraft operate at slow speeds, close to the
+ground, and in a sterile environment and, as a result, are far safer than conventional operations
+conducted with turbine helicopters operating in close proximity to the ground and people.
+
+                                                          Privacy
+U.S. Department of Transportation
+October 14, 2014
+Page 7 of 7
+
+All flights will occur over private or controlled access property with the property owner's prior
+consent and knowledge. Filming will be of people who have also consented to being filmed or
+otherwise have agreed to be in the area where filming will take place.
+Satisfaction of the criteria provided in Section 333 of the Reform Act of 2012 - size, weight,
+speed, operating capabilities, proximity to airports and populated areas and operation with is
+VLOS and national security. Provided in the above documentation is adequate justification for
+the grant of the requested exemptions allowing commercial operation of applicant's UAS in the
+motion picture and television industry pursuant to the manual appended hereto.
+
+                                                                     Sincerely,
+
+                                                                     William E. Reynolds
+                                                                     Unmanned Systems, Inc.
+From:         Bill Reynolds
+To:
+Cc:           Troutman, Jake (FAA)
+Subject:
+Date:         Donald Bintz
+Attachments:
+              Re: Request for Additional Information - Unmanned Systems, Inc. [FAA-2014-0842]
+
+              Monday, January 26, 2015 11:45:46 PM
+
+              Combined POH S3.pdf
+              USI Local Pilot Initial Qual Syllabus Long.pdf
+              USI Observer Initial Qual Syllabus.pdf
+              USI Safety Pilot Initial Qual Syllabus.pdf
+
+Mr. Troutman,
+
+USI required a current FAA Class II medical certificate for all Pilots.
+
+Provide a description of the proposed pilot medical requirements.
+
+USI required a current FAA Class II medical certificate for all Pilots.
+ 
+
+·             Your petition references a pre-flight inspection and/or checklist.  Describe the process used
+to determine if the UAS is airworthy and in safe condition for operation in the NAS.
+
+Section 4-1 of the Combined Sandstorm S3TM Aircrew Operating Handbook ("AOH") addresses pre-
+flight procedures to establish airworthiness before each flight.
+
+ 
+
+·             Describe the process used to document UAS discrepancies and the corrective action taken
+in the aircraft record.  Examples of processes include (1) the petitioner has elected to use its own
+process to maintain its UAS and ensure that only airworthy and safe UAS will be allowed to
+operate in the NAS and (2) the petitioner has elected to maintain its UAS in accordance with the
+manufacturer maintenance and inspection recommendations.
+
+ 
+
+·             Your petition references the material(s) listed below on page three of the petition, however
+the material(s) were not submitted for the record.  Please provide a copy of the following
+referenced materials:
+o             Combined Sandstorm S3TM Aircrew Operating Handbook ("AOH")
+o             USI Local Pilot Initial Qualification Syllabus
+o             USI Observer Initial Qualification Syllabus
+o             USI Safety Pilot Initial Qualification Syllabus
+
+Attached are the documents requested. They are all considered proprietary by USI.
+
+If you have any more questions please contact myself and Don Bintz (cc'd above).
+
+Respectfully,
+ 
+William Reynolds
+Business Development Manager
+Unmanned Systems Inc.
+702-606-7539
+
+Dear Mr. Don Bintz:
+ 
+
+This letter is to inform you that the following information is missing from your
+petition (Docket No. FAA-2014-0842).  This information is necessary for the Federal
+Aviation Administration (FAA) to process your petition.
+
+ 
+
+·             Provide a description of the proposed pilot medical requirements.
+
+ 
+
+·             Your petition references a pre-flight inspection and/or checklist.  Describe the
+process used to determine if the UAS is airworthy and in safe condition for operation
+in the NAS.
+
+ 
+
+·             Describe the process used to document UAS discrepancies and the corrective
+action taken in the aircraft record.  Examples of processes include (1) the petitioner
+has elected to use its own process to maintain its UAS and ensure that only airworthy
+and safe UAS will be allowed to operate in the NAS and (2) the petitioner has elected
+to maintain its UAS in accordance with the manufacturer maintenance and inspection
+recommendations.
+
+ 
+
+·             Your petition references the material(s) listed below on page three of the
+petition, however the material(s) were not submitted for the record.  Please provide a
+copy of the following referenced materials:
+o             Combined Sandstorm S3TM Aircrew Operating Handbook ("AOH")
+o             USI Local Pilot Initial Qualification Syllabus
+o             USI Observer Initial Qualification Syllabus
+o             USI Safety Pilot Initial Qualification Syllabus
+
+ 
+
+Please submit the additional information (non-proprietary) to your docket at
+www.regulations.gov and submit any proprietary information to the FAA
+Headquarters or electronically via e-mail to jake.troutman@faa.gov.  If you want us to
+process your request any further, we must receive the information described above
+by 02/09/2015.  If we do not receive the information, we will close the docket
+without notifying you further.
+
+ 
+
+If you have any questions, please feel free to contact me at (202) 267-9521.
+
+ 
+
+Sincerely,
+
+ 
+
+Jake J Troutman
+Program Analyst | Rulemaking
+FAA Office of Aviation Safety
+Airmen and Airspace Rules Division
+202-267-9521
+May 27, 2015
+
+U.S. Department of Transportation
+Docket Management System
+1200 New Jersey Ave., SE
+Washington, DC 20590
+
+RE: Exemption Request Under Section 333 of the FAA Modernization and Reform Act of
+      2012 and 14 C.F.R. Part 11
+
+Dear Sir or Madam:
+
+Pursuant to Section 333 of the FAA Modernization and Reform Act of 2012 ("FAA Reform Act")
+and 14 C.F.R. Part 11, Unmanned Systems, Inc. ("USI") request exemptions from four
+
+provisions of the Federal Aviation Regulations ("FAR"), specifically portions of 14 C.F.R. §
+21 (h), 14 C.F.R. § 61.113(a & b), 14 C.F.R. § 91.119, 14 C.F.R. § 91.151 (a) to allow,
+
+commercial operations of its Sandstorm unmanned aerial system ("Sandstorm") in the
+continental United States ("CONUS") by individuals who, at a minimum, maintain a FAA private
+pi lot certification or FAA-recognized equivalents, and have successfully completed USI's
+company training plan for Sandstorm . The commercial use requested is to conduct training
+and research operations at USI's home field in Montana and at locations coordinated
+with the FAA via the COA process.
+
+The Sandstorm is an all-environment, traditional fixed wing take-off and landing small
+unmanned aerial system ("UAS") that, is capable of transmitting live airborne location and video
+information to a Ground Control Station ("GCS"). Depending on payload configuration ,
+Sandstorm will also be able of transmitting real-time high resolution video and photogrammetry
+collection to the ground based camera control station and stored on board for post flight
+production and forensics. The Sandstorm will be limited to under 55 pounds including
+payloads, a wingspan of 15 feet, and a length of 8 feet. The Sandstorm airplane weight without
+payload is a maximum of 40 pounds. The Sandstorm's normal cruising speed and maximum
+speed are 40-60 knots indicated airspeed and 80 knots indicated airspeed, respectively. It
+comes in an electric, turboprop, and gas version. Sandstorm is capable of operation in
+temperatures ranging from -15°F to 115°F. Launch and recovery of the aircraft is conducted via
+traditional fixed-wing take-off and landing procedures. The Sandstorm's 900 MHz datalink and
+2.4 GHz control link has a range of five miles and provides all positional information and control
+capability required for safe operation of the aircraft.
+
+The Sandstorm is unique among the various UASs applying for exemptions under Section 333
+because it has received a Special Experimental Airworthiness Certificate from the FAA based
+on its operations near Columbia Falls, Montana. The Sandstorm has an unparalleled safety
+ record based on our current and on-going flight operations in Montana with FAA certified
+ aircraft. When this experience is considered in tandem with the remote areas in which it will
+ operate, it becomes clear that the Sandstorm can operate safely in the National Airspace
+ System ("NAS"}, without posing a threat to national security, by operating in accordance with the
+ requirements discussed herein.
+
+ The Sandstorm's capabilities, along with USI's experience to date, make it ideally suited to
+ conduct commercial operations such as commercial film production, agriculture, aerial
+ surveying, and patrolling in remote areas (i.e. non-congested or non-populated areas, private or
+ controlled-access property) under Class E or Class G airspace and within Visual Line of Sight
+U.S. Department of Transportation
+May 27, 2014
+Page 2 of 7
+
+("VLOS"). Use of the Sandstorm reduces the need to operate manned aircraft, decreasing the
+risk to the pilot, crew, and those on the ground as the Sandstorm will be transported to the
+operational site for launch and recovery and will be not flown to the location with a load of
+flammable fuel.
+
+As a result of the Sandstorm's size, weight, maximum speed, operational capability, and safety
+record; the distance at which it will operate from airports and populated areas; and its operation
+using visual observers to provide de-confliction from other air traffic, the Sandstorm does not
+create a hazard to users of the NAS or the public. Neither does it pose a threat to national
+security. Therefore, the FAA should grant USI the requested exemptions. Alternatively, if the
+FAA finds that modification of USI's application is required for safe operation of the Sandstorm
+in the NAS, USI requests that the FAA delineate the required modifications and either process
+USI's application as if the modifications were already made or allow USI to amend its
+application to incorporate the FAA's findings.
+
+The name and address of the applicant are:
+
+Unmanned Systems Inc.
+Address: 2709 Cyrano Street, Henderson NV 89044
+
+Attn: Don Bintz
+Ph: (702) 324-9966
+Fax: (702) 656-8782
+Email: Don.Bintz@unmannedsystemsinc.com
+
+Attn: William Reynolds
+Ph: (702) 606-7539
+Email: bill.reynolds@unmannedsystemsinc.com
+
+USI's exemption request encompasses the following regulations:
+
+14 C.F.R. § 21 subpart H
+14 C.F.R. § 61.113(a&b)
+14 C.F.R. § 91.119
+14 C.F.R. § 91.151(a)
+
+                             Section 333's Mandate and the Federal Aviation Act
+
+ Grant of this exemption application for use of the Sandstorm in training, agriculture, precision
+ aerial surveys, film industry, and patrols, pursuant to the exemption requested herein, will
+ advance the Congressional mandate in Section 333 of the FAA Reform Act to accelerate the
+ introduction of UASs into the NAS. Section 333 directs the Secretary of Transportation to
+ consider whether certain UASs may operate safely in the NAS before completion of the
+ rulemaking required under Section 332 of the FAA Reform Act. To make that determination, the
+ Secretary must evaluate which types of UASs do not create a hazard to users of the NAS or the
+ public or pose a threat to national security in light of several criteria:
+
+           · The UAS's size, weight, speed, and operational capability;
+           · Operation of the UAS in close proximity to airports and populated areas; and
+           · Operation of the UAS within visual line of sight of the operator.
+U.S. Department of Transportation
+May 27, 2014
+Page 3 of 7
+
+FAA Reform Act§ 333(b)(1). Once the Secretary determines that such vehicles "may operate
+safely in the national airspace system, the Secretary shall establish requirements for the safe
+operation of such aircraft in the national airspace system ." /d. § 333(c) (emphasis added).
+
+The Federal Aviation Act expressly grants the FAA the authority to issue exemptions. 49 U.S.C.
+§ 44701 (f). This statutory authority, by its terms, includes exempting civil aircraft, as the term is
+defined under §401 01 of the Act, from the requirements that all civil aircraft must have a current
+airworthiness certificate, 49 U.S.C. § 44711 (a), and those used in commercial service must be
+piloted by private and/or commercial pilots. 14 C.F.R. §§ 61.113(a) and (b), 61.133.
+
+The granting of the requested exemption is in the public interest based on (i) the clear direction
+in Section 333 of the FAA Reform Act; (ii) additional authority in the Federal Aviation Act, as
+amended; (iii) the strong equivalent level of safety surrounding the proposed operations; and (iv)
+the significant public benefit, including enhanced safety and cost savings associated with
+utilizing UASs for commercial by providing adequate training and testing of both pilots and
+equipment. Accordingly, USI respectfully requests that the FAA grant the requested exemption
+without delay.
+
+                                                        Airworthiness
+
+The Sandstorm is safe and fit for operation in the NAS under the conditions listed herein. The
+FAA has deemed the Sandstorm safe by initially issuing a Special FAA Experimental
+Airworthiness Certificate for flight on September 14, 2011. USI has flown the Sandstorm since
+this date in 2011 and currently continues to operate near Columbia Falls, Montana under the
+FAA issued Experimental Airworthiness Certificate for Unmanned Aircraft with an assigned
+Registration Mark N441 KS, being the first tail USI got certified.
+
+                                           Mandatory Operating Conditions
+
+USI proposes that the grant of the exemption be subject to the following mandatory conditions,
+which are based upon operating conditions set forth for operation of UAS by public entities
+pursuant to Certificates of Waiver or Authorization, with additional restrictions:
+
+           · Operations to avoid congested or populated areas to the maximum extent possible.
+           · Operations to be conducted over private or controlled-access property.
+           · Permission from land owner/controller required before commencing any flight.
+           · Operations to occur during Visual Flight Rules Meteorological Conditions (VMC).
+           · Aircraft to remain within Visual Line of Sight (VLOS).
+           · Operations to occur during daylight hours.
+           ·Above Ground Level (AGL) altitude to be restricted to 400 feet and below.
+           · All operations conducted in vicinity of airport to remain more than 2.5 NM from
+
+              centerline azimuth of runway centerline measured from runway thresholds.
+           · Operator will file a NOTAM for each flight.
+           · All required authorizations and permits will be obtained from territorial, state, county, or
+
+              city jurisdictions, including local law enforcement, fire, or other governmental agencies.
+U.S. Department of Transportation
+May 27, 2014
+Page 4 of 7
+
+                                                Operator Requirements
+
+USI respectfully proposes that operator requirements should take into account the
+characteristics of the particular UAS. The Sandstorm is an inherently stable, light-weight aircraft
+that weighs less than 40 pounds without payload, has a proven safety flight safety record and
+will be operated in remote areas.
+
+Sandstorm is configured to give the Local Pilot ("LP") or Remote Pilot ("RP") full control of the
+aircraft during all phases of flight. It is equipped with an advanced autopilot that can be used to
+fly the aircraft in one of four modes: Stabilized, Return to Home ("RTH"), Circle or Nav.
+Stabilized mode commands tne aircraft to fly straight and level with no input from the pilot. RTH
+mode commands the aircraft to fly to a "return to home point" designated by the pilot and then
+circle until transitioned to manual control by the pilot. Circle mode commands the aircraft to
+circle around its current position until the pilot takes control manually or activates another
+autopilot mode. Engaging Nav mode commands the aircraft to fly to pre-programmed waypoints
+designated by the pilot on the GCS Map screen. Each of these autopilot modes creates a
+predictable aircraft flight pattern that allows Sandstorm to operate within the intended flight
+envelope with minimal input from the pilot. Flight limits are coded into the autopilot and define
+the aircraft's normal flight operating envelope. Manual flight modes that do not use the autopilot
+require the operator to provide control input to maintain heading, altitude and airspeed. Pitch,
+roll and throttle inputs are accomplished by the LP using the handheld radio
+controller/transmitter (JR-12X) or by the RP using GCS RP Control Stick station via the 900
+MHz or 2.4 GHz link respectively.
+
+The GCS is the primary control station; providing the RP situational awareness and command
+and control interface for the UA. The flight controls consist of a control stick, throttle, and rudder
+pedals. The LP will always have the capability to take control of the aircraft with the handheld
+JR-12X if necessary for safety of flight in all phases of flight while maintaining VLOS .
+
+In the event of a Total Lost-Link ('TLL") the autopilot shall navigate the UAS back to a
+designated Return to Home ("RTH") point. Standard operating procedures will have a
+designated RTH point prior to every flight. While in circle mode around the RTH point, recovery
+of control should be possible. In the event that recovery of control link is not possible, the UAS
+will spiral down to a controlled landing around the designated RTH point. If the motor batteries
+have been depleted, the avionics and flight control surfaces are powered independently to allow
+for continued control by the LP to conduct a pilot controlled landing of the aircraft.
+
+              Specific Exemption Requests and Equivalent Level of Safety Showings
+
+14 C.F.R. Part 21, Subpart H: Airworthiness Certificates
+
+ Subpart H, entitled Airworthiness Certificates, establishes the procedural requirements for the
+ issuance of airworthiness certificates as required by FAR §91 .203 (a) (1). Given the size and
+ limited operating area associated with the aircraft to be utilized by the Applicant, an exemption
+from Part 21 Subpart H meets the requirements of an equivalent level of safety under Part 11
+and Section 333 of the Reform Act. The Federal Aviation Act (49 U.S.C.§44701 (f)) and Section
+ 333 of the Reform Act both authorize the FAA to exempt aircraft from the requirement for an
+ airworthiness certificate, upon consideration of the size, weight, speed, operational capability,
+ and proximity to airports and populated areas of the particular UAS. In all cases, an analysis of
+ these criteria demonstrates that the UAS operated without an airworthiness certificate, in the
+U.S. Department of Transportation
+May 27, 2014
+Page 5 of 7
+
+restricted environment and under the conditions proposed will be at least as safe, or safer, than
+a conventional aircraft (fixed wing or rotorcraft) operating with an airworthiness certificate
+without the restrictions and conditions proposed.
+
+Sandstorm has already been certified as airworthy via a Special Airworthiness certificate of the
+Experimental class and has been recertified as such on four separate occasions. The
+exemption USI seeks at this time is to be able to conduct commercial operations while only
+having an Experimental certification.
+
+14 C.F.R. § 61.113 (a) & (b): Private Pilot Privileges and Limitations: Pilot in Command
+
+Sections 61.113 (a) & (b) limit private pilots to non-commercial operations. Because the UAS
+will not carry a pilot or passengers, the proposed operations can achieve the equivalent level of
+safety of current operations by requiring the PIC operating the aircraft to have a private pilot's
+license rather than a commercial pilot's license to operate this small UAS. Unlike a conventional
+aircraft that carries the pilot and passengers, the sUAS is remotely controlled with no living thing
+on board. The area of operation is controlled and restricted, and all flights are planned and
+coordinated in advance as set forth in the Manual. To provide for the differences in knowledge
+level the chief pilot for USI is a commercially rated pilot that will oversee all planned flight
+operations and will approve all operating areas and operating plans. The risks associated with
+the operation of the sUAS are so diminished from the level of risk associated with commercial
+operations contemplated by Part 61 when drafted, that with the above oversight and plans will
+achieve a level of safety commiserate with the current rules set forth by 14 C.F.R. §61.113 (a)
+& (b) .
+
+14 C.F.R. § 91.119: Minimum Safe Altitudes
+
+Section 91 .119 establishes safe altitudes for operation of civil aircraft. Specifically, Section
+91.119(c) limits aircraft flying over areas other than congested areas to an altitude of 500 feet
+above the surface, except over open water or sparsely populated areas. In those cases, the
+aircraft may not be operated closer than 500 feet to any person, vessel, vehicle, or structure.
+
+As set forth herein, the Sandstorm will never operate at higher than 400 feet AGL. It will,
+however, be operated in a manner that avoids congested or populated areas that are depicted
+in yellow on VFR sectional .charts. Because commercial film flights, agriculture, aerial survey
+work, and patrolling must be accomplished at relatively low altitudes, i.e., less than 500 feet
+AGL, an exemption from Section 91.119(c) is required .
+
+The equivalent level of safety will be achieved given the size, weight, speed, and material with
+which the Sandstorm is built. Also, no flight will be taken without the permission of the land
+owner or the party controlling the operating area. With advance notice to the landowner, all
+affected individuals will be aware of the agriculture, survey, and patrolling flights. Compared to
+similar operations conducted with conventional aircraft or rotorcraft, which weigh thousands of
+pounds and carry flammable fuel, any risk associated with these operations will be significantly
+reduced from those currently allowed for conventional aircraft operating at or below 500 feet
+AGL. Waivers have been granted to other UAS operators for such operations in Alaska. USI
+believes such operations can be conducted within the CONUS in Class E and Class G airspace
+for the same reasons justifying like operations under the existing waiver in Alaska.
+U.S. Department of Transportation
+May 27, 2014
+Page 6 of 7
+
+14 C.F.R. § 91.151(a): Fuel Requirements for Flight in VFR Conditions
+
+Section 91.151 (a) prohibits an individual from beginning "a flight in an airplane under VFR
+conditions unless (considering wind and forecast weather conditions) there is enough fuel to fly
+to the first point of intended landing and, assuming normal cruising speed- (1) During the day,
+to fly after that for at least 30 minutes; or (2) At night, to fly after that for at least 45 minutes." 14
+
+C.F.R. § 91.151(a).
+
+The Sandstorm's batteries provide between one and three hours of powered flight. Without an
+
+exemption from 14 C.F.R. § 91.151, the Sandstorm's flights could be limited to approximately
+
+thirty minutes in length. Given the limitations on its proposed operations and the location of
+those proposed operations, a longer duration for flight in daylight VFR conditions is reasonable.
+
+USI believes that an exemption from 14 C.F.R. § 91.151 (a) is safe and consistent with the
+
+scope of a prior exemption. See Exemption 10673 (allowing Lockheed Martin Corporation to
+operate without compliance with 91.151 (a)). Operating the Sandstorm, a small UAS, without 30
+minutes of reserve fuel does not engender the type of risks that Section 91.151 (a) was meant to
+prevent. The fact that the Sandstorm carries neither pilot, passenger, nor cargo also enhances
+the reduced risk to overall safety. Additionally, limiting Sandstorm flights to thirty minutes would
+greatly reduce the operational utility of the platform. In the unlikely event that the Sandstorm
+should run out of fuel, it would glide under pilot control for landing . Given its weight and
+construction material, the risk is significantly less than contemplated by the current regulation.
+
+USI believes that an equivalent level of safety can be achieved by maintaining 10 minutes of
+reserve fuel, which, allowing at least fifty minutes of flight time, would be more than adequate to
+return the UAS to its planned landing zone from anywhere in its planned operating area.
+
+Similar exemptions have been granted to others, including Exemptions 2689F, 5745, 10673,
+and 10808.
+
+                                                Federal Register Summary
+
+Pursuant to 14 C.F.R. § 11 :81 (f), the following summary is provided for publication in the
+
+Federal Register, should the FAA determine that publication is needed :
+
+           Petitioner: Unmanned Systems Inc.
+
+Section of 14 C.F.R.: 14 C.F.R. § 21 (h), 14 C.F.R. § 61.113(a & b), 14 C.F.R. § 91.119, 14
+C.F.R. § 91 .151(a).
+
+Approval of exemptions allowing commercial operations of UASs in training and research flights
+will benefit the public. By allowing USI to conduct training and research flights for compensation
+the public will have better operators for UAVs and better UAVs by the research that USI will
+conduct. The UAS will carry no passengers or crew and, therefore, will not expose them to the
+risks associated with manned aircraft flights.
+
+The operation of small UASs, weighing less than 55 pounds, conducted in the strict
+conditions outlined above, will provide an equivalent level of safety supporting the grant of the
+exemptions requested herein, including exempting the applicant from the requirements of Part
+21 and allowing commercial operations. These lightweight aircraft operate at slow speeds, close
+U.S. Department of Transportation
+May 27, 2014
+Page 7 of 7
+
+to the ground, and in a sterile environment and, as a result, are far safer than conventional
+operations conducted with manned aircraft operating in close proximity to the ground and
+people.
+
+                                                             Privacy
+
+All flights will occur over private or controlled access property with the property owner's prior
+consent and knowledge. Overflight of any person will have consented to being filmed or
+otherwise have agreed to be in the area where operations will take place.
+
+Satisfaction of the criteria provided in Section 333 of the Reform Act of 2012 - size, weight,
+speed, operating capabilities, proximity to airports and populated areas and operation with is
+VLOS and national security. Provided in the above documentation is adequate justification for
+the grant of the requested exemptions allowing commercial operation of to conduct training and
+research operations at USI's home field in Montana and at locations coordinated with the FAA
+via the COA process.
+
+                                                                           onald G. Bintz
+                                                                         President
+                                                                         Unmanned System · Inc.
+

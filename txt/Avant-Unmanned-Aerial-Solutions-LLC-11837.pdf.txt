@@ -1,0 +1,797 @@
+June 16, 2015
+
+                                                           Exemption No. 11837
+                                                           Regulatory Docket No. FAA­2015­1157
+
+Dr. Sarah R. Collins, Ph.D.
+President
+Avant Unmanned Aerial Solutions, LLC
+2645 Twin Point Drive
+Suite 101-A
+Lewisville, TX 75056
+
+Dear Dr. Collins:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter dated April 15, 2015, you petitioned the Federal Aviation Administration (FAA) on
+behalf of Avant Unmanned Aerial Solutions, LLC (hereinafter petitioner or operator) for an
+exemption. The petitioner requested to operate an unmanned aircraft system (UAS) to
+conduct remote sensing, aerial surveys, data and imagery collection for various industries and
+functions.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner are the DJI Phantom 2 Vision Plus, DJI Inspire, DJI
+Phantom 3, andEvent 38 E384.
+                                                                                                                 2
+
+In accordance with the statutory criteria provided in Section 333 of Public Law 112-95 in
+reference to 49 U.S.C. § 44704, and in consideration of the size, weight, speed, and limited
+operating area associated with the aircraft and its operation, the Secretary of Transportation
+has determined that this aircraft meets the conditions of Section 333. Therefore, the FAA
+finds that relief from 14 CFR part 21, Certification procedures for products and parts,
+Subpart H--Airworthiness Certificates, and any associated noise certification and testing
+requirements of part 36, is not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection1. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+· They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+· The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+· A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, Avant Unmanned Aerial Solutions, LLC is granted an
+exemption from 14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a),
+91.7(a), 91.119(c), 91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and
+91.417(a) and (b), to the extent necessary to allow the petitioner to operate a UAS to perform
+aerial data collection. This exemption is subject to the conditions and limitations listed
+below.
+
+1 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                                                 3
+
+Conditions and Limitations
+
+In this grant of exemption, Avant Unmanned Aerial Solutions, LLC is hereafter referred to as
+the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+    1. Operations authorized by this grant of exemption are limited to the DJI Phantom 2
+         Vision Plus, DJI Inspire, DJI Phantom 3, and Event 38 E384 when weighing less than
+         55 pounds including payload. Proposed operations of any other aircraft will require a
+         new petition or a petition to amend this exemption.
+
+    2. Operations for the purpose of closed-set motion picture and television filming are
+         not permitted.
+
+    3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+         exemption holder may use either groundspeed or calibrated airspeed to determine
+         compliance with the 87 knot speed restriction. In no case will the UA be operated at
+         airspeeds greater than the maximum UA operating airspeed recommended by the
+         aircraft manufacturer.
+
+    4. The UA must be operated at an altitude of no more than 400 feet above ground level
+         (AGL). Altitude must be reported in feet AGL.
+
+    5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+         This requires the PIC to be able to use human vision unaided by any device other than
+         corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+         U.S. driver's license.
+
+    6. All operations must utilize a visual observer (VO). The UA must be operated within
+         the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+         to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+         capability. The VO and PIC must be able to communicate verbally at all times;
+         electronic messaging or texting is not permitted during flight operations. The PIC
+         must be designated before the flight and cannot transfer his or her designation for the
+         duration of the flight. The PIC must ensure that the VO can perform the duties
+         required of the VO.
+
+    7. This exemption and all documents needed to operate the UAS and conduct its
+         operations in accordance with the conditions and limitations stated in this grant of
+         exemption, are hereinafter referred to as the operating documents. The operating
+         documents must be accessible during UAS operations and made available to the
+                                                                                                            4
+
+    Administrator upon request. If a discrepancy exists between the conditions and
+    limitations in this exemption and the procedures outlined in the operating documents,
+    the conditions and limitations herein take precedence and must be followed.
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+                                                                                                            5
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+    exemption holder may apply for a new or amended COA if it intends to conduct
+    operations that cannot be conducted under the terms of the attached COA.
+                                                                                                            6
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+    be as large as practicable.
+
+23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+    any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+    PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+    These documents must be made available to the Administrator or any law enforcement
+    official upon request.
+
+24. The UA must remain clear and give way to all manned aviation operations and
+    activities at all times.
+
+25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless:
+      a. Barriers or structures are present that sufficiently protect nonparticipating persons
+          from the UA and/or debris in the event of an accident. The operator must ensure
+          that nonparticipating persons remain under such protection. If a situation arises
+          where nonparticipating persons leave such protection and are within 500 feet of
+          the UA, flight operations must cease immediately in a manner ensuring the safety
+          of nonparticipating persons; and
+      b. The owner/controller of any vessels, vehicles or structures has granted permission
+          for operating closer to those objects and the PIC has made a safety assessment of
+          the risk of operating closer to those objects and determined that it does not
+          present an undue hazard.
+
+    The PIC, VO, operator trainees or essential persons are not considered
+    nonparticipating persons under this exemption.
+
+27. All operations shall be conducted over private or controlled-access property with
+    permission from the property owner/controller or authorized representative.
+    Permission from property owner/controller or authorized representative will be
+    obtained for each flight to be conducted.
+
+28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+    boundaries of the operational area as defined by the applicable COA must be reported
+    to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+    reported to the National Transportation Safety Board (NTSB) per instructions
+    contained on the NTSB Web site: www.ntsb.gov.
+                                                                                                                 7
+
+ If this exemption permits operations for the purpose of closed-set motion picture and
+ television filming and production, the following additional conditions and limitations apply.
+
+    29. The operator must have a motion picture and television operations manual (MPTOM)
+         as documented in this grant of exemption.
+
+    30. At least 3 days before aerial filming, the operator of the UAS affected by this
+         exemption must submit a written Plan of Activities to the local Flight Standards
+         District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+         notification may be waived with the concurrence of the FSDO. The plan of activities
+         must include at least the following:
+           a. Dates and times for all flights;
+           b. Name and phone number of the operator for the UAS aerial filming conducted
+              under this grant of exemption;
+           c. Name and phone number of the person responsible for the on-scene operation of
+              the UAS;
+           d. Make, model, and serial or N-Number of UAS to be used;
+           e. Name and certificate number of UAS PICs involved in the aerial filming;
+           f. A statement that the operator has obtained permission from property owners
+              and/or local officials to conduct the filming production event; the list of those
+              who gave permission must be made available to the inspector upon request;
+           g. Signature of exemption holder or representative; and
+           h. A description of the flight activity, including maps or diagrams of any area, city,
+              town, county, and/or state over which filming will be conducted and the altitudes
+              essential to accomplish the operation.
+
+    31. Flight operations may be conducted closer than 500 feet from participating persons
+         consenting to be involved and necessary for the filming production, as specified in the
+         exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                    8
+
+This exemption terminates on June 30, 2017, unless sooner superseded or rescinded.
+Sincerely,
+
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+                                    April 15, 2015
+
+Department of Transportation
+Docket Management System
+1200 New Jersey Avenue SE
+Washington, DC 20590
+
+SUBJECT:  Petition for Exemption to Operate Small Unmanned Aircraft Pursuant to Section 333
+
+Petition Summary
+
+Pursuant to Section 333 of the Federal Aviation Administration (FAA) Modernization and Reform Act of
+2012 (FMRA), Avant Unmanned Aerial Solutions, LLC (Avant) hereby petitions for expedited approval
+and exemption from FAA authorizing commercial operation of its small unmanned aircraft systems
+(sUAS) for remote sensing, aerial surveys, data and imagery collection for the industries and functions
+listed in Table 1.
+
+          Table 1: Industries served and functions performed
+
+          Agriculture               Insurance
+
+          Construction              Law Enforcement
+
+          Emergency Response        Planning & Asset Management
+
+          Engineering & Surveying   Promotion & Marketing
+
+          Environmental Monitoring  Real Estate & Land Development
+
+          Event Photography & Videography Training & Education
+
+          Inspections               Transportation & Infrastructure
+
+If granted, the exemption would permit Avant to conduct commercial operations of small unmanned
+aircraft systems (sUAS) that meet or exceed operational and safety requirements set forth by Congress
+in Section 333. As an unmanned aircraft technology firm, Avant requests operations granted under like
+conditions and limitations set forth in previous, and similar, Section 333 summary exemptions granted
+by FAA.
+
+Statutory Authority
+
+Section 333 (a) states that the FAA "shall determine if certain unmanned aircraft systems (UAS) may
+operate safety in the national airspace system before completion of the plan and rulemaking
+required by Section 332". Section 333 (b) then lists several factors that should be considered in
+
+                              2645 Twin Point Drive, Suite 101-A
+
+                                       Lewisville, Texas 75056
+                                214.709.5882  avantuas.com
+determining which UAS' would be eligible for expedited integration into the National Airspace
+System (NAS). Specifically UAS' that "as a result of their size, weight, speed, operational capability,
+proximity to airports and populated areas, and operation within visual line of sight do not create a
+hazard to the users of the national airspace system or the public, or pose a threat to national
+security." If a UAS meets the criteria laid forth in Section 333 (b), Section 333 (c) FAA has the
+authority to decide if an airworthiness certification as specified by Title 49 United States Code,
+Section 44704 is required for operation. Section 333 (c) specifically states that the FAA can
+determine "whether a certificate of waiver, certificate of authorization, or airworthiness
+certification under section 44704 of Title 49, United States Code, is required for the operation of
+unmanned aircraft systems." Thus, the FAA has the ability to allow a UAS that meets the criteria put
+forth in Section 333 (b) to operate within the NAS without an airworthiness certification as long as
+the UAS does not pose any hazard or threat to the NAS, public, and national security.
+
+Request for Relief
+
+In meeting the aforementioned requirements, Avant requests relief and exemption from the regulations
+summarized in Table 2.
+
+Table 2: Relief and exemptions summary
+
+14 CFR 61.113(a) and (b)    14 CFR 91.109
+
+14 C.F.R. 91.7 (a) and (b)  14 CFR 91.119
+
+14 CFR 91.9 (b) (2)         14 CFR 91.121
+
+14 CFR 91.103               14 CFR 91.151(a)
+
+14 C.F.R. 91.401-91.417
+
+Unmanned Aircraft Systems
+
+Avant is requesting an exemption to operate a DJI Phantom 2 Vision Plus, DJI Inspire, DJI Phantom 3, and
+Event 38 E384.
+
+Avant's sUAS proposed for operation through this request weigh less than 55 pounds, fly at speeds of no
+more than 100 miles per hour (MPH), carry neither a pilot nor passenger, carry no explosive materials or
+flammable liquid fuels, and will operate within approved flight areas and heights through coordination
+and communication with the Flight Standards District Office (FSDO), Air Traffic Organization (ATO), air
+traffic control facilities and personnel, and any other entities or persons to satisfy terms set forth by the
+FAA for this exemption request.
+
+                                     2645 Twin Point Drive, Suite 101-A
+                                               Lewisville, Texas 75056
+
+                                        214.709.5882  avantuas.com
+DJI Phantoms and Inspire
+
+The Phantoms and Inspire sUAS are four-rotor, lithium polymer battery powered unmanned aircraft
+manufactured by DJI. DJI is a global leader in the sUAS market with thousands of their products in use
+for professional and recreational purposes.
+
+Given their extensive use and reliability, Avant asserts both the Inspire and Phantom series platforms
+can operate safely in the National Airspace System (NAS) through their appropriate use and operations
+in accordance with Avant's training and operating parameters.
+
+These vertical takeoff and land (VTOL) quad-copters have GPS, autonomous flight capabilities, with
+telemetry and manual ground control. These aircraft are equipped with gimbals and high definition
+cameras. Each of these platforms have the capability to limit flight height above ground level (AGL) and
+limit flights in controlled airspace.
+
+The Phantom's dimensions are 8.1 x 17 x 12.5 inches. The Inspire is 22 in x 22 in x 8 in. Both weight
+under 10 pounds. The following is representative of failsafe emergency procedures available between
+the Phantom and Inspire.
+
+     Loss of Communication: If the communication link with the PIC/operators ground control station
+         is lost, the platform will initiative a return to home mode after three seconds of transmission
+         loss.
+
+     Low Battery: Initiated automatically based on remaining battery life, altitude, and distance from
+         home point - when the battery level is too a warnings is alerted to the PIC/operator and the
+         aircraft can automatically begin a return to home procedure.
+
+     Loss of GPS: Losing a GPS signal while flying autonomously will trigger the aircraft to hover using
+         onboard altitude sensing. The PIC can then land the aircraft as soon as possible.
+
+Event 38 E384
+
+The E384 sUAS is manufactured by Event 38. This lightweight fixed-wing platform is powered by a
+lithium polymer battery operated by a ground control station, and associated data link equipment.
+The E384 is made of a foam airframe, weighs less than 10 pounds, has approximately a 6 foot
+wingspan, and is 4.5 feet in length. The cruising operational speed of is approximately 27 mph (23.5
+knots). This small, lightweight unmanned aircraft operating at relatively slow speeds will pose little
+to no threat or hazard to people or structures on the ground, thus making it an exponentially safer
+alternative to manned, fixed-wing aircraft operating for similar applications.
+
+The E384 functions primarily to provide aerial imagery and remote sensing capabilities using one of
+a selection of interchangeable cameras. High resolution imagery enable data collection, extraction,
+and analysis from imagery produced by these cameras with application to numerous industries such
+as surveying, architecture, engineering, agriculture, insurance, planning, and transportation just to
+name few. Information gleaned from the imagery will help in countless ways like maximizing crop
+yields, improving response times and coordination following natural disasters, expediting insurance
+
+                                     2645 Twin Point Drive, Suite 101-A
+                                               Lewisville, Texas 75056
+
+                                        214.709.5882  avantuas.com
+adjustment claims, and enhanced decision making and overall efficiencies amongst several
+industries ranging from real estate, planning, asset management, and more by having access to
+higher quality data. Practically speaking, all of these provide great benefit to the economy and the
+overall public.
+
+The E384 is a hand launched platform that requires no runway for take-off and landing. Once
+launched, the E384 will operate at an altitude of 400 ft. AGL or less over a designated and
+authorized flight area.
+
+Prior to each flight, the Pilot in Command (PIC) will set dimensions of a designated flight area and
+relevant flight parameters to ensure the E384 operates within the lateral, not to exceed visual line-
+of-sight (VLOS), and vertical, not to exceed 400 feet AGL, geographic limits of an approved site for
+operation. In the event a critical issue is detected e.g. a low battery state or loss of datalink, the
+E384 will immediately initiate a return-to-launch/home sequence.
+
+The E384 has extensive flight experience and a history of operational success overseas, including
+flights by over one hundred professional operators on 6 continents. The items below overview
+examples of its successful use provided from the manufacturer.
+
+    1. Used to survey potential land for hydroelectric power plant construction in Uganda.
+    2. The National Technical University of Athens in Greece used it for studying open-pit mining.
+    3. The Belize Fishery Department began routine flights with the E384 to track illegal fishing in
+
+         protected waters.
+    4. Recently the E384 was flown over three days at the Cleveland Airshow in the United States
+
+         ­ a demonstration of its ability to safely integrate and operate in the NAS.
+
+Each of the sUAS platforms described above are equipped with advanced sensors and high definition
+cameras. They also have built-in capabilities to limit flight altitude above ground level (AGL) and the
+radius distance flown from the pilot/operator. Safety parameters to prevent, if needed, operations in
+controlled airspace through a no fly zone feature is also possible with the DJI platforms.
+
+In addition, each of the Avant's sUAS have integrated safety features designed to help ensure the safety
+of persons and property within and surrounding an active operation area. For instance, as described
+above, if one of the aircraft lose communication with its ground control station or geographic
+positioning system (GPS) signal the aircraft can autonomously return to a pre-determined location or
+hover in place until the manually landed safely, respectively.
+
+The Petitioner has supplied the following additional Information as appendices for consideration of this
+request:
+
+     DJI Phantom Series Operation, Maintenance Materials (Appendix A)
+     DJI Inspire Operation, Maintenance Materials (Appendix B)
+
+                                     2645 Twin Point Drive, Suite 101-A
+                                               Lewisville, Texas 75056
+
+                                        214.709.5882  avantuas.com
+     Event38 E384 Operation, Maintenance, and Training Materials (Appendix C)
+
+Aircraft Marking
+
+Each of Avant's sUAS will be identified by serial number, registered in accordance with 14 C.F.R. Part 47,
+and have an identification (N-Number) markings displayed as large as practicable in accordance with 14
+C.F.R. Part 45.
+
+Pre-flight Inspection, Maintenance
+
+Before each flight an Avant PIC will perform a series of pre-flight and takeoff checks as defined by the
+manufacturer noted in the Appendices provided.
+
+Routine inspection of all aircraft components, including, but not limited to the items listed below will
+take place:
+
+     Motors, wiring and connectors
+     Propellers, smooth, no chips
+     Batteries, wiring and connectors
+     Remote command and control
+     Ground control station
+
+UAS Operating Parameters
+
+Avant PICs and visual observers, present during any and all flights, will ensure all operation remain
+within VLOS. Flights will be limited to 400 feet AGL ­ which is accurately measured by GPS. Avant's sUAS
+operators and PICs are well equipped and trained for operations sought in this exemption with two
+being commercially rated pilots ­ one having an airline transport pilot certificate.
+
+Communication and coordination with the appropriate FSDO will take place prior to operations, as
+needed. Further coordination will take place, as required, with the Air Traffic Organization to obtain a
+Certificate of Authorization (COA) prior to any operations granted in this requested exemption. Avant
+sUAS will not operate within 5 nautical miles of an airport reference point (ARP) as denoted in the
+current FAA Airport/Facility Directory (AFD) or for airports not denoted with an ARP, the center of the
+airport symbol as denoted on the current FAA published aeronautical chart, unless a letter of agreement
+with that airport's management is obtained or otherwise permitted by a COA issued to the exemption
+holder. The letter of agreement with the airport management must be made available to the
+Administrator or any law enforcement official upon request.
+
+Avant's sUAS operations will remain clear and yield to the right of way of all manned aircraft operations
+and activities (including, but not limited to, ultralight vehicles, parachute activities, parasailing activities,
+and hangliders).
+
+                                     2645 Twin Point Drive, Suite 101-A
+                                               Lewisville, Texas 75056
+
+                                        214.709.5882  avantuas.com
+Additionally, a grant of the exemption to Avant to operate their sUAS will be subject to the following
+operating conditions. These are based in part on the operating conditions set forth by the Academy of
+Model Aeronautics.
+
+     Operations to be conducted over private, controlled-access, or public property where approved;
+     Permission from the land owner/authority required before commencing any flight;
+     Operations over congested areas shall be avoided to the extent possible;
+     Operations must not interfere with manned aircraft operations, must yield the right of way to
+
+         manned aircraft, and operators must See & Avoid other aircraft and obstacles at all times;
+     Operations limited to Visual Flight Rules Meteorological Conditions (VMC) and daylight hours
+     Aircraft operations must remain within Visual Line of Sight (VLOS) and will be visually monitored
+
+         by the PIC and/or Visual Observer at all times;
+     All operations conducted within 5 miles from an airport shall only be initiated after verbal
+
+         coordination with the airport authority, or air traffic control when a control tower is present at
+         the airport;
+
+Pilot in Command (PIC)
+
+Any Avant PIC/operator under this grant of exemption will hold, at a minimum, a sport pilot certificate.
+The PIC must also hold a current FAA airman medical certificate or a valid U.S. driver's license issued by
+a state, the District of Colombia, Puerto Rico, a territory, a possession, or the Federal government. The
+PIC will also meet flight review requirements specified in 14 CFR § 61.56 in an aircraft in which the PIC is
+rated on his or her pilot certificate.
+
+Regarding Avant's requested relief from 14 C.F.R. § 91.103(b)(1), the unmanned aircraft PIC/operator
+will comply with applicable procedures and requirements stated in § 91.103(a) and (b). Specifically,
+Avant PIC/operators will initiate all necessary actions including review of weather conditions, flight time
+and battery requirements, aircraft performance data, and landing and takeoff distances before each
+flight. Any site-specific conditions will also be planned and considered during preflight procedures and
+considerations.
+
+Radio Frequencies
+
+Radio frequencies used will be those allotted by the Federal Communications Commission (FCC) for data
+transmission and vehicle control in unlicensed frequency bands. All devices used will comply with FCC
+usage and emissions regulations.
+
+Safety and Benefits of the UAS
+
+Avant plans to operate their sUAS in a variety of applications that generally would require flying
+expensive, full-size manned aircraft to successfully conduct a mission or project.
+
+Small, light, unmanned aircraft vehicles and their systems offer countless benefits over the use of full-
+sized manned aircraft to numerous industries (see Exhibit 2) leveraging products from aerial surveys,
+
+                                     2645 Twin Point Drive, Suite 101-A
+                                               Lewisville, Texas 75056
+
+                                        214.709.5882  avantuas.com
+remote sensing, data and imagery collection. Replacing significantly larger manned aircraft carrying
+flights crews and flammable fuel with sUAS that do not carry people creates a much greater margin of
+safety for UAS operators and visual observers by contrast to a manned aircrafts flight crew and
+passengers. The lower acquisition, operational, and personnel costs, in addition to reduced
+environmental impacts such as reduced noise and emissions, through the use of batteries for power ­ in
+lieu of fuel and combustion engines, are reasons why it is beneficial to the public for Avant to receive
+FAA authorization to operate its unmanned aircraft.
+
+Conclusion
+
+For the foregoing reasons, and public benefit, the exemption requested herein should be granted and
+Avant permitted to conduct small UAS operations in accordance with its manuals and all other operating
+parameters deemed necessary and appropriate by the FAA.
+
+Respectfully,
+
+Sarah R. Collins, Ph.D.
+President
+Avant Unmanned Aerial Solutions, LLC
+
+                                     2645 Twin Point Drive, Suite 101-A
+                                               Lewisville, Texas 75056
+
+                                        214.709.5882  avantuas.com
+Specific Exemption Requests and Equivalent Level of Safety Showings
+
+14 C.F.R. § 91.7 (a) and (b): Civil aircraft airworthiness
+
+(a) No person may operate a civil aircraft unless it is in an airworthy condition.
+
+(b) The pilot in command of a civil aircraft is responsible for determining whether that aircraft is in
+condition for safe flight. The pilot in command shall discontinue the flight when unairworthy
+mechanical, electrical, or structural conditions occur.
+
+Sections 91.7 (a) and (b) prohibit operation of a civil aircraft unless it is in airworthy condition. Avant
+requests an exemption from this regulation because their sUAS would not operate with an airworthiness
+certificate under the proposal set forth in this filing. Given the size of the aircraft and requirements
+contained in the manuals for maintenance and use of safety check lists prior to each flight, as set forth in
+in the operators manual, an equivalent level of safety will be provided.
+
+The FAA has issued similar exemptions to this regulation, including to Tradecraft LLC, Exemption No.
+11303.
+
+14 CFR 61.113 Private pilot privileges and limitations: Pilot in Command and 61.133
+
+Commercial pilot privileges and limitations.
+
+The regulation provides that no person that holds a Private Pilot certificate may act as pilot in Command
+of an aircraft for compensation or hire. Subparagraph (b) allows a private pilot to act as pilot in
+command of an aircraft in connection with any business or employment if: (1) The flight is only
+incidental to that business or employment; and (2) The aircraft does not carry passengers or property
+for compensation or hire.
+
+Avant's proposed operations require that the unmanned aircraft PIC must hold at least a Sport Pilot
+Certificate issued by the FAA. Since the aircraft cannot carry passengers or property, it is believed Avant
+meets the intent of 61.113 Subparagraph (b) even though the intent of this application is to conduct
+operations for compensation or hire.
+
+14 C.F.R. § 91.109(a): Flight Instruction
+
+Section 91.109 (a) provides that no person may operate a civil aircraft (except a manned free balloon)
+that is being used for flight instruction unless that aircraft has fully functioning dual controls.
+
+Avant's sUAS are remotely piloted aircraft, and, by design, do not have fully functional dual controls.
+Flight control is accomplished through the use of a remote control and transmitters that communicates
+with the aircraft via radio communications. Completing instruction through the Avant training program
+will ensure an equivalent level of safety. The FAA has approved exemptions for flight training without
+fully functional dual controls for a number of aircraft and for flight instruction in experimental aircraft.
+See Exemption Nos. 5778K and 9862A.
+
+                                     2645 Twin Point Drive, Suite 101-A
+                                               Lewisville, Texas 75056
+
+                                        214.709.5882  avantuas.com
+14 C.F.R § 91.119 Minimum Safe Altitudes
+
+Except when necessary for takeoff or landing, no person may operate an aircraft below the following
+altitudes:
+
+(c) Over other than congested areas. An altitude of 500 feet above the surface, except over open water
+or sparsely populated areas. In those cases, the aircraft may not be operated closer than 500 feet to any
+person, vessel, vehicle, or structure.
+
+As set forth herein by Avant, their sUAS will never operate at an altitude higher than 400 feet AGL. Due
+to the nature of work proposed for remote sensing, aerial surveys, data and imagery collection this work
+necessitates flights at relatively low altitudes, i.e. less than 500 feet AGL, and an exemption from Section
+91.119(c) is needed. The equivalent level of safety will be achieved given the size, weight speed, and
+material with which Avant's sUAS are built. Additional consideration will be given prior to flights such as
+communication and permission with the land owner or the party controlling the land. With advance
+notice, all affected individuals will be aware of Avant's remote sensing, aerial surveys, data and imagery
+collection. Compared to similar operations conducted with conventional aircraft or rotorcraft, which
+weigh thousands of pounds and carry flammable fuel, any risk associated with these operations will be
+far less than those currently allowed with such conventional aircraft operating at or below 500 feet AGL.
+The FAA has approved exemptions for minimum safe altitudes to Chustz Surveying ­ Exemption No.
+11285.
+
+14 C.F.R § 91.121 ­ Altimeter Settings
+
+91.121 requires aircraft to maintain a cruising level or flight level in reference to a current reported
+altimeter setting. Avant's sUAS are not equipped with a programmable altimeter but rather determine
+location and altitude via an onboard GPS. Additionally, since the E384 will be operating at or below 400
+ft. AGL, there is no need to maintain hemispherical cruising altitudes for de-confliction with manned
+aircraft. For these reasons Avant seeks exemption from this regulation.
+
+An equal level of safety will be achieved through the Phantom, Inspire and E384 GPS, which provides
+altitude and location data to the PIC via the ground control station. The sUAS Operations Manual,
+provided as Appendices, specifically addresses monitoring altitude and GPS readings prior to
+commencing flight operations. Combined with the fact that the aircraft's altitude will be visually
+monitored by the PIC and Visual Observer, an equal level of safety is attained in lieu of referencing an
+altimeter setting.
+
+The FAA has approved exemptions for minimum safe altitudes to Pravia ­ Exemption No. 11166.
+
+14 C.F.R. § 91.151 (b): Fuel Requirements for Flight in VFR Conditions
+
+Section 91.151 (b) prohibits an individual from beginning "a flight in a rotorcraft under VFR conditions
+unless (considering wind and forecast weather conditions) there is enough fuel to fly to the first point of
+intended landing and, assuming normal cruising speed, to fly after that for at least 20 minutes.
+
+                                     2645 Twin Point Drive, Suite 101-A
+                                               Lewisville, Texas 75056
+
+                                        214.709.5882  avantuas.com
+The Phantom and Inspire series battery life provides at most 25 minutes of powered flight. Without an
+exemption from 14 C.F.R. §91.151, flights would be limited to 5 minutes or less.
+Given the limitations on Avant's proposed operations, a lesser reserve for flight in VFR conditions is
+reasonable. Avant believes that an exemption from 14 C.F.R. § 91.151 (a) is safe and consistent with the
+scope of a prior exemption. See Exemption 10673 (allowing Lockheed Martin Corporation to operate
+without compliance with 91.151 (a)). Operating the Phantom and Inspire sUAS without 20 minutes of
+reserve fuel does not produce the type of risks Section 91.151 (a) intended to prevent. Given its weight
+and construction material, the risks are less then contemplated by the current regulation. Avant believes
+that an equivalent level of safety can be achieved by the fact that their sUAS can safely utilize VTOL
+capability to quickly and safely land within 3 minutes of an area within VLOS once alerted of a low
+battery.
+Similar exemptions have been granted to others, including Exemptions 2689F, 5745, 10673, and 10808.
+
+Part 91 Subpart E (91.401-91.417) ­ Maintenance, Preventative Maintenance, and
+Alterations
+
+These regulations provided the maintenance and inspections requirements in reference to Part 39 and
+Part 43. 91.405 (a) specifically states that "no person may perform maintenance, preventive
+maintenance, and alterations on an aircraft other than as prescribed in this subpart and other applicable
+regulations, including part 43 of this chapter." Avant seeks full exemption from these regulations due to
+the fact that these sections apply to an aircraft with an airworthiness certificate for which Avant is
+already seeking exemption.
+An equal level of safety will be achieved by using the Phantom, Inspire, and E384 Operations and
+Maintenance Manuals (see appendices provided with this exemption request) which provide
+instructions on regular and corrective maintenance. Avant's will be responsible for conducting and
+logging maintenance in accordance with these procedures. Avant PICs test to confirm their sUAS are
+suited for flight following any maintenance. Maintenance that Avant is not capable of performing, or
+covered in these procedures, will be performed by the manufacturers.
+Similar exemptions have been granted to others such as TradeCraft, Exemption 11303, Toledo Aerial
+Media, Exemption 11288, and Skyphilly, Exemption 11256.
+
+                                     2645 Twin Point Drive, Suite 101-A
+                                               Lewisville, Texas 75056
+
+                                        214.709.5882  avantuas.com
+Appendix A - DJI Phantom Series Operation, Maintenance Materials
+
+     Phantom 2 Vision+ User Manual (EN) v1.8: http://download.dji-
+         innovations.com/downloads/phantom_2_vision_plus/en/Phantom_2_Vision_Plus_User_Manua
+         l_v1.8_en.pdf.
+
+     Phantom 2 Vision+ Pilot Training Guide (EN) v1.1: http://download.dji-
+         innovations.com/downloads/phantom_2_vision_plus/en/Phantom_2_Vision_Plus_Pilot_Trainin
+         g_Guide_v1.1_en.pdf.
+
+     Smart Flight Battery Safety Guidelines (EN, FR, DE and JP): http://download.dji-
+         innovations.com/downloads/phantom_2_vision_plus/Smart_Flight_Battery_Safety_Guidelines.
+         pdf.
+
+Appendix B - DJI Inspire Operation, Maintenance Materials
+
+     Inspire 1 User Manual (EN) v1.0: http://download.dji-
+         innovations.com/downloads/inspire_1/en/Inspire_1_User_Manual_v1.0_en.pdf.
+
+     Inspire 1 Safety Guidelines v1.0: http://download.dji-
+         innovations.com/downloads/inspire_1/en/Inspire_1_Safety_Guidelines_en.pdf.
+
+     Intelligent Flight Battery Safety Guidelines v1.0: http://download.dji-
+         innovations.com/downloads/inspire_1/en/Intelligent_Flight_Battery_Safety_Guidelines_en.pdf.
+
+     Inspire 1 Maintenance Manual v1.0: http://download.dji-
+         innovations.com/downloads/inspire_1/en/Inspire_1_Maintenance_ManualV1.0_en.pdf.
+
+Note: Due to many materials linked above exceeding the maximum allowable upload file size on FAA's
+exemption portal, this information is being provided in the form of direct links on the manufacturers
+website. Please contact Avant if this information needs to be supplied by another means.
+
+                                     2645 Twin Point Drive, Suite 101-A
+                                               Lewisville, Texas 75056
+
+                                        214.709.5882  avantuas.com
+

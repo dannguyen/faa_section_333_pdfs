@@ -1,0 +1,940 @@
+August 10, 2015
+
+                                                           Exemption No. 12387
+                                                           Regulatory Docket No. FAA­2015­1797
+
+Mr. Keith Robson
+Corporate Safety, Security and
+ Emergency Preparedness Manager
+Marathon Petroleum Company LP
+539 South Main Street
+Findlay, OH 45840
+
+Dear Mr. Robson:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter dated May 8, 2015, you petitioned the Federal Aviation Administration (FAA) on
+behalf of Marathon Petroleum Corporation LP (hereinafter petitioner or operator) for an
+exemption. The petitioner requested to operate an unmanned aircraft system (UAS) to
+conduct aerial imaging to assist in rapid mitigation of emergencies.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner is a DJI Phantom 2 Vision+.
+
+The petitioner requested relief from 14 CFR part 21, Certification procedures for products
+and parts, Subpart H--Airworthiness Certificates. In accordance with the statutory criteria
+                                                                                                                 2
+
+provided in Section 333 of Public Law 112-95 in reference to 49 U.S.C. § 44704, and in
+consideration of the size, weight, speed, and limited operating area associated with the
+aircraft and its operation, the Secretary of Transportation has determined that this aircraft
+meets the conditions of Section 333. Therefore, the FAA finds that the requested relief from
+14 CFR part 21, Certification procedures for products and parts, Subpart H--Airworthiness
+Certificates, and any associated noise certification and testing requirements of part 36, is
+not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection1. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+· They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+· The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+· A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, Marathon Petroleum Company LP is granted an
+exemption from 14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a),
+91.7(a), 91.119(c), 91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and
+91.417(a) and (b), to the extent necessary to allow the petitioner to operate a UAS to perform
+aerial data collection. This exemption is subject to the conditions and limitations listed
+below.
+
+1 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                                                 3
+
+Conditions and Limitations
+
+In this grant of exemption, Marathon Petroleum Company LP is hereafter referred to as
+the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+    1. Operations authorized by this grant of exemption are limited to the DJI Phantom 2
+         Vision+ when weighing less than 55 pounds including payload. Proposed operations
+         of any other aircraft will require a new petition or a petition to amend this exemption.
+
+    2. Operations for the purpose of closed-set motion picture and television filming are
+         not permitted.
+
+    3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+         exemption holder may use either groundspeed or calibrated airspeed to determine
+         compliance with the 87 knot speed restriction. In no case will the UA be operated at
+         airspeeds greater than the maximum UA operating airspeed recommended by the
+         aircraft manufacturer.
+
+    4. The UA must be operated at an altitude of no more than 400 feet above ground level
+         (AGL). Altitude must be reported in feet AGL.
+
+    5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+         This requires the PIC to be able to use human vision unaided by any device other than
+         corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+         U.S. driver's license.
+
+    6. All operations must utilize a visual observer (VO). The UA must be operated within
+         the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+         to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+         capability. The VO and PIC must be able to communicate verbally at all times;
+         electronic messaging or texting is not permitted during flight operations. The PIC
+         must be designated before the flight and cannot transfer his or her designation for the
+         duration of the flight. The PIC must ensure that the VO can perform the duties
+         required of the VO.
+
+    7. This exemption and all documents needed to operate the UAS and conduct its
+         operations in accordance with the conditions and limitations stated in this grant of
+         exemption, are hereinafter referred to as the operating documents. The operating
+         documents must be accessible during UAS operations and made available to the
+         Administrator upon request. If a discrepancy exists between the conditions and
+                                                                                                            4
+
+    limitations in this exemption and the procedures outlined in the operating documents,
+    the conditions and limitations herein take precedence and must be followed.
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+                                                                                                            5
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+    exemption holder may apply for a new or amended COA if it intends to conduct
+    operations that cannot be conducted under the terms of the attached COA.
+                                                                                                            6
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+    be as large as practicable.
+
+23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+    any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+    PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+    These documents must be made available to the Administrator or any law enforcement
+    official upon request.
+
+24. The UA must remain clear and give way to all manned aviation operations and
+    activities at all times.
+
+25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless:
+      a. Barriers or structures are present that sufficiently protect nonparticipating persons
+          from the UA and/or debris in the event of an accident. The operator must ensure
+          that nonparticipating persons remain under such protection. If a situation arises
+          where nonparticipating persons leave such protection and are within 500 feet of
+          the UA, flight operations must cease immediately in a manner ensuring the safety
+          of nonparticipating persons; and
+      b. The owner/controller of any vessels, vehicles or structures has granted permission
+          for operating closer to those objects and the PIC has made a safety assessment of
+          the risk of operating closer to those objects and determined that it does not
+          present an undue hazard.
+
+    The PIC, VO, operator trainees or essential persons are not considered
+    nonparticipating persons under this exemption.
+
+27. All operations shall be conducted over private or controlled-access property with
+    permission from the property owner/controller or authorized representative.
+    Permission from property owner/controller or authorized representative will be
+    obtained for each flight to be conducted.
+
+28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+    boundaries of the operational area as defined by the applicable COA must be reported
+    to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+    reported to the National Transportation Safety Board (NTSB) per instructions
+    contained on the NTSB Web site: www.ntsb.gov.
+                                                                                                                 7
+
+ If this exemption permits operations for the purpose of closed-set motion picture and
+ television filming and production, the following additional conditions and limitations apply.
+
+    29. The operator must have a motion picture and television operations manual (MPTOM)
+         as documented in this grant of exemption.
+
+    30. At least 3 days before aerial filming, the operator of the UAS affected by this
+         exemption must submit a written Plan of Activities to the local Flight Standards
+         District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+         notification may be waived with the concurrence of the FSDO. The plan of activities
+         must include at least the following:
+           a. Dates and times for all flights;
+           b. Name and phone number of the operator for the UAS aerial filming conducted
+              under this grant of exemption;
+           c. Name and phone number of the person responsible for the on-scene operation of
+              the UAS;
+           d. Make, model, and serial or N-Number of UAS to be used;
+           e. Name and certificate number of UAS PICs involved in the aerial filming;
+           f. A statement that the operator has obtained permission from property owners
+              and/or local officials to conduct the filming production event; the list of those
+              who gave permission must be made available to the inspector upon request;
+           g. Signature of exemption holder or representative; and
+           h. A description of the flight activity, including maps or diagrams of any area, city,
+              town, county, and/or state over which filming will be conducted and the altitudes
+              essential to accomplish the operation.
+
+    31. Flight operations may be conducted closer than 500 feet from participating persons
+         consenting to be involved and necessary for the filming production, as specified in the
+         exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                      8
+
+This exemption terminates on August 31, 2017, unless sooner superseded or rescinded.
+
+Sincerely,
+
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+May 8, 2015
+
+U.S. Department of Transportation, Docket Operations
+West Building Ground Floor, Room w12-140
+1200 New Jersey Ave., SE
+Washington, DC 20590
+
+Re: Exemption Request under Section 333 of the FAA Reform Act and Part 11 of the Federal
+Aviation Regulations
+
+Dear Madam or Sir,
+
+Pursuant to Section 333 of the FAA Modernization and Reform Act of 2012 (the "Reform Act")
+and 14 C.F.R. Part 11, Marathon Petroleum Corporation LP ("MPC"), petitions for an exemption
+from the Federal Aviation Regulations ("FARs") listed below:
+
+     14 C.F.R. Part 21 Subpart H
+     Sections of 14 C.F.R. Part 45 (specifically §§45.23, 45.27, and 45.29)
+     Sections of 14 C.F.R. Part 61 (specifically §§61.3, 61.23)
+     Sections of 14 C.F.R. Part 91 (specifically §§91.7 (a), 91.9, 91.109 (a), 91.119, 91.121,
+
+         91.151 (b), 91.203 (a) & (b), 91.401, 91.403, 91.405, 91.407, 91.409, and 91.417).
+
+ The requested exemption would authorize MPC's Ohio Refining Division ("Canton, OH
+ Refinery") to operate the unmanned aircraft system ("UAS") ­ DJI Phantom 2 Vision+
+ Quadcopter ("the Phantom") ­ to support emergency response efforts within the Canton refinery
+ and surrounding Stark County, OH. These emergency response operations will be subject to
+ strict safety requirements set forth by MPC to ensure an equivalent level of safety is met to align
+ with current regulations governing the use of manned aircraft.
+
+ A detailed overview of the exemption requests and equivalent safety initiatives can be found in
+ Appendix A of this document.
+
+ Background on Marathon Petroleum Corporation LP
+
+ MPC, headquartered in Findlay, OH, is one of the largest petroleum product refiners, marketers
+ and transporters in the United States. MPC is the nation's fourth-largest refiner and the largest
+ refiner in the Midwest. MPC's refining, marketing and transportation operations are
+ concentrated primarily in the Midwest, Southeast, Northeast and Gulf Coast regions of the U.S.
+
+ MPC is a leader in the Health, Environment, Safety and Security ("HES&S") field within the
+ oil and gas industry. The company has the highest regard for the health and safety of the
+ employees, contractors and neighboring communities. In addition, MPC is committed to
+ Environmental Stewardship by conducting business practices with the goal of minimizing the
+ company's environmental impact. MPC is an American Chemistry Council "Responsible Care"
+
+                                                          1
+company. Responsible Care companies are committed to worker safety. They are nearly six
+times safer than the average of the U.S. manufacturing sector as a whole, and three times as safe
+as the business of chemistry overall. Responsible Care companies have reduced process safety
+incidents by 55 percent over the past 19 years.
+
+Specifications of the DJI Phantom 2 Vision+ Quadcopter ("the Phantom")
+
+    Lightweight, multi-functional integrated aircraft and camera (approximately 5 lbs.)
+    Electric Powered
+    FPV HD Video Camera
+    Camera remote-control by DJI VISION APP
+    Firmware installed to prevent UAS from entering airport airspace and government
+
+       buildings
+    Range Extender increases Wi-Fi distance to 300m
+    Anti-vibration camera platform with single axis stabilization
+    Low-voltage protection
+    Virtual Radar aircraft locator on mobile device
+    Range of camera tilt options
+    Multiple, continuous and timed capture options
+    HD Video Recording
+    Max Flight Speed 15m/s
+
+Application of the Phantom for the Canton Refinery
+
+UAS is becoming a desirable tool to assist in emergency response efforts, and MPC's Canton
+Refinery must leverage the new technology to the company and community's advantage. The
+Canton Refinery provides resources and is a major partner in the Stark County Incident
+Management Team. This team consists of several local Fire Chiefs and Emergency Managers,
+including the Canton Refinery Fire Chief. The team responds to emergencies throughout the
+region to provide Incident Command System (ICS) assistance to agencies as needed. The
+Canton Refinery Fire Department mobile Command Unit #3 responds with every Incident
+Management Assistance Team (IMAT) call and serves as the command post for the team and
+other emergency response government agencies.
+
+MPC will use the Phantom to provide an aerial image to assist in rapid mitigation of
+emergencies within the Canton Refinery and surrounding Stark County. Emergency response
+activities include but are not limited to ­ fire, rescue and hazardous materials (HAZMAT)
+incidents. The aerial camera will be operated from the mobile Command Unit #3.
+
+                                                        2
+ Emergency Response Incident Command can use the Phantom to gain better situational
+ awareness during an emergency. Firefighters could use the Phantom to scout fires, including
+ looking for hotspots in structure fires. The Phantom video capabilities could also assist in hazmat
+ release response by giving emergency responders a better idea of the source or the release, and
+ the extent and magnitude of a spill. By monitoring hazardous incidents remotely, emergency
+ response personnel are less likely to be exposed to unseen dangers.
+
+ Once the Phantom is in the air, it can provide real-time data back to emergency response
+ personnel. This data can assist the incident commander in making decisions by detailing the
+ current status of the incident, where potential hazard expansion may occur, and risks to
+ personnel and property. As a result, the intelligence gathered from the Phantom will ensure cost
+ effective mitigation options are assessed.
+
+ The nearest major airport, Akron ­ Canton Regional Airport, is located in Green, OH within
+ Summit County. The airport is approximately 12 miles from the Canton Refinery.
+
+ Maps of the Canton Refinery and Stark County are provided in Appendix C.
+
+Standard Operating Procedures and Safety Programs
+
+MPC's Canton Refinery requires any potential users to obtain initial safe operations training and
+require annual refresher training. The Canton Refinery requires training on all operation systems
+as well as safe operation of the unit based on the manufacturer's recommendations and FAA
+regulations prior to anyone operating the unit. Additional requirements include a detailed safety
+review of hazards while operating over an emergency scene.
+
+A pre-flight checklist and standard operating procedures are included in Appendix D.
+
+Conclusion
+
+MPC is a leader in the HES&S field within the oil and gas industry. By allowing MPC's Canton,
+OH Refinery to utilize the DJI Phantom 2 Vision+ for emergency response purposes, this will
+improve safety within the refinery and the surrounding Stark County. The Phantom will enhance
+hazard mitigation efforts by providing better situational awareness during an incident. In
+addition, the Phantom will be utilized to support the Stark County Incident Management Team,
+adding another resource to help improve safety in the community.
+
+To ensure an equivalent level of safety is maintained during operation of the Phantom, MPC will
+require employees to be trained before deploying the unit. In addition Standard Operating
+Procedures will be developed and reviewed on an annual basis.
+
+As UAS technology continues to evolve, it will be essential for MPC to adapt and utilize these
+innovations to support HES&S efforts across the company. By developing robust operating
+
+                                                          3
+procedures and comprehensive training programs, combined with the overall benefit derived
+from deploying the UAS for emergency response, MPC can adequately justify the request for
+exemptions from the FAA pursuant to Section 333 of the FAA Modernization and Reform Act of
+2012 (the "Reform Act") and 14 C.F.R. Part 11.
+Regards,
+
+Keith Robson
+Corporate Safety, Security and Emergency Preparedness Manager
+Marathon Petroleum Corporation LP
+539 S. Main Street
+Findlay, OH 45840
+Office: 419-421-2148
+Mobile: 419-619-4866
+kcrobson@marathonpetroleum.com
+
+                                                          4
+Appendix A: Exemption Requests and Equivalent Level of Safety Initiatives
+
+14 C.F.R Part 21, Subpart H: Airworthiness Certificates
+14 C.F.R. § 91.203(a)(1)
+Section 91.203 requires all civil aircraft to have a certificate of airworthiness. Part 21, Subpart H,
+entitled Airworthiness Certificates, establishes the procedural requirements for the issuance of
+airworthiness certificates as required by FAR 14 C.F.R. § 91.203(a). Given the size of the
+Phantom, being very light weight (approximately 5 pounds), and the limited operating area
+associated with its utilization, it is unnecessary to go through the certificate of airworthiness
+process under Part 21 Subpart H in order to achieve or exceed current safety levels.
+Such an exemption meets the requirements of an equivalent level of safety under Part 11 and
+Section 333 of the Reform Act. The Federal Aviation Act and Section 333 of the Reform Act both
+authorize the FAA to exempt aircraft from the requirement for an airworthiness certificate, upon
+consideration of the size, weight, speed, operational capability, and proximity to airports and
+populated areas of the UAS involved. An analysis of these different criteria demonstrates that the
+Phantom, operating without an airworthiness certificate under the conditions proposed in that
+exemption, will be at least as safe, or safer, than a conventional aircraft with an airworthiness
+certificate. MPC has developed safety procedures that will be enforced before bringing the
+Phantom into service. The Phantom will be operated in the presence of private and local
+municipality emergency responders, including police officers. MPC has developed safety
+procedures, including pre-flight checklist that will be followed before operating the Phantom.
+
+14 C.F.R. §§ 45.23, 45.27, and 45.29: Display of Marks; Location of Marks; Nonfixed-Wing
+Aircraft; Size of Marks
+These regulations provide that each aircraft must display an "N" (denoting U.S. registration) and
+the aircraft's registration number in letters at least 12 inches high for rotorcraft. It is also required
+that each operator of a rotorcraft must display markings on that rotorcraft horizontally on both
+surfaces of the cabin, fuselage, boom, or tail the marks required by §45.23.
+Given the size of the Phantom (13.7 inches diagonal), and small size of the airframe and
+components, this requirement is impossible to match.
+The equivalent level of safety will be achieved by having the markings of the MPC Canton
+Refinery Fire Department on the aircraft. In addition, the aircraft will not be operated at altitudes
+that exceed 400 feet, and the aircraft will stay in visual line of sight by all personnel operating the
+aircraft, therefore being identifiable at all times.
+
+14 C.F.R. § 61.3: Requirements for Certificates, Ratings and Authorizations
+
+                                                          5
+The regulation provides that no person may serve as a required pilot flight crewmember of a civil
+aircraft of the United States, unless that person:
+(1) Has a pilot certificate or special purpose pilot authorization issued under this part in that
+person's physical possession or readily accessible in the aircraft when exercising the privileges of
+that pilot certificate or authorization. However, when the aircraft is operated within a foreign
+country, a pilot license issued by that country may be used.
+Given the safety features of the Phantom, including the firmware installed that prevents the
+Phantom from entering airport airspace or near government buildings, MPC proposes that
+operators of the Phantom should not be required to hold a commercial or private pilot
+certification. Instead, operators will be required to adhere to the Phantom safety standards set by
+MPC, and keep the Phantom in visual line of sight (VLOS) at all times.
+
+14 C.F.R. §61.23 Medical Certificates: Requirement and Duration
+The regulation referenced above provides that a person:
+(1) Must hold a first-class medical certificate:
+
+     When exercising the pilot-in-command privileges of an airline transport pilot certificate;
+     When exercising the second-in-command privileges of an airline transport pilot certificate
+
+         in a flag or supplemental operation in part 121 of this chapter that requires three or more
+         pilots; or
+     When serving as a required pilot flight crew member in an operation conducted under part
+         121 of this chapter if the pilot has reached his or her 60th birthday.
+(2) Must hold at least a second class medical certificate when exercising:
+     Second-in-command privileges of an airline transport pilot certificate in part 121 of this
+         chapter (other than operations specified in paragraph (a)(1)(ii) of this section); or
+     Privileges of a commercial pilot certificate
+The lightweight Phantom will not carry a pilot or passengers. The operator on the ground in
+control of the Phantom will be a member of an emergency response team. The unmanned flights
+support emergency response operations. These flights provide safety benefits while reducing
+health and safety risk to humans. Emergency response team members have their own medical
+surveillance requirements to ensure they are fit for duty (see 29 C.F.R 1910.120(f)). Operation of
+the Phantom by a ground operator without the medical certificate described above does not pose
+any safety risk to the operator or to the public. MPC will allow operation of the Phantom only by
+emergency response team members who have valid driver's license to provide a level of safety
+equivalent to the requirements of the Federal Aviation Administration in 14 C.F.R. 61.23.
+
+14 C.F.R. § 91.7(a): Civil Aircraft Airworthiness
+This regulation requires that no person may operate a civil aircraft unless it is in airworthy
+condition. Should the exemption be granted allowing operation of the Phantom without an
+airworthiness certificate, no standard will exist for airworthiness of the Phantom. MPC will
+ensure that the Phantom operators are emergency responders also trained to use and adhere to the
+user manual provided by the manufacturer of the Phantom. An equivalent level of safety will be
+
+                                                          6
+achieved by insuring compliance with the Phantom user manual for flight operations.
+Please note that this is not the first company to seek and obtain an exemption from the FAA to
+operate the same UAS model. The FAA has previously granted the following company an
+exemption to operate the Phantom:
+
+     Saratoga Aerial Video and Photo, Exemption No. 11218, Regulatory Docket No.
+         FAA-2014-0953
+
+14 C.F.R. § 91.9: Civil Aircraft Flight Manual, Marking, and Placard Requirements.
+This regulation provides that no person may operate an aircraft unless a current, approved flight
+manual is in the aircraft. MPC assumes that the intent of this requirement is to ensure that flight
+manual information is available to the aircrew while operating the aircraft. MPC requests an
+exemption to this requirement since the aircraft is not only too small to carry documentation, but
+the documentation would not be available to the crew, as there is no flight crew on board.
+MPC will achieve an equivalent level of safety by keeping a hard copy of the Phantom user
+manual with the operator during all flights, and with the Phantom when not in flight.
+
+14 C.F.R. § 91.109(a): Flight Instruction
+The regulation provides that "No person may operate a civil aircraft that is being used for flight
+instruction unless that aircraft has fully functioning dual controls."
+Flight instruction will be accomplished through a training program as required by MPC's safety
+procedures. The Phantom does not have dual controls, but has a trainer port on the remote control
+that can be connected to the computer to simulate flight and practice skills. Through safety
+procedures, on-ground training and flight simulation, MPC will achieve an equivalent level of
+safety for operator flight instruction.
+
+14 C.F.R. § 91.119: Minimum Safe Altitudes
+The regulation provides that over sparsely populated areas, the aircraft cannot be operated closer
+than 500 feet to any person, vessel, vehicle, or structure. The Phantom will be utilized for
+emergency response purposes around MPC's refineries, terminals, pipelines, and other structures.
+Start County emergency response incident command may use it near other structures, but only
+during closely supervised training and actual emergency response operations. Therefore, MPC
+cannot comply with this requirement. MPC seeks an exemption to this requirement to allow the
+Phantom to be flown closer than 500 feet to a person, vessel, vehicle, or structure during
+emergency response training and actual emergency response incidents.
+The equivalent level of safety will be achieved because the Phantom will only fly over areas
+outside MPC's property by obtaining the proper permits. Before every flight within MPC
+airspace, an MPC operator or official will assess the working area, and advise the emergency
+response team regarding safety hazards in the area. Where Stark County emergency response
+
+                                                          7
+officials request MPC to use the Phantom outside of MPC's property, the emergency responders
+will ensure that landowners and the persons who may be on the ground in the flight area are
+briefed of the expected route of flight and the associated risks to persons and property on the
+ground. Due to the small size of the Phantom, the material with which the Phantom is built and its
+specific safety procedures (firmware), the hazard to persons, vessels, vehicles, and structures is
+small and not comparable to hazards to persons or property posed by larger manned aircraft. In
+addition, the Phantom will most likely not be operated over congested areas as the general
+population will be evacuated during major incidents.
+
+14 C.F.R. 91.121 ­ Altimeter Settings
+This section requires that each person operating an aircraft shall maintain the cruising altitude or
+flight level of that aircraft, as the case may be, by reference to an altimeter that is set, when
+operating below 18,000 feet MSL to:
+
+     The current reported altimeter setting of a station along the route and within 100 nautical
+         miles of the aircraft;
+
+     If there is no station within the area prescribed in paragraph (a)(1)(i) of this section, the
+         current reported altimeter setting of an appropriate available station;
+
+     In the case of an aircraft not equipped with a radio, the elevation of the departure airport or
+         an appropriate altimeter setting available before departure.
+
+To provide an equivalent level of safety, MPC will need to keep the Phantom in VLOS at all
+times. In addition, MPC can utilize the radar function provided with the Phantom to help restrict
+the aircraft altitude during operation. Keeping the Phantom air operations to less than 400 feet in
+altitude greatly reduces the risk as compared to other larger aircraft operating at higher altitudes.
+
+14 C.F.R. § 91.151(b): Fuel Requirements for Flight in Visual Flight Rules (VFR)
+Conditions
+The regulation provides that no person may begin a flight in a rotorcraft under VFR conditions
+unless (considering wind and forecast weather conditions) there is enough fuel to fly to the first
+point of intended landing and, assuming normal cruising speed, to fly after that for at least 20
+minutes.
+Given the area of operation for the Phantom, MPC believes that an equivalent level of safety is
+already achieved due to the fact that MPC will ensure the battery is properly charged before each
+use. In addition, the Phantom has a max flight time of 25 minutes, and this time limit and battery
+life will be monitored by the pilot in command and other ground personnel.
+
+14 C.F.R. § 91.203(a) & (b): Carrying Civil Aircraft Certification and Registration
+ This regulation provides as follows:
+
+     No person may operate a civil aircraft unless it has an appropriate and current
+         airworthiness certificate.
+
+     No person may operate a civil aircraft unless the airworthiness certificate required by
+
+                                                          8
+         paragraph (a) of this section or a special flight authorization issued under §91.715 is
+         displayed at the cabin or cockpit entrance so that it is legible to passengers or crew.
+The Phantom is too small, has insufficient payload capacity, and no place to carry certification
+and registration documents or to display them on the aircraft. In addition, there is no pilot on
+board the aircraft.
+To obtain an equivalent level of safety and meet the intent of 91.203, MPC proposes that
+documents deemed appropriate for this aircraft by the FAA (e.g. the operating manual) will be co-
+located with the operator and available for inspection upon request. In order to identify the
+aircraft, the Canton Refinery Fire Department can place a logo on the Phantom in order to identify
+the aircraft and its owner.
+14 C.F.R. Subpart E (91.401 - 91.417) - Maintenance, Preventive Maintenance, and
+Alterations
+The regulation provides that the operator is primarily responsible for maintaining the aircraft in an
+airworthy condition, including compliance with Parts 39 and 43. Paragraphs 91.407 and 91.409
+require the aircraft to be "approved for return to service by a person authorized under 43.7" after
+maintenance and inspection. Section 91.409 requires an annual inspection for the issuance of an
+airworthiness certificate. Section 91.417 requires the owner or operator to keep records showing
+certain maintenance work that has been accomplished by certificated mechanics, under Part 43.
+MPC proposes that the maintenance of the Phantom will be accomplished by the Canton Refinery
+Fire Department according to the Phantom user manual. An equivalent level of safety will be
+achieved because the Phantom is small in size, it is not a complex mechanical device and does not
+carry any external payload other than the camera. Moreover, the Canton Refinery Fire
+Department will be most familiar with the aircraft and is best suited to maintain the aircraft in an
+airworthy condition to ensure an equivalent level of safety is met. In addition, maintenance could
+also be performed by experienced professionals at a Remote Control Vehicle repair shop (or
+similar) that are trained to perform maintenance. Emergency response team members or other
+qualified persons authorized by MPC will inspect the Phantom to ensure it is capable of
+operations before returning it to service after maintenance. These measures provide an equivalent
+level of safety as the FAA regulations specified above.
+
+                                                          9
+Appendix B: Summary to publish in the Federal Register
+
+Pursuant to Section 333 of the FAA Modernization and Reform Act of 2012 and 14 C.F.R. Part
+11, Marathon Petroleum Corporation LP ("MPC"), petitions for an exemption from the Federal
+Aviation Regulations listed below:
+
+     14 C.F.R. Part 21 Subpart H
+     Sections of 14 C.F.R. Part 45 (specifically §§45.23, 45.27, and 45.29)
+     Sections of 14 C.F.R. Part 61 (specifically §§61.3, 61.23)
+     Sections of 14 C.F.R. Part 91 (specifically §§91.7 (a), 91.9, 91.109 (a), 91.119, 91.121,
+
+         91.151 (b), 91.203 (a) & (b), 91.401, 91.403, 91.405, 91.407, 91.409, and 91.417).
+The requested exemption would authorize MPC's Ohio Refining Division ("Canton, OH
+Refinery") to operate the unmanned aircraft system ("UAS") ­ DJI Phantom 2+ Quadcopter
+("The Phantom") ­ to support emergency response efforts within the refinery and surrounding
+Stark County, OH. MPC will use the Phantom to provide an aerial image to assist in rapid
+mitigation of emergencies, including but not limited to ­ fire, rescue and hazardous materials
+(HAZMAT) incidents.
+These emergency response operations will be subject to strict safety requirements set forth by
+MPC to ensure an equivalent level of safety is met to align with current regulations governing the
+use of manned aircraft.
+
+                                                         10
+Appendix C: Maps of the Marathon Petroleum Canton Refinery and Stark
+County
+
+Please see below for maps of the Canton Refinery and surrounding Stark County. As indicated in
+Map A, the tallest refining unit is the Continuous Catalyst Reformer ("CCR") at approximately
+250 ft. Map B shows the location of the Canton Refinery within Stark County. In addition, the
+nearest major airport, Akron ­ Canton Regional Airport, is indicated on Map B. This airport is
+approximately 12 miles from the Canton Refinery.
+
+                                   Map A ­ MPC Canton, OH Refinery
+
+                                                         11
+Map B - Stark County, OH
+                12
+Appendix D: Pre-Flight Checklist and Standard Operating Procedures
+
+Marathon Petroleum Canton Refinery Fire Department UAS Pre-Flight Checklist
+Crew Member Responsibilities
+Pilot- Responsible for turning on all equipment, and making sure the UAS is prepped and ready
+to operate.
+Co-Pilot- Responsible for all checklists, and ensures all equipment is functioning.
+Crew Member- Maintains flight logs, g a t h e r s extra equipment needed for pilot/co-pilot,
+monitors radios, accesses any other items needed to fly.
+Pre-Flight Checklist -Incident
+Crew members will confer with the Incident Commander ("IC") as to what type of incident the
+drone is to be utilized at. Depending on the incident, the UAS may be utilized in an emergent
+fashion, or it may be utilized in a non-emergent fashion, where there is more time to plan the
+flight, and log it.
+Weather Conditions- Verify the weather conditions are adequate for flight operations. (i.e.
+Wind, Time of Day, Daylight, Precipitation, Area of Flight)
+Flight Plan- Crew members will prepare a flight plan for the flight. The area, direction,
+altitude, speed, and any other factors will be recorded by either the co-pilot, or the crew
+member. The pilot's main job is to operate and control the aircraft.
+Objectives- Depending on the type of incident, the objective of the flight may vary. The
+aircraft could be utilized as a homing beacon of sorts, for rescue personnel to find and rescue a
+missing or trapped person.
+
+                                                           13
+Pre-Flight Checklist ­ The Phantom
+The pilot and co-pilot will check the Phantom out to ensure the following are attached properly
+and functioning properly.
+
+    1. Landing Gear
+    2. Camera/Gimbal
+    3. Propeller Guards
+    4. Propellers
+    5. Controller and equipment
+    6. iPhone/iPad
+Verify there are multiple batteries charged and ready with the Phantom, also ensure Canton
+Refinery Fire Department stickers are placed on the Phantom. If a flight plan is to be used, all
+members will be briefed on the path, as well as the home spot, which will be marked by a
+landing spot. The Phantom will be calibrated to land at that spot if any emergencies occur.
+The Phantom battery will alert when it gets to the Point of Safe Return ("PSR"). The Phantom
+will automatically return when reaching this point.
+
+Flight Checklist - Preparing To Operate the Phantom
+When the pilot is ready to operate the Phantom, complete the following checklist:
+
+Action                                                      Complete Not Complete Comments
+
+1. Turn on GPS Tracker (an automatic email will be sent to
+the UAS flight duration folder)
+
+2. Turn on Wi-Fi Extender, and connect phone to be used to
+Wi-Fi signal.
+3. Turn on Controller
+4. Turn on the Phantom
+5. Verify the Phantom responds appropriately to controls
+
+6. Verify iPhone/iPad is connected to the Phantom
+application system
+
+The pilot and co-pilot mobile phone should be showing all the flight parameters of the
+Phantom, as well as the live video feed.
+
+After completing these procedures, the pilot can begin the mission.
+
+14
+Marathon Petroleum Canton Refinery Fire Department Unmanned Aircraft System
+Standard Operating Guidelines
+
+ Scope of Operation: These standard operating guidelines will provide for the safety of
+ Marathon Petroleum Canton Fire Fighters when operating an unmanned aircraft system
+ (UAS).
+
+    I. Fire fighters will not deploy and fly UAS until:
+
+           A. Preflight checklist has been completed, weather conditions evaluated and
+                approved by IC.
+
+           B. A minimum of twofirefighters have had both pilot and co-pilot training for
+                UAS.
+
+           C. An event emergency or non-emergency arises in which the UAS is needed.
+           D. A written list is completed that outlines scope of flight and reasoning for
+
+                flight (to support Stark County emergency response efforts only)
+           E. The proper permits are obtained and notifications are made when using the UAS
+
+                outside of MPC property to support Stark County emergency response efforts.
+                This includes, but not limited to:
+
+                      Ensuring private landowners and the persons who may be on the ground
+                         in the flight area are briefed of the expected route of flight and the
+                         associated risks to persons and property on the ground.
+
+                      Ensuring all airports within 5 miles are briefed of the flight area, and
+                         permission is obtained to operate the UAS.
+
+   II. All personnel engaged in UAS operations shall record at minimum but not limited
+          to:
+          A. Time
+          B. Date
+          C. Operational Personnel
+          D. Unit number
+          E. Flight plan
+          F. Altitudes
+           G. Distance Flown
+          H. Weather Conditions/ Visibility
+           I. Wind Direction/Speed
+           J. Take off, Departure points
+           K. Pre/Post Battery Life
+
+  III. Takeoff, in flight, and landing:
+
+           A. Pilot and Co-pilot must agree on objectives, flight plan, and capabilities of UAS.
+           B. Memory cards must be blanked prior to take off.
+           C. Scene survey for takeoff paying special attention to overhead obstructions.
+           D. Height restrictions are to not exceed 400 feet and shall be determined
+
+                                                          15
+             prior to flight.
+         E. Distance restrictions shall be no further than visual line of sight from Pilot, Co-
+
+              pilot or Spotter.
+         F. If staffing permits, a third trained person will be recording updates to flight log as
+
+              well as maintaining communication with the staging officer.
+         G. In the event of a search and rescue mission, if the Pilot, Co-pilot, or anyone
+
+              reviewing the aerial footage spots a clue a "Hands Off'' will be called and further
+              investigation will ensue.
+         H. Person responsible with documentation of flight log will note times, locations, and
+              what was seen to further facilitate the search.
+         I. Prior to landing, the UAS Pilot and Co-pilot will agree on landing zone ("LZ").
+         J. Immediately after landing UAS the crew will replace batteries, upload aerial
+              footage, and get UAS back into working order.
+         K. A flight log with minimum requirements will be completed with every takeoff and
+              every landing. If the UAS is landing for a battery switch a new flight log needs to
+              be started.
+
+IV. Conditions in which flight may be grounded
+        A. Any weather deemed hazardous by the IC.
+        B. Winds in excess of 20mph.
+        C. Insufficient man power.
+        D. Insufficient number of qualified Pilots and Co-pilots.
+        E. Temperatures under 32 degrees Fahrenheit
+        F. Visibility i s too low hindering Co-pilots line of sight of UAS.
+        G. Any reason deemed unsafe by IC or other emergency response personnel.
+
+                                                        16
+UAS CrewMember
+ 1. Ensure all equipment is available and pull equipment as requested by pilot/co-
+     pilot
+ 2. Check weather reports for
+          a. Temperature
+          b. Wind speed and direction
+          c. Humidity
+ 3. Monitor radios to be used
+ 4. Secure charging spot for batteries
+ 5. Form perimeter at least 10 feet around launch site
+ 6. Announce over radio when UAS is taking flight
+ 7. Announce anything found over the radio
+ 8. Announce when the UAS is at "bingo" fuel, and is returning to the helispot
+ 9. Gather extra batteries/equipment as needed while the UAS is on the ground
+  10. When the UAS is ready to fly, return to step 6
+  11.Post flight, assist with breaking down UAS/equipment, and finish flight logs
+
+                                                          17
+Flight Crew - Emergency S i t u a t i o n
+
+UAS pre-flight
+      1. Determine fly/no-fly
+      2. Set up landing zone
+      3. Check UAS
+               a. Remove gimbal/camera cover
+               b. Attach propellers
+               c. Insert battery
+      4. Turn on GPS tracker and attach to UAS
+      5. Turn on Wi-Fi
+      6. Turn on controller
+      7. Turn on UAS
+      8. Contact ground crew when ready
+      9. Ground crew will call out
+               a. Battery % of UAS battery
+               b. Battery %of Wi-Fi
+               c. Number of satellites
+               d. Flight direction
+               e. Weather
+      10. Flight crew will call out "UAS flying"
+      11. Upon return, flight crew will
+               a. Turnoff UAS
+               b. Replace battery and SD card
+               c. Return to step 7
+
+                                                          18
+Ground Crew - Emergency Situation
+     1. Unpack equipment to be used
+     2. Start iPad- open applications
+     3. Verify weather conditions
+     4. Connect Wi-Fi to iPad
+     5. Callout
+              a. Battery % of
+                       i. UAS battery
+                       ii. Wi-Fi battery
+              b. Satellites
+              c. Weather
+     6. When flight is started
+              a. Video record flight
+              b. Monitor iPad for
+                       i. Battery %
+                      ii. Satellites
+                      iii. Location,direction,speedof UAS
+              c. Call out to flight crew any adjustments needed
+
+                                                          19
+Flight Crew
+
+UAS Pre-Flight
+      1. Determine fly/no-fly based upon conditions
+     2. Check UAS
+               a. Propellers/propeller guards
+               b. Landing gear
+               c. Gimbal/camera covers removed
+               d. Gimbal/camera free-spinning when off
+               e. GPS tracker and battery secured
+      3. Check controller
+               a. GPS unit charged
+               b. Batteries inserted in controller
+               c. S1and S2 switches both up
+               d. Both control sticks return to neutral
+      4. Find suitable "helispot" for UAS
+               a. Checkforobstructions/hazards inthe vicinity of the flight area
+
+ UAS Flight Checklist
+      1. Turn on GPS tracker
+      2. Turn on Wi-Fi extender
+      3. Turn on controller
+      4. Turn on UAS
+      5. Connect to device, and verify "home point"
+      6. Create flight path if applicable
+      7. Notify members that the UAS is going airborne
+
+                                                          20
+Page Intentionally Left Blank
+

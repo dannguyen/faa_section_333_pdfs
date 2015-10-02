@@ -1,0 +1,1715 @@
+June 23, 2015
+
+                                                           Exemption No. 11862
+                                                           Regulatory Docket No. FAA­2015­0891
+
+Mr. Kendrick Smith
+1946 Twin Creeks Court
+Napa, CA 94559
+
+Dear Mr. Smith:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter dated March 30, 2015, you petitioned the Federal Aviation Administration (FAA) on
+behalf of Raven Aerial Imaging (hereinafter petitioner or operator) for an exemption. The
+petitioner requested to operate an unmanned aircraft system (UAS) to conduct market
+research, aerial surveys, mapping, data collection and inspections that consist of still
+photographs, video, thermal imaging and other data taken by onboard sensors.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner. The FAA received one
+individual comment in opposition to the petition and one in support from the petitioner. In
+granting this exemption, the FAA has determined that the proposed operations can safely be
+conducted under the conditions and limitations of this exemption. As with exemptions issued
+to Aeryon Lab, Astraeus Aerial, Clayco, Inc., and VDOS Global, LLC, failure to comply with
+the document's conditions and limitations is grounds for immediate suspension or rescission
+of the exemption.
+                                                                                                2
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner is a DJI Phantom 2 Vision+.
+
+In accordance with the statutory criteria provided in Section 333 of Public Law 112-95 in
+reference to 49 U.S.C. § 44704, and in consideration of the size, weight, speed, and limited
+operating area associated with the aircraft and its operation, the Secretary of Transportation
+has determined that this aircraft meets the conditions of Section 333. Therefore, the FAA
+finds that relief from 14 CFR part 21, Certification procedures for products and parts,
+Subpart H--Airworthiness Certificates, and any associated noise certification and testing
+requirements of part 36, is not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection1. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+ They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+ The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+ A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, Raven Aerial Imaging is granted an exemption from
+14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a), 91.7(a), 91.119(c),
+
+1 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                                                 3
+
+91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a) and (b), to
+the extent necessary to allow the petitioner to operate a UAS to perform aerial data collection.
+This exemption is subject to the conditions and limitations listed below.
+
+Conditions and Limitations
+
+In this grant of exemption, Raven Aerial Imaging is hereafter referred to as the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+    1. Operations authorized by this grant of exemption are limited to the DJI Phantom 2
+         Vision+ when weighing less than 55 pounds including payload. Proposed operations
+         of any other aircraft will require a new petition or a petition to amend this exemption.
+
+    2. Operations for the purpose of closed-set motion picture and television filming are
+         not permitted.
+
+    3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+         exemption holder may use either groundspeed or calibrated airspeed to determine
+         compliance with the 87 knot speed restriction. In no case will the UA be operated at
+         airspeeds greater than the maximum UA operating airspeed recommended by the
+         aircraft manufacturer.
+
+    4. The UA must be operated at an altitude of no more than 400 feet above ground level
+         (AGL). Altitude must be reported in feet AGL.
+
+    5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+         This requires the PIC to be able to use human vision unaided by any device other than
+         corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+         U.S. driver's license.
+
+    6. All operations must utilize a visual observer (VO). The UA must be operated within
+         the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+         to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+         capability. The VO and PIC must be able to communicate verbally at all times;
+         electronic messaging or texting is not permitted during flight operations. The PIC
+         must be designated before the flight and cannot transfer his or her designation for the
+         duration of the flight. The PIC must ensure that the VO can perform the duties
+         required of the VO.
+
+    7. This exemption and all documents needed to operate the UAS and conduct its
+         operations in accordance with the conditions and limitations stated in this grant of
+         exemption, are hereinafter referred to as the operating documents. The operating
+                                                                                                            4
+
+    documents must be accessible during UAS operations and made available to the
+    Administrator upon request. If a discrepancy exists between the conditions and
+    limitations in this exemption and the procedures outlined in the operating documents,
+    the conditions and limitations herein take precedence and must be followed.
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+                                                                                                            5
+
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+                                                                                       6
+
+exemption holder may apply for a new or amended COA if it intends to conduct
+operations that cannot be conducted under the terms of the attached COA.
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+
+    be as large as practicable.
+
+23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+    any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+    PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+    These documents must be made available to the Administrator or any law enforcement
+    official upon request.
+
+24. The UA must remain clear and give way to all manned aviation operations and
+    activities at all times.
+
+25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless:
+      a. Barriers or structures are present that sufficiently protect nonparticipating persons
+          from the UA and/or debris in the event of an accident. The operator must ensure
+          that nonparticipating persons remain under such protection. If a situation arises
+          where nonparticipating persons leave such protection and are within 500 feet of
+          the UA, flight operations must cease immediately in a manner ensuring the safety
+          of nonparticipating persons; and
+      b. The owner/controller of any vessels, vehicles or structures has granted permission
+          for operating closer to those objects and the PIC has made a safety assessment of
+          the risk of operating closer to those objects and determined that it does not
+          present an undue hazard.
+
+The PIC, VO, operator trainees or essential persons are not considered
+nonparticipating persons under this exemption.
+
+27. All operations shall be conducted over private or controlled-access property with
+    permission from the property owner/controller or authorized representative.
+    Permission from property owner/controller or authorized representative will be
+    obtained for each flight to be conducted.
+
+28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+
+    boundaries of the operational area as defined by the applicable COA must be reported
+    to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+                                                                                               7
+
+reported to the National Transportation Safety Board (NTSB) per instructions
+contained on the NTSB Web site: www.ntsb.gov.
+
+If this exemption permits operations for the purpose of closed-set motion picture and
+television filming and production, the following additional conditions and limitations apply.
+
+29. The operator must have a motion picture and television operations manual (MPTOM)
+    as documented in this grant of exemption.
+
+30. At least 3 days before aerial filming, the operator of the UAS affected by this
+    exemption must submit a written Plan of Activities to the local Flight Standards
+    District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+    notification may be waived with the concurrence of the FSDO. The plan of activities
+    must include at least the following:
+      a. Dates and times for all flights;
+      b. Name and phone number of the operator for the UAS aerial filming conducted
+          under this grant of exemption;
+      c. Name and phone number of the person responsible for the on-scene operation of
+          the UAS;
+      d. Make, model, and serial or N-Number of UAS to be used;
+      e. Name and certificate number of UAS PICs involved in the aerial filming;
+      f. A statement that the operator has obtained permission from property owners
+          and/or local officials to conduct the filming production event; the list of those
+          who gave permission must be made available to the inspector upon request;
+      g. Signature of exemption holder or representative; and
+      h. A description of the flight activity, including maps or diagrams of any area, city,
+          town, county, and/or state over which filming will be conducted and the altitudes
+          essential to accomplish the operation.
+
+31. Flight operations may be conducted closer than 500 feet from participating persons
+
+    consenting to be involved and necessary for the filming production, as specified in the
+    exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                    8
+
+This exemption terminates on June 30, 2017, unless sooner superseded or rescinded.
+Sincerely,
+
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+KENDRICK SMITH / RAVEN AERIAL IMAGERY                                                          3/30/15
+Petition for Exemption Request Under Section 333 of the FAA Reform Act and Part 11 of the FAR
+
+March 30, 2015
+
+U.S. Department of Transportation
+Docket Management System
+1200 New Jersey Ave., SE
+Washington, DC 20590
+
+Re: Exemption Request Under Section 333 of the FAA Reform Act and Part 11 of the Federal
+Aviation Regulations
+
+Dear Sir or Madam:
+
+Pursuant to Section 333 of the FAA Modernization and Reform Act of 2012 (the "Reform Act") and 14
+C.F.R. Part 11, Raven Aerial Imaging, the owner and operator of the DJI Phantom 2 Vision+ a small
+Unmanned Aircraft Systems ("sUAS") seeks an exemption from the Federal Aviation Regulations
+("FARs") listed below and discussed in Appendix A. Details of Raven Aerial Imagery and the DJI
+Phantom 2 Vision+ sUAS a n d described in Appendix B. Attached as Appendix C is a summary of this
+request.
+
+The requested exemption would permit Raven Aerial Imaging commercial operation of DJI Phantom 2
+Vision+ (see details in Appendix B), which weighs u n d e r 6 lbs. with imaging payload, to perform
+market research, aerial surveys, mapping, data collection and inspections that consist of still
+photographs, video, thermal imaging and other data taken by onboard sensors. The DJI Phantom 2
+Vision+ produces high quality imagery and data that can be used independently or in the case of
+surveying and modelling, can be combined to produce precision digital point clouds, triangle models,
+and contour maps of the surveyed area. Application for this sUAS include inspection of sensitive
+infrastructure including oil and gas pipelines and flare stacks, powerlines and towers, wind turbines,
+and surveying tasks such as precision agriculture, mining, transportation, building inspection wildlife
+monitoring and forestry. Use of the DJI Phantom 2 Vision+ for these inspection and surveying
+applications reduces the need to operate conventional aircraft, providing data more quickly, accurately,
+economically, safely and with reduced environmental impact.
+
+Operations under the exemption will be subject to strict operating requirements and conditions to
+ensure at least an equivalent level of safety to currently authorized operations using manned aircraft
+and under conditions as may be modified by the FAA as required by Section 333.
+
+While Raven Aerial Imaging is filing this exemption request on its own behalf, it anticipates that its
+customers, in thefuture, will file exemption applications to allow them to operate the DJI Phantom 2
+Vision+ in commercial operations at their own facilities, farms, mines, and other sites that require
+aerial data for inspections and surveys. Wherever possible, those filings will be substantially similar to
+this exemption application.
+
+As described more fully below, the requested exemption would authorize Raven Aerial Imaging to
+
+                                                                      1
+KENDRICK SMITH / RAVEN AERIAL IMAGERY                                                          3/30/15
+Petition for Exemption Request Under Section 333 of the FAA Reform Act and Part 11 of the FAR
+
+perform market research and commercial operations of aerial inspections, thermal imaging, photography,
+video and surveys using the DJI Phantom 2 Vision+1 which under 6 lbs. is small in size and powered
+electrically by battery. The DJI Phantom 2 Vision+ will be operated under controlled conditions at low
+altitude (under 400ft. or 200ft. as determined by this exemption) in airspace that is limited in scope, as
+described more fully herein It will have automated control features, as described below. The DJI
+Phantom 2 Vision+ is designed to be operated by one person but flight operations generally involve two
+people: an operator and an observer. The operator is responsible for flying the sUAS, monitoring its
+status and flight dynamics while maintaining visual line of sight and keeping the flight within the
+specified factory limits (in terms of wind, flight range, battery life, etc.) to ensure safe operation of the
+sUAS itself. The observer is responsible for monitoring the airspace for other aircraft and hazards
+and instructing the operator before and during flight as necessary to ensure safe separation/de -
+confliction with these aircraft and hazards. The operator also will be an individual who has passed
+authorized The DJI Phantom 2 Vision+ training program for the DJI Phantom 2 Vision+. Finally, the
+airspace ni which the DJI Phantom 2 Vision+ will operate will be disclosed to and approved, as
+needed, by the FAA inadvance.
+
+Raven Aerial Imaging respectfully submits that because this small, unmanned aerial system ­ the DJI
+Phantom 2 Vision+ will be used in lieu of comparatively hazardous operations now conducted with
+fixed wing and rotary conventional aircraft, the FAA can have confidence that the operations will
+achieve at least anequivalent level or greater level of safety. Approval of this exemption would thereby
+enhance safety and fulfill the Secretary of Transportation's (the FAA Administrator's) responsibilities
+under Section 333(c) of the Reform Act to "establish requirements for the safe operation of such
+aircraft systems in thenational airspace system."
+
+The name and address of the applicant are:
+
+Raven Aerial Imaging
+Attn: Kendrick Smith
+Ph.707-333-0256
+Email: kendrick@ravenaerialimagery.com
+
+Address: 1946 Twin Creeks Ct
+Napa, CA 94559 USA
+
+The primary contact for this application is:
+Kendrick Smith;
+kendrick@ravenaerialimagery.com;
+707-333-0256
+
+The regulations from which the exemption is requested are as follows:
+14 C.F.R. Part 21
+14 C.F.R. 45.23(b) 
+14 C.F.R. 61.113(a) & (b) 
+14 C.F.R. 61.133(a) 
+14 C.F.R. 91.7(a) 
+14 C.F.R. 91.9(b) (2) & (c) 
+14 C.F.R. 91.103
+14 C.F.R. 91.109(a) 
+14 C.F.R. 91.119
+
+                                                                                                               Formatted: Font: (Default) Arial, 1 pt
+
+                                              2
+KENDRICK SMITH / RAVEN AERIAL IMAGERY                                                          3/30/15
+Petition for Exemption Request Under Section 333 of the FAA Reform Act and Part 11 of the FAR
+
+1DJI Phantom 2 Vision+ customers have been granted flight operation certificate to operate the DJI Phantom 2
+Vision+, Certificates of Waiver or Authorization (COA) in the US for public agency use.
+
+3
+KENDRICK SMITH / RAVEN AERIAL IMAGERY                                                          3/30/15
+Petition for Exemption Request Under Section 333 of the FAA Reform Act and Part 11 of the FAR
+
+14 C.F.R. 91.151(a) 
+14 C.F.R. 91.203(a) & (b) 
+14 C.F.R. 91.405(a) 
+14 C.F.R. 91.407(a) (1) 
+14 C.F.R. 91.409(a) (2) 
+
+14 C.F.R. 91.417(a).
+
+Appendix A discusses each rule listed above and explains why exemptions pursuant to the proposal
+set forth in this letter are appropriate, provide an equivalent level of safety, and are in the public
+interest.
+
+THE APPLICABLE LEGAL STANDARD UNDER SECTION 333
+
+Raven Aerial Imagery submits that grant of this exemption application for use of the DJI Phantom
+2 Vision+ in market research,surveying, mapping and inspection operations will advance the
+Congressional mandate in Section 333of the Reform Act to accelerate the introduction of sUASs
+into the national airspace system ("NAS") if itcan be accomplished safely. This law directs the
+Secretary of Transportation to consider whethercertain sUASs may operate safely in the NAS
+before completion of the rulemaking required under Section 332 of the Reform Act. In making this
+determination, the Secretary is required to determinewhich types of sUASs do not create a
+hazard to users of the NAS or the public or pose a threat tonational security in light of the
+following:
+
+    1. The sUAS's size, weight, speed, and operational capability
+    2. Operation of the sUAS in close proximity to airports and populated areas and
+    3. Operation of the sUAS within visual line of sight of the operator.
+
+Reform Act § 333(a) (1). If the Secretary determines that such vehicles "may operate safely in the
+national airspace system, the Secretary shall establish requirements for the safe operation of
+suchaircraft in the national airspace system." Id. §333(c) (emphasis added).2
+
+The Federal Aviation Act expressly grants the FAA the authority to issue exemptions. This
+statutoryauthority, by its terms, includes exempting civil aircraft, as the term is defined under
+§40101 of the Act,from the requirement that all civil aircraft must have a current airworthiness
+certificate and thoseregulations requiring commercial pilots to operate aircraft in commercial
+service:
+
+         The Administrator may grant an exemption from a requirement of a regulation prescribed
+         undersubsection (a) or (b) of this section or any of sections 44702-44716 of this title if the
+         Administrator finds the exemption is in the public interest.
+
+49 U.S.C. §44701(f). See also 49 USC §44711(a)  49 USC §44704 14 CFR §91.203(a)(1).
+
+The grant of the requested exemption is in the public interest based on the clear direction in
+Section 333 of the Reform Act The additional authority in the Federal Aviation Act, as
+amended The strong equivalent level of safety surrounding the proposed operations And the
+
+                            4
+KENDRICK SMITH / RAVEN AERIAL IMAGERY                                                          3/30/15
+Petition for Exemption Request Under Section 333 of the FAA Reform Act and Part 11 of the FAR
+
+significant public benefit, including enhanced safety and cost savings associated with transitioning
+to sUASs for aerial surveying, mapping and inspection applications. Accordingly, the applicant
+respectfully requests that the FAAgrant the requested exemption without delay.
+
+Airworthiness of the DJI Phantom 2 Vision+
+
+ A critical element of the exemption application involves evidence of the airworthiness of DJI
+ Phantom 2 Vision+ sUAS including the DJI Phantom 2 Vision+. Raven Aerial Imagery believes that
+ it has shown compliance through a history of grantedflight operations and successful flights -
+ including many operations with public agencies. The list of granted applicants includes:
+
+ 2Applicant submits that this provision places a duty on the Administrator to not only process applications for
+ exemptions under Section 333, but for the Administrator, if he deems the conditions proposed herein
+
+ require modification in order to allow approval, to supply conditions for the safe operation of the sUAS. Raven
+ Aerial Imagery welcomes the opportunity to consult with FAA staff in order to address any issues or
+
+ concerns that this proposal may raise that they believe may require modification.
+
+ The criteria set forth in the Order specify the substantive showings of the device's safety and
+ fitness for operation to ensure that the FAA has sufficient basis to evaluate the aircraft's safety3.
+ The DJI Phantom 2 Vision+ also has a significant set of automated features to ensure safe takeoff,
+ flight and landing in many conditions, further details of operation can be found in Appendix B.
+
+Mandatory Operating Conditions
+
+ Grant of the exemption to Raven Aerial Imagery will be subject to the following mandatory
+ conditions, which are based upon operating conditions set forth for operation of sUAS by public
+ entities pursuant toCertificates of Authorization, with additional restrictions:
+
+    1. All operations to occur in Class G airspace.
+    2. Operations to avoid congested or populated areas, which are depicted in yellow on VFR
+
+         charts.
+    3. Operations to be conducted over private or controlled access property.
+    4. Permission from land owner/controller required before commencing any flight.
+    5. Operations to occur during Visual Flight Rules Meteorological Conditions (VMC).
+    6. Aircraft to remain within Visual Line of Sight (VLOS).
+
+                         i. VLOS guaranteed with a cylinder of operation around operator of ½ nautical
+                             miles (NM).
+
+                         ii. Cylinder walls may be expanded by observer with ability to control aircraft.
+    7. Operations to occur during daylight hours.
+    8. Above Ground Level (AGL) altitude to be restricted to 400 feet.
+    9. All operations conducted in vicinity of airport to remain more than 2.5 NM from centerline
+
+         azimuth of runway centerline measured from runway thresholds.
+    10. Operator will file a NOTAM for each flight.
+    11. All required permissions and permits will be obtained from territorial, state, county or city
+
+                                                                    5
+KENDRICK SMITH / RAVEN AERIAL IMAGERY                                                          3/30/15
+Petition for Exemption Request Under Section 333 of the FAA Reform Act and Part 11 of the FAR
+
+    jurisdictions, including local law enforcement, fire, or other appropriate governmental
+    agencies.
+12. All operations will include one pilot for flight control and one observer for VLOS
+    enhancement of surrounding area near the aircraft
+
+Operator Requirements
+
+Raven Aerial Imagery respectfully proposes that operator requirements should take into account
+the characteristics of the particular sUAS. Certain sUASs, such as the DJI Phantom 2 Vision+
+are characterized by a high degree of pre-programmed control and various built-in technical
+capabilities that limit the potential foroperation outside of the operating conditions set forth above.
+The DJI Phantom 2 Vision+ sUAS also provides many built-in functional and safety features to
+assist the operator in safe and reliable operation.4
+
+3Raven Aerial Imagery can submit under confidentiality the following documents in support of this exemption
+
+application for the DJI Phantom 2 Vision+. DJI Phantom 2 Vision+ User Guide (Exhibit 1) which includes Safety
+and Preflight Checklists and 2) Training Manual (Exhibit 2).
+
+4 As of July 2014, Raven Aerial Imagery staff have performed over 100 flights, logging more than 120 hours of
+
+flight time with the DJI Phantom 2 Vision+. This is a significant amount of flight time collected to understand and
+
+refine skills for the DJI Phantom 2 Vision+.
+
+The DJI Phantom 2 Vision+ provides two semi-autonomous flight modes using a point-and-click
+map andvideo interface. The user clicks on a map to direct the DJI Phantom 2 Vision+ to fly to the
+point on the map wherethe operator is pointing, or programmed flight plans may be entered for
+a series of waypoints or grid based area. Additional navigation aids including landing zones and
+flight areas may be designated to ensure the DJI Phantom 2 Vision+ operates only within user
+specified flight parameters. All flight operations areGPS controlled making the system easy to
+navigate, and the flight control system also employs avariety of sensors including sonar,
+barometric pressure, temperature, wind speed and others to ensure the high stability and reliability
+in challenging weather conditions. At all times during flight operations,the operator can intervene a
+programmed flight and take immediate control.
+
+Additional automated safety functions and safety enhancing features of the DJI Phantom 2 Vision+
+include the following:
+
+     Automated pre-flight system performance checks
+     User pre-flight checklist
+     Automated condition or fault detection, warnings, and pre-defined responses to a
+
+         number of flight and system conditions.
+          High winds with system and user defined safety thresholds
+          Low battery with system and user defined safety thresholds
+          High temperature or other system safety thresholds
+          Lost link communication
+     Pre-defined responses include behavior such as attempting to re-establish
+
+                            radiocommunication, return to home position and hover, return to home
+         position and land, or land incurrent position
+     In the case of lost GPS, a manual user flight mode is enabled which allows the
+         operator to provide manual navigation inputs to assist in landing the vehicle.
+
+                       6
+KENDRICK SMITH / RAVEN AERIAL IMAGERY                                                          3/30/15
+Petition for Exemption Request Under Section 333 of the FAA Reform Act and Part 11 of the FAR
+
+Given these safety features, Raven Aerial Imagery proposes that operators of the DJI Phantom 2
+Vision+ should not be required to hold a commercial or private pilot certification. Instead,
+operators should be required to:
+
+    1. Have successfully completed, at a minimum, FAA private pilot ground instruction and passed
+          the FAA Private Pilot written examination or FAA recognized equivalents including
+          commercialor private license and ground school issued from an ICAO recognized country
+
+    2. Have completed DJI Phantom 2 Vision+ authorized training program for operation and
+          maintenance of the sUAS.
+
+Raven Aerial Imagery notes that the FAA has found that safety factors permitted operation of
+sUASs by operatorswith these qualifications in the case of operations pursuant to public COAs when
+the mandatory operating conditions specified above were present. See Federal Aviation
+Administration, Notice N-8900.227, Unmanned Aircraft Systems (UAS) Operational Approval, at
+20-21 (July 30, 2013). The FAA has the statutory authority to grant exemptions to the
+requirements for and privileges associatedwith the grant of airmen's certificates. 49 USC §44701 (f).
+
+In summary, applicant seeks an exemption from the FARs set forth above and in Appendix C to
+allow market research and commercial operations of a small unmanned vehicle in surveying,
+mapping andinspection operations.
+
+Approval of the exemption allowing commercial operations of the DJI Phantom 2 Vision+ for
+surveying, mapping, aerial photography, thermal imagery, data collection and inspection operations
+will enhance safety by reducing risk. Conventional aerial survey and inspection operations using
+manned aircraft involve very heavy aerial vehicles carrying significant quantities of combustible
+fuels, and a multi-person crew in piloting and observation roles. These operations require
+transit to and from the location of the activity, and will at times take place in congested
+environments including proximity to physical obstacles and/or presence of the general public.
+By contrast the DJI Phantom 2 Vision+ weighs u n d e r 6 lbs. including payloads and uses a
+battery for power, is carried to/from the area of activity, removes the need for airborne
+pilots/observers, and poses less risk to people and infrastructure on the ground.
+
+Additionally, no national security issue is raised by the grant of the requested exemptions. Given
+thesize, load carrying capacity, speed at which it operates, and the fact that it carries no
+explosives orother dangerous materials, the DJI Phantom 2 Vision+ poses no threat to national
+security.
+
+The operation of the DJI Phantom 2 Vision+ for market research, surveying, mapping, thermal
+imaging, data collection and inspection operations in accordance with the strict conditions outlined
+above, will provide an equivalent level of safety supporting the grant of the exemptions requested
+herein, including exempting Raven Aerial Imagery from the requirements of Part 21.
+
+The DJI Phantom 2 Vision+ satisfaction of the criteria set forth in Section 333 of the Reform Act--
+size, weight,speed, operating capabilities, lack of proximity to airports and populated areas,
+operation within visualline of sight, and national security ­ and its showing of an equivalent level
+of safety as it may relate tothe requirement for a pilot's license, provide more than adequate
+
+7
+KENDRICK SMITH / RAVEN AERIAL IMAGERY                                                          3/30/15
+Petition for Exemption Request Under Section 333 of the FAA Reform Act and Part 11 of the FAR
+
+justification for the grant of therequested exemptions allowing Raven Aerial Imagery commercial
+operation of the DJI Phantom 2 Vision+ in market research,surveying, mapping, thermal imaging,
+data collection and inspection operations.
+
+Respectfully yours,
+
+Kendrick F. Smith
+Raven Aerial Imagery
+1946 Twin Creeks Ct
+Napa, CA 94559 USA
+kendrick@ravenaerialimagery.com
+
+Temporary Number: NT0048855
+
+                                 8
+KENDRICK SMITH / RAVEN AERIAL IMAGERY                                                          3/30/15
+Petition for Exemption Request Under Section 333 of the FAA Reform Act and Part 11 of the FAR
+
+APPENDIX A
+
+EXEMPTION REQUEST AND EQUIVALENT LEVEL OF SAFETY SHOWINGS UNDER
+                         APPLICABLE RULES SUBJECT TO EXEMPTION
+
+Raven Aerial Imagery requests an exemption from the following regulations as well as any additional
+regulations that may technically apply to the operation of the DJI Phantom 2 Vision+:
+
+14 C.F.R. Part 21, Subpart H: Airworthiness Certificates
+14 CFR § 91.203(a) (1)
+
+Section 91.203(a) (1) requires all civil aircraft to have a certificate of airworthiness. Part 21, Subpart
+H, entitled Airworthiness Certificates, establishes the procedural requirements for the issuance of
+airworthiness certificates as required by FAR § 91.203(a)(1). Given the size of the aircraft (under 6
+lbs.) and the limited operating area associated with its utilization, it is unnecessary to go through the
+certificate of airworthiness process under Part 21 Subpart H to achieve or exceed current safety levels.
+
+Such an exemption meets the requirements of an equivalent level of safety under Part 11 and Section
+333 of the Reform Act. The Federal Aviation Act and Section 333 of the Reform Act both authorize the
+FAA to exempt aircraft from the requirement for an airworthiness certificate, upon consideration of the
+size, weight, speed, operational capability, and proximity to airports and populated areas of the
+sUAS involved.
+
+In this case, an analysis of these criteria demonstrates that the DJI Phantom 2 Vision+ operated
+without an airworthiness certificate, under the conditions proposed herein, will be at least as safe, or
+safer, than a conventional aircraft (fixed wing or rotorcraft) with an airworthiness certificate. The DJI
+Phantom 2 Vision+ weighs under 6 lbs. fully loaded. It will not carry a pilot or passenger, will not carry
+flammable fuel, and will operate exclusively within an area pre disclosed and in compliance with
+conditions set forth herein. Operations under this exemption will be tightly controlled and monitored by
+both the operator, pursuant to the conditions set forth above, and by local public safety requirements.
+The FAA will have advance notice of all operations through the filing of NOTAMs. Receipt of the
+prior permission of the land owner, thesize of the aircraft, the lack of flammable fuel, and the fact that
+the aircraft is carried to the location and not flown there all establish the equivalent level of safety. The
+DJI Phantom 2 Vision+ provides at least an equivalent, and most likely exceeds level of safety to that
+of such operations being conducted with conventional aircraft that would be orders-of-magnitude
+larger and would be carrying passengers, cargo and flammable fuel. The automated safety features
+including redundant sensor systems as described in Appendix B and throughout this document
+highlight the design intentions towards safety and reliability on DJI Phantom 2 Vision+.
+
+14 C.F.R. § 45.23 & 91.9(c): Marking of the Aircraft
+
+Regulation 45.23 provides:
+                   (a) Each operator of an aircraft must display on that aircraft marks consisting of the
+                   Roman capital letter "N" (denoting United States registration) followed by the registration
+                   number of the aircraft. Each suffix letter used in the marks displayed must also be a
+                   Roman capital letter.
+
+                                                                     9
+KENDRICK SMITH / RAVEN AERIAL IMAGERY                                                          3/30/15
+Petition for Exemption Request Under Section 333 of the FAA Reform Act and Part 11 of the FAR
+
+(b) When marks include only the Roman capital letter "N" and the registration number is
+
+displayed on limited, restricted or light sport category aircraft or experimental or
+
+provisionally certificated aircraft, the operator must also display on that aircraft near each
+
+entrance to the cabin, cockpit, or pilot station, in letters not less than 2 inches normore
+than 6 inches high, the words "limited," "restricted," "light sport," "experimental," or
+"provisional," as applicable.
+
+Regulation 91.9(c) provides:
+                    No person may operate a U.S. registered civil aircraft unless that aircraft is identified in
+                    accordance with part 45 of this chapter.
+
+The DJI Phantom 2 Vision+ has no entrance to the cabin, cockpit, or pilot station on which the
+markings can beplaced. Given the size of the sUAS, two inch lettering will be impossible. Official
+
+marking systems forsmall UAS have not yet been established for operations inside the NAS. The DJI
+
+Phantom 2 Vision+ is currently marked with a fixed label containing DJI Phantom 2 Vision+ measuring
+1.5" x 0.5" as well as a serial number located under the removable camera payload. Raven Aerial
+
+Imagery is prepared to mark the inspection system with the name of the organization and location or
+origin and fulfill any other request by the FAAto this topic in accordance to § 45.29(f) where the pilot,
+
+observer, and others working with the sUAS will see the identification of the sUAS.
+
+The FAA has issued the following exemptions to this regulation, see Exemption Nos. 8738, 10167,
+10167A and 10700.
+
+14 C.F.R. § 61.113(a) & (b) 61.133(a): Private Pilot Privileges and Limitations Pilot in
+Command Commercial Pilot Privileges and Limitations.
+
+Section 61.113(a) & (b) limit private pilots to non-commercial operations. Unlike a conventional aircraft
+that carries a pilot, passengers, and cargo, the DJI Phantom 2 Vision+ in this case is remotely
+controlled with no passengers or property of others on board. Section 61.133(a) requires an individual
+with a commercial pilot's license to be pilot in command of an aircraft for compensation or hire.
+Raven Aerial Imagery respectfully proposes that operator requirements should take into account the
+characteristics of the particulars UAS. DJI Phantom 2 Vision+ has a high degree of pre-programmed
+control and various built-in technicalcapabilities that strictly limit the potential for operation outside of the
+operating conditions set forth in theexemption application.
+
+The DJI Phantom 2 Vision+ has an all-digital software platform with advanced features previously
+restricted to full size unmanned aircraft. Automated features and advanced fly safe controls enable
+safe, reliableoperation, as well as advanced networking capabilities and system extensibility.
+
+    1. Plan your flight or fly ad hoc: The system can autonomously fly a programmed flight path or fly
+         in manual mode
+
+    2. Smart batteries and charger: Flight time and battery minutes are displayed at all times. The
+         system will return home and land automatically if user configurable limits are reached.
+
+Flight safety is a priority, no matter the operating environment or project. The DJI Phantom 2 Vision+
+offers superior safety over manned aircraft by removing the need for people to be onboard in potentially
+dangerous situations. With multiple built-in safety features, the DJI Phantom 2 Vision+ platform leads
+other sUAS with respect to safety.
+
+                                                                     10
+KENDRICK SMITH / RAVEN AERIAL IMAGERY                                                          3/30/15
+Petition for Exemption Request Under Section 333 of the FAA Reform Act and Part 11 of the FAR
+
+1. Intelligent fault handling: The system automatically detects potential issues - with configurable
+    automated response behavior such as a return-home-and-land routine
+
+2. Automatic pre-flight checks: The system self-calibrates all of its sensors and performs self-tests
+    prior to takeoff to check for errors
+
+3. No fly zones: The system has the ability to set up visual no fly zones and installed no fly zones.
+4. Self-monitoring: Monitoring battery levels, in-flight wind speeds, and other system and
+
+    environmental conditions are automatically handled by the system
+5. Battery communication: Battery minutes and flight time are displayed at all times. The system
+
+    will return home and land automatically if user configurable limits are reached.
+
+Additional automated safety functions and safety enhancing features of the DJI Phantom 2 Vision+
+include the following:
+
+   1. Auto detection of lost GPS warns the pilot and initiates an immediate landing.
+   2. Low battery on the DJI Phantom 2 Vision+ triggers a Non- Fatal Warning alarm to return
+
+        home, land and replace the battery
+   3. Very low battery on the DJI Phantom 2 Vision+ triggers a Fatal Error alarm and initiates an
+
+        emergency high speed descent landing.
+   4. If the DJI Phantom 2 Vision+ detects a lost link to the base station the vehicle will perform its
+
+        pre- defined Nonfatal Condition Response.
+
+Given these safety features, Raven Aerial Imagery proposes that operators of the DJI Phantom 2
+Vision+ should not be required to hold a commercial or private pilot certification. Instead, operators
+should be required to:
+
+    1. Have completed DJI Phantom 2 Vision+ training program for operation of the sUAS.
+    2. Completed Raven Aerial Imagery training and safety program.
+
+Raven Aerial Imagery notes that the FAA has found that safety factors permitted operation of
+sUASs by operators with these qualifications in the case of operations pursuant to public COAs
+where the mandatory operating conditions specified above are present. See Federal Aviation
+Administration, Notice N-8900.227, Unmanned Aircraft Systems (UAS) Operational Approval, at
+20-21 (July 30, 2013). TheFAA has the statutory authority, granted at 49 U.S.C §44701(f) to waive
+the pilot requirements forcommercial operations.
+
+Given these conditions and restrictions, an equivalent level of safety will be provided by allowing
+operation of the DJI Phantom 2 Vision+ without a private pilot's certificate or a commercial pilot's
+
+certificate, underthe conditions set forth herein.
+
+The risks associated with the operation of the DJI Phantom 2 Vision+ (given its size, speed,
+operational capabilities, and lack of combustible fuel) are so diminished from the level of risk
+associated with private pilot operations or commercial operations contemplated by Part 61 with
+conventional aircraft (fixed wing or rotorcraft), that allowing operations of the sUAS as set forth above
+meets or exceeds thepresent level of safety provided under 14 C.F.R. § 61.113(a) & (b) and does
+not rise to the level ofrequiring a commercial pilot to operate the aircraft under § 61.133(a).14 C.F.R. §
+91.7(a): Civil aircraft airworthiness.
+
+This regulation requires that no person may operate a civil aircraft unless it is in airworthy condition.
+Should the exemption be granted allowing commercial operation of the DJI Phantom 2 Vision+
+without an airworthiness certificate, no standard will exist for airworthiness of the DJI Phantom 2
+
+                                                                     11
+KENDRICK SMITH / RAVEN AERIAL IMAGERY                                                          3/30/15
+Petition for Exemption Request Under Section 333 of the FAA Reform Act and Part 11 of the FAR
+
+Vision+. Given the size o f t h e a i rcraft and the previous COAs issued for DJI Phantom 2 Vision+
+equivalent level of safety will be achieved by ensuring compliance with the DJI Phantom 2 Vision+
+manuals prior to each flight.
+
+ 14 C.F.R. § 91.9(b) (2): Civil Aircraft Flight Manual in the Aircraft.
+
+The regulation provides:
+                     No person may operate a U.S. registered civil aircraft configuration of the DJI Phantom 2
+                     Vision+, it has no ability or place to carry such a flight manual on the aircraft, not only
+                     because there is no pilot on board, but because there is no room or capacity to carry
+                     such an item on the aircraft.
+
+ The equivalent level of safety will be achieved by keeping the flight manual (see, e.g., User
+ Guide, Exhibit 1) at the ground control point where the pilot flying the sUAS will have immediate
+ access to it.The FAA has issued to others the following exemptions to this regulation: Exemption Nos.
+ 8607, 8737,8738, 9299, 9299A, 9565, 9565B, 10167, 10167A, 10602, 32827, and 10700.
+
+ 14 C.F.R. § 91.103: Preflight Action
+
+ This regulation requires each pilot in command to take certain actions before flight to insure the safety
+ of flight. As FAA approved rotorcraft flight manuals will not be provided for the aircraft an exemption will
+ be needed. An equivalent level of safety will be provided as set forth in the DJI Phantom 2 Vision+
+ User Manual (exhibit 1) under the `Getting Ready to Fly' section. The PIC will take all actions
+ including reviewing weather, flight battery requirements, landing and takeoff distances and aircraft
+ performance databefore initiation of flight.
+
+ 14 C.F.R. § 91.109(a) & 91.319(a) (1): Flight Instruction
+
+ These regulations provide that no person may operate a civil aircraft (except a manned free balloon)
+ that is being used for flight instruction unless that aircraft has fully functioning dual controls.
+
+ The DJI Phantom 2 Vision+ is a remotely piloted aircraft and by design, does not have fully functional
+ dual controls.Flight control is accomplished through the use of a control box that communicates with
+ the aircraft via radio communications. The flight plan is either manually controlled through
+ point-and-click touch screen navigation or pre-programmed as way points or an Auto Grid into the
+ auto pilot before or during flightand only in unusual circumstances will the pilot input control
+ functions to alter the pre-programmedflight. If instruction is accomplished through a training program,
+ as set forth in Exhibit 2, an equivalent level of safety will be assured. The FAA has approved
+ exemptions for flight training without fully functional dual controls for a number of aircraft and for flight
+ instruction in experimental aircraft. SeeExemption Nos. 5778K & 9862A. The equivalent level of
+ safety will be achieved by the manufacturer providing the training as outlined, for example, in Exhibit
+ 2 and through the use of experienced and qualified pilots familiar with the DJI Phantom 2 Vision+.
+
+ 14 CFR § 91.119: Minimum Safe Altitudes
+
+ Section 91.119 establishes safe altitudes for operation of civil aircraft. Specifically, 91.119(c)
+ limits aircraft flying over areas other than congested areas to an altitude of 500 feet above the surface,
+
+                                                                      12
+KENDRICK SMITH / RAVEN AERIAL IMAGERY                                                          3/30/15
+Petition for Exemption Request Under Section 333 of the FAA Reform Act and Part 11 of the FAR
+
+except over open water or sparsely populated areas. In those cases, the aircraft may not be
+operated closer than 500 feet to any person, vessel, vehicle, or structure.
+
+As set forth herein, the DJI Phantom 2 Vision+ will never operate at higher than 400 feet AGL. It will,
+however, be operated to avoid congested or populated areas that are depicted in yellow on VFR
+sectional charts.Because aerial survey, mapping and inspection work must be accomplished at
+relatively low altitudes and at altitudes less than 500 feet AGL, an exemption from Section 91.119(c) is
+needed.
+
+The equivalent level of safety will be achieved given the size, weight, speed, and material with which
+the DJI Phantom 2 Vision+ is built. Also, no flight will be taken without the permission of the land
+owner or thosewho control the land. Because of the advance notice to the landowner, all affected
+individuals will beaware of the flights. Compared to aerial survey operations conducted with aircraft or
+rotorcraft weighing far more than 6 lbs. and carrying flammable fuel, any risk associated with these
+operationswill be far less than those currently allowed with conventional aircraft operating at or
+below 500 feet AGL Indeed, the low altitude operations of the sUAS will maintain separation
+between these sUAS operations and the operations of conventional aircraft that must comply with
+Section 91.119.
+
+14 C.F.R. § 91.151(a): Fuel Requirements for Flight in VFR Conditions
+
+This regulation prohibits an individual from beginning "a flight in an airplane under VFR conditions unless
+(considering wind and forecast weather conditions) there is enough fuel to fly to the first point of
+intended landing and, assuming normal cruising speed;
+
+   1. During the day, to fly after that for at least30 minutes Or
+   2. At night, to fly after that for at least 45 minutes.
+
+The DJI Phantom 2 Vision+ batteries provide approximately 50 minutes of powered flight. Without
+an exemptionfrom § 14 CFR 91.151, the sUAS's flights would be limited to approximately 20 minutes
+
+in length. Given the limitations on its proposed operations and the location of those proposed
+
+operations, a longer timeframe for flight in daylight VFR conditions is reasonable.
+
+Raven Aerial Imagery believes that an exemption from 14 CFR § 91.151(a) is safe and within the
+scope of a prior exemption. See Exemption 10673 (allowing Lockheed Martin Corporation to operate
+withoutcompliance with 91.151(a)). Operating the sUAS, without 30 minutes of reserve fuel does not
+engender the type of risks that Section 91.151(a) was meant to prevent given the size and speed at
+which the sUAS operates. The fact that it carries no pilot, passenger, or cargo also enhances its safety.
+Additionally, limiting DJI Phantom 2 Vision+ flights to 20 minutes would greatly reduce their utility. In
+the unlikely event that the DJI Phantom 2 Vision+ should run out of fuel, it would simply land. Given its
+weight and constructionmaterial, the risks are less than contemplated by the current regulation.
+
+Raven Aerial Imagery believes that an equivalent level of safety can be achieved by maintaining 10
+minutes of reserve fuel, which, allowing 40 minutes of flight time, would be more than adequate to
+return the sUAS to it planned landing zone from anywhere in its operating area.
+
+The FAA has granted similar exemptions to others, including Exemptions 2689F, 5745, 10673 and
+10808.
+
+                                                                     13
+KENDRICK SMITH / RAVEN AERIAL IMAGERY                                                          3/30/15
+Petition for Exemption Request Under Section 333 of the FAA Reform Act and Part 11 of the FAR
+
+14 C.F.R. § 91.203 (a) & (b): Carrying Civil Aircraft Certification and Registration
+
+This regulation provides as follows:
+
+   1. ... No person may operate a civil aircraft unless it has ... an appropriate and current
+        airworthiness certificate.
+
+   2. No person may operate a civil aircraft unless the airworthiness certificate required by paragraph
+        (a) of this section or a special flight authorization issued under §91.715 is displayed at the
+        cabin or cockpit entrance so that it is legible to passengers or crew.
+
+   3. The DJI Phantom 2 Vision+ fully loaded weighs under 6 lbs. As such, there is no ability or
+        place to carry certification and registration documents or to display them on the sUAS. In
+        addition, there is no pilot onboard the aircraft.
+
+An equivalent level of safety will be achieved by keeping these documents at the ground control point
+where the pilot flying the sUAS will have immediate access to them. The FAA has issued numerous
+exemptions to this regulation. A representative sample of other exceptions includes Exemption Nos.
+9565, 9665, 9789, 9789A, 9797, 9797A, 9816A, and 10700.
+
+14 C.F.R. § 91.405(a)  407(a) (1)  409(a) (2)  417(a): Maintenance Inspections
+
+Section 91.405(a) requires that an aircraft operator or owner "shall have that aircraft inspected as
+prescribed in subpart E of this part and shall between required inspections, except as provided in
+paragraph (c) of this section, have discrepancies repaired as prescribed in part 43 of this chapter ..."
+Section 91.407 similarly makes reference to requirements in Part 43 Section 91.409(a) (2) requires
+an annual inspection for the issuance of an air worthiness certificate. Section 91.417(a) requires
+theowner or operator to keep records showing certain maintenance work that has been accomplished
+bycertificated mechanics, under Part 43, or licensed pilots and records of approval of the aircraft
+forreturn to service.
+
+The DJI Phantom 2 Vision+ is nearly maintenance free, it performs automatic preflight checks and
+the failure ofany check will prevent take-off. Checks which cannot be done by the system will be
+performed by aqualified person prior to each flight and at predefined intervals as part of the
+Maintenance Schedule inthe User Manual (see Exhibit 1).
+
+Preflight checklist includes:
+         1. Visual inspection of the airframe
+         2. Visual inspections of rotor integrity
+         3. Check charge of all batteries (aerial vehicle, command station, radio repeater station)
+
+An equivalent level of safety will be achieved because the sUAS is small in size, will carry no external
+payload, will operate only in restricted predetermined areas and is not a complex mechanical devise.
+As provided in the attached User Guide (System Maintenance section), the operator of Raven Aerial
+Imagery will ensure that the sUAS is in working order prior to initiating flight, perform required
+maintenance, and keep a log of any maintenance that is performed. Moreover, the operator is the
+person most familiar with the aircraft and is best suited to maintain the aircraft in an airworthy
+condition and to ensure anequivalent level of safety.
+
+                                                                     14
+KENDRICK SMITH / RAVEN AERIAL IMAGERY                                                          3/30/15
+Petition for Exemption Request Under Section 333 of the FAA Reform Act and Part 11 of the FAR
+
+The DJI Phantom 2 Vision+ Maintenance guidelines ensure an equivalent level of safety to the
+maintenance requirements in Part 91. In addition, any component failure detectable by the system will be
+reported tothe control station and will cause the UAV to perform a Fatal Condition Response (FCR) or
+Nonfatal Condition Response.
+
+Appendix B:
+
+The Phantom 2 Vision+ ushers in a new era of aerial cinematography with its brand new and incredibly stable 3-axis
+gimbal, combined with the sharp, powerful DJI-designed camera, making professional imaging tools easily accessible
+to everyone.
+
+                                       Phantom 2 Vision+
+
+                                                                                                                    Formatted: Font: (Default) Times New
+                                                                                                                    Roman, 12 pt, Bold, Font color: Blue
+
+Battery  5200mAh LiPo
+          15
+KENDRICK SMITH / RAVEN AERIAL IMAGERY                                                          3/30/15
+Petition for Exemption Request Under Section 333 of the FAA Reform Act and Part 11 of the FAR
+
+Phantom 2 Vision+  1242g (with battery &
+       Weight      propellers)
+
+Hover Accuracy (Ready Vertical:0.8m
+
+to Fly)            Horizontal:2.5m
+
+Max Yaw Angular    200°/s
+      Velocity
+
+Max Tilt Angle     35°
+
+Max Ascent / Descent Ascent: 6m/s
+
+Speed              Descent: 3m/s
+
+Max Flight Speed   15m/s(Not Recommended)
+
+Diagonal Length    350mm
+
+Tilting Range of Gimbal Pitch : -90°0°
+
+        1. Ready to fly
+        2. 3-axis camera stabilization
+        3. Precision flight and stable hovering
+        4. Radar positioning & return home
+        5. Onscreen real-time flight parameters
+        6. High performance camera
+        7. Camera tilt control
+        8. Film straight down
+        9. Supports Adobe DNG RAW
+        10. Adobe lens profile support
+        11. Camera parameter settings
+       12. Album synchronization
+
+TRANSMITTER
+
+        1. Operating Frequency:5.728 GHz ­ 5.85 GHz
+        2. Communication Distanceopen area: CE: 400m; FCC: 800m
+
+                                                                     16
+KENDRICK SMITH / RAVEN AERIAL IMAGERY                                                          3/30/15
+
+Petition for Exemption Request Under Section 333 of the FAA Reform Act and Part 11 of the FAR
+
+         3. Receiver Sensitivity1%PER:-93dBm</td></tr>
+         4. Transmitter Power: CE: 25mw; FCC: 100mw
+         5. Working Voltage:80 mA@6V
+         6. Battery:4 AA Batteries
+
+ CAMERA
+
+         1. Operating Environment Temperature 0-40
+         2. Resolution:4384×3288
+         3. FOV:110°/ 85°
+         4. Sensor size:1/2.3"
+         5. HD Recording:1080p30 /720p60
+
+ RANGE EXTENDER
+
+              The Phantom 2 Vision+ Range Extender is a wireless communication device that operates
+              within the 2.4 GHz frequency band. It is used to extending the effective range of communication
+              between a Smartphone and the Phantom 2 Vision+. In an open, unobstructed area, the
+              transmission distance can reach up to 700 meters. This can be reduced by trees, buildings and
+              other sources of the same frequency. Before every flight, it is suggested that you ensure the
+              Range Extender is functioning properly; otherwise communication issues between the mobile
+              device and the Phantom 2 Vision+ may occur.
+
+ DJI VISION APP
+
+    System Requirement of Mobile Device: iPhone4s, iPhone5, iPhone5s, iPod Touch4, iPod Touch5;
+
+Phantom 2 Vision+ Before Flight
+
+Once pre-flight preparation is complete, it is recommended to carry out the tasks in the Phantom Pilot
+Training Guide to prepare for more complex flight maneuvers and learn to fly safely. Ensure that all flights
+are carried out in a suitable location.
+
+ Flight Environment Requirements
+
+    1. Do not use the aircraft in severe weather conditions. These include wind speed exceeding category
+         4, snow, rain and smog.
+
+    2. Fly in open fields as high buildings or steel structures may affect the accuracy of the onboard
+         compass.
+
+    3. Keep the Phantom away from obstacles, crowds, high voltage power lines, trees or bodies of water
+         when in flight.
+
+    4. Reduce the chance of electromagnetic interference by not flying in areas with high levels of
+         electromagnetism, including base stations or radio transmission towers.
+
+    5. The Phantom cannot operate within the polar areas.
+    6. Do not fly the aircraft within no-fly zones specified by local laws and regulations.
+
+                                                                      17
+KENDRICK SMITH / RAVEN AERIAL IMAGERY                                                          3/30/15
+Petition for Exemption Request Under Section 333 of the FAA Reform Act and Part 11 of the FAR
+
+ Preflight Checklist
+
+    1. Remote Controller, smart battery, Range Extender and smartphone are fully charged.
+    2. Propellers are mounted correctly.
+    3. Gimbal clamp has been removed.
+    4. Damping absorbers are in good condition, not broken or worn.
+    5. Anti-drop kits have been mounted correctly.
+    6. Camera lens cap has been removed.
+    7. Micro-SD card has been inserted if necessary.
+    8. Gimbal is functioning as normal.
+    9. Motors can start and are functioning as normal.
+    10. DJI VISION App can connect to the camera.
+
+ DJI Vision App Usage
+
+The DJI VISION App controls the Phantom 2 Vision+ camera including capture, recording, settings and
+pitch angle. It also displays essential flight information including flight parameters and battery.
+
+Calibrating the Compass
+
+IMPORTANT: Make sure to calibrate the compass in every new flight location. The compass is very
+sensitive to electromagnetic interference, which can cause abnormal compass data leading to poor flight
+performance or even flight failure. Regular calibration is required for optimum performance.
+
+ Calibration Procedures
+
+Choose an open space to carry out the following procedures. Watch the Phantom 2 Vision+ quick start
+video for more details.
+
+18
+KENDRICK SMITH / RAVEN AERIAL IMAGERY                                                          3/30/15
+Petition for Exemption Request Under Section 333 of the FAA Reform Act and Part 11 of the FAR
+
+Hints and Tips:
+If compass calibration is needed before flight, a prompt will appear on the DJI VISON App's camera page. It
+will disappear after successful calibration.
+ When to Recalibrate
+
+    1. When compass data is abnormal, the rear LED flight indicator will blink red and yellow.
+    2. Flying in different location to last flight.
+    3. Mechanical structure of the Phantom has changed, i.e. changed mounting position of the compass.
+    4. Severe drifting occurs in flight, i.e. Phantom does not fly in straight lines.
+ Starting Motors
+A Combination Stick Command (CSC) is used to start the motors instead of simply pushing the stick up.
+(Figure 50) Push both sticks to their bottom corners to start the motors. Once the motors have spun up,
+release both sticks simultaneously.
+
+                                                                      19
+KENDRICK SMITH / RAVEN AERIAL IMAGERY                                                          3/30/15
+Petition for Exemption Request Under Section 333 of the FAA Reform Act and Part 11 of the FAR
+
+ Stopping Motors
+
+There are two methods to stop the motors.
+
+Method 1: When the Phantom has landed, push the throttle down, then conduct CSC. Motors will stop
+immediately. Release both sticks once motors stop.
+
+20
+KENDRICK SMITH / RAVEN AERIAL IMAGERY                                                          3/30/15
+Petition for Exemption Request Under Section 333 of the FAA Reform Act and Part 11 of the FAR
+
+Method 2: When the aircraft has landed, push the throttle down and hold. Motors will stop after 3 seconds.
+                                                                      21
+KENDRICK SMITH / RAVEN AERIAL IMAGERY                                                          3/30/15
+Petition for Exemption Request Under Section 333 of the FAA Reform Act and Part 11 of the FAR
+
+Warning: Do not execute CSC during normal flight. This will stop the motors and cause the aircraft to drop
+without control.
+
+References: Conduct the CSC as neatly as you can. Release the sticks once motors start/stop.
+
+Take off / Landing Procedures
+
+1. Place the Phantom 2 Vision+ on open flat ground with battery indicators facing towards you.
+2. Power on the Remote Controller and Range Extender, then the Smart Flight Battery.
+3. Launch the DJI VISION App and start bind it with your smartphone then enter the camera preview
+
+    page.
+4. Wait until the Rear LED Flight Indicator blinks green. This means it has initialized and is Ready to
+
+    Fly. If it flashes yellow, it is in Ready to Fly (non-GPS) mode and will require more careful flight.
+    Execute the CSC command to start motors.
+5. Push the throttle up slowly to take off. Refer to Remote Controller Operation for more details.
+6. Shoot photos and videos using the DJI VISION App. Refer to DJI VISION App Usage for more
+    details.
+7. To land, hover over a level surface and gently pull down on the throttle gently to descend.
+8. After landing, execute the CSC command or hold the throttle at its lowest position for 3 seconds or
+    more until the motors stop.
+9. Turn off the smart battery, Range Extender and Remote Controller.
+
+Important:
+
+1. When the Rear LED Flight Indicator blinks yellow rapidly during flight, the aircraft has entered
+    Failsafe mode. Refer to Failsafe Function (Page 41) for details.
+
+2. A low battery level warning is indicated by the Rear LED Flight Indicator blinking red slowly or
+    rapidly during flight. Refer to the Low Battery Level Warning Function (Page) for details.
+
+3. View tutorials about flight for more flight information: www.dji.com/phantom2visionplus/training.
+
+Video Suggestions and Tips
+
+1. Work through the check list before each flight.
+2. Set the gimbal working mode to Stabilized.
+3. Aim to shoot when flying in Ready to Fly only.
+4. Always fly in good weather, such as sunny or windless days.
+5. Change camera settings to suit you. These include FOV, photo format and exposure compensation.
+6. Take flight tests to establish flight routes and scenes.
+7. Push the sticks gently to make aircraft movements stable and smooth.
+
+Failsafe Function
+
+The Phantom will enter Failsafe mode when its connection to the Remote Controller is lost. The Flight
+Control System will automatically control the aircraft to return to home and land to prevent injury or damage.
+
+Hints and Tips:
+
+Home Point: When the Phantom enters 'Ready to Fly' from the `Ready to Fly status (non-GPS)', the GPS
+coordinates will be recorded and set as the home point.
+
+                               22
+KENDRICK SMITH / RAVEN AERIAL IMAGERY                                                          3/30/15
+Petition for Exemption Request Under Section 333 of the FAA Reform Act and Part 11 of the FAR
+
+1. When Remote Controller signal is lost, the aircraft will return to the recorded home point coordinates
+
+    and land.
+
+2. Home point coordinates are used to calculate the horizontal distance of the aircraft (shown as
+    "Distance" on the GUI of the DJI VISION App).
+
+3. After successfully recording the home point, rear LED flight indicators blink fast green.
+
+ When will Failsafe Activate?
+
+    1. The Remote Controller is powered off.
+    2. The Phantom has flown out of effective communication range.
+    3. The signal between the Remote Controller and the Phantom has been blocked.
+    4. There is interference causing a signal problem with the Remote Controller.
+
+ Failsafe Procedure
+
+Initiating the Failsafe mode from different flying statuses will results in different landing processes.
+
+Ready to Fly (non-GPS) ---- Automatic landing
+
+The Flight Control System will keep the aircraft level during descent and landing. It may be drift during the
+descent and landing process.
+
+Ready to Fly ---- Automatic go home and land
+
+The Flight Control System will automatically control the aircraft to fly back to the home point and land.
+
+The below demonstrates the complete Ready to Fly Failsafe landing process.
+
+Important:
+
+    1. To ensure the aircraft successful return to home after Failsafe activation, aim to only fly in Ready to
+         Fly mode.
+
+                                                                      23
+KENDRICK SMITH / RAVEN AERIAL IMAGERY                                                          3/30/15
+Petition for Exemption Request Under Section 333 of the FAA Reform Act and Part 11 of the FAR
+
+2. The Phantom will automatically descend during the Failsafe process if there are less than 6 GPS
+    satellites detected for more than 20 seconds.
+
+3. The aircraft cannot avoid obstacles during Failsafe.
+
+Hints and Tips: Quickly flipping the S2 switch of the Remote Controller from top to bottom 5 times or more
+will reset the current aircraft position as a new home point. Rear LED flight indicators will blink green rapidly
+when successful.
+
+Failsafe on the DJI VISION App
+
+The DJI VISION App will provide information during Failsafe
+
+ Regaining Control During Failsafe Procedures
+
+ Low Battery Level Warning Function
+The low battery level warning alerts users when the battery is close to depletion during flight. When it
+appears, users should promptly fly back and land to avoid accidental damage. The Phantom 2 Vision+ has
+two levels of low battery level warning. The default battery level warning thresholds are 30% (low battery
+level warning) and 15% (critical low battery level warning) respectively.
+
+                                                                      24
+KENDRICK SMITH / RAVEN AERIAL IMAGERY                                                          3/30/15
+Petition for Exemption Request Under Section 333 of the FAA Reform Act and Part 11 of the FAR
+
+Flight Limits
+
+All unmanned aerial vehicle (UAV) operators should abide by all regulations from such organizations as the
+ICAO (International Civil Aviation Organization) and their own national airspace regulations. For safety
+reasons, the flight limits function is enabled by default to help users use this product safely and legally. The
+flight limits function includes height, distance limits and No Fly Zones.
+
+In Ready to Fly mode, height, distance limits and No Fly Zones work together to manage flight. In Ready to
+Fly (non-GPS) status, only height limits work and flights cannot go higher than 120m.
+
+                                                                      25
+KENDRICK SMITH / RAVEN AERIAL IMAGERY                                                          3/30/15
+Petition for Exemption Request Under Section 333 of the FAA Reform Act and Part 11 of the FAR
+
+References Default parameters in Assistant Software are compliant within the definitions of class G ruled
+by ICAO. (Refer to Airspace Classification to get more details). As each country has its own rules, make
+sure to configure these parameters to comply with these rules before flying.
+
+Max Height & Radius Limits
+
+Max Height & Radius limits flying height and distance. Configuration can be done in the Phantom 2 Vision+
+Assistant (Figure 57). Once complete, your Phantom will fly in a restricted cylinder (Figure 58).
+
+Preparing the Remote Controller
+
+The Phantom 2 Vision+ Remote Controller is a wireless communication device using the 5.8GHz frequency
+band. Remote Controller and Phantom are paired before delivery. The Remote Controller is set to Mode 2
+by default. This can be adjusted in the PHANTOM RC Assistant Software. See Using the PHANTOM RC
+
+                                                                      26
+KENDRICK SMITH / RAVEN AERIAL IMAGERY                                                                 3/30/15
+Petition for Exemption Request Under Section 333 of the FAA Reform Act and Part 11 of the FAR
+
+Assistant Software for details. You can also adjust the power of your Remote Controller according to
+national regulations. Please refer to Compliance Version Configuration.
+
+Definitions:
+
+Compliance Version: The Phantom 2 Vision+ Remote Controller is compliant with CE and FCC (see the
+FCC ID) regulations.
+Operating Mode: Mode 1 and Mode 2 refer to different channel mappings.
+
+Mode 1: The right stick controls throttle.
+
+Mode 2: The left stick controls throttle.
+
+Hints and Tips:
+
+The Range Extender and Phone Holder are already mounted on the Remote Controller. Twist the Phone
+Holder to face outwards and fix it in position for mobile device installation.
+
+Warning: Large smartphones and tablets are not recommended for the Phone Holder as they do not fit.
+
+ The Remote Controller
+
+                                                                                                               Formatted: Font color: Blue
+
+27
+KENDRICK SMITH / RAVEN AERIAL IMAGERY                                                          3/30/15
+Petition for Exemption Request Under Section 333 of the FAA Reform Act and Part 11 of the FAR
+
+                                                                                                             Formatted: Font color: Blue
+
+Power on the Remote Controller
+
+Set S1 and S2 switches to the upper most position and place all sticks in the mid-point.
+Toggle power switch to the right to switch on. The Remote Controller will then beep.
+If it is set to CE compliance, then there will be one beep while the FCC compliant version will beep twice.
+The Power LED will blink green quickly indicating that the solid green. Remote Controller and receiver are
+binding. Once binding is completed, the Power LED will change to a steady green.
+
+                                                                                                             Formatted: Font color: Blue
+
+28
+KENDRICK SMITH / RAVEN AERIAL IMAGERY                                                          3/30/15
+Petition for Exemption Request Under Section 333 of the FAA Reform Act and Part 11 of the FAR
+
+                                                                                                        Formatted: Font color: Blue
+
+   Warning:
+   If the low voltage warning alert sounds
+   (refer to Remote Controller Power LED Status Information for details), charge batteries as
+   soon as possible.
+   For long term storage, be sure to remove the batteries from Remote Controller.
+   Dispose of batteries properly.
+
+Remote Controller Power LED Status Information
+
+                                                                                                        Formatted: Font color: Blue
+
+29
+KENDRICK SMITH / RAVEN AERIAL IMAGERY                                                          3/30/15
+Petition for Exemption Request Under Section 333 of the FAA Reform Act and Part 11 of the FAR
+
+                                                                                                                    Formatted: Font color: Blue
+
+Warning:
+
+The Remote Controller Power LED will blink red and sound an alert when the voltage drops below 3.9V and
+automatically power off after 3 seconds. This process will repeat even if you power cycle the Remote Controller.
+If this low voltage warning occurs during flight, it will cause the Phantom to enter Failsafe mode which cannot be
+interrupted (refer to Failsafe Function for details).
+Charging batteries immediately after the low voltage warning (3.9V-4.5V) is strongly recommended.
+
+ Antenna Orientation
+Keep the antennas pointing skyward, perpendicular to the ground for maximum communication range
+during flight.
+
+30
+KENDRICK SMITH / RAVEN AERIAL IMAGERY                                                          3/30/15
+Petition for Exemption Request Under Section 333 of the FAA Reform Act and Part 11 of the FAR
+
+                                                                                                        Formatted: Font color: Blue
+
+                                                                                                        Formatted: Font color: Blue
+
+Remote Controller Operation
+
+                             31
+KENDRICK SMITH / RAVEN AERIAL IMAGERY                                                          3/30/15
+Petition for Exemption Request Under Section 333 of the FAA Reform Act and Part 11 of the FAR
+The Remote Controller default is set to Mode 2 by default.
+
+Move the Stick: The control stick is pushed away from the central position.
+
+32
+KENDRICK SMITH / RAVEN AERIAL IMAGERY                                                          3/30/15
+Petition for Exemption Request Under Section 333 of the FAA Reform Act and Part 11 of the FAR
+
+                                                                                                        Formatted: Font color: Blue
+
+33
+KENDRICK SMITH / RAVEN AERIAL IMAGERY                                                          3/30/15
+Petition for Exemption Request Under Section 333 of the FAA Reform Act and Part 11 of the FAR
+
+                                                                                                      Formatted: Font color: Blue
+
+34
+KENDRICK SMITH / RAVEN AERIAL IMAGERY                                                                   3/30/15
+Petition for Exemption Request Under Section 333 of the FAA Reform Act and Part 11 of the FAR
+
+                                                                                                                 Formatted: Font color: Blue
+
+1. Warning:
+In `Ready to Fly' mode, the Phantom will hover when all sticks are released.
+In `Ready to Fly (non-GPS)' the Phantom will lock its altitude but will not have
+horizontal positioning.
+Linking the Remote Controller and Receiver
+A 5.8G receiver is built in to the Phantom 2 Vision+. Its link button and indicator are located on the
+underside of the phantom, as shown in Figure 27.
+The Remote Controller and the receiver are paired before delivery. Only use this button if you have
+replaced your Remote Controller or receiver.
+
+                                                                      35
+KENDRICK SMITH / RAVEN AERIAL IMAGERY                                                          3/30/15
+Petition for Exemption Request Under Section 333 of the FAA Reform Act and Part 11 of the FAR                         Formatted: Font color: Blue
+
+Linking Procedures:
+
+    Power off the Remote Controller, power on the aircraft.
+    You will see the link indicator blinking red.
+    Press the link button with a thin object and hold until the link indicator blinks yellow.
+    Release the link button.
+    Power on the Remote Controller. Link indicator will switch off,
+    showing that a link has been successfully established.
+
+                                                                      36
+KENDRICK SMITH / RAVEN AERIAL IMAGERY                                                          3/30/15
+Petition for Exemption Request Under Section 333 of the FAA Reform Act and Part 11 of the FAR
+
+Link Indicator
+
+                                                                                                        Formatted: Font color: Blue
+
+                                                                                                        Formatted: Font color: Blue
+
+ Compliance Version Configuration
+
+As power levels vary between regulators, the Phantom Remote Controller's
+power output can be adjusted by twisting the potentiometer knob (Figure 28) on
+the back of the Remote Controller using a flathead screwdriver.
+
+For CE compliance, set the Remote Controller to CE with a full counterclockwise turn.
+
+For FCC compliance, set the Remote Controller to FCC with a full clockwise turn.
+Be sure to follow relevant local regulations.
+
+Compliance can be configured using the PHANTOM RC Assistant Software.
+Select CE compliance version in Assistant Software to set it, or do the same with
+FCC compliance version.
+
+                37
+KENDRICK SMITH / RAVEN AERIAL IMAGERY                                                          3/30/15
+Petition for Exemption Request Under Section 333 of the FAA Reform Act and Part 11 of the FAR
+
+                                                                                                        Formatted: Font color: Blue
+
+Important:
+
+    Turn the potentiometer knob gently to avoid damage.
+
+    CE compliant devices have an effective communication range of
+    400 meters in open spaces due to power limitations.
+
+    FCC compliant devices have an effective range of 800 meters in open spaces.
+
+    Watch your flight distance as the Phantom 2 Vision+ will enter Failsafe
+    Mo
+    de (auto-landing or go home and land) if it flies beyond the relevant range limits.
+
+    Always follow local laws and regulations.
+
+    Hints and Tips:
+
+    1. It is recommended to use a 2.4mm flathead screwdriver for adjustments.
+    2. There is another potentiometer for reserved use.
+
+Preparing the Range Extender
+
+The Phantom 2 Vision+ Range Extender is a wireless communication device that
+operates within the 2.4 GHz frequency band. It is used to extending the effective
+range of communication between a Smartphone and the Phantom 2 Vision+.
+In an open, unobstructed area, the transmission distance can reach up to 700 meters.
+This can be reduced by trees, buildings and other sources of the same frequency.
+
+                                                                      38
+KENDRICK SMITH / RAVEN AERIAL IMAGERY                                                          3/30/15
+                                                                                                                      Formatted: Font color: Blue
+Petition for Exemption Request Under Section 333 of the FAA Reform Act and Part 11 of the FAR
+
+Before every flight, it is suggested that you ensure the Range Extender is functioning
+properly; otherwise communication issues between the mobile device and the
+Phantom 2 Vision+ may occur.
+
+Each Range Extender has a unique MAC address and network name (SSID), details
+of which are printed on the label as `Phantom_XXXXXX'. The `XXXXXX' represents
+the last 6 letters or numbers of the MAC address for the Range Extender.
+This can be renamed in the DJI VISION App.
+
+ Introduction
+
+SYSTEM Indicator                                                                               Formatted: Font color: Blue
+Shows Wi-Fi status of the Range Extender.                                                      Formatted: Font color: Blue
+
+                                                                      39
+KENDRICK SMITH / RAVEN AERIAL IMAGERY                                                          3/30/15
+Petition for Exemption Request Under Section 333 of the FAA Reform Act and Part 11 of the FAR
+
+                                                                                                        Formatted: Font color: Blue
+
+POWER Indicator
+Shows power levels of the Range Extender.
+
+                                                                                                        Formatted: Font color: Blue
+
+                                                                                                        Formatted: Font color: Blue
+
+Warning:
+
+If the power indicator is a solid red light, the Ranger Extender may stop
+working at any moment. Land and recharge as soon as possible.
+
+Binding Reset Button
+
+When the Binding Reset Button is pressed, it will reset and restart the Range Extender.
+You will need to bind it with the Phantom 2 Vision+ again to recreate its Wi-Fi network.
+Failure to do so will cause the DJI VISION App to fail to connect with the camera.
+
+Charging the Range Extender
+
+Charge the Range Extender by connecting the charging port to a power supply device
+such as a PC or a USB charger using a Micro-USB cable. Make sure to charge the
+Range Extender completely before using it for the first time. This takes 3~4 hours
+depending on USB power output.
+
+Hints and Tips:
+
+Make sure the Range Extender has enough power before each use.
+
+Powering on the Range Extender
+
+                                                                      40
+KENDRICK SMITH / RAVEN AERIAL IMAGERY                                                           3/30/15
+Petition for Exemption Request Under Section 333 of the FAA Reform Act and Part 11 of the FAR                          Formatted: Font color: Blue
+
+    Flick the power switch to the ON position.
+    Wait for approximately 30 seconds. The Wi-Fi signal indicator will blink green
+    indicating the Range Extender is communicating properly.
+    Keep the Range Extender facing the aircraft during flight for the best communication link.
+
+Warning: Power off the Range Extender after every flight to avoid discharging the battery.
+
+Checking the Battery Level
+
+The battery level of the Range Extender can be checked in the camera page of the
+
+DJI VISION App as shown below. When the battery level drops to 20% or lower,
+
+the battery level icon will go red as a charging reminder.
+
+                                                                                                Formatted: Font color: Blue
+
+ Renaming the Range Extender SSID
+Make your Range Extender SSID easier to remember by changing its name.
+
+41
+KENDRICK SMITH / RAVEN AERIAL IMAGERY                                                          3/30/15
+Petition for Exemption Request Under Section 333 of the FAA Reform Act and Part 11 of the FAR
+
+                                                                                                        Formatted: Font color: Blue
+
+                                                                                                                                                                                            Formatted: Font color: Blue
+
+    1. Tap "Rename SSID of Range Extender" in the Settings page. Enter a new name SSID name (e.g.
+         Phantom_Tom) in the textbox.
+
+    2. Tap Blue Check you will be asked to enter the last six characters of your MAC address on the
+         Range Extender to confirm the change. The MAC address can be found on the sticker on your
+         Range Extender. If your MAC address is 60:60:1F:60:41:E7, then enter 6041E7.
+
+    3. Tap "OK" to confirm the change. The Range Extender will automatically restart and the App will
+         return to the settings page. Approximately 30 seconds later, the new network name can be found in
+         the Wi-Fi list of your mobile device. Select and connect the renamed network to use the DJI VISION
+         App.
+
+ Binding the Phantom 2 Vision+ and Range Extender
+If the connection between the Phantom 2 Vision+ and the Range Extender fails,
+or one of them needs to be repaired or replaced, a camera and
+Range Extender binding will need to be performed through the DJI VISION App.
+
+                                                                      42
+KENDRICK SMITH / RAVEN AERIAL IMAGERY                                                          3/30/15
+Petition for Exemption Request Under Section 333 of the FAA Reform Act and Part 11 of the FAR
+
+                                                                                                        Formatted: Font color: Blue
+
+Procedures
+
+ Power on the camera and Range Extender.
+ Approximately 30 seconds later, press the Binding Reset Button
+ on the Range Extender with a thin object until the SYSTEM Indicator turns off.
+ The Range Extender will then restart automatically.
+ Approximately 30 seconds later, the SYSTEM Indicator will start to blink green,
+ indicating that the Range Extender is ready for binding.
+ Enable Wi-Fi on your mobile device then select "Phantom_XXXXXX"
+ the (SSID of your Range Extender) from the Wi-Fi network list.
+ Figure 37) Run the DJI VISION App then tap -> Settings -> General -> Binding.
+ (Figure 38) Select 'Scan QR Code' to scan the camera QR code on the product
+ packaging. (Figure 39) Get the camera SSID (E.g. FC200_xxxxxx) and the MAC
+ address. You can also skip the scan and enter the camera MAC address directly
+ (Figure 38, Figure 40). The MAC address can be found on the camera label.
+ Tap the blue check the top right corner. The Range Extender should automatically
+ restart. Binding is now complete.
+
+                                                                      43
+KENDRICK SMITH / RAVEN AERIAL IMAGERY                                                          3/30/15
+Petition for Exemption Request Under Section 333 of the FAA Reform Act and Part 11 of the FAR
+
+                                                                                                        Formatted: Font color: Blue
+
+                                                                                                        Formatted: Font color: Blue
+
+44
+KENDRICK SMITH / RAVEN AERIAL IMAGERY                                                          3/30/15
+Petition for Exemption Request Under Section 333 of the FAA Reform Act and Part 11 of the FAR
+
+Warning:
+
+DO NOT push the Binding Reset Button of the Range Extender unless you are ready to rebind the Range
+Extender and the camera. This will unbind your camera so you must follow the steps above for rebinding.
+
+Important:
+
+If both the Phantom 2 Vision+ and the Range Extender are powered on and working normally, you will be
+able to find the SSID on the Wi-Fi list of your mobile device.
+
+            45
+KENDRICK SMITH / RAVEN AERIAL IMAGERY                                                          3/30/15
+Petition for Exemption Request Under Section 333 of the FAA Reform Act and Part 11 of the FAR
+
+APPENDIX C
+
+              SUMMARY OF RAVEN AERIAL IMAGERY SECTION 333 EXEMPTION REQUEST
+
+ Raven Aerial Imagery hereby provides pursuant to Part 11 a summary of its exemption application to
+ allow commercial operation of the DJI Phantom 2 Vision+ small unmanned system in market
+ research, precision aerial survey work, mapping, thermal imaging, photography, video and inspections.
+ An exemption is requested from the following regulations:
+
+ 14 C.F.R. Part 21
+ 14 C.F.R. 45.23(b) 
+ 14 C.F.R. 61.113(a) & (b) 
+ 14 C.F.R. 61.133(a) 
+ 14 C.F.R. 91.7(a) 
+ 14 C.F.R. 91.9(b) (2) & (c) 
+ 14 C.F.R. 91.103
+ 14 C.F.R. 91.109(a) 
+ 14 C.F.R. 91.119
+ 14 C.F.R. 91.151(a) 
+ 14 C.F.R. 91.203(a) & (b) 
+ 14 C.F.R. 91.405(a) 
+ 14 C.F.R. 91.407(a) (1) 
+ 14 C.F.R. 91.409(a) (2) 
+ 14 C.F.R. 91.417(a).
+

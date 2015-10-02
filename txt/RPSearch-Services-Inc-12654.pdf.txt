@@ -1,0 +1,946 @@
+August 28, 2015
+
+                                                           Exemption No. 12654
+                                                           Regulatory Docket No. FAA­2015­1590
+
+Mr. Brendan M. Schulman, Esq.
+Kramer Levin Naftalis & Frankel LLP
+Counsel for RPSearch Services, Inc.
+1177 Avenue of the Americas
+New York, NY 10036
+
+Dear Mr. Schulman:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter dated April 30, 2015, you petitioned the Federal Aviation Administration (FAA) on
+behalf of RPSearch Services, Inc. (hereinafter petitioner or operator) for an exemption. The
+petitioner requested to operate an unmanned aircraft system (UAS) to conduct search and
+rescue.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner is a RP Flight Systems Spectra AP and DJI Inspire 1.
+
+The petitioner requested relief from 14 CFR part 21, Certification procedures for products
+and parts, Subpart H--Airworthiness Certificates. In accordance with the statutory criteria
+provided in Section 333 of Public Law 112-95 in reference to 49 U.S.C. § 44704, and in
+                                                                                                                 2
+
+consideration of the size, weight, speed, and limited operating area associated with the
+aircraft and its operation, the Secretary of Transportation has determined that this aircraft
+meets the conditions of Section 333. Therefore, the FAA finds that the requested relief from
+14 CFR part 21, Certification procedures for products and parts, Subpart H--Airworthiness
+Certificates, and any associated noise certification and testing requirements of part 36, is
+not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection1. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+ They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+ The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+ A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, RPSearch Services, Inc. is granted an exemption from
+14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a), 91.7(a), 91.119(c),
+91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a) and (b), to
+the extent necessary to allow the petitioner to operate a UAS to perform aerial data collection.
+This exemption is subject to the conditions and limitations listed below.
+
+1 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                               3
+
+Conditions and Limitations
+
+In this grant of exemption, RPSearch Services, Inc. is hereafter referred to as the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+1. Operations authorized by this grant of exemption are limited to the RP Flight Systems
+    Spectra AP and DJI Inspire 1 when weighing less than 55 pounds including payload.
+    Proposed operations of any other aircraft will require a new petition or a petition to
+    amend this exemption.
+
+2. Operations for the purpose of closed-set motion picture and television filming are
+    not permitted.
+
+3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+    exemption holder may use either groundspeed or calibrated airspeed to determine
+    compliance with the 87 knot speed restriction. In no case will the UA be operated at
+    airspeeds greater than the maximum UA operating airspeed recommended by the
+    aircraft manufacturer.
+
+4. The UA must be operated at an altitude of no more than 400 feet above ground level
+    (AGL). Altitude must be reported in feet AGL.
+
+5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+
+    This requires the PIC to be able to use human vision unaided by any device other than
+    corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+    U.S. driver's license.
+
+6. All operations must utilize a visual observer (VO). The UA must be operated within
+    the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+    to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+    capability. The VO and PIC must be able to communicate verbally at all times;
+    electronic messaging or texting is not permitted during flight operations. The PIC
+    must be designated before the flight and cannot transfer his or her designation for the
+    duration of the flight. The PIC must ensure that the VO can perform the duties
+    required of the VO.
+
+7. This exemption and all documents needed to operate the UAS and conduct its
+    operations in accordance with the conditions and limitations stated in this grant of
+    exemption, are hereinafter referred to as the operating documents. The operating
+    documents must be accessible during UAS operations and made available to the
+    Administrator upon request. If a discrepancy exists between the conditions and
+    limitations in this exemption and the procedures outlined in the operating documents,
+                                                                                                            4
+
+    the conditions and limitations herein take precedence and must be followed.
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+                                                                                                            5
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+    exemption holder may apply for a new or amended COA if it intends to conduct
+    operations that cannot be conducted under the terms of the attached COA.
+                                                                                                            6
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+    be as large as practicable.
+
+23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+    any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+    PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+    These documents must be made available to the Administrator or any law enforcement
+    official upon request.
+
+24. The UA must remain clear and give way to all manned aviation operations and
+    activities at all times.
+
+25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless:
+      a. Barriers or structures are present that sufficiently protect nonparticipating persons
+          from the UA and/or debris in the event of an accident. The operator must ensure
+          that nonparticipating persons remain under such protection. If a situation arises
+          where nonparticipating persons leave such protection and are within 500 feet of
+          the UA, flight operations must cease immediately in a manner ensuring the safety
+          of nonparticipating persons; and
+      b. The owner/controller of any vessels, vehicles or structures has granted permission
+          for operating closer to those objects and the PIC has made a safety assessment of
+          the risk of operating closer to those objects and determined that it does not
+          present an undue hazard.
+
+    The PIC, VO, operator trainees or essential persons are not considered
+    nonparticipating persons under this exemption.
+
+27. All operations shall be conducted over private or controlled-access property with
+    permission from the property owner/controller or authorized representative.
+    Permission from property owner/controller or authorized representative will be
+    obtained for each flight to be conducted.
+
+28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+    boundaries of the operational area as defined by the applicable COA must be reported
+    to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+    reported to the National Transportation Safety Board (NTSB) per instructions
+    contained on the NTSB Web site: www.ntsb.gov.
+                                                                                                                 7
+
+ If this exemption permits operations for the purpose of closed-set motion picture and
+ television filming and production, the following additional conditions and limitations apply.
+
+    29. The operator must have a motion picture and television operations manual (MPTOM)
+         as documented in this grant of exemption.
+
+    30. At least 3 days before aerial filming, the operator of the UAS affected by this
+         exemption must submit a written Plan of Activities to the local Flight Standards
+         District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+         notification may be waived with the concurrence of the FSDO. The plan of activities
+         must include at least the following:
+           a. Dates and times for all flights;
+           b. Name and phone number of the operator for the UAS aerial filming conducted
+              under this grant of exemption;
+           c. Name and phone number of the person responsible for the on-scene operation of
+              the UAS;
+           d. Make, model, and serial or N-Number of UAS to be used;
+           e. Name and certificate number of UAS PICs involved in the aerial filming;
+           f. A statement that the operator has obtained permission from property owners
+              and/or local officials to conduct the filming production event; the list of those
+              who gave permission must be made available to the inspector upon request;
+           g. Signature of exemption holder or representative; and
+           h. A description of the flight activity, including maps or diagrams of any area, city,
+              town, county, and/or state over which filming will be conducted and the altitudes
+              essential to accomplish the operation.
+
+    31. Flight operations may be conducted closer than 500 feet from participating persons
+         consenting to be involved and necessary for the filming production, as specified in the
+         exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                      8
+
+This exemption terminates on August 31, 2017, unless sooner superseded or rescinded.
+Sincerely,
+
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+UNITED STATES DEPARTMENT OF TRANSPORTATION
+          FEDERAL AVIATION ADMINISTRATION
+
+__________________________________________
+
+                                          )
+
+Petition for Exemption                      )
+
+Pursuant to Pub. Law 112-95 § 333         )
+
+and 14 CFR Part 11                          )
+
+concerning Unmanned Aircraft Systems        )
+
+Used for Search and Rescue Purposes         )
+
+and Certificate of Authorization Request    )
+
+                                          )
+
+__________________________________________)
+
+                           PETITION OF RPSEARCH SERVICES, INC.
+                                FOR REGULATORY EXEMPTION
+
+                    AND CERTIFICATE OF AUTHORIZATION REQUEST
+
+Dated: April 30, 2015
+Filed Electronically
+
+Please address all communications with respect to this Petition to:
+
+Brendan M. Schulman
+Kramer Levin Naftalis & Frankel LLP
+1177 Avenue of the Americas
+New York, NY 10036
+Phone: (212) 715-9247
+Fax: (212) 715-8220
+Counsel for Petitioner
+RPSearch Services, Inc.
+Email: BSchulman@KramerLevin.com
+
+KL3 3010423.3
+I. Introduction: Search and Rescue
+
+         According to the FBI's National Crime Information Center, an average of 1,700 people are
+reported missing each day in the United States.1 Many of them are at grave risk in dangerous
+situations: lost children, stranded hikers, marooned boaters, mentally ill, psychologically troubled
+or intoxicated individuals, or victims of abduction or other crimes. The sheer number of missing
+people, combined with the challenges of searching in the vast open areas of our country's
+geography, overwhelm community groups, families, emergency responders and taxpayer-funded
+resources. Missing persons have been, and will continue to be, effectively, efficiently, and safely
+located by aerial imagery of locations of interest, which provides invaluable information to
+searchers on the ground.
+
+         Petitioner RPSearch Services, Inc. ("RPSS") respectfully submits this Petition for
+Exemption from regulations the FAA considers applicable to the civil operation of unmanned
+aircraft systems, and that the FAA considered necessary for an operator to be exempted from, for
+operations concerning search and rescue.2 The benefits of these operations to the public and to the
+nation are unquestionable, and safety is assured when they are conducted under the proposed
+procedures herein by an experienced and knowledgeable operator.
+
+1 See NCIC Missing Person and Unidentified Person Statistics for 2013, http://www.fbi.gov/about-
+    us/cjis/ncic/ncic-missing-person-and-unidentified-person-statistics-for-2013 (last visited May 20,
+    2014).
+
+2 Petitioner takes no position with respect to which federal aviation regulations, if any, legally apply to the
+    proposed operations.
+
+                                                           2
+II. The Identity and Interests of the Petitioner
+         Petitioner RPSearch Services, Inc. has been a pioneer in the implementation of protocols
+
+and operating procedures for the use of unmanned aircraft systems for search and rescue purposes.
+Its current designated pilot in command, Eugene Robinson, was the first person to successfully
+obtain a certificate of waiver or authorization (COA) on behalf of a public operator, (the
+Wimberly, Texas Fire Deparment), in 2008. Mr. Robinson has lectured across the country
+concerning the safe and responsible use of UAS during search and rescue operations, including
+appropriate coordination with incident commanders and local authorities. Mr. Robinson has also
+served as the designated pilot-in-command for the National Institute for Standards and Technology
+in its program to use UAS to study wildfires, flying over 70 successful missions without incident
+under that agency's public aircraft COA.
+
+         In September, 2014, the FAA also granted Mr. Robinson an emergency COA via NIST to
+use its UAS in the search for a missing person in Plano, TX. More recently, Mr. Robinson was
+granted an emergency COA through the Wimberly Fire Department to conduct a missing-person
+search operation using a UAS in Baytown, Texas for two missing teenagers. Mr. Robinson has
+trained law enforcement and first responders in UAS search and rescue procedures, and has
+successfully used UAS to locate and rescue missing persons, alive, in a foreign country. In short,
+petitioner is a responsible, successful, safety-conscious UAS operator who will conduct the
+proposed operations within the parameters set out in the operating procedures and the grant of
+exemption that is requested.
+
+         The name and address of the Petitioner is:
+
+                                                           3
+         RPSearch Services, Inc.
+         290 Brunson Lane
+         Wimberly, TX 78676
+         Email: texhills@verizon.net
+         Petitoner requests that communications also be directed to its counsel:
+         Brendan M. Schulman, Esq.
+         Kramer Levin Naftalis & Frankel LLP
+         1177 Avenue of the Americas
+         New York, NY 10036
+         Phone (212) 715-9247
+         Fax (212) 715-8220
+         Email: BSchulman@KramerLevin.com
+III. RPSearch's Request Would be in the Public Interest and Benefit the Public as a
+         Whole
+
+                  The benefit to the public interest of RPSearch's request is unquestionable.
+
+Thousands of people go missing each day, and the subsequent search that is conducted for those
+
+whose disappearance raise concerns overwhelms taxpayer and community resources. The use of
+
+manned aircraft is in many instances more expensive, and more dangerous, than the operations
+
+proposed herein. Thus, the operations are of enormous public benefit and, as set out herein,
+
+present at least an equivalent level of safety under 14 CFR part 11.
+
+IV. The Unmanned Aircraft Systems
+                  Petitioner intends to operate two models in connection with the operations proposed
+
+herein, at or below 400 feet above ground level. The following is a summary of the technical
+
+specifications and other considerations of each UAS. Additional documentation from each
+
+manufacturer is being submitted as together with this Petition.
+
+Configuration 1
+
+Spectra
+
+                                                           4
+Aircraft Type: Spectra AP flying wing
+Manufacturer: RPFlightSystems, Inc.
+Construction: EPS foam/ABS/composite
+Aircraft Empty Weight: 3.3 lbs.
+Aircraft RTF AUW: 4.5 ­ 5.5 lbs.
+Propulsion: Electric single propellorr
+Power : 5.4AH lithium polymer flight batteries
+Onboard electronics: Manual control system RX, flight control system
+Optics : (1) still imager, up to (2) video
+Launch Type : Hand launch
+Landing Type : Skid, net retrieval
+Launch Speed : 15 mph
+Cruise Speed : 25-34 mph (@ 75% power)
+Cruise Speed : 25 mph (@ 50% power)
+Landing Speed : 12 mph
+Stall : 12 ­ 18mph (depending upon wing loading)
+VNE : 75 mph
+Duration : 1 hour (5.4Ah battery, 50% power)
+
+Construction: The Spectra is constructed of foam (expanded polystyrene) wings
+with internal bracing. Center section may include carbon fiber skeleton and outer
+skin of vacuformed ABS.
+
+Propulsion: Aircraft utilize brushless, three phase, AC motors. They utilize a
+switching electronic speed control to provide throttle management.
+
+Hazard mitigation
+
+The Spectra is designed to collect imagery utilizing a lightweight and relatively
+slow airframe. This reduces the potential for injury by reducing the mass that can
+be delivered in a small area. These UAS are considered "frangible" in that they will
+come apart on impact without concentrating force in any vector. They do not use
+internal combustion motors and do not carry any flammable liquids for operation.
+The aircraft utilizes a redundant communications fail safe so that that if either the
+command over-ride link or the telemetry fails, the UAS will abort the mission and
+return to the launch area.
+
+                                         5
+                  Demonstrated Capabilities and Prior FAA Approvals
+
+                  The Spectra was one of the first UAS to receive authorization via a Certificate of
+                  Authorization (COA) granted by the FAA for use by a public entity (Hays County,
+                  Texas Emergency Management Office), in 2008. See FAA COA 2007-AHQ-25-
+                  COA. The COA was renewed a total of two more times during its tenure with the
+                  EMO. See 2009-CSA-2-COA and 2010-CSA-28-COA.
+
+                  Additionally, on behalf of the Emergency Service District #4 of Hays County,
+                  Petitioner's PIC assisted the Wimberly Fire department in applying for and
+                  receiving a COA for Spectra operations in December of 2014. See 2014-CSA-143-
+                  COA.
+
+                  Radio Frequency Spectrum
+
+                  The Spectra utilizes an FCC-approved command-and-control systems and telemetry
+                  downlink operating on the 900 MHz and 2.4 GHz bands.
+
+Configuration 2
+
+DJI Inspire 1
+
+                  Aircraft Type: Multi-rotor, Inspire 1
+                  Manufacturer: DJI
+                  Construction: Carbon fiber, plastic, aluminum
+                  Aircraft Empty Weight: 3.3 lbs.
+                  Aircraft RTF AUW: 4.5 ­ 5.5 lbs.
+                  Propulsion: Electric ­ four two blade propellers
+                  Power : 5.4AH lithium polymer flight batteries
+                  Onboard electronics: Manual control system RX, flight control system
+                  Optics : (1) still imager, up to (1) video video, 2.4/5.8Ghz Lightbridge.
+                  Launch Type : VTOL
+                  Landing Type : VTOL
+                  Launch Speed : 15 mph vertical
+
+                                                           6
+                  Speed Evelope : 15-35 mph
+                  Cruise Speed : 0-25 mph
+                  Landing Speed : 0 mph
+                  Stall : N/A
+                  VNE : N/A
+                  Duration : 15 minutes (typical)
+
+                  Propulsion
+
+                  The Inapire 1 utilizes (4) four brushless, three phase, AC motors. These utilize a
+                  switching electronic speed control to provide throttle management.
+
+                  Hazard mitigation
+
+                  The Inspire 1 is designed to collect its imagery utilizing VTOL capabilities where a
+                  fixed wing airplane would have difficulties in either take off or landing. The
+                  Inspire 1 is equipped with a return to launch area (RTH) feature. The Inspire 1 does
+                  not use internal combustion motors for propulsion and does not carry any
+                  flammable liquids for operation. Risk is further mitigated by the Inspire 1's ability
+                  to stay aloft while moving slowly, or to hover in place, unlike a fixed-wing UA
+                  which must continue lateral motion during flight.
+
+                  Prior FAA Approvals
+
+                  The DJI Inspire 1 has been approved for use by the FAA in connection with an
+                  exemption for aerial photography for the motion picture and television industry.
+                  See Exemption Grant No. 11279 (April 1, 2015).
+
+                  Radio Frequency Spectrum
+
+                  The Inspire 1 utilizes FCC-approved command-and-control and video systems
+                  operating on the 5.8 GHz and 2.4 GHz bands.
+
+V. Flight Safety Operations and Procedures
+
+                  Petitioner proposes to operate each UAS for the purposes indicated herein pursuant
+
+to its Flight Safety Operations and Procedures ("FSOP"). The FSOP was developed over the
+
+course of nearly a decade, and is being submitted together with this Petition. The FSOP consists of
+
+procedures and standards relating to Personnel Qualifications, Flight Operations and Mission
+
+Profiles, Launch and Landing Zones, Preflight, Takeoff and Post-flight Checklists, In-flight
+
+Communications, and NIMS (National Incident Management System) / IC Interface, all developed
+
+                                                           7
+with an emphasis on the safety of UAS operations. The operation will be conducted by the pilot in
+
+command ("PIC") who will maintain visual contact with the UAS during its flight within visual
+
+line of sight, while the UAS captures images of the ground for analysis. The UAS will be operated
+
+at or below a speed of 35 miles per hour, in Class G airspace at least 5 miles from airports (unless
+
+otherwise specifically authorized by FAA). Other operational parameters and various measures
+
+taken to ensure public safety are set out in the FSOP.
+
+VI. Summary of Exemptions Sought
+
+                  RPSearch seeks exemption from the following regulations, to the extent the FAA
+
+deems them applicable to the operation of civil UAS for the indicated purposes:
+
+         14 CFR Part 21
+         14 CFR Part 36
+         14 CFR 45.23(b)
+         14 CFR 61.3
+         14 CFR 61.23(a) and (c)
+         14 CFR 61.101
+         14 CFR 61.113 (a) & (b)
+         14 CFR 61.315
+         14 CFR. 91.7 (a)
+         14 CFR 91.9 (b) (2)
+         14 CFR 91.103
+         14 CFR 91.105
+         14 CFR 91.109
+         14 CFR 91.119
+         14 CFR 91.121
+         14 CFR 91.151 (a)
+         14 CFR 91.203 (a) & (b)
+         14 CFR 91.405 (a)
+         14 CFR 91.407 (a) (1)
+         14 CFR 91.409 (a) (2); and
+         14 CPR 91.417 (a) & (b)
+
+                                                           8
+VII. The Specific Exemptions Sought and Reasons
+         A. 14 CFR Part 21 and
+                  14 CFR Part 36
+                  Petitioner seeks relief from 14 CFR part 21 concerning airworthiness certificates, as
+
+well as any associated noise testing requirements of part 36, with respect to the UAS identified in
+Section IV. As set out herein, the size, weight, speed, operational capability, visual line-of-sight
+operation, and intended operating area of these UAS meet the conditions of FMRA Section 333.
+Moreover, the proposed operations, conducted pursuant to the RPSS FSOP, present an equivalent
+level of safety or better. An exemption ought to be granted or, in the alternative, a finding made
+that relief from parts 21 and 36 are not necessary for Petitioner's intended operation. (See, e.g.,
+Grant of Exemption No. 11282, Docket. No. FAA-2014-0977 (April 6, 2015), finding that such an
+exemption is "not necessary.")
+
+         B. 14 CFR 45.23(b)
+                  Petitioner seeks relief from 14 CFR 45.23(b) concerning aircraft markings, to the
+
+extent such relief is necessary. Given the size of the UAS, its operation within visual line of sight
+of the operator, and other factors, such an exemption is warranted. Petitioner will, if required,
+mark each UAS with the word "RESTRICTED" in lettering as large as practicable. However,
+Petitioner notes that because its UAS's will not be certificated under § 21.185, such marking is not
+actually required, and therefore Petitioner alternatively requests a finding confirming same.
+
+                                                           9
+         C. 14 CFR 61.23(a) & (c),
+                  14 CFR 61.101,
+                  14 CFR 61.113 (a) & (b), and
+                  14 CFR 61.315
+                  Petitioner seeks relief from 14 CFR 61.101 concerning limitations on recreational
+
+pilot privileges, 14 CFR 61.113(a) and (b) concerning limitations on private pilot privileges, and
+14 CFR 61.315 concerning limitations on sport pilot privileges, together with an exemption from
+14 CFR 61.23(a) concerning medical certificates. The RPSS FSOP establishes a level of safety
+exceeded by that provided by a commercial pilot's certificate in the operation of a passenger
+aircraft. The UAS intended to be operated do not carry any person and therefore present an
+equivalent or better level of safety compared to manned aircraft operations. Although RPSS's
+current FSOP does not strictly require a pilot certificate, Petitioner's current designated pilot in
+command, Mr. Robinson, holds a private pilot's certificate, and Petitioner will accept as a
+condition of an exemption that the operator hold either a recreational, sport pilot or private pilot
+certificate. With respect to medical certification, 14 CFR 61.23(a), Petitioner proposes that the
+PIC hold either a current FAA airman medical certificate or a valid U.S. driver's license issued by
+a state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal government.
+
+         D. 14 CFR 91.7(a)
+                  Petitioner seeks relief from 14 CFR 91.7(a) concerning civil aircraft airworthiness.
+
+Given the size of the UAS, its operation within visual line of sight of the operator, and other
+factors providing an equivalent level of safety, such an exemption is warranted. Moreover,
+because petitioner proposes that no airworthiness certificate be issued for the UASs to be operated
+under this exemption, § 91.7(a) is inapplicable. Therefore, in the alternative, Petitioner requests a
+determination that an exemption from § 91.7(a) is not necessary.
+
+                                                          10
+         E. 14 CFR 91.9(b)(2)
+                  Petitioner seeks relief from 14 CFR 91.91(b)(2) concerning flight manuals and
+
+placard requirements. Because all persons involved in the operation will be on the ground, not on
+board the UAS, such an exemption is clearly warranted. Moreover, the FAA determined in an
+August 8, 2014 legal interpretation that keeping such documentation at the control station, as
+Petitioner intends to, meets the requirements under these regulations and therefore an exemption is
+not necessary. See Memorandum from Mark. W. Bury to John Duncan, "Interpretation regarding
+whether certain required documents may be kept at an unmanned aircraft's control station" (August
+8, 2014).3
+
+         F. 14 CFR 91.103
+                  Petitioner seeks relief from 14 CFR 91.103 concerning preflight action, and
+
+particularly that portion of the regulation concerning FAA-approved flight manuals (which do not
+exist). Petitioners' pre-flight actions concerning UAS operations are set out in its FSOP, reflect
+that the pilot in command will "become familiar with all available information" concerning the
+proposed flight, and therefore present an equivalent or better level of safety. Given the size of the
+UAS, its operation within visual line of sight of the operator, and other factors, such an exemption
+is warranted. Alternatively, given that Petitioner will account for all relevant site-specific
+conditions in its preflight procedures, Petitioner asks for a finding that an exemption from § 91.103
+is not necessary for the intended operation.
+
+3 Available at
+    https://www.faa.gov/about/office_org/headquarters_offices/agc/pol_adjudication/agc200/interpretations
+    /data/interps/2014/Duncan-AFS-1-2%20-%20%282014%29%20Legal%20Interpretation.pdf
+
+                                                          11
+         G. 14 CFR 91.105
+                  Petitioner seeks relief from 14 CFR 91.105 concerning "Flight crewmembers at
+
+stations" and seat belt/harness fastening. Because there is no crew on board the UAS, and persons
+involved in the operations will be present at the UAS ground station pursuant to the FSOP,
+Petitioner believes that such an exemption is warranted due to Petitioner's FSOP providing an
+equivalent level of safety, or alternatively that an exemption is not necessary for the operation.
+Although it does not appear that the FAA has addressed § 91.105 in various Section 333 UAS
+exemptions granted to date, we note that § 91.105 is listed in the FAA's Public Guidance
+document as a regulation from which an exemption may be required (Rev. 9/25/2014 at page 7).4
+Petitioner therefore requests either an exemption or an acknowledgement that an exemption is not
+necessary.
+
+         H. 14 CFR 91.109
+                  Petitioner seeks relief from 14 CFR 91.109 concerning flight instruction and dual
+
+controls. Petitioner will evaluate the qualifications of its PICs based on their experience and
+capabilities with the UAS to be operated, as set out in the FSOP Section I ("Personnel
+Qualifications"). Moreover, as each PIC will have previously been qualified by the FAA as a
+certificated recreational, sport, or private pilot, the operations proposed herein may be conducted
+without an exemption from § 91.109 being required. Thus, Petitioner requests either an exemption
+or confirmation that none is required.
+
+4 Available at
+    https://www.faa.gov/uas/legislative_programs/section_333/how_to_file_a_petition/media/section333_p
+    ublic_guidance.pdf).
+
+                                                          12
+         I. 14 CFR 91.119
+                  Petitioner seeks relief from 14 CFR 91.119 concerning minimum safe altitudes.
+
+Each UAS will be operated no higher than 400 feet above ground level, and, under the FSOP, safe
+alternative landing and "abort site" locations will be selected in advance of each flight, in
+compliance with 14 CFR 91.119(a) which permits operations "[a]nywhere."
+
+                  With respect to the balance of § 91.119 concerning minimum altitudes, Petitioner
+proposes to conduct operations at least 50 feet from non-essential or non-participating persons,
+and prior to each operation the PIC will make a safety assessment of the risk of operating within
+the proximity of structures, vehicles and vessels. Petitioner believes that given the size, weight
+and speed of the UAS to be operated, these parameters in the FSOP present an equivalent level of
+safety compared to the 500 foot minimum safe altitude of a manned aircraft set out in § 91.119(c).
+
+                  Petitioner is aware that in prior UAS exemption grants, the FAA has included as an
+operating condition a 500-foot minimum distance separation from uninvolved persons. Petitioner
+hereby requests the FAA either to raise the maximum operational altitude under RPSS's proposed
+exemption to 500 feet above ground level (from the typical 400 feet), or, preferably, to reduce the
+required distance separation from uninvolved persons to no greater than 400 feet, so that
+Petitioner's UAS, when in operation, may pass above persons in the operational area. (In
+Petitioner's experience, the requested minimum separation parameter of 50 feet provides a very
+high level of safety.) In consideration of the benefits of, and strong public interest in, the proposed
+operations, which are potentially life-saving, this request ought to be granted, and would not
+adversely affect safety.
+
+                                                          13
+         J. 14 CFR 91.121
+                  Petitioner seeks relief from 14 CFR 91.121 concerning altimeter settings.
+
+Petitioner's UAS will utilize a GPS altitude read-out, set to zero at the ground elevation of the
+departure location, thus indicating to the operator the operational altitude in feet above ground
+level. This approach will provide an equivalent level of safety.
+
+         K. 14 CFR 91.151
+                  Petitioner seeks relief from 14 CFR 91.151 concerning fuel requirements. The
+
+Petitioner's Configuration 1 uses the Spectra UAS airplane equipped with 5.4 Ah lithium polymer
+flight batteries. Petitioner's flight duration under its FSOP is 30 minutes or less, which results in
+approximately 50% of the battery power remaining at landing. Petitioner's Configuration 2 uses
+the DJI Inspire 1 battery-powered multi-rotor-craft which has an automated readout of remaining
+battery power at the ground station and will automatically initiate a return to launch and landing
+when the battery is low. Petitioner will land the Inspire 1 when the battery is at or above 50%
+capacity. In both configurations, an equivalent level of safety is achieved, in particular because
+each UAS is operated within visual line of sight, can be landed within moments of a low-battery
+condition, and the UAS never has the need to travel any significant distance to an alternate airport
+or landing area.
+
+         L. 14 CFR 91.203(a) and (b)
+                  Petitioner seeks relief from 14 CFR 91.203(a) and (b) concerning airworthiness
+
+certificates. Each of the UAS to be operated weighs under 6 pounds, and will be operated within
+visual line of sight, pursuant to the RPSS FSOP, by a knowledgeable certificated operator. An
+
+                                                          14
+exemption from airworthiness certification is warranted pursuant to Section 333 of FMRA in
+consideration of the weight, size, speed, and operational capabilities of the Petitioner's UAS.
+
+         M. 14 CFR 91.405(a)
+                  14 CFR 91.407 (a) (1)
+                  14 CFR 91.409 (a) (2); and
+                  14 CPR 91.417 (a) & (b)
+                  Petitioner seeks relief from 14 CFR 91.405(a), 91.407(a)(1), 91.409(a)(2), and
+
+91.417 (a) and (b), concerning maintenance inspections. Petitioner proposes to maintain each
+UAS in accordance with the manufacturer's suggested maintenance procedures, and to conduct
+preflight inspections in accordance with the FSOP for each operation. This approach provides an
+equivalent level of safety with respect to the operational condition of the UAS. Moreover, the
+UAS are not contemplated to have an airworthiness certificate, and therefore no exemption is
+needed with respect to maintenance requirements arising from airworthiness certificates.
+
+         N. Other Exemptions
+                  Petitioner requests relief from any other federal aviation regulation that the FAA
+
+deems applicable to and preclusive of the proposed UAS search and rescue operations in the
+absence of such an exemption.
+
+VIII. Request for Blanket COA
+                  Petitioner hereby requests a blanket, nationwide Certificate of Waiver or
+
+Authorization for airspace use within Class G airspace, at or below 400 feet. The need for a
+blanket COA for Petitioner's proposed operation (or an exemption from the need to obtain one) is
+self-evident. Unlike other pre-planned small UAS operations (such as aerial cinematography,
+agriculture, or industrial inspection), search and rescue requires an operational response on little or
+
+                                                          15
+no notice, and minutes can literally make a difference between life and death. We understand that
+the typical holder of a Section 333 exemption waits approximately three weeks in order to receive
+a COA after the request is made, a timeframe that obviously is unworkable for search and rescue
+operations.
+
+                  FMRA Section 333 directly contemplates that a certificate of waiver or
+authorization is not necessarily required for the operation of civil UAS. It provides that in making
+a Section 333 determination concerning operation of unmanned aircraft systems, "the Secretary
+shall determine . . . . whether a certificate of waiver, certificate of authorization, or airworthiness
+certification under section 44704 of title 49, United States Code, is required for the operation of
+unmanned aircraft systems." FMRA Section 333(b) (emphasis added). By using the word
+"whether," Congress specifically contemplated that a COA would not necessarily be required for
+any civil operation. Therefore, the FAA has the authority to either exempt Petitioner from the
+need to obtain a COA, or to issue to Petitioner a standing blanket COA that is suited for the
+contemplated search and rescue operations.
+
+                  In the past year, Petitioner's PIC Eugene Robinson has twice had the experience of
+seeking an emergency COA from the FAA. Although the FAA's staff was prompt and courteous
+each time, the emergency COA took many hours to issue, resulting in the loss of more than an
+entire operational day. (UAS flights are conducted during daylight hours only, thus a delay of
+even an hour or two can cause the aerial search to be delayed 12 hours until dawn the next day).
+
+                  As an illustration of the difficulties inherent in trying to obtain specific COA
+approval for each search and rescue operation on an expedited basis, Petitioner sets out herein the
+details of a recent experience involving its PIC Eugene Robinson. In February 2015, Mr.
+
+                                                          16
+Robinson was contacted in connection with a requested search for two missing teenagers in the
+Baytown, Texas area and the proposition that the UAS operated under COA by the Wimberly Fire
+Department be used to assist. Mr. Robinson contacted Dallas Flight Standards District Office at
+2130 hrs Central Time on February 26 to request emergency COA approval via an amendment to
+the existing Wimberly Fire Department UAS COA. He was referred to FAA Operations Center in
+Washington, D.C. The representative at Operations Center, in turn, referred Mr. Robinson to the
+FAA UAS Intergration Office (UAIO). The representative at UAIO indicated that Air Traffic
+Organization and Flight Standards would need to be contacted for approval. At 2240 hrs Central
+Time, Mr. Robinson was told by the UAIO representative that nothing more could be done
+concerning approval until the next morning, thus precluding a planned roll-out for an operation at
+dawn.
+
+                  At 0715 hrs on February 27, Ft. Worth FSDO contact Mr. Robinson and advised
+that documentation would be required from the fire department whose COA would be amended for
+the emergency. That documentation was provided to FAA 15 minutes later, at 0730 hrs. Mr.
+Robinson did not receive word back from UAIO until 1445 hrs that the emergency COA would be
+approved. Mr. Robinson then began the process of initiating a NOTAM, which involved various
+discussions with Houston TRACON, which discussions continued into the following morning,
+concluding at 0835 hrs.
+
+                  The actual search operation using the UAS commenced at 1025 hrs Central Time on
+February 28. Thus, rather than a planned search start time at 0600 hrs on the morning of February
+27, the operation was delayed over 28 hours, until mid-morning on February 28, due to the
+protracted COA approval process, and even though it was acknowledged by the FAA that the
+
+                                                          17
+situation was an emergency. This does not appear to be an atypical timeframe for the process. In a
+prior emergency COA approval concerning a missing-persons search conducted in Plano Texas in
+September 2014, it similarly took approximately 22 hours for the emergency COA to be issued
+after the request was made by Mr. Robinson. Petitioner respectfully submits that a standing COA
+granted for search and rescue operations is overwhelmingly in the public interest because it will
+enable life-saving operations to commence sooner, and reduce the administrative burden on the
+FAA itself.
+
+                  The FAA has recently indicated that holders of UAS exemptions under Section 333
+are now granted a "blanket" COA for any operation up to 200 feet AGL. See March 20, 2015
+Memorandum from Elizabeth L. Ray to Terry Biggio, "Small Unmanned Aircraft Systems
+Operations in the National Airspace System." However, this streamlined (or so-called "blanket")
+COA apparently still requires the operator to issue a Notice to Airmen (NOTAM) "at least 24
+hours prior to the proposed operation." Id. In many instances Petitioner expects to be called upon
+with less than 24 hours' notice. Petitioner requests that its blanket COA issued in connection with
+the requested exemption require only that Petitioner issue a NOTAM "as far in advance of
+operations as practicable," with no specific minimum notice provision.
+
+                  Additionally, Petitioner's FSOP and equipment are optimized for search and rescue
+from an operational altitude of just below 400 feet AGL. The 200 feet AGL in the "blanket" COA
+is too low an altitude for these operations. Without a streamlined COA at an altitude higher than
+200 feet, Petitioner will be waiting days (or weeks) for a civil COA just to be able to operate at a
+modestly higher altitude, rendering the exemption potentially unworkable. Petitioner requests a
+streamlined COA for the highest altitude the FAA will permit, ideally 400 feet AGL.
+
+                                                          18
+                  An equivalent level of safety is established for these blanket COA parameters
+
+because, currently, operations of this kind are permitted by FAA by recreational model aircraft
+
+operators without any COA or NOTAM requirements. Moreover, Petitioner's operations are
+
+subject to NIMS protocols and coordination with Incident Command and other first responders,
+
+who will be aware of air traffic in the area. Therefore, unlike commercial UAS operations
+
+undertaken for industrial purposes, added layers of safety exist. All of these factors support the
+
+issuance of a streamlined or "blanket" COA for Petitioner RPSearch Services in Class G airspace
+
+up to 400 feet above ground level, or a determination pursuant to FMRA Section 333(b) that a
+
+COA is not required for Petitioner's search and rescue operations.
+
+IX. A Summary That Can Be Published In The Federal Register:
+
+                  The following is a summary that may be included in the Federal Register, should
+
+the FAA determine that publication of such a summary is required:
+
+         Petitioner RPSearch Services, Inc. seeks an exemption pursuant to Pub. L. 95-112 Section
+         333 and part 11 for the operation of unmanned aircraft systems for purposes of search and
+         rescue. The benefit to the public interest of such an exemption is unquestionable.
+         Thousands of people go missing each day, and the subsequent search overwhelms taxpayer
+         and community resources. The use of manned aircraft is in many instances more
+         expensive, and more dangerous, than the operations proposed herein. Thus, the operations
+         are of enormous public benefit.
+
+         Petitioner's operations will be conducted at or below 400 feet above ground level, within
+         the visual line of sight of the operator, who will be a certificated airman with a sport,
+         recreational or private pilot's certificate, and pursuant to a detailed Flight Safety
+         Operations and Procedures manual.
+
+         Petitioner seeks exemption from 14 CFR Part 21, 14 CFR Part 36, 14 CFR 45.23(b), 14
+         CFR 61.3, 14 CFR 61.23(a) & (c), 14 CFR 61.101, 14 CFR 61.113 (a) & (b), 14 CFR
+         61.315, 14 CFR. 91.7 (a), 14 CFR 91.9 (b) (2), 14 CFR 91.103, 14 CFR 91.105, 14 CFR
+         91.109, 14 CFR 91.119, 14 CFR 91.121, 14 CFR 91.151 (a), 14 CFR 91.203 (a) & (b), 14
+         CFR 91.405 (a), 14 CFR 91.407 (a) (1), 14 CFR 91.409 (a) (2).; and 14 CPR 91.417 (a) &
+         (b).
+
+                                                          19
+Dated: April 30, 2015
+Respectfully submitted,
+
+Brendan M. Schulman
+Kramer Levin Naftalis & Frankel LLP
+1177 Avenue of the Americas
+New York, NY 10036
+Tel. (212) 715-9247
+Fax (212) 715-8220
+BSchulman@KramerLevin.com
+Counsel for Petitioner
+Enclosures (filed electronically):
+1. Flight Safety Operations and Procedures
+2. Spectra technical specifications sheet
+3. DJI Inspire 1 User Manual, Safety Guidelines, Maintenance Manual, and Battery
+
+         Safety Information
+
+                                                          20
+

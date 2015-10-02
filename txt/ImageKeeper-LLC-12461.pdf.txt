@@ -1,0 +1,1042 @@
+August 14, 2015
+
+                                                           Exemption No. 12461
+                                                           Regulatory Docket No. FAA­2015­1826
+
+Mr. Jerry Speasl
+ImageKeeper LLC
+President and CEO
+P. O. Box 27740
+Las Vegas, NV 89126
+
+Dear Mr. Speasl:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter dated May 18, 2015, you petitioned the Federal Aviation Administration (FAA) on
+behalf of ImageKeeper LLC (hereinafter petitioner or operator) for an exemption. The
+petitioner requested to operate an unmanned aircraft system (UAS) to conduct aerial data
+collection.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner are the 3D Robotics IRIS+, DJI Phantom 2, and the DJI
+Inspire 1.
+
+In accordance with the statutory criteria provided in Section 333 of Public Law 112-95 in
+reference to 49 U.S.C. § 44704, and in consideration of the size, weight, speed, and limited
+                                                                                                                 2
+
+operating area associated with the aircraft and its operation, the Secretary of Transportation
+has determined that this aircraft meets the conditions of Section 333. Therefore, the FAA
+finds that relief from 14 CFR part 21, Certification procedures for products and parts,
+Subpart H--Airworthiness Certificates, and any associated noise certification and testing
+requirements of part 36, is not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection1. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+ They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+ The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+ A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, ImageKeeper LLC is granted an exemption from
+14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a), 91.7(a), 91.119(c),
+91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a) and (b), to
+the extent necessary to allow the petitioner to operate a UAS to perform aerial data collection.
+This exemption is subject to the conditions and limitations listed below.
+
+1 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                             3
+
+Conditions and Limitations
+
+In this grant of exemption, ImageKeeper LLC is hereafter referred to as the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+1. Operations authorized by this grant of exemption are limited to the 3D Robotics
+    IRIS+, DJI Phantom 2, and DJI Inspire 1 when weighing less than 55 pounds
+    including payload. Proposed operations of any other aircraft will require a new
+    petition or a petition to amend this exemption.
+
+2. Operations for the purpose of closed-set motion picture and television filming are
+    not permitted.
+
+3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+    exemption holder may use either groundspeed or calibrated airspeed to determine
+    compliance with the 87 knot speed restriction. In no case will the UA be operated at
+    airspeeds greater than the maximum UA operating airspeed recommended by the
+    aircraft manufacturer.
+
+4. The UA must be operated at an altitude of no more than 400 feet above ground level
+    (AGL). Altitude must be reported in feet AGL.
+
+5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+
+    This requires the PIC to be able to use human vision unaided by any device other than
+    corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+    U.S. driver's license.
+
+6. All operations must utilize a visual observer (VO). The UA must be operated within
+    the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+    to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+    capability. The VO and PIC must be able to communicate verbally at all times;
+    electronic messaging or texting is not permitted during flight operations. The PIC
+    must be designated before the flight and cannot transfer his or her designation for the
+    duration of the flight. The PIC must ensure that the VO can perform the duties
+    required of the VO.
+
+7. This exemption and all documents needed to operate the UAS and conduct its
+    operations in accordance with the conditions and limitations stated in this grant of
+    exemption, are hereinafter referred to as the operating documents. The operating
+    documents must be accessible during UAS operations and made available to the
+    Administrator upon request. If a discrepancy exists between the conditions and
+    limitations in this exemption and the procedures outlined in the operating documents,
+                                                                                                            4
+
+    the conditions and limitations herein take precedence and must be followed.
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+                                                                                                            5
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+    exemption holder may apply for a new or amended COA if it intends to conduct
+    operations that cannot be conducted under the terms of the attached COA.
+                                                                                                            6
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+    be as large as practicable.
+
+23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+    any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+    PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+    These documents must be made available to the Administrator or any law enforcement
+    official upon request.
+
+24. The UA must remain clear and give way to all manned aviation operations and
+    activities at all times.
+
+25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless:
+      a. Barriers or structures are present that sufficiently protect nonparticipating persons
+          from the UA and/or debris in the event of an accident. The operator must ensure
+          that nonparticipating persons remain under such protection. If a situation arises
+          where nonparticipating persons leave such protection and are within 500 feet of
+          the UA, flight operations must cease immediately in a manner ensuring the safety
+          of nonparticipating persons; and
+      b. The owner/controller of any vessels, vehicles or structures has granted permission
+          for operating closer to those objects and the PIC has made a safety assessment of
+          the risk of operating closer to those objects and determined that it does not
+          present an undue hazard.
+
+    The PIC, VO, operator trainees or essential persons are not considered
+    nonparticipating persons under this exemption.
+
+27. All operations shall be conducted over private or controlled-access property with
+    permission from the property owner/controller or authorized representative.
+    Permission from property owner/controller or authorized representative will be
+    obtained for each flight to be conducted.
+
+28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+    boundaries of the operational area as defined by the applicable COA must be reported
+    to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+    reported to the National Transportation Safety Board (NTSB) per instructions
+    contained on the NTSB Web site: www.ntsb.gov.
+                                                                                                                 7
+
+ If this exemption permits operations for the purpose of closed-set motion picture and
+ television filming and production, the following additional conditions and limitations apply.
+
+    29. The operator must have a motion picture and television operations manual (MPTOM)
+         as documented in this grant of exemption.
+
+    30. At least 3 days before aerial filming, the operator of the UAS affected by this
+         exemption must submit a written Plan of Activities to the local Flight Standards
+         District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+         notification may be waived with the concurrence of the FSDO. The plan of activities
+         must include at least the following:
+           a. Dates and times for all flights;
+           b. Name and phone number of the operator for the UAS aerial filming conducted
+              under this grant of exemption;
+           c. Name and phone number of the person responsible for the on-scene operation of
+              the UAS;
+           d. Make, model, and serial or N-Number of UAS to be used;
+           e. Name and certificate number of UAS PICs involved in the aerial filming;
+           f. A statement that the operator has obtained permission from property owners
+              and/or local officials to conduct the filming production event; the list of those
+              who gave permission must be made available to the inspector upon request;
+           g. Signature of exemption holder or representative; and
+           h. A description of the flight activity, including maps or diagrams of any area, city,
+              town, county, and/or state over which filming will be conducted and the altitudes
+              essential to accomplish the operation.
+
+    31. Flight operations may be conducted closer than 500 feet from participating persons
+         consenting to be involved and necessary for the filming production, as specified in the
+         exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                      8
+
+This exemption terminates on August 31, 2017, unless sooner superseded or rescinded.
+
+Sincerely,
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+n
+
+HmageKeeR~f
+
+             U. S. Department of Transportation, Docket Operations
+             West Building Ground Floor, Room W12-140
+             1200 New Jersey Avenue, S.E.
+             Washington, D.C. 20590
+
+             Subject: ImageKeeper's Request for Exemptions Pursuant to FMRA Section 333
+             and Part 11, FARs to Use Small Unmanned Aircraft Systems in the property
+             and casualty insurance industry
+
+             Dear Sir or Madam:
+
+                Pursuant to Section 333 of the FAA modernization and Reform Act of 2012
+             ("FMRA") and 14 C.F.R. Part 11, lmageKeeper LLC hereby petitions for exemptions
+             from the listed Federal Aviation Regulations ("FARs") and any other rules necessary
+             to allow operation of small unmanned aircraft systems ("UAS") under the conditions
+             set forth in this petition. FMRA Section 333 grants the FAA authority to allow the
+             operation of certain UAS within the national airspace. ImageKeeper respectfully
+             requests authorization to conduct small UAS operations (aerial data collection)
+             related to its property insurance, risk and reporting business area, inducting (but
+             not limited to) roof inspections, automatic hail imaging damage assessment,
+             analysis, certified report system, underwriting report, risk assessment, risk controls,
+             accident reconstruction and small UAS pilot training and development. As explained
+             below, ImageKeeper's FAA certified commercial pilot will conduct operations under
+             the requested exemptions, under strict operating requirements and conditions to
+             ensure safety.
+
+                 ImageKeeper1 provides multiple image data acquisition systems, and survey
+             systems for insurance emergency claims processing, involving catastrophic events
+             such as hurricane, tornado, and earthquake and flood events. This work involves
+             aerial image data collection, processing and dissemination for insurance claims
+             damage reporting which includes businesses, schools, homes that suffer damages to
+             roofs. Collections also include foundations, buildings, farms, roads, bridges and
+             infrastructure etc.
+
+                 ImageKeeper2 has developed a range of mobile digital image system tools for the
+             flood insurance marketplace including FEMA compliant technology. This technology
+
+                                                                                                                                        '
+
+                    1 ImageKeeper has (2) FAA Certified Pilots, Commercial and Private Pilots, current FAA Medicals with over 50 years of
+                    combined pilot aeronautical, knowledge and experience on staff, in charge of all flight operations. Commercial Pilot is a
+                    graduate of Embry Riddle Aeronautical University with Degrees in Aeronautical Science, Aeronautical Studies and has been
+                    involved with many government UAS Programs since the early 90's, awards received from Association for UVS For High
+                    Altitude and Very Long Endurance Aircraft (Classified Program)
+                    2 ImageKeeper's founders invented Direct Digital Airborne Camera Systems (Patents 5,999,211/5,604,534) for the U. S
+                    Government and 25 other patents relating to GPS, imaging technology, airborne surveillance. Google acquired the airborne
+                    camera company.
+
+                                                                        1
+and economic benefits or ImageKeepers's products also includes all taxpayers that
+fund FEMA. ImageKeeper is committed to keeping up with the ever-changing safety
+and secure technology needs of our customers, by offering the first mobile
+application to report flood insurance claims and commit payment on the spot.
+ImageKeeper leads the industry in this mobile technology. The use of UAS will allow
+ImageKeeper to stay competitive and to further advance innovative technologies
+that benefits its insurance clients, customers, government and courts. By providing
+certifiable data, our clients are saving time and money. They can prevent fraud and
+litigation.
+
+Types of Operation
+
+Request to Use UAS for Inspection of Private Property
+
+   ImageKeeper requests an exemption to use small UAS to inspect, collect geo
+referenced aerial data and assess the nature and extent of damage to policyholders'
+private property. ImageKeeper would conduct these UAS operations only with the
+express written consent of the property owner. ImageKeeper is specifically
+interested in studying how UAS can be used to obtain ultra precise and detailed
+images of a geo referenced, certified policyholder's roofing systems and any other
+portion of the property that would normally require utilizing remote access to
+acquire such information. In addition to the roofing we are developing an advanced
+hail damage reporting system along with floodwater precision elevation technology
+before and after an event. By using this technology, this experience will allow
+ImageKeeper to continue to innovate technology more efficiently and rapidly adjust
+claims, enhance the experience of the customers and further ImageKeeper's overall
+goals of improving safety for personnel, equipment, and customers. This exemption
+will also provide ImageKeeper pilots with real-world training and experience on
+UAS and will generate valuable data about the operational and safety of UAS that
+could also be beneficial to the FAA.
+
+   In addition to improving ImageKeepers' customer experience and claim
+effectiveness, granting this petition would improve safety for claims professionals
+and reduce the further human risk by eliminating visual on site inspections involved
+with real time storm surge, flash flood and major flooding. Some of ImageKeeper's
+clients were involved in the recent Sandy hurricane and processed around 30,000
+claims. Using ImageKeeper's imaging technology with a UAS and supporting mobile
+claims processing system, that process can be improved, enhanced significantly and
+customers will benefit with accuracy, streamlined process, and chain of custody
+documentation. The government will benefit by eliminating fraudulent claims,
+increase-processing speed, and lower the labor involved in establishing the claim
+paperwork. ImageKeeper will be able to eliminate the need for roof & water
+intrusion inspections in wet, after storm slippery conditions, where risk is
+everywhere to inspectors. The risk of water and downed electrical lines pose risks
+of all types to inspectors/adjustors. However, by comparison, the risk posed by the
+type of UAS roof and floodwater inspections proposed in this petition are minimal.
+This is due to the characteristics of the small UAS that lmageKeeper will use,
+
+                                                         2
+including the extremely small size and lightweight low operating altitudes.
+Experienced FAA pilots understand the airspace, operations, and safety of flight
+rules.
+
+    ImageKeeper's pilots have never experienced any FAA violations/warnings and
+have been accident free. The level of pilot training received at Embry Riddle
+Aeronautical University is the absolute best in the world. Even with the pilot
+credentials and aeronautical skills, Imagekeeper will use required comprehensive
+UAS flight and ground training in all aspects of UAS. This includes flight planning,
+preflight, maintenance, inspections, geo fencing, flight, recovery, emergency power
+management, flight reviews and keeping up with any FAA new rules governing use
+of UAS. Over the long term, granting this petition will undoubtedly save lives, and
+prevents serious injuries.
+
+    With the appropriate process enhancements, inspection with UAS will not only is
+safer than sending an inspector, but will be faster and will result in enhanced
+customer experience. It is important to point out the significant public interest
+associated with ImageKeeper proposed UAS integration. As with flood we have
+learned how slow the process is to get insurance to pay the flood victim who has lost
+every thing in a flood. By developing a mobile flood claims application tied to a
+cloud system, we are able to write the flood victim approval for funds on the spot
+while at the flooded property scene. Given ImageKeeper's role in flood claims
+payment quickly and efficiently, those 30,000 victims of Sandy who waited a month
+or more for funds could have received funds within days, which allows quicker
+repairs and less productive time lost for paperwork. When considered with the
+contrast and scale of catastrophic events such as hurricanes, tornadoes or
+earthquakes, these efficiencies will translate into quicker recoveries and save
+money, time and lives.
+
+   ImageKeeper's UAS operational model poses no risk to the national airspace
+system. In the supporting material for this petition, ImageKeeper will provide an
+operating model that will require UAS inspections take place within a very confined
+(GPS box including altitude of 100 feet or less), tight footprint around and above an
+individual structure. The vast majority of UAS work will take place 20 foot above an
+individual structure. The majority of UAS work will take place at 15 feet above the
+roof surface. This will allow for roof inspection and flood at the same time, due to
+ImageKeeper's multispectral technology. Since ImageKeeper will be operating so
+close to the actual earth surface, the UAS will pose no greater risk to the national
+airspace than the structure themselves. The only concern will be the lost connection
+or run-a-way UAS. ImageKeeper will use geo-fence (GPS box including altitude of
+100 feet or less) and lost-link (return to preprogrammed recovery point)
+technology.
+
+ImageKeeper is requesting permission to integrate UAS technology into its mobile
+claims processing workflow, which includes cloud integration, mapping, reporting,
+analysis, and overall management.
+
+                                                       3
+Mobile Flood Insurance Claims Processing
+
+   ImageKeeper requests an exemption to use the UAS to conduct private property
+inspections in connection with claims arising out of ImageKeeper's Flood Claims
+System. ImageKeeper has developed an advanced mobile claims system in the flood
+and roof insurance area and is finalizing deployment of the system for flood and roof
+insurance. ImageKeeper is working with the largest flood claims insurer in the
+United States. This mobile claims system already saves time, protects against fraud
+and creates data that meets chain of custody requirements. ImageKeeper believes
+that by adding mobile UAS aerial data directly on site to the mobile claims
+application, a comprehensive claim can be completed faster, safer, more efficiently.
+Geospatial data provides certifiable complete damage reporting capability. By using
+this system, the claims can be processed, the damage repaired and people can go on
+with their business. Agents, adjustors and investigators will have complete records
+which will be correct, accurate, and searchable and geo located.
+
+   ImageKeeper requests an exemption to use UAS to conduct property inspections
+in connection with claims in the flood, flood areas, and after storm in rising water
+situations. Many properties are in rural outlying areas, and farms in unpopulated
+areas. Use of the UAS in this area would provide ImageKeeper valuable data without
+risk to property or persons. ImageKeeper's small operational footprint, UAS, (under
+5.5 lbs.) low operational altitude of 100 feet or less, geo-fenced, lost-link equipped,
+FAA Certified Pilots, will pose no threat to the national airspace or neighboring
+persons or property.
+
+  Use of UAS in this this setting would further the goal of improving overall safety.
+Under current protocols, each such inspection would be conducted by FAA pilots
+who understand aeronautics, national airspace, TFRs, Restricted airspace, Class A, B,
+C, D, E and G airspace requirements, UAS, safety, security, operational security.
+ImageKeeper employees have been involved in every aspect of mission planning,
+safety, operations and flight activities.
+
+   ImageKeeper will fly 25 practice insurance roof claims inspection in a real and
+simulation situation before moving to a real scenarios in a remote area with
+structure measurement documenting each flight and logging each flight.
+ImageKeeper will be using the UAS to measure, inspect, and capture aerial image
+data, geospatial data, testing signal strength, and recording all data in a secure
+cloud.
+
+Request to Use UAS for R & D, Training and Certification at ImageKeeper Test
+Site located in Sherman, TX
+
+   ImageKeeper also requests as exemption to use UAS to perform Research and
+Development, training, sensor testing, pilot certification at it own facilities on
+property owned or leased by ImageKeeper. The testing facility will not be open to
+the public and access will be restricted to ImageKeeper employees. The test site will
+contain uninhabited structures, which will enable ImageKeeper to test various
+
+                                                       4
+sensor types and measurement technologies. The test site is located in a sparsely
+populated area of north Texas. The land is flat, with no obstruction and no airports
+within 25 miles, or homes within two miles. The footprint of the test area is one to
+ten acres. The land is tillable but fallow, with fencing around the entire complex.
+There is no special use airspace above the area test site.
+
+Pilot Requirements
+
+   ImageKeeper will establish an internal program that will focus on skills,
+knowledge and expertise required to operate small UAS of which ImageKeeper
+intends to operate, 5.5 lbs. or less. ImageKeeper will utilize its own FAA Commercial
+Licensed pilot to develop and implement a practical training program with
+operation of small lightweight UAS. ImageKeeper also intends to work with Embry
+Riddle Aeronautical University who has developed advanced program degrees in
+UAS. By staying involved with this respected world-class aeronautical university,
+ImageKeeper will stay informed of every new educational tool available for UAS. A
+general pilot certification program for UAS must be as stringent as a private pilot
+license, which will apply the same duty of care and operational safety when
+operating a UAS. Not only is a knowledge test important, but should be required, as
+well as a flight evaluation completed by an FAA examiner.
+
+   ImageKeeper has two FAA Rated Pilots, Commercial and Private, with current
+FAA Medical Examinations and over combined 50 years of pilot and aeronautical
+knowledge and experience on staff, which will oversee all flight operations.
+ImageKeeper's commercial pilot is a graduate of Embry Riddle Aeronautical
+University with Degrees in Aeronautical Science, Aeronautical Studies and has been
+involved with many government UAS programs since the early 90's, with awards
+received from the Association of UVS for High Altitude and Very Long Endurance
+Aircraft (Classified Program). ImageKeeper's founders invented Direct Digital
+Airborne Camera Systems, US Patents 5,999,211, 5,604,534 for the U.S Government
+and 25 other patents relating to GPS, digital cameras, imaging technology and
+airborne surveillance. Google acquired the airborne camera company and
+technology established by the ImageKeeper founders.
+
+  ImageKeeper will develop a complete training course designed by our staff FAA
+Commercial Certified pilot who has an extensive security background as well as
+considerable experience with fixed wing aircraft and technology development.
+ImageKeeper will require each potential UAS company pilot to successfully
+complete a training that combines private pilot ground school that is relevant to
+small UAS. He/she will be required to log 15 hours of total time as a UAS pilot and 5
+hours as a UAS pilot operating the particular make and model of UAS to be utilized
+for operations under this exemption. In addition, the UAS pilot will be required to
+certify that he or she has no medical defects that would make him or her unable to
+pilot a small UAS in a safe manner, including requirement to wear correct lenses if
+required. In addition, in order to meet all ImageKeeper requirements, the candidate
+will be required to have a clear criminal background check and drug test. All pilot
+
+                                                      5
+certification training will take place under the direct supervision and control of a
+person holding an FAA Commercial or private pilot certificate.
+
+Public Interest Benefits
+
+   Approval of ImageKeepers' request to use UAS to inspect insurance policyholders'
+private property in time of need is in the public interest. Granting this petition
+advances Congress' goal of integrating civil UAS into the national airspace safely and
+expeditiously. Allowing ImageKeeper to conduct the aerial data inspections
+proposed herein is a necessary step toward realizing the consumer benefits of using
+UAS in the insurance industry for flood, hail damage, hurricane and tornado. In
+addition, ImageKeeper is a proven hi- technology leader and developer of new and
+novel technology. Its past proven management team has over 25 patents which
+have created many digital camera companies that have provided thousands of jobs
+in the United States. They continue to develop technology useful to many
+businesses and the law enforcement communities, which provide safety and
+security for the United States.
+
+   Further, ImageKeeper desires to work with, report, share findings, discuss, or
+brief on technology, that might happen to be in development in any process or
+avenues the FAA would like to collaborate in order to insure safety, security, and
+interest in the United States.
+
+   In addition to improving UAS operational safety, granting this petition would
+improve safety for our customers, clients, and professionals with whom we work, as
+well as reduce the risk and damage to customer properties by eliminating the need
+to put humans on roofs and in dangerous flooding conditions. In addition, these
+UAS surveys will prove faster, cheaper, fraud resistant and more accurate
+technology. ImageKeeper makes the data un-modifiable. ImageKeeper also
+believes that these benefits will integrate into other areas of advanced electronic
+insurance processes, such as automatic mobile claims processing, underwriting
+processing and quality assurance, thereby saving money for the consumers.
+
+System Operation Parameters, Operations, Inspection and Maintenance
+Manual
+
+  The proposed operating limitation describes how ImageKeepers' UAS operations
+will be safely conducted to minimize risk to the national airspace or to person and
+property on the ground.
+
+    1. The operations will be conducted using only one of these at a time, a 3DR
+         IRIS+, DJI Phantom 2 or DJI Inspire 1, .which are small UAS, weighing
+         approximately 4.4 to 6.4 pounds with payload.3
+
+    2. Flights will be operated at all times within visual line of sight (VLOS) of a
+         pilot (PIC) under FAA issued medical requirement certificate, corrective
+
+3 The operationaljuser, safety manuals for each, 3DR IRIS+, DJI Phantom 2, DJI Inspire 1 are included as part of this
+document as an attachment.
+
+                                                       6
+    lenses if required by FAA medical and logging all time, location and duration
+    of flights, and having a U. S. driver's license. The VO and PIC will be able to
+    communicate verbally at all times. The PIC will be designated before each
+    flight and will not transfer designation for the duration of the flight. The PIC
+    is required to ensure the VO can perform the duties required of the VO. The
+    VO and PIC will not use electronic messaging or texting during flight
+    operations.
+3. The UAS will be operated at an altitude of no more than 400 feet above
+    ground level (AGL). Altitude must be reported in feet AGL.
+4. The UAS will not be flown at ground speeds exceeding 87 knots using either
+    ground speed or calibrated airspeed to determine compliance with 87 know
+    speed restrictions. In no case will the UAS be operated at airspeeds greater
+    than the maximum UAS operating airspeed recommended by the aircraft
+    manufacturer.
+5. The lmageKeeper UAS will not carry any persons, pilots, crew, animals,
+    flammable liquid fuels, chemicals, explosive materials or defensive weapons.
+6. All ImageKeeper UAS flights will terminate at 30% battery reserve.
+7. All ImageKeeper flights will be operated at an altitude of no more than 400
+    feetAGL.
+8. All ImageKeeper flights will be operated in only VFR conditions and official
+    daylight conditions reported by nearest airport ATIS. UAS operations will not
+    be permitted during night as defined in 14 CFRl.l.
+9. Prior to any ImageKeeper UAS removed from active status for maintenance
+    or alteration that affects the UAS operation or flight characteristics, such as
+    component replacement, etc., will undergo a functional test flight in
+    accordance with ImageKeepers Maintenance process manual prior to
+    returning to active flight status complete with notes/approval signatures.
+10. Prior to each flight, the ImageKeeper pilot must inspect the UAS to ensure
+    that it is in a safe flight condition with a checklist. If any item on the checklist
+    is deficient, then the UAS is prohibited from operating until the required
+    maintenance has been performed and found safe for flight. The flight
+    manager is required to properly document in the aircraft records the type,
+    parts, date, the person who made the changes, and a signature approval of
+    the pilot noting corrections and flight safety approval.
+11. Each manual contains the preflight information for each model. Preflight
+    inspection includes the requirements that the inspection must account for
+    including any discrepancies (squawks found). They shall be listed and noted.
+    Preflight must account for all potential discrepancies, inoperable
+    components, items, or equipment. If the inspection reveals a condition that
+    effects the safe operation of the UAS, the aircraft is prohibited from operating
+    until the required maintenance has been performed and UAS is found to be in
+    a condition for safe flight.
+12. The operator must follow the UAS manufacturer's inspection and record
+    keeping requirements in accordance with the manual. Maintenance,
+    inspection and alterations must be noted in the aircraft records, including
+    total flight hours, description of work accomplished and the signature of the
+    authorized person returning the UAS into service. The operator will be
+
+                                                  7
+    responsible for maintaining and inspecting the UAS to ensure that it is in a
+    condition for safe operation.
+13. The operator must follow the UAS manufacture's hull/components
+    maintenance overall replacement, inspection and life limit requirements.
+14. All ImageKeeper UAS operated under the exemption must comply with all
+    manufacturer safety and operational materials, bulletins, documents, and
+    safety of flight notification.
+15. All ImageKeeper flights shall be conducted over private or controlled access
+    property with permission for each flight from the landowner or authorized
+    represented. Permission for the owner or authorized represented will be
+    obtained for each flight to be conducted. A record shall be made of each of
+    the approvals with time, date, and name. All of this will become part of the
+    overall mission data capture located in ImageKeeper's electronic system.
+16. Each ImageKeeper flight will be operated by a PIC holder of a commercial,
+    private, recreational, or sport pilot certificate, with current FAA medical
+    certificate, a valid U. S. driver's license issued by a state. The PIC will also
+    meet flight review requirements specified in 14 CFR 61.56 in an aircraft in
+    which the PIC is rated on his or her pilot certificate.
+17. Flight operations will be conducted at least 500 feet from any non-person
+    who is nonparticipating. The operator will ensure the nonparticipating
+    person remains under protection. If nonparticipating leave protection and
+    within 500 feet then all flight operations will cease immediately. The UAS will
+    not be operated near a vessel or structures where the owner of such vessel
+    or structures have not granted permission.
+18. By using GPS technology, ImageKeeper establishes boundaries made up of
+    GPS coordinates (GPS operations box area with ceiling of 400 feet AGL) in
+    which the UAS will operate.
+19. ImageKeeper will have a 25-foot clearance around the UAS departure point
+    and the recovery area, which will be located at same point of departure. This
+    will be the landing and take off point for the UAS. There will be no overhead
+    obstructions within 400 feet of the vertical departure point. The UAS pilot
+    will be the sole designation for lmageKeeper in locating the departure and
+    recovery location.
+20. The ImageKeeper UAS will be preprogrammed to return to the departure
+    point for any false takeoff, emergency or aborted flight.· No obstruction,
+    including animals, birds, or power lines shall be in the takeoff path of the UAS
+    prior to takeoff. If the UAS loses communication or loses its GPS signal, the
+    UAS will return to a predetermined location within the private or controlled
+    access property.
+21. All ImageKeeper aircraft will have an N number marking identification by
+    serial number and registered in accordance with 14 CFR Part 47,49 C.
+22. ImageKeeper will comply with all Federal Communication Commission
+    requirements for control and operation of UAS.
+23. The UAS will meet the VFR flight minimums including cloud clearance and
+    visibility requirements. UAS may not be operated less than 500 feet below or
+    less than 2,000 feet horizontally from a cloud or when visibility is less than 3
+    statute miles from the PIC. The PIC is prohibited from beginning a flight
+
+                                                8
+        unless considering wind and forecast weather conditions there is enough
+        available power for the UAS to conduct the intended operation and operate
+        after that for at least five minutes or with reserve power recommended by
+        the manufacturer.
+    24. Before conducting operations, a qualified UAS pilot will demonstrate and log
+        per 14 CFR 61.51 (b) ability to operate the UAS in a manner consistent with
+        how the UAS will be operated under the exemptions, including evasive and
+        maneuvers, emergency and maintaining appropriate distances from people,
+        vessels, vehicles, and structures. PIC qualification flight hours and currency
+        will be logged consistent with 14 CFR 61.51 (b).
+    25. ImageKeeper flight operations will only occur in Class G airspace. The UAS
+        may operate within 5 nautical miles of geographic center of an airport as
+        found on current FAA published aeronautical charts unless an agreement
+        with the airport management and COA is obtained and operated in
+        accordance to NOTAM. Any agreement must be made available to the
+        Administrator or any law enforcement official upon request.
+    26. ImageKeeper (operator) will comply with the operating, inspection,
+        maintenance and record keeping procedures set forth in the UAS manual.
+    27. The UAS must remain clear and yield the right of way to all other manned
+        operations and activities.
+    28. The PIC will abort the flight in the event of unpredicted obstacles or
+        emergencies.
+    29. The UAS may not be operated by pilot from any moving device or vehicle,
+        such as a car, trucks, cranes, hi-lift etc.
+    30. All documentation required under 14 CFR § 91.9, 203 will be accessible to
+        the pilot at the ground station, during flight operations and to the FAA
+        administrator and or law enforcement. It is operator responsibility to track
+        revisions and present them to the Administrator oflaw enforcement.
+    31. Any accident must be reported to the NTSB. In the event a Certificate of
+        Authorization (COA) is required, any incident, accident, or flight operation
+        that transgresses beyond the boundaries of the operating area as defined by
+        the COA must be reported to the FAA' AUS Integration Office within 24 hours.
+
+Operation and Training Manuals
+
+   ImageKeeper will follow the operating procedures set forth in the manual
+attached to this document in support of this petition. The manual will be
+maintained and will be made available to the FAA if requested. ImageKeeper will
+communicate with the FAA on any issue relating to operation and training manuals.
+The manuals and training will be under configuration control.
+
+Inspection and Maintenance
+
+   ImageKeeper will manage its UAS fleet according to procedures called out in the
+inspection and maintenance sections of the UAS manuals, which will be submitted
+as part of this petition. The manuals will be maintained at ImageKeeper and will be
+made available to the FAA as required or requested.
+
+                                                       9
+ImageKeeper's AUS Vehicles
+
+   ImageKeeper proposes to utilize the following models types of UAS to conduct
+operations, a DJI Phantom 2, 3DR IRIS+ and DJI Inspire 1. 3DR IRIS+ has a weight of
+2.8 pounds and a range of 300 meters. Its maximum flight time is averaging at 22
+minutes. The DJI Phantom 2 has a weight of 2.56 pounds and a range of 300 meters.
+Its maximum flight time is averaging about 25 minutes. DJI Inspire 1 has a weight of
+5.4 pounds without gimbal using standard cameras and an average flight time of 18
+minutes.
+
+   ImageKeeper will maintain a GPS coordinate box perimeter/boundary (GPS gee-
+fence) including a maximum ceiling of 400 feet AGL. GPS lateral box boundaries will
+be maintained at all times and clearances with structures and humans will be
+surveyed prior to any flight. Flight launch and recovery location will be cleared of
+any non-participants at all times during operation. The property owner prior to any
+operation will consent/approve all property surveys. At all times the automatic
+recovery to the recovery site will be engaged and programmed according the
+operational manual on each UAS. All operation will be conducted in official daylight
+hours and under the VFR rules and visibility conditions by an ImageKeeper certified
+UAS pilot. Each ImageKeeper UAS will have the proper markings identifying the
+serial number and identification (N-number), which will also be integrated into
+ImageKeeper data, capture system. All UAS operations will comply with the
+manufacturer's operational, training, and safety notices. ImageKeeper will maintain
+a log showing date, time, mission, mission parameters, altitude, and geographic
+position of the AUS at every point of the mission. This data is unalterable, stored in
+an off site location, and will be made available to the FAA for any reason necessary.
+This is part of the ImageKeeper technology. ImageKeeper's system allows tracking,
+organized aerial image data, image location, image capture times and the ability to
+look at large data image files, as all data is globally searchable. It would be possible
+to utilize this data system as a UAS black box data recovery system. We would be
+happy to share this information with the FAA if interested. ImageKeeper records
+offsite the exact UAS location, direction, time and date.
+
+FAA has Authority Under FMRA Section 333 to Grant the Requested
+Exemptions.
+
+   By granting this request for exemption will allow promotion of Congress' goal in
+enacting Section 3333 of the FMRA. Sec. 333 directs the Sec. of Transportation to
+consider whether certain UAS may operate safely in the national airspace before
+completion of the rulemaking required under Section 332 of the FMRA. The
+Secretary is required to determine the kind of UAS operations that do not create a
+hazard to users of the national airspace or the public or pose a threat to national
+security in light of the UAS' size, weight, speed, operational capability and areas of
+operation and whether the operations will occur within the visual line of sight of the
+
+                                                    10
+operator.4 Section 333 reflects Congressional intent that FAA will grant exemptions
+to allow small UAS operations under conditions that ensure safety, like those
+proposed in this lmgeKeeper petition.
+
+In addition, the Federal Aviation Act expressly grants the FAA the authority to issue
+exemptions. This statutory authority by the terms includes exempting civil aircraft
+(as defined under 40101 of the Act which in includes UAS) from the requirements
+that all such aircraft must have a current airworthiness certificate and granting
+exemptions from the pilot certification requirements. The Administrator may grant
+an exemption from a requirement of a regulation under§ 44701 (a.) or (b.) or in§
+44702-44716 of the Act, if the Administrator finds the exemption is in the public
+interest. s
+
+Application Information
+
+Name and address of the applicant
+
+ImageKeeper LLC
+Jerry Speasl
+President and CEO
+P. 0. Box 27740
+Las Vegas, NV 89126
+jspeasl@imagekeeper.com
+702-308-7985
+
+List of Regulation from which ImageKeeper requests Exemption
+
+14 C.F.R. § §61.113 (a.) and (b.), 61.133 (a)
+14 C.F.R. § 91.7 (a.)
+14 C.F.R. § 91.119 (b.) and (c.) 14 C.F.R. § 91.121
+14 C.F.R. § 91.151 (a)
+14 C.F.R. § 91.405 (a)
+14 C.F.R. § 91.407 (a), (1)
+14 C.F.R. § §91.409 (a), (1), (2)
+14 C.F.R. § §91.417 (a), (b)
+
+Federal Register Summary
+
+Petitioner: ImageKeeper LLC
+Affected regulations: 14 C.F.R. § §61.113 (a) and (b), 14 C.F.R 61.133 (a), and 14
+C.F.R. § 91.7 (a); 14 C.F.R. § 91.119 (b) and (c); 14 C.F.R. § 91.121; 14 C.F.R. § 91.151
+(a); 14 C.F.R. § 91.405 (a); 14 C.F.R. § 91.407 (a), (1); 14 C.F.R. § §91.409 (a), (1), (2);
+14 C.F.R. § §91.417 (a), (b)
+
+4 FAA Modernization and Reform Act of 2012, Pub.L.No. 112-95, 126 Stat.75-76 (codified as Note to 49 U.S. C §
+40101).
+s 49 U.S.C. § 44701(f) also 49 U.S.C. § 44711 (a.), 49 U.S.C. § 44704; 14 C.F.R. § 91.203 (a,) (1.)
+
+                                                     11
+Description: Petitioner seeks an exemption from the requirements of 14 C.F.R. §
+§61.113 (a) and (b), 61.133 (a); 14 C.F.R. § 91.7 (a); 14 C.F.R. § 91.119 (b) and (c);
+14 C.F.R. § 91.121; 14 C.F.R. § 91.151 (a); 14 C.F.R. § 91.405 (a); 14 C.F.R. § 91.407
+(a), (1); 14 C.F.R. § §91.409 (a), (1), (2); and 14 C.F.R. § §91.417 (a), (b) to use UAS
+small unmanned aircraft systems in order to conduct small UAS operations related
+to its insurance business, including but not limited to hail roof damage, roof
+inspections, underwriting process enhancements, risk assessment, risk and accident
+reconstruction, catastrophic response for flood, tornado, hurricane, earthquake and
+UAS pilot training, development, maintenance.
+
+Exemptions Sought by ImageKeeper the Petitioner
+
+ImageKeeper requests exemptions from the following regulations to the extent
+necessary to enable the requested UAS operations for the reasons detailed below.
+
+                  14 C.F.R. § §61.113 (a) & (b): Private pilot privileges and limitations;
+                  14 C.F.R. § 61.133 (a): Commercial pilot privileges and limitations
+
+Section 61.113 (a) and (b) limit private pilots to non-commercial operations.
+Section 61.133 (a) requires an individual with a commercial pilot's license to be
+pilot in command of an aircraft for compensation or hire. The FAA has already
+determined that it is appropriate to exempt small UAS pilots from the commercial
+pilot's license requirements in section 61.133 (a). In situations analogous of those
+presented by this petition. See Exemptions #11109, 11110, 11136, and 11138.
+However, to date, FAA has required such operators to have a private pilot's license.
+
+ImageKeeper respectfully submits that, given the characteristics of the 3DR IRIS+,
+DJI Phantom 2 and DJI Inspire 1, the operating GPS box and ImageKeeper's level of
+past and current aeronautical education, licenses, aviation sensor development, and
+FAA certified commercial pilot, are applicable specifically to small UAS operators
+like (ImageKeeper). Given the aeronautical skills, historical knowledge of
+developing complex airborne sensors, and fielded UAS in support of wartime
+national interest, indicates ImageKeeper is competent in performing UAS services
+important to the United States. FAA certified pilots on staff, in a business that can be
+grown by creating technology made in America by Americans is important to
+meeting Congress' requirements.
+
+The 3DR IRIS+, DJI Phantom 2 and DJI Inspire 1 are exceedingly small and very
+lightweight. They are both advertised as lightweight UAS and are already widely
+flown by recreational and real estate companies. They operate both autonomously
+and manually. They have pre programmable GPS fencing features. They have lost
+link and lost GPS capabilities. In the event of loss of communications link or GPS the
+aircraft automatically returns to preprogrammed recovery location. They also have
+emergency flight termination system where the pilot hits a kill switch and it will
+then land. The UAS will not carry a pilot, passenger, animals, flammable, explosive,
+drugs, weapons or defensive systems, such as jammers, or microwave sensors, radar
+
+                                                    12
+systems, or stealth technology. The operating area is controlled and restricted, and
+all flights are planned and coordinated in advance as set forth in the manual. Image
+Keeper submits that the proposed operation can be achieved an equivalent level of
+safety by requiring the pilot of this very small lightweight, low altitude, low speed
+limited range UAS to be trained in a UAS specific certification program approved by
+FAA and administered by a Commercial FAA certified pilot.
+
+14 C.F.R. § 91.7 a: Civil aircraft airworthiness
+
+Section 91.7 (a) requires that no person may operate a civil aircraft unless it is in
+airworthy condition. Given the characteristics of the UAS and stringent operating
+restrictions and conditions proposed in this petition, and equivalent level of safety
+will be achieved by compliance with the operations manual. Imagekeeper therefore
+requests FAA to grant an exemption from section 91.7 (a) and finds that the
+operator may ensure that the UAS are in an airworthy condition by complying with
+the manual and the proposed operating restrictions and conditions. FAA has
+granted similar exemptions in Exemptions# 11136 and 11138.
+
+14 C. F. R. § 91.119 band c: Minimum safe altitudes
+
+Section 14 C. F. R. § 91.119 (b) and (c) established certain minimum altitude for
+operation of civil aircraft. Section 91.119 provides, in pertinent part, that "except
+for when necessary for takeoff and landing, no person may operate an aircraft below
+the following altitudes: (b). Over congested area. Over any congested area of a city,
+town, or settlement, or over any open-air assembly of persons, an altitude of 1,000
+feet above the heights obstacle and within a horizontal radius of 2,000 feet of the
+aircraft. c. Over other than congested areas. An altitude of 500 feet above the
+surface, except over open water or sparsely populated areas. In those cases, the
+aircraft may not be operated closer than 500 feet to any person, vessel, vehicle, or
+structure.
+
+ImageKeeper requests relief from this section since the UAS flights will operate at
+altitude of no higher than 100 feet AGL. Given the small size, lightweight, low
+speeds and limited range of the UAS, and the fact that they carry no persons or
+explosives or flammable materials, and the UAS flights may be safely operated at
+much lower altitudes than conventional aircraft. ImageKeeper will restrict all of its
+operations to an altitude of 100 feet or less and will utilize GPS geo fencing
+technology to prevent deviation. Relief from this rule is warranted because the
+operations will be conducted with the safeguards and under the operating
+conditions outlined herein and in the safety and operations manual. The FAA has
+issued an exemption from Section 91.119 (c) in Exemptions# 11136 and 11138.
+
+14 C. F. R. Altimeter Settings§ 91.121: Altimeter settings
+
+Section 91.121 requires each person operating an aircraft to maintain crmsmg
+altitude by reference to an altimeter that is set to the elevation of the departure
+airport or an appropriate altimeter setting available before departure. An
+
+                                                    13
+exemption may be needed because the UAS does not have a barometric altimeter,
+but instead have a GPS altitude read out. An equivalent level of safety will be
+achieved by the operator, pursuant to the manual, confirming the altitude of the
+launch site shown on the GPS altitude indicator before flight. The FAA issued an
+exemption to this regulation for UAS operations in Exemptions# 11136 and 11138.
+
+14 C.F.R. 91.151 a Fuel requirements for VRF conditions
+
+Section 91.151 a prohibits an individual from beginning a flight in an airplane under
+VFR conditions unless considering wind and forecast weather conditions there is
+enough fuel to fly to the first point of intended landing and assuming normal
+cruising speed, 2. During the day, and after that for at least 30 minutes.
+
+An exemption is needed because the UAS have a maximum flight time of less than 30
+minutes and this cannot meet the 30-minute reserve requirements. Given the
+characteristics of the UAS including their small size, low weight and speed, limited
+range, ability to land very quickly, operations within visual line of sight, restricted
+operating area, and the fact that they do not carry persons or any explosive or
+flammable materials, grant of the exemption is justified. An equivalent level of
+safety can be achieved by terminating flights at 25% battery power reserve, which
+will occur before the 25-minute flight duration. The FAA issued an exemption to
+this regulation for UAS operation in Exemption# 11062,10673, 111136 and 11138.
+
+14 C.F.R. § 91.405 a: Maintenance required
+14 C.F.R. § 91.407 a, 1: Operation after maintenance, preventive maintenance,
+rebuilding or alteration
+14 C.F.R. §§ 91.409 a, 1 and 2; Inspections
+14 C.F.R. §§ 91.417 (a) and (b); Maintenance records
+
+These regulations require that an aircraft operator owner (i) shall have that aircraft
+inspected as prescribed in subpart E of this part and shall between required
+inspection, except as provided in paragraph (c) of this section, have discrepancies
+repaired as prescribed in part 43 of this chapter.... And (ii) shall inspect or maintain
+the aircraft in compliance with part 43. Because these sections and part 43 apply
+only to aircraft with an airworthiness certificate, these sections will not appy to the
+petitioner. Maintenance will be accomplished by the operator pursuant to the
+manufacturer's manual. An equivalent level of safety will be achieved because the
+UAS are very small in size and weight, will carry a small payload and operate only in
+very restricted areas (defined by the GPS fence) and 100 feet of altitudes for short
+periods of time. If mechanical issues arise, the UAS can land immediately and will be
+operating from no higher than 100 feet AGL. As provided in the manual, the
+operator will ensure that the UAS is in working order prior to initiating flight,
+perform required maintenance, and keep a log of any maintenance performed.
+Moreover, the operator is most familiar with the UAS and best suited to maintain the
+UAS in an airworthy condition and provide an equivalent level of safety. The FAS
+issued an exemption to these regulations in Exemption# 11062, 11136 and 11138.
+
+                                                    14
+Such other relief as the FAA deems appropriate to enable the requested
+operation
+ImageKeeper also requests exemption from such other FARs as the FAA deems
+appropriate to enable the requested operations. If, during the effective dates of the
+exemption issued per this petition, thee FAA issues interim or final rules for small
+UAS, ImageKeeper requests that it be relieved of the requirements of any conditions
+and limitation of the exemptions and allowed to comply with any less restrictive
+applicable regulations that may have become effective.
+
+Privacy
+
+The petition raises no privacy issues because all flights will occur over private or
+controlled access property with the property owner's prior knowledge and consent.
+In addition, ImageKeeper's privacy polices would apply to all UAS operations.
+
+National Security
+
+No national security issues are presented by grant of this exemption. ImageKeeper's
+management, experience with UAS, small UAS footprint, lightweight, lost link, geo
+fencing, and carrying no defensive, offensive, guns, flammable, chemicals, or
+explosives or any dangerous materials and ope\ated by professionals, assures this.
+
+Conclusion
+
+For the reasons stated above, ImageKeeper proposed use of UAS satisfies the
+criteria in the FMRA Section 333 regarding size, weight, speed, operating
+capabilities, operating areas, operation within visual line of sight, and national
+security.
+
+Petitioner's proposed safety measures and operating parameters provide more than
+adequate justification for the grant of the requested exemptions allowing operation
+of UAS. ImageKeeper therefore respectfully asks the FAA to grant the requested
+exemptions. Please do not hesitate to contact ImageKeeper, (petitioner) with any
+questions about this filing.
+
+Jerry Speasl ~o./.. . j . ~ I 5'-1 f!~/5'
+
+President and CEO
+ImageKeeper LCC
+P.O Box 27740
+Las Vegas, NV 89126
+jspeasl@imagekeeper.com
+702-308-7985
+
+Attachments: Maintenance, Operations/User Manuals
+    · 3DR IRIS+
+    · DJI Phantom 2
+    · DJI Inspire 1
+
+                                                    15
+

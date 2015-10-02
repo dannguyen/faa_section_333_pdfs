@@ -1,0 +1,1458 @@
+May 12, 2015
+
+                                                           Exemption No. 11567
+                                                           Regulatory Docket No. FAA­2015­0388
+
+Mr. Beau Dealy
+Managing Partner
+Apis Remote Sensing Systems, LLC
+1702 Agnes Drive
+Hays, KS 67601
+
+Dear Mr. Dealy:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter dated February 16, 2015, you petitioned the Federal Aviation Administration (FAA)
+on behalf of Apis Remote Sensing Systems, LLC (hereinafter petitioner or operator) for an
+exemption. The petitioner requested to operate an unmanned aircraft system (UAS) to
+conduct precision agriculture, market research, surveying, mapping and inspection.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner is an AgEagle.
+
+The petitioner requested relief from 14 CFR part 21, Certification procedures for products
+and parts, Subpart H--Airworthiness Certificates. In accordance with the statutory criteria
+provided in Section 333 of Public Law 112-95 in reference to 49 U.S.C. § 44704, and in
+                                                                                                                 2
+
+consideration of the size, weight, speed, and limited operating area associated with the
+aircraft and its operation, the Secretary of Transportation has determined that this aircraft
+meets the conditions of Section 333. Therefore, the FAA finds that the requested relief from
+14 CFR part 21, Certification procedures for products and parts, Subpart H--Airworthiness
+Certificates, and any associated noise certification and testing requirements of part 36, is
+not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection1. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+ They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+ The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+ A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, Apis Remote Sensing Systems, LLC is granted an
+exemption from 14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a),
+91.7(a), 91.119(c), 91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and
+91.417(a) and (b), to the extent necessary to allow the petitioner to operate a UAS to perform
+aerial data collection. This exemption is subject to the conditions and limitations listed
+below.
+
+1 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                             3
+
+Conditions and Limitations
+
+In this grant of exemption, Apis Remote Sensing Systems, LLC is hereafter referred to as
+the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+1. Operations authorized by this grant of exemption are limited to the AgEagle when
+    weighing less than 55 pounds including payload. Proposed operations of any other
+    aircraft will require a new petition or a petition to amend this exemption.
+
+2. Operations for the purpose of closed-set motion picture and television filming are
+    not permitted.
+
+3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+    exemption holder may use either groundspeed or calibrated airspeed to determine
+    compliance with the 87 knot speed restriction. In no case will the UA be operated at
+    airspeeds greater than the maximum UA operating airspeed recommended by the
+    aircraft manufacturer.
+
+4. The UA must be operated at an altitude of no more than 400 feet above ground level
+    (AGL). Altitude must be reported in feet AGL.
+
+5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+
+    This requires the PIC to be able to use human vision unaided by any device other than
+    corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+    U.S. driver's license.
+
+6. All operations must utilize a visual observer (VO). The UA must be operated within
+    the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+    to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+    capability. The VO and PIC must be able to communicate verbally at all times;
+    electronic messaging or texting is not permitted during flight operations. The PIC
+    must be designated before the flight and cannot transfer his or her designation for the
+    duration of the flight. The PIC must ensure that the VO can perform the duties
+    required of the VO.
+
+7. This exemption and all documents needed to operate the UAS and conduct its
+    operations in accordance with the conditions and limitations stated in this grant of
+    exemption, are hereinafter referred to as the operating documents. The operating
+    documents must be accessible during UAS operations and made available to the
+    Administrator upon request. If a discrepancy exists between the conditions and
+    limitations in this exemption and the procedures outlined in the operating documents,
+                                                                                                            4
+
+    the conditions and limitations herein take precedence and must be followed.
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+                                                                                                            5
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+    exemption holder may apply for a new or amended COA if it intends to conduct
+    operations that cannot be conducted under the terms of the attached COA.
+                                                                                                            6
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+    be as large as practicable.
+
+23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+    any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+    PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+    These documents must be made available to the Administrator or any law enforcement
+    official upon request.
+
+24. The UA must remain clear and give way to all manned aviation operations and
+    activities at all times.
+
+25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless:
+      a. Barriers or structures are present that sufficiently protect nonparticipating persons
+          from the UA and/or debris in the event of an accident. The operator must ensure
+          that nonparticipating persons remain under such protection. If a situation arises
+          where nonparticipating persons leave such protection and are within 500 feet of
+          the UA, flight operations must cease immediately in a manner ensuring the safety
+          of nonparticipating persons; and
+      b. The owner/controller of any vessels, vehicles or structures has granted permission
+          for operating closer to those objects and the PIC has made a safety assessment of
+          the risk of operating closer to those objects and determined that it does not
+          present an undue hazard.
+
+    The PIC, VO, operator trainees or essential persons are not considered
+    nonparticipating persons under this exemption.
+
+27. All operations shall be conducted over private or controlled-access property with
+    permission from the property owner/controller or authorized representative.
+    Permission from property owner/controller or authorized representative will be
+    obtained for each flight to be conducted.
+
+28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+    boundaries of the operational area as defined by the applicable COA must be reported
+    to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+    reported to the National Transportation Safety Board (NTSB) per instructions
+    contained on the NTSB Web site: www.ntsb.gov.
+                                                                                                                 7
+
+ If this exemption permits operations for the purpose of closed-set motion picture and
+ television filming and production, the following additional conditions and limitations apply.
+
+    29. The operator must have a motion picture and television operations manual (MPTOM)
+         as documented in this grant of exemption.
+
+    30. At least 3 days before aerial filming, the operator of the UAS affected by this
+         exemption must submit a written Plan of Activities to the local Flight Standards
+         District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+         notification may be waived with the concurrence of the FSDO. The plan of activities
+         must include at least the following:
+           a. Dates and times for all flights;
+           b. Name and phone number of the operator for the UAS aerial filming conducted
+              under this grant of exemption;
+           c. Name and phone number of the person responsible for the on-scene operation of
+              the UAS;
+           d. Make, model, and serial or N-Number of UAS to be used;
+           e. Name and certificate number of UAS PICs involved in the aerial filming;
+           f. A statement that the operator has obtained permission from property owners
+              and/or local officials to conduct the filming production event; the list of those
+              who gave permission must be made available to the inspector upon request;
+           g. Signature of exemption holder or representative; and
+           h. A description of the flight activity, including maps or diagrams of any area, city,
+              town, county, and/or state over which filming will be conducted and the altitudes
+              essential to accomplish the operation.
+
+    31. Flight operations may be conducted closer than 500 feet from participating persons
+         consenting to be involved and necessary for the filming production, as specified in the
+         exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                   8
+
+This exemption terminates on May 31, 2017, unless sooner superseded or rescinded.
+Sincerely,
+
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+Page 1 of 26 
+
+                                                                                                                               
+
+                                                                                            7852619591 | www.apisremote.com 
+
+ 
+U.S. Department of Transportation / 
+Federal Aviation Administration 
+Docket Management System  
+1200 New Jersey Ave., SE  
+Washington, DC 20590  
+ 
+For: Exemption Request Under Section 333 of the FAA Reform Act and Part 11 of the 
+Federal Aviation Regulations Concerning Operation of an Unmanned Aerial System 
+Pursuant to Section 333 of the FAA Modernization and Reform Act of 2012. 
+ 
+ 
+Submitted: February 16, 2015 
+ 
+Beau Dealy 
+Managing Partner 
+Apis Remote Sensing Systems, LLC 
+1702 Agnes Dr 
+Hays, Kansas 67601 
+7852619591 
+beau@apisremote.com 
+  
+
+          
+Page 2 of 26 
+
+                                                                                                                               
+
+                                                                                            7852619591 | www.apisremote.com 
+
+Contents
+
+    1. Overview of Exemption
+    2. Applicable Legal Standard under Section 333
+    3. Summary Background of the AgEagle Robotic Aircraft System
+    4. Scope of Mission Operations
+    5. Evidence of Airworthiness
+    6. Safety Features
+    7. Mandatory Operating Conditions
+    8. Operator Requirements
+    9. Appendices, Attachments, and Confidentiality of Proprietary
+
+        Documents
+    10. Summary & Conclusion
+ 
+
+Appendix A
+
+Overview of Regulations from which Exemption is Requested; Including
+Explanation in the Context of Appropriateness, Safety, and Benefit to the
+Public Interest.
+
+Appendix B
+
+Company Profile
+
+Appendix C
+
+Technical Specifications of the AgEagle Robotic Aircraft System
+
+             1. Physical Characteristics of the AgEagle
+             2. Performance Characteristics of the AgEagle
+             3. Maintenance
+             4. Reliability
+             5. Fault Tolerance
+             6. Emergency Procedures and System Failures
+             7. Command and Control Systems
+ 
+  
+
+          
+Page 3 of 26 
+
+                                                                                                                               
+
+                                                                                            7852619591 | www.apisremote.com 
+
+ 
+February 16, 2015 
+ 
+U.S. Department of Transportation  
+Docket Management System  
+1200 New Jersey Ave., SE  
+Washington, DC 20590  
+ 
+Re: Exemption Request Under Section 333 of the FAA Reform Act and Part 11 of the 
+Federal Aviation Regulations 
+ 
+Dear Sir or Madam: 
+ 
+Pursuant to Section 333 of the FAA Modernization and Reform Act of 2012 (the "Reform 
+Act") and 14 C.F.R. Part 11, Apis Remote Sensing Systems, LLC (Apis), seeks an 
+exemption from Federal Aviation Regulations ("FARs") listed in Part 1. "Overview of 
+Exemption" listed below and further detailed in Appendix A.  
+ 
+The requested exemption would permit market research and commercial operations for 
+the 2015 release of the AgEagle Robotic Aircraft System ("AgEagle") manufactured by 
+AgEagle, LLC Neodesha, Kansas, USA for which Apis is a technology advisor, 
+authorized training partner, and reseller. 
+
+1. Overview of Exemption
+The regulations from which the exemption is requested are as follows: 
+
+         14 C.F.R. Part 21 Subpart H 
+         14 C.F.R. 91.203(a) & (b) 
+         14 C.F.R. 45.23(b) 
+         14 C.F.R. 61.113(a) & (b) 
+         14 C.F.R. 61.133(a) 
+         14 C.F.R. 91.7(a) 
+         14 C.F.R. 91.9(b)(2) 
+         14 C.F.R. 91.119(c) 
+         14 C.F.R. 91.151(a) 
+         14 C.F.R. 91.405(a) 
+         14 C.F.R. 91.407(a)(1) 
+         14 C.F.R. 91.409(a)(2) 
+
+          
+Page 4 of 26 
+
+                                                                                                                               
+
+                                                                                            7852619591 | www.apisremote.com 
+
+         14 C.F.R. 91.417(a) 
+          
+ While a collective case for exemption is made within this letter, Appendix A takes care 
+ to discuss each rule listed prior in relevant context to the request showing why 
+ exemption from the FARs of concern are appropriate, provide an equivalent level of 
+ safety, and are in the public interest. 
+
+2. Applicable Legal Standard under Section 333
+Apis submits that grant of this exemption application for use of the AgEagle in precision 
+agriculture, market research, surveying, mapping and inspection operations will 
+advance the Congressional mandate in Section 333 of the Reform Act to accelerate the 
+introduction of small Unmanned Aerial Systems ("sUAS") into the National Airspace 
+system ("NAS") if it can be accomplished safely. This law directs the Secretary of 
+Transportation to consider whether certain sUASs may operate safely in the NAS before 
+completion of the rulemaking required under Section 332 of the Reform Act. In making 
+this determination, the Secretary is required to determine which types of sUAS do not 
+create a hazard to users of the NAS or the public or pose a threat to national security in 
+light of the following:  
+  
+
+     The size, weight, speed, and operational capability of the sUAS.  
+     Operation of the sUAS in close proximity to airports and populated areas.  
+     Operation of the sUAS within visual line of sight of the operator.  
+  
+Reform Act  333(b)(1) states that if the Secretary determines that such vehicles "may 
+operate safely in the national airspace system", the Secretary shall establish 
+requirements for the safe operation of such aircraft in the national airspace system." Id. 
+333(c)1. 
+ 
+The Federal Aviation Act expressly grants the FAA the authority to issue exemptions. 
+This statutory authority, by its terms, includes exempting civil aircraft, as the term is 
+defined under 40101 of the Act, from the requirement that all civil aircraft must have a 
+current airworthiness certificate and those regulations requiring commercial pilots to 
+operate aircraft in commercial service:  
+ 
+The Administrator may grant an exemption from a requirement of a regulation 
+prescribed under  
+
+1 http://www.gpo.gov/fdsys/pkg/CRPT112hrpt381/pdf/CRPT112hrpt381.pdf 
+
+          
+Page 5 of 26 
+
+                                                                                                                               
+
+                                                                                            7852619591 | www.apisremote.com 
+
+subsection (a) or (b) of this section or any of sections 4470244716 of this title if the  
+Administrator finds the exemption is in the public interest.  
+  
+49 U.S.C. 44701(f). See also 49 USC 44711(a) 49 USC 44704 14 CFR 91.203(a)(1).  
+  
+The grant of the requested exemption is in the public interest based on the clear 
+direction in Section 333 of the Reform Act the additional authority in the Federal 
+Aviation Act, as amended the strong equivalent level of safety surrounding the 
+proposed operations and the significant public benefit, including enhanced safety and 
+cost savings associated with transitioning to sUASs for aerial surveying, mapping and 
+inspection applications. Accordingly, the applicant respectfully requests that the FAA 
+grant the requested exemption without delay.  
+ 
+
+3. Summary Background of the AgEagle Robotic Aircraft System
+The AgEagle is a batterypowered electric fixed wing aircraft with a wingspan of 
+approximately 56 inches and a take off weight of approximately 7.5 pounds including 
+payload. The AgEagle is programmed and operated primarily using cellular data 
+network services, with the Pilot In Command ("PIC") overseeing operations using a 
+laptop, tablet computer or smartphone connected to the Internet (usually over the same 
+cellular data network). The AgEagle can also be piloted over a 900 MHz radio using a 
+laptop, tablet, or smartphone. Failsafe controls for emergency landings are also 
+available via a 900 MHz industrystandard transmitter / receiver. 
+
+4. Scope of Mission Operations
+The primary role of the AgEagle is aerialbased land survey in sparselypopulated rural 
+areas including the acquisition of aerial photography for photogrammetric and 
+preliminary "scouting" purposes primarily in the precision agriculture market space. The 
+AgEagle is equipped to carry either stillshot or video cameras, as well as stillshot 
+cameras that have been modified to detect nearinfrared spectra in wavelengths attuned 
+to plant health. Ultimately, the AgEagle system enables land stakeholders to make 
+informed decisions in the context of acreage. In the case of industries such as 
+agriculture, the goal is enhanced land management and resource conservation that 
+saves the land operator input costs while maximizing yield. 
+ 
+As described in detail following, the scope of this exemption would permit the AgEagle 
+to operate commercially in controlled conditions on private ground with the permission 
+of the landowner and/or operator at low altitudes in a limited flight duration over an 
+
+          
+Page 6 of 26 
+
+                                                                                                                               
+
+                                                                                            7852619591 | www.apisremote.com 
+
+airspace that is inherently limited in range. Furthermore, the relatively small size, low 
+weight, and lack of hazardous payload (fuel) when compared to conventional manned 
+aircraft make the AgEagle a lowerrisk alternative to conventional manned aircraft 
+designed to perform similar missions. 
+ 
+
+5. Evidence of Airworthiness
+Critical to our exemption application is evidence of the airworthiness of the AgEagle 
+robotic aircraft solution. Since inception of its proprietary airframe design, AgEagle, LLC 
+believes that it has shown compliance through a history of flight operations totaling 
+approximately 19,080 operational hours2. Furthermore, the AgEagle solution is a 
+product that is delivered to the customer fully rigged and fight tested. The AgEagle is 
+sold as a complete product solution. Should the AgEagle not be airworthy, then a lack of 
+sales would justify this conclusion and consumers would not continue to purchase the 
+AgEagle. 
+ 
+The confidence of foreign regulatory bodies with respect to regular commercial use of 
+the AgEagle has been already been proven specifically in Australia. Falcon UAV, the 
+AgEagle retailer for Australia (http://www.falconuav.com.au), has applied for and 
+received a UAV Operator's Certificate from the Australian Civil Aviation Safety Authority 
+("CASA"). Falcon UAV is currently operating the AgEagle commercially under this 
+certificate. Falcon UAV has graciously made this certificate available to Apis who can in 
+turn confidentially provide this document to the FAA for review upon request. 
+
+6. Safety Features
+The criteria set forth in current regulation specify the substantive showings of the safety 
+and fitness of a device for operation to ensure that the FAA has sufficient basis to 
+evaluate the aircraft's safety. The AgEagle has a significant set of automated features 
+provided by DroneDeploy, a San Francisco, Californiabased UAV solutions company 
+that provides a hardware / software solution that ensures safe takeoff, flight and landing 
+in all but extreme conditions. Further details of operation can be found in Appendix C.  
+ 
+
+2 As of Dec 2014, AgEagle staff and customers have performed over 6,360 flights, logging 19,080 hours of 
+flight time with the first generation AgEagle regarding both development and release versions. The current 
+generation product, has achieved over 480 flights and 1,440 hours of flight time globally by AgEagle and its 
+customers. This is a significant amount of flight time collected to understand and refine the AgEagle sUAS 
+as a product. AgEagle, LLC has gone on public record in the form of their own exemption request 
+(FAA201411040001) dated December 29, 2014 stating these flight hours as justification of airworthiness. 
+
+          
+Page 7 of 26 
+
+                                                                                                                               
+
+                                                                                            7852619591 | www.apisremote.com 
+
+Facilitated by the DroneDeploy solution, automated safety functions and 
+safetyenhancing features of the AgEagle include:  
+
+     Automated preflight system performance checks and calibrations 
+     A preflight checklist for the sUAS operator 
+     A onebutton "hit the deck" collision avoidance command which causes the 
+
+         aircraft to drop from its cruising altitude and loiter at 50 feet AGL. 
+     Automated condition and fault detection, warnings, and predefined responses to 
+
+         a number of flight and system conditions including:  
+              High winds with system and user defined safety thresholds  
+              Low battery with system and user defined safety thresholds  
+              High temperature and other hardware safety threshold monitors  
+              An automated return protocol for a lost communication link 
+
+     Predefined responses to flight parameters exceeding the aforementioned safety 
+         thresholds include behavior such as: 
+              Attempting to reestablish radio communication 
+              Returning to the home position to loiter 
+              Returning to the home position to land 
+              Landing at the current position  
+
+     In the case of a lost GPS fix, a nonautomated flight mode is enabled which 
+         allows the operator to provide manual navigation inputs to assist in landing the 
+         vehicle.  
+
+ 
+7. Mandatory Operating Conditions
+The requested exemption would permit the commercial operation of the AgEagle under 
+the following restrictions: 
+
+     Operations will be performed in Class G Airspace. 
+     Operations will be conducted 5 nautical miles outside of medium to large airports
+
+         3. 
+     Operations will be conducted outside of U.S. Military Bases, U.S. National Parks4 
+
+         and posted Temporary Flight Restrictions ("TFRs")5. 
+     Operations will be performed at an altitude of no more than 400 foot above 
+
+         ground level ("AGL") at a target speed of 40 knots. 
+     Operations will be performed on private property with documented permission of 
+
+         the landowner and / or land operator. 
+
+3 As illustrated on the World VFR map on http://skyvector.com  
+4 As illustrated on https://www.mapbox.com/drone/nofly/# 
+5 As Illustrated on the FAA TFR Map http://tfr.faa.gov/tfr_map_ims/html/index.html 
+
+          
+Page 8 of 26 
+
+                                                                                                                               
+
+                                                                                            7852619591 | www.apisremote.com 
+
+     The aircraft will be operated in the field with both a Pilot In Command ("PIC") and 
+         a Visual Observer ("VO"). 
+
+     The PIC will file a Notice to Airmen ("NOTAM") prior to each flight. 
+     The aircraft will remain within the visual lineofsight of the PIC for the duration of 
+
+         the mission. 
+     For the duration of the mission, the VO will maintain direct voice contact with the 
+
+         PIC. 
+     Operations will occur during daytime hours under visual meteorological 
+
+         conditions. 
+     The aircraft will be operated in sparsely populated areas away from large 
+
+         assemblies of people and heavily trafficked roads. 
+     Any additional State and / or Local permits will be obtained prior to operation. 
+ 
+
+8. Operator Requirements
+Given the comprehensive set of safety features builtin to the AgEagle, Apis proposes 
+the following operator requirements in good faith with the safety of the National Airspace 
+being paramount:  
+  
+
+     The operator must have successfully completed and passed the FAA private pilot 
+         written examination or an FAA recognized equivalent. 
+
+     The operator must have completed a training program authorized by AgEagle, 
+         LLC for operation and maintenance of the AgEagle robotic aircraft system. 
+
+ 
+Apis notes that the FAA has found that the aforementioned safety factors have been 
+sufficient to allow operation of sUASs by operators in the context of operations pursuant 
+to public COAs6. The FAA has the statutory authority to grant exemptions to the 
+requirements for and privileges associated with the grant of airmen's certificates per 49 
+USC 44701 (f).  
+ 
+
+     In addition, the operator will submit to a security background check equivalent to 
+         that currently required to obtain a private pilot's license. The FAA has made it 
+         clear in preceding exemptions7 approved for operations in the same context that 
+         this type of security screening is critical to safety of the National Airspace but as 
+         no official security screening procedures currently exist in the context of sUAS 
+
+6 See Federal Aviation Administration, Notice N8900.227, Unmanned Aircraft Systems (UAS) Operational 
+Approval, July 30, 2013. 
+7 See exemption approvals 11110, and 11136 
+
+          
+Page 9 of 26 
+
+                                                                                                                               
+
+                                                                                            7852619591 | www.apisremote.com 
+
+         operation, Apis is willing to work with a representative from the FAA and / or the 
+         Department of Homeland Security directly to ensure this qualification is met. 
+ 
+ 
+
+9. Appendices, Attachments, and Confidentiality of Proprietary Documents
+Pursuant to this exemption from the FARs set forth above, Appendix A outlines the 
+specifics of this request in detail so as to illustrate the applicant's understanding of their 
+impact with regards to the safety of the National Airspace. As a steward of such, Apis 
+has provided contextual detail pertaining to the operation of Apis Remote Sensing 
+Systems as a company in Appendix B as well as the technical specifications of our 
+preferred sUAS platform, the AgEagle in Appendix C. 
+ 
+Additional documents pertaining to the specific maintenance and operation of the 
+AgEagle are proprietary to Apis and AgEagle LLC. As such, Apis requests that such 
+documents be held as confidential by the FAA as such time as said documents are 
+provided to the FAA for review. Apis can and will provide these documents on request, 
+but asks for a direct communication with an FAA liaison to provide the materials as 
+such.   
+
+10. Summary & Conclusion
+To summarize, we the applicant seek an exemption outlined in specific detail in 
+Appendix A for the allowance of market research and commercial operations of a small 
+unmanned vehicle in surveying, mapping and inspection operations.  Approval of the 
+exemption allowing market research and commercial operations of the AgEagle for 
+surveying, mapping and inspection operations will enhance safety by reducing risk. 
+Conventional aerial survey and inspection operations using manned aircraft involve 
+significantly larger aerial vehicles compared to the AgEagle, carry a significant quantity 
+of combustible fuels, and require an onboard multiperson crew in piloting, observation, 
+and survey roles. These operations require air transit to and from the location of the 
+activity, and said operations have the propensity to include congested environments in 
+close proximity to physical obstacles and / or presence of the general public. By 
+contrast, the AgEagle weighs 7.5 lbs including payloads, uses a battery for power, does 
+not require use of the National Airspace in transit to and from the area of activity, 
+removes the need for airborne pilot and crew, and poses less risk to people and 
+infrastructure on the ground.  
+  
+
+          
+Page 10 of 26 
+
+                                                                                                                               
+
+                                                                                            7852619591 | www.apisremote.com 
+
+In the context of air safety and national security, the AgEagle possesses the following 
+attributes: 
+
+     A small to modest overall size consisting of a 56 inch wingspan and a weight of 
+         7.5 lbs. 
+
+     A limited range governed by an approximate 40 minute operational time with 
+         flyaway failsafes. 
+
+     Load carrying capacity limited to a single sensor approximate to the size of a 
+         consumer pointandshoot camera. 
+
+     A cruising speed of approximately 35 knots governed by software failsafes. 
+     Multiple failsafe measures inherent to the design of the system implemented to 
+
+         ensure safe flight, recovery and incident mitigation. 
+     No payload of explosives, combustibles, or other dangerous materials, such as 
+
+         fuel. 
+Given the aforementioned attributes in comparison to existing aircraft currently in 
+operation in the national airspace, the AgEagle poses little if any threat to national 
+security by the grant of the requested exemptions. 
+  
+The operation of the AgEagle for market research, surveying, mapping and inspection 
+operations in accordance with the strict conditions outlined above, will provide an 
+equivalent level of safety supporting the grant of the exemptions requested herein, 
+including exempting AgEagle from the airworthiness requirements in Part 21 of 14 CFR.  
+  
+The satisfaction of the criteria set forth in Section 333 of the Reform Act (i.e. size, 
+weight, speed, operating capabilities, operation within Visual LineOfSight ("VLOS") 
+and lack of proximity to airports, populated or areas national security) and demonstrated 
+equivalent level of safety as it relates to the requirement for FAA pilot certification, 
+provide adequate if not significant justification for the grant of the requested exemptions 
+allowing Apis commercial operation of the AgEagle in agricultural market research, 
+surveying, mapping and inspection operations.  
+ 
+In conclusion, the safe operation of the AgEagle Robotic Aircraft System is of utmost 
+concern, and safety remains paramount. Apis intends to operate within the spirit of all 
+applicable FAA regulations and will adhere to any further refinements. The operation of 
+sUAS for precision agriculture in remote rural areas can and will be beneficial to the 
+farmers, ranchers and landowners of this nation as Apis operators and observers 
+intend to perpetuate the "safety first" mindset upheld by the FAA, while mitigating all risk 
+to personnel and property both in the air and on the ground.  
+
+          
+Page 11 of 26 
+
+                                                                                                                               
+
+                                                                                            7852619591 | www.apisremote.com 
+
+ 
+Apis understands that the FAA is working diligently to safely integrate small Unmanned 
+Aerial Systems into the National Airspace and as such, requirements for safe 
+operations could be subject to change. That said, Apis is prepared to amend or append 
+this request in order to satisfy the requirements of safe operation as the requirements 
+continue to evolve. Please do not hesitate to contact us concerning any additional 
+requirements or clarification. 
+ 
+With sincere regards, 
+ 
+ 
+
+                            
+ 
+Beau Dealy 
+Managing Partner 
+Apis Remote Sensing Systems, LLC 
+ 
+
+          
+Page 12 of 26 
+
+                                                                                                                               
+
+                                                                                            7852619591 | www.apisremote.com 
+
+Appendix A
+
+Overview of Regulations from which Exemption is Requested; Including
+Explanation in the Context of Appropriateness, Safety, and Benefit to the
+Public Interest.
+
+ 
+The regulations from which the exemption is requested are as follows: 
+
+14 C.F.R. Part 21, Subpart H & 91.203(a)(1):Airworthiness Certificates
+As the FAA continues the work of developing airworthiness standards for unmanned 
+aerial systems, Apis seeks an exemption from the requirements for a certificate of 
+airworthiness as set forth in 14 C.F.R. 91.203(a)(1) and in turn 14 C.F.R. Part 21. Apis 
+asks for consideration of these exemptions in the context of the size, weight, speed, 
+operational capability and the use of said system outside of the operational range of 
+airports and away from populated areas. The AgEagle Robotic Aircraft System weighs 
+approximately 7.5 lbs fully loaded with a wingspan of 56 inches. The AgEagle carries no 
+pilot or passenger, carries no explosive materials or flammable liquid fuels, and 
+operates at a relatively low altitude and slow speed exclusively within confines of private 
+property. Given the small size and weight of the aircraft and the limited operating area 
+associated with its utilization, it is unnecessary to go through the certificate of 
+airworthiness process under Part 21 Subpart H to achieve or exceed current safety 
+levels. Furthermore, these criteria demonstrate that the AgEagle operating under the 
+conditions proposed herein, will be at least as safe, or safer, than a conventional aircraft 
+(fixed wing or rotorcraft) which has been issued an airworthiness certificate.  
+
+14 C.F.R. 45.23(b), 91.9(c) & 91.203(b): Marking of the Aircraft
+Regulation 45.23(b) provides that the registration number of the aircraft must be on 
+display prefixed by the Roman capital letter "N". The regulation also states that lettering 
+identifying the aircraft as in the "limited," "restricted," "lightsport," "experimental," or 
+"provisional" category must be displayed near each entrance to the cabin, cockpit, or 
+pilot station, in letters not less than 2 inches nor more than 6 inches high. In 
+conjunction, regulation 91.9(c) provides that no person may operate a U.S.registered 
+civil aircraft unless that aircraft is identified in accordance with part 45.  
+ 
+Given that the AgEagle has no cabin, cockpit, or pilot station, attempting to mark such 
+areas would be futile. Furthermore, it is unclear at the time of writing this request as to 
+whether or not the AgEagle would actually fit into one of the aforementioned categories 
+as official marking systems for sUAS have not yet been established for operations 
+
+          
+Page 13 of 26 
+
+                                                                                                                               
+
+                                                                                            7852619591 | www.apisremote.com 
+
+inside the NAS. That said, Apis is prepared to register and display said registration 
+number for any AgEagle flying under exemption if the decision regarding this exemption 
+requires it. Should display of a registration number be required on the aircraft, Apis will 
+make every effort to display the lettering in a high visibility format on the aircraft in lieu 
+of specific guidelines governing registration numbers in the context of sUAS.  
+As pursuant to regulation 91.9(c), Apis believes that our cooperation with marking 
+regulations that can reasonably be complied with in the context of the exemption should 
+fulfill this requirement.  
+As pursuant to regulation 91.203(b), the relative size size and therefore lack of any 
+cabin or cockpit to hold personnel or passengers is nonexistent. As such, it would be 
+impossible to display any airworthiness certificate for concerned passengers and crew 
+even if the certificate was indeed required. Apis recognizes that the FAA has 
+determined in prior exemptions that relief from 91.203(b) is not necessary allowing 
+relevant materials to be kept accessible to the operator in compliance with the 
+regulations. However, Apis respectfully requests that that the record pertinent to this 
+exemption state as much in the order of due process so as to ensure a meaningful level 
+of compliance. As such, Apis will require for operation of the AgEagle that all relevant 
+materials for operation be kept in a location accessible to the operator in a manner 
+befitting current and future regulations. 
+ 
+14 C.F.R. 61.113(a) & (b) & 14 C.F.R. 61.133(a): Private Pilot Privileges and
+Limitations Pilot in Command Commercial Pilot Privileges and Limitations.
+Section 61.113(a) & (b) limit private pilots to noncommercial operations. Unlike a 
+conventional aircraft that carries a pilot, passengers, and cargo, the AgEagle in this 
+case is remotely controlled with no passengers or property of others on board. Section 
+61.133(a) requires an individual with a commercial pilot's license to be pilot in command 
+of an aircraft for compensation or hire. AgEagle respectfully proposes that operator 
+requirements should take into account the characteristics of the particular sUAS. The 
+AgEagle has a high degree of preprogrammed control and various builtin technical 
+capabilities through the DroneDeploy solution that strictly limit the potential for operation 
+outside of the operating conditions set forth in the exemption application.  
+  
+The AgEagle operates by way of an alldigital software platform powered by 
+DroneDeploy with advanced features previously available only to larger and more 
+complex unmanned aircraft. Automated features and advanced failsafe controls enable 
+safe, reliable operation, as well as advanced networking capabilities and system 
+extensibility.  As such, nearly all operations in the context of what is traditionally handled 
+
+          
+Page 14 of 26 
+
+                                                                                                                               
+
+                                                                                            7852619591 | www.apisremote.com 
+
+and/or monitored by a pilot, either private or commercial, are handled by the autopilot 
+under the auspice of the DroneDeploy system. Such features include: 
+ 
+
+     Intelligent fault handling The system automatically detects potential issues with 
+         configurable automated response behavior such as a "return home" and landing 
+         routines. 
+
+     Automatic preflight checks The system selfcalibrates all of its sensors and 
+         performs diagnostics prior to takeoff to check for errors and nofly situations.  
+
+     Nofly zones: The system has the ability to set up nofly zones visually and using 
+         existing flight charts. 
+
+     Selfmonitoring Battery levels, GPS fix, radio connection(s), inflight wind speeds, 
+         and numerous other system and environmental conditions are continuously 
+         monitored, logged, and automatically handled by the system. In the event of a 
+         fault, the aircraft will perform the appropriate predefined fatal or nonfatal 
+         condition response.  
+
+     Battery communication: Flight time and battery minutes are available at all times 
+         to the operator. The aircraft will return to the mission point of origin and land 
+         automatically if the operational limits are reached.  
+
+  
+As a matter of principle as well as a matter of good business, flight safety is of utmost 
+priority. The AgEagle achieves this via the DroneDeploy system presented to the 
+operator in a means that limits the operators' ability to operate outside of acceptable 
+safety parameters regardless of operating environment or project. The AgEagle offers 
+superior safety over manned aircraft by removing the operator from presence onboard 
+the aircraft and those potentially dangerous situations subsequently associated therein.  
+ 
+Given the aforementioned operational and safety features, Apis proposes that operators 
+of the AgEagle should not be required to hold a commercial or private pilot certification. 
+In lieu, operators will: 
+
+     Successfully complete and pass the FAA private pilot written examination or an 
+         FAA recognized equivalent. 
+
+     Complete a training program authorized by AgEagle, LLC for operation and 
+         maintenance of the AgEagle robotic aircraft system. 
+
+     Submit to a security background check equivalent to that currently required to 
+         obtain a private pilot's license.  
+
+          
+Page 15 of 26 
+
+                                                                                                                               
+
+                                                                                            7852619591 | www.apisremote.com 
+
+Apis notes that the FAA has found that equivalent safety factors have permitted 
+operation of sUAS by operators with similar qualifications in the case of operations 
+pursuant to public COAs where the mandatory operating conditions specified above are 
+present. See Federal Aviation Administration, Notice N8900.227, Unmanned Aircraft 
+Systems (UAS) Operational Approval, at p. 2021 (July 30, 2013). The FAA has the 
+statutory authority, granted at 49 U.S.C.44701(f) to waive the pilot requirements for 
+commercial operations.  
+  
+Given these conditions and restrictions, an equivalent level of safety can and will be 
+provided by those in operation of the AgEagle without a private pilot's certificate or a 
+commercial pilot's certificate, under the conditions set forth herein.  
+  
+The risks associated with the operation of the AgEagle (given its size, speed, 
+operational capabilities, and lack of combustible fuel) are so diminished from the level of 
+risk associated with private pilot operations or commercial operations contemplated by 
+Part 61 with conventional aircraft (fixed wing or rotorcraft), that allowing operations of 
+the sUAS as set forth above meets or exceeds the present level of safety provided 
+under 14 C.F.R.  61.113(a) & (b) and does not rise to the level of requiring a commercial 
+pilot to operate the aircraft under  61.133(a).  
+
+14 C.F.R. 91.7(a): Civil Aircraft Airworthiness.
+This regulation requires that no person may operate a civil aircraft unless it is in 
+airworthy condition. Should the exemption be granted to allow commercial operation of 
+the AgEagle without an airworthiness certificate, no standard will exist for airworthiness 
+of the AgEagle. Given the precedence for exemption issuances of sUAS lacking a 
+proper airworthiness certificate8, Apis respectfully requests that the AgEagle be 
+considered in a similar context as an equivalent (if not higher level) of safety will be 
+achieved by a combination of the fault monitoring of the DroneDeploy system, as well 
+as compliance with all flight protocols contained within the AgEagle operational 
+instructions before, during, and after each flight. 
+
+14 C.F.R. 91.9(b)(2): Civil Aircraft Flight Manual in the Aircraft.
+The regulation provides that no person may operate a U.S.registered civil aircraft,  
+
+         "For which an Airplane or Rotorcraft Flight Manual is not required by 21.5 of this 
+         chapter, unless there is available in the aircraft a current approved Airplane or 
+
+8 See Exemption Approvals 11066, 11136, 11166 et. al. 
+
+          
+Page 16 of 26 
+
+                                                                                                                               
+
+                                                                                            7852619591 | www.apisremote.com 
+
+         Rotorcraft Flight Manual, approved manual material, markings, and placards, or 
+         any combination thereof." 
+           
+Given the size and configuration of the AgEagle, it has no ability or place to carry such a 
+flight manual on the aircraft, not only because there is no pilot on board, but because 
+there is no room or capacity to carry such an item on the aircraft.  
+  
+The equivalent level of safety will be achieved by keeping the operational instructions at 
+the ground control point where the operator in control of the AgEagle will have 
+immediate access to it. Apis recognizes that the FAA has determined that relief from 
+this sections is not necessary allowing relevant materials to be kept accessible to the 
+operator in compliance with the regulations. As in the context of 14 CFR 91.203(b), Apis 
+prefers to have this matter documented in the order of due process so as to ensure a 
+meaningful level of compliance. As mentioned prior, Apis will require for operation of the 
+AgEagle that all relevant materials for operation be kept in a location accessible to the 
+operator in compliance with current and future regulations. 
+ 
+14 C.F.R. 91.119(c): Minimum Safe Altitudes
+Section 91.119 establishes safe altitudes for operation of civil aircraft. Specifically, 
+91.119(c) limits aircraft flying over areas other than congested areas to an altitude of 
+500 feet above the surface, except over open water or sparsely populated areas. In 
+those cases, the aircraft may not be operated closer than 500 feet to any person, 
+vessel, vehicle, or structure.  
+  
+As established in this request for exemption, Apis will never operate the AgEagle higher 
+than 400 feet AGL. It will not be operated in congested or populated areas. Flights 
+conducted with the AgEagle will only take place on property with authorization of the the 
+landowner and / or operator. Because sUAS aerial survey, mapping and inspection 
+work can be, and is most often the case, accomplished at relatively low altitudes 
+including altitudes less than 500 feet AGL, an exemption from Section 91.119(c) is 
+needed.  
+  
+Despite flying at lower altitudes than more conventional manned aircraft, an equivalent 
+level of safety will be achieved given the size, weight, speed, and material with which 
+the AgEagle is built.  The AgEagle is not an aircraft built for transit rather it is a survey 
+tool that is transported via other means to its intended area of operation. Because of the 
+inherent "fenced in" nature of its missions, that is, over land where affected individuals 
+
+          
+Page 17 of 26 
+
+                                                                                                                               
+
+                                                                                            7852619591 | www.apisremote.com 
+
+will be aware of the flights, Apis feels that a lower altitude operation actually provides a 
+higher level of safety. Compared to aerial survey operations conducted with aircraft or 
+rotorcraft weighing far more than 7.5 lbs and carrying flammable fuel, any risk 
+associated with these operations will be far less than those currently allowed with a 
+conventional aircraft operating at or below 500 feet AGL. Moreover, the low altitude 
+operations of the AgEagle will maintain a separation between such sUAS operations 
+and the operations of conventional aircraft that must comply with Section 91.119.  
+ 
+14 C.F.R. 91.151(a): Fuel Requirements for Flight in VFR Conditions
+This regulation prohibits an individual from beginning "a flight in an airplane under VFR 
+conditions unless (considering wind and forecast weather conditions) there is enough 
+fuel to fly to the first point of intended landing and, assuming normal cruising speed ­ 
+(1) During the day, to fly after that for at least 30 minutes or (2) At night, to fly after that 
+for at least 45 minutes." The AgEagle batteries provide approximately 40 minutes of 
+powered flight. Apis would only conduct flight during the day and without an exemption 
+from 14 CFR 91.151, daytime flights would be limited to approximately 10 minutes in 
+length. Given the limitations on its proposed operations and the location of those 
+proposed operations, a longer time frame for flight in daylight VFR conditions is 
+reasonable.  
+ 
+Operating the AgEagle without 30 minutes of reserve power does not beget the type of 
+risks that Section 91.151(a) was meant to prevent given the size and speed at which the 
+UAS operates, as well as given the fact that Apis intends to maintain a VLOS with the 
+AgEagle at all times. The fact that it carries no pilot, passenger, or cargo also enhances 
+its safety. Additionally, limiting AgEagle flights to 10 minutes would greatly reduce the 
+utility of the aircraft. In the unlikely event that the AgEagle should run out of power, it 
+would simply land on ground on which Apis had already been granted flight over by the 
+landowner and / or operator. Given its weight and construction material, the risks are 
+less than contemplated by the current regulation. 
+ 
+Apis believes that an equivalent level of safety can be achieved by maintaining 10 
+minutes of reserve power, which, allowing 30 minutes of flight time, would be more than 
+adequate to return the AgEagle to its planned landing zone from anywhere in its VLOS 
+operating area. Similar exemptions have been granted to others in similar situations, 
+including Exemptions 2689, 5745, 10650, and 11110.  
+
+          
+Page 18 of 26 
+
+                                                              
+
+                7852619591 | www.apisremote.com 
+
+14 C.F.R. 91.405(a), 14 C.F.R. 91.407(a)(1), 14 C.F.R. 91.409(a)(2) & 14 C.F.R.
+91.417(a): Maintenance and Inspections Relating Thereto
+Section 91.405(a) requires that an aircraft operator or owner "shall have that aircraft 
+inspected as prescribed in subpart E of this part and shall between required inspections, 
+except as provided in paragraph (c) of this section, have discrepancies repaired as 
+prescribed in part 43 of this chapter ..." Section 91.407 similarly makes reference to 
+requirements in Part 43 Section 91.409(a)(2) requires an annual inspection for the 
+issuance of an airworthiness certificate. Section 91.417(a) requires the owner or 
+operator to keep records showing certain maintenance work that has been 
+accomplished by certificated mechanics, under Part 43, or licensed pilots and records of 
+approval of the aircraft for return to service. 
+ 
+Maintenance of the AgEagle is performed by the operator in accordance with the 
+instruction materials provided with the AgEagle per the guidance given during training 
+from AgEagle LLC and / or one of its authorized training affiliates. When instruction and 
+training is followed by the aircraft operator, an equivalent level of safety can be 
+achieved in lieu of the aforementioned maintenance and inspection criteria set forth in 
+the C.F.R. because  the inherent properties of the AgEagle itself including: 
+
+     The relatively small size and mechanical simplicity of the AgEagle 
+     Its lack of cargo, crew, or passengers 
+     Any AgEagle mission will not extend past a predetermined area for which the 
+
+         operator has permission to conduct flight operations. 
+     The operator is trained to inspect all maintenance points on the aircraft prior to 
+
+         flight. 
+ 
+As a trained operator is an individual with a greater level of familiarity and 
+understanding with the AgEagle platform, it follows that this person is also best suited to 
+maintain the airworthiness of the aircraft in a context of a level of safety equivalent to 
+that presently mandated. 
+ 
+All criteria pertinent to flight operations are logged by the DroneDeploy system and are 
+available for immediate review by the operator. The DroneDeploy system also conducts 
+a diagnostic inspection of hardware and software systems prior to launch, with any 
+inspection failure being sufficient to suspend flight operations until the problem is 
+resolved. 
+ 
+
+          
+Page 19 of 26 
+
+                                                                                                                               
+
+                                                                                            7852619591 | www.apisremote.com 
+
+The AgEagle airframe is unique among its peers in that the manufacturer reinforces an 
+otherwise standard foam airframe with sturdy and lightweight composite materials thus 
+significantly reducing overall wearandtear to the airframe. If such an event occurs 
+during operation that the airframe is rendered unsuitable for flight, the aircraft with take 
+appropriate action to compensate to keep the aircraft airborne or terminate the mission 
+in the context of either a Fatal or NonFatal Conditioned response (see Appendix C 
+"Reliability", "Fault Tolerance" and "Emergency Procedures and System Failures").   
+  
+
+          
+Page 20 of 26 
+
+                                                                                                                               
+
+                                                                                            7852619591 | www.apisremote.com 
+
+Appendix B
+
+Company Profile
+Apis Remote Sensing Systems, LLC ("Apis") is a United States company located in 
+Hays, Kansas. Apis was founded on a mission to provide secondtonone small 
+Unmanned Aerial Systems ("sUAS") sales, support, and service enriched by scientific 
+insight to its customers in and around Western Kansas. The founding partners have 
+over twentyfive years combined experience in Geographic Information Systems (GIS) 
+and remote sensing and our staff has a strong background in providing technology 
+solutions to industries that insist on abovethebar customer service, such as local 
+government and public safety. Our knowledge of the acquisition methods, sensors, and 
+deliverables associated with GIS, paired with a drive to provide insightful customer 
+service puts Apis in a unique industry position to facilitate the adoption of sUAS within 
+agriculture and the rural business market as a whole. Apis continues to work with the 
+agribusiness industry, cooperatives, local universities and the rural public at large to 
+promote a positive "people first" view of unmanned systems. 
+ 
+Apis is the exclusive Western Kansas dealer for the AgEagle Robotic Aircraft System 
+engineered and manufactured by AgEagle, LLC a United States Company located in 
+Neodesha, Kansas. Apis is an authorized training center for AgEagle and licenses 
+documentation and training materials to AgEagle for their customers internationally. 
+According to the manufacturer, AgEagle systems have a demonstrated track record with 
+respect to safety, logging over 19,080 operational hours while surveying approximately 
+1,272,000 acres to date without incident to property or person. 
+ 
+
+          
+Page 21 of 26 
+
+                                                                                                                               
+
+                                                                                            7852619591 | www.apisremote.com 
+
+Appendix C
+
+Technical Specifications of the AgEagle Robotic Aircraft System9
+
+The AgEagle can carry payloads up to 2.5 lbs and flies at a maximum wind threshold of 
+43 mph for sustained winds and wind gusts up to 55 mph. To this point, the AgEagle 
+employs a system that automatically compensates for wind rather than relying on the 
+operator to determine the impact of the wind with respect to the mission dynamic at the 
+altitude the system is flying. The end result is a system capable of gathering high quality 
+aerial survey data at higher wind thresholds a trait that is imperative for many aerial 
+inspection operations.  
+  
+The AgEagle has an operational range of up to 20 Statute miles (17.38 Nautical Miles) 
+however, software failsafes actively restrict the functional range to safe and appropriate 
+distances inline with Visual LineOfSight ("VLOS") operation.  
+  
+All flight operations are GPS controlled, making the system stable, steady, and easy to 
+navigate. At any point that the operator is not explicitly in command of the system, the 
+AgEagle automatically holds its position via GPS navigation (i.e. GPS hold for reliable 
+location loiter). Image acquisition is also GPS controlled allowing for a sophisticated 
+level of camera control that is also straightforward to operate. The flight control system 
+employs GPS positioning and navigation as well as a variety of sensors including 
+rangefinding, barometric pressure, temperature, and wind speed to ensure a higher 
+level of reliability with respect to other sUAS in its class.  
+  
+Powered by the DroneDeploy autopilot enhancement solution, the AgEagle can be 
+operated in both semi and fully autonomous flight modes. In semiautonomous mode, 
+the operator controls flight operations in realtime via a map interface. For fully 
+autonomous flights, preplanned flight paths are programmed via the same map 
+interface before the mission. All waypoints, landing zone points and flight area 
+dimensions are all entered before the mission and stored completely in nonvolatile 
+aircraft memory, ensuring the AgEagle operates only within specified preprogrammed 
+parameters.  
+  
+The AgEagle includes many advanced safety features that make it a practical choice in 
+the context of rural operation. Builtin intelligent fault handling allows the AgEagle to 
+
+9 Technical Specifications of the AgEagle have been provided to Apis by the manufacturer upon their 
+request. 
+
+          
+Page 22 of 26 
+
+                                                                                                                               
+
+                                                                                            7852619591 | www.apisremote.com 
+
+detect a system fault while in the air, and to automatically fly back to its takeoff location 
+and land. Faults that can be detected include: 
+
+     Loss of radio communication 
+     Exceeded preset wind thresholds 
+     Low battery levels 
+     Operatordefined "no fly zones" as well as maximum flight ranges and altitudes 
+In addition, the AgEagle must pass a series of automated flight checks initiated by the 
+DroneDeploy system prior to launch to ensure the system is flightready.  
+  
+The AgEagle can be operated entirely by a touchscreen or pointandclick mapbased 
+interface. Beyond safety, the responsibility of the operator is to program the aircraft with 
+the proper navigation parameters, and allow the the autopilot system to control the 
+operational minutiae. Data used for mission planning can be saved and flight plans can 
+be reused where appropriate.  
+  
+The body of documentation provided for instruction and operation of the AgEagle can 
+be made available upon request10.  
+ 
+
+1. Physical Characteristics of the AgEagle
+     Dimensions: 
+              56 inch wingspan 
+              26 inch length 
+              6.5 inch height 
+     Weight (without payload, including batteries): 7 pounds 
+     Weight with sensor payload (takeoff weight): 7.5 pounds 
+     Fuel: Not Applicable 
+     Propulsion System  
+              Engine: One electric brushless DC motor.  
+              Power: Selfcontained, highduration Lithium Polymer ("LiPo") batteries 
+                  monitored by the onboard autopilot via realtime data feeds to ensure 
+                  maximum flight duration and subsystem safety processes.  
+              Charging: Battery charger included with the system monitors and balances 
+                  current loads. Can be performed via standard wall outlet (AC), or using 
+                  DC power.  
+     Landing: "Belly landing" utilizing a polycarbonate protective "skid" plate.  
+
+10 See Application Section 9: "Appendices, Attachments, and Confidentiality of Proprietary Documents" 
+
+          
+Page 23 of 26 
+
+                                                                                                                               
+
+                                                                                            7852619591 | www.apisremote.com 
+
+  
+
+2. Performance Characteristics of the AgEagle
+     Maximum Altitude: 400 ft AGL 
+     Maximum Endurance: 40 minutes 
+     Maximum Range: Visual Line Of Sight ("VLOS") 
+     Weather Minimums: Not Applicable 
+     Winds Maximum: 40 mph (sustained) 
+     Minimum ceiling: VLOS 
+     Minimum visibility: VLOS 
+     Icing conditions: None (Nofly) 
+     Precipitation: None (Nofly) 
+
+ 
+3. Maintenance
+The AgEagle performs automatic preflight checks utilizing the DroneDeploy system. The 
+failure of any preflight check will prevent takeoff. As an added measure of safety per 
+instruction materials and training provided by AgEagle or one of its adjuncts, a qualified 
+operator is to perform a visual inspection of the AgEagle prior to each flight.  
+The preflight checklist includes (but is certainly not limited to):  
+
+      Visual inspection of the airframe, servos, and control surfaces  
+      Visual inspection of motor mount and propeller integrity  
+      Check charge of all batteries (aerial vehicle, command station, radio repeater 
+
+         station)  
+Besides the tasks associated directly with the aforementioned preflight checks, the 
+AgEagle is nearly maintenance free.  
+
+4. Reliability
+The system is designed for maximum reliability to maintain consistent performance over 
+the product lifespan. Components experiencing routine wear include motors, batteries, 
+and servos. Battery and motor conditions are monitored by the DroneDeploy system 
+with deviations reported instantaneously to the operator.  
+  
+Contact with other objects sometimes during takeoff, but usually during landing may 
+cause servos, pushrods, or controlling surfaces to become damaged. Damaged 
+components are likely to be detected during the full visual inspection of the airframe 
+performed before each flight. Likewise, structural damage affecting flight characteristics 
+will be detected not only visually, but by onboard sensors via the DroneDeploy system 
+as well. 
+
+          
+Page 24 of 26 
+
+                                                                                                                               
+
+                                                                                            7852619591 | www.apisremote.com 
+
+  
+The AgEagle detects numerous conditions which may make flying unsafe, including (but 
+not limited to) reduced GPS accuracy, magnetic anomalies, low battery charge, battery 
+cell imbalances, and temperature fluctuations. Automatic preflight checks prevent the 
+AgEagle from taking off if such conditions are present or, if the condition is detected 
+during flight, the system will trigger a Fatal Conditioned Response ("FCR") with respect 
+to aforementioned fault detection system.  
+
+5. Fault Tolerance
+The key feature of the AgEagle fault tolerance is its mechanical simplicity. The AgEagle 
+airframe is of a flying wing configuration with one electric motor and two elevon 
+controlling surfaces. Failure of the motor or any component failure detectable by the 
+system will be reported to the operator and will cause the AgEagle to perform an FCR 
+or NonFatal Conditioned Response ("NFCR"), depending on the type of failure.  
+
+6. Emergency Procedures and System Failures
+The AgEagle has extensive failure detection and handling capabilities. All failures are 
+deeded to be either FCR or NFCR. 
+  
+
+     Sensor Failure: Failure of onboard flight instruments/sensors will degrade 
+         performance and will result in either a FCR or a NFCR, depending on their 
+         severity. If the AgEagle becomes unstable due to sensor failure, the autopilot 
+         system will trigger an appropriate landing response to prevent a flyaway 
+         condition.  
+
+     Motor Failure: Given the inherent fixedwing airframe design, the AgEagle can be 
+         safely landed in the event of motor failure. Such an event would be handled as 
+         an FCR or NFCR depending on severity and the autopilot system will trigger an 
+         appropriate landing response. 
+
+     Power Failure: A complete battery failure causing power loss to the sUAS will 
+         result in significantly degraded flight performance. However, given the minimal 
+         power consumption necessary to maintain radio link, autopilot, and control 
+         surface operation, a motor failure is more likely to occur before a complete power 
+         failure. 
+
+     Airframe Failure: If airframe is damaged in ways that impacts flight 
+         characteristics, the AgEagle will behave similar to as if an onboard flight 
+         instrument failed.  
+
+     Navigation System Failure: In a navigation system failure, degraded GPS will 
+         result in an FCR or NFCR depending on the severity of the failure(s).  
+
+          
+Page 25 of 26 
+
+                                                                                                                               
+
+                                                                                            7852619591 | www.apisremote.com 
+
+     Low Battery Condition: Operator will be alerted of a low battery condition and the 
+         aircraft will initiate landing procedures as soon as able.  
+
+     VLOS Loss: All flight operations will be conducted with the AgEagle within visual 
+         sight of the Pilot in Command ("PIC"). If the PIC's view becomes obstructed and 
+         VLOS is lost, the PIC may instruct the AgEagle to loiter in its current position until 
+         VLOS is reestablished, or to return to the predetermined landing site, or to land 
+         at the current position.  
+
+     Security: The system and communication links are encrypted by proprietary 
+         software provided by the DroneDeploy system.  
+
+7. Command and Control Systems
+The AgEagle Ground Control Station ("GCS") powered by DroneDeploy allows the 
+operator simultaneous control over aircraft and sensor payload. Interface control allows 
+for quick navigation and data entry while the display screen provides all essential flight 
+data to the operator. Telemetry data is transmitted to the command station at least once 
+per second.  
+
+Displayed on GCS:
+     Position  
+     Navigation Route  
+     Aircraft Identifier 
+     Position  
+     Altitude  
+     Heading  
+     North Seeking Arrow  
+     Range to Target  
+     Calculated target position  
+     Date / time  
+     Sensor heading and orientation relative to aircraft  
+
+Onboard Flight Instruments
+     The AgEagle is equipped with an Inertial Navigation System including: 
+              3axis gyroscope 
+              3axis magnetometer 
+              GPS receiver 
+              Static pressure sensor 
+              Rangefinding sensor for precision AGL altitude measurement 
+
+          
+Page 26 of 26 
+
+                                                                                                                               
+
+                                                                                            7852619591 | www.apisremote.com 
+
+     The AgEagle is equipped onboard computer systems to monitor (sensors, 
+         battery, etc.), control (speeds, altitude, position, etc.), and communicate (control, 
+         telemetry, etc.).  
+
+     The AgEagle can operate autonomously it does not require any input from 
+         groundbased equipment, or from the operator to remain airborne.  
+
+     Frequency Allocations: 900 MHz, 2.4 GHz, 5.8 GHz, 1,700 ­ 2,100 Mhz, custom  
+     A flight termination link to prevent a "fly away" or other potentially dangerous 
+
+         situations is available to the operator at the GCS.  
+     The AgEagle is launched autonomously via catapult. A Landing Zone ("LZ") is 
+
+         designated by the operator prior to takeoff and identified in the GCS software. 
+         Landing is handled autonomously at the cue of the operator after the completion 
+         of the survey mission. Between instruction sets from the operator, the AgEagle is 
+         programmed to autonomously loiter over the LZ until further operator instruction 
+         is provided.  
+     Maps specific to navigation and mission planning are provided via the Drone 
+         Deploy system, which are overlaid with GPS positional data from the AgEagle.  
+     Navigation waypoints can be created before and during flight operation. Over the 
+         course of normal operation, waypoints are combined to create a scan 
+         patterntype flight pattern conducive to collecting nominal aerial survey data.  
+     The AgEagle combines the input from a multitude of sensors to create 
+         redundancies in the system. Even though the data from all sensors is required for 
+         optimal system performance, a single sensor malfunction is likely to result in 
+         degraded performance and possibly an FCR or NFCR, rather than leading to a 
+         catastrophic failure.  
+
+          
+

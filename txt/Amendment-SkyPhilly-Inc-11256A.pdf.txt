@@ -1,0 +1,154 @@
+July 21, 2015
+
+                         Exemption No. 11256A
+                         Regulatory Docket No. FAA-2014-0908
+
+Mr. Paul Caskey
+VP of Technology
+SkyPhilly, Inc.
+4059 Steeplechase Drive
+Collegeville, PA 19426
+
+Dear Mr. Caskey:
+
+This letter is to inform you that we have granted your petition for an amendment. It explains
+the basis for our decision, describes its effect, and lists any changes to the original conditions
+and limitations.
+
+By letter dated May 5, 2015, you petitioned the Federal Aviation Administration (FAA) on
+behalf of SkyPhilly, Inc. (hereinafter petitioner or operator) for an amendment to your current
+exemption. That exemption from §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a),
+61.315(a), 91.7(a), 91.119(c), 91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and
+(2), and 91.417(a) and (b) of Title 14, Code of Federal Regulations (14 CFR) allows the
+petitioner to operate a UAS to perform aerial data collection. You requested an amendment
+to add the SkyPhilly M1, and to conduct closed-set motion picture and television filming1.
+
+In your petition, you indicate that there has been no change in the conditions and reasons
+relative to public interest and safety that were the basis for granting the original exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested amendment to the exemption would not set a
+precedent, and any delay in acting on this petition would be detrimental to the petitioner. The
+unmanned aircraft authorized in the original grant are comparable in type, size, weight, speed
+and operating capabilities to those in this petition.
+
+1 The petitioner also requested relief from Condition No. 15 regarding nighttime operations. At this time, the
+FAA is unable to approve operations during night hours, as defined in 14 CFR § 1.1. All operations must be
+conducted under visual meteorological conditions (VMC). Flights under special visual flight rules (SVFR) are
+not authorized. When the FAA completes its review, we will proceed accordingly, and no further action will be
+required by the petitioner.
+                                                                                                 2
+
+Airworthiness Certification
+
+In accordance with the statutory criteria provided in Section 333 of Public Law 112-95 in
+reference to 49 U.S.C. § 44704, and in consideration of the size, weight, speed, and limited
+operating area associated with the aircraft and its operation, the Secretary of Transportation
+has determined that this aircraft meets the conditions of Section 333. Therefore, the FAA
+finds that relief from 14 CFR part 21, Certification procedures for products and parts,
+Subpart H--Airworthiness Certificates, and any associated noise certification and testing
+requirements of part 36, is not necessary.
+
+Our Decision
+
+The FAA has determined that the justification for the issuance of Exemption No. 11256
+remains valid and is in the public interest. Therefore, under the authority contained
+in 49 U.S.C. 106(f), 40113, and 44701, delegated to me by the Administrator, the operator is
+granted an amendment to add closed-set motion picture and television filming, and new
+aircraft to its UAS operations.
+
+The operator shall add this amendment to its original exemption.
+
+Conditions and Limitations
+
+All conditions and limitations within Grant of Exemption No. 11256 remain in effect except
+as follows. Condition No. 1 has been updated to reflect the additional aircraft, and Condition
+No. 2 has been updated to permit closed-set motion picture and television filming.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+1. Operations authorized by this grant of exemption are limited to the DJI S900 and
+    SkyPhilly M1 when weighing less than 55 pounds including payload. Proposed
+    operations of any other aircraft will require a new petition or a petition to amend this
+    exemption.
+
+2. Operations for the purpose of closed-set motion picture and television filming are
+    permitted.
+                                                                                     3
+
+This exemption terminates on April 30, 2017, unless sooner superseded or rescinded.
+
+Sincerely,
+
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+SkyPhilly, Inc.
+
+Request for amendments to FAA 333 UAS exemption
+Exemption No. 11256
+Regulatory Docket No. FAA-2014-0908
+
+Contact:
+Paul Caskey
+VP Technology
+SkyPhilly, Inc.
+215.680.2808
+
+www.SkyPhilly.com
+To whom it may concern:
+Date: May 5, 2015
+
+Re: Exemption No. 11256
+          Regulatory Docket No. FAA-2014-0908
+
+SkyPhilly is requesting amendments to their existing 333 exemption as listed and described below.
+The purpose for the amendments is to be able to offer the services as listed in the existing 333
+exemption. Each amendment will serve to increase the functionality and usefulness of UASs and the
+increased functionality will serve to create safer working environments in the industries in which they
+are deployed.
+
+1. Additional Aircraft
+
+SkyPhilly would like to add an additional UAS to the existing exemption. The new craft is a quadrotor
+designed in-house using commercial off-the-shelf (COTS) components.
+
+Manufacturer: SkyPhilly
+
+Model No.: M1,
+
+By using a collection of best-in-class components, SkyPhilly was able to construct a very reliable
+vehicle, with additional features and longer air time than the DJI S-900 listed on the 333 exemption.
+The M1 meets all weight, speed and other criteria spelled out in the 333 exemption.
+
+The M1 UAS was designed primarily for agricultural applications. The proprietary pilot operating
+handbook (POH) will be emailed directly to 333exemptions@faa.gov.
+
+2. Relief from restriction #2 for filming in closed set movie or television production
+
+SkyPhilly has extensive video and film production experience and would like to be able to use UASs
+for such purposes as called out in the 333 exemption. It is therefore requesting relief from restriction
+#2 on the 333 exemption for operation in closed set environments for movie and television production.
+
+SkyPhilly's proprietary Motion Picture and Television Flight Operations for Unmanned Aerial Systems
+will be mailed directly directly to 333exemptions@faa.gov.
+
+3. Relief from restriction #15 prohibiting night flight.
+
+SkyPhilly would like the ability to perform roof inspections on large commercial buildings with flat
+roofs. In warmer seasons/climates, spots of a roof that are leaking have collected water that retains
+the day's heat for a few hours longer than the rest of the roof that has not been compromised. The
+traditional method for locating leaks, or wet spots on large flat roofs is to use a handheld thermal
+imaging camera shortly after nightfall and have the technician walk the roof to identify leaks. While
+many safety features are in place, every year, several people become distracted and accidentally
+walk off an edge in the dark resulting in serious injury or death.
+
+This is a very dangerous job that commercial roofing companies would like to make much safer and
+even save lives by using UASs. Since the thermal imaging needs to be done shortly after sunset, and
+after several hours does not yield results, SkyPhilly is requesting only partial relief from limitation #15
+and seeking permission to operate up to 4 hours after sunset. SkyPhilly will still maintain visual flight
+rules and only fly under VFR conditions.
+

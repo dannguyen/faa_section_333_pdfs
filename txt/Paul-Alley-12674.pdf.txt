@@ -1,0 +1,798 @@
+August 31, 2015
+
+                                                           Exemption No. 12674
+                                                           Regulatory Docket No. FAA-2015-0938
+
+Mr. Paul Alley
+12512 Southeast 72nd Street
+Newcastle, WA 98056
+
+Dear Mr. Alley:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letters posted to the public docket on April 9 and July 14, 2015, you petitioned the Federal
+Aviation Administration (FAA). You requested to operate an unmanned aircraft system
+(UAS) to conduct real estate photography and aerial mapping.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner are the 3D Robotics Aero-M and DJI Phantom 2.
+
+The petitioner requested relief from 14 CFR part 21, Certification procedures for products
+and parts, Subpart H--Airworthiness Certificates. In accordance with the statutory criteria
+provided in Section 333 of Public Law 112-95 in reference to 49 U.S.C. § 44704, and in
+consideration of the size, weight, speed, and limited operating area associated with the
+aircraft and its operation, the Secretary of Transportation has determined that this aircraft
+meets the conditions of Section 333. Therefore, the FAA finds that the requested relief from
+                                                                                                                 2
+
+14 CFR part 21, Certification procedures for products and parts, Subpart H--Airworthiness
+Certificates, and any associated noise certification and testing requirements of part 36, is
+not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection1. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+· They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+· The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+· A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, Mr. Paul Alley is granted an exemption from 14 CFR
+§§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a), 91.7(a), 91.119(c), 91.121,
+91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a) and (b), to the
+extent necessary to allow the petitioner to operate a UAS to perform aerial data collection.
+This exemption is subject to the conditions and limitations listed below.
+
+Conditions and Limitations
+
+In this grant of exemption, Mr. Paul Alley is hereafter referred to as the operator.
+
+1 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                                                 3
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+    1. Operations authorized by this grant of exemption are limited to the 3D Robotics Aero-
+         M and DJI Phantom 2 when weighing less than 55 pounds including payload.
+         Proposed operations of any other aircraft will require a new petition or a petition to
+         amend this exemption.
+
+    2. Operations for the purpose of closed-set motion picture and television filming are
+         not permitted.
+
+    3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+         exemption holder may use either groundspeed or calibrated airspeed to determine
+         compliance with the 87 knot speed restriction. In no case will the UA be operated at
+         airspeeds greater than the maximum UA operating airspeed recommended by the
+         aircraft manufacturer.
+
+    4. The UA must be operated at an altitude of no more than 400 feet above ground level
+         (AGL). Altitude must be reported in feet AGL.
+
+    5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+         This requires the PIC to be able to use human vision unaided by any device other than
+         corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+         U.S. driver's license.
+
+    6. All operations must utilize a visual observer (VO). The UA must be operated within
+         the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+         to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+         capability. The VO and PIC must be able to communicate verbally at all times;
+         electronic messaging or texting is not permitted during flight operations. The PIC
+         must be designated before the flight and cannot transfer his or her designation for the
+         duration of the flight. The PIC must ensure that the VO can perform the duties
+         required of the VO.
+
+    7. This exemption and all documents needed to operate the UAS and conduct its
+         operations in accordance with the conditions and limitations stated in this grant of
+         exemption, are hereinafter referred to as the operating documents. The operating
+         documents must be accessible during UAS operations and made available to the
+         Administrator upon request. If a discrepancy exists between the conditions and
+         limitations in this exemption and the procedures outlined in the operating documents,
+         the conditions and limitations herein take precedence and must be followed.
+         Otherwise, the operator must follow the procedures as outlined in its operating
+         documents. The operator may update or revise its operating documents. It is the
+         operator's responsibility to track such revisions and present updated and revised
+                                                                                                            4
+
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+                                                                                                            5
+
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+    exemption holder may apply for a new or amended COA if it intends to conduct
+    operations that cannot be conducted under the terms of the attached COA.
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+    be as large as practicable.
+                                                                                                               6
+
+   23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+       any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+       PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+       These documents must be made available to the Administrator or any law enforcement
+       official upon request.
+
+   24. The UA must remain clear and give way to all manned aviation operations and
+       activities at all times.
+
+   25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+   26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+       persons, vessels, vehicles, and structures unless:
+          a. Barriers or structures are present that sufficiently protect nonparticipating persons
+             from the UA and/or debris in the event of an accident. The operator must ensure
+             that nonparticipating persons remain under such protection. If a situation arises
+             where nonparticipating persons leave such protection and are within 500 feet of
+             the UA, flight operations must cease immediately in a manner ensuring the safety
+             of nonparticipating persons; and
+          b. The owner/controller of any vessels, vehicles or structures has granted permission
+             for operating closer to those objects and the PIC has made a safety assessment of
+             the risk of operating closer to those objects and determined that it does not
+             present an undue hazard.
+
+       The PIC, VO, operator trainees or essential persons are not considered
+       nonparticipating persons under this exemption.
+
+   27. All operations shall be conducted over private or controlled-access property with
+       permission from the property owner/controller or authorized representative.
+       Permission from property owner/controller or authorized representative will be
+       obtained for each flight to be conducted.
+
+   28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+       boundaries of the operational area as defined by the applicable COA must be reported
+       to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+       reported to the National Transportation Safety Board (NTSB) per instructions
+       contained on the NTSB Web site: www.ntsb.gov.
+
+If this exemption permits operations for the purpose of closed-set motion picture and
+television filming and production, the following additional conditions and limitations apply.
+
+   29. The operator must have a motion picture and television operations manual (MPTOM)
+       as documented in this grant of exemption.
+                                                                                                                 7
+
+    30. At least 3 days before aerial filming, the operator of the UAS affected by this
+         exemption must submit a written Plan of Activities to the local Flight Standards
+         District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+         notification may be waived with the concurrence of the FSDO. The plan of activities
+         must include at least the following:
+           a. Dates and times for all flights;
+           b. Name and phone number of the operator for the UAS aerial filming conducted
+              under this grant of exemption;
+           c. Name and phone number of the person responsible for the on-scene operation of
+              the UAS;
+           d. Make, model, and serial or N-Number of UAS to be used;
+           e. Name and certificate number of UAS PICs involved in the aerial filming;
+           f. A statement that the operator has obtained permission from property owners
+              and/or local officials to conduct the filming production event; the list of those
+              who gave permission must be made available to the inspector upon request;
+           g. Signature of exemption holder or representative; and
+           h. A description of the flight activity, including maps or diagrams of any area, city,
+              town, county, and/or state over which filming will be conducted and the altitudes
+              essential to accomplish the operation.
+
+    31. Flight operations may be conducted closer than 500 feet from participating persons
+         consenting to be involved and necessary for the filming production, as specified in the
+         exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                                                 8
+This exemption terminates on September 30, 2017, unless sooner superseded or rescinded.
+Sincerely,
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+                                                                                                                Paul Alley 
+                                                                                                12512 SE 72nd Street 
+
+                                                                                                         Newcastle, WA 
+                                                                                                                     98056 
+
+ 
+Federal Aviation Administration 
+ 
+U.S. Department of Transportation, Docket Operations  
+West Building Ground Floor, Room W12140 1200  
+New Jersey Avenue, SE  
+Washington, DC  
+20590 
+ 
+Dear Sir, Madam, 
+ 
+My name is Paul Alley and I am writing to request an exemption from the FAA which would 
+allow me to apply for, and receive, certificates of operations (COA's) which would allow me to 
+operate Unmanned Aerial Systems (UAS) within the National Airspace System (NAS) for the 
+purposes of commercial real estate photography, and aerial mapping.  While a blanket 
+authorization has been provided for operations below 200', this petition seeks authorization to 
+apply for COAs covering flights up to 400' AGL for the purposes of aerial mapping and 
+surveying. 
+ 
+I've held a private pilot certificate and 3rd class medical for 7 years, and flown gliders for the 
+last 20 years, during which time I have planned and safely completed many flights in and 
+around complex airspace in a variety of locations throughout the contiguous United States. 
+Interacting with ATC, studying airspace, and working within the rules to maximize the safety of 
+my operations has been paramount throughout my flying career, which has led to a flawless 
+safety record. 
+ 
+Besides my close work with real estate teams to provide photography services, I have worked 
+on GIS and aerial photography applications for a local and federal agencies, and was on a 
+team that provided realtime ground point analysis during an aerial survey of the Grand 
+Canyon in 2008 for the U.S. Geological Survey.  I have been flying radio controlled aircraft 
+since my childhood, and have gained hundreds of hours of experience with a variety of 
+quadcopters, including the ones included in this petition.  All of this experience has given me 
+a deep and profound respect for the safety issues involved with operating aircraft, whether 
+manned or unmanned, within the NAS. 
+ 
+Therefore, I believe an exemption to the following regulations would allow me to safely enter, 
+and look for ways to expand, the unmanned aerial systems (uas) industry in order to serve a 
+growing demand for aerial imagery and videography for real estate, public agencies, and 
+other potential consumers: 
+ 
+Part 21 Airworthiness Certification 21, Subpart H Certification procedures for products and 
+parts, Airworthiness Certificates  
+Part 61 Certification: Pilots, Light Instructors, and Ground Instructors  
+Part 91 General Operating and Flight Rules  
+
+         91.103(b)(2) Preflight action  
+         91.105 Flight crewmembers at stations  
+         91.109 Flight instruction  
+         91.119 Minimum safe altitudes  
+         91.121 Altimeter settings  
+         91.151 Fuel requirements for flights in VFR conditions  
+         91.405 Maintenance required  
+         91.407 Operation after maintenance  
+         91.409 Inspections  
+         91.417 Maintenance records 
+ 
+1. How the proposed UAS operation will be safely conducted to minimize risk to the 
+NAS or to persons and property on the ground.  
+ 
+Prior to, and during, flight operations, the UAS crew will ensure the following: 
+ 
+     Provide appropriate notice to ATC and/or FSDO when planning UAS operations 
+     Check for NOTAMs or other temporary flight restrictions 
+     Conduct extensive flight planning in and around the area of operations using approved 
+         FAA sectional maps, and other sources as needed. 
+     Provide ample notice to residents or other people may be in the vicinity of UAS 
+         operations so they can take appropriate safety precautions (e.g. have adjacent 
+         neighbors remain indoors or away from area during operations). 
+     Ensure the UAS maintains a safe elevation and distance from people and property to 
+         reduce the risk of harm in the event of a UAS failure or crash. 
+     Provide signage and/or road traffic control in the vicinity of operations when necessary 
+     Prior to operations, PIC conducts thorough, systematic preflight procedure using 
+         checklists 
+     PIC will maintain logs for both flight time and UAS maintenance 
+     After each assembly, the PIC will thoroughly inspect the UAS and ensure all systems 
+         are working properly. 
+     UAS operation will be limited to daylight hours 
+     UAS operation will be limited to VFR conditions 
+     UAS operation will be limited to wind gusts less than 5 knots 
+     During operations, both participating and crew or nonparticipating observers within 
+         the operational area will wear OSHA approved hard hats.   
+     During operations, participating crew (the spotter and PIC) will maintain handsfree 
+         radio communications when not in voice range 
+ 
+The petitioner requests exemptions for two distinct UAS systems, one of which will serve as a 
+fixed wing platform for aerial mapping and surveying, while the other will serve as a multirotor 
+platform for real estate and architectural photography: 
+ 
+3D Robotics AeroM (Primary fixed wing UAS for aerial mapping) 
+
+     Design: Single electric motor fixed wing 
+     Weight: 6.8 lbs (3kg) 
+     Payload capacity: 1.1 lbs (500g) 
+     Radio Frequency: 925 mHz 
+     Payload: Canon S100 camera 
+     Safety features: 
+
+               Autohome feature for loss of radio, gps, or VLOS 
+               Autodeployed parachute 
+ 
+DJI Phantom II (primary multirotor UAS for Real Estate Imaging) 
+     Design: 4 rotor 
+     Weight: 1kg 
+     Maximum load: 2.5kg (1.5kg payload) 
+     Radio Frequency: 925 mHz 
+     Payload: Sony Alpha 6000 camera with 20mm lens 
+     Safety Features: 
+               Autohome feature for loss of radio, gps, or VLOS 
+ 
+ 
+2. Procedures such as preflight inspections, maintenance, and repair, to ensure that 
+the UAS is in a condition for safe flight. 
+ 
+Preflight: Prior to flying any certified machine the pilot in command (pic) would follow a 
+preflight checklist to ensure all flight, control, and safety systems are in proper working order 
+(see "Appendix A: Preflight Checklist" at the end of this document). 
+ 
+Inspections: Thorough inspections of flight, control, and safety systems will be conducted prior 
+to flight operations `session', which may include one or more individual flights.  Essentially 
+each time the UAS is assembled, disassembled, transported, or modified in any way the PIC 
+will conduct a thorough inspection and ensure all systems are in working order. 
+ 
+Maintenance: UAS will be maintained by the PIC, or sent to the manufacturer if complex 
+maintenance is necessary.  If maintenance defects are found prior to flight operations, those 
+defects will be fixed before any UAS flights commence.  All manufacturer mechanical, 
+firmware, and software updates will be incorporated into the UAS as soon as they are 
+released and made available to UAS owners. 
+ 
+Repair:  Standard repairs will be performed by the petitioner/PIC if able.  If repairs require 
+expertise beyond that of the petitioner, the UAS or broken part(s) will be sent to a repair 
+specialist or factory for repair or replacement. 
+ 
+Any maintenance or repair activities will be entered into the UAS logbook. 
+ 
+3. Radio Frequency (RF) spectrum used for control of the UAS and associated 
+equipment that is part of the UAS (i.e., sensors, cameras, etc.) 
+ 
+Flight Operations RF: 2.4 GHz ISM (industry standard FCC compliance) 
+Camera/Gimbal Operations RF: 2.4 GHz ISM (industry standard FCC compliance) 
+ 
+4. Qualifications required of any PIC(s) who will be directly responsible for the 
+operation of the UAS, or anyone acting as an observer in the flight operation 
+ 
+PIC  The PIC responsible for the overall operation of the UAS covered in this petition, Paul 
+Alley, holds a current Private Pilot certificate, has over two hundred hours of flight time in a 
+single engine Cessna, and has several hundred hours of UAS flying experience.  The PIC will 
+maintain a minimum of 20 hours of flight time in any particular UAS being utilized as part of 
+this petition.  The primary role of the PIC is to ensure the overall safety of crew and public 
+throughout UAS operations, ensure all FAA regulations are followed, and serve as the pilot in 
+command of the UAS during commercial operations covered in this petition. 
+ 
+Observer  The primary role of the observer is to ensure the area of operations remains safe 
+and clear throughout the flight, and also to assist with identifying any potential flight hazards 
+or mechanical issues.  The observer and the PIC will maintain radio communications when 
+out of voice range.  The observer will advise the PIC of potential hazards to avoid, or if 
+conditions in the area of operations have changed such that continuing the flight would be 
+unsafe. 
+ 
+5. Medical standards and certification of the PIC(s) directly responsible for the 
+operation of the UAS 
+ 
+The PIC of any UAS utilized within this exemption will maintain a valid, current, 3rd Class 
+Medical Certificate. 
+ 
+6. Description of intended UAS operation(s) 
+ 
+The UAS operations pertaining to this exemption request are intended to serve the aerial 
+imaging needs of residential and commercial real estate agents, and agencies, urban, 
+suburban, and rural communities.  A typical aerial imaging session would consist of one or 
+more flights in which images are captured from various angles, elevations, and headings 
+surrounding the property being imaged.  These operations may include any or all of the 
+following activities: 
+ 
+
+     Flight durations of 5 to 25 minutes 
+     Flight elevations of 0' to 200' AGL 
+     Flights in residential and/or commercially zoned (congested) areas 
+     Circular or grid pattern flights to ensure coverage of properties being imaged 
+ 
+Petitioners should describe how the proposed operation(s) would not adversely affect safety, 
+or how they would provide a level of safety at least equivalent to that provided by the rule from 
+which exemption is sought.  
+ 
+In order to maximize safe operations of UAS, the PIC will: 
+ 
+     Provide appropriate notice to ATC and/or FSDO when planning UAS operations 
+     Check for NOTAMs or other temporary flight restrictions 
+     Conduct extensive flight planning in and around the area of operations using approved 
+
+         FAA sectional maps, and other sources as needed. 
+     Provide ample notice to residents or other people may be in the vicinity of UAS 
+
+         operations so they can take appropriate safety precautions (e.g. have adjacent 
+         neighbors remain indoors or away from area during operations). 
+     Ensure the UAS maintains a safe elevation and distance from people and property to 
+         reduce the risk of harm in the event of a UAS failure or crash. 
+     Provide signage and/or road traffic control in the vicinity of operations 
+     Prior to operations, PIC will test the failsafe `return home' feature that automatically 
+         routes the UAS back to it's takeoff location when radio transmissions are disrupted. 
+     Only operate UAS which utilize automated landing/stabilization features 
+     PIC will maintain logs for both flight time and UAS maintenance 
+     Before each flight, the PIC will conduct thorough preflight inspections, using a 
+         checklist. 
+     After each assembly, the PIC will thoroughly inspect the UAS and ensure all systems 
+         are working properly. 
+     UAS operation will be limited to daylight hours 
+     UAS operation will be limited to VFR conditions 
+     UAS operation will be limited to wind gusts less than 5 knots 
+     During operations, both participating and crew or nonparticipating observers within 
+         the operational area will wear OSHA approved hard hats.   
+     During operations, participating crew (the spotter and PIC) will maintain handsfree 
+         radio communications when not in voice range 
+     The PIC will never exceed a maximum distance of 300' between the UAS and himself. 
+ 
+Plans to implement clearly defined operational borders and procedures to ensure public 
+safety, which includes persons and property both in the air and on the ground: 
+ 
+Ground: 
+Areas of operation will vary based on the location of the real estate being imaged.  As such, 
+operational borders will be defined by street signage starting at least one hour before 
+operations begin, and verbal/written communication with neighbors at least 24 hours in 
+advance of operations.  Operations will not extend beyond 100' horizontally from the property 
+being imaged, so anyone who lives or maintain property within that area will be notified prior 
+to operations. 
+ 
+Air: 
+PIC will relay planned area of operations to appropriate ATC authorities prior to operations, 
+and ensure any current NOTAMs are being complied with.  Prior to operations PIC will also 
+compare proposed areas of operation with FAA sectional maps to ensure no air space 
+conflicts or restrictions exist.  Additionally, both UAS platforms listed in this petition have built 
+in nofly zone capability which blocks flights in the vicinity of airports and other restricted 
+areas. 
+ 
+7. Proposed maximum operating speed and altitude, and describe minimum flight 
+visibility and distance from clouds for their intended operation(s). Description of 
+potential hazards and safety mitigations associated with these proposed conditions. 
+ 
+Any UAS operated as part of this exemption wil adhere to the following flight limitations 
+ 
+
+     Maximum operating speed: 30 kmh 
+               While this is the top speed of UAS covered in this exemption request, the 
+                   actual operational speeds ideal for aerial imaging are in the 07 knot range. 
+               The PIC will keep all operations under 10 knots in congested residential areas 
+
+     Maximum operating altitude: 400' 
+               The ideal operating altitude for most aerial imaging needs is under 200' AGL. 
+               Imaging rural areas for mapping purposes could require flights up to 400' AGL. 
+               UAS operations will not occur in locations where the required altitude for 
+                   capturing real estate images or aerial mapping imagery interferes with air traffic 
+                   or violates airspace restrictions, without prior consent from ATC authorities. 
+               The operational altitude for any aerial imaging session will be conveyed and 
+                   cleared with appropriate ATC authorities. 
+
+     Minimum flight visibility: 3 miles 
+               As the PIC will never be further than 400 ft from the UAS during commercial 
+                   operations, the PIC will be able to safely operate UAS when flight visibility is 
+                   restricted to at least three miles. 
+
+     Minimum distance from clouds: 500 ft below, 2000 ft horizontal 
+               This exemption would not require operations in close proximity to clouds, 
+                   beyond that which is defined for VFR Class E operations. 
+
+ 
+8. Description of characteristics of the area of intended operation(s) and the associated 
+potential hazards 
+ 
+Areas of intended operations can be any of the following: 
+
+     Residential areas and neighborhoods  specifically within 100' of the boundary of the 
+         property for which imagery is being collected 
+
+     Commercially zoned areas specifically within 100' of the boundary of the property for 
+         which imagery is being collected 
+
+     Rural (uncongested) commercial/residential areas 
+ 
+By nature, properties involved with residential and commercial real estate have the potential 
+of being within a congested area containing people and/or property.  However, the following 
+precautions will be taken to minimize the risk to people or property in the area of UAS 
+operations: 
+ 
+
+     Visual signage in and around the area of operations, starting at least one hour prior to 
+         operations 
+
+     Written or verbal communication with neighboring residents and/or businesses to 
+         announce when and where flight operations will be taking place, and recommended 
+         ways to minimize danger to the public and property (parking cars in garage, keeping 
+         bystanders away from the area of operations, etc.) 
+
+     Flights will be planned in such a way to minimize the risk to neighboring properties and 
+         people (avoiding areas where piloting errors, mechanical malfunctions, or any other 
+         unexpected decent could lead to harm or property damage). 
+
+ 
+The PIC and spotter will stay alert for changing conditions in the area of operations.  If 
+anything in the area of operations becomes unsafe for completing a flight (e.g. a child runs 
+into the front yard of a property being photographed), the UAS will be landed in a safe 
+location, away from the emerging hazard, and operations discontinued until the area of 
+operations can once again be cleared for safe flight. 
+ 
+9. Petitioners should describe if they intend to operate in the proximity of any airports 
+ 
+Petitioner does not intend to operate in the vicinity of any airports, or seek future approval to 
+do so. 
+ 
+10. Description of how the UAS will be operated within visual lineofsight (VLOS), in 
+accordance with the statutory mandate under Section 333(b)(1) 
+ 
+PIC will maintain VLOS throughout the entire flight.  If multiple photographic angles are 
+necessary, which would block the view of the UAS from the PIC, the PIC will land the UAS 
+and move to a position which provides VLOS to be maintained throughout the entire flight. 
+Operations will occur during the day, and adhere to the VFR visibility and clearance 
+minimums defined for class E airspace (10 miles, 500' below clouds, 2000' horizontal cloud 
+clearance). 
+ 
+Additionally, both UAS models requested for operations under this petition have "autohome" 
+capabilities which allow the operator to send a "home" command to the UAS in the event that 
+visual contact is lost, which will instruct the UAS to fly to it's starting position and land safely. 
+ 
+11. Description of procedures for conducting a preflight safety risk assessment to 
+determine that the UAS is in a condition for safe flight (14 CFR § 91.7(b)) and that the 
+planned operation can be completed safely: 
+ 
+UAS Condition: 
+
+     Payload (camera/gimbal) securely attached 
+     Propellers smooth and clear of any defects 
+     Propellers attached to correct motor drives 
+     Propeller arms straight, clear of any defects 
+     Controller system engaged, connected 
+     UAS batteries fully charged 
+     Controller batteries fully charged 
+     Home location marked 
+     UAS trimmed neutral 
+ 
+Operational Area Condition:  
+     Conduct a physical `walkaround' the area of operations to ensure people and property 
+
+         are not at risk. 
+     Consult the appropriate FAA sectional chart to determine if there are any flight 
+
+         restrictions for the area of operations 
+     Determine whether any active NOTAMs affect planned UAS flight operations 
+     Check current weather conditions and shortterm forecasts to ensure weather 
+
+         conditions are conducive to safe UAS operations 
+     Ensure spotter and other required personnel are ready 
+ 
+12. Protocol for coordinating with a Flight Standards District Office (FSDO) in the event 
+that operations would require notification ­ such as motion picture and television 
+filming, or pipeline and powerline patrol. 
+ 
+In the event that coordination with FSDOs is necessary (which is unlikely for the context of 
+aerial real estate photography as areas of operations are mostly constrained to a small area), 
+the PIC will contact/notify the relevant FSDO office.  For operations based in the primary 
+service area in and around the greater Puget Sound area, the following FSDO will be 
+consulted for any activities which necessitate coordination with ATC. 
+ 
+1601 Lind Avenue SW, Suite 260  
+Renton, WA 98057  
+(425) 2272813 
+ 
+ 
+  
+Appendix A: Preflight Checklist 
+ 
+Airspace: 
+ 
+
+    1) Airspace clear  visual check 
+    2) TFRs and NOTAMs  checked? 
+    3) Airport vicinity  checked? 
+ 
+Environment: 
+ 
+    1) People clear of operations area 
+    2) Property clear of operations area 
+    3) Road and/or walkway signage visible 
+    4) Spotter ready  radio check 
+    5) Wind  gusts < 5 knots 
+ 
+Aircraft: 
+ 
+    1) Rotor arms and major components secured  
+    2) Signs of cracks, damage  visual check 
+    3) Battery secured & charged 
+    4) Wires/controller secured 
+    5) Payload secured 
+    6) Props attached securely, free of damage 
+ 
+Controller: 
+ 
+    1) Home location programmed 
+    2) Batteries charged 
+    3) Gimbal control  check 
+    4) Radio to UAS linkage  check 
+ 
+ 
+ 
+                                                                                                                   Paul Alley 
+                                                                                                  12512 SE 72nd Street 
+
+                                                                                                            Newcastle, WA 
+                                                                                                                        98056 
+
+ 
+Federal Aviation Administration 
+ 
+U.S. Department of Transportation, Docket Operations  
+West Building Ground Floor, Room W12140 1200  
+New Jersey Avenue, SE  
+Washington, DC  
+20590 
+ 
+Response to 333 Exemption Request Denial 
+ 
+I received a letter informing me that the FAA is unable to process my request for an exemption 
+from Title 14, Code of Federal Regulations (14 CFR).  The letter stated that in order for my 
+exemption request to be considered further, I must send the following: 
+ 
+
+     The reasons why granting the request would be in the public interest that is, how it 
+         would benefit the public as a whole 
+          
+
+     Any additional information, views, or arguments available to support your request 
+ 
+ 
+Please consider my responses to these items below: 
+ 
+The reasons why granting the request would be in the public interest that is, how it 
+would benefit the public as a whole 
+ 
+The public stands to benefit from this exemption in the following ways: 
+ 
+
+     Providing public agencies with a lower cost, safer alternative to collecting aerial imagery 
+         used in long term monitoring and and GIS analysis of solid waste facilities (dumps) and 
+         other large capital projects. 
+
+     Providing services which allow public stormwater management agencies to improve 
+         monitoring and compliance with the EPA mandated National Pollutant Discharge 
+         Elimination System by providing realtime aerial imagery and impact analysis after large 
+         storm or flood events. 
+
+     Providing public agencies with tools to monitor compliance of commercial landowners 
+         and leaseholders on public lands with regards to changes in vegetation (loss) and/or 
+         impervious surface management. 
+     Aerial imagery subscription services provided to commercial developers would help them 
+         meet and demonstrate pollution and stormwater management "Best Management 
+         Practices" (BMPs) throughout the construction and bonding transfer stage between 
+         private developers and public entities. 
+
+     All services, equipment, etc would be available for volunteer (free) use for situations 
+         where aerial imagery and/or mapping could assist with emergency management efforts. 
+
+     My services would allow real estate agents and other entities interested in aerial imagery 
+         to seek out a safer, regulated alternative to doityourself hobbyists who may not 
+         consider airspace and other safety related issues, thereby improving airspace safety for 
+         everyone. 
+
+ 
+ 
+Any additional information, views, or arguments available to support your request 
+ 
+
+     As demonstrated by a lifelong professional commitment to public service in the science 
+         and municipal utilities sectors, I am passionate about improving the life of citizens and 
+         the public as a whole.  Leveraging my close relationships with regional municipalities 
+         and utility agencies, in addition to my deep industry knowledge surrounding municipal 
+         stormwater and landfill management, I believe strongly that the professional aerial 
+         imaging services covered under this exemption request would improve the ability of 
+         project, land, and municipal managers to meet or exceed legally mandated compliance 
+         and monitoring objectives, while simultaneously minimizing cost and risk to the public. 
+         Several agencies I have met with have expressed a strong interest in utilizing a legal and 
+         regulated contractor to provide mapping and imagery services via UAS. 
+          
+
+     Since filing my original petition for exemption, I have completed seminar/course from 
+         Forrester University's Department of Civil Engineering: "Drones: Revolutionizing Site 
+         Inspections" (certificate attached).  This course highlighted research and techniques in 
+         the areas of using GPS enabled UAS for mapping and imaging stormwater management 
+         sites in regular compliance monitoring programs, and poststormevent documentation 
+         (attached below). 
+
+ 
+ 
+

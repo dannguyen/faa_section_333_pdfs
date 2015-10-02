@@ -1,0 +1,703 @@
+April 8, 2015
+
+                                      Exemption No. 11290
+                                      Regulatory Docket No. FAA-2014-0474
+
+Mr. Paul Misener
+Vice President, Global Public Policy
+Amazon.com
+440 Terry Avenue North
+Seattle, WA 98109
+
+Dear Mr. Misener:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+The Basis for Our Decision
+
+By letter dated July 9, 2014,1 you petitioned the Federal Aviation Administration (FAA) on
+behalf of Amazon.com (hereinafter petitioner or operator) for an exemption. The exemption
+would allow the petitioner to operate an unmanned aircraft system (UAS) to conduct outdoor
+research and development testing for Prime Air.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+Discussion of Public Comments:
+
+A summary of the petition was published in the Federal Register on August 15, 2014
+(79 FR 48294). Nine comments were received. Four commenters, the Small UAV Coalition
+(Coalition), Association for Unmanned Vehicle System International (AUVSI), the
+
+1 By letter dated December 7, 2014, and posted to the public docket on December 8, 2014, the petitioner
+responded to the FAA's request for information.
+                                                                                                                 2
+
+Unmanned Safety Institute (USI), and an individual supported the petition. Five commenters,
+the Air Line Pilots Association, International (ALPA) the National Agricultural Aviation
+Association (NAAA), and three individuals opposed it.
+
+In support of the petition, the Coalition stated the petitioner has proposed to abide by stronger
+safety measures than hobby and modeler groups operating similar aircraft. The Coalition
+stated that it does not believe that heightened safety measures should be required for the
+petitioner simply because of the commercial nature of its operations. The Coalition urged the
+FAA to adopt an evaluation framework for UAS operations under Section 333 of
+Public Law 112­95 that weighs the relative safety issues and risks of UAS by class and
+operational circumstances, rather than adopting artificial distinctions among unmanned aerial
+vehicles based on commercial and noncommercial operations. The petitioner's UAS pose
+considerably less safety risk than larger UAS used for defense and other aerospace purposes.
+The Coalition asserted that because UAS operations like the petitioner's pose minimal risk to
+safety, they should be subject to minimal and appropriate regulations.
+
+The Coalition noted the FAA is to consider the seven factors2 in Section 333 as a minimum.
+The Coalition stated the petition shows the FAA should consider factors other than those
+specified in Section 333, such as: location, the airspace and altitude of its small UAV
+operations, limited operational site access, two-way communications capability, and pilot
+training and experience. The Coalition maintained that the petitioner's proposed operations
+satisfy the seven factors in Section 333 and include several additional mitigating factors to
+ensure the safety and security of the proposed UAS operations. The Coalition emphasized the
+FAA must evaluate each factor within the context of the petitioner's proposed UAS
+operations.
+
+The Coalition also commented that the FAA should waive or exempt the requirement to hold
+an airman certificate. The Coalition further stated that applying manned aircraft pilot
+certification requirements to small unmanned aircraft is not necessary as a matter of safety,
+and does not make sense as a matter of public policy.
+
+The FAA notes that, as discussed in the grant of exemption to Trimble Navigation Ltd.
+(Exemption No. 11110), neither Section 333, nor the FAA's exemption authority3
+allows the FAA to exempt pilots from the statutory requirement to hold an airman
+certificate as prescribed in 49 U.S.C. § 44711.
+
+AUVSI asserted that Amazon's petition adequately addressed the safety requirements of a
+number of FAA regulations. AUVSI and an individual commenter noted that there is a
+
+2 Section 333(b) of P.L. 112­95 states, in part: "In making the determination under subsection (a), the Secretary
+shall determine, at a minimum-- (1) which types of unmanned aircraft systems, if any, as a result of their size,
+weight, speed, operational capability, proximity to airports and populated areas, and operation within visual line
+of sight do not create a hazard to users of the national airspace system or the public or pose a threat to
+national security; . . . ."
+3 49 U.S.C. § 44701(f)
+                                                                                                 3
+
+compelling need for the FAA to allow Amazon to test their systems to ensure the next
+evolution in package delivery happens in the United States first. They also cited the
+economic benefits of small UAS.
+
+USI supported the petitioner's proposed operating conditions and parameters, including the
+use of highly qualified crews, line of sight operations, and restricted operating areas. USI
+suggested the petitioner adopt a Safety Management System and ensure all crews are trained
+in risk identification and Crew Resource Management. USI encouraged the FAA to work
+with the petitioner to mitigate risks associated with the expansion of the project to a full scale
+network of delivery UAS.
+
+ALPA expressed concern that the request is for an outdoor private test range, proximate to
+densely populated areas with substantial air traffic. ALPA stated that specific details of each
+operation must be coordinated with the FAA, which would result in a considerable increase in
+the FAA's oversight tasks. The FAA notes ALPA's concern and in order to minimize
+potential impact to the NAS, the FAA requires that each exemption holder operate under a
+Certificate of Waiver or Authorization (COA) which addresses airspace considerations,
+including requiring issuance of a NOTAM prior to operations. The FAA recognizes that UAS
+integration will generate new NAS access demand and will review and adjust accordingly.
+
+NAAA commented on pilot qualification stating that UAS operators should be required to
+hold commercial pilot certificate to ensure they are aware of their responsibilities as
+commercial operators in the NAS. They also stated that medical requirements ensure
+operators have the necessary visual and mental acuity to operate a commercial aircraft.
+
+The FAA has reviewed the knowledge and training requirements of sport, recreational, private
+and commercial certificates and concluded that a UAS PIC holding a minimum of a sport
+pilot certificate, and operating under this exemption, would not adversely affect operations in
+the NAS or present a hazard to persons or property on the ground. Additionally, as discussed
+in Exemption No. 11213 (Aeryon Labs, Inc.) the FAA has determined that operating a UAS
+with a U.S. issued driver's license rather than an FAA-issued medical certificate will not
+adversely affect safety.
+
+NAAA noted that its members operate in low-level airspace, and therefore clear low-level
+airspace is vital to the safety of these operators. NAAA stated that seeing and avoiding other
+aircraft and hazardous obstructions is the backbone for agricultural safety, and that
+agricultural pilots depend on pilots of other aircraft to perform their see-and-avoid functions
+to prevent collisions. NAAA believes UAS operations at low altitudes will increase the
+potential for collision with agricultural aircraft.
+
+The FAA recognizes these concerns and has incorporated associated conditions and
+limitations into this exemption, including: (a) a Notice to Airmen (NOTAM) issued for all
+operations; (b) operations conducted within VLOS of the pilot in command (PIC) and the VO;
+and (c) the UAS PIC must always yield right-of-way to manned aircraft.
+                                                                                                                 4
+
+NAAA stated that FAA airworthiness certification should be a requirement for all unmanned
+aircraft to operate within the NAS. NAAA recommended UAS be equipped with ADS­B or
+similar identification and positioning systems, strobe lights, and be painted in high-visibility
+colors. NAAA also recommended UAS be operated strictly within the line-of-sight of the
+ground controller, with the assistance of a VO.
+
+As discussed below, Section 333 of the FAA Modernization and Reform Act of 2012
+authorizes the Secretary of Transportation to determine, considering a number of factors laid
+out in the statute, that an airworthiness certificate is not necessary for certain operations. The
+Secretary has made that determination in this case and therefore the aircraft operated by the
+petitioner will not need to be certificated by the FAA.
+
+Individual commenters noted that the FAA should not permit commercial small UAS
+operations until noise levels are significantly reduced and a Preliminary System Safety
+Assessment in accordance with SAE ARP4761 is completed.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner is an Amazon-manufactured multi-rotor small UAS that
+has been described to the FAA in a confidential filing.
+
+The petitioner requested relief from 14 CFR part 21, Certification procedures for products
+and parts, Subpart H--Airworthiness Certificates. In accordance with the statutory criteria
+provided in Section 333 of Public Law 112-95 in reference to 49 U.S.C. § 44704, and in
+consideration of the size, weight, speed, and limited operating area associated with the
+aircraft and its operation, the Secretary of Transportation has determined that this aircraft
+meets the conditions of Section 333. Therefore, the FAA finds that the requested relief from
+14 CFR part 21, Certification procedures for products and parts, Subpart H--Airworthiness
+Certificates, and any associated noise certification and testing requirements of part 36, is
+not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+                                                                                       5
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+ They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+ The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+ A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, Amazon.com is granted an exemption from
+14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a), 91.7(a), 91.119(c),
+91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a) and (b), to
+the extent necessary to allow the petitioner to operate a UAS to perform aerial data collection.
+This exemption is subject to the conditions and limitations listed below.
+
+Conditions and Limitations
+
+In this grant of exemption, Amazon.com is hereafter referred to as the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+    1. Operations authorized by this grant of exemption are limited to the an Amazon-
+         manufactured multi-rotor small UAS that has been described to the FAA in a
+         confidential filing when weighing less than 55 pounds including payload. Proposed
+         operations of any other aircraft will require a new petition or a petition to amend this
+         exemption.
+
+    2. Operations for the purpose of closed-set motion picture and television filming are
+         not permitted.
+
+    3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+         exemption holder may use either groundspeed or calibrated airspeed to determine
+         compliance with the 87 knot speed restriction. In no case will the UA be operated at
+         airspeeds greater than the maximum UA operating airspeed recommended by the
+         aircraft manufacturer.
+
+    4. The UA must be operated at an altitude of no more than 400 feet above ground level
+         (AGL). Altitude must be reported in feet AGL.
+                                                                                                            6
+
+5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+    This requires the PIC to be able to use human vision unaided by any device other than
+    corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+    U.S. driver's license.
+
+6. All operations must utilize a visual observer (VO). The UA must be operated within
+    the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+    to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+    capability. The VO and PIC must be able to communicate verbally at all times;
+    electronic messaging or texting is not permitted during flight operations. The PIC must
+    be designated before the flight and cannot transfer his or her designation for the
+    duration of the flight. The PIC must ensure that the VO can perform the duties
+    required of the VO.
+
+7. This exemption and all documents needed to operate the UAS and conduct its
+    operations in accordance with the conditions and limitations stated in this grant of
+    exemption, are hereinafter referred to as the operating documents. The operating
+    documents must be accessible during UAS operations and made available to the
+    Administrator upon request. If a discrepancy exists between the conditions and
+    limitations in this exemption and the procedures outlined in the operating documents,
+    the conditions and limitations herein take precedence and must be followed.
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update or
+    revision would affect the basis upon which the FAA granted this exemption, then the
+    operator must petition for an amendment to its grant of exemption. The FAA's UAS
+    Integration Office (AFS-80) may be contacted if questions arise regarding updates or
+    revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g. replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+                                                                                                            7
+
+    potential discrepancies, e.g. inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+                                                                                                            8
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+    exemption holder may apply for a new or amended COA if it intends to conduct
+    operations that cannot be conducted under the terms of the attached COA.
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+    be as large as practicable.
+
+23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+    any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+    PIC at the Ground Control Station of the UAS any time the aircraft is operating. These
+    documents must be made available to the Administrator or any law enforcement
+    official upon request.
+
+24. The UA must remain clear and give way to all manned aviation operations and
+    activities at all times.
+
+25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless:
+      a. Barriers or structures are present that sufficiently protect nonparticipating persons
+          from the UA and/or debris in the event of an accident. The operator must ensure
+          that nonparticipating persons remain under such protection. If a situation arises
+          where nonparticipating persons leave such protection and are within 500 feet of
+          the UA, flight operations must cease immediately in a manner ensuring the safety
+          of nonparticipating persons; and
+      b. The owner/controller of any vessels, vehicles or structures has granted permission
+          for operating closer to those objects and the PIC has made a safety assessment of
+                                                                                           9
+
+            the risk of operating closer to those objects and determined that it does not
+            present an undue hazard.
+
+The PIC, VO, operator trainees or essential persons are not considered
+nonparticipating persons under this exemption.
+
+27. All operations shall be conducted over private or controlled-access property with
+    permission from the property owner/controller or authorized representative.
+    Permission from property owner/controller or authorized representative will be
+    obtained for each flight to be conducted.
+
+28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+    boundaries of the operational area as defined by the applicable COA must be reported
+    to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+    reported to the National Transportation Safety Board (NTSB) per instructions
+    contained on the NTSB Web site: www.ntsb.gov.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+
+This exemption terminates on April 30, 2017, unless sooner superseded or rescinded.
+
+Sincerely,
+
+/s/
+John S. Duncan
+Director, Flight Standards Service
+VIA FDMS 
+ 
+The Honorable Michael P. Huerta 
+Administrator 
+Office of the Administrator 
+Federal Aviation Administration 
+800 Independence Avenue SW 
+Washington, DC 20591 
+ 
+July 9, 2014 
+ 
+
+         Re:  Amazon Petition for Exemption  
+
+Dear Administrator Huerta: 
+
+         At Amazon, our energy comes from inventing on behalf of customers.  Amazon Prime Air, 
+a  new  delivery  system  that  will  get  packages  to  customers  in  30  minutes  or  less  using  aerial 
+vehicles, is one invention we are incredibly passionate about.  We believe customers will love it, 
+and we are committed to making Prime Air available to customers worldwide as soon as we are 
+permitted to do so. 
+
+          
+         Amazon  shares  Congress's  goal  of  getting  small  aerial  vehicles  (a.k.a.,  small  unmanned 
+aircraft systems, or "sUAS") flying commercially in the United States safely and soon.  In the FAA 
+Modernization  and  Reform  Act  of  2012,  Congress  directed  the  FAA  "to  safely  accelerate  the 
+integration  of  civil  unmanned  aircraft  systems  into  the  national  airspace  system"  and,  under 
+Section  333  of  that  law,  gave  the  FAA  power  to  grant  innovators  "expedited  operational 
+authorization" to do so.  By this petition, Amazon is seeking its first such authorization, in order 
+to conduct additional research and development for Prime Air.  
+           
+         We  are  rapidly  experimenting  and  iterating  on  Prime  Air  inside  our  next  generation 
+research and development lab in Seattle.  In the past five months, we have made advancements 
+toward the development of highlyautomated aerial vehicles for Prime Air, including: 
+             
+
+              Testing a range of capabilities for our eighth and ninthgeneration aerial vehicles, 
+                  including  agility,  flight  duration,  redundancy,  and  senseandavoid  sensors  and 
+                  algorithms;  
+
+              Developing  aerial  vehicles  that  travel  over  50  miles  per  hour,  and  will  carry  5
+                  pound payloads, which cover 86% of products sold on Amazon; and 
+The Honorable Michael P. Huerta 
+July 9, 2014 
+Page 2 
+
+              Attracting a growing team of worldrenowned roboticists, scientists, aeronautical 
+                  engineers, remote sensing experts, and a former NASA astronaut. 
+
+         Current FAA rules allow hobbyists and manufacturers of model aircraft wide latitude in 
+flying their sUAS outdoors.  Because Amazon is a commercial enterprise we have been limited to 
+conducting R&D flights indoors or in other countries.  Of course, Amazon would prefer to keep 
+the  focus,  jobs,  and  investment  of  this  important  research  and  development  initiative  in  the 
+United States by conducting private research and development operations outdoors near Seattle 
+­  where  our  next  generation  R&D  lab  and  distinguished  team  of  engineers,  scientists  and 
+aeronautical professionals are located.  In order to allow outdoor R&D testing for Prime Air in the 
+United States, we are submitting this petition for exemption pursuant to Section 333 of the FAA 
+Modernization and Reform Act of 2012.   
+
+         Granting Amazon an exemption to allow R&D testing outdoors in the United States is in 
+the public interest because it advances Congress's goal of getting commercial sUAS flying in the 
+United States safely and soon.  It is a necessary step towards realizing the consumer benefits of 
+Amazon  Prime  Air  and,  at  this  point,  Amazon's  continuing  innovation  in  the  United  States 
+requires the requested exemption for outdoor testing in support of our R&D. 
+
+          
+         Further,  granting  this  request  will  do  nothing  more  than  allow  Amazon  to  do  what 
+thousands of hobbyists and manufacturers of model aircraft do every day, and we will abide by 
+much  stronger  safety  measures  than  currently  required  for  these  groups  by  FAA  policies  and 
+regulations.    In  this  petition  for  exemption,  we  seek  to  engage  in  essentially  the  same  type  of 
+sUAS operation that the FAA would permit us to currently ­ but for the fact that Amazon is not a 
+hobbyist or manufacturer of a model aircraft. 
+ 
+         One  day,  seeing  Amazon  Prime  Air  will  be  as  normal  as  seeing  mail  trucks  on  the  road 
+today, resulting in enormous benefits for consumers across the nation.  We respectfully submit 
+this petition for exemption so that Prime Air can be ready to launch commercial operations as 
+soon as eventually permitted by subsequent FAA action. 
+          
+          
+
+                 Information Supporting this Petition as Specified in 14 C.F.R. §11.81 
+
+    (a) Mailing  address  and  other  contact  information  such  as  a  fax  number,  telephone 
+         number, or email address 
+The Honorable Michael P. Huerta 
+July 9, 2014 
+Page 3 
+
+Amazon.com                                
+Legal Department 
+Re: Prime Air Exemption Petition 
+440 Terry Ave. North 
+Seattle, WA  98109 
+Fax: 2062667010  
+Email: primeairexemption@amazon.com 
+  
+
+(b) The specific section or sections of 14 C.F.R. from which Amazon seeks an exemption 
+
+     14 C.F.R. § 21.191(a) ­ Experimental Certificates   
+          
+
+     14 C.F.R. § 45.23(b) ­  Display of marks; general 
+          
+
+     14 C.F.R. § 91.9(b) ­ Civil aircraft flight manual, marking, and placard requirements 
+          
+
+     14 C.F.R. § 91.203(a) and (b) ­ Civil Aircraft: Certifications Required 
+
+         We believe an exemption from the regulations noted above will be sufficient to conduct 
+the R&D described in this exemption request.  To the extent that FAA may deem it necessary, 
+however, we also request an exemption from any regulations ancillary to the foregoing that may 
+be needed to facilitate the desired operations.1 
+
+(c)  The extent of relief Amazon seeks, and the reason Amazon seeks the relief 
+
+         We seek an exemption from several interrelated provisions of 14 C.F.R. Parts 21, 45 and 
+91 to the extent necessary to engage in private, noncommercial R&D operations of sUAS on our 
+own  property  that  would  otherwise  be  expressly  permitted  if  conducted  by  a  hobbyist  or  a 
+
+         1  Given  the  nature  of  the  specific  relief  sought  by  this  exemption  request  under  14  C.F.R.  §§ 
+21.191(a),  45.23(b),  91.9(b)  and  91.203(a)  and  (b),  and  the  particular  contours  of  our  desired  testing 
+operations  and  proposed  safeguards,  a  request  for  relief  from  any  associated  or  implementing 
+requirements of several related provisions that may otherwise be applicable, such as 14 C.F.R. §§ 91.7(a) 
+(civil  aircraft  airworthiness);  91.103(b)  (preflight  action);  91.109  (flight  instruction);  91.119  (minimum 
+safe  altitudes);  91.121  (altimeter  settings);  91.151(a)  (fuel  requirements  in  VFR  conditions);  91.405(a) 
+(maintenance  required);  91.407(a)(1)  (operation  after  maintenance,  preventative  maintenance, 
+rebuilding, or alteration); 91.409(a)(2) (inspections); and 91.417(a) and (b) (maintenance records), should 
+either be unnecessary as moot or deemed incorporated herein.  Nevertheless, we seek an exemption from 
+any such specific provisions to the extent FAA finds it necessary to grant this request.   
+The Honorable Michael P. Huerta 
+July 9, 2014 
+Page 4 
+
+manufacturer  producing  such  sUAS.2    We  have  detailed,  below,  a  significant  set  of  safeguards 
+that will apply to these R&D operations.  Operations under these safeguards will provide for a 
+level  of  safety  exceeding  the  level  of  safety  required  of  similar  sUAS  operations  that  FAA 
+authorizes currently and without requiring compliance with the regulations from which we seek 
+an  exemption.    Moreover,  our  operations  will  not  "create  a  hazard  to  users  of  the  national 
+airspace system or the public or pose a threat to national security"3 and are thus consistent with 
+the  congressional  mandate  in  Section  333  of  the  FAA  Modernization  and  Reform  Act  of  2012, 
+which  gives  FAA  a  mechanism  to  allow  certain  UAS  to  operate  safely  in  the  national  airspace 
+system.  
+
+         We also intend to use one or more of the six FAAselected test sites and seek a special 
+airworthiness certificate (experimental category) for our sUAS.  However, it would be impractical 
+for Amazon to pursue either one of these avenues as our sole or even primary method of R&D 
+testing at this time, and doing so would unnecessarily tax scarce FAA resources.  For example, it 
+would be an unreasonable burden on both the FAA and Amazon if we were required to apply for 
+a special airworthiness certificate for every sUAS design or testing configuration while we are in 
+R&D and conducting rapid prototyping.   
+
+          
+    (d) The reasons why granting Amazon's request would be in the public interest; that is, how 
+
+         it would benefit the public as a whole  
+
+         As  described  above,  Prime  Air  will  be  a  new  delivery  system  that  is  poised  to  offer 
+enormous consumer benefits by delivering packages to customers in 30 minutes or less.  Please 
+see the introduction for details on how granting this request would benefit the public. 
+
+    (e) The reasons why granting the exemption would not adversely affect safety, or how the 
+         exemption  would  provide  a  level  of  safety  at  least  equal  to  that  provided  by  the  rule 
+         from which Amazon seeks the exemption 
+
+         Our R&D operations will provide for a level of safety that far exceeds the level of safety 
+required  by  FAA  for  hobbyists  and  manufacturers  of  model  aircraft.4    The  following  operating 
+procedures will apply during the R&D testing conducted under this exemption request:
+
+         2  See Pub. L. No. 11295, § 336, 126 Stat. 7778. 
+
+         3  See id., § 333, 126 Stat. 76. 
+
+         4  Because  Amazon's  desired  testing  operations  could  not  possibly  be  conducted  using 
+conventional aircraft, the level of safety required of hobbyists and manufacturers of model aircraft is the 
+appropriate comparison.  
+The Honorable Michael P. Huerta 
+July 9, 2014 
+Page 5 
+
+     The sUAS will (i) have a maximum weight of less than 55  pounds; (ii)  be rotor
+         powered  via  a  battery  source;  and  (iii)  be  U.S.registered  and  display  marks  in 
+         accordance with 14 C.F.R. Part 45, Subpart C.5 
+          
+
+     Our sUAS R&D testing under this exemption will be conducted (i) within the visual 
+         line  of  sight  of  the  operator  and/or  one  or  more  observers;  (ii)  at  less  than  400 
+         feet AGL; and (iii) within Class G airspace.
+          
+
+     The operations will be conducted in a confined area over isolated Amazon private 
+         property located a sufficient distance away from (i) any airport, heliport, seaplane 
+         base,  spaceport  or  other  location  with  aviation  activities;  (ii)  any  densely 
+         populated areas; and (iii) any military or U.S. government installations or airfields.6 
+         
+
+     All  operations  will  remain  within  the  lateral  and  vertical  boundaries  of  the 
+         operating  area,  taking  into  account  all  factors,  including  wind,  gross  weight  and 
+         glide  distances,  that  may  affect  the  capability  of  the  sUAS  to  remain  within  the 
+         airspace  boundary;  moreover,  the  integrity  of  the  operating  area  will  be 
+         reinforced by geofencing,7 including the ceiling height of no more than 400 feet 
+         AGL. 
+         
+
+     Our  sUAS  R&D  testing  under  this  exemption  will  be  conducted  (i)  under  the 
+         supervision of a designated pilot in command (PIC) who has final responsibility for 
+         the operation in accordance with 14 C.F.R. § 91.3 and either (A) holds a current 
+         FAA private pilot certificate issued under 14 C.F.R. Part 61, Subpart E, a higher FAA 
+         pilot  certification,  or  a  FAArecognized  equivalent8  or  (B)  has  completed  FAA 
+         private  pilot  ground  instruction  and  passed  the  FAA  private  pilot  written 
+
+         5 To the extent that FAA determines that the Amazon sUAS operating under this exemption must 
+bear an "experimental" marking, we seek an exemption from 14 C.F.R. § 45.23(b) to accommodate the 
+required markings pursuant to 14 C.F.R. § 45.29(f). 
+
+         6 We will apply separately for the necessary certificates of waiver from the requirements of 14 
+C.F.R. §§ 91.113 and 91.119 and the associated airspace authorization.  Specific details of the operating 
+area,  including  latitude  and  longitude,  and  aeronautical  charts  and/or  photographs,  will  be  provided  in 
+conjunction with that application process.   
+
+         7 Geofencing is a feature in a software program that uses GPS or radio frequency triangulation to 
+define geographical boundaries.  A geofence is a virtual barrier ­ effectively an electronic box in which 
+
+the sUAS will be confined. 
+         8  A  private  pilot  certificate  should  be  sufficient  for  the  PIC  to  conduct  these  research  and 
+
+development sUAS flights.  See 14 C.F.R. § 61.113(b). 
+The Honorable Michael P. Huerta 
+July 9, 2014 
+Page 6 
+
+         examination or FAArecognized equivalent; and (ii) using only operators that have 
+         completed  training  on  the  normal,  abnormal,  and  emergency  procedures  in 
+         specific details and demonstrated proficiency with the sUAS being operated.
+
+     No operator or observer will engage in, nor may an operator or observer permit, 
+         any activity during a critical phase of flight which could distract any operator or 
+         observer from the performance of his/her duties or interfere in any way with the 
+         proper conduct of his/her duties.
+
+     Operators will maintain the sUAS system in a condition for safe operation, and  
+         conduct a preflight inspection prior to each flight so as to ensure that the sUAS, 
+         control  station,  data  link  equipment,  payload,  and  support  equipment  are  in  a 
+         condition for safe operation and in a configuration appropriate for the purpose of 
+         the intended flight. 
+          
+
+     The  operators  and  observers  will  maintain  twoway  communications  with  each 
+         other during all operations; if unable to maintain twoway communications, or if 
+         any  condition  occurs  that  may  otherwise  cause  the  operation  to  be  unsafe,  the 
+         operator will immediately conclude the operation. 
+
+     Each sUAS will safely stop operating and return automatically to a specific location 
+         on Amazon's private property if the communications link is lost.
+
+     For each sUAS, the observer will have the ability to press a physical button, that 
+         will be within his/her reach at all times, that reduces power to the vehicle so as to 
+         force a controlled landing; both the hardware and communication for this safety 
+         system will be physically separate from the sUAS flight control systems.  
+          
+
+     Testing  operations  will  be  conducted  on  private  property,  and  only  Amazon 
+         employees, contract personnel, and invitees will be invited to the operations area; 
+         security measures will be put in place to deter unauthorized access.
+
+     The  aircraft  documentation  required  by  14  C.F.R.  §§  91.9  and  91.203(b),  as 
+         applicable, will be available to the  PIC referred to above at any time  Amazon's 
+         sUAS are operating.
+
+We will effectively operate our own private model airplane field, but with additional safeguards 
+that  go  far  beyond  those  that  FAA  has  longheld  provide  a  sufficient  level  of  safety  for  public 
+model airplane fields ­ and only with sUAS.  Indeed, the combination of the geofencing and lost
+The Honorable Michael P. Huerta 
+July 9, 2014 
+Page 7 
+
+link procedures described above will ensure the sUAS stays within the tightly defined operating 
+area within our private property. 
+
+    (f) A summary FAA can publish in the FEDERAL REGISTER, stating: (1) The rule from which you 
+         seek the exemption; and (2) A brief description of the nature of the exemption you seek 
+
+  Petitioner: Amazon.com, Inc. 
+
+         Sections of 14 C.F.R. Affected: §§ 21.191(a); 45.23(b); 91.9(b); and 91.203(a) and (b) 
+
+         Description of Relief Sought: Petitioner seeks relief from the requirements of 14 C.F.R. §§ 
+21.191(a);  45.23(b);  91.9(b);  and  91.203(a)  and  (b)  to  conduct  private,  noncommercial  small 
+unmanned  aircraft  systems  (sUAS)  operations  on  its  own  property  subject  to  operating 
+procedures that meet or exceed those that FAA requires for similar operations.  
+
+    (g) Any additional information, views or arguments available to support your request 
+          
+         Please see the introduction to this exemption request.  
+          
+
+    (h) If you want to exercise the privileges of your exemption outside of the United States, 
+         the reason why you need to do so. 
+
+         The  research  and  development  operations  described  in  this  exemption  request  will  be 
+conducted wholly within the United States. 
+
+ 
+
+         Please do not hesitate to contact me via email at primeairexemption@amazon.com if 
+you have any questions or concerns. 
+
+                                                       
+                                                      Respectfully submitted, 
+
+                                                                                         
+                                                      Paul Misener 
+                                                      Vice President, Global Public Policy  
+                                                      Amazon.com
+

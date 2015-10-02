@@ -1,0 +1,1594 @@
+April 17, 2015
+
+                                                          Exemption No. 11368
+                                                          Regulatory Docket No. FAA­2015­0103
+
+Mr. E. Tazewell Ellett
+Mr. Patrick R. Rizzi
+Counsel for Topcon Positioning Systems, Inc.
+Hogan Lovells US LLP
+555 13th Street, NW
+Washington, DC 20004
+
+Dear Messrs. Ellett and Rizzi:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+The Basis for Our Decision
+
+By letter dated January 14, 2015, you petitioned the Federal Aviation Administration (FAA)
+on behalf of Topcon Positioning Systems, Inc. (hereinafter petitioner or operator) for an
+exemption. The exemption would allow the petitioner to operate an unmanned aircraft system
+(UAS) to conduct aerial surveying, product demonstration flights for potential customers,
+UAS product training for customers, and research and development.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+                                                                                                                 2
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner are the Sirius Basic and Sirius Pro.
+
+The petitioner requested relief from 14 CFR part 21, Certification procedures for products
+and parts, Subpart H--Airworthiness Certificates. In accordance with the statutory criteria
+provided in Section 333 of Public Law 112-95 in reference to 49 U.S.C. § 44704, and in
+consideration of the size, weight, speed, and limited operating area associated with the
+aircraft and its operation, the Secretary of Transportation has determined that this aircraft
+meets the conditions of Section 333. Therefore, the FAA finds that the requested relief from
+14 CFR part 21, Certification procedures for products and parts, Subpart H--Airworthiness
+Certificates, and any associated noise certification and testing requirements of part 36, is
+not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+ They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+ The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+ A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, Topcon Positioning Systems, Inc. is granted an
+exemption from 14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a),
+91.7(a), 91.119(c), 91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and
+91.417(a) and (b), to the extent necessary to allow the petitioner to operate a UAS to perform
+aerial data collection. This exemption is subject to the conditions and limitations listed below.
+                                                                                                                 3
+
+Conditions and Limitations
+
+In this grant of exemption, Topcon Positioning Systems, Inc. is hereafter referred to as
+the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+    1. Operations authorized by this grant of exemption are limited to the Sirius Basic and
+         Sirius Pro when weighing less than 55 pounds including payload. Proposed
+         operations of any other aircraft will require a new petition or a petition to amend this
+         exemption.
+
+    2. Operations for the purpose of closed-set motion picture and television filming are
+         not permitted.
+
+    3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+         exemption holder may use either groundspeed or calibrated airspeed to determine
+         compliance with the 87 knot speed restriction. In no case will the UA be operated at
+         airspeeds greater than the maximum UA operating airspeed recommended by the
+         aircraft manufacturer.
+
+    4. The UA must be operated at an altitude of no more than 400 feet above ground level
+         (AGL). Altitude must be reported in feet AGL.
+
+    5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+         This requires the PIC to be able to use human vision unaided by any device other than
+         corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+         U.S. driver's license.
+
+    6. All operations must utilize a visual observer (VO). The UA must be operated within
+         the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+         to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+         capability. The VO and PIC must be able to communicate verbally at all times;
+         electronic messaging or texting is not permitted during flight operations. The PIC must
+         be designated before the flight and cannot transfer his or her designation for the
+         duration of the flight. The PIC must ensure that the VO can perform the duties
+         required of the VO.
+
+    7. This exemption and all documents needed to operate the UAS and conduct its
+         operations in accordance with the conditions and limitations stated in this grant of
+         exemption, are hereinafter referred to as the operating documents. The operating
+         documents must be accessible during UAS operations and made available to the
+                                                                                                            4
+
+    Administrator upon request. If a discrepancy exists between the conditions and
+    limitations in this exemption and the procedures outlined in the operating documents,
+    the conditions and limitations herein take precedence and must be followed.
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update or
+    revision would affect the basis upon which the FAA granted this exemption, then the
+    operator must petition for an amendment to its grant of exemption. The FAA's UAS
+    Integration Office (AFS-80) may be contacted if questions arise regarding updates or
+    revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g. replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g. inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and aircraft
+    components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer safety
+    bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+                                                                                                            5
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current FAA-
+    published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a pre-
+    determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+    exemption holder may apply for a new or amended COA if it intends to conduct
+    operations that cannot be conducted under the terms of the attached COA.
+                                                                                                            6
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+    number, registered in accordance with 14 CFR part 47, and have identification (N-
+    Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must be
+    as large as practicable.
+
+23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+    any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+    PIC at the Ground Control Station of the UAS any time the aircraft is operating. These
+    documents must be made available to the Administrator or any law enforcement
+    official upon request.
+
+24. The UA must remain clear and give way to all manned aviation operations and
+    activities at all times.
+
+25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless:
+      a. Barriers or structures are present that sufficiently protect nonparticipating persons
+          from the UA and/or debris in the event of an accident. The operator must ensure
+          that nonparticipating persons remain under such protection. If a situation arises
+          where nonparticipating persons leave such protection and are within 500 feet of
+          the UA, flight operations must cease immediately in a manner ensuring the safety
+          of nonparticipating persons; and
+      b. The owner/controller of any vessels, vehicles or structures has granted permission
+          for operating closer to those objects and the PIC has made a safety assessment of
+          the risk of operating closer to those objects and determined that it does not
+          present an undue hazard.
+
+    The PIC, VO, operator trainees or essential persons are not considered
+    nonparticipating persons under this exemption.
+
+27. All operations shall be conducted over private or controlled-access property with
+    permission from the property owner/controller or authorized representative.
+    Permission from property owner/controller or authorized representative will be
+    obtained for each flight to be conducted.
+
+28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+    boundaries of the operational area as defined by the applicable COA must be reported
+    to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+    reported to the National Transportation Safety Board (NTSB) per instructions
+    contained on the NTSB Web site: www.ntsb.gov.
+                                                                                                                 7
+
+ If this exemption permits operations for the purpose of closed-set motion picture and
+ television filming and production, the following additional conditions and limitations apply.
+
+    29. The operator must have a motion picture and television operations manual (MPTOM)
+         as documented in this grant of exemption.
+
+    30. At least 3 days before aerial filming, the operator of the UAS affected by this
+         exemption must submit a written Plan of Activities to the local Flight Standards
+         District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+         notification may be waived with the concurrence of the FSDO. The plan of activities
+         must include at least the following:
+           a. Dates and times for all flights;
+           b. Name and phone number of the operator for the UAS aerial filming conducted
+              under this grant of exemption;
+           c. Name and phone number of the person responsible for the on-scene operation of
+              the UAS;
+           d. Make, model, and serial or N-Number of UAS to be used;
+           e. Name and certificate number of UAS PICs involved in the aerial filming;
+           f. A statement that the operator has obtained permission from property owners
+              and/or local officials to conduct the filming production event; the list of those
+              who gave permission must be made available to the inspector upon request;
+           g. Signature of exemption holder or representative; and
+           h. A description of the flight activity, including maps or diagrams of any area, city,
+              town, county, and/or state over which filming will be conducted and the altitudes
+              essential to accomplish the operation.
+
+    31. Flight operations may be conducted closer than 500 feet from participating persons
+         consenting to be involved and necessary for the filming production, as specified in the
+         exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+
+This exemption terminates on April, 30, 2017, unless sooner superseded or rescinded.
+
+Sincerely,
+
+/s/
+John S. Duncan
+Director, Flight Standards Service
+                                                                               HOGAN LOVELLS US LLP
+
+                                 BEFORE THE
+              FEDERAL AVIATION ADMINISTRATION
+___________________________________________________
+
+Topcon Positioning Systems, Inc.,       Docket No. FAA-2015-_____
+                           Petitioner.
+
+                             PETITION OF TOPCON POSITIONING SYSTEMS, INC.
+             FOR AN EXEMPTION FROM CERTAIN FEDERAL AVIATION REGULATIONS
+
+                   TO PERMIT UNMANNED AIRCRAFT SYSTEMS (UAS) OPERATIONS
+
+                               E. Tazewell Ellett
+                               Patrick R. Rizzi
+                               Hogan Lovells US LLP
+                               555 13th Street, N.W.
+                               Washington, DC 20004
+                               Phone: 202-637-8644 / -5659
+                               Fax: 202-637-5910
+                             tazewell.ellett@hoganlovells.com
+                             patrick.rizzi@hoganlovells.com
+                               COUNSEL FOR TOPCON POSITIONING SYSTEMS, INC.
+
+DATE: January 14, 2015
+
+\\DC - 026811/000011 - 6230588 v11
+                                                       HOGAN LOVELLS US LLP
+
+                                    TABLE OF CONTENTS
+
+                                                       Page
+
+1. BACKGROUND INFORMATION: THE PETITIONER .................................................................. - 1 -
+
+2. PROPOSED UAS OPERATIONS: THE EXEMPTION REQUEST ............................................... - 1 -
+
+3. PROPOSED CONDITIONS AND LIMITATIONS ........................................................................... - 2 -
+
+3.1 Conditions and limitations regarding the proposed UAS............................................ - 2 -
+
+3.2 Conditions and limitations regarding the proposed UAS operations ........................ - 3 -
+
+3.3 Conditions and limitations regarding the Pilot in Command and other
+          crewmember qualifications and training ....................................................................... - 10 -
+
+3.4 Conditions and limitations regarding TPS manuals related to UAS
+          operations ......................................................................................................................... - 11 -
+
+4. REQUEST FOR DETERMINATION UNDER SECTION 333 OF FMRA........................................ - 14 -
+
+5. INFORMATION REQUIRED BY 14 C.F.R. § 11.81 TO SUPPORT A PETITION
+      FOR EXEMPTION........................................................................................................................... - 14 -
+
+5.1 Contact information ......................................................................................................... - 14 -
+
+5.2 The specific section or sections of the FAR from which TPS seeks an
+          exemption ......................................................................................................................... - 15 -
+
+5.3 The extent of relief sought and the reason relief is sought......................................... - 15 -
+
+5.4 Reasons why granting the request would be in the public interest ........................... - 31 -
+
+5.5 Reasons why granting the exemption would not adversely affect
+          safety, or how the exemption would provide a level of safety at least
+          equal to that provided by the rule from which exemption is sought.......................... - 32 -
+
+5.6 Summary that can be published in Federal Register, including the rule
+          from which exemption is sought, a brief description of the nature of
+          the exemption sought. ..................................................................................................... - 34 -
+
+5.7 Additional information that supports request............................................................... - 34 -
+
+5.8 Request to exercise the privileges of the exemption outside the U.S........................ - 34 -
+
+5.9 Attachments...................................................................................................................... - 35 -
+
+6. CONCLUSION ................................................................................................................................ - 35 -
+
+\\DC - 026811/000011 - 6230588 v11
+                                                                                                 HOGAN LOVELLS US LLP
+
+1. BACKGROUND INFORMATION: THE PETITIONER
+          Topcon Positioning Systems, Inc. ("TPS"), a subsidiary of Topcon Corporation, is
+
+headquartered in Livermore, California. TPS designs, manufactures, and distributes precise
+positioning products for the global surveying, construction, agriculture, civil engineering, mapping,
+asset management, and mobile control markets. TPS recently unveiled two small unmanned aircraft
+systems ("UAS") ­ Sirius Basic and Sirius Pro (collectively, "Sirius UAS") ­ for mapping a wide range
+of sites, land surveying, and facility inspections, as well as use in TPS' primary markets (e.g., mining
+& aggregate, earth moving/construction, and agriculture). TPS also entered into a worldwide
+distribution partnership agreement for these UAS with UAS manufacturer MAVinci GmbH
+("MAVinci").
+
+2. PROPOSED UAS OPERATIONS: THE EXEMPTION REQUEST
+          Pursuant to Section 333 of the FAA Modernization and Reform Act of 2012 ("FMRA") and 14
+
+C.F.R. ("FAR") §§ 11.61(b), 11.63(a), and 11.81, TPS requests that the FAA grant TPS an
+exemption from certain sections of the FAR (detailed below) so that TPS may commercially operate
+one or more small Sirius UAS for aerial surveying, product demonstration flights for potential
+customers, UAS product training for customers, and research and development for future product
+improvements related to these small UAS. As explained below, TPS' proposed UAS operations, as
+conditioned and limited herein, will not adversely affect safety, but rather will provide an equivalent
+or greater level of safety than that provided by the current rules and large manned aircraft
+operations. See FAR § 11.81.
+
+\\DC - 026811/000011 - 6230588 v11
+                                                                                                 HOGAN LOVELLS US LLP
+3. PROPOSED CONDITIONS AND LIMITATIONS
+
+          The small UAS operations proposed in this Petition will be subject to the following conditions
+and limitations. Each of these conditions and limitations is consistent with previously granted small
+UAS Section 333 exemptions and FAA guidance. See, e.g., Exemption No. 11110 (December 10,
+2014; Docket FAA-2014-0367) ("Trimble Exemption"); Exemption No. 11062 (September 25, 2014;
+Docket FAA-2014-0352) ("Astraeus Exemption"); Exemption No. 11109 (December 10, 2014;
+Docket FAA-2014-0507) ("Clayco Exemption"); Exemption No. 11136 (January 5, 2015; Docket
+FAA-2014-0508) ("AAS Exemption"). Collectively, these conditions and limitations ensure that the
+proposed small UAS operations will not adversely affect safety and will provide at least an equivalent
+level of safety to the current rules and large manned aircraft operations.
+
+          3.1 Conditions and limitations regarding the proposed UAS
+          TPS intends to operate the small Sirius UAS under the requested exemption. The Sirius
+UAS uses a battery-powered, single electric brushless 680 W motor system and a single propeller.
+Its payload is a Panasonic GX1 camera or the FUJIFILM X-M1; its navigation system is GPS/IMU
+aided; and it has three available flight modes ­ automatic, autopilot-assisted, and full manual.
+          Each Sirius UAS operated under the exemption will be subject to the following conditions
+and limitations:
+
+                         3.1.1 Operations under the exemption will be limited to the Sirius UAS. The
+                                      free-flying unmanned aircraft part of the Sirius UAS ("the UA") will have
+                                      a gross weight of not more than 7 pounds, including energy sources,
+                                      equipment, and payload. [Trimble Exemption Limitation No. 1.]
+
+                         3.1.2 The UA has maximum dimensions of approximately 48 inches (l) x 65
+                                      inches (w) x 12.2 inches.
+
+                                    -2-
+
+\\DC - 026811/000011 - 6230588 v11
+3.1.3                                                                                          HOGAN LOVELLS US LLP
+                                    The UA will have a maximum ground speed of 70 knots indicated air
+3.1.4                               speed. It has a typical cruise speed of 35 knots indicated air speed.
+3.1.5                               [Trimble Exemption Limitation No. 2.]
+                                    The UA will have a maximum total flight time of 50 minutes.
+3.1.6                               The UA will be identified by its serial number and registered with the
+                                    FAA in accordance with FAR Part 47. [Trimble Exemption Limitation
+                                    No. 21.]
+                                    The UA will have identification markings in accordance with FAR Part
+                                    45, with the markings being as large as practicable. [Trimble Exemption
+                                    Limitation No. 21.]
+
+          3.2 Conditions and limitations regarding the proposed UAS operations
+          All UAS operations under the exemption will be subject to the following conditions and
+limitations:
+
+                         3.2.1 All UAS operations will be covered by an Air Traffic Organization
+                                      ("ATO")-issued Certificate of Waiver or Authorization ("COA"). This
+                                      COA will require that TPS request a Notice to Airman ("NOTAM") not
+                                      more than 72 hours in advance of, nor less than 48 hours prior to, each
+                                      UAS operation. [Trimble Exemption Limitation No. 20.]
+
+                         3.2.2 The UA will operate only in Class G airspace. [Trimble Exemption
+                                      Limitation No. 27.] It will not operate in Class B, C or D airspace
+                                      without written approval from the FAA. [Astraeus Exemption Limitation
+                                      No. 34.]
+
+                         3.2.3 The UA will not operate within 5 nautical miles of the geographic center
+                                      of a non-towered airport as denoted on a current FAA-published
+                                      aeronautical chart unless a letter agreement with the airport's
+
+                                                                -3-
+
+\\DC - 026811/000011 - 6230588 v11
+3.2.4                                                                                          HOGAN LOVELLS US LLP
+3.2.5                               management is obtained, and the operation is conducted in accordance
+3.2.6                               with a NOTAM as required by TPS' COA. TPS will make this letter
+                                    agreement available to the FAA upon request. [Astraeus Exemption
+                                    Limitation No. 34.]
+                                    Each UA will remain at least 3 nautical miles from any public towered
+                                    airport to the extent possible.
+                                    (a) The Topcon Solutions Center in Pleasanton, California, where
+
+                                                some UAS operations will be operated, is approximately 2.5
+                                                miles south of the Livermore Municipal Airport, which has a
+                                                control tower and runways in an east/west configuration. For
+                                                these UAS operations at the Topcon Solutions Center, the
+                                                PIC will follow the procedures set forth in Limitation 3.2.5
+                                                below.
+                                    Prior to each UAS operation in which the UA will operate within 3
+                                    nautical miles of a public towered airport, the PIC will ensure that the
+                                    FAA Air Traffic Control officials with responsibility for that airport are
+                                    notified in advance of the UAS operation; that, subject to the airport's
+                                    and ATC's agreement, the PIC will maintain two-way radio
+                                    communications with the airport's ATC tower facility during such flight
+                                    operations; and that the operation is conducted in accordance with a
+                                    NOTAM as required by TPS' COA.
+                                    Prior to UAS operations, the radio frequency spectrum used for
+                                    operation and control of the UA (2.4 GHz) will comply with Federal
+                                    Communications Commission (FCC) and other appropriate government
+                                    oversight agency requirements. [Trimble Exemption Limitation No. 22.]
+
+                                    -4-
+
+\\DC - 026811/000011 - 6230588 v11
+                                                                                                 HOGAN LOVELLS US LLP
+                         3.2.7 The minimum crew for each UAS operation will consist of one Pilot in
+
+                                      Command ("PIC") and one Visual Observer/Flight Assistant ("VO/FA").
+                                      The PIC will be designated before the flight and cannot transfer his/her
+                                      designation for the duration of the flight. The PIC must ensure that the
+                                      VO/FA can perform the functions prescribed for the VO/FA in the
+                                      Operator's Manual. [Trimble Exemption Limitations Nos. 4 and 5.]
+                         3.2.8 The UA will be operated within visual line of sight ("VLOS") of the PIC
+                                      at all times. The VLOS will be unaided, except for corrective lenses as
+                                      set forth on the PIC's FAA-issued airman medical certificate. The
+                                      VO/FA may be used to satisfy the VLOS requirement as long as the
+                                      PIC always maintains VLOS capability. [Trimble Exemption Limitations
+                                      Nos. 4 and 5.]
+                         3.2.9 During each UAS operation, the PIC and the VO/FA must be able to
+                                      communicate verbally with each other at all times. [Trimble Exemption
+                                      Limitation No. 5.]
+                         3.2.10 The PIC is prohibited from beginning a UAS flight unless (considering
+                                      wind and forecast weather conditions) there is enough power to fly at
+                                      normal cruising speed to the intended landing point and land the UA
+                                      with at least 30% battery power remaining. [AAS Exemption Limitation
+                                      No. 22.]
+                         3.2.11 Prior to each UAS operation, each member of the crew who will be
+                                      conducting the UAS operation will participate in a safety briefing about
+                                      the UAS operation, as outlined in the Operator's Manual, and the crew
+                                      will complete the UA preflight inspection and preflight checklist per the
+                                      Operator's Manual.
+
+                                                                -5-
+
+\\DC - 026811/000011 - 6230588 v11
+                                                                                                 HOGAN LOVELLS US LLP
+                         3.2.12 Prior to each UAS operation, the PIC will inspect the UAS (including the
+
+                                      Ground Control Station) to ensure it is in a condition for safe flight. If
+                                      the inspection reveals a condition that affects the safe operation of the
+                                      UAS, the UAS is prohibited from operating until the necessary
+                                      maintenance has been performed and documented, and the UAS is
+                                      found to be in a condition for safe flight. [Trimble Exemption Limitation
+                                      No. 7.]
+                         3.2.13 Prior to each UAS operation, the PIC will review the weather, the UAS
+                                      battery requirements, the UA takeoff and landing distances, and the
+                                      UAS performance, and will account for all relevant site-specific
+                                      conditions per the Operator's Manual.
+                         3.2.14 All maintenance and alterations will be properly documented in the UA
+                                      records. [Trimble Exemption Limitation No. 7.] TPS' Sirius UAS
+                                      maintenance personnel will make a record entry in the UAS logbook or
+                                      equivalent document of the corrective action taken against
+                                      discrepancies discovered between inspections. [Trimble Exemption
+                                      Limitation No. 14.]
+                         3.2.15 Prior to each UAS flight, a zero altitude initiation point will be
+                                      established and confirmed for accuracy by the PIC. [Astraeus
+                                      Exemption, at 21; AAS Exemption, at 17.]
+                         3.2.16 During each UAS operation, the UA will remain at or below 400 feet
+                                      above ground level ("AGL"). [Trimble Exemption Limitation No. 3.]
+                         3.2.17 All UAS operations will be conducted over private or controlled-access
+                                      property with permission from the land owner/controller or authorized
+                                      representative. Permission from the land owner/controller or authorized
+
+                                                                -6-
+
+\\DC - 026811/000011 - 6230588 v11
+                                                                                                 HOGAN LOVELLS US LLP
+                                      representative will be obtained for each flight to be conducted. [Trimble
+                                      Exemption Limitation No. 34.]
+                         3.2.18 The UA will operate at least 500 feet from all non-participating persons,
+                                      vessels, vehicles, and structures unless:
+                                      (a) Barriers or structures are present that sufficiently protect non-
+
+                                                   participating persons from the UA and/or debris in the event
+                                                   of an accident. TPS must ensure that non-participating
+                                                   persons remain under such protection; and if a situation
+                                                   arises where non-participating persons leave such protection
+                                                   and are within 500 feet of the UA, flight operations will cease
+                                                   immediately; and/or
+                                      (b) The UA is operated near vessels, vehicles or structures
+                                                   where the land owner/controller has granted permission and
+                                                   the PIC has made a safety assessment of the risk of
+                                                   operating closer to those objects and determined that it does
+                                                   not present an undue hazard.
+                                         [AAS Exemption Limitation No. 30.]
+                         3.2.19 Operations of the UA may be conducted at distances less than 500 feet
+                                      from participating persons, vessels, vehicles or structures that perform
+                                      an essential function in connection with these special purpose
+                                      operations or are otherwise necessary for such operations. Operations
+                                      closer than 500 feet from the PIC, VO/FA, operator trainees, essential
+                                      persons, and potential customers are permitted when operationally
+                                      necessary, but never so close as to present an undue hazard, per FAR
+                                      § 91.119(a). [Trimble Exemption Limitation No. 32.]
+
+                                                                -7-
+
+\\DC - 026811/000011 - 6230588 v11
+                                                                        HOGAN LOVELLS US LLP
+3.2.20 All UAS operations will take place during visual meteorological
+
+            conditions (VMC) only. [Trimble Exemption Limitation No. 28.]
+3.2.21 TPS will not operate UAS flights under Special Visual Flight Rules
+
+            (SVFR). [Astraeus Exemption Limitation No. 31.]
+3.2.22 All UAS operations will take place during daylight hours. UAS
+
+            operations will not be conducted during night, as defined in FAR § 1.1.
+            [Trimble Exemption Limitation No. 26.]
+3.2.23 During each UAS operation, the UA will avoid, remain clear of, and
+            yield right-of-way to all manned aerial operations and activities
+            (including, but not limited to, ultralight vehicle, parachute, parasailing,
+            and hang glider activities). [Trimble Exemption Limitation No. 24.]
+3.2.24 Each UAS operation will maintain a safe distance from any structure or
+            facility that has a national security implication that is known to TPS and
+            whose airspace is identified as Special Use Airspace on the most
+            recent Sectional Map.
+3.2.25 The UA will not be operated less than 500 feet below or less than 2,000
+            feet horizontally from a cloud, or when visibility is less than 3 statute
+            miles from the PIC. [Trimble Exemption Limitation No. 28.]
+3.2.26 The UAS will not be operated by the PIC from a moving device or
+            vehicle. [Trimble Exemption Limitation No. 25.]
+3.2.27 Any UAS that has undergone maintenance or alterations that affect the
+            UAS operation or UA flight characteristics (e.g., replacement of a flight
+            critical component) must undergo a functional maintenance test flight in
+            accordance with the Operator's Manual.
+
+                                    -8-
+
+\\DC - 026811/000011 - 6230588 v11
+                                                                                                 HOGAN LOVELLS US LLP
+                         3.2.28 The PIC who conducts the functional maintenance test flight will make
+
+                                      an entry about the flight in the UA records. [Trimble Exemption
+                                      Limitation No. 8.]
+                         3.2.29 For each UAS operation, the UAS will be programmed so that if the
+                                      UAS loses its communications, the UA will return to a pre-determined
+                                      location within the private or controlled-access property, and land or be
+                                      recovered in accordance with the Operator's Manual. [Trimble
+                                      Exemption Limitation No. 17.] For each UAS operation, the UAS will be
+                                      programmed so that if the UAS loses its GPS signal, the UA will circle
+                                      down at its current location or will circle in its then-current position at its
+                                      established safety altitude in accordance with the Operator's Manual.
+                                      These actions are part of the Sirius UAS' Lost Link Procedures.
+                                      Alternatively, the PIC can take over control of the UA using the RC
+                                      controller and execute safe landing procedures in accordance with the
+                                      Operator's Manual.
+                         3.2.30 The PIC will adhere to the written emergency procedures in the
+                                      Manuals and suspend the UAS operation and UA flight in the event of
+                                      unpredicted obstacles or emergencies in accordance with the
+                                      Operator's Manual. [Trimble Exemption Limitation No. 18.]
+                         3.2.31 The documents required by FAR §§ 91.9 and 91.203 will be available
+                                      to the PIC at the Ground Control Station of the UAS at any time the UA
+                                      is operating, and will be made available to the FAA or any law
+                                      enforcement official upon request. [Trimble Exemption Limitation No.
+                                      23.]
+                         3.2.32 The UA may not be operated over congested or densely populated
+                                      areas. These areas include but are not limited to the yellow areas
+
+                                                                -9-
+
+\\DC - 026811/000011 - 6230588 v11
+                                                                                                 HOGAN LOVELLS US LLP
+                                      depicted on World Aeronautical Charts (WAC), Sectional Aeronautical
+                                      Charts (Sectionals), or Terminal Area Charts (TAC). However,
+                                      aeronautical charts may not reflect pertinent local information. It will be
+                                      the PIC's responsibility to maintain the minimum safe altitudes required
+                                      by FAR § 91.119 (subject to an exemption granted herein). [Trimble
+                                      Exemption Limitation No. 30.] If the Topcon Solutions Center in
+                                      Pleasanton, California, is considered to be located within a broader
+                                      congested or densely populated area, this Limitation will not apply to
+                                      small UAS operations conducted over Topcon's land there.
+                         3.2.33 Any incident, accident or flight operation that transgresses the lateral or
+                                      vertical boundaries of the operational area as defined by the applicable
+                                      COA will be reported to the FAA's UAS Integration Office (AFS-80)
+                                      within 24 hours. Accidents will be reported to the National
+                                      Transportation Safety Board ("NTSB") per instructions contained on the
+                                      NTSB website. [Trimble Exemption Limitation No. 35.]
+
+          3.3 Conditions and limitations regarding the Pilot in Command and other
+                    crewmember qualifications and training
+
+          The PIC and other crewmembers for each UAS operation under the requested exemption
+will be subject to the following conditions and limitations:
+
+                         3.3.1 The PIC will possess at least an FAA private pilot certificate and a third-
+                                      class airman medical certificate. The PIC also will satisfy the flight
+                                      review requirements of FAR § 61.56 in an aircraft for which the PIC is
+                                      rated on his or her pilot certificate. [Trimble Exemption Limitation No.
+                                      15.]
+
+                                                               - 10 -
+
+\\DC - 026811/000011 - 6230588 v11
+3.3.2                                                                                          HOGAN LOVELLS US LLP
+3.3.3                               The PIC and VO/FA will have successfully completed the
+                                    manufacturer's authorized training for the Sirius UAS.
+3.3.4                               Each PIC will have demonstrated through the manufacturer's
+                                    authorized training program that he or she is able to safely operate the
+                                    UAS in a manner consistent with how the UAS will be operated under
+                                    the exemption, including evasive and emergency maneuvers and
+                                    maintaining appropriate distances from persons, vessels, vehicles, and
+                                    structures. TPS must document and make a record of such training
+                                    and make such documentation available upon request by the FAA.
+                                    Flights for the purposes of training TPS' PICs and VO/FAs (training,
+                                    proficiency, and experience-building) are permitted under the terms of
+                                    this exemption. Said training operations, however, may only be
+                                    conducted during dedicated training sessions. [AAS Exemption
+                                    Limitation No. 15.]
+                                    TPS will not permit any PIC to operate its Sirius UAS unless that PIC
+                                    has demonstrated through TPS' training and currency requirements
+                                    that he or she is able to safely operate the UAS in accordance with
+                                    Limitation No. 3.3.3. [Clayco Exemption Limitation No. 16.]
+
+          3.4 Conditions and limitations regarding TPS manuals related to UAS operations
+          TPS has two manuals containing procedures for the UAS operations under the exemption:
+the Sirius Aerial Image UAS & MAVinci Desktop Manual ("Operator's Manual" or "Operations
+Manual") and the Sirius Aerial Image UAS & MAVinci Service Manual ("Service Manual")
+(collectively, "the Manuals"). A confidential copy of each of the Manuals will be submitted to the FAA
+Assistant Chief Counsel for International Law, Legislation, and Regulations as supporting
+documentation for this Petition. The Manuals contain information that is highly proprietary to TPS
+
+                                                               - 11 -
+
+\\DC - 026811/000011 - 6230588 v11
+                                                                                                 HOGAN LOVELLS US LLP
+and/or MAVinci, and TPS requests that the FAA treat the Manuals as confidential and not disclose
+them to the public. The Manuals will be subject to the following limitations and conditions:
+
+                         3.4.1 The Manuals and the exemption must be maintained and made
+                                      available to the FAA upon request. If a discrepancy exists between the
+                                      conditions and limitations in the exemption and the procedures outlined
+                                      in the Manuals, the conditions and limitations in the exemption take
+                                      precedence and must be followed. Otherwise, TPS must follow the
+                                      procedures as outlined in the Manuals. [Trimble Exemption Limitation
+                                      No. 6.]
+
+                         3.4.2 TPS may update or revise its Manuals, and it is TPS' responsibility to
+                                      track such revisions and present updated and revised documents to the
+                                      FAA upon request. TPS must also present updated and revised
+                                      documents if it petitions for an extension or amendment of the
+                                      exemption. If TPS determines that any update or revision would affect
+                                      the basis upon which the FAA granted the requested exemption, then
+                                      TPS must petition for an amendment to the exemption. TPS will
+                                      contact the FAA's UAS Integration Office (AFS-80) if questions arise
+                                      regarding updates or revisions to the Manuals. [Trimble Exemption
+                                      Limitation No. 6.]
+
+                         3.4.3 The Manuals contain information about the Sirius UAS' performance
+                                      and limitations.
+
+                         3.4.4 The Manuals contain the procedures for UAS operations, including
+                                      preflight inspections, which will account for all discrepancies, i.e.,
+                                      inoperable components, items or equipment. [Trimble Exemption
+                                      Limitation No. 9.]
+
+                                                               - 12 -
+
+\\DC - 026811/000011 - 6230588 v11
+                                                                                                 HOGAN LOVELLS US LLP
+                         3.4.5 The Manuals contain the requirements and procedures for a functional
+
+                                      maintenance test flight of the UAS and aircraft record entry. [Trimble
+                                      Exemption Limitation No. 8.]
+                         3.4.6 TPS must carry out its maintenance, inspections, and record keeping
+                                      requirements in accordance with the Manuals. Maintenance,
+                                      inspection, and alterations must be noted in the aircraft logbook,
+                                      including total flight hours, description of work accomplished, and the
+                                      signature of the authorized Sirius UAS maintenance personnel
+                                      returning the Sirius UAS to service. [Trimble Exemption Limitation No.
+                                      11.]
+                         3.4.7 The Sirius UAS maintenance personnel maintaining and servicing TPS'
+                                      UAS must receive, and document, the training called for in the
+                                      Manuals. [Trimble Exemption Limitation No. 12.]
+                         3.4.8 Each UAS operated under the exemption will comply with all
+                                      manufacturer System and Safety Bulletins, and that requirement is set
+                                      forth in the Manuals. [Trimble Exemption Limitation No. 13.] TPS will
+                                      maintain copies of all manufacturer System and Safety Bulletins, and
+                                      will make them available to the FAA upon request.
+                         3.4.9 TPS will follow the manufacturer's UAS aircraft/component,
+                                      maintenance, overhaul, replacement, inspection, and life limit
+                                      requirements. [Trimble Exemption Limitation No. 10.]
+                         3.4.10 The Manuals contain procedures for performing and documenting of
+                                      maintenance, preventive maintenance, alterations, status of
+                                      replacement/overhaul component parts, and the total time in service of
+                                      the UAS (and for maintaining the corresponding records).
+
+                                                               - 13 -
+
+\\DC - 026811/000011 - 6230588 v11
+                                                                                                 HOGAN LOVELLS US LLP
+4. REQUEST FOR DETERMINATION UNDER SECTION 333 OF FMRA
+
+          In accordance with FMRA Sec. 333, TPS requests that the Secretary of Transportation
+determine that TPS' proposed small UAS operations (i) do not create a hazard to users of the
+National Airspace System or the public, and (ii) do not pose a threat to national security.
+
+          TPS further requests that, based on the Secretary's determination, the FAA determine ­ as it
+did in the Astraeus Exemption, Clayco Exemption, and AAS Exemption ­ that relief from FAR Part
+21 and any associated noise certification and testing requirements of FAR Part 36 is not necessary
+for the UAS operations proposed in this Petition.1
+
+5. INFORMATION REQUIRED BY 14 C.F.R. § 11.81 TO SUPPORT A PETITION FOR
+          EXEMPTION
+          As required by FAR § 11.81, TPS provides the following information in support of this
+
+Petition:
+
+          5.1 Contact information:
+
+                    Name: Topcon Positioning Systems, Inc. submits this Petition for Exemption,
+                    through counsel, E. Tazewell Ellett and Patrick R. Rizzi.
+
+Mailing address:  E. Tazewell Ellett
+                  Patrick R. Rizzi
+                  Counsel for Topcon Positioning Systems, Inc.
+                  Hogan Lovells US LLP
+                  555 13th Street, NW
+                  Washington, DC 20004
+
+Telephone/Facsimile number:
+          (T) 202-637-8644 (Ellett) / 202-637-5659 (Rizzi)
+          (F) 202-637-5910
+
+1 Astraeus Exemption, at 14, 22; Clayco Exemption, at 10, 16; AAS Exemption, at 12, 18. If the FAA concludes that
+the UAS operations proposed in this Petition require an exemption from FAR Parts 21 and/or 36, then TPS requests
+that the FAA include that in the exemption.
+
+                                                               - 14 -
+
+\\DC - 026811/000011 - 6230588 v11
+                                            HOGAN LOVELLS US LLP
+
+E-mail addresses:
+
+          tazewell.ellett@hoganlovells.com
+          patrick.rizzi@hoganlovells.com
+
+5.2 The specific section or sections of the FAR from which TPS seeks an
+          exemption:
+
+          FAR § 61.113(a) and (b) ­ Private pilot privileges and limitations: Pilot in command.
+          FAR § 91.7(a) ­ Civil aircraft airworthiness.
+          FAR § 91.119(b) and (c) ­ Minimum safe altitudes: General.
+          FAR § 91.121 ­ Altimeter settings.
+          FAR § 91.151 ­ Fuel requirements for flight in VFR conditions.
+          FAR § 91.405(a) ­ Maintenance required.
+          FAR § 91.407(a)(1) ­ Operation after maintenance, preventive maintenance,
+          rebuilding, and inspections.
+          FAR § 91.409(a)(1) and (2) ­ Inspections.
+          FAR § 91.417(a) and (b) ­ Maintenance records.
+
+          5.3 The extent of relief sought and the reason relief is sought:
+          TPS proposes to conduct small UAS operations, as described herein, for aerial surveying,
+product demonstration flights for potential customers, UAS product training for customers, and
+research and development for future product improvements related to these small UAS. In order to
+be able to conduct these UAS operations, TPS petitions the FAA, pursuant to FAR §§ 11.61(b),
+11.63(a), and 11.81(b), for an exemption from the following FAR for the reasons noted:
+
+          FAR § 61.113(a) and (b) ­ Private pilot privileges and limitations: Pilot in command.
+          The regulation states, in relevant part:
+
+                                         (a) Except as provided in paragraphs (b) through (h) of this section,
+                                         no person who holds a private pilot certificate may act as pilot in
+                                         command of an aircraft that is carrying passengers or property for
+                                         compensation or hire; nor may that person, for compensation or hire,
+                                         act as pilot in command of an aircraft.
+                                         (b) A private pilot may, for compensation or hire, act as pilot in
+                                         command of an aircraft in connection with any business or
+                                         employment if:
+
+                                                               - 15 -
+
+\\DC - 026811/000011 - 6230588 v11
+                                                                                                 HOGAN LOVELLS US LLP
+                                                   (1) The flight is only incidental to that business or
+                                                   employment; and
+                                                   (2) The aircraft does not carry passengers or property for
+                                                   compensation or hire.
+                                         (c) ****.
+          TPS requests an exemption from this regulation to the extent necessary to permit TPS to
+conduct UAS operations using PICs who hold an FAA private pilot certificate. While TPS recognizes
+that the FAA normally requires a PIC to hold a commercial pilot certificate where there is
+compensation either to the pilot or for the operation, TPS requests that the FAA exempt TPS and its
+PICs from this requirement since the use of a private pilot as the PIC for the UAS operations under
+this exemption will be more safe than the use of a commercial pilot for manned aircraft operations.
+Unlike conventional aircraft, the Sirius UAS is remotely controlled, with no crew or passengers, and
+battery-powered. The fulfillment of the additional requirements for a private pilot to become qualified
+as a commercial pilot would not lead to any additional safety benefits when UAS operations are
+involved.
+          The differences between the aeronautical knowledge requirements for private pilots and for
+commercial pilots are significant in the traditional world of manned aircraft. A pilot who wishes to
+operate flights that involve the carriage of persons or property for compensation or hire is typically
+expected to improve his or her aeronautical knowledge with respect to the operation of those larger
+manned aircraft. For instance, the prospective commercial pilot is expected to be able to operate
+more complex aircraft and in conditions other than VMC. Pilots seeking to become commercial
+pilots for manned aircraft must acquire additional aeronautical knowledge about the use of
+performance charts and aeronautical charts (beyond that which a private pilot must obtain for VFR),
+night operations, and the use of air navigation aids/facilities.2 However, no aspect of this
+
+2 FAR § 61.125, Aeronautical knowledge for commercial pilots, paras. (b)(7) (use of performance charts), (b)(9) (use
+of aeronautical charts beyond that necessary for flight under VFR), (b)(10) (use of air navigation aids), and (b)(14)
+(night and high-altitude operations).
+
+                                                               - 16 -
+
+\\DC - 026811/000011 - 6230588 v11
+                                                                                                 HOGAN LOVELLS US LLP
+incremental additional knowledge is significant for the daytime, VMC small UAS operations over
+private or controlled access properties proposed in this Petition.
+
+          The differences between the aeronautical experience requirements for private pilots and for
+commercial pilots are also significant. However, the additional experience required for a commercial
+pilot certificate is required to a great extent to allow the upgrading pilot to acquire experience of a
+type that a commercial PIC of a manned aircraft must obtain in order to safely conduct commercial
+operations in a larger manned aircraft. For instance, the applicant for a commercial certificate with a
+single-engine land rating must obtain 50 hours of cross-country flight, 10 hours of instrument
+training, 10 hours of time in a complex aircraft, 10 hours of solo time, and 5 hours in night VFR
+conditions.3 In addition, a great deal of time is required for a pilot of a larger manned aircraft seeking
+to become a commercial pilot to ensure that the pilot's takeoffs and landings can be conducted
+safely enough so as not to imperil the passengers and property aboard the manned aircraft. In this
+regard, there is a fundamental difference between the type of experience that the PIC of a manned
+aircraft should have, versus the type of experience that the PIC of a small UAS should have, in order
+to avoid imperiling passengers or property. In TPS' case, the small amount of property carried
+aboard the UA will be TPS property. While the pilot will be compensated, all risk of damage to the
+property (in fact to the UAS itself) will be borne by TPS. There is no expectation or need for the PIC
+of the UA to have the type of experience that a commercial pilot for a manned aircraft would have.
+In short, almost none of the aeronautical experience requirements, beyond those necessary for
+private pilots and as set forth in the Sirius UAS manufacturer's written authorized training program, is
+relevant to the PIC who will operate the small UAS over private or controlled access property as
+proposed in this Petition. Accordingly, there is no reason to require the UAS PIC to have more
+experience than that required for the private pilot certificate.
+
+          The differences between flight proficiency requirements for private pilots and for commercial
+pilots involve areas such as "[h]igh-altitude operation" and other areas that have no bearing on the
+
+3 See FAR § 61.129.
+
+                                    - 17 -
+
+\\DC - 026811/000011 - 6230588 v11
+                                                                                                 HOGAN LOVELLS US LLP
+small UAS operations at issue in this Petition.4 To the extent that differences exist between the
+standards of performance for flight proficiency as demonstrated by prospective private versus
+prospective commercial pilots, those standards are not significant here where the operations will be
+conducted strictly during daylight VMC conditions, within VLOS, at altitudes no higher than 400 feet
+AGL.
+
+          Given that TPS plans to operate its Sirius UAS in Class G airspace over private or
+controlled-access property at altitudes of 400 feet AGL or less, the parallel nature of private pilot
+aeronautical knowledge requirements to those of commercial requirements, the limited airmanship
+skills necessary to operate the Sirius UAS, and the lack of additional safety benefits for the proposed
+UAS operations here resulting from commercial pilot experience, the PIC under this exemption
+should only be required to hold a private pilot certificate and third-class airman medical certificate.
+Such a condition would be consistent with the certificate requirements imposed on the PIC in the
+Astraeus Exemption, Trimble Exemption, AAS Exemption, and Clayco Exemption.
+
+          For these reasons, TPS requests that the FAA grant an exemption to permit TPS to use as
+PIC of the proposed UAS operations pilots who hold a private pilot certificate and a third-class
+airman medical certificate, so long as they satisfy the conditions and limitations proposed in this
+Petition, including the PIC qualification and training requirements.
+
+          FAR § 91.7(a) ­ Civil aircraft airworthiness.
+          The regulation states in relevant part:
+
+                                         (a) No person may operate a civil aircraft unless it is in an airworthy
+                                         condition. . . .
+
+4 Compare FAR § 61.127, flight proficiency for commercial pilots (in particular §§ 61.127(b)(1)(x) and (b)(2)(x)), with
+FAR § 61.107, flight proficiency for private pilots.
+
+                                                               - 18 -
+
+\\DC - 026811/000011 - 6230588 v11
+                                                                                                 HOGAN LOVELLS US LLP
+          TPS requests an exemption from this provision to the extent necessary.5 The Sirius UAS will
+
+not require an airworthiness certificate under FAR Part 21, Subpart H, and thus relief is requested
+
+from this regulation. See Trimble Exemption, at 16. An exemption is warranted because TPS
+
+understands that, notwithstanding the lack of an airworthiness certificate, the FAA will consider its
+
+"compliance with [TPS'] Manuals to be sufficient means for determining an airworthy condition" and
+
+that TPS must still determine the UA's airworthiness prior to each flight based on compliance with
+
+such Manuals. See Trimble Exemption, at 16.
+
+          FAR § 91.119(b) and (c) ­ Minimum safe altitudes: General.
+
+          The regulation states:
+
+                                         Except when necessary for takeoff or landing, no person may operate
+                                         an aircraft below the following altitudes:
+
+                                         (a) Anywhere. An altitude allowing, if a power unit fails, an emergency
+                                         landing without undue hazard to persons or property on the surface.
+
+                                         (b) Over congested areas. Over any congested area of a city, town,
+                                         or settlement, or over any open air assembly of persons, an altitude
+                                         of 1,000 feet above the highest obstacle within a horizontal radius of
+                                         2,000 feet of the aircraft.
+
+                                         (c) Over other than congested areas. An altitude of 500 feet above
+                                         the surface, except over open water or sparsely populated areas. In
+                                         those cases, the aircraft may not be operated closer than 500 feet to
+                                         any person, vessel, vehicle, or structure.
+
+                                         (d) Helicopters, powered parachutes, and weight-shift-control aircraft.
+                                         If the operation is conducted without hazard to persons or property on
+                                         the surface--
+
+                                                   (1) A helicopter may be operated at less than the minimums
+                                                   prescribed in paragraph (b) or (c) of this section, provided
+                                                   each person operating the helicopter complies with any
+                                                   routes or altitudes specifically prescribed for helicopters by
+                                                   the FAA; and
+
+5 TPS requests exemption from FAR § 91.7(a) based on the relief granted in the Trimble Exemption, at 16, 21.
+However, TPS notes that the FAA determined that no such exemption was needed in the Astraeus Exemption, at 19,
+22.
+
+                                                               - 19 -
+
+\\DC - 026811/000011 - 6230588 v11
+                                                                                                 HOGAN LOVELLS US LLP
+                                                   (2) A powered parachute or weight-shift-control aircraft may
+                                                   be operated at less than the minimums prescribed in
+                                                   paragraph (c) of this section.
+          TPS requests an exemption from this regulation to the extent necessary to permit TPS to
+conduct its UAS operations at altitudes lower than those permitted by FAR § 91.119, since such
+altitudes are one of the key benefits of using small UAS for these flights. Even at these low
+altitudes, TPS' UAS operations will be conducted at a level of safety at least equal to that which
+would be achieved if larger manned aircraft were to be used at the altitudes required by FAR §
+91.119.
+          With respect to paragraph (a), TPS intends to comply with this requirement to the same
+extent as would a manned aircraft, meaning that the UA must operate at an altitude such that the
+loss of a single power unit aboard the UA or used by the UAS would still permit an emergency
+landing "without undue hazard to persons or property on the surface." TPS agrees with the FAA's
+reasoning on this issue in the Astraeus Exemption, at 20, and therefore does not believe that relief is
+required from paragraph (a).
+          With respect to paragraph (b), TPS plans to operate these small UAS over private or
+controlled-access properties, which are not themselves congested areas, but which may be located
+within a broader heavily populated and congested area. Accordingly, TPS does not believe that an
+exemption is warranted from this paragraph covering "congested areas". However, as the FAA has
+noted (Trimble Exemption, at 18), there is no precise definition of "congested areas," and the PIC
+can obtain such information from the local Flight Standards District Office; but, even if these small
+UAS operations were to operate over areas somehow construed as being "congested", the proposed
+UAS operations will be far safer than operations by larger manned aircraft operating in compliance
+with the minimum altitude requirements (1,000 feet altitude). The operation of a much heavier,
+faster aircraft with an onboard pilot and other crewmembers, at 1,000 feet over a congested area,
+with a load of combustible fuel, unquestionably provides a lower level of safety than an operation
+conducted by a very small, extremely lightweight, battery-operated UA over private or controlled
+
+                                                               - 20 -
+
+\\DC - 026811/000011 - 6230588 v11
+                                                                                                 HOGAN LOVELLS US LLP
+access property that, at all times from takeoff to landing, can be safely operated well below the
+altitudes used by manned aircraft and continuously within VLOS of the PIC on the ground. To the
+extent necessary, TPS requests relief from paragraph (b).
+
+          With respect to paragraph (c), TPS requests an exemption to allow UAS operations down to
+the surface, both in sparsely populated areas and in "other than congested" areas. TPS' UAS
+operations require lower-level flying, but have a number of self-imposed restrictions to ensure at
+least an equivalent level of safety. For example,
+
+                All operations will avoid congested or populated areas.
+                All operations will be conducted over private or controlled access property.
+                Permission from the land owner/controller will be obtained prior to the beginning of
+
+                    each flight.
+                TPS will timely file a NOTAM for each flight.
+                The UA will operate at least 500 feet from all non-participating persons, vessels,
+
+                    vehicles, and structures unless:
+                         o Barriers or structures are present that sufficiently protect non-participating
+                               persons from the UA and/or debris in the event of an accident. TPS must
+                               ensure that non-participating persons remain under such protection; and if a
+                               situation arises where non-participating persons leave such protection and
+                               are within 500 feet of the UA, flight operations will cease immediately; and/or
+                         o The UA is operated near vessels, vehicles or structures where the land
+                               owner/controller has granted permission and the PIC has made a safety
+                               assessment of the risk of operating closer to those objects and determined
+                               that it does not present an undue hazard.
+
+          Even with a grant of this exemption, the UAS operations will be at least as safe as operations
+by manned aircraft that comply with this paragraph. Flying a manned aircraft, given its weight, size,
+speed, and fuel load, would pose a significant risk relative to the use of a small UA, with a smaller
+
+                                                               - 21 -
+
+\\DC - 026811/000011 - 6230588 v11
+                                                                                                 HOGAN LOVELLS US LLP
+
+size and weight, operating at much lower speeds, with batteries rather than a significant fuel load,
+
+and at all times within VLOS of the PIC on the ground who has a wide view. Accordingly, as the
+
+FAA determined in the Trimble Exemption, at 17-18, relief is warranted here provided that TPS
+
+adheres to its Manuals and the additional conditions and limitations outlined above and in the
+
+exemption. For these reasons, TPS requests relief from the entirety of paragraph (c).
+
+          TPS does not request relief from paragraph (d), because it applies only to helicopters (and
+
+allows operation at lower altitudes only if on a prescribed helicopter route) and powered parachute-
+
+type aerial vehicles.
+
+          FAR § 91.121 ­ Altimeter settings.
+
+          The regulation states, in relevant part:
+
+                                         (a) Each person operating an aircraft shall maintain the cruising
+                                         altitude or flight level of that aircraft, as the case may be, by reference
+                                         to an altimeter that is set, when operating--
+
+                                                   (1) Below 18,000 feet MSL, to--
+
+                                                        (i) The current reported altimeter setting of a station along
+                                                        the route and within 100 nautical miles of the aircraft;
+
+                                                        (ii) If there is no station within the area prescribed in
+                                                        paragraph (a)(1)(i) of this section, the current reported
+                                                        altimeter setting of an appropriate available station; or
+
+                                                        (iii) In the case of an aircraft not equipped with a radio,
+                                                        the elevation of the departure airport or an appropriate
+                                                        altimeter setting available before departure; or
+                                                   (2) At or above 18,000 feet MSL, to 29.92 Hg.
+
+                                         (b) * * * *.
+
+          It is not clear to TPS that an exemption from this section is required because, although the
+
+regulation expressly applies only to aircraft maintaining a "cruising altitude" and dictates the altimeter
+
+setting that must be used while at that cruising altitude, cruising altitudes for VFR flights do not begin
+
+                                    - 22 -
+
+\\DC - 026811/000011 - 6230588 v11
+                                                                                                 HOGAN LOVELLS US LLP
+­ according to FAR § 91.159 ­ until "more than 3,000 feet above the surface".6 Nonetheless, TPS
+requests an exemption from FAR § 91.121 to the extent necessary to permit TPS to conduct the
+small UAS operations described in this Petition. See Astraeus Exemption, at 21-22 (granting relief
+from this section with conditions and limitations).
+
+          TPS recognizes the critical importance of ensuring that any UAS operated by TPS maintain
+altitude to an accurate reference such that other aircraft and the FAA may rely on TPS's UAS to be
+operating as proposed. The Sirius UAS does not use a barometric altimeter. Instead, it determines
+altitude based on a GPS signal. To ensure the accuracy of the GPS signal, the PIC will check the
+UA altitude reading prior to each takeoff, and will effectively zero the UA's altitude at the point of
+takeoff, to ensure that measurements of the UA's altitude are as accurate as possible relative to the
+local elevation. To the extent that this methodology does not satisfy FAR § 91.121 or any other
+regulation, TPS requests an exemption to permit UAS operations using this methodology.
+
+          FAR § 91.151 ­ Fuel requirements for flight in VFR conditions.
+          The regulation states:
+
+                                         (a) No person may begin a flight in an airplane under VFR conditions
+                                         unless (considering wind and forecast weather conditions) there is
+                                         enough fuel to fly to the first point of intended landing and, assuming
+                                         normal cruising speed--
+
+                                                   (1) During the day, to fly after that for at least 30 minutes; or
+                                                   (2) At night, to fly after that for at least 45 minutes.
+                                         (b) No person may begin a flight in a rotorcraft under VFR conditions
+                                         unless (considering wind and forecast weather conditions) there is
+                                         enough fuel to fly to the first point of intended landing and, assuming
+                                         normal cruising speed, to fly after that for at least 20 minutes.
+          TPS requests an exemption from FAR § 91.151 to permit TPS to plan its UAS operations as
+described above. The proposed small UAS operations in this Petition will (i) involve operations in
+which one or more UAS is transported by means other than its own power to the operational
+
+6 FAR § 91.159; see also Aeronautical Information Manual, at Chpt. 3, Sec. 1, Tbl. 3-1-1para. 3-1-2. (Jul. 24, 2014).
+
+                                                               - 23 -
+
+\\DC - 026811/000011 - 6230588 v11
+                                                                                                 HOGAN LOVELLS US LLP
+location, and (ii) begin and end at the operational site, with the takeoff, entire flight, and landing all
+taking place within the immediate proximity to each other while remaining at all times within VLOS of
+the PIC.
+
+          The goal of FAR § 91.151 is to ensure that pilots plan for an extra 20 or 30 minutes of fuel at
+their first intended point of landing in order to account for unexpected possible delays en route and
+at the first planned destination. Many of these delays that plague manned aircraft are simply not an
+issue with the proposed small UAS operations over private or controlled access property, because
+there is virtually no "en route" portion of the flight, and any problems at the point of landing are
+extremely unlikely to cause delays, since a UA can always land just a few feet away if the intended
+point of landing becomes unusable.
+
+          Given the relatively short operating time for the Sirius UAS (50 minutes), requiring a full 30
+minutes of reserve "fuel" (battery power) could take up nearly all of the available time for UAS
+operations. TPS believes that using a smaller reserve for UAS flight planning purposes will be at
+least as safe as using the reserves required by FAR § 91.151 for manned aircraft. Using a reserve
+of 30% battery power for a daylight UA flight, for instance, will be adequate where the UA is
+essentially at its first point of landing from the moment it takes off (since there is no en route phase
+of flight), since the risks for delay at the intended landing area are not as great as for manned aircraft
+landings. To that end, and consistent with AAS Exemption Limitation No. 22, the PIC under the
+requested exemption will be prohibited from beginning a UAS flight unless (considering wind and
+forecast weather conditions) there is enough power to fly at normal cruising speed to the intended
+landing point and land the UA with at least 30% battery power remaining. TPS believes that these
+limitations will further ensure that the proposed reserve planning and operational requirements that
+TPS is requesting to use under the exemption will provide at least an equivalent level of safety.
+
+          For these reasons, TPS requests an exemption from FAR § 91.151(a) to permit it to plan and
+conduct UAS operations such that only 30% of the battery power (instead of 30 minutes) is available
+
+                                                               - 24 -
+
+\\DC - 026811/000011 - 6230588 v11
+                                                                                                 HOGAN LOVELLS US LLP
+at the end of the planned UAS operation. FAR § 91.151(b) covers only rotorcraft and thus is not
+applicable to the small UAS operations TPS is proposing.
+
+          FAR § 91.405(a) ­ Maintenance required.
+          The regulation states, in relevant part:
+
+                                         Each owner or operator of an aircraft--
+                                         (a) Shall have that aircraft inspected as prescribed in subpart E of this
+                                         part and shall between required inspections, except as provided in
+                                         paragraph (c) of this section, have discrepancies repaired as
+                                         prescribed in part 43 of this chapter;
+                                         (b) ****.
+          TPS requests an exemption from FAR § 91.405(a) to permit TPS to conduct the UAS
+operations proposed in this Petition without having to perform the inspections and discrepancy
+repairs required by FAR § 91.405(a). In the Astraeus Exemption and the Trimble Exemption, the
+FAA determined that the proposed UAS operations required exemption from FAR § 91.405(a), and
+that the achievement of an adequate level of safety required certain conditions and limitations, some
+of which were proposed by the petitioner and some of which were imposed by the FAA. These
+included requirements to develop and document maintenance, overhaul, replacement, and
+inspection requirements in the absence of manufacturer's requirements; procedures to document
+and maintain maintenance records with regard to the petitioner's UAS; UAS technician qualification
+criteria; and requirements to document comprehensive preflight inspection procedures.
+          TPS has proposed several conditions and limitations in Section 3 of this Petition related to
+maintenance and inspections consistent with those in the Astraeus Exemption and the Trimble
+Exemption. TPS believes that these conditions and limitations provide a level of safety at least
+equivalent to that provided by FAR § 91.405(a), the Astraeus Exemption, and the Trimble
+Exemption. For this reason, TPS requests an exemption from FAR § 91.405(a) to permit TPS to
+conduct UAS operations as proposed in this Petition, subject to the conditions and limitations
+
+                                                               - 25 -
+
+\\DC - 026811/000011 - 6230588 v11
+                                                                                                 HOGAN LOVELLS US LLP
+proposed above, without having to perform the inspections and discrepancy repairs required by FAR
+§ 91.405(a).
+
+          TPS does not believe that an exemption from the remaining paragraphs of FAR § 91.405 is
+required, since TPS will make appropriate logbook entries in aircraft maintenance records in
+accordance with paragraph (b), appropriately mark any inoperative instrument or item of equipment
+for which maintenance has been properly deferred in compliance with paragraph (c), and
+appropriately placard listed discrepancies that include inoperative instruments or equipment in
+compliance with paragraph (d).
+
+          FAR § 91.407(a)(1) ­ Operation after maintenance, preventive maintenance, rebuilding
+          or alteration.
+
+                    The regulation states:
+
+                                         (a) No person may operate any aircraft that has undergone
+                                         maintenance, preventive maintenance, rebuilding, or alteration
+                                         unless--
+
+                                           (1) It has been approved for return to service by a person
+                                           authorized under §43.7 of this chapter; and
+                                           (2) The maintenance record entry required by §43.9 or §43.11, as
+                                           applicable, of this chapter has been made.
+                                         (b) ****.
+                                         (c) ****.
+          TPS requests an exemption from FAR § 91.407(a)(1) to permit TPS to conduct UAS
+operations as proposed in this Petition without having to have the UAS approved for return to service
+by a person authorized under FAR § 43.7. In the Astraeus Exemption and the Trimble Exemption,
+the FAA determined that the proposed UAS operations required exemption from FAR § 91.407(a)(1),
+and that achieving an adequate level of safety required conditions and limitations similar to those in
+the Trimble Exemption and the Astraeus Exemption.
+
+                                                               - 26 -
+
+\\DC - 026811/000011 - 6230588 v11
+                                                                                                 HOGAN LOVELLS US LLP
+          TPS has proposed maintenance-related conditions and limitations in this Petition, which it
+believes provide a level of safety at least equivalent to that provided by FAR § 91.407(a)(1) and the
+conditions and limitations in the Trimble Exemption and Astraeus Exemption. For this reason, TPS
+requests an exemption from FAR § 91.407(a)(1) to permit TPS to conduct UAS operations as
+proposed in this Petition, subject to the proposed conditions and limitations, without having to have
+the UAS approved for return to service by a person authorized under FAR § 43.7.
+          TPS does not believe that an exemption from the remaining paragraphs of FAR § 91.407 is
+required, since TPS will require that maintenance record entries are made as required, in
+compliance with paragraph (a)(2), and since no persons will be carried following maintenance
+performed on the UAS, making paragraphs (b) and (c) moot.
+
+          FAR § 91.409(a)(1) and (2) ­ Inspections.
+          The regulation states, in relevant part:
+
+                                         (a) Except as provided in paragraph (c) of this section, no person
+                                         may operate an aircraft unless, within the preceding 12 calendar
+                                         months, it has had--
+
+                                           (1) An annual inspection in accordance with part 43 of this chapter
+                                           and has been approved for return to service by a person authorized
+                                           by §43.7 of this chapter; or
+                                           (2) An inspection for the issuance of an airworthiness certificate in
+                                           accordance with part 21 of this chapter.
+                                         No inspection performed under paragraph (b) of this section may be
+                                         substituted for any inspection required by this paragraph unless it is
+                                         performed by a person authorized to perform annual inspections and
+                                         is entered as an "annual" inspection in the required maintenance
+                                         records.
+                                         (b) ****.
+          TPS requests an exemption from FAR § 91.409(a)(1) and (2) to permit TPS to conduct UAS
+operations as proposed in this Petition without having to obtain the annual inspection and
+airworthiness certificate inspection required by FAR § 91.409(a)(1) and (2). In the Trimble
+Exemption and the Astraeus Exemption, the FAA determined that the proposed UAS operations
+
+                                                               - 27 -
+
+\\DC - 026811/000011 - 6230588 v11
+                                                                                                 HOGAN LOVELLS US LLP
+required exemption from FAR § 91.409(a)(1) and (2), and that achieving an adequate level of safety
+required conditions and limitations similar to those set forth in those previously-granted exemptions.
+
+          TPS has proposed maintenance and inspection-related conditions and limitations in this
+Petition, which it believes provide a level of safety at least equivalent to that provided by FAR §
+91.409(a)(1) and (2), the Trimble Exemption, and the Astraeus Exemption. For this reason, TPS
+requests an exemption from FAR § 91.409(a)(1) and (2) to permit TPS to conduct UAS operations
+as proposed in this Petition, subject to the proposed conditions and limitations, without having to
+obtain the annual inspection and airworthiness certificate inspection required by FAR § 91.409(a)(1)
+and (2).
+
+          FAR § 91.417(a) and (b) ­ Maintenance records.
+          The regulation states, in relevant part:
+
+                                         (a) Except for work performed in accordance with §§91.411 and
+                                         91.413, each registered owner or operator shall keep the following
+                                         records for the periods specified in paragraph (b) of this section:
+
+                                                   (1) Records of the maintenance, preventive maintenance, and
+                                                   alteration and records of the 100-hour, annual, progressive,
+                                                   and other required or approved inspections, as appropriate,
+                                                   for each aircraft (including the airframe) and each engine,
+                                                   propeller, rotor, and appliance of an aircraft. The records
+                                                   must include--
+
+                                                        (i) A description (or reference to data acceptable to the
+                                                        Administrator) of the work performed; and
+                                                        (ii) The date of completion of the work performed; and
+                                                        (iii) The signature, and certificate number of the person
+                                                        approving the aircraft for return to service.
+                                                   (2) Records containing the following information:
+                                                        (i) The total time in service of the airframe, each engine,
+                                                        each propeller, and each rotor.
+                                                        (ii) The current status of life-limited parts of each airframe,
+                                                        engine, propeller, rotor, and appliance.
+
+                                                               - 28 -
+
+\\DC - 026811/000011 - 6230588 v11
+                                                                                                 HOGAN LOVELLS US LLP
+
+                                                        (iii) The time since last overhaul of all items installed on
+                                                        the aircraft which are required to be overhauled on a
+                                                        specified time basis.
+
+                                                        (iv) The current inspection status of the aircraft, including
+                                                        the time since the last inspection required by the
+                                                        inspection program under which the aircraft and its
+                                                        appliances are maintained.
+
+                                                        (v) The current status of applicable airworthiness
+                                                        directives (AD) and safety directives including, for each,
+                                                        the method of compliance, the AD or safety directive
+                                                        number and revision date. If the AD or safety directive
+                                                        involves recurring action, the time and date when the next
+                                                        action is required.
+
+                                                        (vi) Copies of the forms prescribed by §43.9(d) of this
+                                                        chapter for each major alteration to the airframe and
+                                                        currently installed engines, rotors, propellers, and
+                                                        appliances.
+
+                                         (b) The owner or operator shall retain the following records for the
+                                         periods prescribed:
+
+                                                   (1) The records specified in paragraph (a)(1) of this section
+                                                   shall be retained until the work is repeated or superseded by
+                                                   other work or for 1 year after the work is performed.
+
+                                                   (2) The records specified in paragraph (a)(2) of this section
+                                                   shall be retained and transferred with the aircraft at the time
+                                                   the aircraft is sold.
+
+                                                   (3) A list of defects furnished to a registered owner or
+                                                   operator under §43.11 of this chapter shall be retained until
+                                                   the defects are repaired and the aircraft is approved for return
+                                                   to service.
+
+                                         (c) ****.
+
+          TPS requests an exemption from FAR § 91.417(a) and (b) to permit TPS to conduct UAS
+
+operations as proposed in this Petition without having to keep the records described in FAR §
+
+91.417(a) and (b). The FAA determined in the Trimble Exemption and the Astraeus Exemption that
+
+the proposed UAS operations required exemption from FAR § 91.417(a) and (b), and that an
+
+adequate level of safety required conditions and limitations similar to those set forth in those
+
+previously-granted exemptions.
+
+                                                               - 29 -
+
+\\DC - 026811/000011 - 6230588 v11
+                                                                                                 HOGAN LOVELLS US LLP
+          TPS has proposed maintenance, inspection, and records-related conditions and limitations in
+this Petition, which it believes provide a level of safety at least equivalent to that provided by FAR §
+91.417(a) and (b), the Trimble Exemption, and the Astraeus Exemption. For this reason, TPS
+requests an exemption from FAR § 91.417(a) and (b) to permit TPS to conduct UAS operations as
+proposed in this Petition, subject to the proposed conditions and limitations, without having to keep
+the records described in FAR § 91.417(a) and (b).
+
+          Additional FAR Provisions.
+          The Petition does not seek exemption from certain regulations based on the reasoning and
+FAA precedent outlined below in the footnote.7
+          However, TPS also requests that, to the extent that the FAA concludes that an exemption
+from one or more other provisions of the FAR would be required to permit the UAS operations
+
+7 This Petition does not seek exemption from:
+> FAR Part 21 or 36, based on the reasoning in the Astraeus Exemption, at 14, and Clayco Exemption, at 10.
+> FAR § 91.7(b), based on the reasoning in the Trimble Exemption, at 17.
+> FAR §§ 91.9(b)(2) and 91.203(a) and (b), based on the reasoning in the FAA's August 8, 2014 Memorandum titled
+"Interpretation regarding whether certain required documents may be kept at an unmanned aircraft's control station"
+("FAA's August 8, 2014 Memorandum"), the Astraeus Exemption, at 19-20, 22, and the Trimble Exemption, at 17, 20.
+> FAR §§ 45.23(b) and 91.9(c), based on the reasoning in the Astraeus Exemption, at 14, and Trimble Exemption,
+at 14, related to FAR § 45.23(b), and assuming that the markings on the UA used to comply with FAR Part 45,
+Subpart C requirements are as large as practicable.
+> FAR §§ 47.3(b)(2) and 47.31(c), based on the reasoning in the FAA's August 8, 2014 Memorandum, and
+assuming that all UA are registered in accordance with FAR Part 47.
+> FAR § 91.103(b)(2), based on the FAA's reasoning in the Astraeus Exemption, at 20, and Clayco Exemption, at
+14, which concluded that an exemption from the preflight action requirements is not necessary when the grant of an
+exemption for UAS operations includes conditions that satisfy preflight action requirements. TPS proposes such
+conditions in this Petition.
+> FAR § 91.109, based on the FAA's reasoning in the Astraeus Exemption, at 20, and Clayco Exemption, at 14,
+which concluded that an exemption from the requirement for dual flight controls for flight or simulator training or for
+flight testing is not necessary when there is no indication that dual flight controls will be used during any flight or
+simulator training or flight testing.
+
+                                                               - 30 -
+
+\\DC - 026811/000011 - 6230588 v11
+                                                                                                 HOGAN LOVELLS US LLP
+described in this Petition, the FAA grant an exemption from those FAR provisions as necessary to
+permit the UAS operations described in this Petition.8
+
+          5.4 Reasons why granting the request would be in the public interest:
+          A grant of the exemption would be in the public interest because it would enhance safety for
+the general public, TPS employees, and TPS customers.
+          First, the ability to use a small UAS to conduct the operations described herein, subject to
+the conditions and limitations proposed in this Petition, will enable TPS to have access to more
+complete data about aerial surveys, topography, demonstration flights, and maintenance flights,
+which ­ in turn ­ will enable TPS to conduct safe and effective aerial survey, demonstration or
+maintenance/repair flights that minimize the risk of harm to the general public, TPS employees, and
+TPS customers.
+          Second, given TPS' primary objective of providing a functional and safe UAS, this exemption
+would allow TPS to provide a comprehensive training, repair/service, and testing program for its
+customers who operate, or seek to operate, the small Sirius UAS. It is in the public interest for TPS
+to offer these types of programs so that (i) owners/operators of these small Sirius UAS are properly
+educated about safe flight operations and (ii) repairs done to the Sirius UAS are appropriately tested.
+          Third, the use of the small, lightweight, battery-powered Sirius UAS for these topographical
+aerial surveys and related operations is far less risky than undertaking those operations with a much
+heavier, much faster, much larger, manned helicopter or other aircraft loaded with fuel and a crew.
+As the FAA acknowledged in the Trimble Exemption, at 13:
+          "The [TPS] pilot and crew will be remotely located from the aircraft. The limited
+          weight and construction with impact absorbent materials significantly reduces the
+          potential harm to persons or damage to property in the event of an incident or
+          accident. The risk to an onboard pilot and crew during an incident or accident is
+          eliminated with the use of a UAS for the aerial surveying operation.
+
+8 TPS would be happy to provide follow-on documentation providing the rationale underlying any such additional
+exemptions.
+
+                                                               - 31 -
+
+\\DC - 026811/000011 - 6230588 v11
+                                                                                                 HOGAN LOVELLS US LLP
+          Manned aircraft are at risk of fuel spillage and fire in the event of an incident or
+          accident. [The Sirius UAS] carries no fuel [it is battery-powered] and therefore the
+          risk of fire following an incident or accident due to fuel spillage is eliminated."
+These distinctions, coupled with the safety-related features of the Sirius UAS such as Loss Link
+Procedures, redundant flight control systems, real-time telemetry, airspace awareness system, and
+terrain following, demonstrate that the Sirius UAS operations proposed in this Petition are far less
+risky than if operated by larger and heavier manned aircraft.
+
+          5.5 Reasons why granting the exemption would not adversely affect safety, or how
+                    the exemption would provide a level of safety at least equal to that provided by
+                    the rule from which exemption is sought:
+
+          Throughout this Petition, TPS has explained many reasons why granting an exemption from
+each section of the FAR from which relief is sought would result in UAS operations that provide a
+level of safety at least equal to, or greater than, that provided by the rule from which exemption is
+sought. Moreover, the many conditions and limitations proposed in this Petition also ensure at least
+an equivalent level of safety, as the FAA concluded in the Trimble Exemption and the Astraeus
+Exemption.
+
+          In general, the risks of any proposed UAS operation interfering with a manned aircraft is
+minimized by the low altitude at which the UAS will operate; the locations at which the UAS will
+operate (e.g., Class G airspace, private or controlled access property, away from airports); the small
+size/low weight and relatively slow speed of the Sirius UAS; the restriction of UAS operations to
+VMC and daytime conditions; the requirement for the PIC to maintain VLOS of the UA at all times;
+and the condition to obtain a NOTAM before each UAS flight, among other conditions and
+limitations. The risks to persons or property on the ground are also minimized by the small size/low
+weight of the Sirius UAS; the 500-foot set-off from non-participating persons or structures; the
+prohibition on flights over congested or densely populated areas; the PIC's VLOS requirement; and
+limiting operations to private or controlled access property, among others. These parameters,
+conditions, and limitations proposed in the Petition provide substantial protection against
+
+                                                               - 32 -
+
+\\DC - 026811/000011 - 6230588 v11
+                                                                                                 HOGAN LOVELLS US LLP
+interference with manned aircraft operations or with the safety of persons or property on the ground.
+In addition, under the proposed conditions and limitations in Section 3 of this Petition, TPS will
+coordinate extensively, as warranted, with the FAA, with local airports, and with property owners to
+ensure that all UAS operations under the exemption are at least as safe as would be manned aircraft
+operations used for similar purposes.
+
+          The Sirius UAS also has several safety-related protocols in case there is any lost link
+between the UA and the operator. These Lost Link Procedures are covered in the Operator's
+Manual and can handle lost links alone or in combination. As an example, if a GNSS link is lost, the
+autopilot sends an error message to the computer notifying the computer operator, who can notify
+the PIC to take control of the UAS and land. If the PIC does not take over control within a preset
+time, the UAS will begin to circle slowly and descend to land. If an RC link and data link are both
+lost, the UAS will return to the takeoff position and circle. The "return home command" can return
+the UA to its takeoff position or to another location established as "home" during the creation of the
+flight plan at any time during a flight. TPS can also end a UAS flight via a command from the
+computer telling the UA to land at a defined area automatically, or the PIC can take control of the UA
+using the RC controller.
+
+          In addition, another key safety feature of the MAVinci System is its dual control links. The
+MAVinci Ground Control Station ("GCS") and MAVinci Remote Control ("RC") consoles are dual,
+robust, and independent systems, affording a redundant means of controlling the UA ­ significantly
+increasing operational security. The 2.4 GHz RC console is connected wirelessly to the Sirius UA
+for piloting in autopilot assisted and fully manual modes. The MAVinci GCS functions from the
+laptop through the 2.4 GHz Connector antenna, providing fully autonomous flight. Should either
+system fail, the other system remains fully operational and is capable of providing safety of flight for
+the UAS.
+
+                                    - 33 -
+
+\\DC - 026811/000011 - 6230588 v11
+                                                                                                 HOGAN LOVELLS US LLP
+          For these reasons, granting an exemption from each section of the FAR from which relief is
+sought would not adversely affect safety, and would provide a level of safety at least equal to, or
+greater than, that provided by the rule from which exemption is sought.
+
+          5.6 Summary that can be published in Federal Register, including the rule from
+                    which exemption is sought, a brief description of the nature of the exemption
+                    sought:
+
+          TPS proposes that the FAA use the following as the summary:
+                    Docket No.: FAA-2015-______
+                    Petitioner: Topcon Positioning Systems, Inc.
+                    Sections of 14 CFR: 61.113(a) and (b), 91.7(a), 91.119(b) and (c), 91.121, 91.151,
+                    91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a) and (b).
+                    Description of Relief Sought: Petitioner seeks an exemption to conduct small UAS
+                    commercial operations for aerial surveying, product demonstration flights for potential
+                    customers, UAS product training for customers, and research and development for
+                    future product improvements related to these small UAS.
+
+          5.7 Additional information that supports request:
+          TPS is prepared to provide additional information that the FAA might find helpful, or to
+answer questions in response to any FAA requests. A confidential copy of each of the Manuals and
+the Topcon Certified Training Program will be submitted to the FAA Assistant Chief Counsel for
+International Law, Legislation, and Regulations as supporting documentation for this Petition. The
+Manuals and Topcon Certified Training Program contain information that is highly proprietary to TPS
+and/or MAVinci, and TPS requests that the FAA treat the Manuals and Topcon Certified Training
+Program as confidential and not disclose them to the public.
+
+          5.8 Request to exercise the privileges of the exemption outside the U.S.:
+          TPS does not request to exercise the privileges of the exemption outside the United States.
+
+                                                               - 34 -
+
+\\DC - 026811/000011 - 6230588 v11
+

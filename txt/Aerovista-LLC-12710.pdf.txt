@@ -1,0 +1,651 @@
+September 2, 2015
+
+                                                           Exemption No. 12710
+                                                           Regulatory Docket No. FAA-2015-1141
+
+Mr. Jason W. Lines
+Aerovista, LLC
+7440 South Juniper Street
+Tempe, AZ 85283
+
+Dear Mr. Lines:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter posted to the public docket on April 22, 2015, and letter dated July 20, 2015 you
+petitioned the Federal Aviation Administration (FAA) on behalf of Aerovista, LLC
+(hereinafter petitioner or operator) for an exemption. The petitioner requested to operate an
+unmanned aircraft system (UAS) to conduct project and construction management,
+inspections and monitoring, environmental review projects, aerial surveying; agricultural
+projects, educational and research projects, remote sensing projects, wildlife and forestry
+monitoring projects, aerial filmmaking, photography and real estate purposes, and search and
+rescue.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner are the 3D Robotics Solo and SenseFly eBee RTK.
+                                                                                                                 2
+
+The petitioner requested relief from 14 CFR part 21, Certification procedures for products
+and parts, Subpart H--Airworthiness Certificates. In accordance with the statutory criteria
+provided in Section 333 of Public Law 112-95 in reference to 49 U.S.C. § 44704, and in
+consideration of the size, weight, speed, and limited operating area associated with the
+aircraft and its operation, the Secretary of Transportation has determined that this aircraft
+meets the conditions of Section 333. Therefore, the FAA finds that the requested relief from
+14 CFR part 21, Certification procedures for products and parts, Subpart H--Airworthiness
+Certificates, and any associated noise certification and testing requirements of part 36, is
+not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection1. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+ They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+ The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+ A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, Aerovista, LLC is granted an exemption from 14 CFR
+§§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a), 91.7(a), 91.119(c), 91.121,
+91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a) and (b), to the
+
+1 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                                                 3
+
+extent necessary to allow the petitioner to operate a UAS to perform aerial data collection.
+This exemption is subject to the conditions and limitations listed below.
+
+Conditions and Limitations
+
+In this grant of exemption, Aerovista, LLC is hereafter referred to as the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+    1. Operations authorized by this grant of exemption are limited to the 3D Robotics Solo
+         and SenseFly eBee RTK when weighing less than 55 pounds including payload.
+         Proposed operations of any other aircraft will require a new petition or a petition to
+         amend this exemption.
+
+    2. Operations for the purpose of closed-set motion picture and television filming are
+         not permitted.
+
+    3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+         exemption holder may use either groundspeed or calibrated airspeed to determine
+         compliance with the 87 knot speed restriction. In no case will the UA be operated at
+         airspeeds greater than the maximum UA operating airspeed recommended by the
+         aircraft manufacturer.
+
+    4. The UA must be operated at an altitude of no more than 400 feet above ground level
+         (AGL). Altitude must be reported in feet AGL.
+
+    5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+         This requires the PIC to be able to use human vision unaided by any device other than
+         corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+         U.S. driver's license.
+
+    6. All operations must utilize a visual observer (VO). The UA must be operated within
+         the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+         to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+         capability. The VO and PIC must be able to communicate verbally at all times;
+         electronic messaging or texting is not permitted during flight operations. The PIC
+         must be designated before the flight and cannot transfer his or her designation for the
+         duration of the flight. The PIC must ensure that the VO can perform the duties
+         required of the VO.
+
+    7. This exemption and all documents needed to operate the UAS and conduct its
+         operations in accordance with the conditions and limitations stated in this grant of
+         exemption, are hereinafter referred to as the operating documents. The operating
+                                                                                                            4
+
+    documents must be accessible during UAS operations and made available to the
+    Administrator upon request. If a discrepancy exists between the conditions and
+    limitations in this exemption and the procedures outlined in the operating documents,
+    the conditions and limitations herein take precedence and must be followed.
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+                                                                                                            5
+
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+                                                                                       6
+
+exemption holder may apply for a new or amended COA if it intends to conduct
+operations that cannot be conducted under the terms of the attached COA.
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+
+    be as large as practicable.
+
+23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+    any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+    PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+    These documents must be made available to the Administrator or any law enforcement
+    official upon request.
+
+24. The UA must remain clear and give way to all manned aviation operations and
+    activities at all times.
+
+25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless:
+      a. Barriers or structures are present that sufficiently protect nonparticipating persons
+          from the UA and/or debris in the event of an accident. The operator must ensure
+          that nonparticipating persons remain under such protection. If a situation arises
+          where nonparticipating persons leave such protection and are within 500 feet of
+          the UA, flight operations must cease immediately in a manner ensuring the safety
+          of nonparticipating persons; and
+      b. The owner/controller of any vessels, vehicles or structures has granted permission
+          for operating closer to those objects and the PIC has made a safety assessment of
+          the risk of operating closer to those objects and determined that it does not
+          present an undue hazard.
+
+The PIC, VO, operator trainees or essential persons are not considered
+nonparticipating persons under this exemption.
+
+27. All operations shall be conducted over private or controlled-access property with
+    permission from the property owner/controller or authorized representative.
+    Permission from property owner/controller or authorized representative will be
+    obtained for each flight to be conducted.
+
+28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+
+    boundaries of the operational area as defined by the applicable COA must be reported
+    to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+                                                                                               7
+
+reported to the National Transportation Safety Board (NTSB) per instructions
+contained on the NTSB Web site: www.ntsb.gov.
+
+If this exemption permits operations for the purpose of closed-set motion picture and
+television filming and production, the following additional conditions and limitations apply.
+
+29. The operator must have a motion picture and television operations manual (MPTOM)
+    as documented in this grant of exemption.
+
+30. At least 3 days before aerial filming, the operator of the UAS affected by this
+    exemption must submit a written Plan of Activities to the local Flight Standards
+    District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+    notification may be waived with the concurrence of the FSDO. The plan of activities
+    must include at least the following:
+      a. Dates and times for all flights;
+      b. Name and phone number of the operator for the UAS aerial filming conducted
+          under this grant of exemption;
+      c. Name and phone number of the person responsible for the on-scene operation of
+          the UAS;
+      d. Make, model, and serial or N-Number of UAS to be used;
+      e. Name and certificate number of UAS PICs involved in the aerial filming;
+      f. A statement that the operator has obtained permission from property owners
+          and/or local officials to conduct the filming production event; the list of those
+          who gave permission must be made available to the inspector upon request;
+      g. Signature of exemption holder or representative; and
+      h. A description of the flight activity, including maps or diagrams of any area, city,
+          town, county, and/or state over which filming will be conducted and the altitudes
+          essential to accomplish the operation.
+
+31. Flight operations may be conducted closer than 500 feet from participating persons
+
+    consenting to be involved and necessary for the filming production, as specified in the
+    exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                                                 8
+
+This exemption terminates on September 30, 2017, unless sooner superseded or rescinded.
+
+Sincerely,
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+Regulations.gov - Other Document                                                        Home  Help  Resources  Feedback and Questions
+
+                      Aerovista, LLC - Petition for Exemption                                                  Advanced Search
+
+This Other document was issued by the Federal Aviation Administration (FAA)                                       Comment Now!
+For related information, Open Docket Folder  
+                                                                                                               ID: FAA-2015-1141-0001
+
+Content
+
+Request for Section 333 Exemption Photography                                                                     Document Information
+April 22, 2015
+by/for                                                                                                         Date Posted:
+Jason W Lines, Aerovista LLC                                                                                   Apr 22, 2015
+This document constitutes an exemption Request under Section
+333 of the FAA Modernization and Reform Act of 2012 for                                                        Show More Details  
+Aviation Unmanned to perform Aerial Photography by/for
+Jason W Lines, Aerovista LLC. The main use of this UAS would be recording                                          Submitter Information
+real-estate photos, video, and associated data. The UAS systems that I plan to use is a 3d Robotics
+SOLO and will be referenced in this document as SOLO.                                                          Submitter Name:
+1. The safe operation to the NAS and/or persons and/or                                                         Jason lines
+property will be kept to a minimum by always flying the UAS                                                    Mailing Address:
+within visual eye contact, less than 400 ft above ground and                                                   7440 South Juniper Street
+never directly above persons or public places. The orientation of                                              City:
+flights will be such that the pilot in command (PIC) always has a                                              Tempe
+visual on the rear mounted LED flight Indicator. Additional                                                    Country:
+safety features on the SOLO include, GPS navigation, return to                                                 United States
+home, low voltage, and enhanced failsafe.                                                                      State or Province:
+2. Pre-flight inspection would be checking battery                                                             AZ
+condition/level in both the transmitter and UAS. The binding/link                                              ZIP/Postal Code:
+feature will not let the UAS start if communication is not                                                     85283-5013
+established. A check for power-lines, antennas and other
+overhead objects would be performed. Wind conditions would                                                                Comments
+be monitored and be a factor for flying.
+3. The PIC will be only myself. I have completed 47.4 hours of flight training in a Cessna 172, as well as                 0
+173 logged landings, without mishap. I have completed ground school at an FAA approved school, and
+have passed the written PAR exam.                                                                                  Comments Received *
+4. I'm in good mental and physical health . No
+arrests or felonies. I have recently undergone an extensive background check for a position of public                Docket Information
+trust in relation to my work with the U.S. Department of Health and Human Services.
+5. The intended use of this UAS is to                                                                          This document is contained in
+provide video marketing material for real estate and business. As well as provide imaging and surface          FAA-2015-1141
+mapping data to agriculture and other businesses which would require those services.                           Related Dockets:
+6. All photo flights for hire would have the date, time, GPS                                                   None
+coordinates along with the camera metadata recorded on a                                                       Related RINs:
+hard drive and also backed up to a DVD. This data would be                                                     None
+kept readily available for a period of 1 year after each aerial                                                Related Documents:
+flight for hire.                                                                                               None
+7. Equipment and Specifications.
+3DR SOLO                                                                                                       * This count refers to the total
+Up to 26 minutes of flight time (20 with camera and Gimbal),
+Top speed: 55 mph                                                                                               comment/submissions received on
+Max Altitude: 400ft, per FAA rules                                                                              this document, as of 11:59 PM
+Weight: 1600 g; 1760 g with Solo Gimbal and GoPro                                                               yesterday. Note: Agencies review all
+Wifi range: up to a half a mile, depending on environment                                                       submissions, however some
+Controller with color screen and live flight data                                                               agencies may choose to redact, or
+Pixhawk 2 flight controller software                                                                            withhold, certain submissions (or
+Customizable color LEDs for orientation                                                                         portions thereof) such as those
+Solo Battery: 14.8 V LiPo (5200mAh)                                                                             containing private or proprietary
+Rechargeable controller batter: 2600 mAh/7.2 Vdc; lasts 4 hours (extendable battery available)                  information, inappropriate language,
+10x4.5 self tightening props                                                                                    or duplicate/near duplicate
+880 kV motors                                                                                                   examples of a mass-mail campaign.
+Plug and play with 3-axis Solo Gimbal from 3DR                                                                  This can result in discrepancies
+
+Respectfully,
+Jason W Lines
+
+http://www.regulations.gov/#!documentDetail;D=FAA-2015-1141-0001[4/23/2015 9:38:55 AM]
+Regulations.gov - Other Document                                                                                                                                                                                                                                                                                                                                between this count and those
+                                                                                                                                                                                                                                                                                                                                                                displayed when conducting
+                       7440 S Juniper St                                                                                                                                                                                                                                                                                                                        searches on the Public Submission
+                       Tempe, Arizona 85283                                                                                                                                                                                                                                                                                                                     document type. For specific
+                       602-492-6157                                                                                                                                                                                                                                                                                                                             information about an agency's
+                                                                                                                                                                                                                                                                                                                                                                public submission policy, refer to its
+                                                                                                                                                                                                                                                                                                                                                                website or the Federal Register
+                                                                                                                                                                                                                                                                                                                                                                document.
+
+Home                                                                                                                                                                                                                                                                                                       About Us              Resources                Help                        Connect With
+
+Search                                                                                                                                                                                                                                                                                                     eRulemaking Program   Site Data                How to use Regulations.gov     Feedback and
+Advanced Search                                                                                                                                                                                                                                                                                            Newsroom              Regulatory Agenda        FAQs                           Questions
+Browse By Category                                                                                                                                                                                                                                                                                         Agencies              Agency Reports Required  Glossary
+Browse By Topics                                                                                                                                                                                                                                                                                           Awards & Recognition  by Statute                                           Privacy and Security Notice
+Learn                                                                                                                                                                                                                                                                                                      Enhancements & Fixes  Executive Order 12866                                User Notice
+                                                                                                                                                                                                                                                                                                                                 Executive Order 13563                                Accessibility Statement
+                                                                                                                                                                                                                                                                                                                                 Developers
+
+Participate Today!Partner Sites We the People Federal Register Reginfo Congress.gov USA.gov E-Gov Opengov
+
+http://www.regulations.gov/#!documentDetail;D=FAA-2015-1141-0001[4/23/2015 9:38:55 AM]
+                    Jason Lines, Aerovista LLC
+                         7440 S Juniper St.
+
+                       Tempe, Arizona 85283
+                     Telephone: 602-492-6157
+
+                    Email: jlines@aerovista.biz
+
+July 20, 2015
+
+U. S. Department of Transportation
+
+Docket Management System
+West Building Ground Floor, Room w12-140
+
+1200 New Jersey Avenue, SE
+Washington DC 20590
+
+RE: Exemption Request Section 333 of the FAA Reform Act
+
+Dear Sir or Madam:
+
+We respectfully request exemption under Section 333 of the FAA Reform ACT and Part 11 of
+the Federal Aviation Regulations.
+
+Petitioner:
+
+Jason Lines, Aerovista LLC (AEROVISTA)
+
+7440 S Juniper St.
+
+Tempe, AZ 85283
+
+Telephone: 602-492-6157
+
+Email:              jlines@aerovista.biz
+
+AEROVISTA intends to incorporate the use of sUASs for a variety of projects which may
+include but not be limited to project and construction management, inspections and monitoring;
+
+environmental review projects; aerial surveying; agricultural projects; educational and research
+projects; remote sensing projects, wildlife and forestry monitoring projects; aerial filmmaking,
+
+photography and real estate purposes; search and rescue, etc.
+
+Specific Section(s) seeking exemption:
+
+14 C.F.R Part 21
+14 C.F.R. 45.23(b)
+
+14 C.F.R. 61.113(a) and (b)
+14 C.F.R. 91.7(a)
+
+14 C.F.R. 91.9(b)(2)
+14 C.F.R. 91.109
+
+14 C.F.R. 91.119
+U. S. Department of Transportation
+Docket Management System
+July 20, 2015
+Page Two
+
+         14 C.F.R. 91.121
+         14 C.F.R. 91.151(a)
+         14 C.F.R. 91.203(a) and (b)
+         14 C.F.R. 91.215
+         14 C.F.R. 91.104 through 91.417
+
+Extend of relief requested:
+
+To permit commercial operation of Small Unmanned Aircraft Systems (sUASs) for operations
+conducted within and under the conditions outlined herein or as may be established by the FAA
+as required by Section 333.
+
+Said exemption would permit the operation of sUASs under controlled conditions in limited,
+predetermined and controlled airspace. Upon granting of this proposed exemption request,
+AEROVISTA would conduct commercial operations of sUASs meeting or exceeding all
+operational and safety requirements per Section 333.
+
+Public Benefit:
+
+    1. Project and construction management, inspections and monitoring. The use of sUASs on
+         construction sites may improve the safety of workers, local residents and general public
+         by assessing potential dangerous situations. Falls and injuries may be reduced or
+         eliminated through a more thorough review of the construction sites. In some cases,
+         sUASs may reduce the reliance of helicopters or small aircraft to monitor said sites. This
+         may improve safety as well as reduce environmental impact by reducing energy usage;
+
+    2. Environmental Review projects. The use of sUASs during the process of reviewing
+         projects as required by 24 C.F.R. 50.4, 58.5 and 58.6 would provide a more in-depth
+         Environmental Review of the project site as well as surrounding areas. Reliance of
+         helicopters or small aircraft may be eliminated;
+
+    3. Aerial surveying. The use of sUASs in connection with aerial surveying of smaller areas
+         may eliminate the use of helicopters or aircraft. This could provide a more cost effective,
+         safer and more energy efficient product;
+
+    4. Agricultural projects. Wildlife and Forestry projects. The use of sUASs could assist with
+         surveying agricultural projects as well as wildlife and forestry projects by providing
+         information when problems occur, vermin infestation, fire hazards, etc.;
+
+    5. Remote Sensing projects. The use of sUASs could provide views and information for
+         remote and inaccessible areas. This could promote worker safety as well as reduce the
+         reliance on helicopters and aircraft;
+
+    6. Educational and Research projects. The use of sUASs could provide information for said
+         projects in a more cost effective and efficient manner than other available options;
+U. S. Department of Transportation
+Docket Management System
+July 20, 2015
+Page Three
+
+    7. Aerial filmmaking, photography and real estate purposes. The use of sUASs may
+         provide a point of view previously unavailable through other means. They would be
+         more cost effective, efficient and more safely than helicopters and aircraft; and
+
+    8. Search and rescue. The use of sUASs may provide assistance to local law organizations
+         during search and rescue missions. SUASs may reach areas unattainable or viewable
+         with helicopters and aircraft. SUASs may be implemented quicker as time is of the
+         essence during search and rescue operations.
+
+Reasons why the exemption would not adversely affect safety or how the exemption would
+provide a level of safety at least equal to the existing rule.
+
+Proposed operations using sUASs provide increased safety enhancement especially when
+compared with helicopters and aircraft for the following reasons:
+
+    1. The sUASs will weigh less than ten (10) pounds;
+    2. Flights will be operated within the visual line of sight of the pilot;
+    3. Maximum total flight time for each operational flight will be thirty (30) minutes. Flight
+
+         times may be less than thirty (30) minutes as the UAS will continuously monitor battery
+         reserve and return to the ground station with at least 20% battery power reserved;
+    4. Flights will be operated at an altitude of 200 feet AGL. Flights will never exceed 400
+         feet AGL;
+    5. Minimum crew for each operation will consist of the sUAS pilot and a Visual Observer;
+    6. A briefing will be conducted daily by all personnel working with said sUAS;
+    7. All onsite personnel and client employees will be required to execute a waiver.
+         Verbal/written consent will be required of all persons within 100 feet of flight operation;
+    8. Written and/or oral permission from relative property owners will be obtained prior to
+         operating the sUAS;
+    9. All permits, permissions, etc. will be obtained from local government offices as required;
+    10. The sUAS operated will weigh less than 55 pounds including payload (camera, lens,
+         gimbal, etc.); and
+    11. The sUAS will operate at speeds less than 50 knots, hover and simultaneously move
+         vertically and horizontally;
+    12. The sUAS will have the capability to return and land at the pre-determined location with
+         the Security Perimeter should the sUAS lose communication or GPS signal during any
+         operations;
+    13. The sUAS will have the capability to abort a flight in case of unpredicted obstacles or
+         emergencies;
+    14. Operations will not be conducted over densely populated areas or heavily traffic
+         highways; and
+    15. Operations will not be conducted within five (5) NM of an airport or heliport.
+U. S. Department of Transportation
+Docket Management System
+July 20, 2015
+Page Four
+
+AEROVISTA will abide by all regulations including the following:
+
+    1. 14 C.F.R. Part 21, Certification Procedures for Products and Parts. Airworthiness
+         Certificates;
+
+    2. 14 C.F.R. 45.23 Display of marks; general and 45.29 Size of marks;
+    3. 14 C.F.R. 61.113 Private pilot privileges and limitations: Pilot in Command and 61.133
+
+         Commercial pilot privileges and limitations;
+    4. 14 C.F.R. 91.7 Civil aircraft airworthiness;
+    5. 14 C.F.R. 91.9 Civil aircraft flight manual, marking and placard requirements;
+    6. 14 C.F.R. 91.109 Flight instruction; Simulated instrument flight and certain flight tests;
+    7. 14 C.F.R. 91.119 Minimum safe altitudes: general;
+    8. 14 C.F.R. 91.121 Altimeter settings;
+    9. 14 C.F.R. 91.151 Fuel requirements for flight in VFR conditions;
+    10. 14 C.F.R. 91.203 Civil aircraft: Certifications required;
+    11. 14 C.F.R. 91.205 Powered civil aircraft with standard category U.S. airworthiness
+
+         certificates: Instrument and equipment requirements;
+    12. 14 C.F.R. 91.215 ATC transponder and altitude reporting equipment and use;
+    13. 14 C.F.R. 91.401 Applicability;
+    14. 14 C.F.R. 91.403 General;
+    15. 14 C.F.R. 91.405 Maintenance required;
+    16. 14 C.F.R. 91.407 Operation after maintenance, preventive maintenance, rebuilding or
+
+         alteration;
+    17. 14 C.F.R. 91.409 Inspections;
+    18. 14 C.F.R. 91.411 Altimeter system and altitude reporting equipment tests and
+
+         inspections;
+    19. 14 C.F.R. 91.413 ATC transponder tests and inspections;
+    20. 14 C.F.R. 91.415 Changes to aircraft inspection programs; and
+    21. 14 C.F.R. 91.417 Maintenance records.
+
+Privileges of exemption outside the United States.
+
+AEROVISTA may wish to exercise the privileges of this exemption outside the United States
+should a contract with a governmental office require same. All required rules and regulations
+will be followed should this occur.
+U. S. Department of Transportation
+Docket Management System
+July 20, 2015
+Page Five
+
+Equipment and Specifications.
+
+3DR SOLO KIT ~ 3DR solo, 3DR Solo Gimbal, 3DR Solo Controller, 3DR Solo Propeller Set ­
+Black, 3DR Solo Battery Charger, 3DR Solo Controller Charger
+
+Specifications:
+Up to 26 minutes of flight time (20 with camera and Solo Gimbal),
+HD video streaming to mobile
+Top speed: 55 mph
+Max Altitude: 400ft, per FAA rules
+Weight: 1600 g; 1760 g with Solo Gimbal and GoPro
+Wifi range: up to a half a mile, depending on environment
+Controller with color screen and live flight data
+Pixhawk 2 flight controller software
+Customizable color LEDs for orientation
+Solo Battery: 14.8 V LiPo (5200mAh)
+Rechargeable controller batter: 2600 mAh/7.2 Vdc; lasts 4 hours (extendable battery available)
+10x4.5 self tightening props
+880 kV motors
+Plug and play with 3-axis Solo Gimbal from 3DR
+
+SenseFly EBEE RTK
+
+Specifications:
+
+Weight (inc. supplied camera) Approx. 0.73 kg (1.61 lb)
+Wingspan 96 cm (38 in)
+Material EPP foam, carbon structure & composite parts
+Propulsion Electric pusher propeller, 160 W brushless DC motor
+GNSS/RTK receiver L1/L2, GPS & GLONASS
+Battery 11.1 V, 2150 mAh
+Maximum flight time 40 minutes
+Nominal cruise speed 40-90 km/h (11-25 m/s or 25-56 mph)
+Radio link range Up to 3 km (1.86 miles)
+Maximum coverage (single flight) 8 km² / 3 mi² (974 m / 3,195 ft alt. AGL)
+Wind resistance Up to 45 km/h (12m/s or 28 mph)
+Multi-drone operation Yes (inc. mid-air collision avoidance)
+Automatic 3D flight planning Yes
+Linear landing accuracy Approx. 5 m (16.4 ft)
+
+Please feel free to contact our office if there are any additional questions or concerns.
+

@@ -1,0 +1,999 @@
+September 17, 2015
+
+                                                           Exemption No. 12905
+                                                           Regulatory Docket No. FAA-2015-2695
+
+Mr. Thomas E. Cmejla
+Drone Skyworks, LLC
+President
+Rockbottom Road
+Stow, MA 01775
+
+Dear Mr. Cmejla:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter dated June 4, 2015, you petitioned the Federal Aviation Administration (FAA) on
+behalf of Drone Skyworks, LLC (hereinafter petitioner or operator) for an exemption. The
+petitioner requested to operate an unmanned aircraft system (UAS) to conduct aerial filming
+and photography for: real estate, infrastructure inspections, construction, architecture,
+scientific research, environmental assessment, and land surveying and mapping.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner is a DJI Inspire 1.
+                                                                                                                 2
+
+The petitioner requested relief from 14 CFR part 21, Certification procedures for products
+and parts, Subpart H--Airworthiness Certificates. In accordance with the statutory criteria
+provided in Section 333 of Public Law 112-95 in reference to 49 U.S.C. § 44704, and in
+consideration of the size, weight, speed, and limited operating area associated with the
+aircraft and its operation, the Secretary of Transportation has determined that this aircraft
+meets the conditions of Section 333. Therefore, the FAA finds that the requested relief from
+14 CFR part 21, Certification procedures for products and parts, Subpart H--Airworthiness
+Certificates, and any associated noise certification and testing requirements of part 36, is
+not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection1. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+ They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+ The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+ A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, Drone Skyworks, LLC is granted an exemption from
+14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a), 91.7(a), 91.119(c),
+91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a) and (b), to
+
+1 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                                                 3
+
+the extent necessary to allow the petitioner to operate a UAS to perform aerial data collection.
+This exemption is subject to the conditions and limitations listed below.
+
+Conditions and Limitations
+
+In this grant of exemption, Drone Skyworks, LLC is hereafter referred to as the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+    1. Operations authorized by this grant of exemption are limited to the DJI Inspire 1 when
+         weighing less than 55 pounds including payload. Proposed operations of any other
+         aircraft will require a new petition or a petition to amend this exemption.
+
+    2. Operations for the purpose of closed-set motion picture and television filming are
+         not permitted.
+
+    3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+         exemption holder may use either groundspeed or calibrated airspeed to determine
+         compliance with the 87 knot speed restriction. In no case will the UA be operated at
+         airspeeds greater than the maximum UA operating airspeed recommended by the
+         aircraft manufacturer.
+
+    4. The UA must be operated at an altitude of no more than 400 feet above ground level
+         (AGL). Altitude must be reported in feet AGL.
+
+    5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+         This requires the PIC to be able to use human vision unaided by any device other than
+         corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+         U.S. driver's license.
+
+    6. All operations must utilize a visual observer (VO). The UA must be operated within
+         the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+         to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+         capability. The VO and PIC must be able to communicate verbally at all times;
+         electronic messaging or texting is not permitted during flight operations. The PIC
+         must be designated before the flight and cannot transfer his or her designation for the
+         duration of the flight. The PIC must ensure that the VO can perform the duties
+         required of the VO.
+
+    7. This exemption and all documents needed to operate the UAS and conduct its
+         operations in accordance with the conditions and limitations stated in this grant of
+         exemption, are hereinafter referred to as the operating documents. The operating
+         documents must be accessible during UAS operations and made available to the
+                                                                                                            4
+
+    Administrator upon request. If a discrepancy exists between the conditions and
+    limitations in this exemption and the procedures outlined in the operating documents,
+    the conditions and limitations herein take precedence and must be followed.
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+                                                                                                            5
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+    exemption holder may apply for a new or amended COA if it intends to conduct
+    operations that cannot be conducted under the terms of the attached COA.
+                                                                                                            6
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+    be as large as practicable.
+
+23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+    any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+    PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+    These documents must be made available to the Administrator or any law enforcement
+    official upon request.
+
+24. The UA must remain clear and give way to all manned aviation operations and
+    activities at all times.
+
+25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless:
+      a. Barriers or structures are present that sufficiently protect nonparticipating persons
+          from the UA and/or debris in the event of an accident. The operator must ensure
+          that nonparticipating persons remain under such protection. If a situation arises
+          where nonparticipating persons leave such protection and are within 500 feet of
+          the UA, flight operations must cease immediately in a manner ensuring the safety
+          of nonparticipating persons; and
+      b. The owner/controller of any vessels, vehicles or structures has granted permission
+          for operating closer to those objects and the PIC has made a safety assessment of
+          the risk of operating closer to those objects and determined that it does not
+          present an undue hazard.
+
+    The PIC, VO, operator trainees or essential persons are not considered
+    nonparticipating persons under this exemption.
+
+27. All operations shall be conducted over private or controlled-access property with
+    permission from the property owner/controller or authorized representative.
+    Permission from property owner/controller or authorized representative will be
+    obtained for each flight to be conducted.
+
+28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+    boundaries of the operational area as defined by the applicable COA must be reported
+    to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+    reported to the National Transportation Safety Board (NTSB) per instructions
+    contained on the NTSB Web site: www.ntsb.gov.
+                                                                                                                 7
+
+ If this exemption permits operations for the purpose of closed-set motion picture and
+ television filming and production, the following additional conditions and limitations apply.
+
+    29. The operator must have a motion picture and television operations manual (MPTOM)
+         as documented in this grant of exemption.
+
+    30. At least 3 days before aerial filming, the operator of the UAS affected by this
+         exemption must submit a written Plan of Activities to the local Flight Standards
+         District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+         notification may be waived with the concurrence of the FSDO. The plan of activities
+         must include at least the following:
+           a. Dates and times for all flights;
+           b. Name and phone number of the operator for the UAS aerial filming conducted
+              under this grant of exemption;
+           c. Name and phone number of the person responsible for the on-scene operation of
+              the UAS;
+           d. Make, model, and serial or N-Number of UAS to be used;
+           e. Name and certificate number of UAS PICs involved in the aerial filming;
+           f. A statement that the operator has obtained permission from property owners
+              and/or local officials to conduct the filming production event; the list of those
+              who gave permission must be made available to the inspector upon request;
+           g. Signature of exemption holder or representative; and
+           h. A description of the flight activity, including maps or diagrams of any area, city,
+              town, county, and/or state over which filming will be conducted and the altitudes
+              essential to accomplish the operation.
+
+    31. Flight operations may be conducted closer than 500 feet from participating persons
+         consenting to be involved and necessary for the filming production, as specified in the
+         exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                                                 8
+
+This exemption terminates on September 30, 2017, unless sooner superseded or rescinded.
+
+Sincerely,
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+June 4, 2015
+
+U. S. Department of Transportation
+Docket Management System
+1200 New Jersey Ave.,
+SE Washington DC 20590
+
+Re: Exemption Request § 333 of the FAA Reform Act of the Federal Aviation Regulations
+from 14 CFR § 21; 61.113 (a) & (b); 61.133 (a); 91.7 (a); 91.9 (b); 91.109 (a); 91.119 (c); 91.121;
+91.151 (a); 91.203; 91.405 (a); 91.407 (a) (1); 91.409 (a) (2); 91.417 (a) & (b).
+
+Dear Sir or Madam,
+
+         Pursuant to § 333 of the FAA Modernization and Reform Act of 2012 (the Reform Act) and
+14 C.F.R. Part 11, Drone Skyworks, LLC, operator of Small Unmanned Aircraft Systems (sUAS)
+equipped to conduct aerial filming and photographing to include: commercial and residential real
+estate, infrastructure inspections, construction, architecture, scientific research, environmental
+assessment, land surveying and mapping and other applicable areas for pre-planned, controlled
+areas, hereby applies for an exemption from the listed Federal Aviation Regulations (FARs) to allow
+commercial operation of its sUAS, so long as such operations are conducted within and under the
+conditions outlined herein or as may be established by the Federal Aviation Administration (FAA) as
+required by § 333. Drone Skyworks, LLC operation of its sUAS for commercial purposes awaits a
+review and the anticipated granting of this petition by the FAA before conducting any operation for
+its clients to fully comply with all federal aviation regulations pertaining to sUAS.
+
+         As described more fully below, the requested exemption would permit the operation of small,
+unmanned and multi-rotor aircraft under controlled conditions in airspace that is 1) contained 2)
+predetermined 3) has on-site safety personnel controlling access, and 4) would provide increased
+safety and enhancements to clients' business operations.
+
+         I am prepared to modify or amend any part of this request to satisfy the need for an
+equivalent level of safety. I look forward to working with your office. Please contact me at any time
+if you require additional information or clarification.
+
+The name and address of the applicant is:
+
+Drone Skyworks, LLC
+Thomas E. Cmejla
+President
+Phone: 978-729-9467
+Email: tcmejla@gmail.com
+Address: 3 Rockbottom Road, Stow, MA, 01775
+
+1 | Drone Skyworks, LLC Petition for Exemption under Section 333
+PUBLISHABLE SUMMARY
+
+         The following summary is provided for publication in the Federal Register, should it be
+determined that publication is needed.
+
+         Drone Skyworks, LLC seeks an exemption pursuant to 14 C.F.R. § 11.61 and Section 333 of
+the FAA Modernization and Reform Act of 2012 from the requirements of 14 CFR § 21; 61.113 (a)
+& (b); 61.133 (a); 91.7 (a); 91.9 (b); 91.109 (a); 91.119 (c); 91.121; 91.151 (a); 91.203; 91.405 (a);
+91.407 (a) (1); 91.409 (a) (2); and 91.417 (a) & (b). This exemption request will permit Drone
+Skyworks, LLC to operate its sUAS commercially for the purpose of aerial filming and
+photographing to include: commercial and residential real estate, infrastructure inspections,
+construction, architecture, scientific research, environmental assessment, land surveying and
+mapping. Drone Skyworks, LLC will provide a service that is beneficial to industries and
+organizations that are already using, and/or seeking to use, sUAS's for these purposes with a legal
+and safe option. This will benefit the public with the controlled operation of sUASs and increase
+their integration into the NAS.
+
+         The requested exemption should be granted because the proposed operation of the DJI
+Inspire 1, a small UAS (sUAS) weighing 6 lbs. 7.52 oz., inclusive of battery and payload, conducted
+in the strict conditions outlined below, will provide an equivalent or better level of safety, as
+Congress intended, while still allowing commercial operations. The lightweight aircraft covered by
+the exemption is far safer than conventional operations conducted with helicopters and fixed-wing
+aircraft operating in close proximity to the ground and people. The seven factors Congress directed
+the FAA to consider when approving Section 333 exemption petitions - size, weight, speed,
+operational capability, proximity to airports, proximity to populated areas, and operation within
+visual line of sight - each support the request. In particular, the aircraft is small, and will operate at
+slow speeds, close to the ground, far from airports and in a low risk, low and controlled population
+environment.
+
+Name and address of petitioner:
+
+Drone Skyworks, LLC
+Thomas E. Cmejla
+3 Rockbottom Road
+Stow, MA 01775
+
+2 | Drone Skyworks, LLC Petition for Exemption under Section 333
+BACKGROUND OF PETITIONER
+
+      Drone Skyworks, LLC is a limited liability company owned and operated by Thomas E.
+      Cmejla. Mr. Cmejla is currently in active pursuit of his Private Pilot Certificate and the
+      required medical certificate.
+
+      Beginning in the late 1990s, Mr. Cmejla has devoted a significant portion of his professional
+      career to designing, inventing and deploying new and innovative, web-based technologies and
+      devices that have changed the ways in which customers and end users access information and
+      make decisions. In some cases, the very nature of the information available to them changed
+      altogether. The integration of sUASs into the National Airspace System (NAS) has the
+      promise and potential to be equally transformative in the ways in which the public, educational
+      and research institutions, businesses and non-profits pursues their interests and goals.
+
+      Drone Skyworks, LLC will conduct its business using the DJI Inspire 1 sUAS. The Inspire 1 is
+      a vertical takeoff and landing sUAS with a maximum gross weight of less than 55 pounds and
+      a maximum speed of less than 50 mph. The Inspire 1 is driven by lithium polymer batteries and
+      powered by electric motors.
+
+      The aircraft registration application and all required supporting documentation for this sUAS
+      has been forwarded to the FAA Aircraft Registration Branch, AFS-750, P.O. Box 25504,
+      Oklahoma City, OK 73125-0504.
+
+PUBLIC INTEREST AND HOW THE PUBLIC WILL BENEFIT
+
+      This exemption request will permit Drone Skyworks, LLC to operate its sUAS commercially
+      for the purpose of aerial filming and photographing to include: commercial and residential real
+      estate, infrastructure inspections, construction, architecture, scientific research, environmental
+      assessment, land surveying and mapping and other applicable areas. Drone Skyworks, LLC
+      will provide a service that is beneficial to industries and organizations that are already using,
+      and seeking to use, sUASs for these purposes with a legal and safe option. This will benefit the
+      public with the controlled operation of sUASs and increase integration into the NAS.
+
+      Granting the present petition will further the public interest by allowing Drone Skyworks, LLC
+      to perform safely, efficiently, and economically, aerial video and photography of construction
+      sites, real estate, and landscape over certain areas of the United States.
+      Additionally, use of the DJI Inspire 1 sUAS will decrease congestion of the NAS, reduce
+      pollution, and provide significant benefits to the economy.
+
+      The integration of sUASs into the NAS will not only replace traditionally more expensive
+      options or approaches, it will enable work to be done and decisions to be made in ways that
+      were simply impossible to do previously. The commercial deployment of small unmanned
+
+3 | Drone Skyworks, LLC Petition for Exemption under Section 333
+      aircraft systems offers the public a new, highly efficient and relatively inexpensive platform for
+      collecting, analyzing and utilizing data and photographic/video imagery.
+
+      In deploying its sUAS, Drone Skyworks, LLC has developed specific performance standards,
+      operating requirements, protocols and work processes that are aligned with the FAA's
+      continuing mission, and result in safe operating practices that are consistently applied and
+      continuously improved. For its part, Drone Skyworks, LLC recognizes the important role it
+      plays in educating the public and building awareness of both the promise and precautions that
+      accompany the commercial deployment of this new and exciting platform.
+
+      The sUAS utilized by Drone Skyworks, LLC is battery-powered and serves as a safe, efficient
+      and economical alternative to the manned aircraft traditionally utilized to obtain aerial imagery.
+      A grant of exemption would allow Drone Skyworks, LLC to contribute to the reduction of
+      manned aircraft needed to perform the aerial acquisition of data, video and photographic
+      content and subsequently reduce the volume of manned aircraft in the NAS.
+
+      Conducting aerial acquisitions with the DJI Inspire 1 sUAS, instead of manned aircraft, will
+      greatly benefit the public by drastically reducing the levels of air and noise pollution generated
+      during traditional aerial video and still photography flight operations. By using battery power
+      and electric motors, the DJI Inspire 1 sUAS produces no air pollution, and is the most viable
+      environmentally conscious alternative to the cabin class, six cylinder internal combustion
+      engine aircraft that are typically utilized for aerial video and photography, while burning
+      approximately 20-30 gallons per hour of leaded aviation fuel. The DJI Inspire 1 sUAS, while
+      reducing the carbon footprint of aerial acquisitions, also sharply reduces noise pollution, as the
+      sUAS is propelled by battery powered electric motors, rather than an internal combustion
+      engine.
+
+      By using the DJI Inspire 1 sUAS to perform aerial acquisitions, the substantial risk to life and
+      property in the air and on the ground, which is usually associated with traditional manned
+      aircraft flight operations, will be substantially reduced or completely eliminated. The DJI
+      Inspire 1 sUAS (weighing approximately 6 pounds 7.5 ounces at its maximum gross weight
+      with a length of 17.3 inches and width of 17.7 inches, and with no fuel on board), has less
+      physical potential for collateral damage to life and property on the ground, and in the air,
+      compared to the manned aircraft that typically conduct similar operations (weighing
+      approximately 6,000 pounds with a wingspan of approximately 42 feet, a length of 34 feet, and
+      a fuel capacity of 180 gallons).
+
+      Previously, such services as high-resolution digital aerial real estate photography, surveying
+      and inspections were limited and affordable to a relatively small group of agencies, companies
+      and organizations with significant operating capital. The granting of this exemption will enable
+      Drone Skyworks, LLC to change this by deploying its sUAS in ways that make aerial
+      photography and other sUAS services accessible and affordable to a significantly larger portion
+      of individuals, organizations and businesses. The many new forms of aerial content would
+      have immediate and direct benefits to service providers, business owners and consumers alike.
+
+4 | Drone Skyworks, LLC Petition for Exemption under Section 333
+PUBLIC SAFETY
+
+      With safety as its primary operational requirement, Drone Skyworks, LLC will plan, conduct
+      and manage its flight operations within very specific and well-defined operating limitations
+      and standards detailed in its flight operations protocols (see Attachment G). These protocols
+      also clearly define the roles and responsibilities of the pilot in charge (PIC), visual observer
+      (VO), sensor operator (SO) and the client representative working with the Drone Skyworks
+      team.
+
+      In seeking this exemption, Drone Skyworks, LLC submits that the DJI Inspire 1 sUAS can
+      operate safely in the NAS pursuant to FMRA Section 333, as demonstrated by the
+      characteristics of the DJI Inspire 1 sUAS, the pilot certification requirements, and the specific
+      operating limitations. The specifications of the DJI Inspire 1 sUAS (see Attachments A and B)
+      demonstrate its safe characteristics. The DJI Inspire 1 sUAS does not create a hazard to users
+      of the NAS or the public, or otherwise pose a threat to national security considering its size,
+      weight, speed, and operational capability. Many of the functional capabilities and features of
+      the DJI Inspire 1 sUAS enable it to be operated in a highly controlled, precise and safe manner.
+
+      The DJI Inspire 1 sUAS autonomous flight and navigation modes enable it to remain within a
+      defined operational area. Also, the DJI Inspire 1 sUAS may be operated in both manual and
+      fully autonomous flight modes. A complete description of the flight and navigational modes of
+      the DJI Inspire 1 sUAS is provided on pages 12-16 and 45-50 of the DJI Inspire 1 User Manual
+      (see Attachment B).
+
+      The DJI Inspire 1 sUAS includes automatic return-to-home-point or hover functionality in the
+      event of loss of the control link or navigation. When the control ink is lost, the DJI Inspire 1
+      sUAS will remain stationary, in flight, for 3 seconds or more. If, after 3 seconds, the DJI
+      Inspire 1 sUAS does not reacquire control link data from the ground control station/remote
+      controller, the sUAS will assume that the control link is lost and will return to the home
+      position (i.e., failsafe mode) via GPS, and will descend to the takeoff position and shutdown.
+      A complete description of the failsafe functions of the DJI Inspire 1 is provided on pages 13-15
+      of the DJI Inspire 1 User Manual (see Attachment B).
+
+      Whether helping to protect the public, inspecting infrastructure, conducting site and land
+      surveys or acquiring aerial imagery and video, Drone Skyworks LLC sUAS will be providing
+      its customers with more accurate and timely information. The real-time situational awareness
+      and improved decision-making this achieves will enable Drone Skyworks' customers and
+      clients to communicate with and more safely serve and support their respective constituents.
+
+      Strict adherence to specific flight operations protocols (see Attachment G and H), the use of
+      the DJI Inspire 1 sUAS configured with significant safety functionality, the acquisition of an
+      accurate understanding of both the flight operations area and its adjacencies using Drone
+      Skyworks' Site Safety and Planning Template (see Attachment L), and the use of Drone
+
+5 | Drone Skyworks, LLC Petition for Exemption under Section 333
+      Skyworks' On-Site Client Safety Briefing (see Attachment M) will provide a level of safety
+      and oversight that is in complete alignment with the FAA's mission to "provide the safest,
+      most efficient aerospace system in the world." [FAA online document, Public Guidance for
+      Petitions for Exemption Filed under Section 333. Rev. 9/25/2014]
+
+PRIVACY
+
+      All flights will occur over private or controlled-access property with the property owner's or
+      controlling authority's prior consent and knowledge. Aerial photography and video capture
+      will be of people who have provided their written consent (see Attachment N) to being
+      photographed or have been authorized to be in the area where flight operations are taking
+      place. Establishing and maintaining tight controls over access to the flight operations area will
+      minimize privacy issues.
+
+      Similar to the manned aerial acquisition flight operations that have been conducted for
+      decades, Drone Skyworks, LLC's proposed operation of the DJI Inspire 1 sUAS will not
+      implicate any privacy issues. Specifically, the DJI Inspire 1 sUAS will be operated under
+      detailed operational protocols designed to ensure client or property owner involvement as well
+      as local law enforcement notification. Flight operations will be conducted in accordance with
+      Federal Aviation Regulations, including the minimum altitude requirements of 14 C.F.R. §
+      91.119.
+
+      Drone Skyworks, LLC has developed a proprietary work-site planning template (see
+      Attachment L) that will be completed and reviewed with the client's onsite representative prior
+      to the commencement of any operation or project. This detailed diagram of the operational
+      environment will provide the PIC), VO(s), SO, and any other designated support and security
+      personnel with a full understanding of the site or subject's structural characteristics, layout,
+      topography, adjacencies, and all significant and relevant natural and man made features within
+      the operational area. The template will also be used by Drone Skyworks, LLC personnel to
+      gain a clear picture of any area or condition immediately adjacent to or near the operational
+      area. The will enable Drone Skyworks, LLC to acquire a detailed understanding of the larger
+      geographical context surrounding the flight operations area and review relevant factors with
+      the client before the commencement of any work or service.
+
+CONDITIONS AND LIMITATIONS
+
+As set forth in Drone Skyworks, LLC Flight Operations and Procedures Manual (FOPM), which
+includes: All manufacturer documentation for the Inspire 1 sUAS and Drone Skyworks, LLC
+proprietary operations documentation for all sUAS operations (e.g., Flight Operations Protocols,
+Flight Checklists and Operating Procedures, Pilot Flight Log, sUAS Flight Log, Monthly
+Maintenance Log, Client Site Safety and Planning Template, Pre-Flight Operations On-Site Client
+Safety Briefing, Battery Power Management Matrix, and Permission to Conduct Onsite Flight
+Operations Consent Form), the applicant proposes the following limitations and conditions:
+
+6 | Drone Skyworks, LLC Petition for Exemption under Section 333
+      1. UAS must weigh less than 55 pounds;
+      2. UAS airspeed is not to exceed 50 knots;
+      3. UAS flights may not operate at more than 400 AGL. Altitudes reported to ATC must be
+
+            in feet AGL;
+      4. UAS must be operated within Visual Line of Sight (VLOS) of the PIC and VO;
+      5. All operations will utilize a VO. The VO may be utilized as long as the PIC maintains
+
+            VLOS capability and can communicate with the VO at all times;
+      6. The operator's manuals and flight operations protocols will be amended to and revised as
+
+            new conditions and/or limitations become known;
+      7. The PIC will conduct a full inspection of the sUAS (including remote controllers) to
+
+            ensure it is in full working order and safe for flight prior to every takeoff;
+      8. A functional test flight must be performed following the maintenance, alteration or repair
+
+            of any sUAS. Test flights will be performed by the PIC prior to the sUAS's return to
+            service. All such test flights will be noted and logged in the Monthly Maintenance Log
+            (see Attachment K), the PIC's personal Pilot Flight Log (see Attachment I) and the sUAS
+            Flight Log (see Attachment J).
+      9. The operator must follow the manufacturer's sUAS aircraft/component, maintenance,
+             overhaul, replacement inspection and life limit requirements. The following must be
+            included in the operator's manual;
+
+               a. Actuators/Servos;
+               b. Power plant (motors);
+               c. Propellers;
+               d. Electronic speed controller;
+               e. Batteries;
+               f. Mechanical or dynamic components;
+               g. Remote command and controller(s);
+               h. Navigational screen/interface; and any other component(s) as determined
+
+                    by the operator.
+      10. The PIC must possess at minimum a light sport pilot certificate and a valid U.S. driver's
+
+            license. Additionally, the PIC must meet the flight review requirements specified in 14
+            CFR § 61.56;
+      11. A PIC must have accumulated and logged, in a manner consistent with 14 CFR § 61.51
+            (b), a minimum of 200 flight hours and 25 hours as a UAS rotorcraft pilot and at least ten
+            hours logged as a UAS pilot with a similar sUAS type;
+      12. A PIC must have accumulated and logged, in a manner consistent with 14 CFR § 61.51
+            (b), a minimum of five hours as a sUAS pilot operating the make and model of sUAS to
+            be utilized for operations under the exemption and three takeoffs and three landings in the
+            preceding 90 days. The PIC must operate the sUAS with appropriate distance from non-
+            participants in accordance with 14 CFR § 91.119;
+      13. The PIC and VO must have completed a qualification process;
+
+7 | Drone Skyworks, LLC Petition for Exemption under Section 333
+      14. A flight demonstration, administered by an operator and a qualified pilot must be
+            completed and documented in accordance with the operator's manual;
+
+      15. The sUAS may not be operated directly over any person, except authorized and
+            consenting inspection and/or operations personnel, below an altitude that is hazardous to
+            persons or property;
+
+      16. All participating persons must be essential and consent to the sUAS operation which
+             should require no further FSDO or ASI approval;
+
+      17. The operator must ensure that no persons are allowed within 500 feet of the area except
+            those consenting to be involved and who are necessary for the on-going operation of the
+            entity being inspected or photographed;
+
+      18. If the sUAS loses communications or loses its GPS signal, the sUAS must return to a pre-
+            determined location within the security perimeter of the flight operations area and land or
+            be recovered in accordance with the operator's manual;
+
+      19. The PIC must abort the sUAS flight in the event of unpredicted obstacles or emergencies
+            in accordance with the operator's manual;
+
+      20. Each operation must be completed within 20 minutes flight time or with no less than 25%
+            battery power remaining, whichever occurs first;
+
+      21. The operator must contain an Air Traffic Organization (ATO) issued Certificate of Waiver
+             or Authorization (COA) prior to conducting any operations under this grant of exemption.
+            This COA will also require the operator to request a Notice to Airman (NOTAM) not
+            more than 72 hours in advance, but no less than 48 hours prior to the operation;
+
+      22. All aircraft operated in accordance with this exemption must be identified by serial
+            number, registered in accordance with 14 CFR part 47 and have identification (N-
+            Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must be as
+            large as possible;
+
+      23. The operator must develop procedures to document and maintain a record of the sUAS
+            maintenance, alterations, status of replacement/overhaul component parts and the total
+            time in service of the sUAS;
+
+      24. Each sUAS operated under this exemption will comply with all manufacturing safety
+            bulletins;
+
+      25. The operator will develop sUAS technician qualification criteria. And the criteria will be
+            in the operator's manual;
+
+      26. The pre-flight inspections section of the operator's manual will include the requirement
+            that the pre-flight inspection will account for all discrepancies, e.g., inoperable
+            components, items, or equipment;
+
+      27. Before conducting operations, the radio frequency spectrum used for operation and control
+            of the sUAS will comply with the FCC or other appropriate government oversight agency
+            requirements;
+
+      28. At least three days before a scheduled flight operation the operator of the sUAS affected
+            by this exemption will submit a written plan of activity to the local FSDO with jurisdiction
+
+8 | Drone Skyworks, LLC Petition for Exemption under Section 333
+            over the area of the proposed inspection. The 3-day notification may be waived with the
+            concurrence of the FSDO. The plan of activities will include the following:
+
+               a. Dates and times for all flights
+               b. Name and phone number of the operator for the sUAS flight operation conducted
+
+                     under this grant of exemption
+               c. Name and phone number of the person responsible for the on-site operation of the
+
+                    sUAS
+               d. Make, model, and serial and N-number of sUAS to be used
+               e. Name and certificate number of sUAS PIC(s) involved in the flight operation
+               f. A statement that the operator has obtained permission from property owners and/or
+
+                    local officials to conduct the flight operation; the list of those who gave permission
+                    shall be made available to the inspector
+                    upon request
+               g. Signature of exemption-holder or representative
+               h. The description of the flight activity, including maps or diagrams of any area, city,
+                    town, county, and/or state over which the flight operation will be conducted and
+                     the altitudes essential to accomplish the operation
+               i. The documents required under 14 CFR §§91.9 and 91.203 must be available to the
+                    PIC at the ground control station of the sUAS any time the aircraft is operating.
+                    These documents must be made available to the Administrator or any law
+                    enforcement official upon request.
+      29. The sUAS must remain clear and yield the right of way to all other manned operations and
+            activities at all times (including, but not limited to ultra-light vehicles, parachute activities,
+            parasailing activities, hand gliding, etc.);
+      30. sUAS operations may not be conducted during night, as defined in 14 CFR § 1.1
+      31. All operations must be conducted under visual meteorological conditions (VMC). Flights
+            under special visual flight rules (SVFR) are not authorized;
+      32. The sUAS cannot be operated by the PIC from any moving device or vehicle;
+      33. The sUAS may not be operated less than 500 feet below or less than 2000 feet
+            horizontally from a cloud or when visibility is less than 3 statute miles from
+            the PIC;
+      34. The sUAS may not be operated in class B, C, or D airspace without written approval from
+            the FAA. The sUAS may not operate within 5 nautical miles of the geographic center of a
+            non-towered airport as denoted on a current FAA- published aeronautical chart unless a
+            letter of agreement with the airport's management is obtained, and the operation is
+            conducted in accordance with a NOTAM as required by the operator's COA. The letter of
+            agreement with the airport management must be made available to the administrator upon
+            request;
+      35. Any 1) Incident, 2) Accident, or 3) Flight operation that transgresses the lateral or vertical
+            boundaries of the operational area as defined by the applicable COA must be reported to
+            the Federal Aviation Administration's (FAA) UAS Integration Office (AFS-80) within 24
+            hour. Accidents must be reported to the National Transportation Safety Board (NTSB) per
+
+9 | Drone Skyworks, LLC Petition for Exemption under Section 333
+            instruction contained on the NTSB website: www.ntsb.gov. Further flight operations may
+            not be conducted until the incident, accident or transgression is reviewed by the AFS-80
+            and authorization to resume operations is provided;
+      36. The sUAS, PIC and operator will comply with all applicable parts of 14 CFR including,
+            but not limited to, parts 45, 47, 61, and 91.
+
+LIST OF PROPRIETARY FLIGHT OPERATIONS, STANDARDS, PROTOCOLS AND
+PROCEDURES DOCUMENTATION
+
+As noted earlier, Drone Skyworks' FOPM includes all manufacturer's documentation for the DJI
+Inspire 1 sUAS, as well as a number of flight operations protocols, requirements and procedures
+Drone Skyworks, LLC considers proprietary. Together, these documents governing the planning,
+management and execution of all Drone Skyworks, LLC flight operations. The FOPM is reviewed
+and updated on a regular basis to ensure it is accurate, current and reflects any new FAA
+requirement, change of standard and any improvement or addition to its flight operations Drone
+Skyworks, LLC considers to be in its clients' and the public's best interest.
+
+Nine of the fifteen attachments included (see Attachments G, H, I, J, K, L, M, N, O) and referenced
+in the request for exemption contain commercial proprietary information that Drone Skyworks, LLC
+has chosen not to share with others except under appropriate confidentiality agreements at this time.
+These attachments contain operating conditions, graphics and procedures that have been developed
+exclusively by Drone Skyworks, LLC, and that are not available to the public. Drone Skyworks,
+LLC is respectfully requesting that these attachments be treated as proprietary information pursuant
+to 14 C.F.R. Section 11.35, and maintains that they are protected from release under the Freedom of
+Information Act. See 5 U.S.C. 552 et seq.
+
+REGULATIONS FROM WHICH THE EXEMPTION IS REQUESTED:
+
+    14 CFR Part 21
+    14 CFR 61.113 (a) & (b)
+    14 CFR 61.133 (a)
+    14 CFR 91.7 (a)
+    14 CFR 91.9 (b) (2)
+    14 CFR 91.109 (a)
+    14 CFR 91.119
+    14 CFR 91.121
+    14 CFR 91.151 (a)
+    14 CFR 91.203 (a) & (b)
+    14 CFR 91.405 (a)
+    14 CFR 407 (a) (1)
+    14 CFR 409 (a) (2)
+    14 CFR 417 (a) & (b)
+
+10 | Drone Skyworks, LLC Petition for Exemption under Section 333
+    14 C.F.R. 21: Certification Procedures for Products and Parts
+                  This section outlines requirements for the issue of design and production approvals,
+
+           airworthiness certificates, and other airworthiness approvals. Drone Skyworks, LLC is
+           aware that if an exemption is granted as per Section 333, an airworthiness certificate would
+           be issued and a request for exemption from Part 21 is unnecessary. However, as outlined in
+           the List of Limitations and Conditions in this application, as well as all of the Attachments
+           to this application, comprising the FOPM, Drone Skyworks, LLC seeks to uphold the same
+           level or exceeded level of safety as described in Part 21 of 14 C.F.R.
+
+    14 C.F.R. § 61.113 (a) & (b), 61.133 (a): Private Pilot Privileges and Limitations: Pilot in
+    Command. Commercial Pilot Privileges and Limitations.
+
+                  Sections 61.113 (a) & (b) limit private pilots to non-commercial operations. Because
+           the sUAS will not carry a pilot or passengers, the proposed operations can achieve the
+           equivalent level of safety of current operations by requiring the PIC operating the aircraft
+           to have a private pilot's license rather than a commercial pilot's license to operate this
+           sUAS. Unlike a conventional aircraft that carries the pilot and passengers, the sUAS is
+           remotely controlled with no living thing on board. The area of operation is controlled and
+           restricted, and all flights are planned and coordinated in advance as set forth in the FOPM.
+           The level of safety provided by the requirements included in the FOPM exceeds that
+           provided by a single individual holding a commercial pilot's certificate operating a
+           conventional aircraft. The risks associated with the operation of the sUAS are so
+           diminished from the level of risk associated with commercial operations contemplated by
+           Part 61 when drafted, that allowing operations of the sUAS as requested with a private pilot
+           as the PIC exceeds the present level of safety achieved by 14 C.F.R. §61.113 (a) & (b).
+
+    14 C.F.R. § 91.7 (a): Civil aircraft airworthiness.
+                  The regulation requires that no person may operate a civil aircraft unless it is in
+
+           airworthy condition. As there will be no airworthiness certificate issued for the aircraft,
+           should this exemption be granted, no FAA regulatory standard will exist for determining
+           airworthiness. Given the size of the aircraft and the requirements contained in the FOPM
+           for maintenance and use of safety checklists prior to each flight, an equivalent level of
+           safety will be provided.
+
+    14 C.F.R. § 91.9 (b) (2): Civil Aircraft Flight Manual in the Aircraft.
+                  Section 91.9 (b) (2) provides: No person may operate a U.S.-registered
+
+           civil aircraft ...
+           (2) For which an Airplane or Rotorcraft Flight Manual is not required by §21.5 of this
+           chapter, unless there is available in the aircraft a current approved airplane or Rotorcraft
+           Flight Manual, approved manual material, markings, and placards, or any combination
+           thereof. The sUAS, given its size and configuration has no ability or place to carry such a
+           flight manual on the aircraft, not only because there is no pilot on board, but because there
+           is no room or capacity to carry such an item on the aircraft.
+
+11 | Drone Skyworks, LLC Petition for Exemption under Section 333
+    14 C.F.R. § 91.109 (a): Flight Instruction
+                  Section 91.109 provides that no person may operate a civil aircraft (except a manned
+
+           free balloon) that is being used for flight instruction unless that aircraft has fully
+           functioning dual controls. sUAS and remotely piloted aircraft, by their design do not have
+           fully functional dual controls. Flight control is accomplished through the use of a control
+           box that communicates with the aircraft via radio communications. The FAA has approved
+           exemptions for flight training without fully functional dual controls for a number of aircraft
+           and for flight instruction in experimental aircraft.
+
+    14 C.F.R. § 91.119: Minimum safe altitudes
+                  Section 91.119 establishes safe altitudes for operation of civil aircraft. Section 91.119
+
+           (d) allows helicopters to be operated at less than the minimums prescribed, provided the
+           person operating the helicopter complies with any route or altitudes prescribed for
+           helicopters by the FAA. As this exemption is for a sUAS that is a helicopter and the
+           exemption requests authority to operate at altitudes up to 400 AGL, or not more than 200
+           above an elevated platform from which filming is planned, an exemption may be needed to
+           allow such operations. As set forth herein, except for the limited conditions stated in the
+           Manual, the UAS will never operate at higher than 400 AGL. It will however be operated
+           in a restricted area with security perimeter, where buildings and people will not be exposed
+           to operations without their pre-obtained consent. The equivalent level of safety will be
+           achieved given the size, weight and speed of the sUAS as well as the location where it is
+           operated. No flight will be taken without the permission of the property owner or local
+           officials. Because of the advance notice to the property owner and participants in the
+           activity, all affected individuals will be aware of the planned flight operations as set forth
+           in the FOPM.
+
+    14 C.F.R. § 91.121 Altimeter Settings
+                  This regulation requires each person operating an aircraft to maintain cruising altitude
+
+           by reference to an altimeter that is set "...to the elevation of the departure airport or an
+           appropriate altimeter setting available before departure." As the sUAS may not have a
+           barometric altimeter, but instead a GPS altitude read out, an exemption is needed. An
+           equivalent level of safety will be achieved by the operator, pursuant to the FOPM,
+           confirming the altitude of the launch site shown on the GPS altitude indicator before flight.
+
+    14 C.F.R. § 91.151 (a): Fuel Requirements for Flight in VFR Conditions
+                  This regulation prohibits an individual from beginning "a flight in an airplane under
+
+           VFR conditions unless (considering wind and forecast weather conditions) there is enough
+           fuel to fly to the first point of intended landing, and, assuming normal cruising speed ­ (1)
+           During the day, to fly after that for at least 30 minutes; or (2) At night, to fly after that for
+           at least 45 minutes." The battery powering the sUAS provides approximately 18 minutes of
+           powered flight. To meet the 30-minute reserve requirement in 14 CFR § 91.151, sUASs
+           flights would be limited to approximately 10 minutes in length. Given the limitations on the
+           sUAS proposed flight area and the location of its proposed operations within a
+           predetermined area, a longer time frame for flight in daylight or night VFR conditions is
+
+12 | Drone Skyworks, LLC Petition for Exemption under Section 333
+           reasonable. Limiting sUAS flights to 10 minutes would greatly reduce the utility for which
+           the exemption will be granted. An equivalent level of safety can be achieved by limiting
+           flights to 20 minutes or 25% of battery power whichever is reached first. This restriction
+           would be more than adequate to return the sUAS to its planned landing zone from
+           anywhere in its limited operating area.
+
+    14 C.F.R. § 91.203 (a) and (b): Carrying Civil Aircraft Certification and Registration
+                  The regulation provides in pertinent part: (a) Except as provided in § 91.715, no
+
+           person may operate a civil aircraft unless it has within it the following: (1) An appropriate
+           and current airworthiness certificate. . . . (b) No person may operate a civil aircraft unless
+           the airworthiness certificate required by paragraph (a) of this section or a special flight
+           authorization issued under §91.715 is displayed at the cabin or cockpit entrance so that it is
+           legible to passengers or crew. The sUAS, fully loaded, weighs no more than 55 lbs. and is
+           operated without an onboard pilot. As such, there is no ability or place to carry certification
+           and registration documents or to display them on the sUAS. An equivalent level of safety
+           will be achieved by keeping these documents at the ground control point where the PIC
+           flying the sUAS will have immediate access to them, to the extent they are applicable to the
+           sUAS.
+
+    14 C.F.R. § 91.405 (a); 407 (a) (1); 409 (a) (2); 417 (a) & (b): Maintenance Inspections
+                  These regulations require that an aircraft operator or owner "shall have that aircraft
+
+           inspected as prescribed in subpart E of this part and shall between required inspections,
+           except as provided in paragraph (c) of this section, have discrepancies repaired as
+           prescribed in part 43 of this chapter..." and others shall inspect or maintain the aircraft in
+           compliance with Part 43. Given that these section and Part 43 apply only to aircraft with
+           an airworthiness certificate, these sections will not apply to the applicant. The operator
+           pursuant to the FOPM will accomplish maintenance. An equivalent level of safety will be
+           achieved because this sUAS is very limited in size and will carry a small payload and
+           operate only in restricted areas for limited periods of time. If mechanical issues arise the
+           sUAS can land immediately and will be operating from no higher than 400 feet AGL. As
+           provided in the FOPM, the operator will ensure that the sUAS is in working order prior to
+           initiating flight, perform required maintenance, and keep a log of any maintenance
+           performed. Moreover, the operator is the person most familiar with the aircraft and best
+           suited to maintain the aircraft in an airworthy condition to provide the equivalent level of
+           safety.
+
+THE APPLICABLE LEGAL STANDARD UNDER SECTION 333
+
+      Drone Skyworks, LLC submits that grant of this exemption application advances the
+      Congressional mandate in Section 333 of the Reform Act to accelerate the introduction of
+      sUASs into the NAS if it can be accomplished safely. This law directs the Secretary of
+      Transportation to consider whether certain UASs may operate safely in the NAS before
+      completion of the rulemaking required under Section 332 of the Reform Act. In making this
+      determination, the Secretary is required to determine which types of sUASs do not create a
+
+13 | Drone Skyworks, LLC Petition for Exemption under Section 333
+      hazard to users of the NAS, the public, or pose a threat to national security in light of the
+      following:
+
+           · The UAS's size, weight, speed, and operational capability;
+           · Operation of the UAS in close proximity to airports and populated areas; and
+           · Operation of the UAS within visual line of sight of the PIC.
+
+      Reform Act § 333 (a) (1). If the Secretary determines that such vehicles "may operate safely in
+      the national airspace system, the Secretary shall establish requirements for the safe operation of
+      such aircraft in the national airspace system." Id. § 333 (c).
+
+      The Federal Aviation Act expressly grants the FAA the authority to issue exemptions. This
+      statutory authority, by its terms, includes exempting civil aircraft, as the term is defined under
+      § 40101 of the Act, from the requirement that all civil aircraft must have a current
+      airworthiness certificate and those regulations requiring commercial pilots to operate aircraft in
+      commercial service:
+
+           The Administrator may grant an exemption from a requirement of a regulation prescribed
+           under subsection (a) or (b) of this section or any of sections 4470244716 of this title if the
+           Administrator finds the exemption is in the public interest.
+
+      The grant of the requested exemption is in the public interest based on the clear direction in
+      Section 333 of the Reform Act; the additional authority in the Federal Aviation Act, as
+      amended; the strong equivalent level of safety surrounding the proposed operations; and the
+      significant public benefit, including enhanced safety and cost savings associated with use of
+      UASs for aerial videography/photography, the reduction or elimination of unregulated
+      operators, and the safe integration of UASs. Accordingly, the applicant respectfully requests
+      that the FAA grant the requested exemption without delay.
+
+CONCLUSION
+
+                  As set forth herein, Drone Skyworks, LLC seeks an exemption pursuant to 14 C.F.R.
+      § 11.61 and Section 333 of the FAA Modernization and Reform Act of 2012 from the
+      requirements of 14 CFR § 21; 61.113 (a) & (b); 61.133 (a); 91.7 (a); 91.9 (b); 91.109 (a);
+      91.119 (c); 91.121; 91.151 (a); 91.203; 91.405 (a); 91.407 (a) (1); 91.409 (a) (2); 91.417 (a) &
+      (b), which will permit safe operation of the sUAS commercially, without an airworthiness
+      certificate, for the limited purpose of conducting aerial imagery over small, defined operational
+      areas of the United States.
+
+                  Approval of the exemption allowing commercial operations of Drone Skyworks, LLC
+      sUAS will increase safety by permitting an operator to conduct a service safely by adhering to
+      the prescribed guidelines. The exemption will also encourage the education of sUAS operators
+      and the adoption of FAA guidelines and approval for commercial sUAS operations as pertains
+
+14 | Drone Skyworks, LLC Petition for Exemption under Section 333
+      to Drone Skyworks, LLC employees and contractors. It will allow Drone Skyworks, LLC to
+      provide a service that benefits the public and local businesses. It benefits the public through a
+      higher level of safety of sUAS operations and through a smooth integration of sUASs into the
+      NAS. Having a pilot-owned business bridges the gap between the advancement of sUAS
+      technology and the current practices and operations in the NAS and with the FAA. This assists
+      the FAA with its mission of promoting aviation while preserving safety of aviators, the public
+      and property. The sUAS operated by Drone Skyworks, LLC satisfies the criteria set forth in §
+      333 of the Reform Act ­ size, weight, speed, operating capabilities, operation within visual line
+      of sight, and national security ­ and showing an equivalent level of safety to manned aircraft
+      flights through appropriate pilot certification and safety-focused standards of operation. This
+      provides more than adequate justification for the grant of the requested exemptions allowing
+      commercial operations.
+
+                  By granting this Petition, the FAA Administrator will be fulfilling the Congressional
+      mandate of the FAA Modernization and Reform Act of 2012, while also advancing the
+      interests of the public by allowing Drone Skyworks, LLC to safely, efficiently and
+      economically operate the sUAS commercially within the NAS.
+
+                                                                                 Respectfully,
+
+                                                                                 Thomas E. Cmejla
+                                                                                 Drone Skyworks, LLC
+ATTACHMENTS
+  DJI Inspire 1 Manufacturer Documentation
+    A. DJI Inspire 1 Overview and Specifications Data Sheet.pdf
+    B. DJI Inspire 1 User Manual_v1.2.pdf
+    C. DJI Inspire 1 Safety Guidelines.pdf
+    D. DJI Inspire 1 Quick Start Guide.pdf
+    E. DJI Inspire 1 Maintenance Manual_v1.0.pdf
+    F. DJI Inspire 1 Intelligent Flight Battery Safety Guidelines.pdf
+  Drone Skyworks, LLC Proprietary Documentation
+    G. Drone Skyworks, LLC Flight Operations Protocols for all sUAS.pdf
+    H. Drone Skyworks, LLC Flight Checklists and Operating Procedures.pdf
+    I. Drone Skyworks, LLC Pilot Flight Log.pdf
+    J. Drone Skyworks, LLC sUAS Flight Log.pdf
+    K. Drone Skyworks, LLC Monthly Maintenance Log.pdf
+    L. Drone Skyworks, LLC Client Site Safety and Planning Template.pdf
+    M. Drone Skyworks, LLC Pre-Flight Operations On-Site Client Safety Briefing.pdf
+    N. Drone Skyworks, LLC Permission to Conduct Onsite Flight Operations Consent Form
+    O. Drone Skyworks, LLC Battery Power Management Matrix.pdf
+
+15 | Drone Skyworks, LLC Petition for Exemption under Section 333
+

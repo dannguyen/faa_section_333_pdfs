@@ -1,0 +1,649 @@
+September 8, 2015
+
+                                                           Exemption No. 12779
+                                                           Regulatory Docket No. FAA-2015-2550
+
+Ms. Laura Heller
+Founder
+Stratis Imaging, Inc.
+3213 West Wheeler Street, Suite 27
+Seattle, WA 98199
+
+Dear Ms. Heller:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter dated June 11, 2015, you petitioned the Federal Aviation Administration (FAA) on
+behalf of Stratis Imaging, Inc. (hereinafter petitioner or operator) for an exemption. The
+petitioner requested to operate an unmanned aircraft system (UAS) to conduct mapping,
+surveying, inspection, analysis, and general videography.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner are the DJI Flamewheel F450 and Tarot Iron Man 680
+Pro.
+
+In accordance with the statutory criteria provided in Section 333 of Public Law 112-95 in
+reference to 49 U.S.C. § 44704, and in consideration of the size, weight, speed, and limited
+                                                                                                                 2
+
+operating area associated with the aircraft and its operation, the Secretary of Transportation
+has determined that this aircraft meets the conditions of Section 333. Therefore, the FAA
+finds that relief from 14 CFR part 21, Certification procedures for products and parts,
+Subpart H--Airworthiness Certificates, and any associated noise certification and testing
+requirements of part 36, is not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection1. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+ They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+ The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+ A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, Stratis Imaging, Inc. is granted an exemption from
+14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a), 91.7(a), 91.119(c),
+91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a) and (b), to
+the extent necessary to allow the petitioner to operate a UAS to perform aerial data collection.
+This exemption is subject to the conditions and limitations listed below.
+
+1 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                             3
+
+Conditions and Limitations
+
+In this grant of exemption, Stratis Imaging, Inc. is hereafter referred to as the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+1. Operations authorized by this grant of exemption are limited to the DJI Flamewheel
+    F450 and Tarot Iron Man 680 Pro when weighing less than 55 pounds including
+    payload. Proposed operations of any other aircraft will require a new petition or a
+    petition to amend this exemption.
+
+2. Operations for the purpose of closed-set motion picture and television filming are
+    not permitted.
+
+3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+    exemption holder may use either groundspeed or calibrated airspeed to determine
+    compliance with the 87 knot speed restriction. In no case will the UA be operated at
+    airspeeds greater than the maximum UA operating airspeed recommended by the
+    aircraft manufacturer.
+
+4. The UA must be operated at an altitude of no more than 400 feet above ground level
+    (AGL). Altitude must be reported in feet AGL.
+
+5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+
+    This requires the PIC to be able to use human vision unaided by any device other than
+    corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+    U.S. driver's license.
+
+6. All operations must utilize a visual observer (VO). The UA must be operated within
+    the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+    to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+    capability. The VO and PIC must be able to communicate verbally at all times;
+    electronic messaging or texting is not permitted during flight operations. The PIC
+    must be designated before the flight and cannot transfer his or her designation for the
+    duration of the flight. The PIC must ensure that the VO can perform the duties
+    required of the VO.
+
+7. This exemption and all documents needed to operate the UAS and conduct its
+    operations in accordance with the conditions and limitations stated in this grant of
+    exemption, are hereinafter referred to as the operating documents. The operating
+    documents must be accessible during UAS operations and made available to the
+    Administrator upon request. If a discrepancy exists between the conditions and
+    limitations in this exemption and the procedures outlined in the operating documents,
+                                                                                                            4
+
+    the conditions and limitations herein take precedence and must be followed.
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+                                                                                                            5
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+    exemption holder may apply for a new or amended COA if it intends to conduct
+    operations that cannot be conducted under the terms of the attached COA.
+                                                                                                            6
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+    be as large as practicable.
+
+23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+    any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+    PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+    These documents must be made available to the Administrator or any law enforcement
+    official upon request.
+
+24. The UA must remain clear and give way to all manned aviation operations and
+    activities at all times.
+
+25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless:
+      a. Barriers or structures are present that sufficiently protect nonparticipating persons
+          from the UA and/or debris in the event of an accident. The operator must ensure
+          that nonparticipating persons remain under such protection. If a situation arises
+          where nonparticipating persons leave such protection and are within 500 feet of
+          the UA, flight operations must cease immediately in a manner ensuring the safety
+          of nonparticipating persons; and
+      b. The owner/controller of any vessels, vehicles or structures has granted permission
+          for operating closer to those objects and the PIC has made a safety assessment of
+          the risk of operating closer to those objects and determined that it does not
+          present an undue hazard.
+
+    The PIC, VO, operator trainees or essential persons are not considered
+    nonparticipating persons under this exemption.
+
+27. All operations shall be conducted over private or controlled-access property with
+    permission from the property owner/controller or authorized representative.
+    Permission from property owner/controller or authorized representative will be
+    obtained for each flight to be conducted.
+
+28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+    boundaries of the operational area as defined by the applicable COA must be reported
+    to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+    reported to the National Transportation Safety Board (NTSB) per instructions
+    contained on the NTSB Web site: www.ntsb.gov.
+                                                                                                                 7
+
+ If this exemption permits operations for the purpose of closed-set motion picture and
+ television filming and production, the following additional conditions and limitations apply.
+
+    29. The operator must have a motion picture and television operations manual (MPTOM)
+         as documented in this grant of exemption.
+
+    30. At least 3 days before aerial filming, the operator of the UAS affected by this
+         exemption must submit a written Plan of Activities to the local Flight Standards
+         District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+         notification may be waived with the concurrence of the FSDO. The plan of activities
+         must include at least the following:
+           a. Dates and times for all flights;
+           b. Name and phone number of the operator for the UAS aerial filming conducted
+              under this grant of exemption;
+           c. Name and phone number of the person responsible for the on-scene operation of
+              the UAS;
+           d. Make, model, and serial or N-Number of UAS to be used;
+           e. Name and certificate number of UAS PICs involved in the aerial filming;
+           f. A statement that the operator has obtained permission from property owners
+              and/or local officials to conduct the filming production event; the list of those
+              who gave permission must be made available to the inspector upon request;
+           g. Signature of exemption holder or representative; and
+           h. A description of the flight activity, including maps or diagrams of any area, city,
+              town, county, and/or state over which filming will be conducted and the altitudes
+              essential to accomplish the operation.
+
+    31. Flight operations may be conducted closer than 500 feet from participating persons
+         consenting to be involved and necessary for the filming production, as specified in the
+         exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                                                 8
+This exemption terminates on September 30, 2017, unless sooner superseded or rescinded.
+Sincerely,
+
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+                                                      June 11, 2015
+
+Laura Heller
+Stratis Imaging, Inc.
+3213 W. Wheeler St., Suite 27
+Seattle, WA 98199
+Cell: (206)853-9407
+Email: laura@stratisimaging.com
+
+U.S. Department of Transportation, Docket Operations
+West Building Ground Floor, Room W12-140
+1200 New Jersey Avenue, SE Washington, DC 20590
+
+RE: Exemption Request Section 333 of the FAA Reform Act of 2012 (P.L. 112-95)
+
+Attachments:
+1) Stratis UAV Flight and Maintenance Manual
+2) Stratis UAV Pilot Training Manual
+
+To Whom It May Concern:
+
+On behalf of Stratis Imaging, Inc., (herein referred to as "Stratis") co-founders Laura
+Heller and Geoffrey Heller, we request an exemption from the below stated sections of
+Title 14, Code of Federal Regulations. This is in accordance with the FAA's Guidelines
+for Submitting a Petition for Exemption under section 333 of the FAA Modernization and
+Reform Act of 2012. This request is submitted based on the precedence set by and is
+similar to Exemptions No. 11062, 11109, 11112, and 11213.
+
+                  14 CFR 61.101(e)(4) and (5) Recreational pilot privileges and limitations.
+             For compensation or hire; In furtherance of business.
+             It is Stratis intent to operate the UAS for commercial use for compensation or
+             hire and for the pursuance of our business.
+
+                  14 C.F.R. 61.113(a) Private pilot privileges and limitations: Pilot in
+             command.
+             As previously stated, it is Stratis intent to operate the UAS for commercial use
+             for compensation or hire and for the pursuance of our business using a private
+             pilot to command the UAS.
+
+                  14 C.F.R. 61.23(a) and (c) Medical certificates: Requirement and
+             duration.
+             As Stratis intends to utilize a private pilot or sport pilot license holder who has
+             a current US drivers license, an exemption from the need a medical certificate
+             is requested. Further, the pilots UAS operations will be conducted on ground
+             on a relatively light weight UAS vs. in-air on a manned aircraft.
+
+                                 Page 1 of 8
+    14 C.F.R. 91.7 (a) Civil aircraft airworthiness.
+Stratis Imaging requests an exemption since there is currently no certificate
+applicable to our operation other than the Section 333 Exemption which states
+that the PIC shall have the responsibility to determine airworthiness. This
+requirement is stated in the Flight and Maintenance Manual as well as in the
+Pilot Training Manual.
+
+    14 C.F.R. 91.119(c) Minimum safe altitudes: General.
+Stratis UAS will operate below 400 ft. This requirement is stated in the Flight
+and Maintenance Manual as well as the Pilot Training Manual.
+
+    14 C.F.R. 91.121 Altimeter Settings.
+The UAS will be equipped with a barometric pressure altimeter. Altitude
+shall be monitored using the UAS telemetry.
+
+    14 C.F.R. 91.151(a) (1) Fuel requirements.
+The UAS will be powered by battery and will operate for the intended
+operational time with at least five minutes remaining battery or with the
+reserve power recommended by the manufacturer if greater.
+
+    14 C.F.R. 91.405(a) Maintenance required.
+The Pilot will perform a preflight inspection of the UAS before each flight as
+outlined in the attached Flight and Maintenance Manual document.
+Additionally, if there is any alteration that affects the flight characteristics or
+safety, a functional test will be conducted prior to being deemed airworthy.
+
+    14 C.F.R. 91.407(a)(1) Operation after maintenance, preventive
+maintenance, rebuilding, or alteration.
+Procedures in the Flight Manual require the pilot to monitor the UAS during a
+preflight inspection for airworthiness. Any alteration shall be minor, not
+affect the safety of flight, and shall not affect the basic control and stability of
+the UAS. Additionally, if there is any alteration that affects the flight
+characteristics or safety, a functional test will be conducted prior to being
+deemed airworthy
+
+    14 C.F.R. 91.409(a)(1) and (2) Inspections.
+Procedures in the Flight Manual require the pilot to inspect the UAS during a
+preflight inspection for airworthiness prior to flight. Additionally, a flight test
+is required prior to the operational flight to ensure UAS readiness.
+
+    14 C.F.R. 91.417(a) and (b) Maintenance Records.
+Pilot and Operator procedures are required to monitor, inspect, and document
+any issues related to the UAS operation effectiveness. This requirement is
+stated in the Flight and Maintenance manual.
+
+                                  Page 2 of 8
+I. About Stratis Imaging
+
+Stratis Imaging Inc. was founded to innovate around UAS data collection and analysis.
+Additionally, Stratis Imaging will provide data collection services for multiple purposes,
+including mapping, surveying, inspection, analysis, and general videography. Our
+mission is to enhance commercial UAS data collection and analysis capabilities to
+provide new insights for industry use. Additionally, digital imaging data gathering
+service will be conducted to explore the UAS market as well as provide clients with high
+quality images and digital data. Stratis will be performing research and development
+around UAS digital imaging as well as operational digital imaging.
+
+One of our primary missions as a company is to ensure full compliance with all
+regulations that govern UASs. As such, our operations will be conducted within the
+acceptable FAA regulations with the exception of the herein requested exemptions.
+Additionally, the referenced flight and maintenance manual as well as the pilot training
+manual state these requirements in their respective context. Further, the UAS Pilot and
+observers engaged in operations are expected to be responsible for operating within these
+regulatory parameters.
+
+Safety of flight is a primary objective at all times for our company operations with a high
+standard of safety awareness. Stratis has taken several steps to ensure safety of flight in
+UAS operations: First, is to be fully compliant to the relevant UAS regulations as stated
+above, as these regulations are in place to enhance public safety. Second, is to train all
+pilots and observers as outlined in the referenced pilot training manual to ensure the pilot
+and observer are fully qualified on Stratis Imaging UASs. Third, is to conduct flights
+according the flight manual as stated in the Flight and Maintenance Manual, including
+safe abort procedures if an unsafe condition arises. Fourth, is to ensure the UASs are
+operationally safe as per the inspection and maintenance requirements as stated in the
+Flight and Maintenance Manual. Finally, Stratis Imaging sets the expectation that all
+UAS operators and participants are held to high standard of safety awareness while
+operating a UAS.
+
+The Co-founders of Stratis Imaging have extensive technology experience in both
+imaging as well as in aviation to help ensure a safe, mature and experienced approach to
+digital imaging and technology development on a UAS platform. Co-Founder Laura
+Heller has over 12 years experience with aviation Engineering and Management of
+commercial airplane flight controls and avionics systems development. She has also
+completed ground school training for a private pilot's license and has hobbyist flight
+hours on several small UASs. Co-Founder Geoffrey Heller has over 20 years of
+Engineering Management and Software Engineering experience as well as experience
+with commercial software and hardware development. Additionally, he has extensive
+hobbyist hours designing, building, operating and maintaining UASs. As such, our
+qualifications, along with a certified pilot for UAS operation, provide the necessary
+qualifications for safe, compliant UAS operations.
+
+                                               Page 3 of 8
+II. UAS Description
+
+Stratis Imaging requests Section 33 exemption for the following UASs:
+
+    · Stratis Model 1: A quadcopter built on a DJI Flamewheel F450 frame and
+         running the Pixhawk flight controller
+
+    · Stratis Model 2: A hexacopter built on a Tarot Iron Man 680 Pro frame and
+         running the Pixhawk flight controller
+
+The weight of these UAS shall be compliant with the regulations stated as less than 55 lbs
+in the Section 333 Exemption guidance. Please see the Flight and Maintenance Manual
+for a detailed description and flight characteristics. As stated in the Flight and
+Maintenance manual as well as in the Pilot training manual, the pilot is responsible for
+UAS airworthiness which includes following the site check list, the UAV inspections,
+preflight checklist, and flight test.
+
+III. UAS Operations
+
+When conducting Stratis Imaging operations, the following requirements will be met.
+These requirements are embedded in the Stratis Flight and Maintenance Manual, where
+both the Pilot and Visual observers have full responsibility for compliance.
+
+· Operations will be performed only at the request of and with the authorization and
+    permission of clients or their authorized agents in order to facilitate commerce and
+    raise awareness of the beneficial uses of small unmanned air systems so long as such
+    operations are conducted within and under the conditions outlined herein or as may
+    be established by the FAA as required by Section 333 Exemption.
+
+· The UAS will not be operated at a speed exceeding 87 knots (100 miles per hour).
+    The PIC and/or VO will use either groundspeed or calibrated airspeed to determine
+    compliance with the 87 knot speed restriction. In no case will the UA be operated at
+    airspeeds greater than the maximum UAS operating airspeed recommended by the
+    aircraft manufacturer as required by Section 333 Exemption.
+
+· Operations will be conducted below 400 feet AGL, with instrumentation and
+    telemetry set to report in feet AGL as required by Section 333 Exemption
+
+· The UAS will be operated within visual line of sight (VLOS) of the PIC at all times.
+    This requires the PIC to be able to use human vision unaided by any device other than
+    corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+    U.S. driver's license as required by Section 333 Exemption.
+
+· All operations will utilize a visual observer (VO). The UAS must be operated within
+    the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+    to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+
+                                               Page 4 of 8
+    capability. The VO and PIC will be able to communicate verbally at all times, where
+    electronic messaging or texting will not be used during flight operations. The PIC will
+    be designated before the flight and cannot transfer his or her designation for the
+    duration of the flight. The PIC will ensure that the VO can perform the duties
+    required of the VO. These shall be as required by Section 333 Exemption.
+
+· Operate and land the UAS prior to the manufacturer's recommended minimum level
+    of battery power or with 5 minutes of remaining battery power, whichever is greater,
+    as required by Section 333 Exemption.
+
+· Operating documents will be immediately accessible to the PIC and/or VO during
+    operations. We will be responsible for ensuring these documents are updated as
+    necessary.
+
+· Use the UAS' global positioning system (GPS) flight safety feature whereby it hovers
+    and then slowly lands if communication with the remote control pilot is lost.
+
+· Conduct all operations under the flight safety protocols contained in the operating
+    documents and will actively analyze flight data and other sources of information to
+    constantly update and enhance safety protocols.
+
+· Contact respective airports if operations will be within 5 miles to advise them of his
+    estimated flight time, flight duration, elevation of flight and other pertinent
+    information.
+
+· Upon any changes that affect UAS operations or flight characteristics, a functional
+    flight test will be conducted prior to any further operations. The functional flight test
+    will be conducted by a PIC with a VO and shall be at least 500 feet from other
+    people, with no undue hazard to people or property.
+
+· A preflight inspection will be conducted by the PIC and/or VO prior to operations.
+    Any condition that may affect the safe operation of the UAS will not be flown in
+    operations until the UAS has been restored to a safe flight condition. The PIC is
+    responsible to ensure that the UAS is airworthy as part of the preflight inspection.
+    Refer to the UAS User's Manual.
+
+· The UAS operators will follow the manufacturer's recommended maintenance;
+    overhaul, replacement, inspection, and life limit requirements for the UAS' and will
+    comply with all manufacturer safety bulletins as described in the UAS Flight and
+    Maintenance manual.
+
+· Have procedures in place to abort flights in the event of safety breaches or potential
+    danger.
+
+IV. UAS Pilot in Command (PIC)
+
+                                               Page 5 of 8
+· The UAS will be operated by a PIC who holds either an airline transport, commercial,
+    private, recreational, or sport pilot certificate. The PIC will also hold a current FAA
+    airman medical certificate or a valid U.S. driver's license issued by a state, the
+    District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+    Government. The PIC will also meet the flight review requirements specified in 14
+    CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+
+· The operators will ensure that the PIC demonstrates the ability to operate the UAS
+    safely and within regulations under this requested exemption. This includes including
+    evasive and emergency maneuvers and maintaining appropriate distances from
+    persons, vessels, vehicles and structures. PIC qualification flight hours and currency
+    must be logged in a manner consistent with 14 CFR § 61.51(b).
+
+· Dedicated training sessions will be conducted as necessary to ensure the PIC is
+    qualified to operate the UAS. During training, proficiency, and experience-building
+    flights, all persons not essential for flight operations are to be considered
+    nonparticipants, and the PIC will operate the UA with appropriate distance from
+    nonparticipants.
+
+Additional Requirements:
+
+· The PIC shall successfully complete the pilot training as described in the pilot
+    training manual prior to operation of the UAS'. This includes a minimum of 20 hours
+    of flight hours on either Stratis Imaging's UAS and/or UAS of similar configuration.
+
+· The VO shall successfully complete the VO training as described in the pilot training
+    manual prior to the operation of the UAS.
+
+V. RF Communications
+
+The UAS' will operate under the following Radio Frequencies. All frequencies are used
+in compliance as per FCC Part 18 rules for operating in the specified ISM frequency
+bands.
+
+Flight Control:
+         Control frequency / Working Frequency: 2.4 GHz ISM
+         Control Channel Numbers of Transmitter: 16
+         Communication Distance: >1.5km
+         Receiver Sensitivity: > - 100 dBm
+         Power Consumption of Transmitter: < 20 dBm
+         Working Current/Voltage: 100mA @ 5V
+
+Telemetry (Bi-Directional):
+         Telemetry Transmitter Frequency: 915 Mhz ISM
+         Communication Distance: >1.5km
+         Receiver Sensitivity: > - 100 dBm
+         Power Consumption of Transmitter: <= 20 dBm
+
+                                               Page 6 of 8
+         Working Current/Voltage: 100mA @ 5V
+
+Camera / Live Video to Monitor:
+         Video Transmitter Frequency: 5.8 Ghz ISM
+         Communication Distance: >200m
+         Receiver Sensitivity: > - 100 dBm
+         Power Consumption of Transmitter: <= 20 dBm
+         Working Current/Voltage: 100mA @ 5V
+
+VI. Public Benefit
+
+Utilizing UAS for the purposes of aerial image data gathering and analysis is a growing
+industry that takes advantage of the small, lightweight, and less expensive technologies.
+Contrasted with manned aircraft, there is substantial more versatility, far less cost, and
+significant reduction in risk to the public by utilizing UASs. Additionally, more
+extensive research and development can be conducted to enhance image data gathering
+and analysis technologies. This is one of Stratis Imaging's primary intentions. Because
+of this research and development, valuable new technologies will be developed. This can
+add jobs to the economy, improve industry efficiency, and increase awareness of our
+environment in ways not previously possible. By granting this exemption, these benefits
+can be achieved to the betterment of public overall.
+
+VII. Confidentiality
+
+We request that the FAA refrain from publishing any of the Stratis Imaging's provided
+documents to the public. This includes the UAS Flight and Maintenance Manual as well
+as the UAS Flight Training Manual. These documents are intended for Stratis employees
+and the FAA personnel only who are responsible for the evaluation and determination of
+this exemption request.
+
+VIII. Summary
+
+Stratis Imaging requests an exemption from the below list of regulations for UAS
+commercial operations, including data collection and analysis services as well as research
+and development.
+
+ 14 C.F.R 61.101(e)(4) and (5)
+ 14 C.F.R. 61.113(a)
+ 14 C.F.R. 61.23(a) and (c)
+ 14 C.F.R. 91.7 (a)
+ 14 C.F.R. 91.119(c)
+ 14 C.F.R. 91.121
+ 14 C.F.R. 91.151(a) (1)
+ 14 C.F.R. 91.405(a)
+ 14 C.F.R. 91.407(a)(1)
+ 14 C.F.R. 91.409(a)(1) and (2)
+ 14 C.F.R. 91.417(a) and (b)
+
+                                               Page 7 of 8
+The public will benefit by virtue of additional employment, safer methods of data
+gathering, and potentially new technologies available to industry. It is our commitment
+to comply with all of the conditions and limitations stated within the exemption, should it
+be granted.
+Please contact the undersigned for any further information or questions regarding this
+petition. Thank you for your consideration.
+Respectfully,
+Laura Heller
+Founder, Stratis Imaging, Inc.
+
+                                               Page 8 of 8
+

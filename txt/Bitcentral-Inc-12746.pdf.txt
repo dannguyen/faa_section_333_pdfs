@@ -1,0 +1,627 @@
+September 3, 2015
+
+                                                           Exemption No. 12746
+                                                           Regulatory Docket No. FAA-2015-1840
+
+Mr. Gregory Walden
+Akin Gump Strauss Hauer and Feld
+Counsel
+1333 New Hampshire Avenue NW.
+Washington, DC 20036
+
+Dear Mr. Walden:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter dated May 8, 2015, you petitioned the Federal Aviation Administration (FAA) on
+behalf of Bitcentral, Inc. (hereinafter petitioner or operator) for an exemption. The petitioner
+requested to operate an unmanned aircraft system (UAS) to conduct UAS-based news
+workflows for television broadcasters.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner are the DJI S900, DJI S1000+, DJI Phantom 2 Vision+,
+DJI Phantom 3, and DJI Inspire 1.
+
+The petitioner requested relief from 14 CFR part 21, Certification procedures for products
+and parts, Subpart H--Airworthiness Certificates. In accordance with the statutory criteria
+                                                                                                                 2
+
+provided in Section 333 of Public Law 112-95 in reference to 49 U.S.C. § 44704, and in
+consideration of the size, weight, speed, and limited operating area associated with the
+aircraft and its operation, the Secretary of Transportation has determined that this aircraft
+meets the conditions of Section 333. Therefore, the FAA finds that the requested relief from
+14 CFR part 21, Certification procedures for products and parts, Subpart H--Airworthiness
+Certificates, and any associated noise certification and testing requirements of part 36, is
+not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection1. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+· They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+· The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+· A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, Bitcentral, Inc. is granted an exemption from 14 CFR
+§§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a), 91.7(a), 91.119(c), 91.121,
+91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a) and (b), to the
+extent necessary to allow the petitioner to operate a UAS to perform aerial data collection.
+This exemption is subject to the conditions and limitations listed below.
+
+1 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                             3
+
+Conditions and Limitations
+
+In this grant of exemption, Bitcentral, Inc. is hereafter referred to as the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+1. Operations authorized by this grant of exemption are limited to the DJI S900, DJI
+    S1000+, DJI Phantom 2 Vision+, DJI Phantom 3, and DJI Inspire 1 when weighing
+    less than 55 pounds including payload. Proposed operations of any other aircraft will
+    require a new petition or a petition to amend this exemption.
+
+2. Operations for the purpose of closed-set motion picture and television filming are
+    not permitted.
+
+3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+    exemption holder may use either groundspeed or calibrated airspeed to determine
+    compliance with the 87 knot speed restriction. In no case will the UA be operated at
+    airspeeds greater than the maximum UA operating airspeed recommended by the
+    aircraft manufacturer.
+
+4. The UA must be operated at an altitude of no more than 400 feet above ground level
+    (AGL). Altitude must be reported in feet AGL.
+
+5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+    This requires the PIC to be able to use human vision unaided by any device other than
+    corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+    U.S. driver's license.
+
+6. All operations must utilize a visual observer (VO). The UA must be operated within
+    the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+    to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+    capability. The VO and PIC must be able to communicate verbally at all times;
+    electronic messaging or texting is not permitted during flight operations. The PIC
+    must be designated before the flight and cannot transfer his or her designation for the
+    duration of the flight. The PIC must ensure that the VO can perform the duties
+    required of the VO.
+
+7. This exemption and all documents needed to operate the UAS and conduct its
+    operations in accordance with the conditions and limitations stated in this grant of
+    exemption, are hereinafter referred to as the operating documents. The operating
+    documents must be accessible during UAS operations and made available to the
+    Administrator upon request. If a discrepancy exists between the conditions and
+    limitations in this exemption and the procedures outlined in the operating documents,
+                                                                                                            4
+
+    the conditions and limitations herein take precedence and must be followed.
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+                                                                                                            5
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+    exemption holder may apply for a new or amended COA if it intends to conduct
+    operations that cannot be conducted under the terms of the attached COA.
+                                                                                                            6
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+    be as large as practicable.
+
+23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+    any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+    PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+    These documents must be made available to the Administrator or any law enforcement
+    official upon request.
+
+24. The UA must remain clear and give way to all manned aviation operations and
+    activities at all times.
+
+25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless:
+      a. Barriers or structures are present that sufficiently protect nonparticipating persons
+          from the UA and/or debris in the event of an accident. The operator must ensure
+          that nonparticipating persons remain under such protection. If a situation arises
+          where nonparticipating persons leave such protection and are within 500 feet of
+          the UA, flight operations must cease immediately in a manner ensuring the safety
+          of nonparticipating persons; and
+      b. The owner/controller of any vessels, vehicles or structures has granted permission
+          for operating closer to those objects and the PIC has made a safety assessment of
+          the risk of operating closer to those objects and determined that it does not
+          present an undue hazard.
+
+    The PIC, VO, operator trainees or essential persons are not considered
+    nonparticipating persons under this exemption.
+
+27. All operations shall be conducted over private or controlled-access property with
+    permission from the property owner/controller or authorized representative.
+    Permission from property owner/controller or authorized representative will be
+    obtained for each flight to be conducted.
+
+28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+    boundaries of the operational area as defined by the applicable COA must be reported
+    to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+    reported to the National Transportation Safety Board (NTSB) per instructions
+    contained on the NTSB Web site: www.ntsb.gov.
+                                                                                                                 7
+
+ If this exemption permits operations for the purpose of closed-set motion picture and
+ television filming and production, the following additional conditions and limitations apply.
+
+    29. The operator must have a motion picture and television operations manual (MPTOM)
+         as documented in this grant of exemption.
+
+    30. At least 3 days before aerial filming, the operator of the UAS affected by this
+         exemption must submit a written Plan of Activities to the local Flight Standards
+         District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+         notification may be waived with the concurrence of the FSDO. The plan of activities
+         must include at least the following:
+           a. Dates and times for all flights;
+           b. Name and phone number of the operator for the UAS aerial filming conducted
+              under this grant of exemption;
+           c. Name and phone number of the person responsible for the on-scene operation of
+              the UAS;
+           d. Make, model, and serial or N-Number of UAS to be used;
+           e. Name and certificate number of UAS PICs involved in the aerial filming;
+           f. A statement that the operator has obtained permission from property owners
+              and/or local officials to conduct the filming production event; the list of those
+              who gave permission must be made available to the inspector upon request;
+           g. Signature of exemption holder or representative; and
+           h. A description of the flight activity, including maps or diagrams of any area, city,
+              town, county, and/or state over which filming will be conducted and the altitudes
+              essential to accomplish the operation.
+
+    31. Flight operations may be conducted closer than 500 feet from participating persons
+         consenting to be involved and necessary for the filming production, as specified in the
+         exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                                                 8
+
+This exemption terminates on September 30, 2017, unless sooner superseded or rescinded.
+
+Sincerely,
+
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+                                AkinGump
+
+                                                                                                      STRAUSS HAUER & FELD LLP
+
+                     b1tcentral r.
+
+                                                                                                                                GREGORY S. WALDEN
+                                                                                                                                                 +1 202.887.4213/fax: +1 202.887.4288
+                                                                                                                                                 gswalden@akingump.com
+
+May 8, 2015
+
+United States Department of Transportation
+Federal Aviation Administration
+Docket Management System
+1200 New Jersey Avenue, NE
+Washington, DC 20590
+
+Filed in www.regulations.gov
+
+         Re: Petition for Exemption ofBitcentral, Inc. under Section 333 ofthe FAA
+         Modernization and Reform Act, 49 U.S.C. 44701(f), and 14 C.F.R. Part 11
+
+Bitcentral, Inc., by itself and through its counsel, hereby seeks an exemption from certain Federal
+Aviation Regulations enumerated below, as authorized by Section 333 of the FAA
+Modernization and Reform Act ("Section 333"), Subsection 44701(f) of the Federal Aviation
+Act, and pursuant to the procedures set forth in Part 11 of the Federal Aviation Regulations, to
+allow Bitcentral to operate the DJI-manufactured S900, S1000+, Phantom 2 Vision+, Phantom 3,
+Inspire 1, and later models manufactured by DJI, to develop UAS-based news workflows for
+television broadcasters.
+
+Because the relief requested herein is in all material respects similar to the relief requested in
+previously granted exemptions, and because Bitcentral agrees to abide by and comply with the
+terms and conditions in those exemptions, as revised in three respects as requested below,
+Bitcentral respectfully requests summary processing of this petition.
+
+Bitcentral is the leading provider of television news production systems in the United States with
+over 200 local TV stations using our technology to manage their entire video workflow from
+camera to air. Bitcentral customers include broadcasters such as Gannett, CNN, Hearst, Fox, etc.
+For example, local affiliates of CNN (with which FAA has recently announced a partnership)
+send the video obtained from a local UAS operation using Bitcentral's workflow technology.
+UASs provide not only a better image to the audience they provide an entirely unique point of
+view. Local broadcasters serve the public good by delivering compelling video images on local
+news every day. UASs will enable broadcasters to provide the public with images that cannot be
+
+ RobertS. Strauss Building 11333 New Hampshire Avenue, N.W. IWashington, D.C. 20036-1564 1202.887.4000 1fax 202.887.4288 1akingump.com
+Bitcentral l 4340 Von Karman, Suite 400, Newport Beach, CA 92660 I Ph. 949 253 9000 I bitcentral.com
+Bitcentral, Inc. Petition for Exemption
+May 8, 2015
+Page 2
+
+captured from the ground or even a helicopter. This fosters a better awareness of the community
+in which people live as well as providing a more realistic view of news and events. Broadcasters
+already use helicopters and have well-established guidelines on privacy and ethical use of video
+shot from the air. UAS operations would adhere to the broadcasters' journalistic standards and
+comply with current local, state and federal regulations.
+
+Bitcentral is interested in developing practical UAS-based workflows for broadcasters. It is easy
+to produce compelling video from the air with a UAS; however, the process by which it makes it
+to your TV in the living room is what Bitcentral specializes in. Refining this process requires a
+lot of hard work to make it reliable, repeatable and safe. Getting into the field and covering real
+events is what it takes to engineer and document a process that news operations can follow as
+well as sharing this process with the FAA and all broadcasters as practical experience for what
+will eventually become a common newsgathering practice.
+
+Fred Fourcher, the CEO ofBitcentral, is a 3,500-hour instrument rated private pilot and recipient
+of the AOPA Sharples Award for the most significant contribution to aviation by an individual in
+2007. Mr. Fourcher is also the founder and past President of the Southern California Pilots
+Association, which has grown to hundreds of members across Southern California. Mr. Fourcher
+is also a member of the National Association of Broadcasters and is considered an industry
+thought leader. Mr. Fourcher's goal is to combine practical knowledge from aviation and
+broadcast in order to help facilitate a productive, safe and reliable way that UAS can be used by
+broadcasters to deliver compelling images and unique points of view to the public.
+
+The DJI-manufactured UASs will be used to cover news and weather events and to shoot
+promotional video. Each of the three DJI UAS models has unique abilities for broadcast
+operations and part of our process will be to determine the best UAS for each kind of event. For
+example the DJI Phantom weighing less than 3 pounds may be more suitable for operations
+closer to people however the 10-pound S1000+ can support a zoom lens camera and could
+operate at a distance.
+
+The UAS operator will hold a private pilot certificate with a class III medical certification and
+will operate the UAS in compliance of the terms and conditions of the 333 exemption. In
+addition any private pilot employed by Bitcentral will undergo thorough training and prove
+proficiency in the operations of the UAS and have at least 50 hours operating of the UAS types
+outlined above.
+
+The name of the applicant is Bitcentral, Inc. The primary Bitcentral contact is the company
+CEO, Fred Fourcher. The address is 4340 Von Karman, Suite 400, Newport Beach, CA 92660.
+E-mail: fred@bitcentral.com, phone 949 417 4111 web: www.bitcentral.com
+Bitcentral, Inc. Petition for Exemption
+May 8, 2015
+Page 3
+
+Exemptions requested
+
+14 C.P.R. Part 21 (airworthiness certification)
+14 C.P.R. Part 27 (normal category rotorcraft)
+14 C.P.R. 61.113 (a) and (b) (pilot certification and qualification)
+14 C.P.R. 91.7(a) (airworthiness)
+14 C.P.R. 91.119(b) and (c) (minimum safe altitudes)
+14 C.P.R. 91.151(a) and (b) (fuel requirements in VPR conditions)
+14 C.P.R. 91.405 (a) and (b) (maintenance)
+14 C.P.R. 91.407(a)(1) (approval for return to service)
+14 C.P.R. 91.409(a) (annual and airworthiness certification inspection)
+14 C.P.R. 91.417(a) and (b) (maintenance records)
+
+Safety equivalence or no adverse effect on safety
+
+Unmanned Aerial Vehicle and System
+
+The PAA is well familiar with the DJI models, as it has granted several exemptions under section
+333 for operators proposing to use this unmanned aircraft. See, for example, Exemption No.
+11406 (Stringer News Service), No. 11437 (Marcus D. Melhus), No. 11423 (Stunning Heights),
+and No. 11425 (Elevated Images). In the event of a loss ofGPS signal, the UAVs will not lock in
+its position and automatically go to ATTl mode and remain stable. Should there be a loss of
+power, the pilot has control of the UAVs to perform auto rotation capability and land the aircraft.
+If a UAV encounters an unexpected obstacle, the pilot will either divert the flight or maintain the
+UAV in a safe hover position away from the obstacle. 1
+
+Given its small size, operational capabilities, and restricted area in which the UAVs will operate,
+an exemption from Part 21, Subpart H, Airworthiness Certificates, and 14 C.P.R. 91.7(a), is
+warranted, as Bitcentral's UAVs satisfy the equivalent level of safety as compared with manned
+aircraft and meets the criteria in section 333. Operating the UAVs without an airworthiness
+certificate under the conditions proposed will be safer than current broadcasters operating a
+manned helicopter with an airworthiness certificate and not subject to such conditions.
+
+1 We believe that, based on previously filed petitions, FAA is in possession of the manufacturer's manual for each
+DJI UAS model type Bitcentral proposes to operate. We will provide any manual to the FAA upon request.
+Bitcentral, Inc. Petition for Exemption
+May 8, 2015
+Page4
+
+The DJI models are all light-weight: the Inspire 1 with payload is less than 6.5 pounds; the DJI
+Phantom is only 2.8 pounds, and the S900 and S1000+ are about 10 pounds. As the FAA has
+found in granting an exemption to Clayco, Exemption No. 11109, at page 10:
+
+         The limited weight significantly reduces the potential for harm to participating and
+         nonparticipating individuals or property in the event of an incident or accident. The risk
+         to an onboard pilot and crew during an incident or accident is eliminated with the use of a
+         UA for the aerial filming operations.
+
+For the reasons outlined above, Bitcentral also seeks an exemption from the certification
+requirements for normal category rotorcraft in Part 27.
+
+In support of Bitcentral's request for an exemption from 14 C.F.R. 91.405(a), 91.407(a)(l),
+91.409(a)(l) and (2), and 91.417(a) and (b), Bitcentral will adhere to the following inspection
+and maintenance program: Bitcentral will inspect the UAV before and after each operation, as
+well as perform daily, weekly, monthly, and annual inspections, as set forth in its Pilot Operating
+Handbook (provided to the FAA separately from this document). Before each flight, the pilot in
+command will inspect the UAV to ensure it is in a safe condition for flight. The preflight
+inspection will account for any discrepancy, such as an inoperable component, item, or
+equipment. Bitcentral will not initiate a flight if the inspection reveals a condition that adversely
+affects the safety of operations, and will not operate that UAV until it is found to be in a safe
+condition. Any UAV that has undergone maintenance or an alteration that affects the UAV's
+operation or flight characteristics will undergo a functional flight test before return to service.
+
+Bitcentral will follow DJI's UAV requirements relating to components, maintenance, overhaul,
+replacement, inspection and life limits. Bitcentral will record all maintenance, alterations, and
+the functional flight test in the UAV logbook, including total flight hours, description of work
+accomplished, and the signature of the UAV technician who returned the UAV to service. These
+records with be used to establish similar criteria as aircraft best practices, like Mean Time
+Between Failures, Total Time Since New, Time Between Inspections, Time Since Inspection,
+Time Since Overhaul and others through tracking, hours, landings, cycles and dates on each
+ratable and consumable part of the UAV as part of a proposed industry wide program with DJI.
+
+Bitcentral's UAVs are equipped with an altimeter that provides the pilot with a constant digital
+display of altitude. Moreover, the UAVs will be operated within the visual line of sight of the
+pilot in command and observer and below 400 feet, above vacant property. Accordingly,
+Bitcentral does not believe an exemption from 14 C.F.R. 91.121 is required.
+Bitcentral, Inc. Petition for Exemption
+May 8, 2015
+Page 5
+
+In support of Bitcentral' s request for an exemption from fuel requirements in 14 C.F.R.
+91.15l(a) and (b), Bitcentral notes that its UAVs are battery-powered and are operated for brief
+periods oftime, within the battery capacity ofthe UAV.
+
+UAV and UAS Operator Qualifications and Training
+
+In support of Bitcentral's request for an exemption from the pilot certification and qualifications
+requirements in 14 C.F.R. 61.113(a) and (a), Bitcentral asserts that an equivalent level of safety
+is achieved by the UAV-specific experience of its Pilots. Each Bitcentral pilot will hold a
+current FAA pilot certificate with the class III medical certification and have at least 50 hours of
+UAS operation of the DJI platforms. The FAA considers the overriding safety factor for the
+limited operations proposed by the petitioner to be the airmanship skills acquired through VAS-
+specific flight cycles, flight time, and specific make and model experience, culminating in
+verification through testing.
+
+Accordingly, the FAA should grant appropriate exemption relief to permit Bitcentral to use pilots
+who have successfully completed commercial UAS training and have also gained flying
+experience using the DJI UAS platforms.
+
+VAV and UAS Operating Parameters
+
+Bitcentral will operate its UAVs in full compliance with the terms and conditions of the
+exemption, the particular manufacturer's manual, and in accordance with its handbook. All
+flights will be conducted within the visual line of sight of the pilot in command. Although a
+UAV may be operated in a metropolitan area, it will be flown below 400 feet AGL, and
+Bitcentral will notify the appropriate Flight Standards District Office "("FSDO") and Air Traffic
+Control for any operation within five miles of an airport.
+
+Bitcentral will limit its operations to daytime Visual Flight Rules ("VFR") plus 30 minutes
+before sunrise and 30 minutes after sunset (dusk), with each operation ending no later than 30
+minutes after sunset. The UAVs are equipped with LED lighting visible for 3 miles.
+Accordingly, we do not believe an exemption from 14 C.F.R. 91.209 is necessary.
+
+Bitcentral seeks an exemption from the requirement in 14 C.F.R. 91.119, subsection (b), that an
+aircraft must remain at least 1,000 feet above any congested area or open air assembly of
+persons, and subsection (c), that an aircraft must remain at least 500 feet above any person or
+structure in an area other than populated or congested, and not closer than 500 feet to any person,
+vehicle, or structure. These requirements were adopted with fixed-wing, manned aircraft
+operations in mind. While Bitcentral may operate its UAVs in a metropolitan area, the UAVs
+will be operated within the visual line of sight of the pilot and an observer. Combined with the
+Bitcentral, Inc. Petition for Exemption
+May 8, 2015
+Page 6
+
+technological capabilities ofthe UAVs, Bitcentral submits that its operational limitations provide
+an equivalent level of safety to that provided in section 91.119.
+
+Request to revise standard terms and condition
+
+In three respects, Bitcentral requests the FAA modify its standard terms and conditions to
+accommodate news gathering operations while maintain an equivalent level of safety.
+
+First, paragraph 16 of the standard terms and conditions provides: The UA may not operate
+within 5 nautical miles of an airport reference point (ARP) as denoted in the current FAA
+Airport/Facility Directory (AFD) or for airports not denoted with an ARP, the center of the
+airport symbol as denoted on the current FAA-published aeronautical chart, unless a letter of
+agreement with that airport's management is obtained or otherwise permitted by a COA issued
+to the exemption holder. The letter of agreement with the airport management must be made
+available.
+
+This limitation makes it impractical to cover news and events in a large city. For example in the
+Los Angeles basin this would eliminate over 500 square miles from news coverage. That is
+almost the size of the City of Los Angeles at 468 square miles. Bitcentral proposes a practical
+modification to the 5 nautical mile limitation for purpose of this exemption. We would propose
+revising the distance requirement to 1 mile of an ARP. Bitcentral proposes to maintain safety
+with respect to persons on the ground by limiting the altitude of operations between one mile and
+5 miles from an ARP to below 200 feet AGL. Bitcentral also proposes to notify airport
+management of any operation within 5 miles of an ARP, but does not believe a letter of
+agreement is necessary or practical for news gathering operations in which there is little if any
+lead time before an operation begins.
+
+Second, paragraph 26 of the standard terms and conditions (adapted from FAR 91.119(c), from
+which Bitcentral seeks an exemption above), provides: All Flight operations must be conducted
+at least 500 feet from all nonparticipating persons, vessels, vehicles, and structures.
+
+This limitation would also unduly limit the coverage of news. This rule is appropriate for a 2,000
+lb. aircraft operating at over 100 miles per hour. For a UAV 3 to 10 lb. UAV operated by a
+certificated pilot, this limitation is not necessary to protect the public safety. Broadcasters have
+significant concerns about liability and would not permit an operation that could endanger any
+person on the ground. The DJI UAV models can each be operated with appropriate distances
+from individuals so as to protect the public safety.
+
+Third, paragraph 27 of the standard terms and conditions provides: All operations shall be
+Bitcentral, Inc. Petition for Exemption
+May 8, 2015
+Page 7
+
+conducted over private or controlled-access property with permission from the property owner.
+
+Today broadcasters operate manned helicopters over private property and do not have to obtain
+permission from property owners. This condition would severely limit the ability of broadcasters
+to cover news as they do today for the benefit of the public. The UAS models Bitcentral intends
+to operate have safety features that ensure the UAV does not come close to persons other than
+the operator during takeoff and landing. In many situations, the UAV will simply transit the
+airspace above private property; no notice or consent is practical or necessary for such a brief
+period in which the UAV traverses private property. At the site of a news event, the UAV may
+hover or circulate for a period of time over private property, but at a safe altitude with
+technological features to maintain altitude and return to base in a loss link scenario. Currently,
+manned helicopters hover and circulate over private property to film a news event. Operation of
+a small and very light UAV poses a significantly smaller risk to persons on the ground.
+
+Public interest
+
+Bitcentral works with local broadcasters to provide news coverage never before obtainable from
+the ground or by manned helicopter. Bitcentral will provide its broadcast customers with the
+ability to cover news and events using a UAV for both testing and operations. This video will
+provide the public with a perspective on news and events they have never seen before. In
+addition, Bitcentral' s engineering and documentation of the workflow process will benefit the
+broadcast industry, the UAV industry, the public, and the FAA.
+
+The FAA's May 6 announcement of a partnership with CNN to conduct practical research of
+news gathering operations over people not directly involved with the operations shows that the
+FAA regards such operations to be in the public interest provided that research and study can
+confirm the safety of such operations. Bitcentral is willing to work with the FAA, through CNN
+or independently as part of this Pathfinder project.
+
+Operating UAVs under the limitations proposed by Bitcentral will avoid any risk of harm to
+pilots as well as persons and people on the ground that would be present during the operation of
+manned helicopters. Finally, UAV operations will also require a much smaller energy footprint
+than with manned helicopters.
+
+Operations limited to the United States
+
+Bitcentral does not intend to operate its UAV outside of the United States.
+Bitcentral, Inc. Petition for Exemption
+May 8, 2015
+Page 8
+
+Summaryfor Federal Register
+Bitcentral submits the following summary to be included in the Federal Register, should the
+FAA determine that publication of a summary is required.
+Aerial videography for the television, print and online news industry
+Because granting this petition would not set a precedent, and indeed would be consistent with the
+terms and conditions of previous exemptions, Bitcentral respectfully requests the FAA dispense
+with Federal Register publication and public comment.
+Sincerely,
+
+Fredric Fourcher
+
+CEO, Bitcentral, Inc.
+
+' g ~WGregory S. al e
+G~sAkin
+                  Hauer & Feld
+

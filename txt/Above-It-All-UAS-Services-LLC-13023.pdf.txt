@@ -1,0 +1,1548 @@
+September 25, 2015
+
+                                                           Exemption No. 13023
+                                                           Regulatory Docket No. FAA-2015-2882
+
+Mr. Thomas E. Dolan
+Founder & Operations Officer
+Above It All ­ UAS Services, LLC
+30 Industrial Drive, Suite 1B
+Louisa, VA 23093
+
+Dear Mr. Dolan:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter dated June 9, 2015, you petitioned the Federal Aviation Administration (FAA) on
+behalf of Above It All ­ UAS Services, LLC (hereinafter petitioner or operator) for an
+exemption. The petitioner requested to operate an unmanned aircraft system (UAS) to
+conduct precision aerial surveys that consist of still, video images and corresponding data
+taken by onboard cameras and/or sensors.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner are the DJI Phantom, DJI Phantom 2 Vision +, and the
+DJI S-1000.
+                                                                                                                 2
+
+The petitioner requested relief from 14 CFR part 21, Certification procedures for products
+and parts, Subpart H--Airworthiness Certificates. In accordance with the statutory criteria
+provided in Section 333 of Public Law 112-95 in reference to 49 U.S.C. § 44704, and in
+consideration of the size, weight, speed, and limited operating area associated with the
+aircraft and its operation, the Secretary of Transportation has determined that this aircraft
+meets the conditions of Section 333. Therefore, the FAA finds that the requested relief from
+14 CFR part 21, Certification procedures for products and parts, Subpart H--Airworthiness
+Certificates, and any associated noise certification and testing requirements of part 36, is
+not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection1. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+ They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+ The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+ A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, Above It All ­ UAS Services, LLC is granted an
+exemption from 14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a),
+91.7(a), 91.119(c), 91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and
+91.417(a) and (b), to the extent necessary to allow the petitioner to operate a UAS to perform
+
+1 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                             3
+
+aerial data collection. This exemption is subject to the conditions and limitations listed
+below.
+
+Conditions and Limitations
+
+In this grant of exemption, Above It All ­ UAS Services, LLC is hereafter referred to as
+the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+1. Operations authorized by this grant of exemption are limited to the DJI Phantom, DJI
+    Phantom 2 Vision +, and the DJI S-1000 when weighing less than 55 pounds
+    including payload. Proposed operations of any other aircraft will require a new
+    petition or a petition to amend this exemption.
+
+2. Operations for the purpose of closed-set motion picture and television filming are
+    not permitted.
+
+3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+    exemption holder may use either groundspeed or calibrated airspeed to determine
+    compliance with the 87 knot speed restriction. In no case will the UA be operated at
+    airspeeds greater than the maximum UA operating airspeed recommended by the
+    aircraft manufacturer.
+
+4. The UA must be operated at an altitude of no more than 400 feet above ground level
+    (AGL). Altitude must be reported in feet AGL.
+
+5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+
+    This requires the PIC to be able to use human vision unaided by any device other than
+    corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+    U.S. driver's license.
+
+6. All operations must utilize a visual observer (VO). The UA must be operated within
+    the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+    to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+    capability. The VO and PIC must be able to communicate verbally at all times;
+    electronic messaging or texting is not permitted during flight operations. The PIC
+    must be designated before the flight and cannot transfer his or her designation for the
+    duration of the flight. The PIC must ensure that the VO can perform the duties
+    required of the VO.
+
+7. This exemption and all documents needed to operate the UAS and conduct its
+    operations in accordance with the conditions and limitations stated in this grant of
+                                                                                                            4
+
+    exemption, are hereinafter referred to as the operating documents. The operating
+    documents must be accessible during UAS operations and made available to the
+    Administrator upon request. If a discrepancy exists between the conditions and
+    limitations in this exemption and the procedures outlined in the operating documents,
+    the conditions and limitations herein take precedence and must be followed.
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+                                                                                                            5
+
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+                                                                                       6
+
+exemption holder may apply for a new or amended COA if it intends to conduct
+operations that cannot be conducted under the terms of the attached COA.
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+
+    be as large as practicable.
+
+23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+    any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+    PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+    These documents must be made available to the Administrator or any law enforcement
+    official upon request.
+
+24. The UA must remain clear and give way to all manned aviation operations and
+    activities at all times.
+
+25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless:
+      a. Barriers or structures are present that sufficiently protect nonparticipating persons
+          from the UA and/or debris in the event of an accident. The operator must ensure
+          that nonparticipating persons remain under such protection. If a situation arises
+          where nonparticipating persons leave such protection and are within 500 feet of
+          the UA, flight operations must cease immediately in a manner ensuring the safety
+          of nonparticipating persons; and
+      b. The owner/controller of any vessels, vehicles or structures has granted permission
+          for operating closer to those objects and the PIC has made a safety assessment of
+          the risk of operating closer to those objects and determined that it does not
+          present an undue hazard.
+
+The PIC, VO, operator trainees or essential persons are not considered
+nonparticipating persons under this exemption.
+
+27. All operations shall be conducted over private or controlled-access property with
+    permission from the property owner/controller or authorized representative.
+    Permission from property owner/controller or authorized representative will be
+    obtained for each flight to be conducted.
+
+28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+
+    boundaries of the operational area as defined by the applicable COA must be reported
+    to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+                                                                                               7
+
+reported to the National Transportation Safety Board (NTSB) per instructions
+contained on the NTSB Web site: www.ntsb.gov.
+
+If this exemption permits operations for the purpose of closed-set motion picture and
+television filming and production, the following additional conditions and limitations apply.
+
+29. The operator must have a motion picture and television operations manual (MPTOM)
+    as documented in this grant of exemption.
+
+30. At least 3 days before aerial filming, the operator of the UAS affected by this
+    exemption must submit a written Plan of Activities to the local Flight Standards
+    District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+    notification may be waived with the concurrence of the FSDO. The plan of activities
+    must include at least the following:
+      a. Dates and times for all flights;
+      b. Name and phone number of the operator for the UAS aerial filming conducted
+          under this grant of exemption;
+      c. Name and phone number of the person responsible for the on-scene operation of
+          the UAS;
+      d. Make, model, and serial or N-Number of UAS to be used;
+      e. Name and certificate number of UAS PICs involved in the aerial filming;
+      f. A statement that the operator has obtained permission from property owners
+          and/or local officials to conduct the filming production event; the list of those
+          who gave permission must be made available to the inspector upon request;
+      g. Signature of exemption holder or representative; and
+      h. A description of the flight activity, including maps or diagrams of any area, city,
+          town, county, and/or state over which filming will be conducted and the altitudes
+          essential to accomplish the operation.
+
+31. Flight operations may be conducted closer than 500 feet from participating persons
+
+    consenting to be involved and necessary for the filming production, as specified in the
+    exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                       8
+
+This exemption terminates on October 31, 2017, unless sooner superseded or rescinded.
+Sincerely,
+
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+ United States Department of Transportation
+          Docket Management System
+
+West Building Ground Floor Room W12-140
+         1200 New Jersey Avenue, SE
+             Washington, DC 20590
+
+REGARDING THE PETITION FROM:
+
+Above It All ­ UAS Services, LLC,
+
+FOR AN EXEMPTION SEEKING RELIEF FROM THE REQUIREMENTS OF
+TITLE 14 OF THE CODE OF FEDERAL REGULATIONS (14 CFR) PART 21
+SECTIONS 45.23(b), 91.7(a), 91.9(b)(2), 91.103(b), 91.109, 91.119, 91.121, 91.151(a),
+91.203(a) and (b), 91.405(a), 91.407(a)(1), 91.409(a)(2), and 91.417(a) and (b).
+
+CONCERNING OPERATION OF SMALL UNMANNED AIRCRAFT SYSTEMS
+(SUAS)
+
+PURSUANT TO SECTION 333 OF THE
+
+FAA MODERNIZATION AND REFORM ACT OF 2012
+
+Regulatory Docket Number _______________
+
+                                          Submitted Electronically
+                                                        June 9, 2015
+
+                                          Above It All ­ UAS Services, LLC
+
+                                          Thomas E. Dolan
+
+                                          Founder & Operations Officer
+
+                                          30 Industrial Drive, Suite 1B
+                                          Louisa, Virginia 23093
+
+REGARDING THE FAA 333 EXEMPTION PETITION REQUEST FROM:
+                         Above It All ­ UAS Services, LLC
+                                              1
+June 9, 2015
+
+United States Department of Transportation
+Docket Management System
+West Building Ground Floor Room W12-140
+1200 New Jersey Avenue, SE
+Washington, DC 20590
+
+Re: Exemption Request under Section 333 of the FAA Reform Act and Part 11 of the
+    Federal Aviation Regulations
+
+Dear Sir or Madam:
+
+Pursuant to Section 333 of the FAA Modernization and Reform Act of 2012 and 14 CFR
+Part 11, Above It All ­ UAS Services, LLC the Applicant of the DJI Phantom
+(PHANTOM), DJI Phantom 2 Vision + (PHANTOM 2) and DJI S-1000 ("S-1000")
+Small Unmanned Aircraft Systems ("SUAS") , seeks an exemption from the Federal
+Aviation Regulations ("FARs") discussed later in this petition.
+
+The requested exemption would allow commercial operation of Applicants PHANTOM,
+PHANTOM 2 and S-1000 SUAS' of which all weigh under 25 lbs. (based on variable
+installed sensors) to perform precision aerial surveys that consist of still, video images
+and corresponding data taken by onboard cameras and/or sensors. The PHANTOM,
+PHANTOM 2 and S-1000 SUAS' takes a series of high quality, still digital images, video
+images and or other data that are used to provide inspection data for evaluation by a
+client. Applications for these SUAS devices and associated data processing functions
+include inspection of; agriculture; building; travel & power utility infrastructure;
+professional surveying; real estate; law enforcement; Electronic News Gathering (ENG);
+television; movie filming; radiological & consequence management and scientific
+research & development.
+
+Use of the PHANTOM, PHANTOM 2 and S-1000 SUAS' for the aerial missions
+aforementioned reduces the need to operate conventional airplanes or helicopters for the
+same purpose thus reducing risk to personnel and property on the ground. High quality
+imagery/data can be provided at a fraction of the cost of using conventional manned
+aircraft. The benefits from these savings will be enhanced efficiency, productivity for the
+affected activities, as well as reduction in harmful environmental emissions and safety
+risks. Operations under the exemption will be subject to strict operating requirements and
+conditions to ensure at least an equivalent level of safety to currently authorized
+operations using manned aircraft and under conditions as may be modified by the FAA as
+required by Section 333.
+
+       REGARDING THE FAA 333 EXEMPTION PETITION REQUEST FROM:
+                                 Above It All ­ UAS Services, LLC
+                                                     2
+The PHANTOM, PHANTOM 2 and S-1000 SUAS' will be operated under controlled
+conditions at low altitude in airspace that is limited in scope, as described more fully
+herein; it will have automated control features, as described below. The PHANTOM,
+PHANTOM 2 and S-1000 SUAS' also will be operated and observed by a individuals
+who posses an FAA commercial or private pilots license that already understand the
+rigorous requirements of flying manned airplanes and/or rotorcrafts in the National
+Airspace System (NAS). Any required manufacturer's training, certification and/or exam
+programs for the SUAS if any will also be obtained by the applicant's SUAS team
+members.
+
+Finally, the airspace in which the SUAS' will operate will be below 400 feet above
+ground level, over privately owned, owner authorized land. Applicant respectfully
+submits that because these small, unmanned aerial vehicles, the PHANTOM,
+PHANTOM 2 and S-1000 SUAS', will be used in lieu of comparatively hazardous
+operations now conducted with fixed wing, and rotary conventional aircraft, the FAA can
+have confidence that the operations will achieve at least an equivalent level or greater
+level of safety. Approval of this exemption would thereby enhance safety and fulfill the
+Secretary of Transportation's (the FAA Administrator's) responsibilities under Section
+333(c) of the Reform Act to establish requirements for the safe operation of such aircraft
+systems in the NAS.
+
+Thomas E. Dolan
+
+Founder & Operations Officer
+Above It All ­ UAS Services, LLC
+
+30 Industrial Drive, Suite 1B
+Louisa, Virginia 23093
+
+Cell Phone: 631-495-2947
+
+Office:  434-374-1866
+
+Email: Tom.Dolan@aboveitall-uas-services.com or
+         thomasedolan@gmail.com
+
+REGARDING THE FAA 333 EXEMPTION PETITION REQUEST FROM:
+                         Above It All ­ UAS Services, LLC
+                                              3
+TABLE OF CONTENTS                                                   Page
+
+I GLOSSARY OF ABBREVIATIONS & TERMS                                 1
+II LIST OF ATTACHMENTS                                              1
+III PETITIONERS CONTACT INFORMATION                                 2
+IV REGULATIONS FROM WHICH EXEMTION IS REQUESTED                     2
+V THE APPLICABLE LEGAL STANDARD UNDER SECTION 333                   2
+VI DESCRIPTION OF PROPOSED OPERATIONS & SUAS'                       3
+VII REGULATIONS FROM WHICH EXEMPTION IS REQUESTED                   8
+                                                                    8
+         A. Airworthiness Certificates                              9
+         B. Airworthiness Standards: Normal Category Rotorcraft     9
+         C. Aircraft Marking and Identification Requirements        10
+         D. Civil Aircraft Flight Manual in the Aircraft            11
+         E. Civil Aircraft Airworthiness                            11
+         F. Preflight Action                                        11
+         G. Flight Instruction                                      12
+         H. Minimum Safe Altitudes                                  13
+         I. Altimeter Settings                                      13
+         J. Fuel Requirements for Flight in VFR Conditions          14
+         K. Carrying Civil Aircraft Certification and Registration  15
+         L. Maintenance Inspections
+
+VIII PUBLIC INTEREST                                                15
+IX PRIVACY                                                          16
+X FEDERAL REGISTAR SUMMARY                                          17
+XI BIOGRAPHICAL BACKGROUND TEAM OF PETITIONERS                      18
+XII CONCLUSION                                                      25
+
+i revised 6/9/2015
+             Above It All ­UAS Services, LLC - FAA 333 Exemption Request
+
+I GLOSSARY OF ABBREVIATIONS & TERMS
+
+AGL               Above Ground Level
+CFR               Code of Federal Regulation
+COA               Certificate of Authorization
+FAA               Federal Aviation Administration
+FAR               Federal Aviation Regulation
+GCS               Ground Control Station
+NAS               National Airspace System
+NOT               AM Notice to Airman
+PIC               Pilot in Command
+PO                Pilot Observer
+Reform Act        FAA Modernization and Reform Act of 2012
+SUAS              Small Unmanned Aircraft Systems
+UA                Unmanned Aircraft
+UAS               Unmanned Aircraft System
+VLOS              Visual Line of Sight
+VFR               Visual Flight Rules
+Class E Airspace  Controlled airspace around some airports from surface that
+                  extends to 700 or 1,200 feet AGL
+Class G Airspace  Class G is completely uncontrolled airspace from surface to
+                  below 60,000 feet
+
+II LIST OF ATTACHMENTS
+
+The following attachments are referenced in the request for exemption which follows.
+These documents provide additional evidence in support of Petitioner's petition to the
+FAA.
+
+Attachment A  PHANTOM Operations Procedures Manual
+Attachment B  PHANTOM 2 VISION + Operations Procedures Manual
+Attachment C  PHANTOM Pilot Training Manual
+Attachment D  S 1000 Operations Procedures Manual
+Attachment E  PILOT OPERATION & SAFETY GUIDELINES
+
+III           PETITIONERS CONTACT INFORMATION
+
+Petitioner:   Above It All ­ UAS Services, LLC
+Phone:        631-495-2947
+Email:        Tom.Dolan@aboveitall-uas-services.com or Thomasedolan@gmail.com
+Address:      30 Industrial Drive, Suite 1B
+              Louisa, Virginia 23093
+
+                  1 Revised 6/9/2015
+               Above It All ­UAS Services, LLC - FAA 333 Exemption Request
+
+IV REGULATIONS FROM WHICH EXEMTION IS REQUESTED
+
+14 CFR Part 21, Subpart H Airworthiness Certificates & 14 CFR §
+14 CFR Part 27: Airworthiness Standards: Normal Category Rotorcraft.
+14 CFR § 91.9(c), 45.23(b) and 45.27(a): Aircraft Marking and Identification Requirements
+14 CFR § 91.9(b) (2): Civil Aircraft Flight Manual in the Aircraft.
+14 CFR § 91.7(a): Civil Aircraft Airworthiness.
+14 CFR § 91.103(b): Preflight Action.
+14 CFR § 91.109(a): Flight Instruction.
+14 CFR § 91.119: Minimum Safe Altitudes.
+14 CFR § 91.121: Altimeter Settings.
+14 CFR § 91.151(a): Fuel Requirements for Flight in VFR Conditions.
+14 CFR § 91.203 (a) & (b): Carrying Civil Aircraft Certification & Registration
+14 CFR § 91.405(a);
+14 CFR § 91.407(a) (1);
+14 CFR § 91.409(a) (2);
+14 CFR § 91.417 (a) & (b): Maintenance Inspections
+
+V THE APPLICABLE LEGAL STANDARD UNDER SECTION 333
+
+Developer submits that grant of this exemption application for use of the PHANTOM,
+PHANTOM 2 VISION + and S-1000 SUAS' in a wide-range of various low level aerial
+missions & applications that will advance the Congressional mandate in Section 333 of the
+Reform Act to accelerate the introduction of UAS's into the NAS if it can be accomplished
+safely. This law directs the Secretary of Transportation to consider whether certain UAS's
+may operate safely in the NAS before completion of the rulemaking required under Section
+332 of the Reform Act. In making this determination, the Secretary is required to determine
+which types of UAS's do not create a hazard to users of the NAS or the public or pose a
+threat to national security in light of the following:
+
+         · The UAS's size, weight, speed, and operational capability;
+
+         · Operation of the UAS in close proximity to airports and populated areas; and
+
+         · Operation of the UAS within visual line of sight of the operator.
+
+Reform Act § 333(a) (1) If the Secretary determines that such vehicles "may operate safely
+in the national airspace system, the Secretary shall establish requirements for the safe
+operation of such aircraft in the national airspace system." Id. §333(c)
+
+Petitioner submits that this provision places a duty on the Administrator to not only process
+applications for exemptions under Section 333, but for the Administrator, if he deems the
+conditions proposed herein require modification in order to allow approval, to supply
+conditions for the safe operation of the UAS. Developer welcomes the opportunity to
+consult with FAA staff in order to address any issues or concerns that this proposal may
+raise that they believe may require modification.
+
+                                                 2 Revised 6/9/2015
+               Above It All ­UAS Services, LLC - FAA 333 Exemption Request
+
+The Federal Aviation Act expressly grants the FAA the authority to issue exemptions. This
+statutory authority, by its terms, includes exempting civil aircraft, as the term is defined
+under §40101 of the Act, from the requirement that all civil aircraft must have a current
+airworthiness certificate and those regulations requiring commercial pilots to operate
+aircraft in commercial service:
+
+         The Administrator may grant an exemption from a requirement of a regulation
+         prescribed under subsection (a) or (b) of this section or any of sections 4-44702-
+         44716 of this title if the Administrator finds the exemption is in the public interest.
+
+49 U.S.C. §44701(f) See also 49 USC §44711(a); 49 USC §44704; 14 CFR §91.203(a) (1)
+
+The grant of the requested exemption is in the public interest based on the clear direction in
+Section 333 of the Reform Act; the additional authority in the Federal Aviation Act, as
+amended; the strong equivalent level of safety surrounding the proposed operations; and
+the significant public benefit, including enhanced safety and cost savings associated with
+transitioning to UAS's for aerial applications and use of its associated data processing
+functions to include inspection of; agriculture; building; travel & power utility
+infrastructure, professional surveying, real estate, law enforcement, Electronic News
+Gathering (ENG), television, movie filming, radiological & consequence management and
+scientific research & development. Accordingly, the Petitioner respectfully requests that
+the FAA grant the requested exemption upon review of request.
+
+VI DESCRIPTION OF PROPOSED OPERATIONS & SUAS'
+
+The current PHANTOM, PHANTOM 2 VISION + and S-1000 SUAS' Manual describes,
+in detail, the policies and procedures for Petitioners proposed SUAS operations. To assist
+the FAA in its safety assessment of Petitioners proposed SUAS operations, below is a
+summary of operational limitations and conditions which will ensure an equivalent or
+higher level of safety to operations conducted under current regulatory guidelines:
+
+    1. The SUAS' will weigh less than 25 lbs. depending on sensor requirements.
+
+    2. Flights will be operated within line-of-sight of the trained PIC and PO.
+    3. Flights will be terminated at 25% power reserve.
+
+    4. Flights will be operated at an altitude of no more than 400 feet AGL.
+
+    5. Minimum crew for each operation will consist of the SUAS PIC and PO.
+
+    6. The SUAS PIC and PO will both be FAA licensed commercial or private pilot.
+
+                                                 3 Revised 6/9/2015
+          Above It All ­UAS Services, LLC - FAA 333 Exemption Request
+
+7. The SUAS pilot will be PIC. The PIC and PO, both being FAA pilot certificate
+    holders have the ability to and may take over each others role for safety or any other
+    reason due to both having the same and necessary PIC/PO qualifications & training,
+    which adds to the overall safety of flight operations.
+
+8. The SUAS will only operate within a limited pre-determined area.
+9. The SUAS onboard computer stabilization controller provides the PIC the ability to
+
+    hover the SUAS and move in vertical and horizontal planes independently and
+    simultaneously that affords the PIC to alter predetermined flight path if any safety
+    issue in flight path arises.
+10. The SUAS onboard telemetry affords the PIC to monitor in real time all pertinent
+    SUAS airborne altitude, battery life, GPS system health data and parameters on
+    laptop or tablet.
+11. If the SUAS loses communications or GPS signal the SUAS will automatically
+    return to its pre-determined safe launching/landing site through its advanced
+    onboard safety feature.
+12. A mandatory preflight safety briefing for all SUAS team personnel will be
+    conducted prior to each day's planned SUAS flight missions.
+13. PIC and PO will have the most current training in the SUAS to be operated along
+    with any pertinent information from the manufacturer, as required in the Manual.
+14. PO and PIC will at all times be able to communicate by voice, visual signal, audible
+    signal and/or text.
+15. Permission, Written or oral, will be obtained from the necessary property owners or
+    managers prior to any aerial activity.
+16. Any and all required permissions and/or permits will be obtained from the
+    appropriate state, county, city or jurisdiction agencies prior to any aerial activity.
+17. Petitioner will submit a Certificate of Authorization (COA) application for each
+    SUAS as part of the exemption sought by this Petition
+
+                                             4 Revised 6/9/2015
+               Above It All ­UAS Services, LLC - FAA 333 Exemption Request
+
+Below is an overview of the Petitioners PHANTOM specifications. Additional operational
+information is available in the PHANTOM Operations Procedures Manual (Attachment A).
+
+Operating Temperature       -10°C ~ 50°C
+
+Take-off Weight             <1000g
+
+Hovering Accuracy           Vertical± 0.8mHorizontal± 2.5m
+
+Max Yaw Angular Velocity    200°/s
+
+Max Tilt Angle              45°
+
+Max Ascent / Descent Speed  ±6m/s
+
+Max Flight Velocity         10m/s
+
+Diagonal distance (motor center to center) 350mm
+
+Working Current /Voltage    52 mA@6V
+
+                            5 Revised 6/9/2015
+               Above It All ­UAS Services, LLC - FAA 333 Exemption Request
+
+Below is an overview of the Petitioners PHANTOM 2 VISION + specifications. Additional
+operational information is available in the PHANTOM 2 VISION + Operations Procedures
+Manual (Attachment B).
+
+                                            PHANTOM 2 Vision + +
+
+Battery                   5200mAh LiPo
+
+PHANTOM 2 VISION + + Weight 1160g
+
+Hover Accuracy (Ready to Fly) Vertical:± 0.8m;Horizontal:± 2.5m
+
+Max Yaw Angular Velocity  200°/s
+
+Max Tilt Angle            35°
+
+Max Ascent / Descent Speed 6m/s
+
+Max Flight Speed          15m/s(Not Recommended)
+
+Diagonal Length           350mm
+
+Tilting Range of Gimbal   0°-60°
+
+                         6 Revised 6/9/2015
+               Above It All ­UAS Services, LLC - FAA 333 Exemption Request
+
+Below is an overview of the Petitioners S-1000 SUAS specifications. Additional
+operational information is available in the S-1000 Operations Procedures Manual
+(Attachment D).
+
+Frame               Diagonal Wheelbase: 1045mm
+                    Frame Arm Length: 386mm
+Motor               Frame Arm Weight: (Including Motor, ESC, Propeller) 325g
+ESC                 Center Frame Diameter: 337.5mm
+                    Center Frame Weight (With Landing Gear Mounting Base, Servos)
+Foldable Propeller  1330g
+(1552/1552R)        Landing Gear Size: 460mm (Length) ×511mm (Width) ×305mm
+Flight Parameters   (Height), (Top width: 155 mm)
+
+                    Stator Size: 41×14mm
+                    KV: 400rpm/V
+                    Max Power: 400W
+                    Weight (With Cooling Fan): 158g
+
+                    Working Current: 40A
+                    Working Voltage: 6S LiPo
+                    Signal Frequency: 30Hz ~ 450Hz
+                    Drive PWM Frequency: 8KHz
+                    Weight (With Radiators): 35g
+
+                    Material: High strength performance engineered plastics
+                    Size: 15×5.2inch
+                    Weight: 13g
+
+                    Takeoff Weight: 6.0Kg ~ 11.0Kg
+                    Total Weight: 4.2Kg
+                    Power Battery: LiPo (6S10000mAh~20000mAh15C (Min))
+                    Max Power Consumption: 4000W
+                    Hover Power Consumption: 1400W (@9.5Kg Takeoff Weight)
+                    Hover Time: 15min (@14000mAh & 9.5Kg Takeoff Weight)
+                    Working Environment Temperature: -10 °C ~ +40 °C
+
+                                      7 Revised 6/9/2015
+               Above It All ­UAS Services, LLC - FAA 333 Exemption Request
+
+VII REGULATIONS FROM WHICH EXEMPTION IS REQUESTED
+
+The Federal Aviation Act expressly grants the FAA the authority to issue exemptions.
+By its terms, this statutory authority includes exempting civil aircraft, as the term is defined
+under §40101 of the Act, including SUASs, from its safety regulations and minimum
+standards when the Administrator decides a requested exemption is in the public interest.
+
+Petitioner seeks an exemption from several interrelated provisions of 14 CFR Parts 21,
+45 and 91 for purposes of conducting wide-range of various low level aerial missions &
+applications with associated data processing functions to include inspection of; agriculture;
+building; travel & power utility infrastructure; professional surveying; real estate; law
+enforcement; Electronic News Gathering (ENG); television; movie filming; radiological &
+consequence management and scientific research & development using SUAS which are
+listed below are:
+
+         (1) the specific sections of 14 CFR for which exemption is sought; and
+         (2) the operating procedures and safeguards that Petitioner has established which
+         will ensure a level of safety equal to or better than the rules from which exemption
+         is sought.
+
+A. 14 CFR Part 21, Subpart H Airworthiness Certificates & 14 CFR § 91.203(a) (1).
+
+This petition seeks an exemption from 14 CFR Part 21, Subpart H, which establishes the
+procedural requirements for the issuance of airworthiness certificates as required by 14
+CFR §91.203(a)(1). Given the size and limited operating area associated with the SUAS to
+be utilized by the Petitioner, an exemption from Part 21 Subpart H meets the requirements
+of an equivalent level of safety under Part 11 and Section 333 of the Reform Act.
+
+The Federal Aviation Act (49 U.S.C. § 44701(f)) and Section 333 of the Reform Act both
+authorize the FAA to exempt aircraft from the requirement for an airworthiness certificate,
+upon consideration of the size, weight, speed, operational capability, and proximity to
+airports and populated areas of the particular UAS.
+
+In all cases, an analysis of these criteria demonstrates that the SUAS operated without an
+airworthiness certificate, in the restricted environment and under the conditions proposed
+will be at least as safe, or safer, than a conventional rotorcraft operating with an
+airworthiness certificate without the restrictions and conditions of the proposed SUAS
+operations.
+
+Equivalent Level of Safety
+
+The SUAS to be operated hereunder is less than 25 lbs. fully loaded, carries no pilot,
+No passenger, no explosive materials, and operates exclusively within a secured pre-
+determined area. Unlike other civil aircraft, the proposed operations in this petition for
+exemption will be controlled and monitored by the Petitioner with advance notice to the
+FAA of all operations that will be conducted under this exemption.
+
+                                                 8 Revised 6/9/2015
+               Above It All ­UAS Services, LLC - FAA 333 Exemption Request
+
+These safety enhancements, which already apply to civil aircraft operated in connection
+with existing inspection operations, provide a greater degree of safety to the public and
+property owners than conventional operations conducted with airworthiness certificates
+issued under 14 CFR Part 21, Subpart H. Lastly, application of these same criteria
+demonstrates that there is no credible threat to national security posed by the SUAS, due to
+its size, speed of operation, location of operation, lack of explosive materials, and inability
+to carry a substantial external load.
+
+B. 14 CFR Part 27: Airworthiness Standards: Normal Category Rotorcraft.
+
+14 CFR Part 27 sets forth the procedural requirements for airworthiness certification of
+normal category rotorcraft. To the extent the Petitioner's SUASs would otherwise require
+certification under Part 27, as a rotorcraft, Petitioner requests an exemption from Part 27's
+airworthiness standards for the same reasons identified in the exemption request from 14
+CFR Part 21, Subpart H.
+
+C. Aircraft Marking and Identification Requirements: 14 CFR §§ 91.9(c), 45.23(b)
+and 45.27(a).
+
+This petition seeks an exemption from the aircraft marking and identification requirements
+of 14 CFR §§ 91.9(c), 45.23(b) and 45.27(a).
+
+14 CFR § 91.9(c), Civil aircraft flight manual, marking, and placard requirements,
+provides that:
+
+No person may operate a U.S.-registered civil aircraft unless that aircraft is identified in
+accordance with part 45 of this chapter.
+
+14 CFR § 45.23(b), Markings of the Aircraft, states:
+
+When marks include only the Roman capital letter "N" and the registration number is
+displayed on limited, restricted or light-sport category aircraft or experimental or
+provisionally certificated aircraft, the operator must also display on that aircraft near each
+entrance to the cabin, cockpit, or pilot station, in letters not less than 2 inches nor more than
+6 inches high, the words "limited," "restricted," "light-sport," "experimental," or
+"provisional," as applicable
+
+14 CFR § 45.27(a), Rotorcraft, states:
+
+Each operator of a rotorcraft must display on that rotorcraft horizontally on both surfaces of
+the cabin, fuselage, boom, or tail the marks required by §45.23.
+
+Exemption from § 45.23(b) is warranted because the SUAS has no entrance to the cabin,
+
+                                                 9 Revised 6/9/2015
+               Above It All ­UAS Services, LLC - FAA 333 Exemption Request
+
+cockpit or pilot station, on which the word "Experimental" can be placed. Moreover, given
+the size of the SUAS, two-inch lettering would be impossible. The word "Experimental"
+will be placed on the fuselage in compliance with § 45.29(f).
+
+Given the nature of the specific relief sought by this exemption request, Petitioner requires
+relief from the associated marking and identification requirements of § 45.27(a) and §
+91.9(c), which would require compliance with § 45.23(b).
+
+Equivalent Level of Safety
+
+An equivalent level of safety for exemptions to the aircraft marking and identification
+requirements of §§ 91.9(c), 45.23(b) and 45.27(a), will be provided by having the SUAS
+marked on its fuselage as required by §45.29(f) where the PIC, PO, and others working
+with the SUAS will see the identification of the UAS as "Experimental." Additionally,
+Petitioner will ensure compliance with any requests of SUAS marking by the FAA.
+
+The FAA has issued the following exemptions to the aircraft marking requirements of §
+45.23(b): Exemptions Nos. 10700, 8738, 10167 and 10167A.
+
+D. 14 CFR § 91.9(b) (2): Civil Aircraft Flight Manual in the Aircraft.
+
+This petition seeks an exemption from the flight manual requirements of 14 CFR §
+91.9(b) (2), which states:
+
+         (b) No person may operate a U.S.-registered civil aircraft
+
+         (2) For which an Airplane or Rotorcraft Flight Manual is not required by §21.5 of
+         this chapter, unless there is available in the aircraft a current approved airplane or
+         Rotorcraft Flight Manual, approved manual material, markings, and placards, or
+         any combination thereof.
+
+Given its size, configuration, and load capacity, the SUAS has no ability to carry such a
+manual on the craft. There is no need to carry this item on the SUAS, since there is no pilot
+on board, no room, no capacity or need.
+
+Equivalent Level of Safety
+
+The safety related purpose of this manual requirement can be equally satisfied by
+having the SUAS flight manual at the ground control point where the pilot flying the SUAS
+will have immediate access to it. Accordingly, Petitioner requests an exemption from §
+91.9(b) (2)'s flight manual requirements, on the condition that the SUAS flight manual be
+available at the control point during each operation.
+
+The FAA has issued the following exemptions to this regulation: Exemption Nos. 8607,
+8737, 8738, 9299, 9299A, 9565, 9565B, 10167, 10167A, 10602, 32827, and 10700
+
+                                                 10 Revised 6/9/2015
+               Above It All ­UAS Services, LLC - FAA 333 Exemption Request
+
+E. 14 CFR § 91.7(a): Civil Aircraft Airworthiness.
+
+This petition seeks an exemption from 14 CFR § 91.7(a), which requires that a civil aircraft
+be in an airworthy condition to be operated. Since there is currently no airworthiness
+certificate issued for the SUAS, no FAA regulatory standard will exist for determining
+airworthiness.
+
+Equivalent Level of Safety
+
+Petitioner PICs have hundreds flight hours in SUAS flying operations with an excellent
+safety record. Furthermore, given the size of the SUAS and the requirements contained in
+the Manual for maintenance and use of safety checklists prior to each flight, an equivalent
+level of safety will be provided.
+
+The FAA has issued the following exemptions to this regulation: Exemption Nos. 8607,
+8737, 8738, 9299, 9299A, 9565, 9565B, 10167, 10167A, 10602, 32827, and 10700
+
+F. 14 CFR § 91.103(b): Preflight Action
+
+This petition seeks an exemption from m § 91.103, which requires a PIC to become
+familiar with specific information before each flight, including information contained in the
+FAA approved Flight Manual on board the aircraft. Inasmuch as an FAA approved flight
+manual will not be provided for the SUAS, an exemption will be needed.
+
+Equivalent Level of Safety
+
+An equivalent level of safety will be provided by following the SUAS Operations Manual
+comprehensive preflight checklist. The PIC will attain all information and actions,
+including reviewing weather, flight battery requirements, landing and takeoff distances, and
+aircraft performance data, a briefing to the PO along with all others involved in the aerial
+activities before beginning any flight operation.
+
+G. 14 CFR § 91.109(a): Flight Instruction.
+
+This petition seeks an exemption from 14 CFR § 91.109(a), which provides that "no person
+may operate a civil aircraft (except a manned free balloon) that is being used for flight
+instruction unless that aircraft has fully functioning dual controls." SUAS' and remotely
+piloted aircraft, by their design do not have fully functional dual pilot controls. Instead,
+flight control is accomplished through the use of a control box or ground station that
+communicates with the SUAS via radio frequency communications.
+
+                                                 11 Revised 6/9/2015
+               Above It All ­UAS Services, LLC - FAA 333 Exemption Request
+
+Equivalent Level of Safety
+
+Given the size and speed of the SUAS, an equivalent level of safe training can still be
+performed without dual controls because no pilot or passengers are aboard the SUAS, and
+all persons will be a safe distance away should the SUAS experience any difficulties during
+flight instruction.
+
+The FAA has approved exemptions for flight training without fully functional dual controls
+for a number of aircraft and for flight instruction in experimental aircraft. See Exemption
+Nos. 5778K & 9862A.
+
+H. 14 CFR § 91.119: Minimum Safe Altitudes.
+
+This petition seeks an exemption from the minimum safe altitude requirements of 14 CFR
+§ 91.119. Section 91.119 prescribes the minimum safe altitudes under which aircraft may
+not operate, including 400 feet above the surface and away from any person, vessel,
+vehicle, or structure in non-congested areas. See 14 CFR § 91.119(c). Section § 91.119(d)
+(1) allows for a helicopter to operate at less than those minimum altitudes when it can be
+operated "without hazard to persons or property on the surface," provided that "each person
+operating the helicopter complies with any routes or altitudes specifically prescribed for
+helicopters by the FAA
+
+To provide the intended inspections, the SUAS will normally need to be operated within a
+range of approximately 100 feet from the structure or item to be inspected. Accordingly,
+due to the nature of the proposed operations, the PIC and the PO may at times be less than
+400 feet away from structures during the operation, and an exemption is therefore required.
+
+Equivalent Level of Safety
+
+An equivalent level of safety will be achieved given the size, weight, speed of the UAS as
+well as the location where it is operated. Operations with rotorcraft weighting far more than
+the maximum 25 lbs. proposed SUAS, along with the lack of flammable fuel, any risk
+associated with these operations are far less than those of conventional aircraft. As set forth
+in the Manual, the SUAS will be operated in a positively controlled area, where buildings
+and people will not be exposed to operations without their authorized consent. No flight
+will be taken without the permission of the property owner or manager and/or local
+officials. Because of the advance notice to the property owner and participants, all affected
+individuals will be aware of the planned flight operations as set forth in the Manual.
+Furthermore, by operating at such lower altitudes, the SUAS will not interfere with other
+aircraft that are subject to the minimum safe altitude regulations.
+
+                                                 12 Revised 6/9/2015
+               Above It All ­UAS Services, LLC - FAA 333 Exemption Request
+
+I. 14 CFR § 91.121 Altimeter Settings
+
+This petition seeks an exemption from 14 CFR § 91.121, which requires a person
+operating an aircraft to maintain cruising altitude or flight level by reference to an altimeter
+that is set to the elevation of the departure airport or barometric pressure. An exemption is
+required because the SUAS does not have a barometric altimeter, but rather a GPS altitude
+read out.
+
+Equivalent Level of Safety
+
+An equivalent level of safety will be achieved by following the procedures set forth in the
+PHANTOM, PHANTOM 2 VISION + and S-1000 SUAS' Manual. As prescribed in the
+Manual, the operator will confirm the altitude of the launch site shown on the GPS altitude
+indicator before flight. Moreover, the PIC will use the GPS altitude indicator to constantly
+monitor the SUAS's height, thus ensuring operation at safe altitudes.
+
+J. 14 CFR § 91.151(a): Fuel Requirements for Flight in V FR Conditions
+
+This petition seeks an exemption from 14 CFR § 91.151(a)'s fuel requirements for flight in
+VFR conditions. Section 91.151 states:
+
+         (a) No person may begin a flight in an airplane under VFR conditions unless
+         (considering wind and forecast weather conditions) there is enough fuel to fly to the
+         first point of intended landing and, assuming normal cruising speed:
+
+                  (1) During the day, to fly after that for at least 30 minutes; or
+                  (2) At night, to fly after that for at least 45 minutes.
+
+The battery supplying electric powering source for the SUAS provides approximately 20 to
+30 minutes of powered flight. An exemption from the 30 minute reserve requirement in 14
+CFR §91.151 is therefore required.
+
+Equivalent Level of Safety
+
+An equivalent level of safety can be achieved by limiting flights to 25% of battery power,
+whichever happens first. This restriction would be more than adequate to return the SUAS
+to its planned landing zone from anywhere within its limited operating area. Operation of
+the SUAS with less than 30 minutes of reserve fuel does not engender the type of risks that
+Section 91.151(a) was intended to alleviate given the size and speed of the small UAS.
+Additionally, we are not planning or proposing to fly SUAS at night.
+
+Operation of SUAS will be limited to predetermined and controlled areas where only
+people and property owners, or official representatives who have signed waivers will be
+allowed.
+
+                                                 13 Revised 6/9/2015
+               Above It All ­UAS Services, LLC - FAA 333 Exemption Request
+
+This request for exemption falls within the scope of prior exemptions. See e.g. Exemption
+10673 (allowing Lockheed Martin Corporation to operate without compliance with §
+91.151 (a)); see also Exemptions 2689F, 5745, 10673, and 10808.
+
+K. 14 CFR § 91.203 (a) & (b): Carrying Civil Aircraft Certification and Registration
+
+This petition seeks an exemption from civil aircraft certification and registration
+requirements of 14 CFR § 91.203 (a) and (b). The regulation provides in pertinent part:
+
+         (a) Except as provided in §91.715, no person may operate a civil aircraft unless it
+         has within it the following:
+
+                  (1) An appropriate and current airworthiness certificate
+
+         (b) No person may operate a civil aircraft unless the airworthiness certificate
+         required by paragraph (a) of this section or a special flight authorization issued
+         under §91.715 is displayed at the cabin or cockpit entrance so that it is legible to
+         the passengers or crew.
+
+Petitioner is seeking an exemption from the airworthiness certificate requirements, an
+exemption to this regulation is necessary because:
+
+    1 No such certificate is available to be issued for airworthiness of a SUAS:
+    2 SUAS load capacity and size does not allow it to carry certification and registration
+
+         documents and it is impractical to display such documentation on the SUAS;
+    3 SUAS does not have a cabin or cockpit entrance at which the documents could be
+
+         displayed; and
+    4 There are no passengers or crew for whom the certificates need be displayed.
+
+Equivalent Level of Safety
+
+To the extent these regulations are applicable to the proposed SUAS operations, an
+equivalent level of safety will be achieved by keeping these documents at the ground
+control point or station where the pilot flying the SUAS will have immediate access to
+them.
+
+The FAA has issued numerous exemptions to this regulation. A representative sample of
+other exceptions which includes Exemption Nos. 9565, 9665, 9789, 9789A, 9797, 9797A,
+9816A, and 10700
+
+                                                 14 Revised 6/9/2015
+               Above It All ­UAS Services, LLC - FAA 333 Exemption Request
+
+L. 14 CFR §§ 91.405(a); 91.407(a) (1); 91.409(a) (2); 91.417 (a) & (b): Maintenance
+Inspections
+
+Petitioner seeks an exemption from the maintenance inspection requirements of 14
+CFR §§ 91.405(a); 91.407(a) (1); 91.409(a) (2); 91.417 (a) & (b). These regulations specify
+maintenance and inspection standards in reference to 14 CFR Part 43. See, e.g., 14 CFR §
+91.405(a) (stating that each owner or operator of an aircraft "shall have that aircraft
+inspected as prescribed in subpart E of this part and shall between required inspections . . .
+have discrepancies repaired as prescribed in part 43 of this chapter"). An exemption of
+these regulations is needed because Part 43 and these sections apply only to aircraft with an
+airworthiness certificate, as such the SUAS does not have or is required to have at this
+time.
+
+Equivalent Level of Safety
+
+An equivalent level of safety will be achieved since maintenance and inspections will
+be performed in accordance with the PHANTOM, PHANTOM 2 VISION + and S-1000
+SUAS' Manuals. As provided in the Manual, the PIC will ensure that the SUAS is in
+proper working order prior to initiating flight, perform routine or required maintenance,
+and maintain a log of any maintenance performed. The PIC is the most familiar with the
+craft and best suited to maintain the SUAS in an airworthy condition to provide the
+equivalent level of safety.
+
+If mechanical issues arise, the SUAS can land immediately no higher than 400 feet AGL at
+the most. The SUAS' small size, carrying capacity, and the fact that flight operations will
+only take place in restricted areas for periods of time not to exceed 25 minutes or until 25%
+battery power remains, create less risk than the same factors associated with conventional
+fixed-wing airplane and rotorcraft performing the same operation.
+
+VIII PUBLIC INTEREST
+
+Consistent with the requirements of 14 CFR §11.81(d), Petitioner offers the following
+reasons why granting this petition for exemption is in the public interest, i.e., how granting
+it would benefit the public as a whole.
+
+Approval of exemptions allowing commercial operations of small and lightweight SUAS'
+in aerial services industry benefits the public as a whole in the following ways:
+
+    · It helps fulfill Congress' goal in passing Section 333(a) through (c) of the Reform
+         Act, namely, the FAA Administrator's assessment of whether certain UAS may
+         operate safely in the National Airspace System before completion of the rulemaking
+         required under Section 332 of the Reform Act.
+
+    · The operation significantly improves safety and reduces risk by alleviating human
+         exposure to danger associated with current aerial mission methods, namely, full size
+         helicopters. Manned helicopters performing various low level inspections and
+
+                                                 15 Revised 6/9/2015
+               Above It All ­UAS Services, LLC - FAA 333 Exemption Request
+
+         patrols have experienced an exceedingly high number of accidents and fatalities.
+         The public's interest is furthered by reducing human exposure to death or serious
+         injury associated with manned aircraft performing various low level inspections and
+         patrols.
+    · Petitioner's SUAS' are battery powered and create no emissions and are quite quiet.
+         If Petitioner's SUAS crashes, there is no fuel to ignite and explode. Any impact of
+         Petitioner's lightweight SUAS' is obviously, far less than a full size helicopter. The
+         public's interest is furthered by minimizing human exposure to death or serious
+         injury from an accident and ecological impact of by reducing to potentially harmful
+         emissions and noise pollution associated with manned aircraft.
+    · Problems with safety, cost, statistical integrity, and logistics continue to impede low
+         level aerial missions conducted from conventional manned aircraft. The uses of
+         SUAS' address these problems, thus proving to be a powerful tool for performing a
+         wide-range of various low level aerial missions & applications with associated data
+         processing functions to include inspection of; agriculture; building; travel & power
+         utility infrastructure; professional surveying; real estate; law enforcement;
+         Electronic News Gathering (ENG); television; movie filming; radiological &
+         consequence management and scientific research & development are valuable and
+         safe tools for these low level missions. The public as a whole will benefit from the
+         safer and more cost-effective utility aerial services that SUAS operations provide.
+    · There is also a financial benefit to the public. Current methods of capturing aerial
+         imagery are expensive, which proves to be cost-prohibitive for many individuals
+         and organizations. Granting exemptions such as the one proposed by Petitioner will
+         make such services affordable to a wider group of prospective customers.
+
+IX PRIVACY
+All flights will occur over Petitioner's property or the Utility Customer's property with the
+customer's prior consent and knowledge.
+
+                                                 16 Revised 6/9/2015
+Above It All ­UAS Services, LLC - FAA 333 Exemption Request
+
+X FEDERAL REGISTAR SUMMARY
+
+Pursuant to 14 CFR Part 11, the following summary is provided for publication in the
+FEDERAL REGISTER, should it be determined that publication is needed:
+
+Petitioner seeks an exemption from the following rules:
+
+14 CFR Part 21, Subpart H;  14 CFR 91.121;
+14 CFR Part 27;             14 CFR 91.151(a);
+14 CFR 45.23(b);            14 CFR 91.203 (a) & (b);
+14 CFR 91.7(a);             14 CFR 91.405(a);
+14 CFR 91.9(b) (2);         14 CFR 91.407(a) (1);
+14 CFR 91.103;              14 CFR 91.409(a) (2);
+14 CFR 91.109(a);           14 CFR 91.417 (a) & (b)
+14 CFR 91.119;
+
+Approval of exemptions will allow commercial operations of small and lightweight
+SUAS in the wide-range of various low level aerial missions & applications industry will
+enhance safety by reducing risk. Conventional operations in this industry using manned
+operations, rotorcraft or fixed-wing aircraft present the risks associated with vehicles that
+weigh in the neighborhood of several thousand pounds and carrying large amounts of
+fuel. Such aircraft must fly to and from the location and operate at low altitudes.
+
+In contrast, a SUAS weighing fewer than 25 lbs. and powered by batteries eliminates
+virtually all of that risk, given the reduced mass and lack of combustible fuel carried on
+board. The SUAS is transported, not flown, to the designated area and set up. The SUAS
+carries no passengers or crew and, therefore, does not expose them to the risks associated
+with manned aircraft flights.
+
+The operation of small SUAS' weighting less than 25 lbs. provides an equivalent level of
+safety and thus supports the grant of the exemptions requested herein, including
+exempting the Petitioner from the requirements of Part 21 and allowing commercial
+operations. These lightweight SUAS' operate at slow speeds, close to the ground, and in
+a sterile environment. As a result, they are far safer than conventional aerial mission
+operations conducted with fixed-wing aircraft or helicopters.
+
+                            17 Revised 6/9/2015
+              Above It All ­UAS Services, LLC - FAA 333 Exemption Request
+
+                 Biographical Background of the Above It All - UAS Team
+
+Above It All - UAS Services, LLC (AIA-UAS) a small veteran & minority-owned
+company incorporated in the State of Virginia. The company's mission is to provide
+innovative myriad of aerial mission solutions that inspire and advance the efforts of its
+clients and affiliates.
+
+Mr. Dolan - Founder & Operations Officer, Charles Ciuzio ­ Chief Executive & Flight
+Officer and Steve Curtis ­ Chief Technical Officer, have assembled a team of
+experienced aviation, business and scientific professionals deeply rooted in aviation
+industry committed to positively advancing the UAS industry on multiple platforms to
+meet emerging market needs.
+
+We have and continue to strive with our expertise in cutting edge aviation and science to
+integrate UAS use across our country and the world in compliance with all government
+laws and regulations, thus assuring the highest standards of safety and quality. The team
+will be collaborating with the Mid-Atlantic Aviation Partnership at Blacksburg, Virginia,
+and the University of Las Vegas FAA UAS Test Sites to best meet these goals.
+
+                                        Team Members Bios:
+
+Tom Dolan ­ Founder & Operations, Mr. Dolan is a commercial instrument rated pilot
+in helicopters, single and multi-engine airplanes with 2,000 hours of flight, a Safety
+Officer for a local flying club and flying service. He was a pilot for a scheduled
+helicopter airline around Manhattan New York after graduating from Embry-Riddle
+Aeronautical University in 1982.
+
+In 1988 he began his career as a Police Officer for the Nassau County Police Department
+(NCPD) on Long Island, New York being assigned to the Marine-Aviation Bureau where
+he either piloted Bell Jet Ranger helicopters or police boats on patrol missions, on, over
+or around Nassau County its waterways, the gateway to the port of New York. During
+police career he was assigned to rescue operations at Ground Zero on 9-11-2001 World
+Trade Center Terrorist Attack, the downing of TWA's 747 Flight 800 disaster in March
+1997, and the downing of the Avianca B-707 Flight 052 Disaster in January 1991. He
+received the 5th Precincts "Top Cop Award" also the "Department of Transportations
+9-11 Medal".
+
+While still working as a Police Officer soon after the World Trade Center and Pentagon
+Terrorist attacks, Mr. Dolan realized there was a large void in maritime security, so he
+assembled a team to solve this dilemma, founding Homeland Security Aviation &
+Maritime Services, Inc. (HSA), a technical support company dedicated to providing
+expert system support solutions to measure radiation signatures to government customers
+in the area of aerial & vessel-borne radiation detection systems and field operations.
+
+HAS' team was compromised of members from the Pentagon, Nuclear Emergency
+Search Team (NEST), Nuclear Physicists and a variety of scientist and technical experts,
+
+                                                 18 Revised 6/9/2015
+              Above It All ­UAS Services, LLC - FAA 333 Exemption Request
+
+that had a vast understanding of both the Federal and local levels of emergency response,
+devised solutions to the response community of how best to detect and measure radiation
+sources, along with on how to best shield and protect financial markets, utilities and
+computer systems from effects of Electro Magnetic Pulse Weapons.
+
+Mr. Dolan's HSA gained support and assistance for collaborative purposes from
+Brookhaven National Laboratory, Domestic Nuclear Detection Office, New York State
+Foundation for Science & Technology (NYSTAR) and Homeland Security Chairman
+Congressman ­ Peter King. The program was being picked up by the National Nuclear
+Security Agency (NNSA) Administrator - Thomas Dagastino to perform a study with
+Department of Homeland Security (DHS) and Department of Energy (DoE) only to come
+to an abrupt halt when new administration cut funding for all new NNSA projects.
+
+With over 26 years with NCPD Mr. Dolan retired in 2012 and moved with his family to
+central Virginia where he has worked closely with several law enforcement agencies on
+the use of UAS's. Invited by Chief Sellers of Albemarle County Police Department
+(ACPD), Tom demonstrated the usefulness of UAS' before citizen members of the
+County's Crime Prevention Council. Sellers was instrumental in developing Virginia's
+"Model Policy" on the use of UAS in law enforcement agencies for the Legislature,
+Department of Criminal Justice Services & the Office of the Attorney General it the state
+of Virginia. Those leery of the technology soon accepted the technology finding pros
+outweighed the cons as long as the "Model" guidelines" were adhered to.
+
+October 2nd 2013, Mr. Dolan successfully orchestrated the use of a high technology UAS
+from Virginia Tech's Mid-Atlantic Aviation Partnership (MAAP) in assisting in the close
+to month long exhaustive search effort, led by Chief Sellers, for a missing University of
+Virginia student, Hannah Graham. The use of this technology was welcomed by the
+Charlottesville community which marked the first time in Virginia history that a UAS
+was used by law enforcement, with the Federal Aviation Administrations approval.
+
+Tom is a member of the Airborne Law Enforcement Association's Manned/Unmanned
+Aircraft Integration Safety Committee, Safety Officer for both VDW Flight Services and
+the Monticello Flying Club.
+
+Charles Cuzio ­ Chief Flight & Operations Officer
+Charles Ciuzio has extensive military and civilian manned and unmanned aviation
+experience. He is a 21 year retired U.S. Air Force Lieutenant Colonel with over 6400
+flight hours in transport category aircraft including the C-141, C-17 and C-21 aircraft.
+
+Chuck served as Instructor and Evaluator pilot in the C-17 performing worldwide
+missions in support of national objectives. He also held positions in squadron training
+and standardization departments and as Squadron Operations officer.
+
+He is a graduate of the U.S. Air Force, Air Command and Staff College; U.S. Army,
+Command and General Staff College and the U.S. Air Force, Air War College.
+
+                                                 19 Revised 6/9/2015
+              Above It All ­UAS Services, LLC - FAA 333 Exemption Request
+
+After retiring from the Air Force he spent 5 years working with the ScanEagle UAS
+system built by Insitu, Inc. (A Boeing Company). The ScanEagle is a 45lb. small UAS
+with line of sight range of 60 miles and endurance of 18-24 hours. The ScanEagle has
+the ability to carry different payloads including a variety of cameras and sensors.
+Chuck's ScanEagle experience includes 3 years deployed to Iraq and Afghanistan as an
+operator, maintainer and site lead in support of DoD customers.
+
+Chuck has an extensive educational background. He is a 1987 graduate of the U.S. Air
+Force Academy and holds a master's degree in Aviation Science and Technology from
+Embry-Riddle Aeronautical University. He is currently enrolled in an MBA program at
+Washington State University. Chuck is also a certified Program Management
+Professional and has taken all of the coursework for a Villanova University Six Sigma
+Black Belt. Chuck is currently a pilot for Netjets Aviation, Inc where he is a First Officer
+on the Dassault Falcon 2000.
+
+Steven Curtis ­ Chief Technical Officer/UAS Systems Integration - Steven Curtis
+worked on NEST and radiation consequence management missions for DOE/NNSA for
+13 years. He has held every field position within the National radiological emergency
+response arena. One of the premier assets of the DOE/NNSA's Remote Sensing
+Laboratory is the Aerial Measuring System (AMS). This is the nation's primary response
+tool for initial assessment of a radiation deposition on United States soil. He was the
+program manager for this asset for two years and his focus has been radiation detectors in
+the field-deployed systems.
+
+Mr. Curtis held Battalion staff and Company Commander Positions as an officer in the
+Army and Nevada National Guard. For the last two years, he had been a consultant,
+mostly working with National Security Technologies, LLC, in support for the Nevada
+Test Site. He has worked with SAIC on several DHS DNDO architecture projects.
+
+Mr. Curtis was the proposal manager for the successful Screening Information Request
+proposal that secured the UAS FAA Test Site for the State of Nevada. He has been
+involved with technical integration for UAS with the Nevada System of Higher
+Education for the last three years.
+
+Steven Curtis has more than 30 years of experience in emergency response team
+leadership, program management, and academic collaboration for the Department of
+Energy (DoE), Federal Emergency Management Administration (FEMA) Environmental
+Protection Agency (EPA), University of Las Vegas (UNLV), and the Desert Research
+Institute. He holds a masters degree in Health Physics and a BSEE, both from UNLV.
+
+Alan Saville ­ UAS Pilot/Air Traffic Control Liaison - Mr. Saville served in U.S.
+Army. Upon separation he became an FAA Air Traffic Control Specialist. He has over 14
+years experience in Control Towers, Ground Controlled Approach, Approach Control and
+Air Route Traffic Control Center in 6 facilities across the nation and the US Virgin
+
+                                                 20 Revised 6/9/2015
+              Above It All ­UAS Services, LLC - FAA 333 Exemption Request
+
+Islands. Alan is also a Commercial and Air Transport Pilot with Flight Instructor, Multi-
+engine and Instrument ratings.
+
+Alan has been involved and has extensive expertise in remote controlled platforms
+predominately with gliders, powered & float aircraft for over 25 years and multi-rotor
+UAS's in the last 5 years.
+
+Scott Leiffer ­ Survey Officer - Sensor, Payload & Mapping - Scott Leiffer has been
+working in the Land Surveying field since 1994. His first surveying job was the
+Boundary Re-trace and Line Marking of several miles of U.S. Forest Service Boundary in
+Alleghany County, Virginia. Scott began work at Bell Surveys, Inc. in 2000, where he
+worked his way up from Party Chief of a field crew to Project Manager to Licensed Land
+Surveyor in 2007. Scott left Bell Surveys, Inc. in 2010 due to Bell Surveys, Inc. financial
+difficulties. After working other jobs to get back in the black personally, Scott started
+Alpha Land Surveys LLC in 2011. In the summer of 2013, Scott purchased the assets of
+Gregory D. Hosaflook, P.C. when Mr. Hosaflook retired after 30 years in business. In
+April of 2014, Scott purchased the assets of Bell Surveys, Inc. when his previous
+employers decided to retire. In July of 2014, Scott purchased the assets of Louisa Aerial
+Surveys from James H. Bell, Jr., the original owner of Bell Surveys, Inc. Mr. Bell at 84
+years of age is can still be seen at the office as a mentor.
+
+With the conglomeration of companies, Scott changed the company name to Bell Land
+Surveys LLC in honor of the founder, James H. Bell, Jr., who started his journey in 1963.
+Bell Land Surveys LLC is a privately owned company with over 50 years of surveying
+experience. We are able to provide clients a wide range of specialty services including
+but not limited to: Land Planning and Design, Site Surveys, Construction Staking, Aerial
+Mapping, Topographic Maps, Orthophotos, Volumetric Calculations and Project
+Management. Mr. Leiffer has since partnered with Above It All ­ UAS Services, LLC to
+bring the company into the 21st Century by utilizing cost effective Unmanned Aerial
+Systems to pass along the cost savings of these UAS' to his clients.
+
+Our clientele range from private land owners to corporate developers to Engineers &
+Landscape Architects. We provide services for clients involved in state, county and
+federal projects as well as development companies, investment groups, and non-profit
+organizations. Bell Land Surveys is currently working on a Siteplan for Virginia
+Vermiculite, a mine based in Louisa, to open a new pit. We have also mapped the
+Nestle/Purina Cat Litter Plant in Ashland, VA 3 times per year for many years. We also
+map several landfills in Virginia for Santek Environmental 2-3 times per year.
+
+Dr. Jens Hovgaard ­ Radiological Detection UAS Payloads - Dr. Jens Hovgaard -
+Nuclear Physicist- President of Radiation Solutions, Inc. has over 25 years experience
+with nuclear detection techniques, including radiation monitoring from airborne
+platforms and aerial sensors. Jens was one of the lead specialists in the aerial mapping &
+Tracking radiation fallout from the Chernobyl Reactor disaster. Jens was lead scientist at
+
+                                                 21 Revised 6/9/2015
+              Above It All ­UAS Services, LLC - FAA 333 Exemption Request
+
+SAIC Exploranium in developing and producing radiation sensors for airborne
+applications. One of his sensor systems at Exploranium was used by the military in a
+Blackhawk helicopter searching for Weapons of Mass Destruction in Iraq.
+
+Dr. Jens Hovgaard founded Radiation Solutions Inc. (RSI) in 1999. Upon inception,
+RSI's primary function was to act as a consulting company to the nuclear industry. While
+working with his customers and their supplied radiation detection systems, Dr. Hovgaard
+identified there was a need for a new supplier of these systems that many on the market
+did not actually deliver the state-of-the-art technology they promised. In 2006,
+accompanied by a world-renowned nucleus of specialists, he began to design and
+manufacture a "new generation" of radiation detection systems. The RSI team have a vast
+amount of experience not only in the design of field-use radiation detection systems but
+also in their applications. A vast majority of his sensors can be used on airborne
+applications. He continues to decrease the detectors size and is collaborating with Mr.
+Dolan to use UAS platforms to carry his detector/sensor payloads.
+
+Dr. Hovgaard's focus is the design and manufacture of state-of-the art radiation detection
+systems using advanced DSP (Digital Signal Processing) technology. This technology
+provides a level of radiation detection previously only attainable in laboratory equipment.
+He holds a Ph.D. from Technical University of Denmark specializing in airborne gamma
+ray surveying.
+
+Dr. Michael Holroyd ­ UAS 3D Modeling/ Search & Rescue (SAR) Projects
+Manager - Dr. Holroyd is a researcher in computer security, computer vision, and
+computer graphics as well as an instrument rated private pilot in single-engine aircraft.
+He received his Ph.D. in Computer Science from the University of Virginia in 2011. Dr.
+Holroyd has multiple publications and patents in the areas of 3D scanning and
+computational photography, and is the founder of Arqball (http://arqball.com), a small
+research and product development startup in Charlottesville VA, where he has been
+Principal Investigator for over $1.1 million in research funded by the NSF (National
+Science Foundation).
+
+Dr. Holroyd has also served multiple roles in the Blue Ridge Mountain Rescue Group
+and Appalachian SAR Conference, and currently holds certifications as a Field Team
+Leader and Field Team Signcutter through VDEM (Virginia Department of Emergency
+Management), and Technical Rescue 3 through the VAVRS (Virginia Association of
+Volunteer Rescue Squads).
+
+Dr. Holroyd will consult with Mr. Dolan and his Above It All Team on technology,
+photography and SAR issues, as well as assist with web-based technologies for making
+UAS aerial imaging more accessible and useful for potential customers. He has
+significant experience with image-based interactive media, including creating Arqspin
+(http://arqspin.com), a platform for interactive 360 product photography with direct
+applications to UAV-based aerial imaging in the real-estate and security markets.
+
+                                                 22 Revised 6/9/2015
+              Above It All ­UAS Services, LLC - FAA 333 Exemption Request
+
+Luke Macfarlan ­ UAS EMS Analysis/Operations & Ag/Vineyard Lead
+Mr. Macfarlan has 12 years of military operations experience as an officer in the Virginia
+National Guard. This experience includes two deployments for security operations in
+support of the war on terror. Operations were primarily focused on fixed site security of
+the major Seaport of Debarkation (SPOD) in Kuwait, and fourteen Special Forces
+facilities throughout Iraq. After a decade of service in the Infantry, Mr. Macfarlan
+transitioned to the Army's new Cyber Electromagnetic Activities branch where he has
+excelled. He recently planned a major training operating, and was directly responsible
+for the planning and integration of aviation operations and airspace management for three
+Army rotary wing units, fourteen UAS systems (Shadow and RAVEN), one Army
+artillery Battalion, and mortar sections from four maneuver Battalions.
+
+Mr. Macfarlan's civilian experience spans a series of research and development (R&D)
+activities related to security and military operations at the Departments of Homeland
+Security and Defense. These activities included an evaluation of technologies to counter
+shoulder-fired missiles directed at civilian airliners, development of an RFID tag capable
+of detecting security breaches in ISO90 shipping containers, and various evaluations
+directed at mitigating roadside bombs in Iraq using jammers, electro-apical detection
+systems, and big data analytics.
+
+Mr. Macfarlan is currently the co-founder of an Electronic Warfare consulting firm and
+of a small wine marketing firm, both of which are located in Central Virginia. He is also
+completing an Executive MBA at one of the nation's top academic institutions - the
+University of Washington in Seattle. Mr. Macfarlan will support Above It All's team in
+providing EMS (Electromagnetic Spectrum) analysis for safe operation of UAS systems
+in our operations and assist in consulting work with other agencies or companies along
+with vineyard related marketing or agricultural UAS use. Luke holds an FAA Private
+Pilot Certificate with multi-engine and instrument ratings. He also has over 100 hours of
+logged flight operating time with a DJI PHANTOM 2 Vision + UAS.
+
+Kurt Frisz ­ Airborne Law Enforcement UAS Liaison ­ Captain Kurt Frisz has been
+with the St. Louis County Missouri Police Department for 29 years. He served over 17
+years assigned to the departments Tactical Operations Unit, 7 years as the units'
+commander. During this time, he has commanded over 100 hostage/barricade situations,
+numerous dignitary protection events as well as coordinated response to numerous civil
+disorder events. In addition to his duties with the Tactical Unit, Capt. Frisz also serves as
+one of the departments' pilots, possessing both rotorcraft and fixed wing ratings, as well
+as being a Certified Flight Instructor in helicopters.
+
+Captain Frisz is currently the President of the Airborne Law Enforcement Association
+(ALEA) and has served on the board of directors since 2008. Kurt has worked with
+groups, including the FAA and IACP advance the integration of UAS into law
+enforcement, and has participated in discussion panels relative to UAS and the future use
+for first responders along with being a member of the ALEA's sUAS Committee.
+
+                                                 23 Revised 6/9/2015
+              Above It All ­UAS Services, LLC - FAA 333 Exemption Request
+
+Captain Frisz is currently assigned as the Commander of the Bureau of Drug
+Enforcement. During the civil unrest in Ferguson, he served as the commander of special
+operations, overseeing the tactical response and the aviation assets.
+
+Brady Genz ­ UAS GEO Spatial & UAS Cybersecurity Team Lead - Mr. Genz has
+over 13 years of all-source military intelligence experience at the strategic level of Army
+operations, 19 years of enlisted & commissioned Army Reserve experience focusing on
+military intelligence and Army communications systems with extensive training and
+certification in cybersecurity vulnerabilities of SCADA, industrial control systems, and
+IT networks, also strategic experience in production of all-source and geospatial
+intelligence supporting conventional and special operations forces.
+
+Mr. Genz is knowledgeable in Intelligence Community organization, disciplines, and
+missions with active Top Secret / SCI security clearance. Brady is a volunteer with the
+Civil Air Patrol in the Monticello Composite squadron in Charlottesville, VA, he holds a
+FAA Certificated Flight Instructor - Instrument rating also FAA Airframe & Powerplant
+Mechanic certificate and served as an instructor and check pilot for the Virginia Wing
+participating in ground and air search & rescue missions and training activities. He served
+as squadron finance officer and deputy commander for cadet activities, volunteering as
+coach with squadron team to participate in the national 2010, 2011, and 2012 high school
+Cyber Patriot competition.
+
+Mr. Genz is currently attending classes part-time toward PhD in Systems Engineering at
+the University of Virginia and has a Master of Science in General Engineering, Bachelor
+of Science in Computer Science & Mathematics and Professional Pilot/Aviation
+Maintenance Program all from University of Illinois at Urbana-Champaign.
+
+Bio Summary:
+
+The Petitioner's team is committed to positively advancing the UAS industry on multiple
+platforms and ones emerging in the future. We are experienced business and scientific
+professionals deeply rooted in aviation looking to meet an emerging market needs. We
+have and continue to strive with our expertise in cutting edge aviation and science to
+integrate UAS use across our country in compliance with all government laws and
+regulations, thus assuring the highest standards of safety and quality.
+
+                                                 24 Revised 6/9/2015
+              Above It All ­UAS Services, LLC - FAA 333 Exemption Request
+
+XII CONCLUSION
+
+Satisfaction of the criteria provided in Section 333 of the Reform Act of 2012 - size,
+weight, speed, operating capabilities, proximity to airports and populated areas, use of
+FAA Certified Pilots for both PIC & PO along with operation within visual line of sight
+and national security provides more than adequate justification for the grant of the
+requested exemptions allowing commercial operation of Petitioner SUAS in the utility-
+power transmission inspection and patrol industry in accordance with the available
+Manual
+
+If additional information is required, or if you have any questions regarding this Petition
+for Exemption, please contact the undersigned at:
+
+Sincerely,
+
+Thomas E. Dolan ­
+
+Founder & COO - Above It All ­ UAS Services, LLC
+
+30 Industrial Drive, Suite 1B
+Louisa, Virginia 23093
+
+Office:  434-374-1866
+
+Cell Phone: 631-495-2947
+
+Email: Tom.Dolan@aboveitall-uas-services.com or
+
+         thomasedolan@gmail.com
+
+                                 25 Revised 6/9/2015
+

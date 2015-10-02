@@ -1,0 +1,1967 @@
+September 21, 2015
+
+                                                           Exemption No. 12945
+                                                           Regulatory Docket No. FAA-2015-2554
+
+Mr. Michael Bruk, Esq.
+The Law Office of Michael Bruk
+Counsel for Lappert Smith Technologies LLC
+138 West 25th St, 10th Floor, Suite C1001
+New York, NY 10001
+
+Dear Mr. Bruk:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter posted to the docket July 6, 2015, you petitioned the Federal Aviation
+Administration (FAA) on behalf of Lappert Smith Technologies LLC (hereinafter petitioner
+or operator) for an exemption. The petitioner requested to operate an unmanned aircraft
+system (UAS) to conduct aerial imaging and inspection of power infrastructures.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner are the DJI S800 and DJI Inspire 1.
+                                                                                                                 2
+
+The petitioner requested relief from 14 CFR part 21, Certification procedures for products
+and parts, Subpart H--Airworthiness Certificates. In accordance with the statutory criteria
+provided in Section 333 of Public Law 112-95 in reference to 49 U.S.C. § 44704, and in
+consideration of the size, weight, speed, and limited operating area associated with the
+aircraft and its operation, the Secretary of Transportation has determined that this aircraft
+meets the conditions of Section 333. Therefore, the FAA finds that the requested relief from
+14 CFR part 21, Certification procedures for products and parts, Subpart H--Airworthiness
+Certificates, and any associated noise certification and testing requirements of part 36, is
+not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection.1 The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+ They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+ The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+ A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, Lappert Smith Technologies LLC is granted an
+exemption from 14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a),
+91.7(a), 91.119(c), 91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and
+91.417(a) and (b), to the extent necessary to allow the petitioner to operate a UAS to perform
+
+1 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                             3
+
+aerial data collection. This exemption is subject to the conditions and limitations listed
+below.
+
+Conditions and Limitations
+
+In this grant of exemption, Lappert Smith Technologies LLC is hereafter referred to as
+the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+1. Operations authorized by this grant of exemption are limited to the DJI S800 and DJI
+    Inspire 1 when weighing less than 55 pounds including payload. Proposed operations
+    of any other aircraft will require a new petition or a petition to amend this exemption.
+
+2. Operations for the purpose of closed-set motion picture and television filming are
+    not permitted.
+
+3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+    exemption holder may use either groundspeed or calibrated airspeed to determine
+    compliance with the 87 knot speed restriction. In no case will the UA be operated at
+    airspeeds greater than the maximum UA operating airspeed recommended by the
+    aircraft manufacturer.
+
+4. The UA must be operated at an altitude of no more than 400 feet above ground level
+    (AGL). Altitude must be reported in feet AGL.
+
+5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+
+    This requires the PIC to be able to use human vision unaided by any device other than
+    corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+    U.S. driver's license.
+
+6. All operations must utilize a visual observer (VO). The UA must be operated within
+    the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+    to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+    capability. The VO and PIC must be able to communicate verbally at all times;
+    electronic messaging or texting is not permitted during flight operations. The PIC
+    must be designated before the flight and cannot transfer his or her designation for the
+    duration of the flight. The PIC must ensure that the VO can perform the duties
+    required of the VO.
+
+7. This exemption and all documents needed to operate the UAS and conduct its
+    operations in accordance with the conditions and limitations stated in this grant of
+    exemption, are hereinafter referred to as the operating documents. The operating
+                                                                                                            4
+
+    documents must be accessible during UAS operations and made available to the
+    Administrator upon request. If a discrepancy exists between the conditions and
+    limitations in this exemption and the procedures outlined in the operating documents,
+    the conditions and limitations herein take precedence and must be followed.
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+                                                                                                            5
+
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+                                                                                       6
+
+exemption holder may apply for a new or amended COA if it intends to conduct
+operations that cannot be conducted under the terms of the attached COA.
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+
+    be as large as practicable.
+
+23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+    any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+    PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+    These documents must be made available to the Administrator or any law enforcement
+    official upon request.
+
+24. The UA must remain clear and give way to all manned aviation operations and
+    activities at all times.
+
+25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless:
+      a. Barriers or structures are present that sufficiently protect nonparticipating persons
+          from the UA and/or debris in the event of an accident. The operator must ensure
+          that nonparticipating persons remain under such protection. If a situation arises
+          where nonparticipating persons leave such protection and are within 500 feet of
+          the UA, flight operations must cease immediately in a manner ensuring the safety
+          of nonparticipating persons; and
+      b. The owner/controller of any vessels, vehicles or structures has granted permission
+          for operating closer to those objects and the PIC has made a safety assessment of
+          the risk of operating closer to those objects and determined that it does not
+          present an undue hazard.
+
+The PIC, VO, operator trainees or essential persons are not considered
+nonparticipating persons under this exemption.
+
+27. All operations shall be conducted over private or controlled-access property with
+    permission from the property owner/controller or authorized representative.
+    Permission from property owner/controller or authorized representative will be
+    obtained for each flight to be conducted.
+
+28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+
+    boundaries of the operational area as defined by the applicable COA must be reported
+    to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+                                                                                               7
+
+reported to the National Transportation Safety Board (NTSB) per instructions
+contained on the NTSB Web site: www.ntsb.gov.
+
+If this exemption permits operations for the purpose of closed-set motion picture and
+television filming and production, the following additional conditions and limitations apply.
+
+29. The operator must have a motion picture and television operations manual (MPTOM)
+    as documented in this grant of exemption.
+
+30. At least 3 days before aerial filming, the operator of the UAS affected by this
+    exemption must submit a written Plan of Activities to the local Flight Standards
+    District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+    notification may be waived with the concurrence of the FSDO. The plan of activities
+    must include at least the following:
+      a. Dates and times for all flights;
+      b. Name and phone number of the operator for the UAS aerial filming conducted
+          under this grant of exemption;
+      c. Name and phone number of the person responsible for the on-scene operation of
+          the UAS;
+      d. Make, model, and serial or N-Number of UAS to be used;
+      e. Name and certificate number of UAS PICs involved in the aerial filming;
+      f. A statement that the operator has obtained permission from property owners
+          and/or local officials to conduct the filming production event; the list of those
+          who gave permission must be made available to the inspector upon request;
+      g. Signature of exemption holder or representative; and
+      h. A description of the flight activity, including maps or diagrams of any area, city,
+          town, county, and/or state over which filming will be conducted and the altitudes
+          essential to accomplish the operation.
+
+31. Flight operations may be conducted closer than 500 feet from participating persons
+
+    consenting to be involved and necessary for the filming production, as specified in the
+    exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                                                 8
+This exemption terminates on September 30, 2017, unless sooner superseded or rescinded.
+Sincerely,
+
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+                                  UNITED STATES OF AMERICA
+                             DEPARTMENT OF TRANSPORTATION
+                           FEDERAL AVIATION ADMINISTRATION
+
+                                          WASHINGTON, DC
+
+                             Regulatory Docket No. _ _ _ _ __
+
+           IN THE MATTER OF THE PETITION FOR EXEMPTION OF:
+                         LAPPERT SMITH TECHNOLOGIES LLC
+
+ FOR AN EXEMPTION SEEKING RELIEF FROM THE REQUIREMENTS OF
+               TITLE 14 OF THE CODE OF FEDERAL REGULATIONS
+
+SECTIONS 91.9(b), 91.203(a), 91.203(b), 45.23(b), 21.185, 45.27(a), 91.7(a), 91.103,
+91.109(a), 91.119, 91.121, 91.151(a), 91.405(a), 91.407 (a)(1), 91.409 (a)(2), 91.147 (a),
+
+                                         91.147(b), and 61.113
+    CONCERNING OPERATION OF AN UNMANNED AIRCRAFT SYSTEM
+
+                    OVER RURAL AREAS OF THE UNITED STATES
+                           PURSUANT TO SECTION 333 OF THE
+
+                 FAA MODERNIZATION AND REFORM ACT OF 2012
+
+                                                                                      MICHAEL BRUK, ESQ.
+                                                               THE LAW OFFICE OF MICHAEL BRUK
+                                                           138 W. 25TH ST, lOTH FLOOR, SillTE ClOOl
+
+                                                                                      NEW YORK, NY, 10001
+                                                                                             Tel: (212) 203-9303
+                                                                                            Fax: (347) 710-1791
+
+                                                                                         Attorneyfor Petitioner
+Contents
+GLOSSARY OF ABBREVIATIONS ....................................................................................... iii
+I. SUMM"ARY ..................................................................................................................... 1
+II. INTRODUCTION AND INTERESTS OF THE PETITIONER ........................................ 1
+III. BACKGROUND OF THE Dll S800 OCTOCOPTER...................................................... 2
+IV. BASIS FOR APPROVAL OF LAPPERT SMITH PETITION ......................................... 3
+
+  A Approval is Warranted Based on the UAS's Size,
+        Weight, Speed, and Operational Capability............................................................................. 4
+
+  B. Approval is Warranted Based on the Operational
+        Restrictions Set Forth in the Operations Manual .................................................................... 5
+
+V. THE EXTENT OF RELIEF LAPPERT SMITH SEEKS
+       AND THE REASON LAPPERT SMITH SEEKS THE RELIEF........................................ 7
+
+VI. DRUG AND ALCOHOL PROGRAM ........................................................................... 18
+VII. REASONS WHY GRANTING LAPPERT SMITH'S
+
+        REQUEST WOULD BE IN THE PUBLIC INTEREST ................................................. 18
+  A The Public Will Benefit From Decreased Congestion
+
+        Of The NAS, Reduced Noise and Air Pollution, and
+        Safety of Life and Property, and Air Traffic Control's Responsibilities ............................. 18
+  B. Aerial Inspections with the Dll S800 Hexacopter UAS will Benefit the Economy ........... 19
+   C. No Privacy Issues Exists ........................................................................................................ 19
+VIII. OPERATIONS AND MANUFACTURER'S MANUALS .......................................... 20
+IX. Any Other Conditions The FAA May Prescribe For Safe Operation............................... 20
+X. A Summary That Can Be Published In The Federal Register ......................................... 21
+XI. CONCLUSION .............................................................................................................. 22
+
+                                                                      ii
+                                    GLOSSARY OF ABBREVIATIONS
+AGL Above Ground Level
+ATC Air Traffic Control
+COA Certificate of Authorization
+FAA Federal Aviation Administration
+FAR Federal Aviation Regulation
+NAS National Airspace System
+Section 333 FAA Modernization and Reform Act of2012, Section 333
+SMS Safety Management System
+UAS Unmanned Aircraft System
+VFR Visual Flight Rules
+VMC Visual Meteorological Conditions
+
+                                                                      iii
+                                                I. SUMMARY
+
+         Lappert Smith Technologies LLC, through its counsel and by this petition, seeks
+exemption that would permit Lappert Smith to operate an Unmanned Aircraft System ("UAS")
+over certain rural areas of the United States, while keeping the required regulatory documents
+readily accessible to the pilot in command at the ground control station. This exemption will also
+permit all required markings regarding the operational status of Lappert Smith's UAS to be
+displayed on the fuselage ofthe unmanned aircraft.
+
+                II. INTRODUCTION AND INTERESTS OF THE PETITIONER
+
+         Lappert Smith Technologies LLC (hereinafter referred to as ("Lappert Smith") seeks the
+requested exemptions to permit it to offer imaging and inspection of various power
+infrastructures to determine whether said lines are in need of repair. In addition, Lappert Smith
+seeks authority to conduct training and maintenance flights in a sterile area free from hazards and
+persons.
+
+         Various utility providers strive to deliver reliable resources to manufacturers, commercial
+enterprises, and residential customers. These utility constantly seek newer, more-efficient, cost-
+effective, and reliable means by which to perform safety checks of their equipment. These
+companies also realize that a portions of the infrastructure in the United States is aging and in
+need of repair or replacement. The Lappert Smith team has developed a remote piloted aerial
+system that safely and efficiently provides customers with low cost, comprehensive aerial
+inspection.
+
+         Lappert Smith acknowledges and appreciates that UAS operations are part of a complex
+and interconnected system that make up the national airspace (NAS). Lappert Smith personnel
+have extensive experience in conducting UAS flights and are conscious of the special safety
+issues that arise from working in this environment. The Lappert Smith Team is comprised as
+follows:
+
+         1. Walter Lappert, Chief Design Engineer. B.S. in Mechanic Engineering and A.A. in
+             Unmanned Aircraft Technology; Community College of the Air Force degree in
+
+                                                                           1
+    Aircraft Armament Systems; 10+ years of USAF service, served as Weapons Load
+    Team Chief, trained and qualified 51 service personnel on 18 GPS and laser-guided
+    munitions system; Military Rank of Staff Sergeant (Disabled Veteran); Active
+    SECRET Clearance (Department of Defense); 238 Missions with Objective; 750+
+    hours of UAS operation without objective. NCATT (National Center for Aerospace
+    and Transportation Technology) Certified.
+
+2. Alex Hinkle, Lead Pilot- B.S. in Aviation Management from Kansas State
+    University; Pilot's License with Instrument Rating; Class 1 Medical; 178 Missions
+    with objective, 250+ hours ofUAS operation without objective
+
+3. Peter Kalaitzidis, Co-Pilot and Lead Observer- A.A. in Applied Sciences; A.A. in
+    Electrical Engineering, Community College of the Air Force degree in Aircraft
+    Armament Systems; Military Rank of Staff Sergeant (Disabled Veteran, Retired);
+    Class 2 Medical Clearance; 88 Missions with objective, 625+ hours ofUAS operation
+    without objective.
+
+4. Parker Freeman, Co-Pilot/Observer. Private Pilot's License; Class 2 Medical
+    Clearance; 2013 AUVSI (Association for Unmanned Vehicle Systems International)
+    Safety Award Recipient; 50 UAS missions as PIC totaling 150 single engine PIC
+    flight time hours; 120 UAS missions as co-pilot/observer.
+
+5. Bretten Smith- Chief Operating Officer. B.S. in Applied Science and MBA with
+    focus on Program Management, Kansas State University; Led Weapons System and
+    Tech Crews in USAF; Military Rank of Staff Sergeant (Disabled Veteran); Active
+    SECRET Clearance (Department ofDefense).
+
+             ill. BACKGROUND OF THE DJI SSOO OCTOCOPTER
+
+                                                           2
+Lappert  Smith  seeks  an  exemption  to  operate  a        Dll  S800  hexacopter   UAS  1   for  compensation
+                                                                                          ,
+
+or hire within the national airspace system ("NAS"). The Dll S800 hexacopter UAS is
+
+comprised of an amphibious unmanned aircraft and a transportable ground station. The Dll S800
+
+hexacopter UAS has a maximum gross weight of approximately thirty (30) pounds, a 360
+
+millimeters (14.173 inches) length of each wing, and base a length of 500 millimeters (19.685
+
+inches). The Dll S800 hexacopter unmanned aircraft is equipped with 6 propellers driven by a
+
+Lithium Polymer battery powered electric motor.
+
+         IV. BASIS FOR APPROVAL OF LAPPERT SMITH PETITION
+
+         Petitioner, Lappert Smith, through its undersigned counsel and pursuant to the provisions
+ofthe Federal Aviation Regulations (14 C.F.R. § 11.61) and the FAA Modernization and Reform
+Act of 2012, Section 333, Special Rules for Certain Unmanned Aircraft Systems, hereby
+petitions the Administrator for an exemption from the requirements of 14 C.F.R. §§ 91.9(b),
+91.203(a), 91.203(b), 45.23(b).
+
+         In the alternative, and in accordance with Federal Aviation Regulation ("FAR") Section
+21.16, entitled Special Conditions (14 C.F.R. § 21.16), Lappert Smith respectfully requests that
+the Administrator prescribe special conditions for the intended operation of the Lappert Smith
+Dll S800 hexacopter UAS that contain such safety standards as the Administrator finds
+necessary to establish a level of safety equivalent to that established by the restricted category
+airworthiness certification standards specified in 14 C.F.R. § 21.185. Lappert Smith provides the
+following information in support of its petition for exemption:
+
+Narne And Address Of The Petitioner.
+
+Lappert Smith Technologies LLC
+1205 S. Tryon St. Unit 1106
+Charlotte, NC 28203
+
+1 Lappert Smith has reserved registration numbers N 8HJLS,       .nn,s, and .326LS and will submit an Aircraft
+
+Registration Application upon the grant of the exemptions sought by this Petition.
+
+                                          3
+The point of contact for this Petition and specific contact information is as follows:
+
+Michael Bruk, Esq.
+The Law Office of Michael Bruk
+138 W. 25th St, lOth Floor, Suite ClOOl
+New York, NY, 10001
+Tel: (212) 203-9303
+Fax: (347) 710-1791
+Email: mb@bruklaw.com
+
+                   A. Approval is Warranted Based on the UAS's Size, Weight, Speed, and
+                                                      Operational Capability
+
+         Lappert Smith will employ the Dll S800 hexacopter for infrastructure inspection
+operations, with a maximum take-off weight of 30 pounds, and whose flight speed will not
+exceed 30 miles per hour. In addition, no UAS will be flown in controlled airspace absent written
+consent of a local regulatory agency or office, nor at an altitude that exceeds 400 feet AGL, and
+in such a way that operations can be safely terminated with a reserve battery power of 30%
+maximum charge. The Dll S800 does not carry any flammable propellant or fuel and possesses
+redundant motor capabilities. In addition, the UAS can maintain flight in the event one or more
+motors fail unexpectedly, and is capable of compensating for engine loss automatically. The Dll
+S800 also possesses the ability to alert the PIC to the possibility of a lost link before it occurs. In
+the event a control link is unexpectedly lost, the UAS is equipped with failsafe setting which
+returns the vehicle to a pre-determined, emergency alternate landing zone.
+
+         In the absence of UAS operations, and particularly in rural areas, many of these
+inspections would have to be carried out by a helicopter or by technicians performing the
+
+                                                                      4
+inspection manually. Helicopter inspections are carried out at high speed, and carry a greater risk
+of a wire strike or other collision than do UAS operations. Moreover, conducting helicopter
+inspections at certain locations, such as substations where several utility lines converge, carry
+additional risks to helicopters. Finally, due to the low altitude of utility line inspection flights, the
+ability of a helicopter pilot to successfully conduct an autorotation in the event of an engine
+failure may be limited or impossible. Given the small size of the selected UAS and the restricted
+environment within which it will operate, this petition for exemption falls within the equivalent
+level of safety which Congress directed the FAA to permit commercial UAS operations by
+exemption pending completion of formal rulemaking.
+
+      B. Approval is Warranted Based on the Operational Restrictions Set Forth in the
+                                                Operations Manual
+
+         The Lappert Smith Operations Manual, along with the Dll manufacturer's manual,
+contain all of the procedures and limitations necessary to successfully and safely perform
+inspections of infrastructure. Below is a summary of operational limitations and conditions
+which will ensure an equivalent or higher level of safety for operations conducted under current
+regulatory guidelines:
+
+    1. The UAS will weigh 30 pounds or less.
+    2. Flights will be operated within line of sight of a pilot and observer.
+    3. Maximum total flight time for each operational flight will be limited to the lesser of 25 to
+
+         30 minutes or the amount of time the UAS can be flown and still maintain a reserve
+         battery power of no less than 30%.
+    4. Flights will be operated at an altitude of no more than 400 feet AGL and will not be
+         conducted within navigable airspace.
+    5. Flights will be operated at a lateral distance of least 500 feet from any inhabited
+         structures, buildings, vehicles or vessels, or from people not associated with the operation
+         who have not given permission in advance of the operation.
+
+                                                                      5
+6. Minimum crew for each operation will consist of the UAS Pilot, one or more Visual
+    Observers as necessary to safely conduct the mission, and a Sensor Operator if required,
+    all of whom possess class 2 Medical
+
+7. The Pilot will have a private pilot's license, be instrument rated, and have completed 64
+    hours of training and instruction on the Dll 800 prior to any flight in accordance the
+    Operations Manual, will have conducted at least three (3) take-offs and three (3) landings
+    90 days immediately preceding the date of any proposed commercial operation.
+
+8. The UAS will operate in accordance with the safety and operational requirements ofthe
+    Operations Manual.
+
+9. Prior to the operation, a Mission Plan will be created setting forth the limitations for the
+    flight as well as contact and hazard information provided by the utility.
+
+10. A NOT AM will be issued not more than seventy-two (72) hours in advance of flight, but
+    not less than twelve (12) hours before flight.
+
+11. Pilot, Visual Observer and Sensor Operator will at all times be able to communicate by
+    vmce.
+
+12. Prior to any flights, a Certificate of Authorization will be obtained specifying the
+    geographic over which operations will be conducted.
+
+13. All required permissions and permits will be obtained from territorial, state, county or
+    city jurisdictions, including local law enforcement, fire or other appropriate governmental
+    agencies.
+
+14. The operator will coordinate all flights with the appropriate Flight Standards District
+    Office.
+
+15. If the UAS loses communications or loses its GPS signal, the UAS will have the
+    capability to return to a pre-determined location within the operational area and land.
+
+16. Contingency plans will be in place to safely terminate flight if there is a loss of
+    communication between the pilot and the observer.
+
+17. The UAS will have the capability to abort a flight in case of unpredicted obstacles or
+    emergencies.
+
+18. The Dll S800 UAS shall be operated pursuant to Day Visual Flight Rules (VFR) in
+    visual meteorological conditions (VMC). The Dll S800 UAS shall be operated only
+     during daylight hours (i.e. between the end of morning civil twilight and the beginning of
+
+                                                                  6
+         evening civil twilight, as published in the American Air Almanac, converted to local
+         time).
+    19. The Dll S800 UAS shall operate from on-site takeoff/landing locations directly next to
+         the pilot in command and co-located safety observer. If the operation is from a watercraft,
+         the pilot in command and safety observer shall remain co-located on the same watercraft.
+    20. Operation ofthe Dll S800 UAS with any inoperative instruments or equipment shall be
+         prohibited.
+    21. The Dll S800 UAS shall be maintained m accordance with the Manufacturer's
+         Maintenance Manual.
+    22. The Dll S800 UAS shall be operated pursuant to 14 C.F.R. Part 91, operating
+         requirements.
+    23. For the proposed flight operation, only one Dll S800 UAS shall be airborne at any given
+         time.
+    24. Prior to flight operations, Lappert Smith shall coordinate and establish two way
+         communications with the nearest Air Traffic Control facility.
+    25. For any flight operations over U.S. Government or state managed lands, Lappert Smith
+         shall coordinate with the appropriate authority and ensure that the property owners have
+         at least twelve (12) hours of advance notice prior to the proposed flight operations.
+         Coordination shall include anticipated periods of operation, purpose of the flights, and
+         contact information for the operator should questions or issues arise.
+
+      V. THE EXTENT OF RELIEF LAPPERT SMITH SEEKS AND THE REASON
+                                       LAPPERT SMITH SEEKS THE RELIEF.
+
+                                          A. ReliefFrom Section 91.9(b).
+
+    Lappert Smith seeks an exemption from 14 C.F.R § 91.9(b). Section 91.9, Civil aircraft
+flight manual, marking, andplacard requirements, of which subsection (b) states:
+
+    (b) No person may operate a U.S.-registered civil aircraft (1) for which an Airplane or
+    Rotorcraft Flight Manual is required by§ 21.5 ofthis chapter unless there is available in the
+
+                                                                      7
+    aircraft a current, approved Airplane or Rotorcraft Flight Manual or the manual provided for
+    in§ 121.141(b); and (2) For which an Airplane or Rotorcraft Flight Manual is not required
+    by § 21.5 of this chapter, unless there is available in the aircraft a current approved Airplane
+    or Rotorcraft Flight Manual, approved manual material, markings, and placards, or any
+    combination thereof
+
+Equivalent Level of Compliance
+
+         The Dll S800 hexacopter UAS is unmanned and has a maximum gross weight of
+approximately thirty (30) pounds. Therefore, it is unable to carry Airplane Flight Manuals
+onboard. Lappert Smith proposes the following conditions and limitations to its request for
+exemption from Section 91.9(b):
+
+    The approved Airplane Flight Manual shall be kept at the ground control station,
+    immediately available for reference by the PIC, or inspection by any FAA, DOD, or other
+    law enforcement official, any time during operation of the UAS. In addition, the Flight
+    Manual shall be made available within 10 days to any law enforcement official upon request.
+
+                                  B. Relief From Section 91.203(a) and (b).
+
+         Lappert Smith seeks an exemption from 14 C.F.R § 91.203(a) and (b). Section 91.203
+entitled Civil aircraft: Certifications required, subsections (a) and (b) state the following:
+
+(a) Except as provided in § 91.715, no person may operate a civil aircraft unless it has within it
+the following:
+
+         (1) An appropriate and current airworthiness certificate. Each U.S. airworthiness
+               certificate used to comply with this subparagraph (except a special flight permit, a
+               copy of the applicable operations specifications issued under § 21.197(c) of this
+               chapter, appropriate sections ofthe air carrier manual required by parts 121 and 135
+               of this chapter containing that portion of the operations specifications issued under §
+
+                                                                        8
+              21.197(c), or an authorization under § 91.611) must have on it the registration
+              number assigned to the aircraft under part 47 of this chapter. However, the
+              airworthiness certificate need not have on it an assigned special identification
+              number before 10 days after that number is first affixed to the aircraft. A revised
+              airworthiness certificate having on it an assigned special identification number, that
+              has been affixed to an aircraft, may only be obtained upon application to an FAA
+              Flight Standards district office.
+
+         (2) An effective U.S. registration certificate issued to its owner or, for operation within
+         the United States, the second copy ofthe Aircraft registration Application as provided for
+         in§ 47.31(c), or a registration certification issued under the laws of a foreign country.
+
+(b) No person may operate a civil aircraft unless the airworthiness certificate required by
+paragraph (a) ofthis section or a special flight authorization issued under§ 91.715 is displayed at
+the cabin or cockpit entrance so that it is legible to passengers or crew.
+
+Equivalent Level of Compliance
+
+         The Dll S800 hexacopter is unmanned, has no cabin, cockpit, pilot station, or other
+entrances. The aircrew is located at the ground control station and no passengers are carried at
+any time. Lappert Smith proposes the following conditions and limitations to its request for
+exemption from Sections 91.203(a) and (b):
+
+         The documents required by §§ 91.203(a) and (b) shall be kept at the ground control
+         station, immediately available for reference by the PIC, or inspection by any FAA, DOD,
+         or other law enforcement official, any time during operation of the UAS. In addition,
+         these documents shall be made available within 10 days to any law enforcement official
+         upon request.
+
+                                                                        9
+                                      C. ReliefFrom 14 C.F.R. § 45.23(b).
+
+         Lappert Smith seeks an exemption from 14 C.F.R § 45.23(b). Section 45.23 entitled
+Display ofmarks; general, subsection (b), states the following:
+
+(b) When marks include only the Roman capital letter "N" and the registration number is
+displayed on limited, restricted or light-sport category aircraft or experimental or provisionally
+certificated aircraft, the operator must also display on that aircraft near each entrance to the
+cabin, cockpit, or pilot station, in letters not less than 2 inches nor more than 6 inches high, the
+words "limited," "restricted," "light-sport," "experimental," or "provisional," as applicable.
+
+Equivalent Level of Compliance
+
+    As the DJI S800 hexacopter UAS is unmanned, it has no cabin, cockpit, pilot station, or
+entrances thereto. Therefore, Lappert Smith proposes that, the FAA N numbers be prominently
+displayed on DJI 800 be displayed prominently displayed on the fuselage with markings that are
+as large as practicable., on both sides ofthe DJI S800 hexacopter UAS.
+
+     D. Relief From 14 C.F.R. Part 21, Subpart H- Airworthiness Certificates and 14 C.F.R
+                                                         §91.203(a)(1)
+
+    Lappert Smith respectfully requests the FAA finds, under the Reform Act, that the DJI S800
+UAS provides a level of safety equivalent to that of aircraft normally used for the same
+application. If such a finding is made, no exemption is needed. If, however, the FAA determines
+that there any characteristics of the UAS fail to meet the requirements of the Reform Act, an
+exemption is requested.
+
+Equivalent Level of Compliance
+         The DJI S800 UAS will operate safely taking into account its size, weight, speed, and
+
+operational capability. The UAS has a maximum take-offweight of30 pounds, will be flown at
+less than 30 miles per hour and completely outside controlled airspace.
+
+                                                                 10
+         Utility line inspections are currently performed by helicopters, which weigh thousands of
+pounds, carry large loads of fuel, and do not possess the ability to compensate for unexpected
+engine failure. Taken together with the low altitudes needed to conduct these inspections,
+helicopters cannot conduct operations as safely as a UAS. In addition, damage to critical
+infrastructure resulting from a helicopters coming into contact with a utility line or substation is
+far greater than if that of a small UAS. Thus, a UAS operated in a restricted environment, within
+line-of-sight of the PIC, and under the conditions proposed, will be at least as safe as a
+conventional rotorcraft operating.
+
+           E. Relief From 14 C.F.R. Part 27 Airworthiness Standards: Normal Category
+                                                          Rotorcraft
+
+    14 C.P.R. Part 27 sets forth the procedural requirements for airworthiness certification of
+normal category rotorcraft. To the extent the Petitioner's UAS would otherwise require
+certification under Part 27, Petitioner seeks an exemption from Part 27's airworthiness standards
+for the same reasons identified in the exemption request from 14 C.F.R. Part 21, Subpart H.
+
+           F. Relief From 14 C.F.R. §§ 91.9(c), 45.23(b) and 45.27(a): Aircraft Marking and
+                                                 Identification Requirements
+
+         Petitioner Lappert Smith seeks an exemption from the aircraft marking and identification
+requirements contained in 14 C.F.R. §§ 91.9(c), 45.23(b) and 45.27(a). · 14 C.P.R.§ 91.9(c),
+Civil Aircraft Flight Manual, Marking and Placard requirements, provides that: No person may
+operate a U.S.-registered civil aircraft unless that aircraft is identified in accordance with Part 45
+of this chapter.
+
+         14 C.F.R. § 45.23(b), Markings of the Aircraft, states: When marks include only the
+         Roman capital letter "N" and the registration number is displayed on limited, restricted or
+         light-sport category aircraft or experimental or provisionally certificated aircraft, the
+         operator must also display on that aircraft near each entrance to the cabin, cockpit, or
+         pilot station, in letters not less than 2 inches nor more than 6 inches high, the words
+         "limited," "restricted," "light-sport, "experimental," or "provisional," as applicable. · 14
+
+                                                                   11
+         C.P.R. § 45.27(a), Rotorcraft, states: Each operator of a rotorcraft must display on that
+         rotorcraft horizontally on both surfaces of the cabin, fuselage, boom, or tail the marks
+         required by§ 45.23.
+
+Equivalent Level of Safety
+As the Dll 800 is a hexacopter with an unconventional shape, Lappert Smith will apply for a
+Letter of Alternative Marking to allow the registered N-number to be prominently displayed on
+the fuselage with markings that are as large as practicable.
+
+ G. Relief From 14 C.F.R § 91.9(b)(2): Civil Aircraft Flight Manual in the Aircraft and 14
+      C.F.R § 91.203(a) and (b): Carrying Civil Aircraft Certification and Registration
+
+Pursuant to 14 C.F.R. § 91.9(b)(2):
+
+         (b) No person may operate a U.S.-registered civil aircraft-
+                  (2) For which an Airplane or Rotorcraft Flight Manual is not required by§ 21.5
+
+         ofthis chapter, unless there is available in the aircraft a current approved airplane or
+         Rotorcraft Flight Manual, approved manual material, markings and placards, or any
+         combination thereof Pursuant to 14 C.F.R. § 91.203(a) and (b):(a) Except as provided
+         in§ 91.715, no person may operate a civil aircraft unless it has within it the following:
+
+                  (1) An appropriate and current airworthiness certificate.
+                  (b) No person may operate a civil aircraft unless the airworthiness certificate
+         required by paragraph (a) of this section or a special flight authorization issued under §
+         91.715 is displayed at the cabin or cockpit entrance so that it is legible to passengers or
+         crew.
+
+Equivalent Level of Compliance
+
+         Lappert Smith does not request an exemption from this section but instead notifies the
+FAA that, in accordance with FAA Office of Chief Counsel's Opinion dated August 8, 2014, the
+
+                                                                      12
+UAS flight manual, registration certificate and other documentation will be kept at the control
+station with the PIC during flight. The Chief Counsel's Office has held that for all UAS
+operations, this alternate method constitutes full compliance with the regulations.
+
+         H. Relief From 14 C.F.R. § 91.7(a): Civil Aircraft Airworthiness
+
+         Petitioner seeks an exemption from 14 C.P.R. § 91.7(a), which requires that a civil
+aircraft be in airworthy condition to be operated. The FAA has stated that no exemption is
+required to the extent that the requirements of Part 21 are waived or found inapplicable.
+Accordingly, Petitioner request that the requirements for Section 91.7 are treated in accordance
+with Section V(A), supra.
+
+         I. Relief From 14 C.F.R. § 91.103: Preflight Action
+
+         Petitioner seeks an exemption from 14 C.F .R. § 91.103, which requires a PIC to become
+familiar with specific information before each flight, including information contained in the
+FAA-approved Flight Manual on board the aircraft. While the PIC will be familiar with all
+information necessary to safely conduct the flight, an exemption is requested to the extent that an
+FAA-approved Flight manual is required.
+
+Equivalent Level of Compliance
+
+         An equivalent level of safety will be provided by following the Aircraft Operations
+Manual and flight manual provided by the manufacturer. The PIC will take all required preflight
+actions- including performing all required checklists and reviewing weather, flight battery
+requirements, landing and takeoff distance, aircraft performance data, and contingency landing
+areas - before initiation of flight. The Aircraft Operations Manual and manufacturer's flight
+manual will be kept at the ground station with the operator at all times.
+
+         J. Relief From 14 C.F.R. § 91.109(a): Flight Instruction
+
+                                                                    13
+         Petitioner seeks an exemption from 14 C.F.R. § 91.109(a), which provides that "[n]o
+person may operate a civil aircraft (except a manned free balloon) that is being used for flight
+instruction unless that aircraft has fully functioning dual controls." UASs and remotely piloted
+aircraft, by their design, do not have functional dual controls. Instead, flight control is
+accomplished through the use of a device that communicates with the aircraft via radio
+communications.
+
+Equivalent Level of Compliance
+
+         Given the size and speed of the UAS, an equivalent level of safe training can still be
+performed without dual controls because no pilot or passengers are aboard the UAS, and all
+persons will be a safe distance away in the event that the UAS experiences any difficulties during
+flight instruction. In addition, Petitioner has established a flight training program that will be
+administered by a certified flight instructor. That training program includes both classroom
+instruction as well as supervised flight training employing the same aircraft that will be used
+operationally to conduct power infrastructure inspections. Accordingly, Lappert Smith's
+proposed method of operation provides superior levels of safety.
+
+         K. Relief From 14 C.F.R. § 91.119: Minimum Safe Altitudes
+
+         Petitioner requests an exemption from the minimum safe altitude requirements of 14
+C.F.R. § 91.119. Section 91.119 prescribes the minimum safe altitudes under which aircraft may
+not operate, including 500 feet above the surface and away from any person, vessel, vehicle, or
+structure in non-congested areas. See 14 C.F .R. § 91.119(c). Section 91.119(d) allows for a
+helicopter to operate at less than those minimum altitudes when it can be operated "without
+hazard to persons or property on the surface," provided that "each person operating the helicopter
+complies with any routes or altitudes specifically prescribed for helicopters by the FAA."
+
+Equivalent Level of Compliance
+
+                                                              14
+         Compared to flight operations with rotorcraft weighing far more than the maximum UAS
+weight proposed herein, and given the lack of flammable fuel, any risk associated with these
+operations is far less than those that presently exist with conventional aircraft. An equivalent
+level of safety will be achieved given the size, weight, and speed of the UAS, as well as the
+location where it is operated. In order to avoid any risk to aircraft, flight operations will be
+restricted to 400' AGL or below. As set forth in the Manual, the UAS will be operated in a
+restricted area, away from persons or structures not involved in the operation.
+
+         L. ReliefFrom 14 C.F.R § 91.121: Altimeter Settings
+
+         This petition seeks an exemption from 14 C.P.R.§ 91.121, which requires a person
+operating an aircraft to maintain cruising altitude or flight level by reference to an altimeter that
+is set to the elevation of the departure airport or barometric pressure. An exemption is required to
+the extent that the UAS does not have a barometric altimeter, but rather a GPS altitude read out.
+
+Equivalent Level of Compliance
+
+         The FAA has stated that an equivalent level of safety can be achieved if the UAS will be
+operated at 400' or below and within visual line-of-sight in addition to GPS based altitude
+information relayed in real time to the operator. As the attached Operations Manual indicates, the
+chosen UAS meets these requirements, and a zero altitude initiation point will be obtained prior
+to flight.
+
+               M. Relief From 14 C.F.R. § 91.151(a): Fuel Requirements for Flight in VFR
+                                                             Conditions
+
+          Petitioner requests an exemption from 14 C.P.R.§ 91.151(a)'s fuel requirements for flight
+in VFR conditions. Section 91.151 states:
+
+                                                                 15
+         (a) No person may begin a flight in an airplane under VFR conditions unless (considering
+         wind and forecast weather conditions) there is enough fuel to fly to the first point of
+         intended landing and, assuming normal cruising speed
+
+                  (1) During the day, to fly after that for at least 30 minutes; or
+                  (2) At night, to fly after that for at least 45 minutes.
+
+Equivalent Level of Compliance
+
+         Here, the technological limitations on UAS battery power means that no meaningful
+flight operations can be conducted while still maintaining a 30 minute reserve. The FAA has
+stated that an equivalent level of safety is provided if the UAS flight is terminated with at least
+25% reserve battery power still available. Lappert Smith proposes that all flights comply with
+this requirement by mandating that the aircraft be safely landed with no less than 30% of battery
+life remaining.
+
+         N. Relief From 14 C.F.R. § 91.405(a), 91.407(a)(l), 91.409(a)(2); 91.417(a) and (b):
+             Maintenance Inspections
+
+         Petitioner seeks an exemption from the maintenance inspection requirements contained in
+14 C.F.R. § 91.405(a), 91.407(a)(l), 91.409(a)(2); 91.417(a) and (b). These regulations specify
+maintenance and inspection standards in reference to 14 C.F.R. Part 43. See, e.g., 14 C.F.R. §
+91.405(a) (stating that each owner or operator of an aircraft "[s]hall have the aircraft inspected as
+prescribed in subpart E of this part and shall between required inspections ... have discrepancies
+repaired as prescribed in part 43 of this chapter"). An exemption to these regulations is needed
+because Part 43 and these sections only apply to aircraft with an airworthiness certificate, which
+the UAS will not have.
+
+Equivalent Level of Compliance
+
+                                                              16
+         An equivalent level of safety will be achieved because maintenance and inspections will
+be performed in accordance with the UAS Manufacturer's Manual, as referenced in the
+Operations Manual. As provided in the Operat ons Manual, flights will not be conducted unless a
+flight operations checklist is performed that includes all of the aircraft's components. The
+Operations Manual also sets requirements for maintenance log books and record keeping as well
+as routine and post-flight maintenance. The Manual sets requirements for both annual
+maintenance and preventative maintenance based on hours of flight.
+
+         0. Relief From 14 CFR § 61.113: Private Pilot Privileges And Limitations
+
+         Petitioner seeks exemption from 14 CFR § 61.113, which restricts private pilot certificate
+holders from flying aircraft for compensation or hire, and would also require a second class
+medical certificate. The purpose of Part 61 is to ensure the skill and competency of any PIC
+matches the airspace in which the PIC will be operating, as well as requiring certifications if the
+private pilot carries passengers or cargo for hire. In this case, while the UAS will be operated as
+part of a commercial operation, it carries neither passengers nor cargo. In the Grant of
+Exemption in FAA Docket No. FAA-2014-0352, the FAA determined that the unique
+characteristics ofUAS operation outside of controlled airspace did not warrant the addition cost
+and restrictions attendant with requiring a PIC to have a commercial pilot certificate and class II
+medical certificate.
+
+Equivalent Level of Compliance .
+
+         Regardless, Lappert Smith will employ only licensed private pilots as PIC for their
+operation. The restrictions Lappert Smith has placed on its UAS operations meet or exceed the
+restrictions similarly imposed on Astraeus Aerial in FAA Docket No. F AA-2014-0352. Lappert
+Smith will operate in a sterile area way from persons and property not involved in the inspection.
+It will be flown based on VLOS and below 400' AGL. A NOT AM will be issued between 12
+and 72 hours before the flight is to occur, and the flight will be coordinated with the applicable
+FSDO.
+
+                                                               17
+                                VI. DRUG AND ALCOHOL PROGRAM
+
+         Lappert Smith is committed to a drug-free work place and the right ofthe flying public it
+serves to safe and efficient air transportation. All employees of Lappert Smith who perform
+safety sensitive and/or security related functions are prohibited from performing work if they
+have alcohol or a prohibited drug in their system.
+
+      VII. REASONS WHY GRANTING LAPPERT SMITH'S REQUEST WOULD BE
+                                               IN THE PUBLIC INTEREST
+
+         Lappert Smith submits this Petition to provide safe, efficient, and economical aerial
+inspection and research throughout rural areas of the United States, in support of government
+entities, agriculture, scientific studies, wildlife monitoring, forestry, the oil and gas industries,
+and other utilities and commercial operations that require aerial inspection. The specific
+operations that Lappert Smith will perform with the Dll S800 hexacopter UAS demonstrate how
+the requested exemption will directly benefit these industries, as well as the public.
+
+    A. The Public Will Benefit From Decreased Congestion Of The NAS, Reduced Noise
+         and Air Pollution, and Safety of Life and Property, and Air Traffic Control's
+         Responsibilities
+
+         Compared to the cabin class, six-cylinder internal combustion twin engine aircraft that
+that use 20-30 gallons per hour of leaded aviation fuel, the Dll S800 hexacopter UAS uses
+battery power and an electric motors, which produce no air pollution, thereby reducing the
+carbon footprint of aerial inspections and eliminating noise pollution. The Dll S800 motor is
+barely audible during take-off, and cannot be heard when operating more than 100 feet above
+ground level. The Dll S800 hexacopter UAS is a safe, efficient, and economical alternative to
+the manned aircraft traditionally utilized to obtain aerial imagery.
+
+                                                                18
+         The Dll S800 hexacopter UAS, which weighs approximately thirty (30) pounds at its
+maximum gross weight, a 360 millimeter (14.173 inch) length of each wing, and base a length of
+500 millimeters (19.685 inches) and has no fuel on board. Thus, the potential for collateral
+damage to life and property on the ground, and in the air, compared to the manned aircraft that
+typically conduct aerial inspection will be substantially reduced or completely eliminated.
+
+         An exemption allowing the use of a Dll S800 hexacopter UAS would decrease NAS
+congestion and provide a substantial benefit to the public in the form of reduced quantity and
+size of manned aircraft, reduce noise and air pollution, increase the safety of life and property in
+the air and on the ground, and reduce air traffic control's responsibilities regarding ground,
+takeoff, departure, arrival, and landing phases of flight operations.
+
+       B. Aerial Inspections with the DJI SSOO Hexacopter UAS will Benefit the Economy
+
+         With the rising cost of aviation fuel and the EPA actions phasing out leaded fuels, U.S.
+companies are searching for alternative technology to remain competitive. The Dll S800
+hexacopter UAS is an economically sound alternative to manned aircraft and will allow U.S.-
+based companies to remain competitive, provide greater job stability to employees and
+contractors, and ultimately contribute to the growth of the U.S. economy.
+
+         Improved financial performance ofU.S. companies, through commercial use ofthe Dll
+S800 hexacopter UAS, provides a stable workforce that increases consumer spending, thereby
+increasing tax revenues for local, state, and federal governments,
+
+                                            C. No Privacy Issues Exists
+
+         The Dll S800 hexacopter UAS will operate only in rural areas, and in accordance with
+all Federal Aviation Regulations, including the minimum altitude requirements of 14 C.F.R. §
+91.119. In addition, the Dll S800 hexacopter UAS will not be operated closer than 500 feet to
+any third-person, vessel, vehicle, or structure, except when necessary for takeoff or landing.
+
+                                                                19
+    VIII. OPERATIONS AND MANUFACTURER'S MANUALS
+
+         A copy of the Lappert Smith's Operations Manual and Dll' s Manufacturers Manual,
+which are proprietary information, are attached hereto as Exhibits A and B, Petitioner requests,
+pursuant to 14 C.F.R. § 11.35(b), that all Exhibits attached to petition be held in a separate file as
+they are proprietary information, and in accordance with 14 C.F.R. 11.35(b), are not to be
+included in the Federal Docket Management System (FDMS).
+
+    IX. Any Other Conditions The FAA May Prescribe For Safe Operation.
+
+         In accordance with Section 333 of the FAA Modernization and Reform Act of 2012 and
+14 C.F.R. § 21.16 entitled Special Conditions, Lappert Smith requests that the FAA prescribe
+special conditions for the intended operation of the Dll S800 UAS, which contain such safety
+standards that the Administrator finds necessary to establish a level of safety equivalent to that
+established by Section 21.185, and which will permit safe operation of the Dll S800 UAS for the
+special purpose of conducting aerial inspection over rural areas of the United States. Section 333
+sets forth the requirements for considering whether a UAS will create a hazard to users of the
+NAS or the public, or otherwise pose a threat to national security; and further, provides the
+authority for such UAS to operate without airworthiness certification in accordance with any
+requirements that must be established for the safe operation of the aircraft systems in the NAS.
+
+         Likewise, the Administrator may prescribe special conditions pursuant to 14 C.F.R.
+§ 21.16, for operation ofthe Dll S800 UAS, since the airworthiness regulations of 14 C.F.R. Part
+21 do not contain adequate or appropriate safety standards, due to the novel or unusual design
+features of the aircraft. Section 21.16, entitled Special Conditions, states the following:
+
+         "If the FAA finds that the airworthiness regulations of this subchapter do not contain
+         adequate or appropriate safety standards for an aircraft, aircraft engine, or propeller
+         because of a novel or unusual design feature of the aircraft, aircraft engine or propeller,
+         he prescribes special conditions and amendments thereto for the product. The special
+
+                                                                    20
+         conditions are issued in accordance with Part 11 of this chapter and contain such safety
+         standards for the aircraft, aircraft engine or propeller as the FAA finds necessary to
+         establish a level of safety equivalent to that established in the regulations."
+
+         Therefore, in accordance with Section 333 and 14 C.F.R. § 21.16, the FAA may prescribe
+special conditions for Lappert Smith's intended operation of the DJI S800 UAS, which contain
+such safety standards that the Administrator finds necessary to establish a level of safety
+equivalent to that established by Section 21.185, and which will permit safe operation of the DJI
+S800 UAS for the special purpose of conducting aerial inspection over rural areas of the United
+States.
+
+     X. A Summary That Can Be Published In The Federal Register, stating: The Rules
+                                    From Which Lappert Smith Seeks Exemption:
+
+Lappert Smith Technologies LLC seeks exemption from the requirements of14 C.P.R.§§ 91.9(b),
+91.203(a), 91.203(b), 45.23(b), 21.185, 45.27(a), 91. 7(a), 91.103, 91.109(a), 9J.Jl9, 91.121,
+91.151(a), 91.405(a), 91.407 (a)(J), 91.409 (a)(2), 91.147 (a), 91.147(b), and 61.113
+
+A Brief Description Of The Nature Of The Exemption Lappert Smith Seeks:
+This exemption will permit Lappert Smith to operate an Unmanned Aircraft System over certain
+rural areas of the United States, while keeping the documents required by the regulations at the
+ground control station and immediately accessible to the pilot in command Furthermore, the
+exemption will relieve Lappert Smith from the airworthiness certificate standards and the
+requirement to have a certificate of airworthiness for its Unmanned Aircraft System. This
+exemption will also permit any required markings concerning the operational status of the UAS
+to be displayed on the fuselage ofthe unmanned aircraft.
+
+                                                                      21
+                                              XI. CONCLUSION
+
+         As set forth above, Lappert Smith seeks an exemption pursuant to 14 C.F.R. § 11.61 and
+Section 333 of the FAA Modernization and Reform Act of 2012, which will permit safe
+operation of the Dll S800 UAS commercially, for the special purpose of conducting aerial
+inspections over certain rural areas in the United States. By granting this Petition, the FAA
+Administrator will be fulfilling the Congressional mandate of the FAA Modernization and
+Reform Act of2012, while also advancing the interests ofthe public, by allowing Lappert Smith
+to safely, efficiently, and economically operate the Dll S800 UAS commercially within the
+NAS.
+
+         WHEREFORE, in accordance with the Federal Aviation Regulations and the FAA
+Modernization and Reform Act of 2012, Section 333, Lappert Smith respectfully requests that
+the Administrator grant this Petition for an exemption from the requirements 14 C.F.R. §§
+91.9(b), 91.203(a), 91.203(b), 45.23(b), 21.185, 45.27(a), 91.7(a), 91.103, 91.109(a), 91.119,
+91.121, 91.151(a), 91.405(a), 91.407 (a)(l ), 91.409 (a)(2), 91.147 (a), 91.147(b), and 61.113
+
+Dated: New York, New York
+         June 5, 2015
+
+Respectfully submitted,
+
+                                                                Michael Bruk, Esq.
+                                                           Attorney for Petitioner,
+                                              Lappert Smith Technologies LLC
+
+                                               The Law Office ofMichael Bruk
+                                        138 W. 25th St, lOth Floor, Suite ClOOl
+
+                                                            New York, NY, 10001
+                                                               Tel: (212) 203-9303
+                                                              Fax: (347) 710-1791
+
+                                                        Email: mb@bruklaw.com
+
+                           22
+Spreading Wings S800
+User Manual
+
+v 1.7
+
+2012.12.24 Revision
+  ©2012 OJ! Innovations. All Rights Reserved.  1
+
+www.d ji-in novations.com
+©2012 OJ! innovations. All Rights Reserved.  2
+
+Disc Ia ime rRead this disclaimer carefully before using Spreading Wings S800. By using this product,
+
+you hereby agree to this disclaimer and signify that you have read them fully. Spreading Wings S800 is an excellent
+multi-rotor. With a good autopilot, it will offer tremendous flight features. Despite the controller of DJI autopilot operate
+in the safest manner when the main power battery is connected, we strongly recommend customers to remove all
+frame arms, and keep children away during system calibration and parameter setup.
+
+As DJIInnovations has no control over use, setup, final assembly, modification (including use of non-specified DJI
+parts i.e. motors, ESCs, propellers, etc.) or misuse, no liability shall be assumed nor accepted for any resulting
+damage or injury. By the act of use, setup or assembly, the user accepts all resulting liability.
+DJIInnovations assumes no liability for damage(s) or injuries incurred directly or indirectly from this product usage.
+
+DJI Spreading Wings is registered trademark of DJI Innovations. Names of product, brand, etc., appearing in this
+manual are trademarks or registered trademarks of their respective owner companies. This product and manual are
+copyrighted by DJI Innovations with all rights reserved. No part of this product or manual shall be reproduced in any
+form without the prior written consent or authorization of DJIInnovations. No patent liability is assumed with respect to
+the use of the product or information contained herein.
+©201 2 OJ I Innovations. All Rights Reserved.  3
+
+5800 ProfileoJI Spreading Wngs ssoo is a multi-rotor designed for AP. It simplifies users'
+
+installation and enables quick disassembling. Frame arm integrates with ESC and motor. Wth DJI VVKM autopilot
+system, it can achieve hovering, cruising and other flight elements. S800 can be applied for aerial photography and
+other aero-modeling activities.
+
+mm(t.enghth)
+   ©2012 DJIInnovations. All Rights Reserved.  4
+
+ContentSoisdaimer                               2
+                                                3
+S800 Profile                                    4
+Contents                                        5
+Product Usage Cautions                          6
+In Box                                          6
+Tools Needed                                    7
+Center Frame Wiring                             8
+Mount Center Frame                              9
+Mount Frame Arms                               11
+Mount Bi-pod                                   13
+Assembly                                       14
+ESC Sound                                      14
+Specifications                                 16
+Appendix                                       16
+                                               17
+      Mount Battery Bracket                    18
+      Trouble Shooting
+      Spare Parts Listing
+©2012 OJ! Innovations. All Rights Reserved.                                                              5
+
+product Usage CautionSWhen flying, thefast rotating propellers of 5800 may
+
+cause serious damage(s) and injuries. Therefore, please fly with a high safety in mind at all time.
+
+   Mount Attention
+
+        Mount GPS with a bracket, to avoid interference from the power board of center frame.
+         For IMU position, make sure the arrow direction marking is pointing to the aircraft nose.
+        The receiver is recommended strongly to be installed under the bottom board of center frame, and the
+
+        head of antenna is downward without any obstacle. The aircraft will be out of control, since the
+
+        wireless signal may be lost by the obstacle.
+
+e . . eMount the arms correctly.
+
+®.... ®
+
+Center frame  ArmCenter frame                Arm
+
+For removing screws in the bottom board, please proceed with cautious, avoiding damages. Do not
+
+remove any other screws fixed with glue.
+
+Notice matching the indications is very important, please pay attention to them.
+
+Flight Attention
+
+    With DJI WKM autopilot system, make sure the output signal of WKM F1-F2 and M1-M6 are all normal,
+
+    to avoid serious damage(s) and injuries.
+
+    Keep flying multi-rotor a distance from people, building, high-voltage lines, etc.
+    Make sure to use 6S LiPo power battery.
+    Do not get close to or touch the working motors and propellers, which will cause serious injury.
+
+    Do not over load the multi-rotor.
+    Make sure the propellers and the motors are installed correctly and firmly before flying.
+    Make sure all parts of 5800 are in good condition before each flight Do not fly with wore or broken
+
+    parts.
+
+    Strongly recommend you use DJI parts as much as possible.
+
+Others
+
+               If you have any problem you cannot solve, please contact agents or DJI customer service.
+   ©2012 OJ! Innovations. All Rights Reserved.                                                               6
+
+In Box                                          Frame Ann 800FAx6
+                                                T Frame 800TFx2,Aiuminum Ring 800ARx2
+  Center Frame 800CFx1                          Bi-pod Drawbar 800BDx4
+
+                    I
+                    I
+
+  H Frame SOOHF x1
+
+  Base Pipe 800BPx2
+
+Silicone Rubber Damper 800SRDx4                 Nonslip Damper 800NDx4
+                                                Screw Package SOOSP x1
+                    I
+                   I
+
+3-PIN Servo Cable SOOSC x1
+
+                                                Hexagonal screws: M3x8_ M2.5x5              HC-M3.0x22     ..
+                                                Hexagonal socket head cap screws:
+
+                                                                       HC-M2.5x5 HC-M2.5x8  HC-M3x8. T2x9
+
+Adhesive Velcro SOOAV x1, Battery Band SOOBB x2
+
+Tools Needed
+
+2.0mm Hex Wrench, 2.5mm Hex Wrench For mounting screws.
+
+Screw Glue                                      For fastening screws.
+
+Nylon Cable Tie                                     For binding devices and wires.
+Scissors                                        For fixing receiver, controller and other modules.
+Diagonal Cutting Pliers
+Foam Double Sided Adhesive Tape
+©2012 DJIInnovations. All Rights Reserved.                                                                7
+
+Center Frame Wi ri ngTop board is power distribution board, and the bottom board is for
+
+loading autopilot system components.
+
+                                                        ------- Bottom Boan
+
+                                                     ---- ___ cSlot
+
+Top Board
+
+lMU mount position
+
+Notices:
+
+                For IMU position, make sure the arrow irection marking is pointing to the aircraft nose.
+
+                    Tap Board                                        Maar number
+
+Connect the motor 3-pin connector (M1-M6) from VvKM M.C. to ESC signal socket (M1-M6) on
+
+                                                                     To imbal
+
+C signal outlet
+center frame markings accordingly.
+
+                                              Botto
+
+(VvKM M.C. M1  ESC signal scket M1,                  , VvKM M.C. M6  ESC signal socket M6)
+
+                    Slot                                                Mak
+
+                                                                     Tips: Main battery
+
+                                                                     power leads, gimbal and
+                                                                     PMU leads are on the
+                                                                     bottom surface of the
+                                top board. XT60 Male
+
+Markings  and stand for the propeller rotation direction. means clock-wise, and means
+
+counter clock-wise.lf you need other lead connector, please cut the original connector and solder on the new
+
+connector. (But not Recommend)
+ ©2012 DJIInnovations. All Rights Reserved.                                                8
+
+Mount Center Frame
+
+Remove Screws                                          Fix Screws
+~OOCF
+
+M2.5X5
+
+Step1: Mount IMU module into IMU position in the center frame. Ensure IMU casing is out of touch the top board
+             edge, as vibration can cause IMU mal-function.
+
+Step2: Please mount DJI Autopilot System parts onto the bottom board (not including GPS modules). Please remove
+             all the screws from the bottom board first if necessary.
+
+Step3: Connect Autopilot System and receiver. Please refer to OJI WKM User Manual for details. Step4:
+Please mount the screws to bottom board, and use adequate screw glue.
+
+StepS: Mount the GPS on the top board with a bracket.
+
+Step6: Configure Autopilot System. Please refer to DJI WKM User Manual.
+
+Notices:
+
+       Make sure to mount the IMU module at the IMU position first.
+
+       Mount the GPS with a bracket, to avoid interference from center frame power board.
+       Ensure the USB port of the M.C. outwards for easy access.
+       Please wire neatly. Make sure wires will not be cut by the edge of frames.
+
+Tips:
+
+Install screws with appropriate strength to prevent damage threads.
+   ©2012 OJ! Innovations. All Rights Resetved.                                      9
+
+Mount Frame Arms                                                            Step 2
+
+Step 1
+
+                                                Copper contacts
+
+over ~---.!i                                    Motor rotation direction
+
+ilotor---1<+"""'~                                      Clock-wfse
+sc----".,:'""~~                                        Coul\1er clock-wrse
+
+.ED------
+
+     Red
+
+      Green
+
+                                                                            Step 5
+
+Step1: Check arms.
+
+              (1) Make sure copper contacts are in good condition without bend or severe wear. n
+              (2) Make sure propellers are without crack, and screws in propeller cover tight
+              (3) Make sure motors are mounted firmly, and rotate freely.
+              (4) Distinguish LED indicator on the ESC bottom. Wth a red point in is red LED, others are green LED. We
+
+                     recommend you mount arms with red LED to M1 and M2.
+              (5) Distinguish marks and on the arms.
+
+                  Arm Center frame
+
+                  Arm Center frame
+
+Step2: Insert frame arm into center frame vertically. x1800FA
+Step3: Slowly rotate the frame arm upward until positioned completely.
+
+Step4: Press down the buckle to lock the arm. Make sure the arm does not move.
+
+StepS: Make sure the buckle is pressed down correctly, about 35° under normal circumstances.
+Notices: · Please add some lubricant at the position (1) if it is hard to press down the buckle.
+· Slowly rotate the frame arm to prevent from breaking the copper contacts.
+
+     Please refer to {2) to ensure the arm is perfectly positioned.
+     Make sure use appropriate strength to press down the buckle correctly.
+     Do not hot plug arms.
+    If the motor mount loosens, please tighten it by following the procedures in trouble shooting of Appendix.
+
+Tips:
+
+LED is on after motor start.                                                                                    10
+
+ Examination
+
+ ©20'12 OJ! Innovations. Ali Rights Reserved.
+
+             Arms( D®are aircraft nose direction, arms®® are aircraft tail. See from top, motors on
+             arms(D®® rotate counter dockwise; motors on arms®®® rotate clockwise.
+
+                                                                 t6)
+I'
+
+    Mount Bi-pod
+
+    Step1
+
+    SOOHF          Xl                                ···+
+    tiOIJIID       X4
+    SOitAA         X2
+    HC-M2.5XS
+                   X8
+
+    IMZ.SD         x4
+      HC..M3.ox22  x2
+
+    Step3
+
+    Step2 (Fix, but not tighten screws)
+
+       800TF
+       800BP
+       800SRD
+       80DND
+
+     ©2012 OJ! Innovations. All Rights Reserved.           11
+
+    Step1: Mount T frame BOOTF and base pipe 800BP.
+
+                 (1) Put nonslip damper 800ND through the base pipe.
+                (1) Put the base pipe into T frame until the head of nonslip damper is embedded into T frame.
+                (2) Embed the other nonslip damper into the T frame.
+                (2) Put silicon rubber damper 800SRD onto both sides of the base pipe.
+
+    Step2: Mount H frame800HF and bi-pod drawbars 80080.
+
+              (1) Fix (but not tighten) hexagonal socket head cap screws~ (Fig.{D) to H frame and bi-pod drawbar
+
+                   (Fig.(D).
+(2) Adjust drawbar and T frame, and fix (but not tighten) hexagonal socket head cap screw~
+      (Fig.@) to drawbar and aluminum ring 800AR.
+©2012 OJ I Innovations. All Rights Reserved.                                                         12
+
+StepJ: Mount H frame and T frame.
+
+              (1)  Insert T frame through aluminum ring until it plugs into H frame.
+              (2)  Fix T frame notch into H frame bulges outwards, make sure T frame will not move.
+              (3)  Put the bi-pod on the flat floor to adjust H frame and T frame.
+              (4)  Tighten all hexagonal socket head cap screws (including and@).
+
+Notices:
+
+Put bi-pod on the flat floor to finish mounting smoothly and correctly.
+Please mount the screws and use adequate screw glue.
+Separate the bi-pod by disconnecting the H frame to make for easy carriage.
+
+ Completed
+
+Quick Disassembly
+ ©2012 OJ! Innovations. ,l\11 Rights Reserved.                                                             13
+
+Assembly
+
+Assembly
+
+Step1: Align all knobs on the H frame to the marks; refer to fig (1).
+Step2: Ue frame and bi-pod horizontally, insert knobs into arms@ and® first, and then adjust to insert others into
+
+              the arms.
+
+Step3: Rotate the knob to the end, as fig (2) shown.
+
+Notices:
+                                                 @
+
+. ®Ensure all knobs on the H frame aligned to the marks, and they would go through the arms successfully.
+
+Tips:                                                                          ()
+
+.      It is convenient for you to carry S800 by quick disassembly (Frame, Bi-pod, Frame and Bi-pod).
+©2012 OJ I Innovations. All Rights Reserved.                                             14
+
+ESC Sound                                     Sound
+                                              /1234567
+ ESC State                                    888888...
+
+ Ready                                        8 8 B...
+ Throttle stick is not at bottom              8 8 - 8 8 - 8 8 - 8 8 ...
+ Input signal abnormal
+ Input voltage abnormal
+
+Tips:
+
+DJI ESCs are specially designed for multi-rotors. \Mien use with DJI autopilot systems, you do not have to setup
+
+any parameters or calibrate travel range.
+
+Specifications                                 800mm
+                                               350mm
+ Frame                                         304g
+
+ Diagonal Wheelbase                            240mm
+ Frame Arm Length                              365g
+ Frame Arm Weight                              500mm(length)x415mm(\Mdth)x320mm(Height)
+ (Including Motor, ESC, Propeller)             (Topwidth: 145mm)
+ Center Frame Diameter                         428g
+ Center Frame Weight                           2.6Kg
+ Bi-pod Size
+                                              41x14mm
+ Bi-pod Weight                                320rpmN
+ Total Weight                                 360W
+                                              147g
+ Motor
+
+ Stator Size
+ KV
+ Max Power
+ Weight
+
+ ESC
+©20i 2 OJI Innovations. All Rights Reserved.                                             15
+
+ Current                                      40A OPTOVoltage  6S LiPo
+ Signal Frequency                             30Hz- 450Hz
+ Drive PWM Frequency                          24KHz
+ Weight                                       18g
+
+ Propeller                                    Carbon Fiber
+                                              15x04in
+ Material                                     15g
+ Size
+ Weight                                       5.0Kg- 7.0Kg
+                                              OKg -2.5Kg
+ Flight Parameters
+                                              LiPo (6S_ 10000mAh-15000mAh. 15C(Min))
+ Takeoff Weight                               2100W
+ Load Weight                                  720W(@ Takeoff Weight 6Kg)
+ Power Battery                                Max: 16 min (@10000mAh&6KgTakeoff Weight)
+ Max Power Consumption
+ Hover Power Consumption
+ Hover Time
+ ©2012 OJ! Innovations. All Rights Reserved.                                           16
+
+AppendixMount Battery Bracket
+
+Step1: Mount the retaining clip and the bracket, fix screws (but not tighten).
+
+Step2: Place the mounting board and adjust its position, and then tighten all screws.
+
+~~~-- -~l'arallel ......
+..P..a. =riiJ=Iel.-'j'!iliO..il"f'-
+Step1  For arms                                                                For arms
+
+Step3  For arms                                                                For arms
+
+©2012 OJ! Innovations. All Rights Reserved.                                                             17
+
+Tro ubI e S h ooti n Qltthe motor mount loosens, please tighten it by following the procedures.
+
+Step2
+
+Step1: Remove. Please unscrew the screws on the top.
+Step2: Tighten. Retighten the motor mount screws on the back to make the motor firmly attached. Step3:
+
+Remount. Remount the screws on the top.
+
+ Notices:                                                                      is different from arm .
+
+Shim should be mounted in the correct position, as shim mount position of arm
+
+           Tips:
+
+Please use adequate screw glue.
+Install screws with appropriate strength.
+Spare Parts Listing
+
+If SBOO needs part replaced, please refer to the following diagram to identify the part with the NO. and components,
+and then make a purchase. Each package includes screws needed.
+
+                     ~-----'<~~r
+
+           ___.._.llj
+
+NO. Name                                   Components
+
+   I I15'Propeller CCW S8010101A         1sso1o1o1s
+
+   2 15'Propeller CW              Components
+   ©2012 DJIInnovations. All Rights Reserved.                      18
+
+3 4114 Motor 320KV 58010301, 58010302, 58010303
+
+58010401A, 58010402, 58010403, 58010404
+
+    5 Frame Arm (Clockwise)              580104018, 580104o2, 58010403, 58010404
+
+    6 ESC (Red LED)                          I58010601, 58010602R
+
+                                                         Frame Arm (Counter Clockwise)
+
+$
+
+ 4
+
+7 ESC (Green LED) 58010601,, 58010602G
+
+8   Frame Arm w/ Propeller& Motor& ESC   5.
+
+    1. CCW&RedLED                            1, 3, 4, 6
+                                             1,3,4,7
+    2. CCW &Green LED                        2,3,5,6
+    3. CW&RedLED                             2,3,5,7
+    4. CW & Green LED
+Notices:@
+
+The diagram is only for counter clockwise  rotation propeller and frame arm.For
+
+clockwise propeller and frame arm, it is 580101018 and 580104018.
+                                            8021
+
+                                            Bollur 01
+
+©2012 DJIInnovations. All Rights Reserved.             19
+
+Ensure to solder thick wires and fine wires correctly, when solder ESC to frame arm.Clockwise and counter dockwise
+motor should be soldered to ESC correctly by different color order.
+                              Red
+
+                                    Black ----------:~'¥---,F-=-,
+
+                                            ~d--------------~~~
+
+                                 Black-----------,,......;
+                                      Biu~e ~~~~~~~
+                             Thick. wire,--"'j'"-->~----#.11"'--:!hfn.
+
+                   Fm11 wire,---±~~.,..fi!q-il~"-
+
+                               ~irl~wi~·~z
+                             Thick wire..:::::::=~~~~;._:x_
+
+For arms
+For arms
+
+Enamel Wire
+Shield Wire
+©2012 DJI Innovations. All Rights Reserved       Components                                                         20
+
+ NO. Name                                        58020901.58020902.58020903.                            58020904
+ 9 Arm Mounting Bracket
+ 10 Center Frame Support Pillar                  58021001
+
+ 11 Center Frame Top &Bottom Board               58021101.58021102
+ 12 Top Board Cover for Arm Mounting Bracket     58021201
+
+l{)l-----------,
+102-----------,
+
+iOl---ft                           IQB~--------------------S~l~
+
+l l 2 ' - - -....                                                     ·S~lW.!>
+
+os-----
+:oa:---"1'
+
+03-----flt                                       ~='----------S8032201
+
+:xs----r--:.~             =:t:l::J~Jlr-~;fll---(l~er------;;:o~-----S8032202
+
+:Qoll------.#il
+xs:----·
+i0&-----"1<------' "".......... ~  "',CJr'""--~-_;L,..d-=::------ S8031507
+
+-01.---------'1~;"-""-~~                         ~~--S8032203
+                                                 =-~........;;:=--.-
+                                                                      S8032204
+
+.02'--------t\_                                   IVJ ~I
+
+.031-----------~~                                (1)
+
+:X&::----------
+
+~1--------~
+
+                                                 (~~[10il~
+                                                   l~Jt=J <:lD
+
+                                                                                                5~1402
+
+                                                    (I
+
+58032201
+
+                                                                                            Note1: All unlabeled screws are HC-M2.5X5.()
+ Note2: (1) Left and right T-frames are different; (2) Left and right bi-pod top mounting hubs are different; (3) Left set,
+ middle set and right set of bi-ped carbon tube bracket are different
+
+·NO.,              IName                         I I ()
+                                                             Components
+                                                 58031301.58031302
+13 H-Frame
+
+                        Bi-ped Top Mounting Hub              58031401.58031402
+215 H-Frame w/Bi-pod Top Mounting Hub            58031501.58031502.58031503.58031504.
+
+                                                 58031505.58031506.58031507.13.14
+  16                                                            58031801
+                                                     58031901
+T-Frame(Right)
+58031601, 58031602, 58031603                                  158032001
+                                                     58032101, 58032102(2pcs) , 58032103
+                                      58031601
+                      T-Frame Nonslip Damper (4pcs)            158032201, 58032202, 58032203, 58032204
+                                                     58031501, 58031502, 58031503, 58031504,
+  19 T-Frame Silicone Rubber Damper (4pcs)           58031505
+
+ ILV 1::11-pod carbon 1ube
+
+  21 Bi-pod Drawbar
+
+       I l::!attery 1ray
+
+  23 Bi-pod Carbon Tube Bracket(Left Set)
+
+ L4                                                  58031501, 58031502, 58031503, 58031504,
+                                                     58031506
+Bi-pod Carbon Tube Bracket(Middle Set)
+
+©2012 OJ! Innovations. All Rights Reserved.                                                 21
+
+58031501, 58031502, 58031503, 58031504,25            Bi-pod Carbon Tube Bracket(Right Set)
+
+                                                     58031507
+
+Lti ::;crew t-'acK ML.o.X.o                                 lwpcs
+27 Screw Pack M3X8
+                                                     lOpes
+                ::;crew t-'acK ML.o.X.l::i
+                                                        Ilopes
+                           Lappert Smith's Unmanned Aircraft Svstem
+                                           Operations Manual
+
+                                                   Part A
+
+I. Responsibility and duties of support personnel in the operation of the UAS
+         a. Mission Commander
+                   1. The Mission Commander's main duty during the deployment ofthe UAS
+                       is to operate the UAS safely while accomplishing the goals ofthe client.
+                  11. The Mission Commander has absolute authority to reject a flight based on
+                       personnel safety or violation ofFAA regulations
+                            1. No member of the team, regardless oftitle, shall order an operator
+                                to make a flight when, in the opinion of the Mission Commander,
+                                 it poses a risk to personnel or is in violation ofFAA regulations
+                 111. Mission Commanders shall see-and-avoid any obstacle that will lessen
+                       safety during the mission
+                  IV. Mission Commander shall be responsive to the requests of the observer in
+                       order to accomplish the deployment
+         b. Pilot in Command
+                   1. The Pilot In Command (PIC) is responsible for compliance with this
+                       manual, as well as applicable FAA regulations
+                  n. The PIC is directly responsible for, and is the final authority over the
+                       actual operation ofthe UAS
+                 111. The PIC shall monitor the radio with tower as needed for updates
+         c. Visual Observers
+                   1. Observers shall see-and-avoid any obstacle that will lessen safety during
+                       the mission and inform the PIC
+                  u. Observers shall operate any attachments to the UAS, allowing the PIC to
+                       maintain complete focus on the operation of the UAS.
+                 111. Observers shall remain alert for suspicious persons or activities on the
+                       ground and coordinate response by ground units.
+
+                                                       Page lof6
+1v. Observers shall assist the PIC to achieve the main objective of safe
+     operation ofthe UAS
+
+v. Observers shall be responsible for documentation for mission training and
+     updating of flight books
+
+II. Crew health and appropriately fitness prior to conducting any operations.
+         a. Medical Factors
+                   1. Operator and Observers shall only deploy the UAS when rested and
+                       emotionally prepared for the tasks at hand
+                  11. Physical illness, exhaustion, emotional problems, etc., can seriously
+                       impair judgment, memory and alertness
+                            1. Any operator, pilot, or observer is expected to refrain from
+                                 conducting UAS operations when a problems exists that could
+                                reasonably be expected to affect their ability to perform flight
+                                duties
+                 111. A self-assessment of physical condition shall be made by all members
+                       during pre-flight activities
+                 1v. No member shall act as an operator or observer within eight hours after
+                       consumption of any alcoholic beverage or while under the influence of
+                       alcohol
+
+                        PartE
+
+I. Operating Documents
+
+a. This Operations Manual, the UAS manufacturers manual, and a grant of
+
+exemption and/or Certificate of Authorization (COA), will at all times during the
+
+UAS's operation be accessible and available for presentation upon request from a
+
+law enforcement official or other proper authority
+
+II. Preflight
+
+a. Prior to each flight, the PIC inspect the UAS to ensure it is safe for operation
+
+1. No operations shall be conducted until a condition that affects safe
+
+               operation, if one exists, is corrected
+
+                        Page 2 of6
+                  1. Any replacement or maintenance of a flight critical component
+                       must undergo a functional test flight
+                           a. Each maintenance event must be documented and signed
+                                prior to resuming UAS to operations.
+
+b. Airframe Inspection
+          1. Cracks (especially in high stress areas like joints)
+        11. Loose or damaged screws I fasteners I bands I straps I ties
+
+        111. Loose or damaged wiring
+        IV. Loose or damaged connections (solder, plugs, etc)
+         v. Inspect prop mounts, screws and apply slight counter pressure on arms to
+
+              check for loosened construction
+        v1. Battery/batteries fully charged (25.2 volts), properly seated and secured
+       vu. Remove props and test fail-safe behavior
+      vm. Props are smooth and free of damage/defect (blade, surface, & hub)
+        IX. Tighten prop adapters
+         x. Ensure voltage alarm is connected
+        x1. Ensure arming/idle timeout is properly configured
+       xu. Check your RC transmitter shows the right range and centering for all
+
+              sticks
+      x111. If desired, perform range test Check RC(TXIRX) operation range (on the
+
+              ground!) from time to time (and before 1st flight)
+c. POWER UP PROCEDURE
+
+          1. Batteries charged & secured
+         Il. Plan aircraft mission coordinates in accordance with location and possible
+
+              hazards
+        m. Position aircraft in a level, safe location for takeoff
+        IV. !fusing onboard video recorder (i.e., Gopro), tum on camera
+         v. All transmitter controls must move freely in all directions
+        v1. All transmitter trims must be in their neutral positions
+       vn. All transmitter switches must be in the correct position (Transmitter
+
+              throttle to zero)
+
+                                                    Page 3 of 6
+                vm. Turn on radio transmitter on
+                  1x. Connect/power on battery to airframe
+                   x. Ensure led indicators & audible tones are all indicating correctly
+                  x1. Ensure the autopilot has a GPS fix. When switching to Loiter mode, listen
+                        for a beep or TX to say flight mode 2
+                 xu. For manual start ensure Loiter and Auto controls are turned off, and set to
+                        Stabilize
+
+                xn1. Ensure compasses are calibrated and the right setting is loaded.
+                x1v. Timer on (if applicable)
+                 xv. Stand clear- audibly, loudly announce the word "CLEAR!"
+                xv1. Arm flight controller
+III. Take-off
+         a. Operating limitations and conditions
+
+                    1. Minimum Personnel Requirements
+                            1. The minimum personnel required on ALL missions will be a
+                                Mission Commander, PIC and at least one (1) Observer.
+                                       a. Under !!Q circumstances will a PIC attempt to complete a
+                                            deployment alone
+
+         b. Certificate of Authorization (COA)
+                   1. No UAS operations will begin until a COA is obtained for that PIC unless
+                             1. Otherwise allowed by law or specific FAA exemption
+                  u. A Notice to Airman (NOTAM) will be requested no more than 72 hours in
+                       advance, but no less than 12 hours prior to, any planned operation unless
+                             1. Otherwise allowed by law or specific FAA exemption
+
+         c. Markings:
+                    1. N-Number markings must be as large as practicable and in accordance
+                        with FAA guidelines
+
+         d. In flight
+                   1. NO operations of any kind will be conducted in within a five (5)
+                       nautical miles vicinity of an airport reference point without written
+                       consent from the controlling agency, office, or authority
+
+                                                              Page 4 of6
+                  n. All UAS operation will be conducted a safe distance from people, animals
+                       and objects
+
+         e. Take-offWeight
+                   i. The UAS take-off weight must not exceed 30 pounds.
+
+         f Maximum Speed
+                   i. The UAS will operate at a speed no greater than 30 miles per hour.
+
+         g. Maximum Operational Height in AGL
+                   1. The UAS will be operated at an altitude of no more than 400ft above
+                       ground level (AGL)
+
+         h. Minimum Operating Battery Power Level
+                   1. All UAS operations will cease when the battery power level reaches 30%
+                       of full capacity
+
+         1. Pilot in Control (PIC)
+                   1. ANY AND ALL operations will be conducted by a PIC with a private
+                       pilot license and who holds at least a Second-Class Medical.
+                  11. The PIC must be designated prior to take-off
+                           1. The designation ofPIC cannot be transferred at any time during
+                                operations
+
+        J. Visual Observer (VO)
+                   1. No UAS operations will be conducted without at least one (1) visual
+                       observer
+
+        k. Visual Line of Sight (VLOS) operation
+                   1. At all times, the UAS will be operated within visual line of sight of the
+
+                vo
+
+        1. Visual Meteorological Conditions (VMC)
+                  1. UAS operations will be conducted during the daytime only and under
+                       visual meteorological conditions
+
+IV. Landing
+         a. Tum offthe Multi-Rotor first and disconnect the flight battery before turning off
+             the transmitter
+
+                                                              Page 5 of 6
+V. Emergency Procedures
+         a. Pre-determined landing area
+                   1. In the event of flight termination due to a critical system failure, the UAS
+                       must be programmed to land in a pre-determined location.
+
+VI. After the flight (post-flight Check)
+         a. Disconnect the battery
+         b. Visually inspect the body and propellers.
+         c. Document any damaged or structurally deficient areas.
+
+                                                Parte
+I. Maintenance
+
+         a. UAS maintenance activities will be conducted in accordance with the procedures
+              specified in the Maintenance Manual
+
+         b. Specialist equipment items maintenance activities will be conducted in
+              accordance with the respective manufacturers' service manuals by persons with
+              technical knowledge and expertise
+
+II. Maintenance
+         a. Each maintenance event must be documented and signed prior to resuming any
+             UAS to operations
+         b. Records
+                   1. Maintenance Records shall be kept on file and available for inspection or
+                       review within a reasonable period of time
+
+                                                        Page 6 of6
+

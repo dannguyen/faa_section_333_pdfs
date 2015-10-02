@@ -1,0 +1,811 @@
+September 8, 2015
+
+                                                           Exemption No. 12787
+                                                           Regulatory Docket No. FAA-2015-1845
+
+Mr. Kevin D Hubbard
+Ravenwood HD Services, LLC
+13870 East River Vista Circle
+Palmer, AK 99645
+
+Dear Mr. Hubbard:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter dated April 2, 2015, you petitioned the Federal Aviation Administration (FAA) on
+behalf of Ravenwood HD Services, LLC (hereinafter petitioner or operator) for an exemption.
+The petitioner requested to operate an unmanned aircraft system (UAS) to conduct aerial
+survey and photography.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner is a 3D Robotics X8+.
+                                                                                                                 2
+
+The petitioner requested relief from 14 CFR part 21, Certification procedures for products
+and parts, Subpart H--Airworthiness Certificates. In accordance with the statutory criteria
+provided in Section 333 of Public Law 112-95 in reference to 49 U.S.C. § 44704, and in
+consideration of the size, weight, speed, and limited operating area associated with the
+aircraft and its operation, the Secretary of Transportation has determined that this aircraft
+meets the conditions of Section 333. Therefore, the FAA finds that the requested relief from
+14 CFR part 21, Certification procedures for products and parts, Subpart H--Airworthiness
+Certificates, and any associated noise certification and testing requirements of part 36, is
+not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection1. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+ They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+ The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+ A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, Ravenwood HD Services, LLC is granted an exemption
+from 14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a), 91.7(a),
+91.119(c), 91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a)
+
+1 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                                                 3
+
+and (b), to the extent necessary to allow the petitioner to operate a UAS to perform aerial data
+collection. This exemption is subject to the conditions and limitations listed below.
+
+Conditions and Limitations
+
+In this grant of exemption, Ravenwood HD Services, LLC is hereafter referred to as
+the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+    1. Operations authorized by this grant of exemption are limited to the 3D Robotics X8+
+         when weighing less than 55 pounds including payload. Proposed operations of any
+         other aircraft will require a new petition or a petition to amend this exemption.
+
+    2. Operations for the purpose of closed-set motion picture and television filming are
+         not permitted.
+
+    3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+         exemption holder may use either groundspeed or calibrated airspeed to determine
+         compliance with the 87 knot speed restriction. In no case will the UA be operated at
+         airspeeds greater than the maximum UA operating airspeed recommended by the
+         aircraft manufacturer.
+
+    4. The UA must be operated at an altitude of no more than 400 feet above ground level
+         (AGL). Altitude must be reported in feet AGL.
+
+    5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+         This requires the PIC to be able to use human vision unaided by any device other than
+         corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+         U.S. driver's license.
+
+    6. All operations must utilize a visual observer (VO). The UA must be operated within
+         the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+         to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+         capability. The VO and PIC must be able to communicate verbally at all times;
+         electronic messaging or texting is not permitted during flight operations. The PIC
+         must be designated before the flight and cannot transfer his or her designation for the
+         duration of the flight. The PIC must ensure that the VO can perform the duties
+         required of the VO.
+
+    7. This exemption and all documents needed to operate the UAS and conduct its
+         operations in accordance with the conditions and limitations stated in this grant of
+         exemption, are hereinafter referred to as the operating documents. The operating
+                                                                                                            4
+
+    documents must be accessible during UAS operations and made available to the
+    Administrator upon request. If a discrepancy exists between the conditions and
+    limitations in this exemption and the procedures outlined in the operating documents,
+    the conditions and limitations herein take precedence and must be followed.
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+                                                                                                            5
+
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+                                                                                       6
+
+exemption holder may apply for a new or amended COA if it intends to conduct
+operations that cannot be conducted under the terms of the attached COA.
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+
+    be as large as practicable.
+
+23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+    any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+    PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+    These documents must be made available to the Administrator or any law enforcement
+    official upon request.
+
+24. The UA must remain clear and give way to all manned aviation operations and
+    activities at all times.
+
+25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless:
+      a. Barriers or structures are present that sufficiently protect nonparticipating persons
+          from the UA and/or debris in the event of an accident. The operator must ensure
+          that nonparticipating persons remain under such protection. If a situation arises
+          where nonparticipating persons leave such protection and are within 500 feet of
+          the UA, flight operations must cease immediately in a manner ensuring the safety
+          of nonparticipating persons; and
+      b. The owner/controller of any vessels, vehicles or structures has granted permission
+          for operating closer to those objects and the PIC has made a safety assessment of
+          the risk of operating closer to those objects and determined that it does not
+          present an undue hazard.
+
+The PIC, VO, operator trainees or essential persons are not considered
+nonparticipating persons under this exemption.
+
+27. All operations shall be conducted over private or controlled-access property with
+    permission from the property owner/controller or authorized representative.
+    Permission from property owner/controller or authorized representative will be
+    obtained for each flight to be conducted.
+
+28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+
+    boundaries of the operational area as defined by the applicable COA must be reported
+    to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+                                                                                               7
+
+reported to the National Transportation Safety Board (NTSB) per instructions
+contained on the NTSB Web site: www.ntsb.gov.
+
+If this exemption permits operations for the purpose of closed-set motion picture and
+television filming and production, the following additional conditions and limitations apply.
+
+29. The operator must have a motion picture and television operations manual (MPTOM)
+    as documented in this grant of exemption.
+
+30. At least 3 days before aerial filming, the operator of the UAS affected by this
+    exemption must submit a written Plan of Activities to the local Flight Standards
+    District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+    notification may be waived with the concurrence of the FSDO. The plan of activities
+    must include at least the following:
+      a. Dates and times for all flights;
+      b. Name and phone number of the operator for the UAS aerial filming conducted
+          under this grant of exemption;
+      c. Name and phone number of the person responsible for the on-scene operation of
+          the UAS;
+      d. Make, model, and serial or N-Number of UAS to be used;
+      e. Name and certificate number of UAS PICs involved in the aerial filming;
+      f. A statement that the operator has obtained permission from property owners
+          and/or local officials to conduct the filming production event; the list of those
+          who gave permission must be made available to the inspector upon request;
+      g. Signature of exemption holder or representative; and
+      h. A description of the flight activity, including maps or diagrams of any area, city,
+          town, county, and/or state over which filming will be conducted and the altitudes
+          essential to accomplish the operation.
+
+31. Flight operations may be conducted closer than 500 feet from participating persons
+
+    consenting to be involved and necessary for the filming production, as specified in the
+    exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                                                 8
+This exemption terminates on September 30, 2017, unless sooner superseded or rescinded.
+Sincerely,
+
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+Kevin D Hubbard
+Ravenwood HD Services, LLC
+13870 East River Vista Circle
+Palmer, AK
+99645
+(907)631-8791
+Ravenwood.HD.llc@gmail.com
+
+April 2, 2015
+
+U. S. Department of Transportation
+Docket Management System
+1200 New Jersey Ave., SE
+Washington, DC 20590
+
+Re: Request for Exemption Per PL 112-95 §333 from 14CFR 21 Part H, 14CFR 61.3,
+14CFR 61.113, 14CFR 91.119, 14CFR 91.121, 14CFR 91.151, 14CFR 91.405, 14CFR
+91.407, 14CFR 91.409, 14CFR 91.417
+
+         Please consider this a request for an exemption of the above applicable sections of 14
+CFR for Ravenwood HD Services, LLC (hereafter `Ravenwood') for the purpose of
+conducting commercial aerial survey and photography operations with its small Unmanned
+Aircraft System (sUAS) within United States airspace. The employment of sUAS platforms for
+these missions should provide the FAA with good cause to find that these operations enhance
+safety by eliminating the need to use conventional aircraft in the sometimes unique
+environments where a small Unmanned Aerial Vehicle (sUAV) would be particularly adept, but
+a conventional aircraft may pose a hazard to its crew and those on the ground.
+
+         Ravenwood requests exemption from the following applicable regulations, pursuant to
+the Administrator's authority to grant exemptions contained in 49 U.S.C. §106(f), 40113,
+and 44701:
+
+14 CFR 21 Part H
+14 CFR 61.3
+14 CFR 61.113,
+14 CFR 91.119,
+14 CFR 91.121,
+14 CFR 91.151,
+14 CFR 91.405,
+14 CFR 91.407,
+14 CFR 91.409,
+14 CFR 91.417
+
+                                                                                                         1|Page
+CORPORATE EXPERIENCE
+(14CFR 61.3 and 14CFR 61.113)
+
+        The operational staff of Ravenwood is comprised of aviation professionals with varying
+degrees of experience. All Ravenwood operators have at a minimum passed an FAA Private
+Pilot Ground School course, completed the Ravenwood sUAS training course, and hold at
+least an FAA third class flight physical. The principal (Chief) Operator is an FAA-trained air
+traffic controller with more than 22 years' experience in aviation safety. He has been a
+certified professional controller at 3 Air Traffic Control Towers and Multiple radar facilities.
+He also has passed an FAA part 141 ground school at the University of Alaska Anchorage
+(UAA)(which included 2 hours in a full motion flight simulator) and is pursuing a Private Pilot
+Certificate and a Bachelor of Science degree in aviation management. He has more than 100
+hours of flight time in small aircraft in Alaska, although none of it was as Pilot-In-Command.
+(PIC) He also completed the first `Introduction to Unmanned Aircraft Systems' course
+offered by UAA. A complete resume is available upon request. This combination of experience
+and education provides a greater level of understanding and safety for the operation of a
+sUAS in the National Airspace System (NAS) than simply possessing a Private Pilot
+Certificate.
+
+OPERATIONS
+        Ravenwood operations utilize a sUAS in a manner that provides services not offered by
+
+manned aircraft and enhances the level of safety beyond which can be accomplished by
+manned aircraft. Examples of the proposed aerial photography operations include real estate,
+insurance damage assessment, and incident/accident documentation. Most operations restrict
+the use of the sUAS to a small area typically encompassing a limited number of residential and
+commercial properties at a time. The structures on these properties provide sufficient
+protection from the sUAV, and photography can be completed with much less risk than what
+would be incurred in a manned aircraft operation at low altitudes. Our intended film
+production operation would typically include both photography and videography for
+commercial purposes including wedding and corporate events. These events are restricted to
+only the invited participants and are closed to the general public, providing the opportunity to
+operate only in an area where informed, consenting participants and personnel are present.
+Ravenwood will be able to provide a level of safety equal to or greater than the manned
+aircraft that would typically provide these services.
+
+         Finally, our survey operation includes the orthomosaic mapping of agriculture,
+construction, and industrial sites utilizing our sUAS rotorcraft flying pre-programmed grids
+that can be interrupted and returned to a safe landing zone by our operators at any time.
+Currently these operations are executed by manned aircraft carrying hundreds of pounds of
+fuel and equipment flying at low altitudes and speeds in excess of 75 miles per hour. Our
+operation would greatly increase the level of safety, replacing manned aircraft with a sUAV
+
+                                                                                                         2|Page
+weighing less than 7.5 pounds which carries no fuel, and restricted to speeds no greater than
+40 knots. These sites are areas that can readily be secured by Ravenwood personnel and will
+not provide any additional risk to the general public.
+
+Flight Safety
+         All Ravenwood HD Imaging operations will be performed by Ravenwood HD Services
+
+llc trained and certified operators that have at minimum passed an FAA Private Pilot Ground
+School and hold a current FAA class 3 medical certificate. Operators, Visual Observers and
+where necessary Site Security Coordinators will participate in a preflight safety briefing for
+each mission. The mission will be executed only after a safety assessment has been completed
+and Threat/Error Mitigations are in place. Any operations under the exemption will be
+conducted in accordance with the Ravenwood Flight Operations Manual.
+
+Aircraft
+        Ravenwood HD Imaging will operate variations of the 3D Robotics X8+, an eight motor
+
+rotorcraft. The X8+ is a commercially available, off-the-shelf sUAS. The X8+ is a rotorcopter
+configuration and will weigh no more than 7.5 pounds. The X8+ will operate no faster than 40
+knots groundspeed. The X8+ is agile, having the ability to hover, and move about its three
+axes simultaneously. The X8+ will be operated below 400 feet Above Ground Level (AGL) and
+continuously within the operator's line of sight, so as not to create a hazard to users of the
+NAS or public. The X8+ is equipped with failsafe protocols that can either return the aircraft
+to a predetermined point and land, or land immediately if that action has been deemed safer
+by the operator in the preflight planning. Because of the X8+'s specifications and flight
+characteristics, it poses no threat to national security.
+
+                                                                                                         3|Page
+Limitations
+The limitations and conditions that Ravenwood HD Services, llc agrees to be bound to include:
+
+         1. The X8+ takeoff weight will be less than 7.5 lbs. unless operating under an
+             approved modification.
+
+         2. The X8+ will be operated at less than 40 knots groundspeed.
+         3. Flights will be operated within unaided visual line of sight of an operator and
+
+             observer.
+         4. The X8+ will never be operated directly over a person, and will remain at least 100
+
+             feet from all persons.
+         5. All flights will be conducted in daylight, Visual Flight Rules (VFR) conditions.
+         6. Flights will be operated at an altitude of no more than 400 feet AGL.
+         7. Maximum total flight time for each operational flight will be 30 minutes.
+         8. Flights will be terminated at 20% battery power reserve should that occur prior to
+
+             30 minutes.
+         9. Minimum crew for each operation will consist of the sUAS Operator, the Visual
+
+             Observer and may include a security coordinator.
+        10. The sUAS operator will be a Ravenwood HD Services trained operator and will
+
+             maintain at least an FAA third class medical certificate. The observer will be a
+             Ravenwood HD Services trained observer.
+         11. A briefing will be conducted in regard to the planned sUAS operation prior to each
+             flight. All Ravenwood personnel who will be participating in that flight shall be
+             present for the preflight briefing.
+         12. When necessary, and at least 72 hours prior to flight, the operator will file FAA
+             Form 7711-1, or its equivalent, with the appropriate Flight Standards District
+             Office.
+         13. Observer and Operator will at all times be able to communicate by voice with each
+             other.
+         14. When necessary, permission from relevant property owners will be obtained.
+         15. If the sUAS suffers a `lost link', the X8+ will perform the predetermined flight
+             maneuver to land as soon as practical as outlined in the preflight briefing.
+         16. The sUAS will have the capability to abort a flight in case of unpredicted obstacles
+             or emergencies.
+         17. All accidents and incidents shall be recorded in the aircraft log and reported in
+             accordance with FAA directives.
+
+                                                                                                         4|Page
+X8+ CONTROL
+
+         The control of the X8+ will be through a Radio Transmitter and Receiver operating on
+frequency 915 Mhz. This frequency is FCC approved and provides more than adequate range
+for operations within line of sight of the operator. The X8+ sUAS is also equipped with flight
+telemetry radios for semi-autonomous operation using highly precise GPS data, while
+maintaining a constant link between the X8+ vehicle and the ground station. The semi-
+autonomous mode of the X8+ is similar to a small manned aircraft operating with a 3 axis
+autopilot; operator input is still a function of the system. (Lost link procedures still apply)
+
+X8+ PAYLOAD
+
+        The X8+ manufacturer's payload capacity is listed at 800 grams, which equals 1.76 lbs.
+The X8+ vehicle weight with battery is listed at 2,560 grams which equals 5.64 lbs. Specific
+payload configurations will result in variable payloads. Every flight payload will be documented
+in the aircraft log. Without a manufacturer's approved modification, the X8+ will not be
+operated outside parameters set forth in the manufacturer's handbook.
+
+AIRWORTHINESS CERTIFICATION
+
+        The X8+ operated by Ravenwood HD Imaging has a manufacturer's maximum takeoff
+weight of 3,360 grams (7.50 lbs.) fully loaded. It carries neither a pilot nor passenger, carries
+no explosive materials or flammable liquid fuels, and operates exclusively within visual line of
+site of the operator. Operations under this exemption will be tightly controlled and monitored
+by the operator. The X8+ has the capability to safely fly and navigate after a total loss of
+power to one motor; this would be catastrophic to a typical 4 motor rotorcraft. By nature of
+its operation, the X8+ provides a greater degree of safety to the public and property owners
+than conventional operations conducted with airworthiness certificates issued under 14CFR
+Part 21.
+
+NATIONAL SECURITY
+
+         There is no credible threat to national security posed by the UAS, due to its size,
+speed of operation, location of operation, lack of explosive materials or flammable liquid fuels,
+and inability to carry a substantial external load.
+
+                                                                                                         5|Page
+FLIGHT CREW
+(14CFR 21 Part H)
+
+        All flight crew members will successfully complete the Ravenwood HD Services training
+program and operators will maintain at least an FAA 3rd class medical certificate. The
+Ravenwood HD Services training program has been developed referencing the curriculum
+already in place by the U.S. Department of Interior (DOI) for training their sUAV pilots. This
+curriculum is currently accepted by the FAA as valid for the initial qualification of sUAS
+operators. The full Ravenwood HD Services llc training program is proprietary in nature and is
+available to the Administrator upon request.
+
+        The Ravenwood Operator will remain the individual in charge of each flight and will not
+transfer responsibility for operational control of the X8+ aircraft to any other person, unless
+the flight is specifically for training purposes and not for hire. Any flight for training purposes
+will include a visual observer that is fully qualified for that position.
+
+        The Visual Observer will be trained in accordance with the Ravenwood HD Services llc
+training program and will possess a current valid driver's license issued in the United States.
+
+        Ravenwood HD Services llc requests an exemption from 14CFR 21 Part H until such a
+time that it has been established that the Ravenwood HD Services llc training program is
+capable of full compliance with the regulation (Number of successful graduates, certification of
+instructors, etc).
+
+CREW RESOURCE MANAGEMENT (CRM)
+
+        All Ravenwood flight crew members will actively practice CRM in accordance with FAA
+guidelines. Further guidance and details are covered in the Ravenwood HD Services training
+program.
+
+PREFLIGHT ACTION
+
+         Prior to each flight, the operator must conduct a pre-flight inspection and determine
+the sUAS is in a safe condition for flight. The pre-flight inspection must account for all
+potential discrepancies, e.g. inoperable components, items, or equipment. If the inspection
+reveals a condition that affects the safe operation of the X8+, the aircraft is prohibited from
+operating until the necessary maintenance has been performed and the X8+ is found to be in a
+condition for safe flight.
+
+         After the pre-flight inspection, the operator will conduct a pre-flight safety briefing
+with the observer and all other participants.
+
+                                                                                                         6|Page
+MINIMUM SAFE ALTITUDES
+(14CFR 91.119)
+
+        Ravenwood HD Services llc requests authority to operate at altitudes up to but not
+exceeding 400 feet AGL. Ravenwood HD Services llc will maintain a safe operating area in
+order to protect structures and people not associated with the operation. At no time will the
+X8+ be operated directly over a person. The X8+ will be operated at least 100 feet from all
+persons. The X8+ will be continuously operated at an altitude which will allow a safe descent
+and recovery should a mechanical issue arise.
+
+ALTIMETER SETTING
+(14CFR 91.121)
+
+         The X8+ utilizes a highly accurate GPS altimeter. An equivalent or greater level of
+safety is provided during preflight where the Ravenwood operator will compare the GPS
+altimeter with the pressure altimeter for the nearest FAA METAR report and verify accuracy
+to within 50 feet as indicated on the applicable VFR sectional chart.
+
+FUEL REQUIREMENTS
+(14 CFR 91.151)
+
+         The X8+ is powered by a battery, which provides up to 30 minutes of powered flight.
+Because of the absence of flammable operating fluids, an X8+ does not pose the same level of
+risk as a conventional aircraft. All Ravenwood operators will terminate flights when remaining
+battery power level reaches 25%, or 30 minutes flight time is reached, whichever comes first
+after takeoff.
+
+        Since no flights conducted by Ravenwood will require traditional petroleum based fuel,
+and those flights will be for less than 30 minutes, Ravenwood requests relief from 14CFR
+91.151.
+
+X8+ MAINTENANCE
+(14CFR 91.405, 14CFR 91.407, 14CFR 91.409, 14CFR 91.417)
+
+        Ravenwood HD Services llc requests exemption from 14CFR 91.405, 14CFR 91.407,
+14CFR 91.409, 14CFR 91.417.
+
+        Ravenwood HD Services llc will conduct all maintenance on the X8+ in accordance
+with the flight operations manual, pilot operating handbook, and any guidance received from
+the manufacturer. Ravenwood HD Services llc will abide by all notices from the manufacturer
+governing the maintenance, preventive maintenance, and alterations of the X8+.
+
+                                                                                                         7|Page
+        All maintenance will be conducted by a Ravenwood associate according to guidance
+from the manufacturer.
+
+         There is no certified FAA inspection process for sUAS's, therefore all inspections will
+be conducted by Ravenwood associates in accordance with manufacturer's guidelines. These
+inspections will be conducted and documented after any maintenance and before every flight.
+A functional flight test will be conducted after maintenance and before any flight for hire.
+
+Summary
+        Ravenwood HD Services llc intends to comply with every applicable regulation to the
+
+operation of the X8+ sUAS. Each request for exemption has been made with the
+understanding that Ravenwood is able to conduct operations that are at least as safe as or
+safer than those commercial operations that currently are conducted by manned aircraft.
+
+        Ravenwood's proposed exemptions and operational limitations are very closely aligned
+with other exemptions already granted, and also with pending proposed 14 CFR §91.107,
+which is specific to the operation of `micro' unmanned aircraft. The proposed 14 CFR
+§91.107 has been attached for reference.
+
+         Although the X8+ is above the weight restrictions for the proposed rule, it is
+applicable in nearly every other instance. In the event that 14 CFR §91.107 becomes
+effective, Ravenwood HD Services llc will be submitting a request to operate within those
+guidelines with minor exemptions to be addressed at a later date.
+
+         I appreciate your assistance with this process, as I am aware of the massive
+undertaking that these exemption requests are. Please contact me at your convenience with
+any questions regarding this request.
+
+                                                   Thank You,
+
+                                               Kevin D. Hubbard
+                                   Managing Member and Chief Operator
+
+                                         Ravenwood HD Services llc
+
+ Attached: Proposed 14 CFR §91.107, per UAS America Fund, llc
+X8+ Online Operating Manual: http://3drobotics.com/wp-content/uploads/2015/04/X8-Operation-Manual-vC.pdf
+
+                                                                                                         8|Page
+                                                         UAS America Fund LLC
+
+                                                       Micro Unmanned Aircraft
+
+                                                           Proposed Part 107
+
+§107.1 Applicability.
+This part prescribes rules governing the operation of micro unmanned aircraft in the United States. For purposes
+of this part, a micro unmanned aircraft means a device capable of sustaining its own powered flight in the air, that
+is operated without the possibility of direct human intervention from within or on the device, and that:
+
+     a) Weighs 3 pounds or less gross takeoff weight, including power source and payload;
+     b) Is powered by an electric battery or other non-combustion power source;
+     c) Is operated for a business, commercial, scientific, academic, research or other non-recreational purpose;
+
+          and is not a "model aircraft" subject to Public Law 112-95 § 336.
+
+§107.3 Waivers.
+No person may conduct operations that require a deviation from this part except
+under a written waiver issued by the Administrator.
+
+§107.5 Careless or reckless operations.
+     a) No person may operate a micro unmanned aircraft in a careless or reckless manner so as to endanger the
+          life or property of another.
+     b) No person may allow an object to be dropped from a micro unmanned vehicle if such action creates a
+          hazard to other persons or property.
+
+§107.7 Certification, registration and other requirements.
+     c) Notwithstanding any other section pertaining to certification of aircraft or their parts or equipment, micro
+          unmanned aircraft and their component parts and equipment (including ground station or radio control
+          systems) are not required to meet the airworthiness certification standards specified for aircraft or to
+          have certificates of airworthiness.
+     d) Notwithstanding any other section pertaining to registration and marking of aircraft, micro unmanned
+          aircraft are not required to be registered or to bear markings of any type, except that the name, address,
+          and telephone number of the owner or operator shall be affixed to at least two externally visible locations
+          on the micro unmanned aircraft.
+     e) Notwithstanding any other section, micro unmanned aircraft operated pursuant to this part are not
+          subject to any other federal aviation regulation, including any provision of parts 21, 45, 47, 61, or 91.
+
+§107.9 Daylight operations.
+     a) No person may operate a micro unmanned aircraft except between the hours of sunrise and sunset.
+     b) Notwithstanding paragraph (a) of this section, micro unmanned aircraft may be operated during the
+          twilight periods 30 minutes before official sunrise and 30 minutes after official sunset, or, in Alaska,
+          during the period of civil twilight as defined in the Air Almanac, if:
+                              1)The micro unmanned aircraft is equipped with an operating anti-collision light visible for
+                                at least 3 statute miles; and
+                              2)All operations are conducted in uncontrolled airspace.
+
+                                                                                                         9|Page
+§107.11 Operation near aircraft; right-of-way rules.
+     a) Each person operating a micro unmanned aircraft shall continually maintain vigilance so as to see and
+          avoid aircraft and shall yield the right-of-way to all manned aircraft.
+     b) No person may operate a micro unmanned aircraft in a manner that creates a collision hazard with
+          respect to any aircraft.
+     c) Each person operating a micro unmanned aircraft, upon hearing engine, rotor, or propeller sounds from
+          an aircraft uninvolved in the operation, shall take precautionary steps to identify the altitude and flight
+          direction of the uninvolved aircraft and yield right of way.
+
+§107.13 Operating limitations: altitude, airspace and locations.
+     a) No person may operate a micro unmanned vehicle at an altitude greater than 400 feet above ground level
+          (AGL).
+     b) No person may operate a micro unmanned vehicle within Class B, Class C, or Class D airspace or within the
+          lateral boundaries of the surface area of Class E airspace designated for an airport, unless that person has
+          prior authorization from the ATC facility having jurisdiction over that airspace.
+     c) No person may operate a micro unmanned aircraft within 5 nautical miles of the geographic center of an
+          airport as denoted on a current FAA-published aeronautical chart unless that person has prior written
+          authorization from that airport's management. This restriction does not apply to airports that are closed
+          or abandoned.
+     d) No person may operate a micro unmanned aircraft beyond his or her visual line of sight (VLOS). During
+          the flight operation, the operator must be able to view the micro unmanned aircraft at all times using his
+          or her own natural vision (which includes the use of vision corrected by standard eyeglasses or contact
+          lenses but excludes the use for flight navigation purposes of vision-enhancing devices such as binoculars,
+          night vision goggles, powered vision magnifying devices, or video glasses designed to provide a "first
+          person view" from a camera mounted on the micro unmanned aircraft), and must visually scan the
+          surrounding airspace to see and avoid other air traffic. The maximum operating distance of a micro
+          unmanned aircraft system from the operator under this subsection is 2,640 feet, regardless of the visual
+          acuity of the operator.
+     e) No person may operate a micro unmanned aircraft closer than 100 feet from any persons uninvolved in
+          the operation.
+     f) No person may operate a micro unmanned aircraft over an open-air assembly of persons.
+     g) No person may operate a micro unmanned aircraft in special use airspace designated under Part 73 unless
+          that person has permission from the using or controlling agency, as appropriate.
+     h) No person may operate a micro unmanned aircraft over privately-owned property without the express or
+          implied permission from the property owner, tenant in possession, or an authorized representative
+          thereof.
+     i) No person may operate a micro unmanned aircraft system within 5 nautical miles of any forest fire
+          without authorization from the incident commander.
+     j) Prior to operating a micro unmanned aircraft under this part, the operator shall become familiar with all
+          pertinent information concerning the proposed operational location, including but not limited to review
+          of relevant NOTAMs.
+     k) Any person intending to operate a micro unmanned aircraft within one mile of any active emergency shall
+          first check for any NOTAMs with respect to restrictions on operations in that location.
+
+§ 107.15 Meteorological conditions.
+All flights under this part must be conducted under visual meteorological conditions. A micro unmanned aircraft
+may not be operated under this part less than 500 feet below, or less than 2,000 feet horizontally from, a cloud; or
+when visibility is less than 3 statute miles from the operator.
+
+§107.17 Operating limitations: ground speed.
+No person may operate a micro unmanned aircraft in excess of 40 knots ground speed.
+
+                                                                                     10 | P a g e
+§107.19 Operator qualifications.
+     a) An operator of a micro unmanned aircraft system under this part must be at least 18 years of age.
+     b) No person may operate a micro unmanned aircraft system under this part without first passing the FAA
+          private pilot written airman knowledge test administered by an FAA-accredited pilot school or test center.
+          Prior to any operation under this part, the operator shall send written notification to the FAA evidencing
+          the test results together with the operator's name and contact information, which submission the
+          Administrator will acknowledge in writing as constituting the operator's micro unmanned aircraft pilot
+          certificate for purposes of 49 USC § 44711. This subsection shall not apply to micro unmanned aircraft
+          systems operated as public aircraft.
+     c) The FAA may pursue investigation and enforcement procedures set out in part 13 with respect to the
+          operator of a micro unmanned aircraft systems, including potential suspension or revocation of a micro
+          unmanned aircraft pilot certificate held by its operator.
+     d) Any other FAA pilot certificate that has as a requisite a written airman knowledge test may, if said
+          certificate is current and in good standing, serve as a micro unmanned aircraft pilot certificate under
+          subsection (b) even if the operator is unable to provide evidence of his or her written test results. Such
+          pilot certificates will constitute the operator's micro unmanned aircraft pilot certificate for purposes of 49
+          USC § 44711 and part 13.
+     e) No person shall operate a micro unmanned aircraft for hire or for a commercial purpose (other than
+          research and development activates relating to the micro unmanned aircraft or its related systems and
+          components), without first undertaking and documenting the following steps to gain experience and
+          proficiency with the micro unmanned aircraft model:
+                1) Review of the micro unmanned aircraft manufacturer's operating manuals and any instructional
+                     videos provided by the manufacturer.
+                2) At least 5 hours of total operating flight time; and
+                3) At least 25 takeoff-and-landing sequences.
+     f) All operations under this part (including training) shall be documented and recorded in a permanent place
+          such as a log book. For the purposes of meeting the minimum requirements of this subsection, each
+          person must record the following information for each micro unmanned aircraft flight:
+                1) Date and time
+                2) Micro unmanned aircraft type, make, model
+                3) Route and boundaries of flight
+                4) Total duration of flight
+                5) Weather conditions of flight
+                6) Number of landings
+                7) Total flight time and/or lesson time
+                8) Remarks or other pertinent details
+
+§107.21 Alcohol or drugs.
+     a) No person may operate a micro unmanned aircraft --
+                1) Within 8 hours after the consumption of any alcoholic beverage;
+                2) While under the influence of alcohol;
+                3) While using any drug that affects the person's faculties in any way contrary to safety; or
+                4) While having an alcohol concentration of 0.04 or greater in a blood or breath specimen. Alcohol
+                     concentration means grams of alcohol per deciliter of blood or grams of alcohol per 210 liters of
+                     breath.
+
+                                                                                                       11 | P a g e
+§107.23 Insurance.
+     a) No person shall operate a micro unmanned aircraft for hire or for a commercial purpose (other than for
+          research and development of the micro unmanned aircraft or its systems and components) unless he or
+          she has in effect liability insurance coverage that at a minimum meets or exceeds the minimum motor
+          vehicle insurance coverages for both property damage and bodily injury required in the state in which the
+          operation occurs, and that has been issued specifically to insure against risks of the operation of the micro
+          unmanned aircraft.
+     b) Insurance coverage to meet the requirements of this part shall be obtained from one or more of the
+          following:
+                1) An insurer licensed to issue aircraft accident liability policies in any State, Commonwealth, or
+                     Territory of the United States, or in the District of Columbia; or
+                2) Surplus line insurers named on a current list of such insurers issued and approved by the
+                     insurance regulatory authority of any State, Commonwealth, or Territory of the United States or
+                     of the District of Columbia.
+     c) All person who have operated micro unmanned aircraft under this part must present their logbook, proof
+          of insurance, and evidence of submission to the FAA Administrator their written test results or their valid
+          pilot certificate, or any other record required by this part for inspection upon a reasonable request by-
+                a. The Administrator;
+                b. An authorized representative of the National Transportation Safety Board; or
+                c. Any Federal, State, or local law enforcement officer.
+
+§107.25 Accident reporting.
+In connection with any operation under this part, any incident involving $1,000 or more in third-party property
+damage, and any accident involving any bodily injury, must be reported to the nearest FAA Flight Standards District
+Office within three business days. Accidents involving a serious injury or death shall be reported to the NTSB
+pursuant to 49 CFR § 830.
+
+                                                                                                       12 | P a g e
+

@@ -1,0 +1,750 @@
+August 6, 2015
+
+                                                           Exemption No. 12372
+                                                           Regulatory Docket No. FAA­2015­1955
+
+Mr. Gregory Harris
+Attorney
+Caterpillar Inc.
+100 Northeast Adams Street
+Peoria, IL 61629
+
+Dear Mr. Harris:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter dated May 14, 2015, you petitioned the Federal Aviation Administration (FAA) on
+behalf of Caterpillar Inc. (hereinafter petitioner or operator) for an exemption. The petitioner
+requested to operate an unmanned aircraft system (UAS) to conduct aerial surveying,
+videography, cinematography, filmmaking, and inspections.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner are the Trimble UX5, DJI Inspire 1, DJI Phantom, DJI
+Phantom 2, and Parrot Bebop1.
+
+1 The petitioner also proposed to operate the Hoverfly Scripta. The FAA must conduct an assessment on this
+aircraft, which also includes a finding that the proposed UAS meet the conditions in Section 333 of Public Law
+112-95. When the FAA completes its review, we will proceed accordingly and no further action will be required
+by the petitioner.
+                                                                                                                 2
+
+In accordance with the statutory criteria provided in Section 333 of Public Law 112-95 in
+reference to 49 U.S.C. § 44704, and in consideration of the size, weight, speed, and limited
+operating area associated with the aircraft and its operation, the Secretary of Transportation
+has determined that this aircraft meets the conditions of Section 333. Therefore, the FAA
+finds that relief from 14 CFR part 21, Certification procedures for products and parts,
+Subpart H--Airworthiness Certificates, and any associated noise certification and testing
+requirements of part 36, is not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection2. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+ They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+ The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+ A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, Caterpillar Inc. is granted an exemption from 14 CFR
+§§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a), 91.7(a), 91.119(c), 91.121,
+91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a) and (b), to the
+extent necessary to allow the petitioner to operate a UAS to perform aerial data collection.
+This exemption is subject to the conditions and limitations listed below.
+
+2 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                             3
+
+Conditions and Limitations
+
+In this grant of exemption, Caterpillar Inc. is hereafter referred to as the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+1. Operations authorized by this grant of exemption are limited to the Trimble UX5, DJI
+    Inspire 1, DJI Phantom, DJI Phantom 2, and Parrot Bebop when weighing less than
+    55 pounds including payload. Proposed operations of any other aircraft will require a
+    new petition or a petition to amend this exemption.
+
+2. Operations for the purpose of closed-set motion picture and television filming are
+    not permitted.
+
+3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+    exemption holder may use either groundspeed or calibrated airspeed to determine
+    compliance with the 87 knot speed restriction. In no case will the UA be operated at
+    airspeeds greater than the maximum UA operating airspeed recommended by the
+    aircraft manufacturer.
+
+4. The UA must be operated at an altitude of no more than 400 feet above ground level
+    (AGL). Altitude must be reported in feet AGL.
+
+5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+
+    This requires the PIC to be able to use human vision unaided by any device other than
+    corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+    U.S. driver's license.
+
+6. All operations must utilize a visual observer (VO). The UA must be operated within
+    the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+    to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+    capability. The VO and PIC must be able to communicate verbally at all times;
+    electronic messaging or texting is not permitted during flight operations. The PIC
+    must be designated before the flight and cannot transfer his or her designation for the
+    duration of the flight. The PIC must ensure that the VO can perform the duties
+    required of the VO.
+
+7. This exemption and all documents needed to operate the UAS and conduct its
+    operations in accordance with the conditions and limitations stated in this grant of
+    exemption, are hereinafter referred to as the operating documents. The operating
+    documents must be accessible during UAS operations and made available to the
+    Administrator upon request. If a discrepancy exists between the conditions and
+    limitations in this exemption and the procedures outlined in the operating documents,
+                                                                                                            4
+
+    the conditions and limitations herein take precedence and must be followed.
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+                                                                                                            5
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+    exemption holder may apply for a new or amended COA if it intends to conduct
+    operations that cannot be conducted under the terms of the attached COA.
+                                                                                                            6
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+    be as large as practicable.
+
+23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+    any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+    PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+    These documents must be made available to the Administrator or any law enforcement
+    official upon request.
+
+24. The UA must remain clear and give way to all manned aviation operations and
+    activities at all times.
+
+25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless:
+      a. Barriers or structures are present that sufficiently protect nonparticipating persons
+          from the UA and/or debris in the event of an accident. The operator must ensure
+          that nonparticipating persons remain under such protection. If a situation arises
+          where nonparticipating persons leave such protection and are within 500 feet of
+          the UA, flight operations must cease immediately in a manner ensuring the safety
+          of nonparticipating persons; and
+      b. The owner/controller of any vessels, vehicles or structures has granted permission
+          for operating closer to those objects and the PIC has made a safety assessment of
+          the risk of operating closer to those objects and determined that it does not
+          present an undue hazard.
+
+    The PIC, VO, operator trainees or essential persons are not considered
+    nonparticipating persons under this exemption.
+
+27. All operations shall be conducted over private or controlled-access property with
+    permission from the property owner/controller or authorized representative.
+    Permission from property owner/controller or authorized representative will be
+    obtained for each flight to be conducted.
+
+28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+    boundaries of the operational area as defined by the applicable COA must be reported
+    to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+    reported to the National Transportation Safety Board (NTSB) per instructions
+    contained on the NTSB Web site: www.ntsb.gov.
+                                                                                                                 7
+
+ If this exemption permits operations for the purpose of closed-set motion picture and
+ television filming and production, the following additional conditions and limitations apply.
+
+    29. The operator must have a motion picture and television operations manual (MPTOM)
+         as documented in this grant of exemption.
+
+    30. At least 3 days before aerial filming, the operator of the UAS affected by this
+         exemption must submit a written Plan of Activities to the local Flight Standards
+         District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+         notification may be waived with the concurrence of the FSDO. The plan of activities
+         must include at least the following:
+           a. Dates and times for all flights;
+           b. Name and phone number of the operator for the UAS aerial filming conducted
+              under this grant of exemption;
+           c. Name and phone number of the person responsible for the on-scene operation of
+              the UAS;
+           d. Make, model, and serial or N-Number of UAS to be used;
+           e. Name and certificate number of UAS PICs involved in the aerial filming;
+           f. A statement that the operator has obtained permission from property owners
+              and/or local officials to conduct the filming production event; the list of those
+              who gave permission must be made available to the inspector upon request;
+           g. Signature of exemption holder or representative; and
+           h. A description of the flight activity, including maps or diagrams of any area, city,
+              town, county, and/or state over which filming will be conducted and the altitudes
+              essential to accomplish the operation.
+
+    31. Flight operations may be conducted closer than 500 feet from participating persons
+         consenting to be involved and necessary for the filming production, as specified in the
+         exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                      8
+
+This exemption terminates on August 31, 2017, unless sooner superseded or rescinded.
+
+Sincerely,
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+VIA FDMS
+
+May 14, 2015
+
+U.S. Department of Transportation
+Federal Aviation Administration
+Docket Management System
+1200 New Jersey Ave, SE
+Washington, DC 20590
+
+Re: Caterpillar Inc. - Petition for Exemption
+
+Dear Sir or Madam:
+
+         Pursuant to Section 333 of the FAA Modernization and Reform Act of 2012 ("FMRA")1 and 14
+C.F.R. Part 11, Caterpillar Inc. ("Caterpillar") seeks an exemption from the Federal Aviation Regulations
+("FARs") listed below to permit commercial operation of small Unmanned Aircraft Systems ("UAS") to
+perform various tasks including:
+
+     aerial surveying;
+     filmmaking, cinematography and videography;
+     construction and mine site inspection and monitoring;
+     inspection and monitoring of large equipment;
+     utility-power generation system inspection; and
+     public entity support operations.
+
+         The five (5) UAS proposed for use by Caterpillar are the Trimble UX5; DJI Inspire I; DJI Phantom;
+DJI Phantom 2; Parrot Bebop; and Hoverfly Scripta. Caterpillar's UAS operations will be conducted under
+the safeguards described in this petition and as may be further established by FAA.2
+
+1 Pub. L. No. 112-95, § 333, 126 Stat. 76.
+2 In support of this petition, Caterpillar is submitting confidentially and under separate cover its Caterpillar
+UAS Operations and Maintenance Manual (the "Manual"), together with the following UAS-specific user guides
+and manuals: (1) Trimble UX5 User Guide (Attachment 1); (2) DJI Inspire I User Manual (Attachment 2); (3&4) DJI
+Phantom & Phantom2 User Manuals (Attachments 3&4, respectively); (5) Parrot Bebop User Manual (Attachment
+5); and Hoverfly Scripta User Manual (Attachment 6). Caterpillar requests confidential treatment of the Manual
+under 14 C.F.R. § 11.35(b), as it contains confidential commercial and proprietary information that Caterpillar has
+not and will not share with others. Such documents are not publicly available and are protected from release
+under the Freedom of Information Act, 5 U.S.C. § 552 et seq.
+
+                                                               1
+         The agency has already issued over 320 Section 333 exemptions to various commercial
+enterprises for UAS applications ranging from aerial photography and precision agriculture to
+construction and surface mining (the "Section 333 Grants").3 Indeed, FAA has granted at least 34
+exemptions to companies specifically for construction, mining and/or utility inspections, and many
+others for aerial surveying, filmmaking, cinematography and videography more generally.4 In issuing the
+Section 333 Grants, FAA found that "the enhanced safety achieved using an unmanned aircraft (UA)
+with the specifications described by the petitioner . . . gives the FAA good cause to find that the UAS
+operation enabled by this exemption is in the public interest."5 The same public interest and safety
+justifications apply to Caterpillar's petition, and should enable FAA to grant Caterpillar's petition on an
+expedited basis.
+
+         As described more fully below, the requested exemption would permit Caterpillar to operate
+the specified UAS under controlled conditions in low-altitude airspace that is: (1) access limited; (2)
+predetermined; and (3) located a sufficient distance from congested areas and airports, and would
+provide safety enhancements to operations using conventional aircraft. Caterpillar's UAS are small,
+weighing 55 lbs. or less fully loaded, and under normal conditions, they will operate at speeds of 50
+knots or less, and under no circumstances will they be operated at speeds exceeding 87 knots.
+
+    I. Petitioner
+
+         Caterpillar is the world's leading manufacturer of construction, mining, and forestry machinery,
+including diesel and natural gas engines, industrial turbines and diesel-electric locomotives.
+
+         Caterpillar now seeks to expand on this success by utilizing UAS in our operations. This new
+capability will, among other things, allow Caterpillar to supplement or supplant human workers in
+performing inspections, surveying and monitoring in hazardous mining, blasting and construction areas
+and also substitute UAS for aerial survey and photography services, which are currently conducted at
+significant expense with fixed or rotary winged manned aircraft. The UAS we propose to fly in these
+applications weigh under 55 lbs., and carry no combustible material or people on board. This presents a
+significant increase in safety to flight crew, the national airspace system ("NAS"), and people on the
+ground over manned fixed and rotary winged aircraft. Performing these hazardous tasks with UAS will
+limit human involvement only to those situations where physical work is required. As an industry leader
+in safety, Caterpillar is committed to any measure that will put fewer lives in danger, and integrating
+UAS into Caterpillar's operations will do just that.
+
+3 See FAA, Authorizations Granted Via Section 333 Exemptions (rev. May 12, 2015),
+https://www.faa.gov/uas/legislative_programs/section_333/333_authorizations/; see also, e.g., Exemption No.
+11109 in Docket No. FAA-2014-0507 (Clayco, Inc.); Exemption No. 11286 in Docket No. FAA-2014-0960 (Balfour
+Beatty Construction Services US); and Exemption No. 11227 in Docket FAA-2014-0678 (EnviroMINE, Inc.).
+4 See id.
+5 See, e.g., Exemption No. 11227 at 6.
+
+                                                               2
+         All communications regarding Caterpillar's petition should be directed to:
+
+         Caterpillar Inc.
+         100 NE Adams Street
+         Peoria, IL 61629
+         Attn : Gregory Harris
+         Ph: 309-494-7622
+         Email: harris_gregory@cat.com
+
+    II. Section 333
+
+         Caterpillar's petition is consistent with Congress's goal set forth in Section 333 of the FMRA,
+which directs the Secretary of Transportation to consider whether certain UAS may operate safely in the
+NAS before completion of the rulemakings required under Section 332 of that legislation. In making this
+determination, the Secretary is required to determine which types of UAS do not create a hazard to
+users of the NAS or the public or pose a threat to national security in light of the following: (1) the UAS's
+size, weight, speed, and operational capability; (2) operation of the UAS in close proximity to airports
+and populated areas; and (3) operation of the UAS within visual line of sight of the operator.6 To
+implement Section 333, FAA has the authority to issue exemptions from its safety regulations and
+minimum standards when the Administrator decides a requested exemption is in the public interest.7
+
+         Caterpillar's proposed UAS operations meet the requirements of, and qualify for expedited
+approval under, Section 333. Caterpillar's UAS weigh 55 lbs. or less, will operate at less than 400 feet
+above ground level (AGL) within visual line of sight (VLOS) at speeds of no more than 50 knots.
+Operations conducted under these safeguards will provide at least an equivalent level of safety
+compared to the current regulatory structure. They will also provide an environmental impact benefit
+over manned aircraft because Caterpillar's UAS will draw their power from rechargeable batteries, as
+opposed to the hundreds of pounds of fossil fuels burned in the operation of manned aircraft that are
+thousands of times heavier.
+
+         Moreover, Caterpillar's operations will not "create a hazard to users of the national airspace
+system or the public or pose a threat to national security" due to the small size of the UAS and the
+restricted areas in which they will operate.8
+
+6 FMRA § 333(a).
+7 See 49 U.S.C. § 106(f) and 49 U.S.C. § 44701(f).
+8 See, e.g., Exemption No. 11062 in Docket No. FAA-2014-0352 (Astraeus Aerial), at 8 (citing FMRA §
+333(b)).
+
+                                                               3
+    III. Regulations from Which an Exemption is Requested
+
+         Caterpillar requests an exemption from the following regulations to the extent necessary to
+conduct the operations described in this petition:
+
+               14 C.F.R. §§ 61.23(a) and (c)
+               14 C.F.R. §§ 61.101(e)(4) and (5)
+               14 C.F.R. § 61.113(a)
+               14 C.F.R. § 61.315(a)
+               14 C.F.R. § 91.7(a)
+               14 C.F.R. § 91.119(c)
+               14 C.F.R. § 91.121
+               14 C.F.R. § 91.151(a)
+               14 C.F.R. § 91.405(a)
+               14 C.F.R. § 91.407(a)(1)
+               14 C.F.R. §§ 91.409(a)(1) and (2)
+               14 C.F.R. § 91.417(a) and (b)
+
+         The following subsections describe Caterpillar's request for an exemption from each of these
+regulations and demonstrate how Caterpillar's operations will provide for at least an equivalent level of
+safety compared to the current regulatory structure that applies to manned aircraft.
+
+              A. 14 C.F.R. §§ 61.23(a) and (c) ­ Medical certificates: Requirement and duration
+
+         Sections 61.23(a) and (c) generally require pilots of manned aircraft to hold a FAA medical
+certificate in order to exercise pilot privileges. As of March 24, 2015, however, FAA determined as
+matter of policy that operators holding a valid driver's license in lieu of a third class medical certificate
+may conduct commercial UAS operations under a Section 333 grant.9 Accordingly, Caterpillar requests
+an exemption from these provisions to the extent necessary to give Caterpillar the same relief from
+medical certificate requirements that FAA has afforded to over 320 other Section 333 operators via the
+Section 333 Grants.10
+
+              B. 14 C.F.R. §§ 61.101(e)(4) and (5) ­ Recreational pilot privileges and limitations
+
+         Sections 61.101(e)(4) and (5) prohibit a recreational pilot from acting as pilot in command of an
+aircraft for compensation or hire or in furtherance of a business. Since Caterpillar will be conducting its
+UAS operations in furtherance of its construction, mining and other services, it requests an exemption
+
+9 See, e.g., Exemption No. 11227 in Docket No. FAA-2014-0678 (EnviroMINE, Inc.), at 4, 8; see also FAA, FAA
+Summary Grants Speed UAS Exemptions (Apr. 9, 2015), https://www.faa.gov/news/updates/?newsId=82485.
+10 See supra note 3.
+
+                                                               4
+from these provisions to the extent necessary. Caterpillar notes that FAA has provided such relief to
+over 320 other Section 333 operators.11
+
+              C. 14 C.F.R. § 61.113(a) ­ Private Pilot Privileges and Limitations: Pilot in Command
+
+         Section 61.113(a) limits private pilots to conducting non-commercial operations. FAA has
+already determined, however, that a private pilot certificate is sufficient to conduct commercial UAS
+flights; in fact, the agency has revised its Section 333 approval framework to allow UAS operations to be
+conducted by a pilot with only a recreational or sport pilot certificate.12
+
+         Consistent with the operating conditions and limitations specified in the Section 333 Grants,
+Caterpillar will utilize only pilots holding a FAA airline transport, commercial, private, recreational, or
+sport pilot certificate and at least a valid U.S. driver's license. The UAS will be operated within VLOS of
+the PIC at all times, and because the area of operation will be controlled and restricted in accordance
+with the safeguards contained in the Manual and the FAA-approved conditions and limitations described
+in Section VI, infra, permitting the UAS operations as requested would provide for the level of safety
+otherwise achieved through Section 61.113(a). Accordingly, grant of the requested exemption, subject
+to the conditions and limitations specified herein, would not adversely affect the safety of the NAS.
+
+              D. 14 C.F.R. § 61.315(a) ­ Sport pilot certificate privileges and limits
+
+         Section 61.315(a) authorizes a sport pilot certificate holder to act as pilot in command of a light-
+sport aircraft, subject to certain restrictions specified in Section 61.315(c), including a prohibition on
+doing so for compensation or hire or in furtherance of a business, among other restrictions. Since
+Caterpillar will be conducting its UAS operations in furtherance of its business purposes, it requests an
+exemption from this provision to the extent necessary. Caterpillar notes that FAA has provide the same
+relief to over 320 other Section 333 operators.13
+
+              E. 14 C.F.R. § 91.7(a) ­ Civil aircraft airworthiness
+
+         Section 91.7(a) prohibits any person from operating a civil aircraft unless it is in an airworthy
+condition. FAA has stated that no exemption is required for 14 C.F.R. § 91.7(a) to the extent that the
+airworthiness certificate requirements of Part 2114 are waived or inapplicable. Such airworthiness
+certificate requirements are inapplicable here, insofar as Caterpillar's UAS provides an equivalent level
+
+11 See supra note 3.
+12 See, e.g., Exemption No. 11422 in Docket No. FAA-2015-0154 (Soar Environmental Consulting, Inc.), at 4.
+13 See supra note 3.
+14 FAA has concluded that no exemption from Part 21, Subpart H (Airworthiness Certificates) is needed if the
+agency makes a finding under the FMRA that the UAS selected provides an equivalent level of safety when
+compared to aircraft normally used for the same application. These criteria are met here, and therefore no
+exemption is needed. See, e.g., Exemption No. 11062, Docket No. FAA-2014-0352 at 13-14, 22. But to the extent
+FAA determines that there are some characteristics of Caterpillar's UAS that fail to meet the "equivalent level of
+safety" requirement of the FMRA, an exemption is requested.
+
+                                                               5
+of safety when compared to manned aircraft, consistent with the relevant language of the FMRA and
+the precedent established by the Section 333 Grants.15
+
+              F. 14 C.F.R. § 91.119 ­ Minimum Safe Altitudes
+
+         Section 91.119 establishes safe altitudes for operation of civil aircraft.16 Specifically, Section
+91.119(c) provides that except when necessary for takeoff or landing, no person may operate an aircraft
+below an altitude of 500 feet above the surface except over open water or sparsely populated areas and
+that in such cases, the aircraft may not be operated closer than 500 feet to any person, vessel, vehicle or
+structure. As detailed in the Section 333 Grants, however, FAA has determined that adherence to
+certain safety measures is sufficient to warrant an exemption for UAS operations.17 Consistent with the
+relief provided to other UAS operators via the Section 333 Grants, Caterpillar requests an exemption to
+the extent necessary to operate below an altitude of 500 feet AGL and closer than 500 feet to any
+person, vessel or structure. An equivalent level of safety will be achieved given the size, weight and
+speed of Caterpillar's UAS, as well as the locations where it will be operated.
+
+              G. 14 C.F.R. § 91.121 ­ Altimeter Settings
+
+         Although Section 91.121 requires each person operating an aircraft to maintain cruising altitude
+by reference to an altimeter that is set "to the elevation of the departure airport or an appropriate
+altimeter setting available before departure" and Caterpillar's UAS will not be equipped with a typical
+barometric altimeter, FAA has already granted relief from this provision to other UAS operators flying at
+similarly low altitudes.18 Caterpillar will operate the UAS within VLOS at or below 400 feet AGL and
+provide altitude information to the PIC via a digitally encoded telemetric data feed that downlinks from
+the aircraft to a ground-based on-screen display. The altitude information will be generated by
+equipment installed on the UAS, and prior to each flight a zero altitude initiation point will be
+established and confirmed for accuracy by the PIC.
+
+              H. 14 C.F.R. § 91.151(a) ­ Fuel Requirements for Flight in VFR Conditions
+
+         Section 91.151(a) prohibits an individual from beginning "a flight in an airplane under VFR
+conditions unless (considering wind and forecast weather conditions) there is enough fuel to fly to the
+first point of intended landing, and, assuming normal cruising speed ­ (1) During the day, to fly after that
+for at least 30 minutes; or (2) At night, to fly after that for at least 45 minutes." But provided certain
+operational parameters are established, FAA has found that good cause exists for granting exemptions
+from this provision for operations in a multitude of contexts.19
+
+15 See, e.g., id.
+16 FAA determined in the Section 333 Grants that relief from other provisions of Section 91.119 are either
+unwarranted or inapplicable. See Exemption No. 11062 at 20.
+17 See, e.g., supra note 3.
+18 See id.
+19 See supra note 3.
+
+                                                               6
+         Caterpillar will be operating a less than 55 pound UAS in tightly controlled environments at
+speeds below 50 knots and within VLOS. Combined with the fact that Caterpillar will not conduct
+operations unless the UAS has enough available power to complete the intended mission and return,
+relief from Section 91.151(a) is warranted, in accordance with the conditions and limitations specified in
+Section VI, infra.
+
+              I. 14 C.F.R. §§ 91.405(a); 91.407(a)(1); 91.409(a)(1) and (2); and 91.417(a) and (b):
+                   Maintenance Inspections
+
+         These FAR provisions require that an aircraft operator or owner "shall have that aircraft
+inspected as prescribed in subpart E of this part and shall between required inspections, except as
+provided in paragraph (c) of this section, have discrepancies repaired as prescribed in part 43 of this
+chapter. . .," and that other persons shall inspect or maintain the aircraft in compliance with Part 43.
+Through the Section 333 Grants, however, FAA has established safety measures for certain UAS
+operations sufficient to warrant an exemption from these provisions.20
+
+         Caterpillar will strictly adhere to the maintenance and inspection requirements set forth in its
+Manual, which is consistent with applicable conditions and limitations described in Section VI, infra.
+These requirements include the development and documentation of maintenance, overhaul,
+replacement and inspection requirements; procedures to document and maintain maintenance records
+with regard to Caterpillar's UAS; and UAS technician qualification criteria.
+
+    IV. Characteristics of Caterpillar's UAS
+
+         All of the UAS which Caterpillar will operate under this proposed exemption are small, weighing
+less than 55 lbs. maximum gross weight, and they will operate at 50 knots or less. They all feature
+automatic return to home or flight termination procedures in the event of a loss of controller signal or
+diminished battery output or capacity.
+
+    V. Unmanned Aircraft PIC
+
+         As described above, the PIC will be a FAA licensed airman with either an airline transport,
+commercial, private, recreational, or sport pilot certificate, that holds a current FAA airman medical
+certificate or a valid U.S. driver's license. The PIC will also meet the flight review requirements specified
+in Section 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+
+    VI. Operation of the Unmanned Aircraft
+
+         Caterpillar will conduct all flights under the requested exemption subject to the following
+conditions and limitations, and as further detailed in the Manual:
+
+20 See id.
+
+            7
+    A. The UAS will weigh less than 55 pounds, including payload.
+
+    B. The UAS will not be flown at a ground speed exceeding 50 knots.
+
+    C. Flights will be operated at an altitude of no more than 400 feet AGL, as indicated by the
+         procedures specified in the Manual. All altitudes reported to ATC will be in feet AGL.
+
+    D. The UAS will be operated within VLOS of the PIC and/or VO at all times.
+
+    E. When operations utilize a VO, the PIC will always maintain VLOS capability and the VO and PIC
+         will be able to communicate verbally at all times.
+
+    F. Prior to each operation, the PIC will inspect the UAS to ensure it is in a condition for safe flight.
+         If the inspection reveals a condition that affects the safe operation of the UAS, it will not be
+         operated until the necessary maintenance has been performed and the UAS is found to be in a
+         condition for safe flight. The GCS will also be included in the preflight inspection. All
+         maintenance and alterations will be documented in the UAS records.
+
+    G. Caterpillar will follow the manufacturer's UAS aircraft/component, maintenance, overhaul,
+         replacement, inspection, and life limit requirements.
+
+    H. The PIC will possess a current FAA airman medical certificate or a valid U.S. driver's license. The
+         PIC will be trained in accordance with the Manual, and will undergo training to ensure that he or
+         she can follow these procedures.
+
+    I. Prior to conducting commercial operations under this exemption the PIC will assess the
+         intended operating area, including weather and any potential obstacles, and determine
+         procedures in case of emergency.
+
+    J. The UAS will not be operated within 500 feet of any nonparticipating persons, vessels, vehicles,
+         or structures unless the PIC has made a safety assessment of the risk of operating closer to
+         those objects and determined that it does not present an undue hazard.
+
+    K. If the UAS loses communications or loses its GPS signal, the PIC will institute emergency
+         procedures in accordance with the Manual.
+
+    L. The UAS will not be operated unless it has enough available power to conduct the intended
+         operation and return, or with the reserve power recommended by the manufacturer, whichever
+         is greater.
+
+    M. Caterpillar will obtain a Certificate of Waiver or Authorization (COA) prior to conducting any
+         operations above 200 feet AGL under the exemption.21
+
+21 Pursuant to its new "blanket" COA, FAA will automatically grant a COA for flights at or below 200 feet to
+any UAS operator with a Section 333 exemption for aircraft that weigh less than 55 pounds, operate during
+daytime VFR conditions, operate within VLOS, and stay certain prescribed distances away from airports or
+heliports. See FAA, FAA Streamlines UAS COAs for Section 333 (rev. Mar. 24, 2015),
+https://www.faa.gov/news/updates/?newsId=82245. This blanket COA allows flights anywhere in the country
+
+                                                               8
+    N. All UAS operated in accordance with this exemption will be identified by serial number,
+         registered in accordance with 14 C.F.R. Part 47, and have identification (N-Number) markings in
+         accordance with 14 C.F.R. Part 45, Subpart C. Markings will be as large as practicable.
+
+    O. Caterpillar has developed procedures to document and maintain a record of the UAS
+         maintenance, preventative maintenance, alterations, status of replacement/overhaul
+         component parts, and the total time in service of the UAS, as reflected in the Manual.
+
+    P. Each UAS operated under this exemption will comply with all manufacturer Safety Bulletins.
+
+    Q. The preflight inspection section described in the Manual will account for all discrepancies (i.e.,
+         inoperable components, items, or equipment).
+
+    R. Caterpillar's use of radio frequency spectrum for operation and control of the UAS will comply
+         with the Federal Communications Commission (FCC) or other appropriate agency requirements.
+
+    S. The documents required under Sections 91.9 and 91.203 will be available to the PIC at the GCS
+         of the UAS any time the aircraft is operating. These documents will be made available to FAA or
+         any law enforcement official upon request.
+
+    T. The UAS will remain clear and yield the right of way to all manned operations and activities at all
+         times.
+
+    U. UAS operations will not be conducted at night, as defined in Section 1.1. All operations will be
+         conducted under visual meteorological conditions (VMC).
+
+    V. The UAS will not be operated from any moving device or vehicle.
+
+    W. The UAS will not be operated less than 500 feet below or less than 2,000 feet horizontally from a
+         cloud or when visibility is less than three statute miles from the PIC.
+
+    X. The UAS will not operate within five nautical miles of an airport reference point (ARP) as
+         denoted in the current FAA Airport/Facility Directory (AFD) or for airports not denoted with an
+         ARP, the center of the airport symbol as denoted on the current FAA-published aeronautical
+         chart, unless a letter of agreement with that airport's management is obtained or otherwise
+         permitted by a COA issued to Caterpillar. The letter of agreement with the airport management
+         will be made available to FAA and any law enforcement official upon request.
+
+    Y. Any accident, or flight operation that transgresses the lateral or vertical boundaries of the
+         operational area defined by the applicable COA will be reported to FAA's UAS Integration Office
+         (AFS-80) within 24 hours and the National Transportation Safety Board (NTSB), as applicable.
+
+except restricted airspace and certain other prohibited areas, and FAA automatically issues it at the time the
+exemption is approved. Id. To the extent Caterpillar will be operating above 200 ft. AGL at any of its UAS sites, it
+will apply for a COA authorizing it to do so.
+
+                                                               9
+    VII. Public Interest
+
+         Authorizing Caterpillar to conduct commercial operations using UAS under the conditions
+specified herein would bring immediate and significant safety improvement to the mining, construction,
+energy and other industries. Caterpillar's UAS would be used to conduct inspections and perform other
+key functions in a manner that provides at least an equivalent level of safety compared to the current
+regulatory structure that applies to manned aircraft.22
+
+         Conventional construction and mining inspections require human beings to visually observe and
+analyze the physical status of various equipment and surrounding conditions. By replacing these perilous
+tasks with UAS flights, Caterpillar can identify and analyze any equipment or areas that require attention
+without subjecting a human to the attendant risks.
+
+    VIII. Conclusion
+
+         Given the small size of Caterpillar's UAS and the restricted environments where they will
+operate, Caterpillar falls squarely within the type of operations that Congress intended be authorized
+pursuant to Section 333. Caterpillar's proposed UAS operations are similar in all material respects to the
+operations authorized under the Section 333 Grants, including several covering nearly identical types of
+operations ­ and should be approved on an expedited basis. Based on the clear direction from Congress,
+the authority contained in the FMRA; the well-established equivalent level of safety present in
+Caterpillar's proposed operations; the significant public benefits associated with using UAS to perform
+the proposed operations; and FAA's recent determinations in the Section 333 Grants, grant of
+Caterpillar's petition is in the public interest. Accordingly, Caterpillar respectfully requests that FAA
+grant it an exemption without delay.
+
+Very truly yours,
+
+Gregory N. Harris
+Caterpillar Inc.
+Attorney
+Law & Public Policy/Legal Services Division
+100 NE Adams Street
+Peoria, IL 61629
+
+Enclosures
+
+22 See Exemption No. 11062 at 22.
+
+                                   10
+

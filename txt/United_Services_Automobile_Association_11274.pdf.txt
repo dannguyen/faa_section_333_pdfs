@@ -1,0 +1,799 @@
+April 2, 2015
+
+                                                          Exemption No. 11274
+                                                          Regulatory Docket No. FAA-2014-0796
+
+Mr. Michael Burns
+Assistant Vice President
+USAA
+9800 Fredericksburg Road
+San Antonio, TX 78288
+
+Mr. Greg Cirillo
+Counsel for USAA
+Wiley Rein LLP
+7925 Jones Branch Drive, Suite 6200
+McLean, VA 22102
+
+Dear Mr. Burns and Mr. Cirillo:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+The Basis for Our Decision
+
+By letter dated October 2, 20141, you petitioned the Federal Aviation Administration (FAA)
+on behalf of United Services Automobile Association (hereinafter petitioner or operator) for
+an exemption. The exemption would allow the petitioner to operate an unmanned aircraft
+system (UAS) to conduct research and development.
+
+1 By letter dated December 19, 2014, and posted to the public docket, USAA responded to the FAA's request for
+information.
+                                                                                                                 2
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+Discussion of Public Comments:
+
+A summary of the petition was published in the Federal Register on October 28, 2014,
+(79 FR 64241). Three comments were received. The Small UAV Coalition (Coalition)
+commented in support of the petition. The Air Line Pilots Association, International (ALPA)
+and the National Agricultural Aviation Association (NAAA) opposed it.
+
+In support of the petition, the Coalition stated the petitioner has proposed to abide by stronger
+safety measures than hobby and modeler groups operating similar aircraft. The Coalition
+stated that it does not believe that heightened safety measures should be required for the
+petitioner simply because of the commercial nature of its operations. The Coalition urged the
+FAA to adopt an evaluation framework for UAS operations under Section 333 of
+Public Law 112­95 that weighs the relative safety issues and risks of UAS by class and
+operational circumstances, rather than adopting artificial distinctions among unmanned aerial
+vehicles based on commercial and noncommercial operations. The petitioner's UAS pose
+considerably less safety risk than larger UAS. The Coalition asserted that because UAS
+operations like the petitioner's pose minimal risk to safety, they should be subject to minimal
+and appropriate regulations.
+
+The Coalition noted the FAA is to consider the seven factors2 in Section 333 as a minimum.
+The Coalition stated the petition shows the FAA should consider factors other than those
+specified in Section 333, such as location, altitude of its UAS, restricted operating areas, and
+the Certificates of Authorization the HawkEye UAV has received from the FAA. The
+Coalition maintained that the petitioner's proposed operations satisfy the seven factors in
+Section 333 and include several additional mitigating factors to ensure the safety and security
+of the proposed UAS operations. The Coalition emphasized the FAA must evaluate each
+factor within the context of the petitioner's proposed UAS operations.
+
+The Coalition also commented that the FAA should grant relief from the requirement to hold
+an airman certificate. The Coalition further stated that if an airman certificate is required then,
+at a minimum the, FAA should provide an exception from the training and testing
+requirements in part 61 in favor of requirements pertinent to the aircraft and operation
+proposed. The Coalition also asserted that in section 333 Congress intended for the FAA to
+consider national security with respect to the operation as opposed to addressing it through
+pilot certification.
+
+2 Section 333(b) of P.L. 112-95 states, in part: "In making the determination under subsection (a), the Secretary
+shall determine, at a minimum-- (1) which types of unmanned aircraft systems, if any, as a result of their size,
+weight, speed, operational capability, proximity to airports and populated areas, and operation within visual line
+of sight do not create a hazard to users of the national airspace system or the public or pose a threat to
+national security; ..."
+                                                                                                                 3
+
+The FAA notes that, as discussed in the grant of exemption to Trimble Navigation Ltd.
+(Exemption No. 11110), neither section 333, nor the FAA's exemption authority3 allows the
+FAA to exempt pilots from the statutory requirement to hold an airman certificate as
+prescribed in 49 USC § 44711.
+
+The Coalition commented that a visual observer (VO) should not be required for all small
+UAS operations. The Coalition further asserted that the presence of one or more VOs may
+allow the UAS to be operated beyond visual line of sight (VLOS) of the pilot in command
+(PIC) and that the petitioner's proposal to operate the unmanned aircraft (UA) within VLOS
+of the PIC and/or VO should be permitted.
+
+The FAA notes that one of the determinations for operations under section 333 is operation
+within visual line of sight. The PIC must maintain VLOS while operating the UA. The FAA
+finds that a VO complements the PIC's capability to see and avoid other aircraft, including
+when the PIC may be momentarily attending to other flying tasks. The VO provides an
+additional level of operational safety.
+
+ALPA expressed concern regarding several aspects of the petition. ALPA stated "there must
+be means both to ensure that the sUAS remains within the defined airspace and to ensure that
+the hazard of other aircraft intruding on the operation is mitigated."
+
+The FAA believes the limitations under which the petitioner will operate (i.e. VLOS and at or
+below 400 feet above ground level (AGL)) are sufficient mitigations to this risk so that the
+operations will not adversely affect safety.
+
+ALPA noted the petition does not detail how the pilot and observer will be able to
+communicate. ALPA stated the pilot and observer should be able to maintain a visual
+observation of the aircraft and area of operation when using voice communication. NAAA
+stated UAS observers must be present and able to communicate with the operator from the
+most minimal distance possible. The FAA has inserted a condition regarding PIC and visual
+observer communications.
+
+ALPA asserted the UAS's lithium polymer batteries have numerous associated fire and
+explosion hazards as outlined in DOT/FAA/AR-09/55, "Flammability Assessment of
+Lithium-Ion and Lithium-Ion Polymer Battery Cell Designed for Aircraft Power Usage
+(January 2010)," and that the safe carriage of the batteries and the mitigations in place for
+known risks should be addressed. The referenced study was primarily conducted to determine
+how certain battery cells react in a fire situation aboard manned airplanes. Given the size of
+the battery and the operating conditions of the UAS, the FAA concludes that the use of a
+lithium polymer battery will not pose an undue safety risk for the proposed operations.
+
+3 49 USC § 44701(f)
+                                                                                                                 4
+
+ALPA commented that command and control (C2) link failures are one of the most common
+failures on a UAS, and that lost link mitigations should require safe modes to prevent fly-
+aways or other scenarios. The FAA has inserted conditions and limitations in this exemption
+to mitigate the risk associated with such failures.
+
+Regarding the petitioner's request for exemption from part 21, § 91.7, and § 91.203, ALPA
+stated the UAS should be certified and operate to the same level of safety as other
+commercially operated aircraft in the National Airspace System (NAS). ALPA also stated
+they oppose the attempt to avoid certifying the airworthiness of the sUAS.
+
+ALPA also noted that the petitioner's proposed operations are for "compensation or hire," and
+therefore contends the pilot must hold at least a current FAA commercial pilot certificate with
+an appropriate category and class rating for the type of aircraft being flown, as well as specific
+and adequate training on the UAS make and model intended to be used. Similarly, ALPA
+asserted a current second-class airman medical certificate should be required. NAAA also
+commented on pilot qualification, stating--
+
+       Just as manned aircraft pilots are required to undergo a rigorous training curriculum
+        and show that they are fit to operate a commercial aircraft, so too must UAS operators.
+        Holding a commercial certificate holds UAS operators to similar high standards as
+        commercial aircraft operators and ensures they are aware of their responsibilities as
+        commercial operators within the NAS. Medical requirements ensure they have the
+        necessary visual and mental acuity to operate a commercial aircraft repeatedly over a
+        sustained period of time.
+
+The FAA has reviewed the knowledge and training requirements of sport, recreational, private
+and commercial certificates and concluded that a UAS PIC holding a minimum of a sport pilot
+certificate, and operating under this exemption, would not adversely affect operations in the
+NAS or present a hazard to persons or property on the ground. Additional discussion of the
+FAA's review is found in the FAA's Analysis section of this exemption.
+
+Although the petitioner did not request an exemption from § 91.113, ALPA noted the
+petitioner must specify a means to meet see and avoid requirements in § 91.113 given the
+absence of an onboard pilot. The FAA notes that all flights must be operated within VLOS of
+the PIC and VO.
+
+ALPA mentioned the aircraft will not have a barometric altimeter as required by
+14 CFR § 91.121. ALPA stated that processes or mitigations must be in place to ensure the
+UA can accurately maintain altitude including engineering processes, software development
+and control, electronic hardware development and control, configuration management, and
+design assurance to ensure the aircraft and its control system(s) operate to the same level of
+safety as other aircraft operated commercially in the National Airspace System (NAS).
+                                                                                                                 5
+
+Regarding the fuel requirements of § 91.151, ALPA argued that using batteries as the only
+source of an aircraft's power is a substantial shift from traditional methods of propulsion, and
+requires further research to determine best safety practices. This comment is addressed in
+detail below.
+
+ALPA stated that the petitioner did not specify requirements for flight instructors. A
+certificated flight instructor is authorized to provide the instruction required for the
+certificates or ratings or currency listed in 14 CFR § 61.193. A person instructing on how to
+operate the UAS under the petitioner's training program would not need to be a certificated
+flight instructor because the instruction is not being provided for a certificate or rating listed
+in § 61.193. We note that none of the UAS operations proposed by the petitioner require such
+flight instruction because § 61.31(l) allows for operation of the UAS by an airman who is
+current per 14 CFR § 61.56 without a category and class rating. Instruction provided toward
+obtaining the pilot certificate required by this exemption would need to be provided by a
+certificated flight instructor.
+
+Regarding the minimum safe altitude requirements of § 91.119, ALPA stated all aircraft in the
+NAS must operate to the same high level of safety. ALPA argued this includes the
+maintenance of a safe altitude for both airplanes and helicopters.
+
+Regarding §§ 91.405(a), 91.407(a)(1), 91.409(a)(2), and 91.417(a) and (b), ALPA opposed
+the petitioner's attempt to avoid compliance with established aircraft maintenance and
+recordkeeping requirements. ALPA states the UAS should comply with the same level of
+safety as other aircraft operated commercially in the NAS. The FAA finds that adherence to
+the petitioner's operating documents, as required by the conditions and limitations below, is
+sufficient to ensure that safety is not adversely affected.
+
+ALPA also expressed concern that the petitioner's waiver request is not for a single specific
+operation or location, but for all operations of the same general type. ALPA stated that this
+results in a considerable increase in the FAA's oversight tasks. The FAA notes ALPAs
+concern and in order to minimize potential impact to the NAS, the FAA requires each
+operator secure a Certificate of Authorization or COA which covers specific details of the
+petitioners operation. The FAA recognizes that UAS integration will generate new NAS
+access demand and will review and adjust accordingly.
+
+NAAA noted that its members operate in low-level airspace, and therefore clear low-level
+airspace is vital to the safety of these operators. NAAA stated that seeing and avoiding other
+aircraft and hazardous obstructions is the backbone for agricultural safety, and that
+agricultural pilots depend on pilots of other aircraft to perform their see-and-avoid functions
+to prevent collisions. NAAA believes UAS operations at low altitudes will increase the
+potential for collision with agricultural aircraft.
+
+The FAA recognizes these concerns and has incorporated associated conditions and
+limitations into this exemption, including: (a) a Notice to Airmen (NOTAM) issued for all
+                                                                                                                 6
+
+operations; (b) operations conducted within VLOS of the pilot in command (PIC) and the VO;
+and (c) the UAS PIC must always yield right-of-way to manned aircraft.
+
+NAAA stated that FAA airworthiness certification should be a requirement for all unmanned
+aircraft to operate within the NAS. NAAA recommended UAS be equipped with ADS-B or
+similar identification and positioning systems, strobe lights, high-visibility markings and
+registration numbers. NAAA also recommended UAS be operated strictly within the line-of-
+sight of the ground controller, with the assistance of a VO and clear of any low-flying manned
+aircraft.
+
+As discussed below, Section 333 of the FAA Modernization and Reform Act of 2012
+authorizes the Secretary of Transportation to determine, considering a number of factors laid
+out in the statute, that an airworthiness certificate is not necessary for certain operations. The
+Secretary has made that determination in this case and therefore the aircraft operated by the
+petitioner will not need to be certificated by the FAA.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner is a PrecisionHawk Lancaster HawkEye.
+
+The petitioner requested relief from 14 CFR part 21, Certification procedures for products
+and parts, Subpart H--Airworthiness Certificates. In accordance with the statutory criteria
+provided in Section 333 of Public Law 112-95 in reference to 49 U.S.C. § 44704, and in
+consideration of the size, weight, speed, and limited operating area associated with the
+aircraft and its operation, the Secretary of Transportation has determined that this aircraft
+meets the conditions of Section 333. Therefore, the FAA finds that the requested relief from
+14 CFR part 21, and any associated noise certification and testing requirements of part 36, is
+not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+                                                                                       7
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+ They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+ The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+ A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, United Services Automobile Association is granted an
+exemption from 14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a),
+91.7(a), 91.119(c), 91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and
+91.417(a) and (b), to the extent necessary to allow the petitioner to operate a UAS to perform
+aerial data collection. This exemption is subject to the conditions and limitations listed below.
+
+Conditions and Limitations
+
+In grant of exemption, United Services Automobile Association is hereafter referred to as
+the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+    1. Operations authorized by this grant of exemption are limited to the PrecisionHawk
+         Lancaster HawkEye when weighing less than 55 pounds including payload. Proposed
+         operations of any other aircraft will require a new petition or a petition to amend this
+         exemption.
+
+    2. Operations for the purpose of closed-set motion picture and television filming are
+         not permitted.
+
+    3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+         exemption holder may use either groundspeed or calibrated airspeed to determine
+         compliance with the 87 knot speed restriction. In no case will the UA be operated at
+         airspeeds greater than the maximum UA operating airspeed recommended by the
+         aircraft manufacturer.
+
+    4. The UA must be operated at an altitude of no more than 400 feet above ground level
+         (AGL). Altitude must be reported in feet AGL.
+                                                                                                            8
+
+5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+    This requires the PIC to be able to use human vision unaided by any device other than
+    corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+    U.S. driver's license.
+
+6. All operations must utilize a visual observer (VO). The UA must be operated within
+    the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+    to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+    capability. The VO and PIC must be able to communicate verbally at all times;
+    electronic messaging or texting is not permitted during flight operations. The PIC must
+    be designated before the flight and cannot transfer his or her designation for the
+    duration of the flight. The PIC must ensure that the VO can perform the duties
+    required of the VO.
+
+7. This exemption and all documents needed to operate the UAS and conduct its
+    operations in accordance with the conditions and limitations stated in this grant of
+    exemption, are hereinafter referred to as the operating documents. The operating
+    documents must be accessible during UAS operations and made available to the
+    Administrator upon request. If a discrepancy exists between the conditions and
+    limitations in this exemption and the procedures outlined in the operating documents,
+    the conditions and limitations herein take precedence and must be followed.
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update or
+    revision would affect the basis upon which the FAA granted this exemption, then the
+    operator must petition for an amendment to its grant of exemption. The FAA's UAS
+    Integration Office (AFS-80) may be contacted if questions arise regarding updates or
+    revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g. replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+                                                                                                            9
+
+    potential discrepancies, e.g. inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and aircraft
+    components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer safety
+    bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Colombia, Puerto Rico, a territory, a possession, or the Federal
+    government. The PIC must also meet the flight review requirements specified in 14
+    CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current FAA-
+    published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+                                                                                                          10
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a pre-
+    determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+    exemption holder may apply for a new or amended COA if it intends to conduct
+    operations that cannot be conducted under the terms of the attached COA.
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+    number, registered in accordance with 14 CFR part 47, and have identification (N-
+    Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must be
+    as large as practicable.
+
+23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+    any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+    PIC at the Ground Control Station of the UAS any time the aircraft is operating. These
+    documents must be made available to the Administrator or any law enforcement
+    official upon request.
+
+24. The UA must remain clear and give way to all manned aviation operations and
+    activities at all times.
+
+25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless:
+      a. Barriers or structures are present that sufficiently protect nonparticipating persons
+          from the UA and/or debris in the event of an accident. The operator must ensure
+          that nonparticipating persons remain under such protection. If a situation arises
+          where nonparticipating persons leave such protection and are within 500 feet of
+          the UA, flight operations must cease immediately in a manner ensuring the safety
+          of nonparticipating persons; and
+                                                                                                              11
+
+          b. The owner/controller of any vessels, vehicles or structures has granted permission
+             for operating closer to those objects and the PIC has made a safety assessment of
+             the risk of operating closer to those objects and determined that it does not
+             present an undue hazard.
+
+       The PIC, VO, operator trainees or essential persons are not considered
+       nonparticipating persons under this exemption.
+
+   27. All operations shall be conducted over private or controlled-access property with
+       permission from the property owner/controller or authorized representative.
+       Permission from property owner/controller or authorized representative will be
+       obtained for each flight to be conducted.
+
+   28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+       boundaries of the operational area as defined by the applicable COA must be reported
+       to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+       reported to the National Transportation Safety Board (NTSB) per instructions
+       contained on the NTSB Web site: www.ntsb.gov.
+
+If this exemption permits operations for the purpose of closed-set motion picture and
+television filming and production, the following additional conditions and limitations apply.
+
+   29. The operator must have a motion picture and television operations manual (MPTOM)
+       as documented in this grant of exemption.
+
+   30. At least 3 days before aerial filming, the operator of the UAS affected by this
+       exemption must submit a written Plan of Activities to the local Flight Standards
+       District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+       notification may be waived with the concurrence of the FSDO. The plan of activities
+       must include at least the following:
+          a. Dates and times for all flights;
+          b. Name and phone number of the operator for the UAS aerial filming conducted
+             under this grant of exemption;
+          c. Name and phone number of the person responsible for the on-scene operation of
+             the UAS;
+          d. Make, model, and serial or N-Number of UAS to be used;
+          e. Name and certificate number of UAS PICs involved in the aerial filming;
+          f. A statement that the operator has obtained permission from property owners
+             and/or local officials to conduct the filming production event; the list of those
+             who gave permission must be made available to the inspector upon request;
+          g. Signature of exemption holder or representative; and
+          h. A description of the flight activity, including maps or diagrams of any area, city,
+             town, county, and/or state over which filming will be conducted and the altitudes
+             essential to accomplish the operation.
+                                                                                                               12
+
+    31. Flight operations may be conducted closer than 500 feet from participating persons
+         consenting to be involved and necessary for the filming production, as specified in the
+         exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+
+This exemption terminates on April 30, 2017, unless sooner superseded or rescinded.
+
+Sincerely,
+
+/s/
+John S. Duncan
+Director, Flight Standards Service
+7925 Jones Branch Drive, Suite 6200                         9800 Fredericksburg Road
+McLean, Virginia 22102                                      San Antonio, Texas 78288
+
+        Michael P. Huerta, Administrator  October 2, 2014
+        Office of the Administrator
+        Federal Aviation Administration
+        800 Independence Avenue SW
+        Washington, D.C. 20591
+
+Reference: USAA Petition for Section 333 Exemption: Re: Research & Development of
+Methods to Use Small Unmanned Aircraft Systems in Property and Casualty Insurance
+
+Dear Administrator Huerta,
+
+Pursuant to Section 333 of the FAA Modernization and Reform Act of 2012 (FMRA), United
+Services Automobile Association (USAA) is petitioning for an exemption from the Federal
+Aviation Regulations and other rules/statutes pertaining to unmanned aircraft systems. Section
+333 of the FMRA addresses special rules for certain unmanned aircraft systems and grants the
+FAA authority to allow for the safe operation of certain unmanned aircraft systems (UAS) within
+the national airspace.
+
+Since 1922, United Services Automobile Association has served the military community and
+their families providing a full range of highly competitive financial products and services to our
+membership. We have world class employees that are personally committed to delivering
+excellent service and guidance regarding insurance, banking and investments. USAA focuses
+its innovation on developing products and new technology to assist its membership from policy
+inception to fulfilling our service commitment during a claims event. USAA has over ten million
+members that look to USAA to help them restore and rebuild after a wide range of natural and
+other disasters, and USAA is always seeking ways to improve the timing and quality of its
+responses to members' needs. Property and casualty insurers play a major role in funding the
+restoration of businesses and communities after major incidents, and the integration of
+unmanned aircraft into USAA's operations will have immediate, positive effects on the lives of
+Americans and the business community.
+
+We have identified the unmanned aircraft system as a technology which can alleviate safety
+concerns associated with manned inspections in the air and on the ground, and provide
+enhanced service and experience to our membership in a safe and efficient environment. At
+USAA's Innovation Lab in San Antonio, Texas, since 2010, we have been thoroughly
+researching new small unmanned aircraft systems technology to improve our existing
+processes, invent new ones to benefit our membership, and improve efficiency and safety. Over
+the last four years, we have conducted significant research and developed business plans for
+utilization of unmanned aircraft systems within our organization, including, but not limited to:
+
+     · Identifying operational areas where unmanned aircraft systems will improve safety
+          relative to manned operations;
+Federal Aviation Administration
+October 2, 2014
+Page 2 of 7
+
+     · Research regarding privacy best practices and existing laws;
+
+     · Research and development of small unmanned aircraft systems in partnership with the
+          manufacturers to develop excellent safety protocols and procedures; and
+
+     · Development of an internal research and development team at USAA with a wide
+          expertise in aeronautics, flight instruction, mechanical and software engineering and
+          business applications, along with external partnerships with public entities that further
+          our knowledge in robotics, aerospace, and engineering.
+
+USAA shares Congress's vision of integrating small unmanned aircraft systems for civil use into
+our national airspace and providing economic benefits and growth from this rapidly developing
+technology. Current law does not provide adequate authority to extend these research and
+development activities, and this application seeks interim authority from the FAA to allow USAA
+to continue the activities it began in 2010.
+
+USAA has also partnered with other public entities, such as the FAA UAS Test Sites and
+selected universities, to further our research and development as well as seeking to obtain a
+Special Airworthiness Certification in the Experimental Category with the collaboration of the
+Test Sites and our UAS manufacturer. Obtaining a Section 333 exemption would allow USAA
+the authority to do further research and development in a safe and efficient manner without
+burdening the FAA with additional requests for each of our UAS platforms and operations.
+Currently, the FAA does not allow civil operations (meaning operations other than public aircraft
+operations or model aircraft / "hobbyist" activities which include research and development);
+therefore USAA has not been able to fully develop its UAS flight research.
+
+Through this petition, USAA seeks an exemption to operate small unmanned aircraft systems to
+further develop its research and development of this emerging technology.
+
+USAA's small unmanned aircraft systems are aircraft weighing significantly less than 55 lbs
+(details are provided within). They operate at slow speeds (under 45kts) and within line of sight
+within the areas described in this petition. Such operations will ensure that the small unmanned
+aircraft systems operated by USAA will not create a hazard to other aircraft operating in the
+national airspace, to the general public or pose a threat to national security as dictated by the
+Federal Aviation Regulations.
+
+One of USAA's business partners and UAS platforms is PrecisionHawk, and its Lancaster
+HawkEye. PrecisionHawk is a leader in the small UAS community and through their impressive
+research and development have successfully obtained several FAA Certificates of Authorization
+for their platform through various FAA UAS test sites and public entities. This demonstrates the
+confidence in operation and safety that the FAA already has for this UAS manufacturer and its
+platform. PrecisionHawk continues its advancement in safety and UAS integration into the
+national airspace by researching and developing sense and avoid technology to benefit the UAS
+community, the FAA and other users of the national airspace.
+Federal Aviation Administration
+October 2, 2014
+Page 3 of 7
+
+14 CFR 11.81 (a) ­ Name and address of the Petitioner:
+
+United Services Automobile Association
+9800 Fredericksburg Road
+San Antonio, Texas 78288
+
+Phone: 703.905.2808
+E-mail: gcirillo@wileyrein.com
+
+14 CFR 11.81 (b) ­ Exemptions Requested:
+
+The FAA considers unmanned aircraft as "aircraft" flown by a "pilot" regardless of the location of
+the pilot. All aircraft and pilots must comply with applicable sections of Title 14 of the Code of
+Federal Regulations (14 CFR) to operate within the National Airspace. Unmanned aircraft are
+unable to comply with certain sections of 14 CFR as the regulations were written prior to the
+consideration of small UAS operating within the national airspace. Therefore USAA is
+requesting an exemption from certain parts of 14 CFR cited below in addition to such further
+exemptions and relief as the FAA may determine is necessary to permit the operations
+described herein.
+
+14 CFR Part 21.191 (a) ­ Experimental Certificates
+14 CFR Part 45.23 (b) ­ Display of marks; general
+14 CFR Part 61.113 (a) and (b) ­ Private pilot privileges and limitations: Pilot in command
+14 CFR Part 91.7 ­ Civil Aircraft Airworthiness
+14 CFR Part 91.9 (b) ­ Civil aircraft flight manual, marking and placard requirements
+14 CFR Part 91.109 ­ Flight Instruction
+14 CFR Part 91.119 ­ Minimum safe altitudes
+14 CFR Part 91.121 ­ Altimeter settings
+14 CFR Part 91.151 ­ Fuel requirements for flight in VFR conditions
+14 CFR Part 91.203 (a) and (b) ­ Civil Aircraft; Certifications Required
+14 CFR Part 91.405 ­ Maintenance required
+14 CFR Part 91.407 ­ Operation after maintenance, preventive maintenance, rebuilding or
+alteration
+14 CFR Part 91.409 ­ Inspections
+14 CFR Part 91.417 ­ Maintenance Records
+
+14 CFR Part 11.81 (c) ­ The extent of relief USAA seeks, and the reason USAA seeks the
+relief:
+
+USAA seeks relief pursuant to this exemption from applicable parts of the Federal Aviation
+Regulations to the extent necessary to permit civil flight operations within the national airspace
+and USAA seeks authorization to conduct small UAS flight operations within the perimeters of
+this exemption request.
+Federal Aviation Administration
+October 2, 2014
+Page 4 of 7
+
+14 CFR Part 11.81 (d) ­ The reasons why granting USAA's request would be in the public
+interest; that is, how it would benefit the public as a whole:
+
+Granting the exemption for USAA would allow the organization to safely and efficiently conduct
+small UAS flight operations to gain valuable information and experience with USAA's research
+and development in this technology. Gaining this information and experience would enable
+USAA, in the future, to utilize UAS technology to conduct safe and efficient operations both
+before and after claim events to assist its membership in preparing for natural disasters and
+post-disaster recovery and relief operations, and reduce the time it takes communities to rebuild
+after natural disasters. Without this exemption, USAA would be unable to conduct the proper
+research and development to build a successful small UAS operation which would assist its
+over ten million members and their communities. USAA believes such UAS research can lead
+to safer, quicker, and more economical and effective claims service for its policy holders and
+their communities.
+
+14 CFR Part 11.81 (e) ­ The reasons why granting the exemption would not adversely
+affect safety, or how the exemption would provide a level of safety at least equal to that
+provided by the rule from which USAA seeks the exemption:
+
+USAA requests that the exemption be granted with the following limitations and operational
+conditions. These limitations and conditions will provide an enhanced level of safety and will be
+the guiding principles when USAA is conducting R&D operations under this exemption:
+
+    A. The small unmanned aircraft systems maximum take-off weight will be less than 55 lbs.
+         Detailed specifications are included in the attachments. USAA is willing to have its
+         authorization restricted below the 55 lb. threshold to the operating weight of the
+         unmanned aircraft identified. One of the fixed winged UAS platforms that USAA is
+         seeking to utilize through this exemption is currently operating safely within the national
+         airspace pursuant to several Certificates of Authorization (COA) granted by the FAA to
+         Texas A&M College Station and other public entities. One of the COAs was for the
+         PrecisionHawk Lancaster HawkEye to provide aerial imagery and mapping for
+         authorities at the recent Washington state mudslides in Oso, WA. Other COAs have
+         been approved for this particular platform through other public entities demonstrating the
+         confidence that the FAA has for this manufacturer's operational and safety protocol.
+         USAA has attached and will be operating in accordance with PrecisionHawk Lancaster's
+         Flight Manual, Maintenance Schedule, and training documents for review within this
+         exemption application. Although this platform is one that USAA is utilizing within its
+         current research and development, USAA asks that the exemption be granted with
+         respect to this aircraft and other aircraft of like size, weight and capabilities; however, we
+         want to demonstrate our commitment to safety and the continuance of strong UAS
+         partnerships.
+
+    B. All pilot in command (PIC) and ground observers (also known as the air crew) will
+         receive FAA certified private pilot ground school and have taken and passed the FAA
+         Private Pilot Written Exam. This ensures that all air crew members (PIC and ground
+Federal Aviation Administration
+October 2, 2014
+Page 5 of 7
+
+         observers) have the knowledge regarding the Federal Aviation Regulations, Airspace,
+         and other pertinent knowledge to conduct safe operations of small unmanned aircraft
+         systems. A USAA employee with a FAA commercial pilot certificate and flight instructor
+         certificate that has been trained on UAS operations will oversee all training and ensure
+         all air crew receive proper training and abide by all pertinent regulations. All pilot in
+         command and ground observers will be trained in detail to each of the unmanned aircraft
+         system platform's operations, systems and emergency procedures. Every air crew
+         member will obtain an FAA Class 2 medical certificate.
+
+    C. All flight operations will be operated at an altitude of no more than 400 ft above the
+         ground (AGL) and within Class G (uncontrolled airspace) and some Class E (with prior
+         approval). No flight operations will be operated within Class A, B, C, or D airspace or
+         special use airspace. All flight operations are to be conducted during daylight hours,
+         under 30 mph winds and within line of sight. Areas of operation will be on USAA's
+         secured campus in San Antonio, Texas and other designated remote, unpopulated
+         areas around the San Antonio, Texas area within Class G airspace. These areas are
+         located a sufficient distance from any airport, heliport, military base/airspace or other
+         location with aviation activity. All flights will be communicated to FAA Flight Service with
+         posted NOTAMS prior to the flight(s).
+
+    D. All flight operations will be conducted within line of sight of the pilot in command and
+         ground observer(s). Maximum total flight time for each flight will be 90 minutes or less in
+         duration. All flight operations will be terminated when the aircraft has less than 20%
+         battery life remaining.
+
+    E. Flight operations and safety briefings will be conducted prior to all planned small
+         unmanned aircraft system flights and will be mandatory for all air crew. Briefings will
+         include weather reviews, take off, landing and aircraft performance data for those real
+         time conditions, and full pre- and post-flight inspections/checklists and briefings for each
+         specific unmanned aircraft system being operated.
+
+    F. In the event of a communication lost link, the UAS will return to a specific predetermined
+         location and once the UAS is safely recovered, all flight operations will cease until any
+         communication/data link issues are properly resolved.
+
+    G. Regarding privacy concerns, USAA will have land use agreements in place for all areas
+         of operations. The land utilized is USAA-owned or privately owned remote/unpopulated
+         land with owner agreements in place for UAS operations.
+Federal Aviation Administration
+October 2, 2014
+Page 6 of 7
+
+14 CFR Part 11.81 (f) A summary the FAA can publish in the Federal Register, stating:
+
+    (1) The rule from which you seek the exemption
+
+    Petitioner: United Services Automobile Association
+    Sections of 14 CFR that USAA seeks an exemption:
+
+14 CFR Part 21.191 (a)
+14 CFR Part 45.23 (b)
+14 CFR Part 61.113 (a) and (b)
+14 CFR Part 91.7
+14 CFR Part 91.9 (b)
+14 CFR Part 91.109
+14 CFR Part 91.119
+14 CFR Part 91.121
+14 CFR Part 91.151
+14 CFR Part 91.203 (a) and (b)
+14 CFR Part 91.405
+14 CFR Part 91.407
+14 CFR Part 91.409
+14 CFR Part 91.417
+
+     (2) A brief description of the nature of the exemption you seek:
+
+USAA seeks relief from the applicable parts of 14 CFR 21, 45, 61 and 91 as requested within
+this petition to allow USAA to safely and efficiently conduct commercial UAS flight operations on
+its secure campus and other remote private land within Class G and Class E (with prior
+approval) airspaces for R&D purposes.
+
+14 CFR Part 11.81 (g) ­ Any additional information, views or arguments available to
+support USAA's request:
+
+Allowing USAA this exemption would give USAA the ability to continue our UAS research and
+development beyond the limits imposed today. Additional testing would benefit not only USAA
+and its membership, but would serve as a partnership with the FAA and others within the UAS
+community to advance this new and emerging technology in a safe and controlled environment.
+
+Recently, USAA employees in partnership with Texas A&M Roboticists Without Borders were
+invited to the Oso, Washington mudslide area to assist Snohomomish County and other public
+entities with aerial surveys and mapping. Under the approval of an FAA COA (Certificate of
+Authorization), USAA and Roboticists Without Borders were able to fly their platforms
+successfully and provided valuable data to government entities. This demonstrates the value of
+our request to continue our UAS research and development to help communities rebuild after
+disasters and maintain the safety of our employees, business partners and the general public.
+Federal Aviation Administration
+October 2, 2014
+Page 7 of 7
+
+14 CFR Part 11.81 (h) ­ Request to exercise the privileges of the exemption outside the
+United States, the reason why the petitioner needs to do so:
+USAA does not seek to exercise the privileges of this exemption, should it be granted, outside
+the United States. Our request is strictly to be granted authority for civil UAS R&D operations at
+specified locations within the national airspace system.
+
+Sincerely,
+
+Greg Cirillo      Michael Burns
+Wiley Rein LLP
+Counsel for USAA  Michael Burns
+                  Assistant Vice President
+                  USAA
+
+Attachments: PrecisionHawk Flight Manual, Maintenance Schedule and training documents.
+

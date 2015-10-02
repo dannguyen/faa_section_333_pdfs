@@ -1,0 +1,764 @@
+July 29, 2015
+
+                                                           Exemption No. 12221
+                                                           Regulatory Docket No. FAA­2015­2005
+
+Mr. Stephen Thomas and Ms. Svetlana Thomas
+GeoDrone Robotics, LLC
+4301 Stretton Farm Court
+Woodbridge, VA 22192
+
+Dear Mr. Thomas and Ms. Thomas:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter dated May 16, 2015, you petitioned the Federal Aviation Administration (FAA) on
+behalf of GeoDrone Robotics, LLC (hereinafter petitioner or operator) for an exemption. The
+petitioner requested to operate an unmanned aircraft system (UAS) to conduct surveying,
+aerial photography, videography, inspection, and training1.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner is a DJI Inspire 1.
+
+1 The petitioner also requested authority to conduct UAS training. At this time, the FAA is unable to authorize
+UAS operations for training until a further assessment is completed. When the FAA completes its review, we
+will proceed accordingly and no further action will be required by the petitioner. However, the petitioner is
+permitted to train its own pilot in commands and visual observers in accordance with condition no. 14 and the
+other conditions and limitations in this exemption.
+                                                                                                                 2
+
+The petitioner requested relief from 14 CFR part 21, Certification procedures for products
+and parts, Subpart H--Airworthiness Certificates. In accordance with the statutory criteria
+provided in Section 333 of Public Law 112-95 in reference to 49 U.S.C. § 44704, and in
+consideration of the size, weight, speed, and limited operating area associated with the
+aircraft and its operation, the Secretary of Transportation has determined that this aircraft
+meets the conditions of Section 333. Therefore, the FAA finds that the requested relief from
+14 CFR part 21, Certification procedures for products and parts, Subpart H--Airworthiness
+Certificates, and any associated noise certification and testing requirements of part 36, is
+not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection2. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+ They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+ The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+ A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, GeoDrone Robotics, LLC is granted an exemption from
+14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a), 91.7(a), 91.119(c),
+91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a) and (b), to
+
+2 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                                                 3
+
+the extent necessary to allow the petitioner to operate a UAS to perform aerial data collection.
+This exemption is subject to the conditions and limitations listed below.
+
+Conditions and Limitations
+
+In this grant of exemption, GeoDrone Robotics, LLC is hereafter referred to as the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+    1. Operations authorized by this grant of exemption are limited to the DJI Inspire 1when
+         weighing less than 55 pounds including payload. Proposed operations of any other
+         aircraft will require a new petition or a petition to amend this exemption.
+
+    2. Operations for the purpose of closed-set motion picture and television filming are
+         not permitted.
+
+    3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+         exemption holder may use either groundspeed or calibrated airspeed to determine
+         compliance with the 87 knot speed restriction. In no case will the UA be operated at
+         airspeeds greater than the maximum UA operating airspeed recommended by the
+         aircraft manufacturer.
+
+    4. The UA must be operated at an altitude of no more than 400 feet above ground level
+         (AGL). Altitude must be reported in feet AGL.
+
+    5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+         This requires the PIC to be able to use human vision unaided by any device other than
+         corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+         U.S. driver's license.
+
+    6. All operations must utilize a visual observer (VO). The UA must be operated within
+         the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+         to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+         capability. The VO and PIC must be able to communicate verbally at all times;
+         electronic messaging or texting is not permitted during flight operations. The PIC
+         must be designated before the flight and cannot transfer his or her designation for the
+         duration of the flight. The PIC must ensure that the VO can perform the duties
+         required of the VO.
+
+    7. This exemption and all documents needed to operate the UAS and conduct its
+         operations in accordance with the conditions and limitations stated in this grant of
+         exemption, are hereinafter referred to as the operating documents. The operating
+         documents must be accessible during UAS operations and made available to the
+                                                                                                            4
+
+    Administrator upon request. If a discrepancy exists between the conditions and
+    limitations in this exemption and the procedures outlined in the operating documents,
+    the conditions and limitations herein take precedence and must be followed.
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+                                                                                                            5
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+    exemption holder may apply for a new or amended COA if it intends to conduct
+    operations that cannot be conducted under the terms of the attached COA.
+                                                                                                            6
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+    be as large as practicable.
+
+23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+    any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+    PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+    These documents must be made available to the Administrator or any law enforcement
+    official upon request.
+
+24. The UA must remain clear and give way to all manned aviation operations and
+    activities at all times.
+
+25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless:
+      a. Barriers or structures are present that sufficiently protect nonparticipating persons
+          from the UA and/or debris in the event of an accident. The operator must ensure
+          that nonparticipating persons remain under such protection. If a situation arises
+          where nonparticipating persons leave such protection and are within 500 feet of
+          the UA, flight operations must cease immediately in a manner ensuring the safety
+          of nonparticipating persons; and
+      b. The owner/controller of any vessels, vehicles or structures has granted permission
+          for operating closer to those objects and the PIC has made a safety assessment of
+          the risk of operating closer to those objects and determined that it does not
+          present an undue hazard.
+
+    The PIC, VO, operator trainees or essential persons are not considered
+    nonparticipating persons under this exemption.
+
+27. All operations shall be conducted over private or controlled-access property with
+    permission from the property owner/controller or authorized representative.
+    Permission from property owner/controller or authorized representative will be
+    obtained for each flight to be conducted.
+
+28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+    boundaries of the operational area as defined by the applicable COA must be reported
+    to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+    reported to the National Transportation Safety Board (NTSB) per instructions
+    contained on the NTSB Web site: www.ntsb.gov.
+                                                                                                                 7
+
+ If this exemption permits operations for the purpose of closed-set motion picture and
+ television filming and production, the following additional conditions and limitations apply.
+
+    29. The operator must have a motion picture and television operations manual (MPTOM)
+         as documented in this grant of exemption.
+
+    30. At least 3 days before aerial filming, the operator of the UAS affected by this
+         exemption must submit a written Plan of Activities to the local Flight Standards
+         District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+         notification may be waived with the concurrence of the FSDO. The plan of activities
+         must include at least the following:
+           a. Dates and times for all flights;
+           b. Name and phone number of the operator for the UAS aerial filming conducted
+              under this grant of exemption;
+           c. Name and phone number of the person responsible for the on-scene operation of
+              the UAS;
+           d. Make, model, and serial or N-Number of UAS to be used;
+           e. Name and certificate number of UAS PICs involved in the aerial filming;
+           f. A statement that the operator has obtained permission from property owners
+              and/or local officials to conduct the filming production event; the list of those
+              who gave permission must be made available to the inspector upon request;
+           g. Signature of exemption holder or representative; and
+           h. A description of the flight activity, including maps or diagrams of any area, city,
+              town, county, and/or state over which filming will be conducted and the altitudes
+              essential to accomplish the operation.
+
+    31. Flight operations may be conducted closer than 500 feet from participating persons
+         consenting to be involved and necessary for the filming production, as specified in the
+         exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                    8
+
+This exemption terminates on July 31, 2017, unless sooner superseded or rescinded.
+Sincerely,
+
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+Stephen Thomas and Svetlana Thomas 
+GeoDrone Robotics, LLC 
+4301 Stretton Farm Ct. 
+Woodbridge, VA 22192 
+703.862.8191 
+stephen.thomas@geodroneinc.net 
+ 
+May 16, 2015 
+
+ 
+
+U.S. Department of Transportation 
+Docket Management System 
+1200 New Jersey Ave., SE 
+Washington, D.C.  20590 
+ 
+
+RE:  Stephen Thomas and Svetlana Thomas, Owners, GeoDrone Robotics for Exemption Request 
+Pursuant to Section 333 of the FAA Reform Act 
+
+Dear Sir/Madam, 
+
+Pursuant to Section 333 of the FAA Modernization and Reform Act of 2012 (the Reform Act) and 14 C.F.R. 
+Part 11, Stephen Thomas and Svetlana Thomas, GeoDrone Robotics, LLC, owners and operators of Small 
+Unmanned  Aircraft  Systems  (sUAS)  that  are  equipped  to  perform  aerial  photography,  videography  and 
+terrain features, hereby applies for an exemption from the listed Federal Aviation Regulations (FARs) to 
+allow commercial operation of an sUAS, so long as such operations are conducted within and under the 
+conditions outlined herein or as may be established by the FAA as required by Section 333.1 
+
+ 
+
+The  proposed  exemption,  if  granted,  would  allow  GeoDrone  Robotics,  LLC,  to  conduct  commercial 
+operation of sUAS meeting or exceeding all of the operational and safety requirements Congress has set 
+forth in Section 333.  Statutory Authority Section 333, titled "Special Rules for Certain Unmanned Aircraft 
+Systems", provides a mechanism for seeking expedited FAA authorization of safe civil UAS operations in 
+the National Air Space (NAS).  Section 333(a) states that the FAA "shall determine if certain unmanned 
+aircraft  systems  may  operate  safely  in  the  national  airspace  system  before  completion  of  the 
+(comprehensive) plan and rulemaking required by section 332(b)(1) of this Act or the guidance required 
+by  section  334  of  the  Act."    In  Section  332(b)(1),  Congress  made  it  clear  that  Section  333  provides  a 
+mechanism for "expedited operation authorization" if several factors are met.  The petitioner meets all 
+requirements to permit FAA approval of commercial UAS operations. 
+
+The Petitioner Requests Relief from the Following Regulations: 
+
+14 C.F.R. Part 21 
+14 C.F.R. 45.23 (b) 
+14 C.F.R. 91.7 (a) 
+
+Page | 1 
+
+                                                                    GeoDrone Robotics, LLC 
+                                                                      4301 Stretton Farm Ct. 
+                                                                     Woodbridge, VA 22192 
+                                                                 geodroneint@outlook.com 
+
+                                                                                 703.580.8666 
+14 C.F.R. 91.119 
+14 C.F.R. 91.121 
+14 C.F.R. 91.151(a) 
+14 C.F.R. 91.203 (a) & (b) 
+14 C.F.R. 91.215 
+14 C.F.R. 91.405 
+14 C.F.R. 91.407 
+14 C.F.R. 91.409 
+14 C.F.R. 91.417 
+14 C.F.R. 91.109 
+ 
+
+Stephen and Svetlana Thomas, GeoDrone Robotics, LLC is petitioning for exemption to enable GeoDrone 
+Robotics, LLC to operate a DJI Inspire 1 quadcopter.  This quadcopter has an advanced flight controller 
+that constantly updated and recorded using a highstrength, intelligent GLONASS + GPS system.  This dual 
+positioning  system  allows  for  greater  safety  and  higher  precision.    See  attached  Inspire  1  User  Manual 
+v1.2 for more information.  In addition the Inspire 1 has an advanced Inertial Measurement Unit (IMU) 
+that  has  a  6axis  gyroscope  and  accelerometer  to  monitor  any  change  in  the  sUAS's  attitude  and 
+movement.  These systems allow the Inspire 1 to operate safely and compensate and adjust immediately 
+to hold its precise position at all times.  In addition the DJI Inspire 1 can accommodate two operators a 
+Pilot In Command (PIC) and a payload operator.  This also enhances safety by allowing the PIC to operate 
+the sUAS and concentrate only on flying the sUAS while the payload operator controls the camera.  The 
+sUAS will be equipped with cameras, camera stabilizing gimbals and onscreen displays (OSD) providing 
+the PIC with altitude, airspeed, battery life and direction.  The GLONASS + GPS system will be used to limit 
+the altitude above the ground and limit the distance it flies from the PIC.  The Inspire 1 has GPS guided 
+failsafe  functions  that  command  the  autopilot  to  fly  the  sUAS  back  to  the  original  launch  site 
+autonomously.  This failsafe will be triggered if the system loses the minimum number of GLONASS + GPS 
+signals or if the signal from the transmitter is lost or if the PIC decides to abort the flight. 
+
+GeoDrone Robotics is owned operated by Stephen and Svetlana Thomas.  Stephen has been involved with 
+analysis of Air and Missile defense as a contractor supporting Secretary of the Air Force Actuations, the 
+Ballistic Missile Defense Organization, and the Joint Chiefs of Staff.  He has owned and operated remote 
+controlled (RC) aircraft for over 30 years and has flown fixed wing, traditional rotary wing, and multirotor 
+sUAS.  GeoDrone Robotics employs various RC pilots that also meet the minimum criteria of 100 hrs. of 
+flight time on the Inspire 1 and hold at least a Sport Pilot License.  Current applicants hold either a Private 
+Pilot License (PPL) or Airline Transport Pilot (ATP) license.  Some of our candidates are retired USAF and 
+received their training and flight experience through the U.S. military. 
+
+Our Commercial Activities Will Include: 
+
+     Aerial Surveying 
+     Event Photography/Videography 
+     Real Estate Photography/Videography 
+     Aerial Filming and Photography 
+
+Page | 2 
+
+              GeoDrone Robotics, LLC 
+                4301 Stretton Farm Ct. 
+               Woodbridge, VA 22192 
+           geodroneint@outlook.com 
+
+                           703.580.8666 
+     Construction Site Inspections and Monitoring 
+     Building Inspections 
+     Roof Inspections 
+     Transmission Line Inspections 
+     Transceiver Tower Inspections 
+     Water Tower Inspections 
+     Bridge Inspections 
+     sUAS Training and Safe Operations 
+ 
+FCC Information 
+ 
+The Inspire 1's C1 transmitter used for controlling the sUAS complies with part 15 of the FCC rules.  Please 
+refer  to  the  User  Manual  (downloadable  at  this  link  http://www.dji.com/product/inspire1/download) 
+page 62 FCC Compliance. 
+ 
+Operation is subject to the following two conditions: 
+    (1) This device may not cause harmful interference,  
+    (2) This  device  must  accept  any  interference  received,  including  interference  that  may  cause 
+
+         undesired operation. 
+The C1 transmitter used for controlling the sUAS is wireless technology which has been tested and found 
+to  be  compliant  with  the  applicable  regulations  governing  a  radio  transmitter  in  the  2.400GHz  to 
+2.4835GHz frequency range. 
+ 
+Pilot In Command and Observer Qualifications and Duties 
+ 
+The PIC will maintain at least a Sport Pilot License and a current Class III medical certificate, plus at least 
+10  hrs.  Of  flight  time  on  the  DJI  Inspire  1  and  at  least  2  hrs.  Of  flight  time  with  3  takeoffs  and  landings 
+within 30 days of sUAS operations.  The PIC will have at least 100 hrs. Total flight time and at least 20 hrs. 
+Flying RC aircraft of that 10 hrs. On the DJI Inspire 1. 
+ 
+The  PIC  is  responsible  for  the  safe  and  efficient  operation  of  the  aircraft.    Specific  duties  include  all 
+preflight  preparation,  in  flight  operation,  and  post  flight  requirements.    Procedures  including  but  not 
+limited to: 
+
+     Utilize the FAA B4UFLY App to verify legal and safe operation in the planned flight area. 
+     Perform PreFlight Check List. 
+     Ensure Safe Flight Operations. 
+     Perform Risk Assessment and Mitigation Plan to Persons and Property. 
+     Assess Site Suitability. 
+ 
+The Observer must have the visual acuity to observe the sUAS and be able to communicate clearly with 
+the PIC utilizing hand signals, verbally, 2 way radios, or by cellular communications. 
+The Observer's duties are: 
+
+Page | 3 
+
+              GeoDrone Robotics, LLC 
+                4301 Stretton Farm Ct. 
+               Woodbridge, VA 22192 
+           geodroneint@outlook.com 
+
+                           703.580.8666 
+     Creating a preflight weather report utilizing a personal weather station to collect data on the 
+         wind speed, ambient temperature, and barometric pressure. 
+
+     Notifying the PIC of any impending obstacles in the flight path of the sUAS. 
+     Notifying the PIC of any deviations in the planned flight path of the sUAS. 
+     Notifying the PIC if unauthorized persons enter the area of the planned flight. 
+ 
+General Operating Standards 
+ 
+     Before an operation of a sUAS within 5NM of an airport with a control tower, the control tower 
+
+         will be called to gain permission to operate the sUAS.  The PIC will give the position, altitude, and 
+         the times the sUAS will be operated.  The sUAS will not be operated at an altitude of over 150 ft. 
+         AGL.  Weather minimums will be 3 miles visibility and a 1000 ft. ceiling. 
+ 
+     Before an operation of a sUAS within 5NM of a nontower controlled airport, airport operators 
+         will be notified and the PIC will give the right of way to avoid flying in the proximity of fullscale 
+         aircraft.  At no time will the sUAS be operated within the final approach course and the takeoff 
+         course of any runway.  The sUAS will not be operated at an altitude of over 200 ft. AGL. 
+          
+     Weather minimums will be 3 miles visibility and a 1000 ft. ceiling. 
+          
+     GeoDrone Robotics, LLC will only operate its sUAS in line of sight of a PIC and/or Observer and will 
+         operate at sites that are a `sufficient distance' from populated areas.  Such operations will insure 
+         that the sUAS will not create a hazard to users of the NAS or the public. 
+          
+     All of our operations will be under 200 ft. AGL if we are operating within 30 miles reach of a mode 
+         c vail. 
+          
+     Maximum flight time for each operational flight will be less than 30 minutes. 
+          
+     Flights will be terminated at 25% battery power reserve should that occur prior to the 20 minute 
+         limit. 
+          
+     The sUAS will utilize `GPS fences' so that it will not be operated at an altitude of no more than 400 
+         ft.  AGL,  and  not  more  than  200  ft.  above  an  elevated  platform  from  which  data  collection  is 
+         planned. 
+          
+     Minimum crew for each operation will consist of the PIC, and the Visual Observer. 
+          
+     The sUAS operated by the petitioner weighs less than 55 lbs., including the payload. 
+          
+     The sUAS will operate at speeds of no more than 50 knots, can hover, and can simultaneously 
+         move vertically and horizontally. 
+
+Page | 4 
+
+              GeoDrone Robotics, LLC 
+                4301 Stretton Farm Ct. 
+               Woodbridge, VA 22192 
+           geodroneint@outlook.com 
+
+                           703.580.8666 
+     
+ All operations must utilize a Visual Observer.  The Visual Observer and the PIC must be able to 
+
+    communicate by voice, 2 way radio, cellular, or hand signals at all times during flight operations. 
+     
+ Flight  operations  will  be  restricted  to  flights  over  water,  public  or  private  property  with  the 
+    permission of the property owner(s). 
+     
+ All required permits will be obtained from state and local government prior to operation. 
+     
+ sUAS will not be operated over densely populated areas. 
+     
+ sUAS will not be operating over any openair assembly of people. 
+     
+ sUAS will not be operating over heavily trafficked roads. 
+     
+ All new to service sUAS both custom and premanufactured will have a minimum of 25 logged 
+    flight hours and deemed safe by the PIC prior to commercial operations. 
+     
+ Flight  operations  will  also  adhere  to  the  specifications  stated  in  the  DJI  Safety  Guidelines. 
+    (downloadable at this link http://www.dji.com/product/inspire1/download) 
+     
+ The sUAS will be maintained in accordance with the maintenance specified in the User Manual 
+    and  the  Maintenance  Manual  (downloadable  at  this  link  http://www.dji.com/product/inspire
+    1/download). 
+     
+
+How This Request Is To the Betterment of Our Community 
+ 
+The sUAS operated by GeoDrone Robotics, LLC are powered by batteries, are small, quieter, lighter, and 
+more  maneuverable  than  larger  aircraft  running  on  combustible  fuel,  thus  leaving  a  very  small 
+environmental  impact.    Our  sUAS  operate  at  lower  altitudes  and  have  no  people  on  board,  thereby 
+reducing  the  risk levels associated with traditional aircraft and larger UAS.   These factors increase the 
+safety of operation and reduce the risk of death or serious bodily injury by our aircraft.  Also, with a limited 
+payload  and  short  flight  duration,  there  is  little  risk  to  national  security.    Low  altitude  data  collection 
+methods  are  more  efficient  than  ground  based  observations  or  manned  aircraft  imagery  for  displaying 
+detailed characteristics of ground based objects.  Because of the above mentioned characteristics of our 
+sUAS, GeoDrone Robotics, LLC intends to sell their data at a significantly reduced cost allowing for more 
+clients to be able to afford this type of data.  The benefits of unmanned sUAS data collection methods and 
+continued development and improvement of small sensors and increased flight times will benefit future 
+clients greatly. 
+GeoDrone Robotics will make our sUAS available to first responders in our community who might require 
+assistance, including fire fighters, police, sheriff, etc., will remaining subject to all limitations cited in this 
+application. 
+
+Page | 5 
+
+              GeoDrone Robotics, LLC 
+                4301 Stretton Farm Ct. 
+               Woodbridge, VA 22192 
+           geodroneint@outlook.com 
+
+                           703.580.8666 
+ 
+Exemption Requests and Equivalent Level of Safety 
+ 
+Stephen  and  Svetlana  Thomas,  Owners  of  GeoDrone  Robotics,  LLC  requests  an  exemption  from  the 
+following regulations as well as any additional regulations that may technically apply to the operation of 
+the sUAS. 
+ 
+14 C.F.R. Part 21, Airworthiness Certificates: 
+This  part  establishes  the  procedures  for  the  issuance  of  an  airworthiness  certificate.    While  the  FAA 
+continues  to  work  to  develop  airworthiness  standards  for  Unmanned  Aerial  Systems,  we  request  an 
+experimental certificate be issued for our sUAS's under either or both of the following provisions:  21.191 
+Experimental certificates. Experimental certificates are issued for the following purposes: 
+
+    (a) Research and Development.  Testing new aircraft design concepts, new aircraft equipment, new 
+         air craft installations, new aircraft operating techniques, or new uses for aircraft. 
+
+    (b) Showing  Compliance  with  Regulations.    Conducting  flight  test  and  other  operations  to  show 
+         compliance with the airworthiness regulations including flights to show compliance for issuance 
+         of  type  and  supplemental  type  certificates,  flights  to  substantiate  major  design  changes,  and 
+         flights to show compliance with the function and reliability requirements of the regulations.  Since 
+         the experimental certificate can be used for commercial purposes such as market surveys, sales 
+         demonstrations, and customer crew training, we would expect that an experimental certificate 
+         would permit our commercial purpose as well.  The aircraft will not carry persons or property, will 
+         not carry fuel, and will only fly under strict operational requirements.  The sUAS's light weight, 
+         being  constructed  primarily  of  carbon  fiber  and  plastic  contribute  to  the  low  risk  of  injury  or 
+         property  damage.    We  propose  that  the  sUAS  will  be  at  least  as  safe,  if  not  safer,  than  a 
+         conventionally certified aircraft performing the same commercial operations.  If an experimental 
+         air worthiness certificate is not appropriate for this application, then we request an exemption of 
+         14 C.F.R. Part 21, Subpart H, and the requirement for an airworthiness certificate in general, citing 
+         the equivalent level of safety outlined in the previous paragraph. 
+
+ 
+14 C.F.R. 45.23 Display of Marks; General and 45.49 Size of Marks: 
+These  regulations  provide  that  each  aircraft  must  display  "N"  and  the  aircraft's  registration  number  in 
+letters at least 3" high.  Additionally, the aircraft must display the word "EXPERIMENTAL" in letters at least 
+2" high near the entrance to the cabin, cockpit, or pilot station.  The sUAS does not have an entrance in 
+which the word "EXPERIMENTAL" can be placed, and may not have a registration number assigned to it 
+by the FAA.  We propose to achieve an equivalent level of safety by including the word "EXPERIMENTAL" 
+in the placard on the top of the aircraft, where the PIC, Visual Observer, and others in the vicinity of the 
+aircraft while it is preparing for launch will be able  to see the designation.    Additionally,  a permanent 
+placard that will provide the aircraft's registration information will be placed at the location of the ground 
+station.  Finally, we will display at the ground station a high contrast flag or banner that contains the words 
+"Unmanned Aircraft Ground Station" in letters 3" high or greater.  Since the aircraft will operate within 
+¾NM of the ground station, the banner should be visible to anyone that observes the aircraft and chooses 
+to investigate its point of origin.  Additional temporary signs will be erected in the flight area that will state 
+"Caution, Unmanned Aerial Vehicle in Use, Please Stay Back 500 ft. From The Operating Area." 
+
+Page | 6 
+
+              GeoDrone Robotics, LLC 
+                4301 Stretton Farm Ct. 
+               Woodbridge, VA 22192 
+           geodroneint@outlook.com 
+
+                           703.580.8666 
+ 
+14 C.F.R. 91.7 Prohibits the Operation of an Aircraft Without an Airworthiness Certificate: 
+As  no  such  certificate  will  be  applicable  in  the  form  contemplated  by  the  FARs,  this  Regulation  is 
+inapplicable. 
+ 
+91.119 Minimum Safe Altitudes: 
+The regulation states that over sparsely populated areas the aircraft cannot be operated closer than 500 
+ft. to any person, vessel, vehicle, or structure.  Since the typical mission of the sUAS would be photography 
+or survey of persons, vessels, vehicles or structures, it would be necessary to operate closer than 500 ft. 
+to the items listed.  Operations will only be flown over property or persons where a careful preplanned 
+flight path has been plotted.  In the event of a malfunction or emergency landing, a DJI DropSafe Ballistic 
+Parachute System may be used or mission abort with return to home function will occur.  In either event, 
+the hazard to persons or property on the surface will be very limited.  Therefore we maintain that due to 
+the  small  size  of  the  sUAS  and  the  embedded  safety  equipment  and  procedures  used,  the  hazard  to 
+persons, vehicles and structures are minimal compared to manned aircraft, which should be considered 
+in granting the exemption. 
+ 
+CFR 91.121 Altimeter Settings: 
+The regulation requires that aircraft shall maintain cruising altitudes by reference to an altimeter setting 
+available within 100 NM of the aircraft.  The sUAS will always fly below 400 ft. AGL and will not need to 
+maintain  cruising  altitudes  in  order  to  prevent  conflict  with  other  aircraft.    An  Above  Ground  Level 
+altimeter  measurement  above  the  takeoff  point  is  transmitted  via  radio  from  the  sUAS's  onboard 
+computer to the display screen held by the PIC, providing a constantly updated AGL readout.  The DJI's 
+flight controller can be configured to geofence the sUAS to remain under 400 ft. maximum altitude. 
+ 
+14 C.F.R. 91.151 Fuel Requirements for Flight in VFR Conditions: 
+The regulation provides that no person may begin a flight in an airplane under dayVFR conditions unless 
+there is enough fuel to fly to the first point of intended landing and to fly after that for at least 30 minutes.  
+The  purpose  of  this  is  to  provide  an  emergency  reserve  of  fuel  as  a  safety  buffer  for  delays  to  landing.  
+Since the aircraft will never fly more than ¾ NM from the point of intending landing, a full battery charge 
+at launch will ensure that we meet the reserve energy requirement stated above. 
+ 
+14 C.F.R. 91.203(a) & (b) Civil Aircraft: Certifications Required: 
+The  regulation  provides  that  an  airworthiness  certificate,  with  the  registration  number  assigned  to  the 
+aircraft and a registration certificate must be aboard the aircraft. Additionally, subparagraph (b) provides 
+that  the airworthiness certificate be  "displayed at  the cabin or cockpit entrance so that it  is legible  to 
+passengers  or  crew."  At  a  maximum  gross  weight  of  55  pounds,  the  sUAS  is  too  small  to  carry 
+documentation, does not have an entrance, and is not capable of carrying passengers or crew. To obtain 
+an  equivalent  level  of  safety  and  meet  the  intent  of  91.203,  we  propose  that  documents  deemed 
+appropriate for this aircraft by the FAA will be with the crew at the ground control station and available 
+for inspection upon request. In order to identify the aircraft, we propose that the information found on 
+airworthiness  and  registration  certificates  be  permanently  affixed  to  the  aircraft  via  placard  containing 
+the following information plus the word "EXPERIMENTAL" to satisfy the requirement of 14 C.F.R. 45.23. 
+
+Page | 7 
+
+              GeoDrone Robotics, LLC 
+                4301 Stretton Farm Ct. 
+               Woodbridge, VA 22192 
+           geodroneint@outlook.com 
+
+                           703.580.8666 
+ 
+14 C.F.R. Subpart E (91.401 ­ 91.417) ­ Maintenance, Preventive Maintenance, Alterations: 
+The  regulation  provides  that  the  operator  is  primarily  responsible  for  maintaining  the  aircraft  in  an 
+airworthy condition, including compliance with part 39 and 43. Paragraphs 91.407 and 91.409 require that 
+the aircraft be "approved for return to service by a person authorized under 43.7" after maintenance and 
+inspection.  It is our intention that our maintenance personnel along with the PIC perform maintenance 
+and inspection of the aircraft and "be authorized to approve the aircraft for return to service." The PIC 
+will  ensure  that  the  aircraft  is  in  an  airworthy  condition  prior  to  every  flight  and  in  addition  conduct 
+detailed  inspections  after  every  five  hours  of  flight.  All  maintenance  will  be  performed  by  GeoDrone 
+Robotics, LLC maintenance personnel with coordination from the PIC in accordance with the DJI manual. 
+If required maintenance is beyond the ability of the GeoDrone Robotics, LLC maintenance personnel or 
+the PIC, the maintenance will be performed by the manufacturer or their designated repair facility. The 
+GeoDrone  Robotics,  LLC  maintenance  personnel  in  coordination  with  the  PIC  will  document  work 
+performed  in  accordance  with  91.417.  We  feel  that  due  to  the  size,  construction,  and  simplicity  of  the 
+aircraft, our maintenance personnel and the PIC can ensure an equivalent level of safety. 
+14 C.F.R. 91.109 Flight Instruction; Simulated Instrument Flight and Certain Flight Tests: 
+The regulation states that "No person may operate a civil aircraft that is being used for flight Instruction 
+unless that aircraft has fully functioning dual controls."  Training will be conducted by GeoDrone Robotics, 
+LLC.  We have the ability to provide dual controls utilizing two C1 transmitters with a wired link between 
+the  transmitters.  One  transmitter  is  designated  the  master  transmitter  and  the  other  transmitter  is 
+designated as a slave.  Please refer to the attached DJI Inspire 1 User Manual.  The PIC instructor, utilizing 
+the master transmitter, will be at all times be able assume control of the sUAS. 
+ 
+14 C.F.R. 91.215 ATC Transponder and Altitude Reporting Equipment and Use: 
+This regulation states all aircraft operating within 30NM of class A, B and C airspace must be equipped 
+with  automatic  pressure  altitude  reporting  equipment  having  a  Mode  C  capability  that  automatically 
+replies to Mode C interrogations. Due to the small size and lifting capabilities of our UASs we cannot carry 
+a traditional transponder. All of our operations will be under 250 ft. if we are operating within the 30NM 
+reach of a mode c vail. 
+ 
+  
+
+Page | 8 
+
+              GeoDrone Robotics, LLC 
+                4301 Stretton Farm Ct. 
+               Woodbridge, VA 22192 
+           geodroneint@outlook.com 
+
+                           703.580.8666 
+Conclusion 
+ 
+By  granting  Stephen  Thomas  and  Svetlana  Thomas,  Owners,  GeoDrone  Robotics,  LLC  the  requested 
+exemptions, the FAA will help ensure the development of safe and successful commercial UAS operations 
+and will advance the public knowledge and perception for such operations of sUAS.  GeoDrone Robotics, 
+LLC personnel have a long history with Remote Controlled Aircraft and have worked closely with the U.S. 
+Military in areas of Counter UAS operations as well as Joint Air and Missile Defense.  We are committed 
+to  promoting  the  sUAS  research  efforts  of  policymakers  by  sharing  data  from  our  commercial  sUAS 
+operations and serving as a resource for future sUAS research opportunities. 
+ 
+GeoDrone Robotics, LLC's sUAS will used , under authorization by the US DOTFAA, are small, lightweight 
+(under 55 lbs.) devices that will be operated only in daylight within the line of sight of the PIC and Visual 
+Observer,  they  will  operate  under  400  ft.  AGL  and  outside  5  miles  from  any  airport  or  location  with 
+aviation activities, unless the air traffic control (ATC) authorities have been properly notified and that the 
+ATC authorities have authorized each flight within the specified radius of their facilities. 
+ 
+GeoDrone  Robotics,  LLC  seeks  an  exemption  pursuant  to  14  C.F.R.  and  Section  333  of  the  FAA 
+Modernization  and  Reform  Act  of  2012  (FMRA),  which  will  permit  the  safe  operation  of  our  sUAS 
+commercially, without an Airworthiness Certificate.  By granting this Petition, the FAA Administrator will 
+be  fulfilling  the  Congressional  mandate  of  the  FMRA  of  2012,  while  also  advancing  the  interests  of  the 
+public,  by  allowing  GeoDrone  Robotics,  LLC  to  safely,  efficiently,  and  economically  operate  our  sUAS 
+commercially  within  the  NAS.    In  accordance  with  the  FAA  Regulations  and  the  FMRA  of  2012,  Section 
+333,  GeoDrone  Robotics,  LLC  respectfully  requests  that  the  Administrator  grant  this  petition  for  an 
+exemption from the requirements of 14 C.F.R Sections. 
+ 
+Sincerely, 
+ 
+Stephen Thomas, Svetlana Thomas 
+GeoDrone Robotics, LLC 
+
+Page | 9 
+
+              GeoDrone Robotics, LLC 
+                4301 Stretton Farm Ct. 
+               Woodbridge, VA 22192 
+           geodroneint@outlook.com 
+
+                           703.580.8666 
+

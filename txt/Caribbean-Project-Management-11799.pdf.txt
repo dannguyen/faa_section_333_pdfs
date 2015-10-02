@@ -1,0 +1,725 @@
+June 11, 2015
+
+                                                           Exemption No.11799
+                                                           Regulatory Docket No. FAA­2015­1021
+
+Mr. José R. Torres Morales, PE
+Vice President Projects and Risk Management
+Caribbean Project Management
+Corporate Office Park, CPM Plaza, Suite 200
+Road 20, Km 2.6
+Guaynabo, PR 00966-3177
+
+Dear Mr. Morales:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter dated April 7, 2015, you petitioned the Federal Aviation Administration (FAA) on
+behalf of Caribbean Project Management (hereinafter petitioner or operator) for an
+exemption. The petitioner requested to operate an unmanned aircraft system (UAS) to
+conduct aerial inspections of construction sites.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner is a DJI Phantom 2.
+
+The petitioner requested relief from 14 CFR part 21, Certification procedures for products
+and parts, Subpart H--Airworthiness Certificates. In accordance with the statutory criteria
+                                                                                                                 2
+
+provided in Section 333 of Public Law 112-95 in reference to 49 U.S.C. § 44704, and in
+consideration of the size, weight, speed, and limited operating area associated with the
+aircraft and its operation, the Secretary of Transportation has determined that this aircraft
+meets the conditions of Section 333. Therefore, the FAA finds that the requested relief from
+14 CFR part 21, Certification procedures for products and parts, Subpart H--Airworthiness
+Certificates, and any associated noise certification and testing requirements of part 36, is
+not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection1. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+· They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+· The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+· A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, Caribbean Project Management is granted an
+exemption from 14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a),
+91.7(a), 91.119(c), 91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and
+91.417(a) and (b), to the extent necessary to allow the petitioner to operate a UAS to perform
+aerial data collection. This exemption is subject to the conditions and limitations listed
+below.
+
+1 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                                                 3
+
+Conditions and Limitations
+
+In this grant of exemption, Caribbean Project Management is hereafter referred to as
+the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+    1. Operations authorized by this grant of exemption are limited to the DJI Phantom 2
+         when weighing less than 55 pounds including payload. Proposed operations of any
+         other aircraft will require a new petition or a petition to amend this exemption.
+
+    2. Operations for the purpose of closed-set motion picture and television filming are
+         not permitted.
+
+    3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+         exemption holder may use either groundspeed or calibrated airspeed to determine
+         compliance with the 87 knot speed restriction. In no case will the UA be operated at
+         airspeeds greater than the maximum UA operating airspeed recommended by the
+         aircraft manufacturer.
+
+    4. The UA must be operated at an altitude of no more than 400 feet above ground level
+         (AGL). Altitude must be reported in feet AGL.
+
+    5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+         This requires the PIC to be able to use human vision unaided by any device other than
+         corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+         U.S. driver's license.
+
+    6. All operations must utilize a visual observer (VO). The UA must be operated within
+         the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+         to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+         capability. The VO and PIC must be able to communicate verbally at all times;
+         electronic messaging or texting is not permitted during flight operations. The PIC
+         must be designated before the flight and cannot transfer his or her designation for the
+         duration of the flight. The PIC must ensure that the VO can perform the duties
+         required of the VO.
+
+    7. This exemption and all documents needed to operate the UAS and conduct its
+         operations in accordance with the conditions and limitations stated in this grant of
+         exemption, are hereinafter referred to as the operating documents. The operating
+         documents must be accessible during UAS operations and made available to the
+         Administrator upon request. If a discrepancy exists between the conditions and
+                                                                                                            4
+
+    limitations in this exemption and the procedures outlined in the operating documents,
+    the conditions and limitations herein take precedence and must be followed.
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+                                                                                                            5
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+    exemption holder may apply for a new or amended COA if it intends to conduct
+    operations that cannot be conducted under the terms of the attached COA.
+                                                                                                            6
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+    be as large as practicable.
+
+23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+    any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+    PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+    These documents must be made available to the Administrator or any law enforcement
+    official upon request.
+
+24. The UA must remain clear and give way to all manned aviation operations and
+    activities at all times.
+
+25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless:
+      a. Barriers or structures are present that sufficiently protect nonparticipating persons
+          from the UA and/or debris in the event of an accident. The operator must ensure
+          that nonparticipating persons remain under such protection. If a situation arises
+          where nonparticipating persons leave such protection and are within 500 feet of
+          the UA, flight operations must cease immediately in a manner ensuring the safety
+          of nonparticipating persons; and
+      b. The owner/controller of any vessels, vehicles or structures has granted permission
+          for operating closer to those objects and the PIC has made a safety assessment of
+          the risk of operating closer to those objects and determined that it does not
+          present an undue hazard.
+
+    The PIC, VO, operator trainees or essential persons are not considered
+    nonparticipating persons under this exemption.
+
+27. All operations shall be conducted over private or controlled-access property with
+    permission from the property owner/controller or authorized representative.
+    Permission from property owner/controller or authorized representative will be
+    obtained for each flight to be conducted.
+
+28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+    boundaries of the operational area as defined by the applicable COA must be reported
+    to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+    reported to the National Transportation Safety Board (NTSB) per instructions
+    contained on the NTSB Web site: www.ntsb.gov.
+                                                                                                                 7
+
+ If this exemption permits operations for the purpose of closed-set motion picture and
+ television filming and production, the following additional conditions and limitations apply.
+
+    29. The operator must have a motion picture and television operations manual (MPTOM)
+         as documented in this grant of exemption.
+
+    30. At least 3 days before aerial filming, the operator of the UAS affected by this
+         exemption must submit a written Plan of Activities to the local Flight Standards
+         District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+         notification may be waived with the concurrence of the FSDO. The plan of activities
+         must include at least the following:
+           a. Dates and times for all flights;
+           b. Name and phone number of the operator for the UAS aerial filming conducted
+              under this grant of exemption;
+           c. Name and phone number of the person responsible for the on-scene operation of
+              the UAS;
+           d. Make, model, and serial or N-Number of UAS to be used;
+           e. Name and certificate number of UAS PICs involved in the aerial filming;
+           f. A statement that the operator has obtained permission from property owners
+              and/or local officials to conduct the filming production event; the list of those
+              who gave permission must be made available to the inspector upon request;
+           g. Signature of exemption holder or representative; and
+           h. A description of the flight activity, including maps or diagrams of any area, city,
+              town, county, and/or state over which filming will be conducted and the altitudes
+              essential to accomplish the operation.
+
+    31. Flight operations may be conducted closer than 500 feet from participating persons
+         consenting to be involved and necessary for the filming production, as specified in the
+         exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                    8
+
+This exemption terminates on June 30. 2017, unless sooner superseded or rescinded.
+Sincerely,
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+April 7, 2015
+
+U.S. Department of Transportation
+Docket Management System
+1200 New Jersey Ave., SE
+Washington DC, 20590
+
+Regarding: CARIBBEAN PROJECT MANAGEMENT REQUEST FOR EXEMPTION UNDER TITLE 14
+CFR, SECTION 333
+
+Dear Sir or Madam;
+
+Since 1991, Caribbean Project Management (CPM) has been privileged to work on some of the
+most recognizable and high-profile commercial buildings and industrial projects in the Caribbean.
+Our works includes projects in the expanding healthcare system, pharmaceutical, infrastructure
+and public projects.
+
+As a Construction Manager, CPM is required to perform different inspections on the outside of
+existing buildings. These inspections validate the construction techniques and procedures and
+often require our employees to be put in situations that require CPM to accept risk. We have
+found that by using a "small Unmanned Aircraft System" (sUAS) with a high resolution camera
+mounted on it, often times we can accomplish the same inspections and alleviate the need to
+put our employees in danger.
+
+CPM shares Congress's goal of getting sUAS flying commercially in the United States safely and
+soon. In the FAA Modernization and Reform Act of 2012, Congress directed the FAA "to safely
+accelerate the integration of civil unmanned aircraft systems in the National Airspace System and
+under section 333 of the law, gave the FAA power to grant innovators "expedited operational
+authorization" to do so.
+
+By this petition, Caribbean Project Management (CPM), is seeking authorization to conduct
+operations with a "small Unmanned Aircraft System" (sUAS) on our own construction sites in
+U.S. Department of Transportation
+Caribbean Project Management Request for Exemption Under Title 14 CFR, SECTION 333
+April 7, 2015
+Page 2 of 10
+
+order to improve the safety of our employees and ensure quality assurance for the facilities we
+are inspecting.
+
+Pursuant to section 333 of the FAA Modernization and Reform Act of 2012 ("FMRA") and 14 CFR
+Part 11, Caribbean Project Management, ("Petitioner"), requests exemption from several
+provisions of the Federal Aviation Regulations ("FAR"). Specifically, portions of 14 CFR Parts 21,
+27, 45, 61 and 91 to allow, among other things, the use of the sUAS ­ DJI Phantom, in the National
+Airspace System (NAS) by knowledged individuals in all regulations and operations of aircraft
+according to FAA regulations.
+
+         A. Petitioner Information
+
+CARIBBEAN PROJECT MANAGEMENT ­ CPM
+Corporate Office Park, CPM Plaza, Suite 200
+Road 20, Km 2.6, Guaynabo, PR 00966-3177
+Phone: (787) 999-4000
+Fax (787) 999-4010
+
+         B. Specific section or sections of 14 CFR from which CPM seeks exemption
+                  a. 14 CFR Part 21 Subpart H
+                  b. 14 CFR Part 27
+                  c. 14 CFR § 45.23(b)
+                  d. 14 CFR § 45.27
+                  e. 14 CFR §§ 61.113(a) and (b)
+                  f. 14 CFR § 91.119
+                  g. 14 CFR § 91.121
+                  h. 14 CFR § 91.151(a);
+                  i. 14 CFR § 91.203(a) and (b)
+                  j. 14 CFR § 91.405(a)
+                  k. 14 CFR § 91.407(a)(1)
+                  l. 14 CFR §§ 91.409(a)(1) and (2)
+                  m. 14 CFR §§ 91.417(a) and (b)
+
+         C. The reasons CPM seeks relief
+
+If granted the above exemptions, CPM will operate the sUAS with the property owner's
+permission. CPM intends to use the sUAS for the following activities;
+U.S. Department of Transportation
+Caribbean Project Management Request for Exemption Under Title 14 CFR, SECTION 333
+April 7, 2015
+Page 3 of 10
+
+                  a. Surveying hard to reach areas of buildings
+                  b. Roof top inspections
+                  c. Building Exterior Envelope Inspections
+                  d. Visual Documentation of Existing Site Conditions before Construction
+                  e. Visual Documentation of Existing Site Conditions during Construction
+                  f. Visual Documentation of Existing Site Conditions after Construction
+                  g. Quality Control / Quality Assurance Inspections
+
+         D. The Aircraft
+
+Caribbean Project Management specifically proposes to conduct UAS operations using small UAS
+including the DJI Phantom 2. The DJI Phantom is a multi-rotor aircraft built with a carbon
+airframe. The DJI Phantom has a maximum takeoff weight of 1 kg (2.21b. The DJI Phantom is
+powered by a 3-Cell Lithium Polymer battery with 5200 mAh, which provides 10-15 minutes of
+flight. The DJI autopilots features auto-takeoff and landing, auto go home and landing, GPS
+waypoint navigation, direction lock, and GIS Mapping.
+
+Specifications include: DJI Phantom:
+
+         · Diameter: 350 mm (1.15ft)
+         · Maximum Weight: 1 kg (2.2 lb)
+         · Number of Motors: 4
+         · Power of Motors- 114 W
+         · Maximum Cruise Speed: 10 m/s (19 kts)
+         · Maximum Climb Rate: 6 m/s (-1200 fpm)
+         · Maximum Wind Speed: 8 m/s (15.6 kts)
+
+Caribbean Project Management agrees that the UAS will include, at minimum: flights not to
+exceed a maximum altitude ceiling of 400' AGL, flight programming capabilities, a flight
+termination link available to the operator to prevent a "fly away," and safe abort procedures. If
+the UAS loses communications or its GPS signal, the UAS will return to a pre-determined location
+and land or be recovered in accordance with the Operations Manual. The UAS will have markings
+identifying the serial number and identification (N-number) markings as large as practicable.
+Further, CPM's UAS operation will comply with all manufacturer Safety Bulletins. The UAS to be
+used will weigh less than 25 pounds and would be specifically
+U.S. Department of Transportation
+Caribbean Project Management Request for Exemption Under Title 14 CFR, SECTION 333
+April 7, 2015
+Page 4 of 10
+
+         E. Operating Parameters
+
+                  a. Petitioner proposes that the exemption requested herein apply to civil aircraft
+                      that have the characteristics and that operate with the limitations listed
+                      herein. These limitations provide for at least an equivalent or even higher level
+                      of safety to operations under the current regulatory structure because the
+                      proposed operations represent a safety enhancement to the already safe
+                      operations conducted with conventional aircraft. Further details about the
+                      aircraft and operating procedures are available in the Operations and Training
+                      Manual.
+
+                  b. The limitations and conditions to which CPM agrees to be bound when
+                      conducting operations with sUAS include;
+                            i. UAS Pilot and Observer
+                                    1. Completed FAA Private Pilot Ground school instruction and
+                                        passed the FAA Private Pilot written exam.
+                                    2. All UAS operations must utilize a visual observer ("VO").
+                                    3. The pilot-in-command ("PIC") and VO must be able to
+                                        communicate verbally during all operations. If unable to
+                                        maintain two-way communication, or if any condition occurs
+                                        that may otherwise cause the operation to be unsafe, the
+                                        operator will immediately conclude the operation.
+                           ii. Operational Parameters
+                                    1. Aircraft will not carry pilots or passengers, and aircraft will not
+                                        carry explosive materials or flammable liquid fuels.
+                                    2. UAS must be operated within visual line of sight of the pilot at
+                                        all times.
+                                    3. UAS may not be flown at ground speeds exceeding 30 knots.
+                                    4. Flights will be operated at an altitude of no more than 400 feet
+                                        above ground level.
+                                    5. Each sUAF operation will be completed within 20 minutes flight
+                                        time or 25% battery power remaining, whichever occurs first.
+                                        At 30% battery the sUAS will enter a return and land sequence,
+                                        at 20% it will land immediately.
+                                    6. The UAS flight will be aborted in the event of unpredicted
+                                        obstacles or emergencies in accordance with the Operations
+                                        Manual.
+                                    7. Operations will be limited to sparsely populated areas under
+                                        the land owners consent.
+U.S. Department of Transportation
+Caribbean Project Management Request for Exemption Under Title 14 CFR, SECTION 333
+April 7, 2015
+Page 5 of 10
+
+                                    8. The operator must obtain a Certificate of Waiver of
+                                        Authorization (COA) prior to conducting any operations under
+                                        this grant of exemption.
+
+                                    9. Before conducting operations, the radio frequency spectrum
+                                        used for operation and control of the sUAS will comply with
+                                        the FCC or other appropriate government oversight agency
+                                        requirements.
+
+                                    10. sUAS operations will not be conducted during night, as defined
+                                        in 14 C.F.R. § 1.1. All operations will be conducted under visual
+                                        flight rules (VFR).
+
+                                    11. The sUAS will not be operated by the PIC from any moving
+                                        device or vehicle.
+
+                                    12. The sUAS will not be operated less than 500 feet below or less
+                                        than 2,000 feet horizontally from a cloud or when visibility is
+                                        less than 3 statute miles from the PIC.
+
+                                    13. The sUAS will not operate in class B, C, or D airspace without
+                                        approval from the FAA. The sUAS will not operate within 5
+                                        nautical miles of the geographic center of a non-towered
+                                        airport as denoted on a current FAA published aeronautical.
+
+                                    14. Any incident, accident, or flight operation that transgresses the
+                                        lateral or vertical boundaries of the operation area defined by
+                                        the applicable COA will be reported to the FAA's office within
+                                        24 hours. Accidents will be reported to the National
+                                        Transportation Safety Board (NTSB) per instructions contained
+                                        on the NTBS web site; www.ntsb.gov.
+
+                                    15. The operator will follow the procedures as outlined in its
+                                        Operation Manual.
+
+                                    16. The Operations Manual will be made available upon request.
+                                    17. Prior to each flight, the pilot will inspect the sUAS to ensure it
+
+                                        is in condition for safe flight. If the inspection reveals a
+                                        discrepancy, the aircraft will be prohibited from operating until
+                                        the necessary maintenance has been performed and the sUAS
+                                        is found to be in a condition for safe flight.
+                                    18. All maintenance and alterations will be properly documented
+                                        in the aircraft records.
+                                    19. Petitioner will institute a rigorous maintenance program to
+                                        ensure airworthiness of the sUAS. Operator will follow the
+U.S. Department of Transportation
+Caribbean Project Management Request for Exemption Under Title 14 CFR, SECTION 333
+April 7, 2015
+Page 6 of 10
+
+                                        manufacturer's sUAS aircraft/component, maintenance,
+                                        overhaul; replacement, inspection, and life limit requirements.
+                                    20. Operator will develop procedures to document and maintain a
+                                        record of the UAS maintenance, preventative maintenance,
+                                        alterations, status of replacement/overhaul component parts,
+                                        and the total time in service of the UAS. These procedures will
+                                        be added to the Operations Manual.
+
+Specific Sections of C.F.R. from which Petitioner SeekS an Exemption
+Caribbean Project Management requests exemption from the following Federal Aviation
+Regulations (FARs) to the extent necessary to enable the requested sUAS operations for the
+reasons detailed below;
+
+    1. 14 C.F.R. Part 21 Subpart H Airworthiness Certificates
+
+Subpart H, entitled Airworthiness Certificates, establishes the procedural requirements for the
+issuance of airworthiness certificates. Given the size and limited operating area associated with
+the aircraft to be utilized. An exemption from Part 21 Subpart H meets the requirements of an
+equivalent level of safety under Part 11 and Section 333 of the Reform Act. The Federal Aviation
+Act and Section 333 of the FMRA both authorize the FAA to exempt aircraft from the requirement
+for an airworthiness certificate, upon consideration of the size, weight, speed, operational
+capability, and proximity to airports and populated areas of the particular UAS. In all cases, an
+analysis of these criteria demonstrates that the UAS operated without an airworthiness
+certificate, in the proposed environments and under the conditions proposed will be at least as
+safe, or safer, than a conventional aircraft (fixed wing or rotorcraft) operating with an
+airworthiness certificate without the restrictions and conditions proposed.
+
+The DJI Phantom is to be operated hereunder is less than 25 pounds each including payload,
+carries neither a pilot nor passenger, carries no explosive materials nor flammable liquid fuels,
+and will operate exclusively within the parameters stated in the Operations Manual. Unlike other
+civil aircraft, operations under this exemption will be tightly controlled and monitored by both
+the operator and under the requirements and in compliance with local public safety
+requirements, to provide security for the area of operation. Finally, these UAS, as a result of its
+size, weight, speed; operational capability and operation within visual sight will not create a
+hazard to users of the national airspace system or pose any threat to national security.
+U.S. Department of Transportation
+Caribbean Project Management Request for Exemption Under Title 14 CFR, SECTION 333
+April 7, 2015
+Page 7 of 10
+
+    2. 14 C.F.R. Part 27: Airworthiness Standards: Normal Category Rotorcraft
+
+14 CFR Part 27 sets forth the procedural requirements for airworthiness certification of normal
+category rotorcraft. To the extent the Petitioner's DJI Phantom would otherwise require
+certification under Part 27, as a rotorcraft, Petitioner requests an exemption from Part 27's
+airworthiness standards for the same reasons identified in the exemption request from item A.
+14 CFR Part 21, Subpart H.
+
+    3. 14 C.F.R. § 45.23(b) Display of Marks; General; 14 C.F.R. § 45.27 Location ofMarks; Non-
+         Fixed Wing
+
+Aircraft Section 45.23(b) requires markings in letters not less than 2 inches nor more than 6
+inches high the words such as "limited, "restricted," and "experimental," as applicable. Section
+45.27 requires that each operator of a rotorcraft must display on that rotorcraft horizontally on
+both surfaces of the cabin, fuselage, boom, or tail the marks required by§ 45.23.
+
+Given the size of the UAS, two-inch lettering will not be feasible. The sUAS will also have no
+entrance to the cabin, cockpit, or pilot station on which the applicable words can be placed. An
+equivalent level of safety will be achieved by having any required words displayed on the aircraft,
+as applicable, in letters of legible size, in a location where the pilot, observer, and others working
+with the sUAS will see the identification. The FAA has issued exemptions to § 45.23 in Exemptions
+Nos. 10700, 8738, 10167, 10167A and 11062. The FAA issued an exemption to 45.27 in Exemption
+No.8496B.
+
+    4. 14 C.F.R. §§ 61.113(a) and (b) Private Pilot Privileges and Limitations
+Sections 61.113 (a) and (b) limit private pilots to non-commercial operations. Because the UAS
+will not carry a pilot or passengers, the proposed operations can achieve the equivalent level
+safety of current operations by requiring the PIC operating the aircraft to have completed FAA
+Private Pilot Ground school instruction and passed the FAA Private Pilot written exam to operate
+this small UAS. Unlike a conventional aircraft that carries the pilot and passengers, the UAS is
+remotely controlled with no living thing on board. The area of operation is controlled and
+restricted, and all flights are planned and coordinated in advance as set forth in the Operations
+Manual. The level of safety provided by the requirements included in the pilot's certificate
+operating a conventional aircraft. The risks associated with the operation of the UAS are so
+diminished from the level of risk associated with commercial operations contemplated by Part
+61 when drafted, that allowing operations of the UAS as requested with a private pilot as the PIC
+U.S. Department of Transportation
+Caribbean Project Management Request for Exemption Under Title 14 CFR, SECTION 333
+April 7, 2015
+Page 8 of 10
+
+exceeds the present level of safety achieved by 14 C.F.R.§§ 61.113 (a) and (b). The FAA issued an
+exemption to this regulation in Exemption No. 1 1062.
+
+    5. 14 C.F.R. § 91.119 Minimum Safe Altitudes
+Section 91.119 establishes safe altitudes for operation of civil aircraft. Section 91.119 (d) allows
+helicopters to be operated at less than the minimums prescribed, provided the person operating
+the helicopter complies with any route or altitudes prescribed for helicopters by the FAA. As this
+exemption is for a sUAS that is a helicopter and the exemption requests authority to operate at
+altitudes up to 400' AGL. As set forth herein, except for the limited conditions stated in the
+Manual, the sUAS will never operate at altitudes higher than 400' AGL. It will however be
+operated in an area with perimeter, where buildings and people will not be exposed to
+operations without their pre-obtained consent. The equivalent level of safety will be achieved
+given the size, weight, speed of the sUAS as well as the location where it is operated. No flight
+will be taken without the permission of the property owner or local officials. Compared to flight
+operations with aircraft or rotorcraft weighing far more than the maximum 25lbs proposed
+herein and the lack of flammable fuel, any risk associated with these operations is far less than
+those presently presented with conventional aircraft operating at or below 400' AGL. In addition,
+the low-altitude operations of the UAS will ensure separation between these small UAS
+operations and the operations of conventional aircraft that must comply with Section 91.119.
+The FAA issued an exemption to this regulation in Exemption No. 11062.
+
+    6. 14 C.F.R. § 91.121 Altimeter Settings
+This regulation requires each person operating an aircraft to maintain cruising altitude by
+reference to an altimeter that is set to the elevation of the departure airport or an appropriate
+altimeter setting available before departure. The sUAS will have a barometric altimeter for
+measuring relative altitude changes, but the displayed altitude on the ground station will be GPS
+measurements, therefore an exemption may be needed. An equivalent level of safety will be
+achieved by the operator, pursuant to the Operations Manual, confirming the altitude of the
+launch site shown on the GPS altitude indicator before flight. The FAA issued an exemption to
+this regulation in Exemption No. 11062
+
+    7. 14 C.F.R. § 91.151(a) Fuel requirements for flight in VFR conditions
+
+Section 91.151 (a) prohibits an individual from beginning a flight in an airplane under VFR
+conditions unless (considering wind and forecast weather conditions) there is enough fuel to fly
+to the first point of intended landing, and, assuming normal cruising speed- (1) During the day,
+to fly after that for at least 30 minutes; or (2) At night, to fly after that for at least 45 minutes."
+Complying with the 30 minute reserve requirement in 14 C.F.R. § 91.151, would unnecessarily
+U.S. Department of Transportation
+Caribbean Project Management Request for Exemption Under Title 14 CFR, SECTION 333
+April 7, 2015
+Page 9 of 10
+
+limit the length of Caribbean Project Management's sUAS flights. The batteries powering the DJI
+Phantom provide approximately 15 minutes of flight time. To meet the 30 minutes reserve
+requirement in 14 C.F.R. § 91.151, the sUAS flights would not be possible. Given the limitations
+on the UAS's proposed flight area and the location of its proposed operations within a
+predetermined area, a longer time frame for flight in daylight conditions is reasonable. Operating
+the small sUAS in a tightly controlled area where only personnel and property owners will be
+present does not engender the type of risks that§ 91.151(a) was intended to alleviate given the
+size and speed of the small sUAS. Caribbean Project Management believes that an equivalent
+level of safety can be achieved by limiting flights to 12 minutes or 25% of battery power,
+whichever happens first. The FAA issued an exemption to this regulation in Exemption No.1 1062
+and 10673.
+
+    8. 14 C.F.R. §91.203 (a) and (b) Carrying Civil Aircraft Certification and Registration
+
+The regulation provides in pertinent part;
+                  a. Except as provided in § 91.715, no person may operate a civil aircraft unless it
+                      has within it the following:
+                            i. An appropriate and current airworthiness certificate
+                  b. No person may operate a civil aircraft unless the airworthiness certificate
+                      required by paragraph (a) of this section or a special flight authorization issued
+                      under §91.715 is displayed at the cabin or cockpit entrance so that it is legible
+                      to passengers or crew.
+
+The UAS fully loaded weighs no more than 25 lbs. and is operated without an onboard pilot. As
+such, there is no ability or place to carry certification and registration documents or to display
+them on the UAS. An equivalent level of safety will be achieved by keeping these documents at
+the ground control point where the pilot flying the UAS will have immediate access to them, to
+the extent they are applicable to the UAS. The FAA has issued numerous exemptions to this
+regulation. A representative sample of other exceptions includes Exemption Nos. 9565, 9665,
+9789, 9789A, 9797, 9797A, 9816A, and 10700.
+
+    9. 14 C.F.R. § 91.405(a) Maintenance Required; 14 C.F.R. § 91.407(a)(1) Operation After
+         Maintenance, Preventive Maintenance, Rebuilding or Alteration; 14 C.F.R. §§
+         91.409(a)(1) and (2) Inspections; 14 C.F.R. §§ 91.417(a) and (b) Maintenance Records
+
+These regulations require that an aircraft operator or owner "shall have that aircraft inspected
+as prescribed in subpart E of this part and shall between required inspections, except as provided
+U.S. Department of Transportation
+Caribbean Project Management Request for Exemption Under Title 14 CFR, SECTION 333
+April 7, 2015
+Page 10 of 10
+
+in paragraph (c) of this section, have discrepancies repaired as prescribed in part 43 of this
+chapter..." and others shall inspect or maintain in the aircraft in compliance with Part 43.
+
+Given that these sections and Part 43 apply only to aircraft with an airworthiness certificate,
+these sections will not apply to the Petitioner. Maintenance will be accomplished by the operator
+pursuant to the Operations Manual. An equivalent level of safety will be achieved because these
+small UAS are very limited in size and will carry a small payload and operate only in restricted
+areas for limited periods of time. If mechanical issues arise, the UAS can land immediately and
+will be operating from no higher than 400' AGL. As provided in the Operations Manual, the
+operator will ensure that the UAS is in working order prior to initiating flight, perform required
+maintenance, and keep a log of any maintenance performed. Moreover, the operator is the
+person most familiar with the aircraft and best suited to maintain the aircraft in an airworthy
+condition to provide the equivalent level of safety. The FAA issued an exemption to these
+regulations in Exemption No. 11062.
+
+    10. Such Other Relief as the FAA Deems Appropriate
+
+Caribbean Project Management also requests exemption from such other FARs as the FAA Grant
+of Exemption issued pursuant to this Petition, the FAA issues interim or final rules for small UAS,
+Caribbean Project Management requests that it be relieved of the requirements of any conditions
+and limitations of said exemption and allowed to comply with any less burdensome applicable
+regulations that may have become effective.
+
+CONCLUSION
+
+Based on the satisfaction of the criteria provided in Section 333 of the FMRA regarding size,
+weight, speed, operating capabilities, proximity to airports and populated areas, operation within
+visual line of sight, and national security, Caribbean Project Management requests that the FAA
+grant it the necessary exemptions under Section 333 of the FMRA as requested herein to allow
+the use of small UAS aircraft for inspection of construction projects.
+
+If you need additional information, don't hesitate to contact us at 787-999-4000.
+
+Cordially,
+
+José R. Torres Morales, PE
+VP Projects and Risk Management
+

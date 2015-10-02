@@ -1,0 +1,715 @@
+April 2, 2015
+
+                                                          Exemption No. 11272
+                                                          Regulatory Docket No. FAA-2014-0905
+
+Mr. Jon Marek
+President
+Marek Management, LLC
+122 Euclid Street
+Pensacola, FL 32503
+
+Dear Mr. Marek:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+The Basis for Our Decision
+
+By letter dated October 24, 2014, you petitioned the Federal Aviation Administration (FAA)
+on behalf of Marek Management, LLC (hereinafter petitioner or operator) for an exemption.
+The exemption would allow the petitioner to operate an unmanned aircraft system (UAS) to
+conduct mapping services and sensor deployment for the mining, agriculture, and mineral
+exploration industries.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+Discussion of Public Comments:
+
+A summary of the petition was published in the Federal Register on February 11, 2015,
+(80 FR 7674). The petition received one comment. The Air Line Pilots Association,
+International (ALPA) opposed the petition.
+                                                                                                                 2
+
+ALPA expressed concern regarding several aspects of the petition. ALPA stated the petitioner
+does not publically detail procedures for controlling the airspace or area of operation.
+Specifically, ALPA stated "there must be means both to ensure that the sUAS remains within
+the defined airspace and to ensure that the hazard of other aircraft intruding on the operation
+is mitigated."
+
+The FAA believes the limitations under which the petitioner will operate (i.e., VLOS and at or
+below 400 feet AGL) are sufficient mitigations to this risk so that the operations will not
+adversely affect safety.
+
+ALPA stated the petition does not clearly state how the pilot and required observer will
+communicate. ALPA claimed the pilot and observer should be able to maintain a visual
+observation of the aircraft and area of operation when using voice communication. The FAA
+has inserted a condition regarding PIC and visual observer communications.
+
+ALPA asserted the UAS's lithium polymer batteries have numerous associated fire and
+explosion hazards as outlined in DOT/FAA/AR-09/55, "Flammability Assessment of
+Lithium-Ion and Lithium-Ion Polymer Battery Cell Designed for Aircraft Power Usage
+(January 2010)," and that the safe carriage of the batteries and the mitigations in place for
+known risks should be addressed. The referenced study was primarily conducted to determine
+how certain battery cells react in a fire situation aboard manned airplanes. Given the size of
+the battery and the operating conditions of the UAS, the FAA concludes that the use of a
+lithium polymer battery will not pose an undue safety risk for the proposed operations.
+
+ALPA commented that command and control (C2) link failures are one of the most common
+failures on a UAS, and that lost link mitigations should require safe modes to prevent fly-
+aways or other scenarios. The FAA has inserted conditions and limitations in this exemption
+to mitigate the risk associated with such failures.
+
+ALPA also noted that the petitioner's proposed operations are for "compensation or hire," and
+therefore contends the pilot must hold at least a current FAA commercial pilot certificate with
+an appropriate category and class rating for the type of aircraft being flown, as well as specific
+and adequate training on the UAS make and model intended to be used. Similarly, ALPA
+asserted a current second class airman medical certificate should be required.
+
+The FAA has reviewed the knowledge and training requirements of sport, recreational, private
+and commercial certificates and concluded that a UAS PIC holding a minimum of a sport
+pilot certificate, and operating under this exemption, would not adversely affect operations in
+the NAS or present a hazard to persons or property on the ground.
+
+ALPA noted the petitioner must specify a means to meet see and avoid requirements in §
+91.113 given the absence of an onboard pilot. The FAA notes that all flights must be operated
+within VLOS of the PIC and VO.
+                                                                                                                 3
+
+ALPA commented that while the petitioner's aircraft has a barometric sensor, the platform
+does not have a barometric altimeter as required by 14 CFR § 91.121. ALPA stated that
+processes or mitigations must be in place to ensure the UA can accurately maintain altitude
+including engineering processes, software development and control, electronic hardware
+development and control, configuration management, and design assurance to ensure the
+aircraft and its control system(s) operate to the same level of safety as other aircraft operated
+commercially in the National Airspace System (NAS).
+
+Regarding the fuel requirements of § 91.151, ALPA argued that using batteries as the only
+source of an aircraft's power is a substantial shift from traditional methods of propulsion, and
+requires further research to determine best safety practices.
+
+Regarding §§ 91.405(a), 91.407(a)(1), 91.409(a)(2), and 91.417(a) and (b), ALPA opposed
+the petitioner's attempt to avoid compliance with established aircraft maintenance and
+recordkeeping requirements. ALPA states the UAS should comply with the same level of
+safety as other aircraft operated commercially in the NAS. The FAA finds that adherence to
+the petitioner's operating documents, as required by the conditions and limitations below, is
+sufficient to ensure that safety is not adversely affected.
+
+ALPA also expressed concern that the petitioner's request is not for a single specific
+operation or location, but for all operations of the same general type. ALPA stated that this
+results in a considerable increase in the FAA's oversight tasks. The FAA notes ALPA's
+concern and in order to minimize potential impact to the NAS, the FAA requires that each
+operator secure a Certificate of Waiver or Authorization (COA) which covers specific details
+of the petitioner's operation. The FAA recognizes that UAS integration will generate new
+NAS access demand and will review and adjust accordingly.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner is a SkyWard 1.
+
+In accordance with the statutory criteria provided in Section 333 of Public Law 112-95 in
+reference to 49 U.S.C. § 44704, and in consideration of the size, weight, speed, and limited
+operating area associated with the aircraft and its operation, the Secretary of Transportation
+has determined that this aircraft meets the conditions of Section 333. Therefore, the FAA
+finds relief from 14 CFR part 21, Certification procedures for products and parts, Subpart
+H--Airworthiness Certificates, and any associated noise certification and testing requirements
+of part 36, is not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+                                                                                                                 4
+
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+ They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+ The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+ A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, Marek Management, LLC is granted an exemption
+from 14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a), 91.7(a),
+91.119(c), 91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a)
+and (b), to the extent necessary to allow the petitioner to operate a UAS to perform aerial data
+collection. This exemption is subject to the conditions and limitations listed below.
+
+Conditions and Limitations
+
+In this grant of exemption, Marek Management, LLC is hereafter referred to as the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+    1. Operations authorized by this grant of exemption are limited to the SkyWard 1 when
+         weighing less than 55 pounds including payload. Proposed operations of any other
+         aircraft will require a new petition or a petition to amend this exemption.
+
+    2. Operations for the purpose of closed-set motion picture and television filming are
+         not permitted.
+
+    3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+         exemption holder may use either groundspeed or calibrated airspeed to determine
+         compliance with the 87 knot speed restriction. In no case will the UA be operated at
+                                                                                       5
+
+airspeeds greater than the maximum UA operating airspeed recommended by the
+aircraft manufacturer.
+
+4. The UA must be operated at an altitude of no more than 400 feet above ground level
+    (AGL). Altitude must be reported in feet AGL.
+
+5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+    This requires the PIC to be able to use human vision unaided by any device other than
+    corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+    U.S. driver's license.
+
+6. All operations must utilize a visual observer (VO). The UA must be operated within
+    the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+    to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+    capability. The VO and PIC must be able to communicate verbally at all times;
+    electronic messaging or texting is not permitted during flight operations. The PIC must
+    be designated before the flight and cannot transfer his or her designation for the
+    duration of the flight. The PIC must ensure that the VO can perform the duties
+    required of the VO.
+
+7. This exemption and all documents needed to operate the UAS and conduct its
+    operations in accordance with the conditions and limitations stated in this grant of
+    exemption, are hereinafter referred to as the operating documents. The operating
+    documents must be accessible during UAS operations and made available to the
+    Administrator upon request. If a discrepancy exists between the conditions and
+    limitations in this exemption and the procedures outlined in the operating documents,
+    the conditions and limitations herein take precedence and must be followed.
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update or
+    revision would affect the basis upon which the FAA granted this exemption, then the
+    operator must petition for an amendment to its grant of exemption. The FAA's UAS
+    Integration Office (AFS-80) may be contacted if questions arise regarding updates or
+    revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g. replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+                                                                                                            6
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g. inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and aircraft
+    components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer safety
+    bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Colombia, Puerto Rico, a territory, a possession, or the Federal
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+                                                                                                            7
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current FAA-
+    published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a pre-
+    determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+    exemption holder may apply for a new or amended COA if it intends to conduct
+    operations that cannot be conducted under the terms of the attached COA.
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+    number, registered in accordance with 14 CFR part 47, and have identification (N-
+    Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must be
+    as large as practicable.
+
+23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+    any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+    PIC at the Ground Control Station of the UAS any time the aircraft is operating. These
+    documents must be made available to the Administrator or any law enforcement
+    official upon request.
+
+24. The UA must remain clear and give way to all manned aviation operations and
+    activities at all times.
+
+25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless:
+                                                                                                               8
+
+          a. Barriers or structures are present that sufficiently protect nonparticipating persons
+             from the UA and/or debris in the event of an accident. The operator must ensure
+             that nonparticipating persons remain under such protection. If a situation arises
+             where nonparticipating persons leave such protection and are within 500 feet of
+             the UA, flight operations must cease immediately in a manner ensuring the safety
+             of nonparticipating persons; and
+
+          b. The owner/controller of any vessels, vehicles or structures has granted permission
+             for operating closer to those objects and the PIC has made a safety assessment of
+             the risk of operating closer to those objects and determined that it does not
+             present an undue hazard.
+
+       The PIC, VO, operator trainees or essential persons are not considered
+       nonparticipating persons under this exemption.
+
+   27. All operations shall be conducted over private or controlled-access property with
+       permission from the property owner/controller or authorized representative.
+       Permission from property owner/controller or authorized representative will be
+       obtained for each flight to be conducted.
+
+   28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+       boundaries of the operational area as defined by the applicable COA must be reported
+       to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+       reported to the National Transportation Safety Board (NTSB) per instructions
+       contained on the NTSB Web site: www.ntsb.gov.
+
+If this exemption permits operations for the purpose of closed-set motion picture and
+television filming and production, the following additional conditions and limitations apply.
+
+   29. The operator must have a motion picture and television operations manual (MPTOM)
+       as documented in this grant of exemption.
+
+   30. At least 3 days before aerial filming, the operator of the UAS affected by this
+       exemption must submit a written Plan of Activities to the local Flight Standards
+       District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+       notification may be waived with the concurrence of the FSDO. The plan of activities
+       must include at least the following:
+          a. Dates and times for all flights;
+          b. Name and phone number of the operator for the UAS aerial filming conducted
+             under this grant of exemption;
+          c. Name and phone number of the person responsible for the on-scene operation of
+             the UAS;
+          d. Make, model, and serial or N-Number of UAS to be used;
+          e. Name and certificate number of UAS PICs involved in the aerial filming;
+                                                                                                                 9
+
+           f. A statement that the operator has obtained permission from property owners
+              and/or local officials to conduct the filming production event; the list of those
+              who gave permission must be made available to the inspector upon request;
+
+           g. Signature of exemption holder or representative; and
+           h. A description of the flight activity, including maps or diagrams of any area, city,
+
+              town, county, and/or state over which filming will be conducted and the altitudes
+              essential to accomplish the operation.
+
+    31. Flight operations may be conducted closer than 500 feet from participating persons
+         consenting to be involved and necessary for the filming production, as specified in the
+         exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+
+This exemption terminates on April 30, 2017, unless sooner superseded or rescinded.
+
+Sincerely,
+
+/s/
+John S. Duncan
+Director, Flight Standards Service
+                                Marek Management, LLC                         -'~ . . .
+                          122 Euclid St., Pensacola, FL 32503
+                  (904) 705-2698 · marekmanagement@gmail.com
+
+October 24, 2014
+
+U.S. Department of Transportation, Docket Operations, M-30
+1200 New Jersey Avenue, SE.
+Room W12-140, West Building Ground Floor
+Washington DC 20590-0001
+
+RE: Marek Management, LLC Petition for Exemption under Section 333 ofthe FAA
+Modernization and Reform Act of2012
+
+To Whom It May Concern,
+
+Marek Management, LLC seeks exemption as guided by the Secretary of Transportation
+authority under Section 333, Special Rules for Certain Unmanned Aircraft Systems, ofthe FAA
+Modernization and Reform Act of2012, Public Law 112-95, February 14,2012. Marek
+Management seeks to operate small Unmanned Aircraft Systems (sUAS)s for commercial
+purposes to provide services to production industries. As outlined by Enclosures A (Marek
+Management General Operations Manual) and B (Marek Management Skyward 1 Operations
+Manual), Marek Management sUAS operations pose no threat or hazard to the U.S. National
+Airspace System (NAS).
+
+With the approval of a Section 333 exemption and adhering to the guidelines set forth in
+Enclosures A and B, Marek Management seeks to conduct sUAS mapping services and sensor
+deployment for the mining, agriculture, and mineral exploration industries. Enclosures A and B
+are Marek Management proprietary documents outlining sUAS procedural detail.
+
+In reference to Title 14 CPR, Part 91, the following sections are sought for exemption: 61.113 (a)
+and (b), 91.113 (b), 91.119 (c), 91.121 (a), 91.151 (a) (1), 91.405 (a), 91.407 (a) (1), 91.409 (a),
+91.417 (a) and (a):
+
+SECTION 61.113 (A) AND (B) PRIVATE PILOT PRIVILEGES AND LIMITATIONS:
+PILOT IN COMMAND.
+
+(a) Except as provided in paragraphs (b) through (h) ofthis section, no person who holds a
+private pilot certificate may act as pilot in command ofan aircraft that is carrying passengers or
+property for compensation or hire; nor may that person, for compensation or hire, act as pilot in
+command ofan aircraft.
+
+                                                                              1 of7
+(b) A private pilot may, for compensation or hire, act as pilot in command ofan aircraft in
+connection with any business or employment if:
+
+(1) The flight is only incidental to that business or employment; and
+
+(2) The aircraft does not carry passenger.sor:ptopertyfor compensation or hire.
+
+Marek Management seeks exemption from this section due to a commercial pilot license
+inability to advance the sUAS's Pilot in Command (PIC) to perform their duties safer. The PIC
+qualification process set f~rth ih Enclosure A, Chapter 2, provides the adequate training and FAA
+prerequisites required for a sUAS PIC to operate safely in the NAS.
+
+To seek exemption under section 61.113 (a) and (b), Marek Management seeks to conduct
+operations under guidelines set fmih in Enclosure A. Outlined in Enclosure A Sections 1.4, 1.5,
+2.1, 2.2, 2.3, 2.4, 2.5, 2.6, 2.7; 2.8, 3.2, 3.6, 3.13, 3.15, 3.16, 4.2, 4.3, and 4.4, Marek
+Management seeks exemption by adhering to the following: a mandated Certificate of
+Authorization (COA), FAR/AIM and NOTAM requirement, minimum crew composition ofPIC
+and Visual Observer (VO), PIC ahd VO qualification requirements, operations limited to Class G
+Airspace below 400 feet AGL, PIC Visual Line of Sight (VLOS), minimum separation
+requirements with manned objects, separation procedures, NOTAM issuance, local Flight
+Standards District Office (FSDO) appro:val, and required documentations during operations.
+Specific operating procedure~ and emergency procedures are set forth in Enclosure B Chapters 2
+and 3, respectively.
+
+SECTION 91.113 (B) RIGHT-OF-WAY RULES: EXCEPT WATER OPERATIONS.
+
+(b) General. When weather conditions permit, regardless ofwhether an operation is conducted
+under instr11me11tflight ru}es or visualflight rules,, vigilance shall be maintained·by each person
+operating an aircraft so as to see and avoid otheraircrafi. When·a rule ofthis section gives
+another air,c;:raft the right-of-way, the pilot shall give way to that aircraft and may not pass over,
+under, or ahead ofit unless well clear.
+
+Marek Management seeks exemption from this section due tu the inability for an Unmanned
+Air~raft (UA) to accommodate a person inside the aircraft to see and avoid. To seek exemption
+under section 91.113 (b), Marek Management seeks to conduct operations under guidelines set
+forth in Enclosure A. Outlined in Enclosure A sections 2.1, 3.2, 3.15, and 3.16, Marek
+Management seeks exemption by adhering to ,the following: minimum crew composition of PIC
+and VO, PIC and VO qualification requirements, VLOS, minimum separation requirements with
+manned objects, and separation procedures. Specific operating procedures and emergency
+procedures are set forth in Enclosure B Chapters 2 and 3; respectively.
+
+                                                                                                             2 of7
+SECTION 91.119 (C) MINIMUM SAFE ALTITUDES: GENERAL.
+
+Except when necessary for takeoffor landing, no person may operate an aircraft below the
+following altitudes:
+
+(c) Over other than congested areas.·An. altitljtde:o.of500feet above the surface, except over open
+water or sparsely populated areas. In those cases, the aircraft may not be operated closer than
+500 feet to any person; vessel, vehicle,·or struettir.e: · ,; .
+
+Marek Management seeks exemptionJrom this section due to UAs operating·below 400 feet
+AGL. To seek exemption under section 91.119 (c), Marek Management seeks to conduct
+operations under guidelines set forth in Enclosure A. As outlined in Enclosure A sections 2.6,
+3.1, 3.6 and3.15, Marek Management seeks exemption by adhering to the following: PIC
+qualification requirements, altitude restrictions, operations limited to Class G Airspace below
+400 feet AGL, minimum separation requirements with manned objects, and separation
+procedures. Specific operating procedures and emergency procedures are set forth i:h Enclosure
+B Chapters 2 andJ, respectively.
+
+SECTION 9,1.121 (A) ALTIMETER SETTINGS. .
+
+ (a) Each person operating an aircraft shall maintain the cruising altitude or flight level ofthat
+·aircraft, as the case may be, by reference to an altimeter -that is ·Set, when operating--
+
+(I) Below I8,000feet MSL, to--
+
+(i) The current reported altimeter setting ofa station along the route and within I 00 nautical
+
+miles ofthe aircraft; ·
+
+(ii) Ifthere is no station within the area prescribed in paragraph (a)(I)(i) oftliis section, the
+
+current reported altimeter setting ofan appropriate available station; or ·
+
+(iii) In the case ofan aircraft not equipped with a radio, the elevation ofthe departure airport or
+
+an appropriate altimeter setting available before departure[.} ·             ·
+
+Marek Management seeks exemption from this section due to the inability to carry a barometric
+altimeter onboard the UA. To seekexemptionunder section 91.121 (a), Marek Management
+seeks to conduct operations under guidelines set forth in Enclosure A. Outlined in Enclosure A
+section 3.7, Marek Management seeks exemption by adhering to the GPS altitude requirements
+set forth in Enclosure A, Specific operating procedures and ·emergency procedures are set forth
+in Enclosure B Chapters 2 and 3,,respective1y.
+
+SECTION 91.151 (A) (1) FUELREQUIREMENTS FOR FLIGHT IN VFR CONDITIONS.
+
+(a) No person may begin a flight in an airplane under VFR conditions unless (considering wind
+andforecast weather conditions) there is enough fuel to fly to the first point ofintended landing
+and, assuming normal cruising speed-
+
+(I) During the day, to fly after that for at least 30 minutes[.}
+
+                                                                                3 of7
+Marek Management seeks exemption from this section due to the UA's use of battery power vice
+
+fuel; therefore, the fuel requirement set forth in this section is not attainable. To seek exemption
+
+under section 91.151 (a) (1), Marek Management seeksJo conduct operations under guidelines
+
+set forth in Enclosure A. Outlined in Enclosure A sections 3.1, 3.3, 3.4, 3.5, 3.6, 3.13, 3.14, and
+
+3.15,  Marek  Management  seeks  exemptio. n  b)\  adheringtothe  following:  UA  weight,  UA  speed
+                                                        '
+limitation, altitude restrictions, weather minim.um:tequirements, prohibited night. operations,
+
+reviewing NOTAMs, operations limited to Class G Airspace below 400 feet AGL, PIC VLOS,
+
+battery health monitoring, and minimum separation. requirements with manned objects. Specific
+
+normal operating procedures and emergency procedures are set forth in ·Enclosure B Chapters 2
+
+and 3, respectively.
+
+SECTION 91.405 (A) MAINTENANCE REQUIRED.
+
+Each owner or operator ofan aircraft-
+
+(a) Shall hay,e that aircraft inspected as prescribed in subpart E ofthis part and shall between
+requiredtnspections, except as provided inparagraph·(c) ofthis section, have discrepancies
+repaired a,s prescribed in part 43 ofthis chapter[.}
+
+Marek Management seeks exemption from this section due to sUAS maintenance not defined in
+the Code. To seek exemption under section 91.405 (a) (1), Marek Management seeks to conduct
+operations under guidelines set forth in Enclosure A. Outlined in Enclosure A sections 6.1, 6.2,
+6.3, and 6.4, Marek Management seeks exemption by adhering to the following: a maintenance
+progr~m, technician qualifications, maintenance records, and utilizing functional check flights.
+Specific maintenance operations are set forth in Enclosure B Chapter 4, Service and Handling.
+
+SECTION9JA07 (A) .(1) OPERATION AFTER. MAINTENANCE, PREVENTIVE
+MAINTJ{N.ANCE, REBUILDING, OR ALTERATION.
+
+(a) No person may operate any aircraft that has undergone maintenance, preventive
+maintenance, rebuilding, or alteration unless-
+
+(I) It has been approvedfor return to service by a person authorized under Sec. 43.7 ofthis
+chapter[}
+
+Marek Management seeks exemption from this section due to sUAS maintenance not defined in
+the Code. To seek exemption under section 91.407 (a) (1), Marek Management seeks to conduct
+operations under guidelines set forth in Enclosure A. Outlined in Enclosure A sections 6.1, 6.2,
+and 6.4, Marek Management seeks exemption by adhering to the following: a maintenance
+program, technician qualifications, and utilizing functional check flights. Specific maintenance
+operations are set forth in Enclosure BChapter·4,_ Service and Handling.
+
+                                                                                   4 of7
+SECTION 91.409 (A) INSPECTIONS.
+
+(a) Except as provided in paragraph (c) ofthis section, no person may operate an aircraft
+unless, within the preceding 12 calendar months, it has had--
+
+(1) An annual inspection in accordi:mce,withpart::43:ofthis chapter and has been approvedfor
+
+return to service by a person authorizedby)Sec~. 43.7 tJfthis chapter,' or
+
+                                 ' ' ~ ':            /. '  '
+
+(2) An inspection for the issuance ofan airworthiness certificate in ·accordance with part 21 of
+
+this chapter. No inspection performedunderparagraph (b) ofthis section may be substitutedfor
+
+any inspection required by this paragraph unless it is performed by a person authorized to
+
+perform annual inspections and is entered as an "annual" inspection in the required
+
+maintenance records.
+
+Marek Management seeks exemption from this section due to sUAS maintenance not defined in
+the Code. To seek exemption under section 91.409 (a), Marek Management seeks to conduct
+operations under guidelines set forth in Enclosure A: Outlined in Enclosure A sections 6.1, 6.2,
+and 6.4, Marek Management seeks exemption by adhering to the following: a maintenance
+program, technician qualifications, and utilizing functional check flights. Specific maintenance
+operations are set forth in Enclosure B Chapter 4, Service and Handling.
+
+SECTION 91.417 (A) AND (B) MAINTENANCE RECORDS;
+
+(a) Except for work performed in accordance with Sec. 91.41 I and Sec. 91.413, ··each registered
+owner or operator shall keep the following records for the periods specified in paragraph (b) of
+this section:
+
+(1) Records ofthe maintenance, pteventive'tnaintenance, andalieration and records ofthe 100-
+
+hour, annual, progressive, and other requirea.br. approved inspections, as· approptidte, for each
+
+aircraft (including the airframe) and each engine, propeller, rotor, and appliance ofan aircraft.
+
+The records must include-        , ' ·. ,
+
+(i) A description (or reference to data acceptable to the Administrator) ofthe work performed;
+and
+(ii) The date ofcompletion ofthe work performed; and
+(iii) The signature, and certificate number ofthe person approving the aircraftfor return to
+service.·
+
+(2) Records containing the following information: ·
+
+(i) The total time in service ofthe airframe,·each engine, each propeller, and each rotor.
+(ii) The current status oflife-limited parts ofeach airframe, engine, propeller, rotor, and
+appliance.
+(iii) The time since last overhaul ofall items installed on the aircraft which are required to be
+overhauled on a specified time basis.
+
+                                                                                     5 of7
+(iv) The current inspection status ofthe aircraft, including the time since the last inspection
+
+required by the inspection program under which the aircraft and its appliances are maintained.
+
+(v) The current status ofapplicable airworthiness directives (AD) and safety directives
+
+including, for each, the method ofcompliance, .the AD. or safety directive number and revision
+
+date. Ifthe AD or safety directive involves. requ,rring action, the time and date when the next
+
+action is required.  '-·· · r,,.·;., ·: .;,,;; ..
+
+(vi) Copies ofthe forms prescribed by Sec. ;43.9(d) ofthis chapter for each major alteration to
+
+the airframe and currently installedeJ;?gines, :rators~ propellers, and appliances.
+
+(b) The owner or operator shall retain the following records for the periods prescribed:
+
+(1) The records specified in paragraph (a)(1) ofthis section shall be retained until the work is
+repeated or superseded by other work or for 1 year after the work is performed.·
+
+(2) The records specified in paragraph (a)(2) ofthis section shall be retained and transferred
+with the aircraft at the time the aircraft is sold.
+
+(3) A list ofdefects furnished to a registered owner or operator under§ 43.11 ofthis chapter
+shall be retained until the defects are repaired and the aircraft is approvedfor return to service.
+
+Marek Management seeks exemption from this section due to sUAS maintenance not defined in
+the Code. To seek exemption under section 91.417 (a) and (b), Marek Management seeks to
+conduct operations under guidelines set forth in Enclosure A. Outlined in Enclosure A section
+6.3, Marek Management seeks exemption by adhering to the maintenance record requirement.
+Specific maintenance record requirements are set forth in Enclosure B Chapter 4, Service and
+Handling.
+
+In reference to Title 14 CFR, Part 21, subpart H, Airworthiness Certificates, Marek Management
+seeks an exemption. Marek Management seeks exemption from this subpart due to the UA's
+weight, speed, and operating area limitations. To seek exemption under subpart H, Marek
+Management seeks to conduct operations under guidelines set forth in Enclosure A. As outlined
+in Enclosure A sections 1.4, 3.1, 3.6, 3.8, 3.9, and 3.10, Marek Management seeks exemption by
+adhering to the following: COA requirement, weight limitations, speed limitations, operating
+area limitations, and flight computer capabilities. Specific operating procedures and emergency
+procedures are set forth in Enclosure B Chapters 2 and 3, respectively.
+
+The operation of Marek Management sUAS seeks to provide production services to miners,
+fanners, and geologist that currently collect production data by manned aircraft or ground
+vehicles. Marek Management sUAS near real-time aerial surveillance in the mining, agriculture,
+and mineral exploration industries seeks to provide complete production information, improved
+decision making, leading to reduced production costs. By utilizing Marek Management sUAS
+services, manned flights are reduced or eliminated, freeing up controlled airspace and manned
+aircraft operating at low altitudes to collect similar data. When compared to ground collections,
+the sUAS collects data more quickly and efficiently than ground vehicles. Marek Management
+UAs can penetrate areas without disturbing the environment, while ground vehicles would either
+
+                                                                                     6 of7
+)
+
+                 be unable to reach these areas or dramatically alter the environment in order to collect similar
+                 data.
+
+                 By utilizing Marek Management sUASser'vices, the cost to obtain aerial data in remote settings
+                 is dramatically reduced when compared to the current manned. services providing similar data
+                 collections. A successful grant of exemption from sections 61.113 (a) and (b), 91.113 (b), 91.119
+                 (c), 91..121 (a), 91.151 (a) (1), 91.405 (a);91.409 (a) (1), 91.409 (a), 91.417 (a) and (a) from Title
+                 14 CFR, Part 91 and subpart H of Part 21 would' allow the·utilization of Marek Management
+                 sUAS services to safely operate in the mining, agriculture, and mineral exploration industries.
+
+                 The sUAS procedures outlined in Enclosures A and B demonstrate Marek Management's level
+                 of safety to be at least equal to or better than manned aircraft conducting similar operations.
+                 Marek Management is committed to a culture·of safety in all phases of sUAS operations. Safety
+                 is the highest priority and is addressed and emphasized throughout Marek Management operating
+                 manuals (Enclosures A and B) and training. Chapter 5 of Enclosure A provides the safety
+                 protocols utilized by Marek Management. Enclosure B·integrates safety procedures as a critical
+                 component of normal operating procedures, emergency procedures, and servicing.
+
+                 Marek Management sincerely thanks the FAA for consideration of this request for exemption as
+                 outlined by Section 333 of the FAA Modernization and Reform Act of2012. Should you need to
+                 contact me, lean be reached by e-mail at marekmanagement@gmail.com or by phone at (904)
+                 705-2698.
+
+                 Sincerely,
+
+President; Marek Management, LLC  ' '· .··:
+
+Enclosures: ·
+(A) Marek Management General Operations Manual
+(B) Marek Management Skyward 1 Operations Manual
+
+                                                  7 of7
+

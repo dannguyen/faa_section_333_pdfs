@@ -1,0 +1,717 @@
+May 4, 2015
+
+                                                           Exemption No. 11453
+                                                           Regulatory Docket No. FAA­2015­0231
+
+Mr. James T. Adams
+Vice President
+USAerobotix, LLC
+P.O. Box 124
+Gettysburg, OH 45328
+
+Dear Mr. Adams:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter dated January 28, 2015, you petitioned the Federal Aviation Administration (FAA)
+on behalf of USAerobotix, LLC (hereinafter petitioner or operator) for an exemption. The
+petitioner requested to operate an unmanned aircraft system (UAS) to conduct aerial
+photography and other sensors to inspect utility infrastructure and equipment, wind turbine
+blades and other structural aspects of wind farms, solar power panels, and vegetation and line
+clearance for tree trimming.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner. However, four
+comments were filed in the docket in support of the petition.
+                                                                                               2
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner is a SelectTech Geopatial EH-4.
+
+The petitioner requested relief from 14 CFR part 21, Certification procedures for products
+and parts, Subpart H--Airworthiness Certificates. In accordance with the statutory criteria
+provided in Section 333 of Public Law 112-95 in reference to 49 U.S.C. § 44704, and in
+
+consideration of the size, weight, speed, and limited operating area associated with the
+
+aircraft and its operation, the Secretary of Transportation has determined that this aircraft
+
+meets the conditions of Section 333. Therefore, the FAA finds that the requested relief from
+
+14 CFR part 21 and any associated noise certification and testing requirements of part 36, is
+
+not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+ They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+ The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+ A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, USAerobotix, LLC is granted an exemption from
+14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a), 91.7(a), 91.119(c),
+91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a) and (b), to
+the extent necessary to allow the petitioner to operate a UAS to perform aerial data collection.
+This exemption is subject to the conditions and limitations listed below.
+                                                                                              3
+
+Conditions and Limitations
+
+In this grant of exemption, USAerobotix, LLC is hereafter referred to as the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+1. Operations authorized by this grant of exemption are limited to the SelectTech
+    Geopatial EH-4 when weighing less than 55 pounds including payload. Proposed
+    operations of any other aircraft will require a new petition or a petition to amend this
+    exemption.
+
+2. Operations for the purpose of closed-set motion picture and television filming are
+    not permitted.
+
+3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+    exemption holder may use either groundspeed or calibrated airspeed to determine
+    compliance with the 87 knot speed restriction. In no case will the UA be operated at
+    airspeeds greater than the maximum UA operating airspeed recommended by the
+    aircraft manufacturer.
+
+4. The UA must be operated at an altitude of no more than 400 feet above ground level
+    (AGL). Altitude must be reported in feet AGL.
+
+5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+
+    This requires the PIC to be able to use human vision unaided by any device other than
+    corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+    U.S. driver's license.
+
+6. All operations must utilize a visual observer (VO). The UA must be operated within
+    the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+    to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+    capability. The VO and PIC must be able to communicate verbally at all times;
+    electronic messaging or texting is not permitted during flight operations. The PIC
+    must be designated before the flight and cannot transfer his or her designation for the
+    duration of the flight. The PIC must ensure that the VO can perform the duties
+    required of the VO.
+
+7. This exemption and all documents needed to operate the UAS and conduct its
+    operations in accordance with the conditions and limitations stated in this grant of
+    exemption, are hereinafter referred to as the operating documents. The operating
+    documents must be accessible during UAS operations and made available to the
+    Administrator upon request. If a discrepancy exists between the conditions and
+    limitations in this exemption and the procedures outlined in the operating documents,
+                                                                                                            4
+
+    the conditions and limitations herein take precedence and must be followed.
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+                                                                                                            5
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+    exemption holder may apply for a new or amended COA if it intends to conduct
+    operations that cannot be conducted under the terms of the attached COA.
+                                                                                                            6
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+    be as large as practicable.
+
+23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+    any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+    PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+    These documents must be made available to the Administrator or any law enforcement
+    official upon request.
+
+24. The UA must remain clear and give way to all manned aviation operations and
+    activities at all times.
+
+25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless:
+      a. Barriers or structures are present that sufficiently protect nonparticipating persons
+          from the UA and/or debris in the event of an accident. The operator must ensure
+          that nonparticipating persons remain under such protection. If a situation arises
+          where nonparticipating persons leave such protection and are within 500 feet of
+          the UA, flight operations must cease immediately in a manner ensuring the safety
+          of nonparticipating persons; and
+      b. The owner/controller of any vessels, vehicles or structures has granted permission
+          for operating closer to those objects and the PIC has made a safety assessment of
+          the risk of operating closer to those objects and determined that it does not
+          present an undue hazard.
+
+    The PIC, VO, operator trainees or essential persons are not considered
+    nonparticipating persons under this exemption.
+
+27. All operations shall be conducted over private or controlled-access property with
+    permission from the property owner/controller or authorized representative.
+    Permission from property owner/controller or authorized representative will be
+    obtained for each flight to be conducted.
+
+28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+    boundaries of the operational area as defined by the applicable COA must be reported
+    to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+    reported to the National Transportation Safety Board (NTSB) per instructions
+    contained on the NTSB Web site: www.ntsb.gov.
+                                                                                                                 7
+
+ If this exemption permits operations for the purpose of closed-set motion picture and
+ television filming and production, the following additional conditions and limitations apply.
+
+    29. The operator must have a motion picture and television operations manual (MPTOM)
+         as documented in this grant of exemption.
+
+    30. At least 3 days before aerial filming, the operator of the UAS affected by this
+         exemption must submit a written Plan of Activities to the local Flight Standards
+         District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+         notification may be waived with the concurrence of the FSDO. The plan of activities
+         must include at least the following:
+           a. Dates and times for all flights;
+           b. Name and phone number of the operator for the UAS aerial filming conducted
+              under this grant of exemption;
+           c. Name and phone number of the person responsible for the on-scene operation of
+              the UAS;
+           d. Make, model, and serial or N-Number of UAS to be used;
+           e. Name and certificate number of UAS PICs involved in the aerial filming;
+           f. A statement that the operator has obtained permission from property owners
+              and/or local officials to conduct the filming production event; the list of those
+              who gave permission must be made available to the inspector upon request;
+           g. Signature of exemption holder or representative; and
+           h. A description of the flight activity, including maps or diagrams of any area, city,
+              town, county, and/or state over which filming will be conducted and the altitudes
+              essential to accomplish the operation.
+
+    31. Flight operations may be conducted closer than 500 feet from participating persons
+         consenting to be involved and necessary for the filming production, as specified in the
+         exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                   8
+
+This exemption terminates on May 31, 2017, unless sooner superseded or rescinded.
+Sincerely,
+
+/s/
+John S. Duncan
+Director, Flight Standards Service
+Applicant Name and Contact Information:
+         USAerobotix LLC
+         Attn: Jason T. Adams, Vice President
+         PO BOX 124
+         Gettysburg, OH 45328
+         (260) 444-1550
+         jason@usaerobotix.com
+
+January 28, 2015
+
+         Exemption Request Pursuant to Section 333 of FAA Reform Act Part 11 of FAA Regulations 14
+         C.F.R. 21; 45.23(b); 61.113(a) & (b); 91.119(c); 91.121; 91.151(a); 91.405(a); 91.407(a)(1);
+         91.409(a)(1) & (2); 91.417(a) & (b)
+
+Dear Administrators,
+
+Pursuant to Section 333 of the Federal Aviation Administration Reform Act of 2012 and 14 Code of
+Federal Regulations Part 11 ("Regulations"), USAerobotix LLC, ("USAerobotix") operator of SelectTech
+Geospacial's EH-4 Unmanned Aerial System ("UAS") will perform operations involving the use of aerial
+photography and other sensors equipped to the UAS to inspect--
+
+    1) utility infrastructure and equipment including substations, transmission towers, distribution
+         towers, pipelines, flare stacks, and other industrial equipment;
+
+    2) wind turbine blades and other structural aspects of wind farms;
+    3) solar power panels;
+    4) vegetation and line clearance for tree trimming near the infrastructure stated above;
+
+herein referred to collectively as "the Operation", applies for exemption from the following
+Regulations:
+
+    1) 14 C.F.R. 21;
+    2) 14 C.F.R. 45.23(b);
+    3) 14 C.F.R. 61.113(a) & (b);
+    4) 14 C.F.R. 91.119(c);
+    5) 14 C.F.R. 91.121;
+    6) 14 C.F.R. 91.151(a);
+    7) 14 C.F.R. 91.405(a);
+    8) 14 C.F.R. 91.407(a)(1) & (2);
+    9) 14 C.F.R. 91.409(a)(1) & (2);
+    10) 14 C.F.R. 91.417(a) & (b).
+
+An exemption from the listed Regulations is requested to allow commercial activity of the Operation
+utilizing the UAS to be performed by USAerobotix. The Operation will only be conducted by USAerobotix
+with the use of the UAS as outlined in this request, with procedures documented in the attached
+proprietary documentation ("Attachments") or what may be established by the FAA if an exemption
+were granted under Section 333 or Section 49 of the United States Code § 44701(f).
+
+                                                               1
+The conditions listed in this application, set forth by USAerobotix, are drafted following exemptions and
+guidelines drafted by the FAA to maintain the highest level of safety, either maintaining or exceeding
+current safety standards, practices, and regulations. USAerobotix applies for an exemption to provide a
+safer method of the Operation compared to manned aircraft and manned ground inspections. The
+Operation will be conducted in a limited space with limited, approved access.
+
+Section 333 of the FAA Reform Act of 2012 grants authority to the FAA to issue exemptions based on the
+safety of the Operation and the UAS with established requirements set out by both the application and
+exemption granted for the Operation.
+
+The Attachments to this request are considered proprietary. We ask that you request these documents
+separately from the public accessible website. Each attachment is numbered and will each hereinafter
+referred to as the following:
+
+    1) Attachment 1 ("The Manual");
+    2) Attachment 2 ("Maintenance Log");
+    3) Attachment 3 ("Flight Log");
+    4) Attachment 4 ("Knowledge Exam");
+    5) Attachment 5 ("Certificate of Completion").
+
+USAerobotix is a fee-for-service company who will perform each task within the Operation for the
+power industry. The UAS is purchased by USAerobotix from SelectTech Geospacial ("the Manufacturer")
+who holds a Certificate of Authorization for the development, testing, and training of the UAS, model
+EH-4. The UAS is a Vertical Take Off and Landing ("VTOL") rotorcraft with four rotors and weighs under 5
+lbs., including the payload. The airframe is constructed from G-10 fiberglass reinforced polyester resin,
+which can withstand rough landings and challenging environments. Additionally, the construction of the
+airframe and the components and hardware greatly reduce the conductivity of the UAS. The speed
+capability of the UAS is 50 knots, however the Operation is intended to travel no more than 35 knots,
+both vertically and horizontally. The structures USAerobotix intend to include in the Operation stand
+below 400 feet AGL. However, some structures do exceed this height, which are already considered an
+obstacle to other aircraft. The Manufacturer, USAerobotix, and detailed in the Manual, the Operation
+will include a Pilot-in-Command ("PIC") and Visual Observer ("VO"), operate lower than 400 feet AGL
+(unless approval is granted on a case-by-case basis for special operations involving taller structures),
+stay well within Visual Line of Sight ("VLOS"), and cause no hazard to any users of the national airspace
+or the public. The Manual details the safety standards of USAerobotix, the safety redundancies of the
+UAS, and mitigate how USAerobotix will help in establishing requirements for safe operation in the
+national airspace system ("NAS").
+
+As granted to the FAA by Section 333 of the Reform Act, USAerobotix asks for an exemption to carry out
+the Operation commercially using the UAS. This application includes arguments and Attachments that
+will explain how the Operation will uphold or exceed current levels of safety, if there is a public interest
+in the Operation, and steps taken to ensure national security remains a priority.
+
+Reviewing Exemption 11062 granted by the FAA to the movie industry, USAerobotix will operate with
+similar limitations and conditions, which will be referred to later in the application. This will ensure a
+high level of safety already approved by the FAA and hold USAerobotix accountable for how the
+
+                                                               2
+Operation is conducted. The List of Limitations and Conditions are already addressed throughout the
+Manual, and are as follows:
+
+    1. The UAS described in this application, including all payload, must weigh less than 20 lbs.
+    2. The UAS will not exceed 35 knots during the Operation, and no more than 50 knots in
+
+         transitional airspace.
+    3. The Operation will be conducted less than 400 feet AGL and reported to Air Traffic Control
+
+         ("ATC"). If a structure exceeds this height restriction, the PIC must obtain approval from the FAA
+         to perform the Operation in a limited capacity.
+    4. The Operation will be conducted in VLOS for the PIC at all times, regardless of the VO
+         orientation. The PIC and VO must only use natural eyesight, aided only by corrective lenses or
+         glasses, to meet this requirement and hold an FAA medical certificate.
+    5. The VO and PIC must maintain verbal communication at all times.
+    6. The Manual attached to this application binds USAerobotix to the limitations outlined within, as
+         approved by the FAA. If the FAA imposes other limitations or conditions, the Manual will be
+         revised to include such revisions. A copy of the Manual and any other documentation requested
+         by the FAA will remain available at all times. If for any reason a change was not amended in the
+         Manual, the new limitations and conditions will be followed at the time of the review. The
+         Operation will follow the Manual at all times.
+    7. A report will be attached to the Manual logging all revisions and changes to the Manual.
+    8. If a revision would change the Operation and potentially require a new revision, it is the
+         responsibility of USAerobotix to contact the FAA UAS Integration Office (AFS-80) with all
+         questions regarding the revisions.
+    9. The PIC must inspect the UAS and Ground Control Station ("GCS") before each flight to ensure a
+         safe condition. If the PIC determines the condition to be unsafe, the aircraft will not perform the
+         Operation and undergo the necessary maintenance required to perform a safe flight. A report of
+         all maintenance performed will be included in the Manual.
+    10. If maintenance or alterations are made that affect the flight characteristics of the UAS, the PIC
+         must perform a functional test flight. Procedures for these test flights are outlined in the
+         Manual. These test flights must be logged into the flight records for the UAS and added to the
+         Manual.
+    11. USAerobotix will follow the Manufacturer's UAS aircraft/component, maintenance, overhaul,
+         replacement, inspection, and life limit requirements. The Manual also outlines the
+         aircraft/component, maintenance, overhaul, replacement, inspection, and life limit
+         requirements. At a minimum, the Manual must include the following:
+
+              a. Actuators/servos
+              b. Transmission (single rotor)
+              c. Powerplant (motors)
+              d. Propellers
+              e. Electronic speed controller
+              f. Batteries
+              g. Mechanical dynamic components (single rotor)
+              h. Remote command and control
+              i. Ground control station
+              j. Any other components as determined by either the Manufacturer or USAerobotix
+
+                                                               3
+12. The PIC must possess at least a private pilot certificate and at least a current third-class medical
+    certificate. The PIC will also meet the flight review requirements specified in 14 C.F.R. § 61.56 in
+    an aircraft in which the PIC is rated on his/her pilot certificate. If the FAA were to pass legislation
+    for separate criteria for a UAS private pilot certificate, that may also be used. Similar level
+    certification from the Department of Defense may also satisfy this requirement. USAerobotix
+    also believes that the training and certification program outlined in the Manual is sufficient and
+    could replace the Private Pilot Certificate requirement, upon the FAA's approval.
+
+13. Prior to the Operation, the PIC must have accumulated and logged, in a manner consistent with
+    14 C.F.R. § 61.51(b), a minimum of 200 flight cycles and 25 hours of total time as a UAS
+    rotorcraft pilot and at least ten hours logged as a UAS pilot with a similar UAS type (single blade
+    or multirotor). Prior documented flight experience that was obtained in compliance with
+    applicable regulations will be used to satisfy this requirement. Training, proficiency, and
+    experience-building flights will be used with the UAS to accomplish these requirements. The
+    training will be conducted in a controlled space, away from any non-participants by a minimum
+    of 500 feet.
+
+14. Prior to the Operation, the PIC must have accumulated and logged, in a manner consistent with
+    14 C.F.R. § 61.51(b), a minimum of five hours as UAS pilot operating the make and model of the
+    UAS in this application for the use of the Operation and three take-offs and three landings in the
+    preceding 90 days. Training, proficiency, experience-building, and take-off and landing currency
+    flights will be conducted to accomplish these requirements; during these trainings, any non-
+    participant must remain at least 500 feet away from the training area.
+
+15. The PIC and VO of the Operation must successfully complete a qualification process outlined in
+    the Manual. USAerobotix has developed a test included in the Manual to be successfully passed
+    by all PIC and VO personnel before the Operation. A record of completion of this qualification
+    process will be documented and made available to the Administrator upon request.
+
+16. Prior to the Operation, a flight demonstration, administered by a USAerobotix-approved and
+    qualified pilot must be successfully completed and documented. The documentation must be
+    available for review upon request by the Administrator. Because the knowledge and airmanship
+    test qualifications have been developed by USAerobotix, and there are no established practical
+    test standards that support a jurisdictional FAA FSDO evaluation and approval of company
+    designed examiners, USAerobotix will conduct these tests in accordance with the Manual.
+
+17. The UAS will not be operated directly over any person, except authorized and consenting
+    personnel necessary to the Operation, below an altitude that is hazardous to persons or
+    property on the surface in the event of a UAS failure or emergency.
+
+18. The Manual establishes safety parameters for participating persons who are authorized and
+    consenting. These persons will be essential to the Operation.
+
+19. The Operation will be conducted no closer than 500 feet away from non-participating persons,
+    except those consenting to allow the Operation closer, in which case the Operation will be no
+    less than 200 feet away from consenting non-participating persons.
+
+20. As addressed in the Manual as a part of the preflight inspection, in the event that the UAS loses
+    communications or Global Positioning System (GPS) signal, the UAS will be programmed to
+    return to the pre-determined location within the security perimeter and land or be recovered.
+
+21. The UAS is equipped to abort flight in the event of unpredicted obstacles or emergencies, as
+    addressed in the Manual.
+
+                                                          4
+22. Each flight during the Operation will commence after 30 minutes or at 25% battery power,
+    whichever occurs first.
+
+23. USAerobotix must obtain an Air Traffic Organization (ATO) issued Certificate of Waiver or
+    Authorization (COA) prior to conducting any operations. The COA will also require USAerobotix
+    to request a Notice to Airmen (NOTAM) not more than 72 hours in advance, but not less than 48
+    hours prior to the Operation.
+
+24. All aircraft used for the Operation must be identified by serial number, registered in accordance
+    with 14 C.F.R. part 47, and have identification (N-Number) markings in accordance with 14 C.F.R.
+    part 45, Subpart C. Markings must be as large as practicable.
+
+25. USAerobotix must document and maintain a record of the UAS maintenance, preventative
+    maintenance, alterations, status of replacement/overhaul component parts, and the total time
+    in service of the UAS. These procedures are outlined in the Manual.
+
+26. Each UAS used in the Operation must comply with the Manufacturer's Safety Bulletins.
+27. USAerobotix includes technician qualification criteria in the Manual.
+28. The preflight inspection procedures in the manual include inspecting and accounting for all
+
+    discrepancies, logging all maintenance, and reviewing each mission prior to execution.
+29. Before the Operation, the radio frequency spectrum used for operation and control of the UAS
+
+    must comply with the Federal Communications Commission (FCC) or other appropriate
+    government oversight agency requirements. Details of this adherence are in the Manual.
+30. The documents required under 14 C.F.R. §§ 91.9 and 91.203 must be available to the PIC at the
+    Ground Control Station of the UAS any time the aircraft is operating. These documents must be
+    made available to the Administrator or any law enforcement official upon request.
+31. The UAS will remain clear and yield the right of way to all other manned operations and
+    activities at all times for all reasons (including, but not limited to, ultralight vehicles, parachute
+    activities, parasailing activities, hang gliders, etc.).
+32. The UAS will not operate during night, as defined in 14 C.F.R. § 1.1. All operations will be
+    conducted under visual meteorological conditions (VMC). Flights under special visual flight rules
+    (SVFR) will not be conducted.
+33. The UAS will only be operated by the PIC from a stationary position and not in a moving device
+    or vehicle.
+34. The UAS will not be operated less than 500 feet below or less than 2,000 feet horizontally from a
+    cloud or when visibility is less than 3 statute miles from the PIC.
+35. The UAS will not operate in Class B, C, or D airspace without written approval from the FAA. The
+    UAS may not operate within 5 nautical miles of the geographic center of a non-towered airport
+    as denoted on a current FAA-published aeronautical chart unless a letter of agreement with that
+    airport's management is obtained, and the operation is conducted in accordance with a NOTAM
+    as required by the operator's COA. The letter of agreement with the airport management must
+    be made available to the Administrator upon request.
+36. Any incident, accident, or flight operation that transgresses the lateral or vertical boundaries of
+    the operational area as defined by the applicable COA must be reported to the FAA's UAS
+    Integration Office (AFS-80) within 24 hours. Accidents must be reported to the National
+    Transportation Safety Board (NTSB) per instructions contained on the NTSB Web site:
+    www.ntsb.gov. Further flight operations may not be conducted until the incident, accident, or
+    transgression is reviewed by AFS-80 and authorization to resume operations is provided.
+
+                                                          5
+The following section will describe the extent of relief USAerobotix seeks in each section of 14 C.F.R.
+requested, as well as reasons why the exemption would not adversely affect safety or how the
+exemption would provide a level of safety at least equal to the existing rule:
+
+    1) 14 C.F.R. 21: Certification Procedures for Products and Parts
+
+         This section outlines requirements for the issue of design and production approvals,
+         airworthiness certificates, and other airworthiness approvals. USAerobotix is aware that if an
+         exemption is granted as per Section 333, an airworthiness certificate would be issued and a
+         request for exemption from 21 is unnecessary. However, as outlined in the List of Limitations
+         and Conditions in this application, as well as all of the Attachments to this application, including
+         the Manual, USAerobotix seeks to uphold the same level or exceeded level of safety as
+         described in Part 21 of 14 C.F.R.
+
+    2) 14 C.F.R. 45.23(b): Display of Marks
+
+         USAerobotix is aware that if an airworthiness certificate is issued as part of the exemption that
+         this particular rule would not be necessary to request an exemption. The UAS described in this
+         exemption is of a small size, but as the List of Limitations and Conditions #24 outlined in this
+         application, we will satisfy the display of the N-number on the aircraft, as large as applicable.
+
+         The UAS will be registered and have appropriate markings to determine the responsible party of
+         the flight if a loss of the aircraft does occur. This condition offers accountability for the PIC and
+         USAerobotix to ensure the utmost safety during the Operation.
+
+    3) 14 C.F.R. 61.113(a) & (b): Private Pilot Privileges and Limitations: Pilot in Command
+
+         These sections describe the limits of private pilots for non-commercial operations. The UAS is
+         controlled remotely by the PIC during the Operation. The area of the Operation is a controlled
+         space with granted permission by the client who owns the infrastructure being inspected. There
+         are maximum approach distances explained in the Manual, as well as signage and warnings for
+         those non-participants who are not trained on safety near the infrastructure. Therefore, the risk
+         of harming non-participants is low, since their presence is often non-existent in the space near
+         the infrastructure. Due to the nature of the Operation, which does not involve the carrying of
+         persons (pilots, passengers, or otherwise), USAerobotix believes the same or exceeded level of
+         safety can be achieved if the PIC had either a private or commercial pilot license. As the FAA has
+         stated in Exemption 11062, the required areas of knowledge for a commercial versus private
+         pilot cover the same fundamental principles.
+
+         USAerobotix strongly believes that it is in the best interest of the FAA to provide a means of
+         certification for UAS specifically. Within the provided Manual and other Attachments,
+         USAerobotix has detailed a process for training personnel that will uphold a high level of safety,
+         especially near areas with little collision risk, air traffic, and population.
+
+                                                               6
+4) 14 C.F.R. 91.119(c): Minimum Safe Altitudes: General; Over other than congested areas
+
+    As noted in previous exemptions, since the airspace used for the Operation is in a controlled
+    environment surrounding the infrastructure of electrical equipment, USAerobotix will already
+    operate in accordance with most of 91.119. The key exemption sought in 91.119(c) is in regard
+    to the altitude of, "...closer than 500 feet to any person, vessel, vehicle, or structure." Since we
+    must be near the structure of the equipment being inspected for the Operation, and closer to
+    consenting non-participants and participants, an exemption from this rule is desired. The
+    Operation will be below 400 feet AGL, as stated in the List of Limitations and Conditions #3,
+    unless permission is granted by the FAA for anything higher.
+
+    Regarding the speed and size of the UAS for the Operation, and how similar rules were passed
+    for aircraft exceeding 4,000 lbs, this exemption will not endanger any persons, structures, or
+    other aircraft. The conditions offered in this application, along with the rules and exemptions
+    already passed by the FAA will still account for safety as the most paramount consideration in
+    seeking exemption from this particular rule.
+
+5) 14 C.R.R. 91.121: Altimeter settings
+
+    Exemption from this rule is only sought due to the wording used within the rule. The UAS is
+    equipped with a digital telemetric data feed of the barometric altitude down to the Ground
+    Control Station, instead of a traditional altimeter onboard the aircraft. Prior to each flight, a zero
+    altitude initiation point will be established and confirmed for accuracy by the PIC. Further
+    description of the altimeter technology is described in the Manual. This will maintain the safety
+    intended by 91.121 with respect to the remote operation of the UAS.
+
+6) 14 C.F.R. 91.151(a): Fuel requirements for flights in VFR conditions
+
+    The first part of this rule states that a flight may not begin unless there is enough fuel to fly 30
+    minutes after approximate arrival to landing. The battery used for the UAS lasts approximately
+    40 minutes after fully energized and with little payload. Given the technical limitations of the
+    flight length of the UAS, and the proposed safety measures explained in the List of Limitations
+    and Conditions #22, a longer time frame for flight in daylight VFR conditions is safe. Other
+    exemptions passed by the FAA were granted the same exemption due to the same limitations.
+    Any risk being mitigated by this rule for other aircraft is alleviated by the nature of the aircraft
+    for the Operation in this application.
+
+    Limiting flights to whichever of 30 minute duration or 25% battery life reserve comes first
+    should suffice for a high level of safety.
+
+7) 14 C.F.R. 91.405(a); 14 C.F.R. 91.407(a)(1) & (2); 14 C.F.R. 91.409(a)(1) & (2); 14 C.F.R.
+    91.417(a) & (b): Maintenance and Inspections
+
+    All of these regulations require aircraft operators and owners to inspect aircraft as required by
+
+                                                          7
+         subpart E and must, between inspections, unless otherwise stated in paragraph (c), have
+         discrepancies repaired as prescribed in Part 43. Because Part 43 applies only to aircraft with an
+         airworthiness certificate, these sections will not apply. However, as stated in the List of
+         Limitations and Conditions of this application, as well as the other Attachments, supporting
+         documents, and the Manual, maintenance will remain to be an important part of the Operation.
+         The UAS is very nimble and can be repaired very quickly, even on the field during the Operation.
+         If mechanical issues do pass preflight inspection, because of the limited airspace and AGL of the
+         Operation, a failure will not result in loss-of-life or put anyone in significant danger, as long as
+         the Limitations and Conditions, the procedures outlined in the Manual, and any other conditions
+         offered by the FAA are strictly followed. A log of all maintenance will be kept in the manual and
+         made available to the Administrator any time it is requested.
+
+USAerobotix applies for this exemption with the intention of performing the Operation safely and in the
+best interest of the public. Please review the Attachments provided as a part of this exemption. The
+ultimate goal of USAerobotix service is to provide a method of inspection for utility lines, towers, and
+substations, solar generating panels, wind generating farms, and any other infrastructure or equipment
+in use by the power industry. Utility inspections are performed by helicopters, usually at 50 knots from a
+great distance to review the tree clearance to high tension wires, and they will spot-check any structural
+abnormalities along the lines. If power did fail for any reason, the responsible companies oftentimes are
+unable to pinpoint the exact reason why a failure occurred. Inspection with UAS will provide a more
+thorough and safer means of inspection from the sky. The alternate method includes manned ground
+inspections, with personnel putting themselves and others at risk of death or serious injury by climbing a
+pole or tower to inspect parts of the infrastructure.
+
+Wind generation farms need to inspect their blades to ensure no cracks or major damage exists, which
+could result in large debris catapulting from the equipment and destroying other property and risking
+the safety of persons near the infrastructure. UAS based inspections will provide a safe means of
+inspection, instead of a manned system of climbing each generator tower, then repelling down each
+blade. The risk is incredibly high, and maintaining what little safety they have is very time consuming.
+UAS-based inspection will result in a more efficient inspection process, allowing the generating company
+to find problems well before they happen and continue to deliver power to the consumer reliably. The
+safety of inspections are now the difference between falling 400 feet to the ground and a 4 pound UAS
+falling to the ground.
+
+Solar energy farms often require infrared inspections. This process is time consuming and potentially
+dangerous for a helicopter at low altitudes. The risk of flight failure can result in loss of power to
+thousands of consumers, and a high risk for injury for the pilot. A small UAS, outfitted with the same
+payload, can accomplish the task much more safely and efficiently.
+
+Other Operations may include flare stacks and other larger industrial infrastructure. For these
+Operations, aircraft that currently perform the inspection already seek approval from the FAA prior to
+inspection. Additionally, because these flights are often over facilities that have personnel, USAerobotix
+will greatly reduce the risk of injury or death to personnel involved in these inspections.
+
+The Operation is focused on a closed environment without any risk to personnel. Transitions between
+flights do not require the use of airspace, as the UAS is carried to the desired area before it is flown. Any
+data collected during the Operation will be handed to the client and used strictly for inspection of the
+
+                                                               8
+equipment. The weight, speed, operating capacity, proximity to persons and structures, and the
+Limitations and Conditions expressed in this application, supplemented by the Manual and all other
+Attachments will be used to prove the safety of the NAS with respect to the Operation performed by
+USAerobotix using the UAS. This is considered to be adequate information to fulfill the necessary
+requirements of obtaining an exemption for commercial use of UAS by USAerobotix granted to the FAA
+in Section 333 of the Reform Act of 2012.
+
+                                                           Sincerely,
+
+                                                           Jason T. Adams
+                                                           Vice President, USAerobotix LLC
+Cc: David Furlong, Executive President
+         Jay Adams, President
+         Jacob Furlong, Vice President
+
+                                                               9
+

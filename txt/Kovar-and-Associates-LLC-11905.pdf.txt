@@ -1,0 +1,2544 @@
+June 25, 2015
+
+                                                           Exemption No. 11905
+                                                           Regulatory Docket No. FAA­2015­1331
+
+Mr. Jeffrey J. Antonelli
+Counsel for Kovar & Associates LLC
+Antonelli Law
+35 East Wacker Drive, Suite 1875
+Chicago, IL 60601
+
+Dear Mr. Antonelli:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter dated April 24, 2015, you petitioned the Federal Aviation Administration (FAA) on
+behalf of Kovar & Associates LLC (hereinafter petitioner or operator) for an exemption. The
+petitioner requested to operate an unmanned aircraft system (UAS) to conduct remote sensing
+to support precision farming and other agriculture applications; asset management for utilities,
+government agencies, and private firms; construction and land management; disaster response
+and search and rescue; and conducting research flights to collect data and establish and refine
+forensic processes, procedures, and tools for investigation of accidents and crimes.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner. However, the FAA
+received one comment in support of the petition made to the docket.
+                                                                                               2
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner are theDJI Phantom 2 Vision+, Event38 E384, and
+PrecisionHawk Landcaster.
+
+The petitioner requested relief from 14 CFR part 21, Certification procedures for products
+and parts, Subpart H--Airworthiness Certificates. In accordance with the statutory criteria
+provided in Section 333 of Public Law 112-95 in reference to 49 U.S.C. § 44704, and in
+consideration of the size, weight, speed, and limited operating area associated with the
+aircraft and its operation, the Secretary of Transportation has determined that this aircraft
+meets the conditions of Section 333. Therefore, the FAA finds that the requested relief from
+14 CFR part 21, Certification procedures for products and parts, Subpart H--Airworthiness
+Certificates, and any associated noise certification and testing requirements of part 36, is
+not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection1. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+· They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+· The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+· A grant of exemption is in the public interest.
+
+1 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                              3
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, Kovar & Associates LLC is granted an exemption from
+14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a), 91.7(a), 91.119(c),
+91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a) and (b), to
+the extent necessary to allow the petitioner to operate a UAS to perform aerial data collection.
+This exemption is subject to the conditions and limitations listed below.
+
+Conditions and Limitations
+
+In this grant of exemption, Kovar & Associates LLC is hereafter referred to as the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+1. Operations authorized by this grant of exemption are limited to the DJI Phantom 2
+    Vision+, Event38 E384, and PrecisionHawk Landcaster when weighing less than
+    55 pounds including payload. Proposed operations of any other aircraft will require a
+    new petition or a petition to amend this exemption.
+
+2. Operations for the purpose of closed-set motion picture and television filming are
+    not permitted.
+
+3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+    exemption holder may use either groundspeed or calibrated airspeed to determine
+    compliance with the 87 knot speed restriction. In no case will the UA be operated at
+    airspeeds greater than the maximum UA operating airspeed recommended by the
+    aircraft manufacturer.
+
+4. The UA must be operated at an altitude of no more than 400 feet above ground level
+    (AGL). Altitude must be reported in feet AGL.
+
+5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+    This requires the PIC to be able to use human vision unaided by any device other than
+    corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+    U.S. driver's license.
+
+6. All operations must utilize a visual observer (VO). The UA must be operated within
+    the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+    to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+    capability. The VO and PIC must be able to communicate verbally at all times;
+    electronic messaging or texting is not permitted during flight operations. The PIC
+                                                                                                            4
+
+    must be designated before the flight and cannot transfer his or her designation for the
+    duration of the flight. The PIC must ensure that the VO can perform the duties
+    required of the VO.
+
+7. This exemption and all documents needed to operate the UAS and conduct its
+    operations in accordance with the conditions and limitations stated in this grant of
+    exemption, are hereinafter referred to as the operating documents. The operating
+    documents must be accessible during UAS operations and made available to the
+    Administrator upon request. If a discrepancy exists between the conditions and
+    limitations in this exemption and the procedures outlined in the operating documents,
+    the conditions and limitations herein take precedence and must be followed.
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+                                                                                              5
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+                                                                                                            6
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+    exemption holder may apply for a new or amended COA if it intends to conduct
+    operations that cannot be conducted under the terms of the attached COA.
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+    be as large as practicable.
+
+23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+    any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+    PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+    These documents must be made available to the Administrator or any law enforcement
+    official upon request.
+
+24. The UA must remain clear and give way to all manned aviation operations and
+    activities at all times.
+
+25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless:
+      a. Barriers or structures are present that sufficiently protect nonparticipating persons
+          from the UA and/or debris in the event of an accident. The operator must ensure
+          that nonparticipating persons remain under such protection. If a situation arises
+          where nonparticipating persons leave such protection and are within 500 feet of
+          the UA, flight operations must cease immediately in a manner ensuring the safety
+          of nonparticipating persons; and
+      b. The owner/controller of any vessels, vehicles or structures has granted permission
+          for operating closer to those objects and the PIC has made a safety assessment of
+          the risk of operating closer to those objects and determined that it does not
+          present an undue hazard.
+
+    The PIC, VO, operator trainees or essential persons are not considered
+    nonparticipating persons under this exemption.
+
+27. All operations shall be conducted over private or controlled-access property with
+    permission from the property owner/controller or authorized representative.
+                                                                                               7
+
+Permission from property owner/controller or authorized representative will be
+obtained for each flight to be conducted.
+
+28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+    boundaries of the operational area as defined by the applicable COA must be reported
+    to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+    reported to the National Transportation Safety Board (NTSB) per instructions
+    contained on the NTSB Web site: www.ntsb.gov.
+
+If this exemption permits operations for the purpose of closed-set motion picture and
+television filming and production, the following additional conditions and limitations apply.
+
+29. The operator must have a motion picture and television operations manual (MPTOM)
+    as documented in this grant of exemption.
+
+30. At least 3 days before aerial filming, the operator of the UAS affected by this
+    exemption must submit a written Plan of Activities to the local Flight Standards
+    District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+    notification may be waived with the concurrence of the FSDO. The plan of activities
+    must include at least the following:
+      a. Dates and times for all flights;
+      b. Name and phone number of the operator for the UAS aerial filming conducted
+          under this grant of exemption;
+      c. Name and phone number of the person responsible for the on-scene operation of
+          the UAS;
+      d. Make, model, and serial or N-Number of UAS to be used;
+      e. Name and certificate number of UAS PICs involved in the aerial filming;
+      f. A statement that the operator has obtained permission from property owners
+          and/or local officials to conduct the filming production event; the list of those
+          who gave permission must be made available to the inspector upon request;
+      g. Signature of exemption holder or representative; and
+      h. A description of the flight activity, including maps or diagrams of any area, city,
+          town, county, and/or state over which filming will be conducted and the altitudes
+          essential to accomplish the operation.
+
+31. Flight operations may be conducted closer than 500 feet from participating persons
+    consenting to be involved and necessary for the filming production, as specified in the
+    exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                    8
+
+This exemption terminates on July 31, 2017, unless sooner superseded or rescinded.
+Sincerely,
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+Drone/UAS Practice Group                      35 E Wacker Drive
+                                                        Suite 1875
+U.S. Department of Transportation
+Docket Management System                       Chicago, IL 60601
+1200 New Jersey Ave S.E.                       Tel. 312.201.8310
+Washington, D.C. 20590             Jeffrey@Antonelli-Law.com
+
+                                                   April 24, 2015
+
+Re: Request for Exemption under Section 333 of the FAA Modernization and Reform Act of
+2012 and Part 11 of the Federal Aviation Regulations from Certain Provisions of 14 C.F.R.
+
+Dear Sir or Madam:
+
+         Pursuant to Section 333 of the FAA Modernization and Reform Act of 2012 (the Reform
+Act) and 14 C.F.R. Part 11, Antonelli Law files this petition for exemption on behalf of Kovar &
+Associates, LLC ("K&ALLC"), an operator of Small Unmanned Aircraft Systems ("UAs") used
+for remote sensing to support (i) precision farming and other agriculture applications; (ii) asset
+management for utilities, government agencies, and private firms; (iii) construction and land
+management; (iv) disaster response and search and rescue; and (v) conducting research flights to
+collect data and establish and refine forensic processes, procedures, and tools for investigation of
+accidents and crimes involving UAs. Specifically, petitioner seeks an exemption from the
+Federal Aviation Regulations ("FARs") listed in Appendix A to allow commercial operation of
+its UAs, so long as such operations are conducted within and under the conditions outlined
+herein or as may be established by the FAA in a grant of this petition. This request is
+substantially similar to other data collection petitions previously approved, and should be
+considered under the expedited summary grant procedure.
+
+         Approval of the exemption for petitioner will allow commercial operation of: (1) the DJI
+Phantom 2 Vision+, approved for commercial operations in Exemption Nos. 11138, 11189, and
+11191; (2) the Event38 E384, approved for commercial operations in Exemption No. 11166; and
+(3) the PrecisionHawk Landcaster system, approved for commercial operations in Exemption
+No. 11345 in Class G airspace or as otherwise prescribed in an ATO issued COA nationwide.
+The UA operations contemplated by this petition are in the public interest because they clearly
+satisfy the "Four D's" of exemplary uses of UAs: to replace work that is Dangerous, Difficult,
+Dull, or Dirty, and at the same time provide an equivalent or greater level of safety than
+alternative manned aircraft operations. The UAs covered by this petition are small battery-
+powered craft, weighing no more than 6 lbs. (2.7 kg.), inclusive of battery and payload.
+Operation of the UAs under the strict conditions proposed below will provide an equivalent level
+of safety, as Congress intended, while still allowing commercial operations. Operations using
+these UAs are far safer than conventional operations conducted with helicopters and fixed-wing
+aircraft that weigh thousands of pounds, carry highly flammable fuel, and operate in close
+proximity to the ground, trees, infrastructure, and people.
+
+                                                          1
+                                               Table of Contents
+I. Publishable Summary.............................................................................................................. 5
+II. Petitioner's Contact Information ............................................................................................. 5
+III. Proposed Operations................................................................................................................ 6
+
+     A. The UAs ......................................................................................................................... 6
+     B. The Crew ........................................................................................................................ 7
+     C. Flight Conditions............................................................................................................ 8
+     D. Flight Operations ............................................................................................................ 8
+IV. Aircraft and Equivalent Level of Safety.................................................................................. 9
+V. Proposed Conditions of the Exemption ................................................................................... 9
+VI. Privacy................................................................................................................................... 12
+VII. Public Interest and Safety ...................................................................................................... 13
+VIII. Regulations from Which Exemption is Requested ...................................................... 19
+     A. Appendix A: FARs as to which K&ALLC wishes the same determination to be made as
+
+            has been made previously............................................................................................. 19
+
+                                                          3
+                                                   Exhibit List
+Exhibit 1: Kovar & Associates LLC Operations Manual .......Submitted confidentially to the FAA
+Exhibit 2: Kovar & Associates LLC Logbooks......................Submitted confidentially to the FAA
+Exhibit 3: Kovar & Associates LLC Visual Observer In-House Training Syllabus
+.................................................................................................Submitted confidentially to the FAA
+Exhibit 4: Emergency Response Letters of Recommendation
+.................................................................................................Submitted confidentially to the FAA
+
+                                    DJI Phantom 2 Vision+ Documents
+Exhibit 5: DJI Phantom 2 Vision+ User Manual ... Submitted separately due to upload restrictions
+Exhibit 6: DJI Phantom 2 Vision+ Quick Start Guide......................................................................
+................................................................................ Submitted separately due to upload restrictions
+Exhibit 7: DJI Phantom 2 Vision+................................................................................................ 22
+Exhibit 8: DJI Phantom 2 Vision+ Features ................................................................................. 25
+Exhibit 9: DJI Phantom 2 Vision+ Specifications ........................................................................ 34
+Exhibit 10: DJI Naza M V2 Flight Controller User Manual ............................................................
+................................................................................ Submitted separately due to upload restrictions
+Exhibit 11: DJI Smart Flight Battery ............................................................................................ 37
+Exhibit 12: DJI Phantom Pilot Training Guide...... Submitted separately due to upload restrictions
+
+                                          Event38 E384 Documents
+Exhibit 13: Event38 E384 Operations Manual .......................Submitted confidentially to the FAA
+Exhibit 14: Event38 E384 Training Syllabus .........................Submitted confidentially to the FAA
+Exhibit 15: APM 2.6 ..................................................................................................................... 43
+Exhibit 16: APM 2.6 Overview .................................................................................................... 44
+Exhibit 17: Spektrum DX5E User Manual ............ Submitted separately due to upload restrictions
+
+                                  PrecisionHawk Lancaster Documents
+Exhibit 18: PrecisionHawk Lancaster UA Specifications ......Submitted confidentially to the FAA
+Exhibit 19: PrecisionHawk sUAS Aircraft Flight Manual .....Submitted confidentially to the FAA
+Exhibit 20: PrecisionHawk sUAS Flight Operations Manual ..........................................................
+.................................................................................................Submitted confidentially to the FAA
+
+                     Exhibits 1-4 and 13-14 have been submitted confidentially
+                                    and are not available to the public.
+
+                                                          4
+I. Publishable Summary
+
+         Pursuant to 14 C.F.R. § 11, the following summary is provided for publication in the
+Federal Register, should it be determined that publication is needed:
+
+    Petitioner seeks an exemption from the following rules:
+
+    14 C.F.R 21(h); 14 C.F.R. 43.7; 14 C.F.R. 43.11; 14 C.F.R. 45.11; 14 C.F.R. 45.27;
+    14 C.F.R. 45.29; 14 C.F.R. 91.7(a); 14 C.F.R. 91.9(b)(2); 14 C.F.R. 91.9(c); 14
+    C.F.R. 91.103(b)(2); 14 C.F.R. 91.105; 14 C.F.R. 91.109; 14 C.F.R. 91.113(b); 14
+    C.F.R. 91.119 (c); 14 C.F.R. 91.121; 14 C.F.R. 91.151(a); 14 C.F.R. 91.203(a) and
+    (b); 14 C.F.R. 215; 14 C.F.R. 91.403; 14 C.F.R. 91.405(a); 14 C.F.R. 91.407(a)(1);
+    14 C.F.R. 409(a)(1) and (2); and 14 C.F.R. 91.417(a) and (b) to operate
+    commercially a small unmanned aircraft system (UA) (6 lbs. or less).
+
+    Approval of the exemption requested by petitioner will allow commercial operation
+    of (1) the DJI Phantom 2 Vision+; (2) the Event 38 E384; and (3) the PrecisionHawk
+    Lancaster system for remote sensing to support (i) precision farming and other
+    agriculture applications; (ii) asset management for utilities, government agencies, and
+    private firms; (iii) construction and land management; (iv) disaster response and
+    search and rescue; as well as (v) conducting research flights to collect data and
+    establish and refine forensic processes, procedures, and tools for investigation of
+    accidents and crimes involving UAs in Class G airspace or as otherwise prescribed in
+    an ATO issued COA nationwide. The requested exemption should be granted because
+    operation of small UAs, weighing no more than 6 lbs. (2.7 kg.), inclusive of battery
+    and payload, conducted in the strict conditions outlined below, will provide an
+    equivalent level of safety, while still allowing commercial operations. The
+    lightweight aircraft covered by the exemption are far safer than conventional
+    operations conducted with helicopters and fixed-wing aircraft weighing thousands of
+    pounds and carrying highly flammable fuel, and operating in close proximity to the
+    ground and people. The seven factors Congress directed the FAA to consider when
+    approving Section 333 exemption petitions - size, weight, speed, operational
+    capability, proximity to airports, proximity to populated areas, and operation within
+    visual line of sight ­ each support the request. In particular, the aircraft are small, and
+    will operate at slow speeds, and close to the ground in order to more safely and
+    efficiently conduct inspections that would otherwise involve a risk of death to the
+    inspectors. The substantial increase of safety and decrease of risk to human life,
+    coupled with the low risk use of UAs to conduct these operations, weigh heavily in
+    favor of granting the exemption.
+
+II. Petitioner's Contact Information
+
+David Kovar
+President
+Kovar & Associates, LLC
+3420 Veteran Rd.
+Suite 373
+Pekin, IL 61554
+
+                                                          5
+Counsel for Petitioner:
+Antonelli Law
+35 E Wacker Drive
+Suite 1875
+Chicago, IL 60601
+Tel: 312-201-8310
+Fax: 888-211-8624
+Email: jeffrey@antonelli-law.com
+
+III. Proposed Operations
+
+A. The UAs
+
+         The requested exemption will permit petitioner to operate (1) the DJI Phantom 2 Vision+;
+(2) the Event38 E384; and (3) the PrecisionHawk Lancaster System. This petition and Exhibits
+1-3, 5-6, and 10-17, are hereinafter referred to as the "operating documents." The specific
+conditions of the proposed exemption that relate to the characteristics of the UAs are numbers 1,
+5, and 16-20 in Section V below. Each has been adopted or imposed by the FAA in numerous
+previous grants of Section 333 exemption petitions.
+
+    1. DJI Phantom 2 Vision+
+
+         The requested exemption will permit petitioner to operate the Phantom 2 Vision+, with a
+maximum weight of approximately 2.7 lbs. (1.2 kg), inclusive of batteries and technical payload.
+This rotorcraft operates at a speed of no more than 43 knots and has the capability to hover and
+move in the vertical and horizontal planes simultaneously.
+
+         Please refer to Exhibits 5-11 for further information about the airframe, control system
+and transmitter. The FAA has previously reviewed these documents and approved exemptions
+for commercial use of the DJI Phantom 2 Vision+ in Exemption Nos. 11138, 11189, and 11191.
+
+         The UA will have the following specifications or equivalent:
+
+Airframe: DJI Phantom 2 Vision+
+Dimensions: diagonal motor-motor distance 350 mm (approximately 13.78 in.)
+Flight Control System: DJI Naza-M V2, which includes the GPS and Compass and the internal
+measurement unit (IMU), containing a built-in internal sensor and a barometric altimeter that
+measures both altitude and attitude.
+Transmitter (Tx): 5.728GHz-5.85 GHz DJI Remote Control
+Receiver (Rx): 5.8G receiver built in to the DJI Phantom 2 Vision+
+Motor: electric DJI 2312 CCW
+Data Link: 2.4 GHz USB ground modem
+Video Link: 5.8 GHz
+OSD: DJI Vision app, open on a dedicated mobile device, which allows live telemetry to be
+displayed to the visual observer, including the battery level and altitude
+Batteries: Lithium Polymer batteries with capacity of 5200mAh
+
+                                                          6
+    2. Event38 E384
+
+         The requested exemption will permit petitioner to operate the Event 38 E384, with a
+maximum weight of 5.9 lbs. (2.7 kg.), inclusive of batteries and technical payload. This fixed-
+wing aircraft operates at a speed of no more than 26 knots.
+
+         Please refer to 13-16 for further information about the airframe, control system and
+transmitter. The FAA has previously approved the E384 for commercial flight in Exemption No.
+11166.
+
+         The UA will have the following specifications or equivalent:
+
+Airframe: E384
+Control System: ArduPilot Mega 2.6 autopilot, which includes the Main Controller (MC),
+Internal Measurement Unit (IMU) with a built-in internal sensor, barometric altimeter (which
+measures attitude and altitude), compass, GPS, and radio receiver (Rx).
+Tx: Spektrum DX5E
+Rx: AR 610 Receiver
+Motors: Tiger T-Motor 3515-9
+Data Link: 3DR 433mhz radio
+OSD: Mission Planner software, visible on a dedicated ground station laptop, which allows live
+telemetry to be displayed to the visual observer, including the battery level and altitude.
+Batteries: Lithium Polymer batteries with capacity of 5000 mAh
+
+    3. PrecisionHawk Lancaster System
+
+         The requested exemption will permit petitioner to operate the PrecisionHawk Lancaster
+System. Please refer to Exhibits 15-16 and 18-20 for information about the airframe and control
+system, including the UA specifications, which are proprietary business information. The FAA
+has previously approved the PrecisionHawk for commercial flights in Exemption No. 11345.
+
+B. The Crew
+
+         The crew will consist of a pilot in command (PIC) and a visual observer (VO). The PIC
+will have, at minimum, a sport pilot's license and a third class medical certificate or a U.S.
+driver's license.
+
+         The PIC and VO will have been trained in operation of UAs generally and received up-
+to-date information on the UAs to be operated pursuant to this grant.
+
+         The PIC will have completed, at a minimum, 25 hours of UA flight training with the
+specific UAs prior to operations, and will be required to participate in annual training thereafter.
+The PIC will have completed the training programs provided by DJI, Event 38, and
+PrecisionHawk. The training syllabuses for DJI and Event 38 have been submitted as Exhibits 7
+and 9.
+
+         The VO will have completed the training set forth in Exhibit 1: V.G.2: Operational
+Control: Training: VOs and Exhibit 3 prior to operations.
+
+         The specific conditions of the proposed exemption that relate to the training and
+                                                          7
+characteristics of the crew are numbers 3 and 6-9 in Section V below. Each has been adopted or
+imposed by the FAA in numerous previous grants of Section 333 exemption petitions.
+
+C. Flight Conditions
+
+         The UAs will be used for remote sensing to support (i) precision farming and other
+agriculture applications; (ii) asset management for utilities, government agencies, and private
+firms; (iii) construction and land management; (iv) disaster response and search and rescue; and
+(v) conducting research flights to collect data and establish and refine forensic processes,
+procedures, and tools for investigation of accidents and crimes involving UAs. All flights will be
+in Class G airspace or as otherwise prescribed in an ATO issued COA under 400 feet above
+ground level ("AGL") and under controlled conditions. Petitioner will work with the local FSDO
+when planning operations. Petitioner will only operate its UAs in visual meteorological
+conditions (VMC). The UA will at all times be no less than 500 feet below and no less than
+2,000 feet horizontally from a cloud, and petitioner will not conduct operations unless visibility
+is at least 3 statute miles from the PIC. The flight crew will always make a safety assessment of
+the risk of every operation, and will only operate when it is determined that no hazards are
+present. Flights will only be conducted away from any major population and never at public
+events or other areas where petitioner cannot control the area and observe the operational area.
+
+         Please refer to the following sections of Exhibit 1 for more information about the flight
+conditions:
+
+     Section IV, Organization, Part G, Operating Limitations and Conditions
+     Section VI, Operating Procedures, Part A, Flight Planning/Preparation, Number 2, Risk
+
+         Assessment
+     Section VI, Operating Procedures, Part A, Flight Planning/Preparation, Number 8,
+
+         Weather Checks
+     Appendix A: Risk Management
+
+         The specific conditions of the proposed exemption that relate to the flight conditions in
+which the UA will be operated are numbers 2, 4, 16, and 28-29 in Section V below. Each has
+been adopted or imposed by the FAA in numerous previous grants of Section 333 exemption
+petitions.
+
+D. Flight Operations
+
+         The purpose of every UA flight will be to safely, accurately, and efficiently support: (i)
+precision farming and other agriculture applications; (ii) asset management for utilities,
+government agencies, and private firms; (iii) construction and land management; (iv) disaster
+response and search and rescue; as well as (v) research flights to develop processes, procedures,
+and tools for accident and crime investigations of UAs. Every UA flight will use at minimum a
+two person flight crew: a PIC and a VO. The standard operational procedures that they will
+follow are set out in the operating documents, specifically Exhibit 1. Please refer to the following
+sections of Exhibit 1 for information pertaining to operations:
+
+      V: Operational Control
+      VI: Operating Procedures
+      Appendix A: Risk Management
+
+                                                          8
+      Petitioner will keep records of operations as indicated in Exhibit 2.
+
+      The specific conditions of the proposed exemption that relate to flight operations are
+numbers 11-12, 17-25, and 32-35 in Section V below. Each has been accepted or imposed by the
+FAA in numerous previous grants of Section 333 exemption petitions.
+
+IV. Aircraft and Equivalent Level of Safety
+
+         Petitioner proposes that the exemption apply to UAs that have the characteristics and that
+operate with the limitations proposed herein. These limitations provide for a level of safety at
+least an equivalent to or higher than manned aircraft operations under the current regulatory
+structure. Section V below identifies the limitations and conditions to which petitioner agrees to
+be bound when conducting commercial operations under a grant of this petition. Appendix A
+contains matrix connecting (i) the specific proposed condition with (ii) the FAR provision for
+which it provides equivalent level of safety and (iii) one or more recent Section 333 exemption
+grants in which the FAA recognized this equivalent level of safety.
+
+      Approval of the commercial operations outlined in this petition presents no national
+security issue. The PIC will possess, at minimum, a sport pilot's certificate, so he or she will
+have been subject to security screenings by the Department of Homeland Security.
+
+V. Proposed Conditions of the Exemption
+
+1. The UAs will weigh no more than 6 lbs. (2.7 kg.), inclusive of battery and payload.
+
+2. UA operations under this exemption will be limited to conducting operations for the purpose
+    of providing (i) precision farming and other agriculture applications; (ii) asset management
+    for utilities, government agencies, and private firms; (iii) construction and land management;
+    (iv) disaster response and search and rescue; and (v) conducting research flights to collect
+    data and establish and refine forensic processes, procedures, and tools for investigation of
+    accidents and crimes involving UAs in Class G airspace nationwide, unless otherwise
+    prescribed in an ATO-issued COA.
+
+3. Flights will be operated within line of sight of a pilot and visual observer.
+
+4. Flights will be operated at an altitude of no more than 400 feet AGL, as indicated by the
+    procedures specified in the operating documents. All altitudes reported to ATC must be in
+    feet AGL.
+
+5. The UA will not be flown at an indicated airspeed exceeding 87 knots (100 mph).
+
+6. Minimum flight crew for each operation will consist of the UA pilot in command (PIC) and a
+    visual observer (VO).
+
+7. The PIC will have, at minimum, a sport pilot license and a third class medical certificate or a
+    U.S. driver's license.
+
+8. The petitioner will not permit any PIC to operate unless the PIC meets its qualification
+    criteria and demonstrates the ability to safely operate the UA in a manner consistent with
+                                                          9
+    how the UA will be operated under this exemption, including evasive and emergency
+    maneuvers and maintaining appropriate distances from persons, vessels, vehicles and
+    structures. PIC qualification flight hours and currency will be logged in a manner consistent
+    with 14 CFR § 61.51(b). A record of the PIC training will be documented and made available
+    upon request by the Administrator. Training operations will only be conducted during
+    dedicated training sessions. During training, proficiency, and experience-building flights, all
+    persons not essential for flight operations will be considered nonparticipants, and the PIC
+    will operate the UA with appropriate distance from nonparticipants in accordance with 14
+    CFR § 91.119.
+
+9. The VO will not perform any other duties beyond assisting the PIC with seeing and avoiding
+    other air traffic and other ground based obstacles/obstructions, and will not be permitted to
+    operate the camera or other instruments.
+
+10. The PIC will be designated before the flight and will not be allowed to transfer his or her
+    designation for the duration of the flight. The PIC will ensure that the VO can perform the
+    functions prescribed in these conditions and the operating documents.
+
+11. A briefing will be conducted in regard to the planned UA operations prior to each day's
+    activities. It will be mandatory that all personnel who will be performing duties in connection
+    with the operations be present for this briefing.
+
+12. Prior to each flight, the PIC will inspect the UA, including the Ground Control Station, to
+    ensure it is in a condition for safe flight. If the inspection reveals a condition that affects the
+    safe operation of the UA, the PIC will not operate the UA until the necessary maintenance
+    has been performed and the UA is found to be in a condition for safe flight. All maintenance
+    and alterations will be properly documented in the aircraft records.
+
+13. Petitioner will conduct a functional flight test on any UA that has undergone maintenance or
+    alterations that affect the UA operation or flight characteristics, e.g. replacement of a flight
+    critical component. The PIC who conducts the functional test flight will make an entry in the
+    aircraft records.
+
+14. The petitioner will carry out its maintenance, inspections, and record keeping requirements,
+    in accordance with the UA manufacturer's aircraft/component, maintenance, overhaul,
+    replacement, inspection, and life limit requirements set forth in the operating documents.
+    Maintenance, inspection, alterations, and status of replacement/overhaul component parts
+    will be noted in the aircraft records, including total time in service, description of work
+    accomplished, and the signature of the authorized person returning the UA to service. The
+    authorized person will make an entry in the aircraft record of the corrective action taken
+    against discrepancies discovered between inspections.
+
+15. The UA will be operated within visual line of sight (VLOS) of the PIC and VO at all times.
+    This requires the PIC to be able to use human vision unaided by any device other than
+    corrective lenses. PIC and VO will at all times be able to communicate verbally. They will
+    not be permitted to use electronic messaging or texting to communicate during flight
+    operations.
+
+16. The PIC will not begin a flight unless (considering wind and forecast weather conditions)
+
+                                                         10
+    there is enough power to fly at normal cruising speed to the intended landing point and
+    prepare to land each UA with 20% battery life remaining.
+
+17. Actual total flight time for each operational flight will result in no less than a 20% battery
+    reserve.
+
+18. The UA will have the capability to abort a flight in case of unexpected obstacles or
+    emergencies.
+
+19. The UA will be programmed so that if it loses communications or loses its GPS signal, it will
+    return to a pre-determined location within the planned operating area and land or be
+    recovered in accordance with the operating documents
+
+20. If the UA and its radio control link disconnect during flight, the system's failsafe protection
+    will be triggered and the multirotor will return to home and land automatically, rather than
+    flying off uncontrollably or landing at an unknown location.
+
+21. The operating documents required under 14 CFR §§ 91.9 and 91.203 will be maintained and
+    available to the PIC at the Ground Control Station of the UA any time the UA is operating.
+    These documents will be made available to the Administrator or any law enforcement official
+    upon request. If a discrepancy exists between the conditions and limitations in the exemption
+    grant and the procedures outlined in the operating documents, the grant conditions and
+    limitations will take precedence and will be followed. Otherwise, the petitioner will follow
+    the procedures outlined in its operating documents. If it updates or revises its operating
+    documents, it will present updated and revised documents to the Administrator upon request.
+    If the petitioner determines that any update or revision would affect the basis upon which the
+    FAA granted the exemption, then the Petitioner will petition for an amendment to the grant
+    of exemption.
+
+22. Petitioner will obtain written and/or oral permission from the landowners/authorized agents
+    of the landowners over which flights will be conducted.
+
+23. Petitioner will obtain all required permissions and permits from territorial, state, county or
+    city jurisdictions, including local law enforcement, fire, or other appropriate governmental
+    agencies.
+
+24. UA operations will not be conducted during night, as defined in 14 CFR § 1.1. All operations
+    will be conducted under visual meteorological conditions (VMC). Flights will not be
+    conducted under special visual flight rules (SVFR).
+
+25. The petitioner will obtain an Air Traffic Organization (ATO) issued Certificate of Waiver or
+    Authorization (COA) prior to conducting any operations under the grant of exemption.
+    Petitioner will request a Notice to Airman (NOTAM) not more than 72 hours in advance, but
+    not less than 48 hours prior to the operation. All operations will be conducted in accordance
+    with airspace requirements in the ATO issued COA, including class of airspace, altitude level
+    and potential transponder requirements.
+
+26. The UA will not be operated within 5 nautical miles of an airport reference point as denoted
+    on a current FAA-published aeronautical chart unless a letter of agreement with that airport's
+
+                                                         11
+    management has been obtained, and the operation is conducted in accordance with a
+    NOTAM as required by the operator's COA. Any letter of agreement with the airport
+    management will be made available to the Administrator upon request.
+
+27. The UA will not be operated less than 500 feet below, or less than 2,000 feet horizontally
+    from, a cloud or when visibility is less than 3 statute miles from the PIC.
+
+28. All operations shall be conducted in Class G airspace or as otherwise prescribed in an ATO
+    issued COA.
+
+29. All aircraft operated in accordance with this exemption will be identified by serial number,
+    registered in accordance with 14 CFR part 47, and have identification (N-Number) markings
+    in accordance with 14 CFR part 45, Subpart C. Markings will be as large as practicable.
+
+30. Before conducting operations, petitioner will ensure that the radio frequency spectrum used
+    for operation and control of the UA complies with the Federal Communications Commission
+    (FCC) or other appropriate government oversight agency requirements.
+
+31. The UA will remain clear and yield the right of way to all manned aviation operations and
+    activities at all times.
+
+32. The UA will not be operated by the PIC from any moving device or vehicle.
+
+33. Petitioner will conduct all flight operations at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless one of the following three conditions is met:
+
+    a. Barriers or structures are present that sufficiently protect nonparticipating persons from
+         the UA and/or debris in the event of an accident. The petitioner will ensure that
+         nonparticipating persons remain under such protection. If a situation arises where
+         nonparticipating persons leave such protection and are within 500 feet of the UA, the PIC
+         will ensure that flight operations cease immediately.
+
+    b. The aircraft is operated near vessels, vehicles or structures where the owner/controller of
+         such vessels, vehicles or structures has granted permission and the PIC has made a safety
+         assessment of the risk of operating closer to those objects and determined that it does not
+         present an undue hazard.
+
+    c. Operations nearer to the PIC, VO, operator trainees or essential persons do not present an
+         undue hazard to those persons per § 91.119(a).
+
+34. Petitioner will report any incident, accident, or flight operation that transgresses the lateral or
+    vertical boundaries of the operational area as defined by the applicable COA to the FAA's
+    UAS Integration Office (AFS-80) within 24 hours. Petitioner will report accidents to the
+    National Transportation Safety Board (NTSB) per instructions contained on the NTSB Web
+    site: www.ntsb.gov.
+
+VI. Privacy
+
+         K&ALLC will follow the Association of Unmanned Vehicles Systems International's
+                                                         12
+Code of Conduct, available at http://www.auvsi.org/conduct. When conducting search and rescue
+operations, the images received will be turned over to the incident commander (the individual in
+charge of the disaster or search) and the GIS staff on hand, who are almost always law
+enforcement personnel. This is a similar privacy protocol to when taking pictures on the ground
+for disaster response and search and rescue operations.
+
+         Please refer to Exhibit 1, Section VII: Privacy for more information regarding
+Petitioner's privacy policy.
+
+VII. Public Interest and Safety
+
+         The planned UA use will increase ground safety for (i) precision farming and other
+agriculture applications; (ii) asset management for utilities, government agencies, and private
+firms; (iii) construction and land management; (iv) disaster response and search and rescue; and
+(v) conducting research flights to collect data and establish and refine forensic processes,
+procedures, and tools for investigation of accidents and crimes involving UAs. The enhanced
+safety and reduced environmental impact achieved using a UA with the specifications described
+by the petitioner and carrying no passengers or crew, rather than a manned aircraft of
+significantly greater proportions, carrying crew in addition to flammable fuel, gives the FAA
+good cause to find that the UA operation enabled by this exemption is in the public interest.
+
+         Satisfaction of the criteria provided in Section 333 of the Reform Act of 2012 ­ size,
+weight, speed, operating capabilities, proximity to airports and populated areas and operation
+within visual line of sight and national security ­ provide more than adequate justification for the
+grant of the requested exemption allowing commercial operation of petitioner's UAs, pursuant to
+K&ALLC's rules of operation.
+
+         A. Precision Farming and Agriculture Applications
+
+         The planned UA use will increase ground safety in the precision agriculture industry. The
+enhanced safety and reduced environmental impact achieved using a UA with the specifications
+described by the petitioner and carrying no passengers or crew, rather than a manned aircraft of
+significantly greater proportions, carrying crew in addition to flammable fuel, gives the FAA
+good cause to find that the UA operation enabled by this exemption is in the public interest.
+
+         Satisfaction of the criteria provided in Section 333 of the Reform Act of 2012 ­ size,
+weight, speed, operating capabilities, proximity to airports and populated areas and operation
+within visual line of sight and national security ­ provide more than adequate justification for the
+grant of the requested exemption allowing commercial operation of petitioner's UA for precision
+agriculture operations, pursuant to petitioner's rules of operation.
+
+         Use of UA technology to assist in precision agriculture is a benefit not only to farmers,
+but to the public as a whole, and to the environment. Farmers will have greater analytical tools at
+their disposal for managing crops, leading to decreased use of resources. This will result in both
+reduction of cost and increase in quality ­ benefits that will be passed on to the public.
+Additionally, using less water and chemicals during commercial farming operations will reduce
+the impact that the operation has on the environment.
+
+         As Jeff Vanderwerff testified on behalf of the American Farm Bureau Federation before
+                                                         13
+members of the Senate Committee on Commerce, Science, & Transportation on March 24, 2015:
+
+         [The benefit of UA comes from] their ability to provide detailed scouting
+         information on weed emergence, insect infestations and potential nutrient
+         shortages. This valuable information allows the farmer to catch these threats
+         before they develop into significant and catastrophic problems. By addressing
+         threats quickly, the farmer has a greater likelihood of being able to respond
+         appropriately so as to optimize yields.
+
+         The imagery from UAS also allows the farmer to spot-treat sections of the fields
+         as opposed to watering or spraying the entire field. The quicker a farmer can
+         discover a potential threat, the quicker the farmer can address the issue. Images
+         from UAS allow the farmer to identify the specific location where a specific
+         treatment ­ be it fertilizer, water, pesticides, or herbicides is necessary; in doing
+         so, the farmer can eliminate the need to use these applications more broadly
+         across the entire field. By spot-treating threats to the crop, the farmer not only
+         lowers the cost of treatment but also has the potential of lowering the
+         environmental impact by minimizing application." (emphasis added)1
+
+         The FAA has previously determined that commercial UA use for the precision farming
+industry is within the public interest. It has approved the E384 for precision farming and
+agriculture applications in Exemption No. 11166.
+
+         Additionally, the FAA has previously approved a variety of other UAs for commercial
+precision farming and agriculture applications in Exemption Nos.:
+
+         11110 (precision aerial surveys);
+         11136 (photogrammetry and crop scouting in order to perform precision agriculture);
+         11167 (high-resolution aerial imagery in support of biomass analysis and estimation,
+         yield monitoring, leaf area indexing and reporting of geographical data and overall crop
+         health to a domestic agricultural seed company);
+         11170 (precision agriculture operations);
+         11177 (commercial precision agriculture surveys);
+         11192 (aerial photography and 3D mapping for the agriculture industry);
+         11193 (precision photogrammetry and crop scouting for precision agriculture);
+         11195 (aerial photography for agriculture);
+         11222 (collect high quality, actionable data for use by agronomists, crop consultants, and
+         forestry professionals);
+         11223 (precision agriculture survey and inspection operations);
+         11226 (precision aerial surveys);
+         11228 (aerial acquisition and research in support of the agriculture industry); and
+         11229 (aerial acquisition and research in support of the agriculture industry).
+
+1 Unmanned Aircraft Systems: Key Considerations Regarding Safety, Innovation, Economic
+Impact, and Privacy Before the S. Comm. On Commerce, Science, & Transportation, 114th
+Cong. 1 (2015) (written statement of Jeff Vanderwerff on behalf of the American Farm Bureau
+Federation).
+
+                                                         14
+         B. Asset Management Applications
+
+         Petitioner proposes utilizing its UAs for asset management applications including wind
+farm, power transmission system, and pipeline inspections.
+
+         Currently, many wind farm inspections are conducted by people in harnesses, dangling
+from each individual tower, and power transmission system and pipeline inspections are
+conducted by individuals in manned aircraft. Both wind farm and power transmission systems
+inspections involve a serious risk of falls. Wind farm inspectors often conduct inspections of
+towers and blades from the structure and are at risk of falling, sometimes over 100 feet or more.2
+
+         Similarly, inspectors of power transmission systems have a similar risk of falling, which
+is augmented by the danger of being near electrical wires. There have been several instances in
+recent years in which inspectors and crew members lost their lives performing these inspections.
+Three people were killed in an accident in Silt, Colorado in January 2014. The helicopter struck
+the power line and crashed, quickly killing all those on board.3 Two people lost their lives in a
+similar situation in August 2014 in Alabama.4 In Texas, in 2013, two transmission line inspectors
+that were suspended from the helicopter by large cables were killed when the cables struck the
+power line and snapped.5 Moreover, especially in populated areas, the use of manned helicopters
+to conduct these inspections creates a substantial risk of injury or death for individuals on the
+ground.
+
+         Additionally, people involved in pipeline inspection must walk along the pipeline with
+sensor equipment. This can be time consuming, due to the length of pipelines. Inspectors may
+also have to traverse lengths of the pipeline in adverse weather and geographic conditions.
+Furthermore, inspectors may be exposed to hazardous materials, such as crude oil and natural
+gas. According to the U.S. Department of Transportation's Pipeline and Hazardous Materials
+Safety Administration (PHMSA), in 2014, there were 29 serious pipeline incidents, and an
+additional 268 significant pipeline incidents, with 19 fatalities and 96 injuries.6
+
+2 United States Department of Energy, Occupational Safety & Hazard Administration, Green Job
+Hazards: Wind Energy ­ Falls, https://www.osha.gov/dep/greenjobs/windenergy_falls.html.
+3 Brian Hernandez, 3 Killed in Crash When Helicopter Hits Power Lines Near Silt in Western
+Colorado, ABC7 NEWS DENVER Jan. 27, 2014, http://www.thedenverchannel.com/news/local-
+news/3-killed-in-helicopter-crash-near-silt01272014
+4 Power-line-inspection Copter Crashes in Alabama; 2 Killed, COLUMBUS DISPATCH, Aug. 20,
+2014, http://www.dispatch.com/content/stories/national_world/2014/08/20/power-line-
+inspection-copter-crashes-2-killed.html
+5 Sabra Stafford, Turlock Man Killed in Power Line Accident, TURLOCK JOURNAL (Texas), Aug.
+8, 2013, http://www.turlockjournal.com/archives/21204/
+6 The PHMSA defines "serious incidents" as those including a fatality or injury requiring in-
+patient hospitalization, but this data excludes first far incidents, which are gas distribution
+incidents with a cause of "other outside force damages" and sub-cause of "nearby fire/explosion"
+as the primary cause of incident. "Significant incidents" include any of the following conditions,
+excluding first fire incidents: (1) fatality or injury requiring in-patient hospitalization; (2)
+$50,000 or more in total costs, measured in 1984 dollars; (3) highly volatile liquid releases of 5
+barrels or more or other liquid releases of 50 barrels or more; or (4) liquid releases resulting in an
+unintentional fire or explosion.
+
+                                                         15
+         Conversely, all three types of asset management inspection can be easily, quickly, and
+much more safely, conducted by operators controlling UAs from the ground. Human inspectors
+will not be at risk of falls from great heights or onto electrical wires, and will not be subjected to
+the risks associated with manned flight.
+
+         The FAA has previously determined that commercial UA use for asset management is
+within the public interest. It has approved commercial UA asset management applications in
+Exemption Nos.:
+
+         11184 (inspection of towers and structures);
+         11185 (electric transmission and distribution utility system monitoring, inspections, and
+         damage assessments);
+         11217 (aerial inspections of wind turbine blades and towers);
+         11224 (inspections of energy infrastructure);
+         11225 (safety inspections and aerial surveying);
+         11228 (research in support of Government entities, utility companies, local infrastructure)
+         11229 (research in support of Government entities, utility companies, local infrastructure)
+         11230 (tower inspections and mapping operations to an existing tower structure);
+         11238 (aerial inspections of electric and gas facilities); and
+         11239 (utility, power line inspections).
+
+         C. Construction and Land Management Applications
+
+         Use of a UA for construction and land management applications will provide a greater
+level of safety than what is currently available. The construction industry has traditionally been
+very dangerous for workers, both based on the working conditions and equipment used,
+including helicopters and cranes. Currently, aerial inspections are not done on many construction
+projects. Instead, inspections are conducted from the ground, or from within the structure being
+constructed, giving a limited view of the project. OSHA reports that in 2013, 20.3% of worker
+fatalities in private industry were related to construction, and the leading cause of those fatalities
+were falls, with 294 out of the 796 total fatalities.7 This limits the capabilities of architects and
+construction crews examining the work that has been done, and could lead to misidentification or
+failure to identify flaws in the construction. Those projects that do incorporate aerial inspections
+must rely upon manned helicopters or other types of aircraft, devices that can pose a great risk to
+those piloting and those on the ground below, without providing the most accurate results.
+Similarly, land management applications are limited to either expensive and dangerous manned
+flights, or ground-level inspections that do not capture the full wealth of knowledge available.
+
+         Alternatively, using a UA to videotape and photograph these areas will allow the
+construction crew to gain a better vantage point of the structure. Safety concerns can be better
+identified and fixed, and the inspectors will be able to gain a more thorough understanding of
+construction progress. This UA will be able to provide a quick and cost effective aerial
+inspection of an entire jobsite, something that is much more difficult to perform without this
+technology. The device can be used to check the progress of the project and provide visual
+information on hard-to-reach areas that may not be adequately inspected otherwise without
+putting people in danger. UAs can be equipped with specialized cameras and sensors that
+provide enhanced detection of other concerns, such as gas leaks and lack of structural integrity.
+
+7 United States Department of labor, Occupational Safety & Health Administration Commonly
+Used Statistics, https://www.osha.gov/oshstats/commonstats.html
+
+                                                         16
+         The FAA has previously determined that using a UA will provide an equivalent or greater
+level of safety than manned flight when inspecting construction sites and has approved
+Exemption Nos. 11109 (monitor and ensure safety of construction sites), 11204 (aerial
+photography for the architectural, engineering, and construction industry sites), and 11286 (aerial
+imaging of construction sites).
+
+         D. Disaster Response and Search and Rescue
+
+         Petitioner wishes to use its UAs when conducting disaster response and search and rescue
+operations. Although petitioner will not be conducting this sort of operation for profit, because
+petitioner is a commercial UA operator in other respects, petitioner has included this sort of
+operation in this petition. Petitioner wishes to conduct these operations under the auspices of the
+FAA. The president of K&ALLC, Mr. Kovar, is an experienced actor in disaster response and
+search and rescue operations. For reference letters regarding Mr. Kovar's previous experience
+and expertise in this area, please refer to Exhibit 4. Mr. Kovar wishes to expand his capabilities
+to assist where assistance is needed by using UAs as an aid.
+
+         The major benefit to conducting disaster response and search and rescue operations with
+a UA rather than a manned aircraft is cost. Government agencies across the country have turned
+to UAs as a possible source for assistance during emergency situations. The Washington State
+Department of Transportation has conducted research on using UAs and determined that they
+would be useful for both search and rescue and disaster response operations, including avalanche
+response. The department has previously paid $800 an hour for manned helicopters for search
+and response operations.8 The Mesa County, Colorado Sherriff's Office uses a UA equipped
+with infrared sensors for search and rescue operations, and has projected that a UA costs $25 an
+hour to operate, compared with manned aircraft, which cost between $400 and $1,200 an hour to
+operate.9 The Henry County, Indiana Office of Emergency Management ("HCOEM")
+determined that owning an emergency response manned aircraft could cost $800,000, not
+including personnel costs, compared to the one-time purchase price of $1,700 to purchase their
+UA, and concluded that investing in a manned aircraft for emergency management would not
+happen:
+
+         "The cost to Henry County to use manned aerial services is something that
+         has and most likely will not be budgeted for." 10 (emphasis added).
+
+         Additionally, operators of UAs are able respond much more quickly in an emergency
+than the pilot of a manned aircraft. They can be launched from an area close to the scene of an
+emergency, compared to a manned aircraft which would depart from an airport, potentially
+
+8 Edward D. McCormack, Use of Small Unmanned Aircraft by the Washington State Department
+of Transportation, 14 (June, 2008) available at
+http://www.wsdot.wa.gov/research/reports/fullreports/703.1.pdf.
+9 Sheriff Rebecca Spiess, MSCO Unmanned Aircraft Systems Team, Frequently Asked
+Questions, available at http://sheriff.mesacounty.us/uav.
+10 Henry CountyOffice of Emergency Management, Standard Operating Procedures and
+Standard Operating Guidelines for Unmanned Aircraft Systems (UAS), 8 (December 4, 2014),
+available at:
+http://www.henrycoema.org/forms/HCOEM%20Aerial%20Equipment%20Standard%20Operati
+ng%20Procedures%20and%20Guidlines%20Ver%201-3.pdf.
+
+                                                         17
+several miles away from the area of concern. Additionally, pilots of manned aircraft are subject
+to significantly more risks by being in the air, while UA operators are able to monitor the
+situation safely from the ground.
+
+         The FAA has previously approved disaster response operations in Exemption No. 11283
+and search and rescue operations in Exemption No. 11282.
+
+         E. Research Flights to Develop Processes, Procedures, and Tools for Accident and
+             Crime Investigations of UAs.
+
+         Finally, the petitioner wishes to conduct commercial UA operations for the purpose of
+conducting research flights to collect data and establish and refine forensic processes,
+procedures, and tools for investigation of accidents and crimes involving UAs. Petitioner wishes
+to fly UAs in order to collect flight data and the ground control station and then using forensic
+analysis to determine what the UA was doing, where it had been, and other information
+regarding that flight.
+
+         Unfortunately, the past year in manned aviation has demonstrated the importance of
+having a wealth of information regarding airplane disappearances and crashes. The National
+Transportation and Safety Board (NTSB) has a database covering civil manned aviation
+accidents that dates back to 1962. No such record exists for UAs, where the technology is rapidly
+developing. It is imperative for the safe integration of UAs into the NAS that this type of
+research occur.
+
+                                                         18
+VIII. Regulations from Which Exemption is Requested
+
+A. Appendix A: FARs as to which K&ALLC wishes the same determination to be
+         made as has been made previously.
+
+FAR           Applicable condition(s) in      FAA Exemption Decision
+Provision     Section 5 of petition
+21(h)         1, 2, 3, 4, 5, 15, 24, 27, 28,  Nos. 11062, 11063, 11064, 11065, 11066, 11067,
+              33                              11080, 11109, 11111, 11110, 11114, 11136, 11138,
+43.7                                          11150, 11153, 11156, 11157, 11166, 11167, 11170,
+43.11         13, 14                          11171, 11172, 11174, 11176, 11177, 11178, 11184,
+45.11         12                              11185, 11188, 11189, 11191, 11192, 11193, 11195
+45.27         29                              No. 11208
+45.29         29                              No. 11208
+91.7(a)       29
+              12                              No. 11208
+91.9(b)(2)
+              22                              No. 11188
+91.9(c)
+91.103(b)(2)  30                              Nos. 11136, 11157, 11170, 11185, 11193
+              3, 9, 15, 16, 17, 18, 19, 20,
+91.105        27                              Nos. 11062, 11063, 11064, 11065, 11066, 11067,
+91.109                                        11080, 11109, 11110, 11136, 11138, 11150, 11153,
+              6                               11156, 11157, 11158, 11160, 11161, 11166, 11167,
+91.113(b)     7, 8                            11170, 11171, 11172, 11174, 11177, 11178, 11184,
+                                              11185, 11188, 11189, 11191, 11192, 11193, 11195,
+              3, 31                           11204
+                                              Nos. 11062, 11063, 11064, 11065, 11066, 11067,
+                                              11080, 11109, 11110, 11111, 11112, 11114, 11136,
+                                              11138, 11150, 11153, 11156, 11157, 11062, 11063,
+                                              11064, 11065, 11066, 11067, 11080, 11109, 11110,
+                                              11111, 11112, 11114, 11136, 11138, 11150, 11153,
+                                              11156, 11157, 11174, 11177, 11178, 11184, 11185,
+                                              11189, 11192, 11193, 11195
+                                              Nos. 11136, 11170, 11171, 11174, 11185
+                                              No. 11062, 11063, 11064, 11065, 11066, 11067,
+                                              11080, 11109, 11138, 11150, 11153, 11156, 11158,
+                                              11160, 11161, 11166, 11167, 11171, 11172, 11176,
+                                              11177, 11178, 11184, 11185, 11188, 11188, 11189,
+                                              11191, 11192, 11193, 11195, 11204
+                                              No. 11185
+                                              Nos. 11062, 11063, 11064, 11065, 11066, 11067,
+                                              11080, 11109, 11110, 11112, 11136, 11138, 11150,
+                                              11153, 11156, 11157, 11166, 11167, 11170, 11171,
+                                              11174, 11177, 11184, 11185, 11189, 11191, 11192,
+                                              11193, 11194, 11195, 11206, 11208
+                                              No. 11238
+
+                                              19
+FAR           Applicable condition(s) in  FAA Exemption Decision
+Provision     Section 5 of petition
+91.119(c )    4, 33                       Nos. 11162, 11163, 11164, 11165, 11166, 111080,
+                                          111109, 11110, 11111, 11112, 11114, 11136,
+91.121        4                           11138, 11150, 11153, 11156, 11160 11161, 11166,
+              16, 17                      11167, 11170, 11171, 11172, 11174, 11176, 11178,
+91.151(a)     21                          11185, 11188, 11189, 11190, 11193
+                                          Nos. 11162, 11163, 11164, 11165, 11166, 111080,
+91.203 (a)    25, 26                      111109, 11136, 11138, 11150, 11153, 11156, 11160
+and (b)       12, 13, 14                  11161, 11166, 11167, 11170, 11171, 11174, 11176,
+              12, 13, 14                  11178, 11185, 11188, 11189, 11190, 11193
+91.215                                    Nos. 11110, 11153, 11156, 11161; 111109, 11110,
+91.403        14                          11112, 11136, 11138, 11150, 11153, 11156, 11160
+91.405(a)                                 11161, 11166, 11167, 11170, 11171, 11172, 11174,
+              12, 13, 14                  11176, 11178, 11185, 11188, 11189, 11190, 11193
+91.407(a)(1)
+                                          Nos. 11062, 11063, 11064, 11065, 11066,
+91.409(a)(1)                              11067, 11080, 11109, 11110, 11111, 11112,
+                                          11114, 11136, 11138, 11150, 11153, 11156,
+                                          11157, 11170, 11171, 11172, 11174, 11176,
+                                          11177, 11178, 11184, 11185, 11188, 11188,
+                                          11189, 11191, 11192, 11193, 11195
+                                          Nos. 11185, 11195
+                                          No. 11185
+
+                                          Nos. 11062, 11063, 11064, 11065, 11066,
+                                          11067, 11080, 11109, 11110, 11111, 11112,
+                                          11114, 11136, 11138, 11150, 11153, 11156,
+                                          11157, 11158, 11160, 11161, 11166, 11167,
+                                          11170, 11171, 11172, 11174, 11176, 11177,
+                                          11178, 11184, 11185, 11188, 11188, 11189,
+                                          11191, 11192, 11193, 11195, 11204
+                                          Nos. 11062, 11063, 11064, 11065, 11066,
+                                          11067, 11080, 11109, 11110, 11111, 11112,
+                                          11114, 11136, 11138, 11150, 11153, 11156,
+                                          11157, 11158, 11160, 11161, 11166, 11167,
+                                          11170, 11171, 11172, 11174, 11176, 11177,
+                                          11178, 11184, 11185, 11188, 11188, 11189,
+                                          11191, 11192, 11193, 11195, 11204
+                                          Nos. 11062, 11063, 11064, 11065, 11066,
+                                          11067, 11080, 11109, 11110, 11111, 11112,
+                                          11114, 11136, 11138, 11150, 11153, 11156,
+                                          11157, 11158, 11160, 11161, 11166, 11167,
+                                          11170, 11171, 11172, 11174, 11176, 11177,
+                                          11178, 11184, 11185, 11188, 11188, 11189,
+                                          11191, 11192, 11193, 11195, 11204
+
+                                          20
+FAR           Applicable condition(s) in  FAA Exemption Decision
+Provision     Section 5 of petition
+91.409(a)(2)  12, 13, 14                  Nos. 11062, 11063, 11064, 11065, 11066,
+                                          11067, 11080, 11109, 11110, 11111, 11112,
+91.417(a)     12, 13, 14                  11114, 11136, 11138, 11150, 11153, 11156,
+                                          11157, 11158, 11160, 11161, 11166, 11167,
+91.417(b)     12, 13, 14                  11170, 11171, 11172, 11174, 11176, 11177,
+                                          11178, 11184, 11185, 11188, 11188, 11189,
+                                          11191, 11192, 11193, 11195, 11204
+                                          Nos. 11062, 11063, 11064, 11065, 11066,
+                                          11067, 11080, 11109, 11110, 11111, 11112,
+                                          11114, 11136, 11138, 11150, 11153, 11156,
+                                          11157, 11158, 11160, 11161, 11166, 11167,
+                                          11170, 11171, 11172, 11174, 11176, 11177,
+                                          11178, 11184, 11185, 11188, 11188, 11189,
+                                          11191, 11192, 11193, 11195, 11204
+                                          Nos. 11062, 11063, 11064, 11065, 11066,
+                                          11067, 11080, 11109, 11110, 11111, 11112,
+                                          11114, 11136, 11138, 11150, 11153, 11156,
+                                          11157, 11158, 11160, 11161, 11166, 11167,
+                                          11170, 11171, 11172, 11174, 11176, 11177,
+                                          11178, 11184, 11185, 11188, 11188, 11189,
+                                          11191, 11192, 11193, 11195, 11204
+
+                                          21
+STORE                       PRODUCTS   SUPPORT  COMMUNITY             DEVELOPER  Search dji.com...      Worldwide (English)
+
+                                                Overview Features No Fly Zones Specs Videos Downloads FAQ Wiki Dealers Buy Now
+
+YOUR FLYING CAMERA
+
+New Pilot Experience 2015 
+
+                                                                                                    
+
+                                                                  22
+Introducing the Phantom 2 Vision+  Phantom 2 Vision+ Preparing to Fly  Introducing Phantom 2 Vision+ Ground Station
+
+                                                                                                More Features  
+
+COMPARE PHANTOMS                   DJI OFFICIAL STORE                     DJI AUTHORIZED DEALERS  HELP AND SUPPORT
+
+                                                       23                                           
+              Buy from the DJI Official Store      Buy from DJI authorized dealers                                                              Wiki 
+                         Buy Now                        Find a local dealer                                                                Downloads 
+
+Compare Now                                                                                                                                   Support 
+                                                                                                                                 After-sales Service Policies 
+
+About DJI Contact DJI News Media Coverage Showcase Careers DJI Wiki After-sales Service Policies Website Feedback DJI Developer
+                                                  Copyright © 2015 DJI All Rights Reserved.   Privacy Policy Terms of Use
+
+                                               24
+STORE  PRODUCTS         SUPPORT  COMMUNITY       DEVELOPER          Search dji.com...                                               Worldwide (English)
+
+                                 Overview Features No Fly Zones Specs Videos Downloads FAQ Wiki Dealers Buy Now
+
+                                                                                                                                         Body
+                                                                                                                                  Remote Control
+
+                                                                                                                                  click and drag
+
+RADAR POSITIONING &                                                                                                   Home Point
+RETURN HOME                                                                              Return to Home
+                                                                    Out of Range
+   The flight radar displays the current position of the Phantom 2
+    Vision+ in relation to the pilot.                                                                              Control Range
+   Exceeding the control range of the remote control will trigger
+    `Return-to-Home', meaning the Phantom 2 Vision+ will
+    automatically fly back to its takeoff point and land safely.
+
+       Max flight time                       25
+25 Mins
+
+          ONSCREEN REAL-TIME FLIGHT
+                       PARAMETERS
+
+         Keep track of current flight telemetry and see what your Phantom sees on your
+                                                    mobile device.
+
+                     Radar positioning Flight parameters Return home
+
+         HIGH PERFORM26 ANCE CAMERA
+     The Phantom 2 Vision+ carries an extremely high quality camera and a removable 4GB micro SD card. It
+     shoots full HD video at 1080p/30fps and 720p/60fps, giving you crystal clear video and the option for slow
+
+                                           motion shots. Photos are shot at 14 megapixels.
+
+                                                 View actual photos taken with the Phantom 2 Vision+ 
+
+CAMERA TILT CONTROL
+
+Tilt the camera as you fly, creating unique angles and
+amazing shots.
+
+                                        GREATER CONTROL
+
+                                                                                     The upgraded remote control comes with many new
+                                                                                      features. A gimbal control dial, trainer port, built-in
+                                                                                      rechargeable LiPo battery with a capacity of 2000mAh,
+                                                                                      battery level LED indicators and throttle locking feature that
+                                                                                      holds the throttle stick in place when descending are all
+
+                                                         27 included. The new remote control is compatible with the
+Gimbal Control                    Phantom 2 Vision+ and Phantom 2.
+
+                Battery Life
+
+                                                                               Trainer Port
+
+                                  Use DJI Lightbridge to control your aircraft or connect the remote
+                                  control to your computer via the trainer port to run
+                                  a simulation application and practice your flying skills.
+
+                              28
+                           IMPROVED POWER
+
+New motors, propellers, and ESCs combine to give you greater thrust and control than ever before. You can load more equipment on
+        your Phantom, and achieve up to 200g/arm of extra thrust when using a 3S LiPo battery with this completely new system.
+
+   NEW COMPASS
+
+       A new, anti-static compass has been
+        developed, with a protective shell to
+        help
+        shield it in any flight conditions.
+
+                              READY TO FLY
+
+                                                                   29
+                      Point the camera straight down for a totally unique view of your world.
+
+          SUPPORTS ADOBE DNG RAW
+
+DNG RAW photo capture means all original image information is retained for powerful post processing.
+
+        ADOBE LENS PROFILE SUPPORT
+
+ An Adobe lens profile for barrel distortion removal is available for the DJI Phantom 2 Vision+ camera.
+
+         * Available as standard in the latest versions of Adobe Lightroom, Adobe Camera Raw for Photoshop and Adobe Premiere.
+
+                                                   30
+       Before      After
+
+       CAMERA PARAMETER SETTINGS
+
+Camera settings including Picture Quality, ISO, Exposure Compensation, White Balance, and capture Format can be adjusted through
+                                                                               the VISION app.
+
+ALBUM          31
+SYNCHRONIZATION
+
+Beam photos and videos from the Vision+ straight to
+your phone using Wi-Fi. No computer required.
+
+                                                                                                      Up to 700m
+                                                                                                   Wi-Fi connection
+
+                                 NO FLY ZONES FEATURE
+
+                                                                       In order to increase flight safety and prevent accidental flights in
+                                                                        restricted areas, the new firmware for the Phantom 2 series
+                                                                        includes a No Fly Zone feature.
+                                                                       These zones have been divided into two categories: A and B. For a
+                                                                        full explanation of the difference between the categories and to
+                                                                        view a complete list of places included, please click here.
+
+                                                             32
+COMPARE PHANTOMS      DJI OFFICIAL STORE                DJI AUTHORIZED DEALERS                                                       HELP AND SUPPORT
+     Compare Now 
+                                                                                                                                    
+
+                   Buy from the DJI Official Store      Buy from DJI authorized dealers                                                         Wiki 
+                              Buy Now                        Find a local dealer                                                           Downloads 
+
+                                                                                                                                              Support 
+                                                                                                                                 After-sales Service Policies 
+
+About DJI Contact DJI News Media Coverage Showcase Careers DJI Wiki After-sales Service Policies Website Feedback DJI Developer
+                                                  Copyright © 2015 DJI All Rights Reserved.   Privacy Policy Terms of Use
+
+                                                    33
+          STORE  PRODUCTS   SUPPORT  COMMUNITY           DEVELOPER            Search dji.com...               Worldwide (English)
+
+                                     Overview Features   No Fly Zones  Specs  Videos Downloads FAQ Wiki Dealers  Buy Now
+
+Aircraft         Supported Battery                                        DJI 5200mAh LiPo Battery
+                 Weight (Battery & Propellers Included)                   1242g
+Gimbal           Hover Accuracy (Ready To Fly)                            Vertical: 0.8m; Horizontal: 2.5m
+Camera           Max Yaw Angular Velocity                                 200°/s
+                 Max Tiltable Angle                                       35°
+                 Max Ascent / Descent Speed                               Ascent: 6m/s; Descent: 2m/s
+                 Max Flight Speed                                         15m/s (Not Recommended)
+                 Diagonal Motor-Motor Distance                            350mm
+
+                 Working Current                                          Static : 750mA; Dynamic : 900mA
+                 Control Accuracy                                         ±0.03°
+                 Controllable Range                                       Pitch : -90° 0°
+                 Maximum Angular Speed                                    Pitch : 90°/s
+
+                 Operating Environment Temperature                        0 -40
+                 Sensor Size
+                                                         34 1/2.3"
+                Effective Pixels                                14 Megapixels
+                Resolution                                      4384×3288
+                HD Recording                                    1080p30 & 720p
+                Recording FOV                                   110° / 85°
+
+Remote Control  Operating Frequency                             5.728 GHz 5.85 GHz
+Range Extender  Communication Distance (Open Area)              CE Compliance: 400m; FCC Compliance: 800m
+DJI VISION App  Receiver Sensitivity (1%PER)                    -93dBm
+                Transmitter Power                               CE Compliance: 25mW; FCC Compliance: 100mW
+                Working Voltage                                 120 mA@3.7V
+                Built-In LiPo Battery Working Current/Capacity  3.7V, 2000mAh
+
+                Operating Frequency                             2412-2462MHz
+                Communication Distance (Open Area)              500-700m
+                Transmitter Power                               20dBm
+                Power Consumption                               2W
+
+                System Requirement Of Mobile Device                              iOS version 6.1 or above/ Android system version 4.0 or above
+                Mobile Device Support
+                                                                                     iOS recommended: iPhone 4s, iPhone 5, iPhone 5s, iPhone 6, iPhone 6 Plus, iPod touch 5
+                                                                                      (available but not recommended: iPad 3, iPad 4, iPad mini)
+                                                                                     Android recommended: Samsung Galaxy S3, S4, Note 2, Note 3 or phones of similar
+
+                                                                35 configuration
+COMPARE PHANTOMS       DJI OFFICIAL STORE            DJI AUTHORIZED DEALERS                                                          HELP AND SUPPORT
+     Compare Now  
+                                                                                                                                    
+
+                    Buy from the DJI Official Store  Buy from DJI authorized dealers                                                            Wiki 
+                               Buy Now                    Find a local dealer                                                              Downloads  
+
+                                                                                                                                              Support  
+                                                                                                                                 After-sales Service Policies  
+
+About DJI Contact DJI News Media Coverage Showcase Careers DJI Wiki After-sales Service Policies Website Feedback DJI Developer
+                                                  Copyright © 2015 DJI All Rights Reserved.   Privacy Policy Terms of Use
+
+                                                                                       36
+SMART FLIGHT BATTERY          © 2014 DJI. All Rights Reserved.
+
+Safety Guidelines
+
+SMART FLIGHT BATTERIE
+
+Nutzungshinweise
+
+BATTERIES INTELLIGENTES
+
+Guide d'Utilisation
+
+
+
+
+
+
+
+
+
+ V1.0 2014.07
+
+                          37
+English                                                Charging the Battery
+                                                        Batteries must be charged using a DJI approved
+
+Battery Use                                            adapter. DJI takes no responsibility if the battery
+ Never use non-DJI batteries. Go to www.DJI.           is charged using a non-DJI charger. Never leave
+
+com to purchase new batteries. DJI takes no            the battery unattended during charging. Do not
+
+responsibility for any accidents caused by non-        charge the battery near flammable materials or
+
+ DJI batteries.                                         on flammable surfaces such as carpet or wood.
+ Never use or charge a swollen, leaky or damaged        Do not charge battery immediately after flight,
+
+battery. If so, contact DJI or its designated dealers  because the battery temperature may be too
+
+ for further assistance.                               high. Do not charge the battery until it cools
+ Do NOT install the battery into the battery           down to near room temperature. Charging
+
+compartment on the Phantom when turned on.             battery outside of the temperature range of
+
+Turn off the battery before installing it or removing  0-40 may lead to leakage, overheating, or
+
+ it from the Phantom. Never install or remove the       battery damage.
+ battery from the Phantom when it is turned on.         Charge and discharge the battery completely
+ The battery should be used in temperatures from
+                                                        once every 20 charge/discharge cycles.
+
+-20 to 40. Use of the battery above 50                 Discharge the battery until there is less than
+
+can lead to a fire or explosion. Use of battery        8% power or until it can no longer be turned
+
+ below -20 can lead to permanent damage.               on, then recharge it to the maximum capacity.
+ Do not use the battery in strong electrostatic        This power cycling procedure will optimize the
+
+or electromagnetic environments. Otherwise,            battery life.
+
+the battery control board may malfunction
+
+ and a serious accident may happen during              Battery Storage
+ flight.                                                Do not leave the battery near heat sources such as
+ Never disassemble or pierce the battery in any          a furnace or heater. The ideal storage temperature
+
+ way, or the battery may catch fire or explode.         is 0-21.
+ Electrolytes in the battery are highly corrosive. If   Keep the battery dry. Never drop the battery into
+
+any electrolytes splash onto your skin or eyes,         water.
+immediately wash the affected area with fresh           Do not drop, strike, impale, or manually short-
+
+ running water for at least 15 minutes then see a       circuit the battery.
+                                                        Keep the battery away from metal objects such
+ doctor immediately.
+ Check the condition of the battery if it falls out     as necklaces and hairpins.
+                                                        Discharge the battery to 30%-50% of the battery
+ of the Phantom. Make sure the battery is NOT
+
+damaged or leaking before putting it back to the       level if it will not be used for 7 days or more. This
+
+ Phantom.                                              can greatly extend the battery life.
+ Land the Phantom immediately when the
+
+ low battery level warning activates in the DJI        Battery Disposal
+                                                        Dispose of the battery into specific recycling
+ VISION App.                                             boxes only after a complete discharge. Do
+ Do not drop the battery into water. If the inside
+
+of the battery comes into contact with water,          not place the battery into regular rubbish bins.
+
+chemical decomposition may occur, potentially          Strictly follow your local disposal and recycling
+
+resulting the battery catching on fire, and may         regulations of batteries.
+even lead to an explosion. If the battery falls into    If the power on/off button of the smart battery
+
+water with the Phantom during flight, take it out      is disabled and the battery cannot be fully
+
+immediately and put it in a safe and open area.        discharged, please contact a professional
+
+Maintain a far distance from the battery until it      battery disposal/recycling agent for further
+
+is completely dry. Never use the battery again,        assistance.
+
+and dispose of the battery properly as described
+
+ in Battery Disposal below.                            Deutsch
+ Put out any battery fire using sand or a dry
+
+38powder fire extinguisher. Never use water to put     Batterienutzung
+                                                         Benutzen Sie ausschließlich originale DJI
+out a battery fire.
+
+1 EN                                                   DE
+Batterien. Gehen Sie auf www.DJI.com, um               offene Umgebung. Halten Sie großen Abstand
+
+neue Batterien zu erwerben. Für Schäden, die           zu der Batterie bis diese komplett getrocknet
+
+durch die Verwendung von Nicht-Originalteilen          ist. Benutzen Sie die Batterie niemals erneut
+
+und Zubehör entstehen, ist jedwede Haftung             und entsorgen Sie die Batterie sachgerecht,
+
+ des Herstellers ausgeschlossen.                        wie unten in dem Kapitel Entsorgen der
+ Benutzen oder Laden Sie niemals eine                   Flugbatterie beschrieben.
+                                                        Löschen Sie jeden Batteriebrand mit Hilfe von
+ angeschwollene, undichte oder beschädigte
+
+Batterie. Kontaktieren Sie gegebenenfalls DJI          Sand oder einem Pulverlöscher. Löschen Sie
+
+oder unsere ausgewiesenen Händler für weitere          einen Batteriebrand niemals mit Wasser.
+
+ Informationen.                                        Aufladen der Flugbatterie
+ Setzen Sie NIEMALS die Batterie in das                 Batterien müssen mit einem von DJI zugelassenen
+
+ Batteriefach des Phantom ein, während die
+
+Batterie eingeschaltet ist. Schalten Sie die Batterie  Adapter geladen werden. DJI übernimmt keine
+
+aus, bevor Sie diese in das Batteriefach einsetzen     Haftung für Batterien, die mit einem nicht
+
+oder vom Phantom entfernen. Setzen Sie niemals         von DJI autorisierten Ladegerät geladen
+
+die Batterie ins Batteriefach ein oder entfernen       wurden. Lassen Sie die Batterie während
+
+ sie, wenn diese eingeschaltet ist.                    des Ladevorgangs niemals unbeaufsichtigt.
+ Die Batterie sollte nur in einem Temperaturbereich    Laden Sie die Batterie nicht in der Nähe von
+
+von -20°C bis 40°C benutzt werden. Der Gebrauch        entflammbaren Materialien oder Oberflächen
+
+der Batterie bei über 50°C kann zu Feuer oder           wie Teppich oder Holz.
+einer Explosion führen. Die Verwendung bei unter        Laden Sie die Batterie nicht direkt nach dem
+
+ -20°C kann zu dauerhaften Schäden führen.             Flug, die Temperatur der Batterie könnte zu
+ Verwenden Sie die Batterie nie in starken             hoch sein. Laden Sie die Batterie erst, sobald
+
+elektrostatischen oder elektromagnetischen             sie auf mindestens Raumtemperatur abgekühlt
+
+Umfelden. Das Batterie Control Board könnte            ist. Das Laden der Batterie außerhalb des
+
+versagen und ein schwerer Unfall während des           Temperaturbereichs von 0°C - 40°C kann zu
+
+ Fluges passieren.                                      Auslaufen, Überhitzen oder einem Schaden an
+ Bauen Sie die Batterie niemals auseinander oder
+ durchbohren Sie diese, die Batterie könnte Feuer       der Batterie führen.
+                                                        Laden und Entladen Sie die Batterie einmal
+
+ fangen oder explodieren.                              vollständig alle 20 Lade-/Entladevorgänge.
+ Die Akkumulatorsäure in der Batterie ist stark        Entladen Sie die Batterie bis auf unter 8% bis
+
+korrosiv. Säurespritzer im Auge oder auf der           sie nicht mehr eingeschaltet werden kann,
+
+Haut sofort unter frischem, laufenden Wasser aus-      dann laden Sie diese bis zum Maximum ihrer
+
+bzw. abspülen und anschließend sofort einen Arzt       Kapazität auf. Das beschriebene Verfahren
+
+ aufsuchen.                                            optimiert die Lebensdauer Ihrer Batterie.
+ Überprüfen Sie den Zustand der Batterie, falls
+
+diese aus dem Phantom herausfällt. Stellen Sie         Lagerung der Flugbatterie
+sicher, dass die Batterie NICHT beschädigt ist           Lassen Sie die Batterie nicht in der Nähe von
+
+oder ausläuft, bevor Sie diese zurück in den           Hitzequellen wie einem Ofen oder Heizkörper. Die
+
+ Phantom stecken.                                       ideale Lagerungstemperatur liegt zwischen 0°C -
+ Landen Sie den Phantom umgehend, sobald
+                                                        21°C.
+ die Batteriewarnung in Ihrer DJI VISION App            Die Batterie ist sauber und trocken zu lagern.
+
+ erscheint.                                             Lassen Sie die Batterie niemals in Wasser
+ Lassen Sie die Batterie niemals in Wasser
+                                                        fallen.
+ fallen. Wenn das Innere der Batterie mit Wasser        Lassen Sie die Batterie nicht fallen, spießen Sie
+
+in Kontakt kommt, könnte eine chemische                diese nicht auf, schließen Sie sie nicht manuell
+
+Zersetzung ausgelöst werden, durch die die             kurz und wirken Sie nicht mit Gewalt auf die
+
+Batterie möglicherweise Feuer fängt oder                Batterie ein.
+sogar explodiert. Falls die Batterie während            Halten Sie die Batterie fern von Metallobjekten
+
+des Fluges mit dem Phantom in Wasser fällt,            wie Ketten und Haarnadeln.
+
+39entfernen Sie diese unverzüglich aus dem              Entladen Sie die Batterie bis auf 30% - 50%, falls
+                                                        Sie diese für 7 Tage oder länger nicht benutzen.
+Fluggerät und legen diese in eine sichere und
+
+2 DE
+Dies kann die Lebensdauer Ihrer Batterie stark           yeux, rincez immédiatement la zone affectée
+
+verlängern.                                              à l'eau fraiche courante pendant au moins
+
+                                                         15 minutes puis consultez immédiatement un
+
+Entsorgung der Flugbatterie                               docteur.
+  Entsorgen Sie die Battterie, nur nachdem                Vérifiez l'état de la batterie si elle tombe du
+
+Sie komplett entladen wurde, in speziellen               Phantom. Vérifiez que la batterie n'est PAS
+
+Recycling Tonnen. Werfen Sie die Batterie                endommagée ou suintante avant de la remettre
+
+nicht in die normale Mülltonne. Beachten                  dans le Phantom.
+und befolgen Sie unbedingt die kommunalen                 Faites atterrir le Phantom immédiatement dès
+
+Entsorgungs- und Recyclingvorschriften für               que l'alerte de faible batterie se déclenche
+
+ Batterien.                                               dans l'App DJI VISION.
+ Falls der On/Off Knopf der Batterie nicht                N'immergez pas la batterie. Si l'intérieur de
+
+funktioniert und die Batterie nicht vollständig          la batterie entre en contact avec de l'eau une
+
+entladen werden kann, kontaktieren Sie                   réaction chimique peut se produire, résultant
+
+bitte eine professionelle Entsorgungs-/                  potentiellement en un incendie ou même en
+
+Recyclingfirma.                                          l'explosion de la batterie. Si la batterie tombe
+
+                                                         à l'eau avec le Phantom lors d'un vol retirez-
+
+Français                                                 la immédiatement et mettez-la à l'abri dans
+                                                         un endroit sécurisé et ouvert. Restez à bonne
+
+Utilisation de la Batterie                               distance de la batterie jusqu'à ce qu'elle soit
+ N'utilisez jamais de batterie autre que d'origine.      entièrement sèche. Ne la réutilisez jamais et
+
+Rendez-vous sur www.DJI.com pour acheter                 déposez-la correctement comme décrit plus
+
+de nouvelles batteries. La responsabilité                bas dans le paragraphe sur le Recyclage des
+
+de DJI ne pourrait être engagée pour tout                Batteries. Eteignez une batterie en flammes
+
+accident résultant de l'utilisation de batteries         en utilisant du sable ou un extincteur à poudre
+
+ non-DJI.                                                sèche. N'utilisez jamais d'eau pour éteindre une
+ N'utilisez ni ne chargez jamais de batterie             batterie en feu.
+
+déformée, qui suinte ou qui est endommagée.
+
+Si vous constatez un problème contactez              Charge de la Batterie
+DJI ou ses revendeurs agréés pour recevoir            Les batteries doivent être chargées à l'aide d'un
+
+ l'assistance nécessaire.                                chargeur approuvé par DJI. La responsabilité
+ N'installez PAS la batterie dans le compartiment        de DJI ne peut être engagée si la batterie est
+
+du Phantom si elle est allumée. Eteignez la              chargée avec un autre chargeur que celui
+
+batterie avant de l'installer ou de la retirer du        proposé par DJI. Ne laissez jamais la batterie
+
+Phantom. N'installez ou ne retirez jamais la             sans surveillance durant la charge. Ne chargez
+
+ batterie du Phantom lorsqu'il est allumé.               pas la batterie près d'une source de chaleur,
+ La batterie peut être utilisée sous des                 d'un matériau inflammable ou sur une surface
+
+températures allant de -20 à 40. Utiliser                 inflammable comme un tapis ou du parquet.
+la batterie au-delà de 50 peut causer un                  Ne chargez pas votre batterie immédiatement
+
+incendie ou une explosion. L'utiliser en deçà de         après un vol car la température pourrait être
+
+-20 peut causer un dommage irréparable à                 trop élevée. Ne chargez la batterie que lorsque
+
+ la batterie.                                            celle-ci aura atteint la température ambiante.
+ N'utilisez pas la batterie dans un environnement        Charger la batterie hors de la plage de
+
+électrostatique ou électromagnétique important.          température comprise entre 0 et 0 peut
+
+Sinon, l'unité de contrôle de la batterie pourrait       entrainer une fuite, une surchauffe ou une
+
+ mal fonctionner et un sérieux accident pourrait          panne de la batterie.
+                                                          Chargez et déchargez complètement la batterie
+ survenir pendant le vol.
+ Ne désassemblez ou ne percez jamais la batterie          tous les cycles de 20 charges/décharges.
+
+d'aucune manière, ou celle-ci pourrait prendre           Déchargez la batterie jusqu'à ce qu'il reste
+
+feu ou exploser.                                         moins de 8% de charge ou jusqu'à ce que
+
+40 L'électrolyte dans la batterie est très corrosif. Si  la batterie ne puisse plus être allumée puis
+                                                         rechargez-la jusqu'à sa capacité maximale.
+ de l'électrolyte éclabousse votre peau ou vos
+
+3 FR
+Cette procédure de charge cyclique optimisera        
+la durée de vie de votre batterie.                   
+
+Stockage des Batteries                               
+ Ne laissez jamais la batterie près d'une source     
+  de chaleur comme un radiateur ou un poêle.
+  La température idéale de stockage est de 0         
+  -21.
+ Maintenez la batterie bien sèche. Ne l'immergez      15 
+  jamais dans un liquide.                            
+ Ne faites pas tomber ni ne cognez la batterie, ne
+                                                     
+                                                     
+
+                                                     
+                                                     
+
+ la percez pas, ne provoquez pas volontairement      
+ de court-circuit sur la batterie.
+ Gardez la batterie éloignée de petits objets         Phantom 
+ métalliques tels que des épingles à cheveux, des    
+ trombones, des petits bijoux.
+ Déchargez la batterie aux alentours de 30%-50%      
+ de son niveau de charge si vous ne l'utilisez pas
+                                                     
+                                                     
+                                                     ""
+
+pendant une semaine ou plus. Ceci augmentera        
+
+de manière conséquente la durée de vie de           
+
+votre batterie.
+
+Recyclage des Batteries                              
+ Mettez votre batterie dans une boite de recyclage    DJI 
+  adaptée uniquement après l'avoir complètement
+  déchargée. Ne mettez pas votre batterie avec         DJI 
+  les ordures ménagères. Suivez scrupuleusement       DJI
+  les consignes locales précises en matière de        
+  recyclage des piles et batteries.                  
+ Si le bouton ON/OFF de la batterie intelligente
+                                                      
+
+                                                      
+                                                     
+
+est inopérant et que la batterie ne peut être       
+
+complètement déchargée, veuillez s'il vous plait    
+
+contacter un Professionnel du recyclage afin        0-40
+
+d'obtenir l'assistance nécessaire.                   
+                                                      20 
+
+                                                    
+                                                     8% 
+
+                                                    
+ 
+
+                                                     
+                                                     
+
+                                                      0-
+ 
+                                                     21
+                                                     
+
+                                                     
+                                                     
+
+                                                     
+                                                     
+ 
+  -20 40                                             
+                                                      7  30%-
+  
+
+41                                                  50% 
+
+ 
+
+4 CH
+           
+           
+           
+           
+           
+          
+           
+  
+         
+           DJI 
+            DJI 
+           DJI 
+  DJI      
+   DJI    
+           
+  DJI     
+           
+            0  40 
+          20 
+           
+  20 40
+         
+          
+           0  21
+           
+          
+           
+          
+           
+          
+           
+          
+           
+   15      
+  
+         
+          
+           
+           
+           
+          
+           
+           
+
+      42
+
+5 JP
+UAV T ECHNOLOGY                                       APM 2.6                                                                                                    CONTENTS        PLANE
+                                                                                                                                                    APM 2.6 board with case
+ A2P.6M                                               for external magnetometer                                                                     APM power module (PM)        To set up your APM 2.6 board using the
+                                                                                                                                                                                 APM:Plane firmware please visit:
+                                                 2.6  Providing the same advanced, multiplatform capabilities as APM 2.5, the 2.6 revision                PM 6-position cable
+                                                      of the award-winning APM autopilot is designed for an external magnetometer. This                         Micro USB cable  plane.ardupilot.com
+          MULTIPLATFORM AUTOPILOT                     improves flight performance by allowing the compass module (or combined GPS with
+          A R D U P I L O T. C O M                    compass) to be placed further away from sources of potential magnetic interference.            Telemetry adapter cable     COPTER
+                                                                                                                                             JP1 jumper connector (4 mm)
+                                                                                                                                            PPM jumper connector (6 mm)          To set up your APM 2.6 board using the
+                                                                                                                                                                                 APM:Copter firmware, please visit:
+                                                                                           Wireless            USB port                     Optional PPM
+                                                                                           telemetry port                                   jumper to support                    copter.ardupilot.com
+                                                                                                                                            PPM-sum (all
+                                                                                                                                            channels over one                    ROVER
+                                                                                                                                            wire) RC receivers
+                                                                                                                                                                                 To set up your APM 2.6 board using the
+                                                        JP1 port for alternative                               2.6                                      We recommend:            APM:Rover firmware, please visit:
+                                                        power distribution
+                                                        without power module                                                                3DR GPS uBlox                        rover.ardupilot.com
+                                                                                                                                            with Compass
+                                                      Power module
+                                                      port for PM                                                                           Featuring active
+                                                      6-position cable
+
+                                                                                                                                            circuitry for ceramic patch
+
+                                                                                                                                            antenna, rechargeable backup
+
+                                                                Deans connectors or...                                                      battery for warm starts, I2C
+                                                      6-position cable ...XT60 connectors
+                                                                                           External compass port for GPS port               EEPROM for configuration
+                                                                                           GPS with compass or
+                                                                                           other external compass                           storage, and a digital
+                                                                                           APM 2.6 requires an external compass.
+                                                                                                                                            compass.  Available from
+
+                                                                                                                                            Store.3DRobotics.com
+
+                                                                                                           43
+           HOME   DOWNLOADS   COMMUNITY   NEWS           STORE                                       
+
+ArduPlane
+
+ArduPilot > ArduPlane > common-APM 2.5 and 2.6 Overview
+
+APM 2.5 and 2.6 Overview
+
+                                                             Contents
+
+  1 APM 2.5
+  2 APM 2.6
+  3 Using the APM 2.5/2.6 Enclosure
+  4 Or Not
+  5 Powering the APM 2.5/2.6 Board
+  6 Alternative ways to power your board
+  7 A Non technical Description of the Power Supply Requirements
+  8 Power Supply Rails Connected Requirements (JP1 Installed)
+
+      8.1 No Power Module and No Servos and Power provided by BEC from ESC
+      8.2 No Power Module but using Servos and a high power External BEC
+      8.3 No Power Module but using Servos and multiple BECs from ESC's (A BEC for each Servo)
+  9 Power Supply Rails Not Connected Requirements (JP1 Not Installed)
+      9.1 Power Module and No Servos
+      9.2 Power Module and using Servos with External BEC power
+      9.3 Power Module and using Servos with BEC power from one ESC
+      9.4 No Power Module and using Servos with BEC power from two ESCs
+  10 APM Power Wiring Example
+  11 Explanation of solder jumper options on the bottom of the board
+      11.1 APM 2.5 Board Features
+      11.2 APM 2.5 Board Assembly Options
+  12 Analog input pins
+  13 Digital output pins
+
+APM 2.5
+
+The APM 2.5 board requires no assembly, and is ready for firmware. You have a choice of side or top
+                                                                   44
+entry pin configuration, in order to accommodate a variety of installations. You'll see this option when
+you order.
+
+***Click and drag the image above to spin it!
+This page gives you a look under the hood, and goes into more detail about the design of this board.
+
+                                                                   45
+The APM 2.5 has some improvements over the APM 2.0, but they both have a very similar layout and
+function.
+
+APM 2.6
+
+   APM 2.6 is a revision of the APM that makes use of an external magnetometer (compass).
+   The APM 2.6 has no on board compass, and is optimized for vehicles where the compass should be
+    placed as far from power and motor sources as possible to avoid magnetic interference.
+   APM 2.6 is designed to be used with the 3DR GPS uBlox LEA-6 with Compass module.
+   The GPS/Compass module may be mounted further from noise sources than the APM itself.
+   APM 2.6 requires a GPS unit with an on board compass for full autonomy.
+   For information on installing a 3DR GPS uBlox LEA-6 with Compass, visit .
+
+Using the APM 2.5/2.6 Enclosure
+
+The APM 2.5/2.6 board is shipped in an enclosure with foam protecting the barometric pressure
+sensor, as shown here.
+
+                                                                   46
+Or Not
+
+If you aren't using the enclosure, make sure to cover the barometric sensor with some open cell foam,
+cotton padding or tissue to protect it from prop wash, wind and turbulence. Also, the barometric sensor
+is sensitive to light and readings can change by several meters from direct sunlight to shade. Some
+type of light shield (on top of the foam) will minimize the effects of light changes.
+
+                                                                   47
+Powering the APM 2.5/2.6 Board
+
+Like any computer, the APM needs a power supply with a steady clean voltage and sufficient current.
+
+3DR provides an APM power module that supplies 2.25A at 5.37V. The module is designed to convert
+power from the main flight battery (18 volt maximum).  That module will supply sufficient power for
+your APM, and low power radios including your RC receiver (without servos). Your RC receiver can be
+powered from any APM Input (+5V and ground). This is normally done by connecting a 2 or 3 wire
+cable between an APM Input and one of the output channels on the RC radio.
+
+If you are using any servos such as are required with a traditional helicopter or a camera gimbal, you
+will need to provide an additional dedicated power supply for the servos. The APM is intended to
+control servos, not power them.
+
+In order to design a power supply for your APM, or provide additional power, you'll need a basic
+understanding of the power circuit in the APM.
+
+                                                                   48
+There are two "sides" to the positive circuit in the board. Each side has positive-rails available for
+inputing power or distributing it to peripheral devices. The center row of pins in the three groups of
+pins (Outputs, Inputs, Analog) labeled "+" are referred to as a "positive-rail". This means that the base
+of all the + pins are connected so they represent a single electrical path. The positive-rails of the Input
+and Analog group are connected together. So we have two separate positive circuits, one in the
+Outputs and the other made up of the Input/Analog.
+
+All of the components on the board take power from various points on these rails, so it is necessary for
+both "sides" to be receiving +5V (within the specs below) for the board to function.
+
+These positive-rails can be joined together by placing JP1 in it's position on the board. This connects
+all the positive-rails ands provides power to both sides of the board, so that low-level power can be
+distributed to peripheral sensors and devices: 3DR Radios, sonar, RC Rx, etc. via the power-rails.
+
+When using the power module, the circuit path is as follows:
+
+From the power module connection the negative wire is connected to a negative-rail shared by the
+entire board regardless of JP1.
+
+Positive voltage comes in to a T-junction. to the left is a path through the JP1 to the positive-rail of the
+
+Outputs. To the right it flows through an over-voltage, over-current, reverse-polarity protection(500mA
+
+fuse and 6V Zener diode). A side effect of passing through the Zener diode is a .37V loss, therefore
+
+input voltage should be bumped up by .37V to account for this. From here the positive voltage runs to
+
+the positive-rails of the Inputs and Analog. Inputs should not be used to power anything except your
+
+RC receiver.
+
+              49
+Higher current loads such as servos should be powered from the power-rails (positive-negative) of the
+Output side. You must use an adequate voltage-regulator to provide power directly to the Output
+power-rails, all servo power leads will attach to these same rails (the signal wires can connect on the
+Analog "S" pins in the case of a camera gimbal). Since JP1 is removed in this scenario, the other
+"side" of the board will need power provided to it's power-rails directly.
+
+Alternative ways to power your board
+
+3DR Power Module
+
+If you are using the 3DR Power Module please find instructions here: Using the 3DR Power Module
+
+   Warning! Under no circumstances should you ever attempt to draw servo power from the analog
+    input connector.
+   Warning: You may "control" servos from A9, A10 and A11 from the A0 ­ A11 I/O connector, but you
+    must run servo power separately.
+
+       The A0 ­ A11 I/O connector cannot supply sufficient power for servos.
+       A9, A10 and A11 of the I/O connector come pre-wired to correct digital out for use as servo
+        control lines.
+       For servo use, it is imperative that they have not been reassigned to analog use with the pads on
+        the back of the APM board.
+
+A Non technical Description of the Power Supply
+Requirements
+
+The description below simply supplements and provides an alternate view of the information above.
+
+1. The APM 2.5/2.6 board has two separate power circuits which make it very easy to power by a
+    variety of methods.
+   1. A fused power circuit provides primary board and general I/O power: (It cannot provide power for
+        servos).
+   2. The Other power circuit is for the OUTPUT connector power rail: (it can provide power for
+        servos).
+
+2. The jumper JP 1 determines whether the two power circuits are connected or separate.
+   1. If JP1 is removed, the power rail on the OUTPUT connector "Floats" and may be used to
+        distribute power.
+   2. Although if JP1 is removed the OUTPUT connector cannot be used to supply power to the APM
+        board.
+                                                                   50
+3. It is possible to power the APM board from the Power Module connector or the OUTPUT or INPUT
+    connectors.
+
+4. Normally the APM 2.5/2.6 "Power Module" is used to provide primary APM 2.5 board and general
+    I/O power.
+
+5. Alternatively primary board power can be supplied by a BEC either from one of the ESCs or from an
+    external BEC.
+
+6. If servos are used, supplementary power is required.
+   1. Generally one power supply is provided for the board and one or more additional power supplies
+        for the servos.
+   2. But if a sufficiently large external BEC is used it can supply power for both via the OUTPUT
+        connector.
+
+7. Only the OUTPUT connector can provide power for servos as the other circuit is fused.
+   1. The address connector is sometimes used provide servo signals, but the servos power must
+        come from elsewhere.
+
+8. How you are powering your APM board and or servos determines whether JP1 is  installed or not.
+   1. (Whether the two power circuits are separated or connected).
+   2. All possible configurations are detailed Below.
+
+9. The type of use will determine which options are available.
+   1. APM:Copter can power the APM from a power module or a UBEC or a BEC from one of the
+        ESCs and can power servos from a UBEC or from the other ESC's BECs.
+   2. APM:Plane can power the APM from the power module,  the BEC from the flight motors ESC or
+        a  separate UBEC and can power servos from a separate UBEC or the flight motors BEC if it is
+        large enough.
+   3. APM:Rover  can power the APM from the power module,  the BEC from the drive motor's ESC or
+        a  separate UBEC and can power the steering servo from a separate UBEC or the drive motors
+        BEC if it is large enough.
+
+Power Supply Rails Connected Requirements (JP1
+Installed)
+
+Warning: Do not exceed Abs MAX input voltages when connecting the power supply or you will
+damage your board.
+Warning: Connecting USB when you have input voltages at the high end of the range (near Abs Max)
+can damage the board. Disconnect battery before connecting USB or test input voltages so they are
+within the specified range.
+
+Power Options                  Nominal      Abs MAX  JP1 status
+Power on Output PWM connector  5.37V +-0.5  6V       JP1 connected
+
+                                   51
+Power on Input PWM connector  5.00V +-0.25  5.5V  JP1 connected
+
+No Power Module and No Servos and Power provided by BEC
+from ESC
+
+   If you do not have a power module and you are not using servos.
+   Ensure JP1 is installed and provide the necessary power via the BEC from one of your ESC's.
+   Connect one ESC's BEC power and ground wires to one pair of the APM OUTPUT connectors
+    power and ground pins.
+   Clip the BEC power leads on the remaining 3 wire connectors.
+   Ensure that the ESC's signal wires are connected to the appropriate APM OUTPUT connector
+    signal pins.
+   You must ensure that your ESC's BEC has a sufficient power capability (at least 2 amps).
+
+       Most 20 amp or higher ESCs have 2 amp BECs.
+
+No Power Module but using Servos and a high power External
+BEC
+
+   If you do not have a power module and are using servos you can use a high power external BEC.
+   Ensure JP1 is installed and provide the necessary power via a high power external BEC (5 to 10
+    amps or more).
+   The BEC power must be provided to one pair of the APM OUTPUT connector pins.
+   Warning! Clip all power leads on the ESC's BECs (they would conflict with the external BEC).
+   Your servos will determine the size of the BEC required.
+   You should allow at least 2 or 3 amps extra to power the APM, receiver and to prevent (brown outs).
+   All of the positive power for driving each servo must come from the OUTPUT connector.
+
+       This is true even if the servo(s) signal wires are connected to the ADDRESS connector.
+   This option requires you to take responsibility for providing sufficient power to prevent brownout.
+
+No Power Module but using Servos and multiple BECs from
+ESC's (A BEC for each Servo)
+
+   If you do not have a power module and are using servos you can use multiple BECs from your
+    ESC's.
+   Ensure JP1 is installed and plug one of your ESC's signal cables with power leads into the
+    OUTPUT connector.
+   Remove the power and ground leads from the remaining ESCs signal cable connectors.
+   Plug the signal wire connector from each ESC onto the appropriate pin on the OUTPUT connector.
+
+       You can heat shrink these or plug them into a multi-wire connector appropriate for your copter.
+   Connect one pair of each of the remaining BEC power and ground lines to the power and ground of
+
+                                                                   52
+each individual servo.
+Clip or heat shrink any remaining excess BEC power and ground leads.
+The BEC power from one ESC must be provided to one pair of the APM output connector pins.
+Plug only the signal input wire from your servos into the appropriate OUTPUT or ADDRESS
+connector pin.
+Your ESC's BECs should be at least 2 amps.
+The ESC's BEC grounds are in common with battery and internal signal ground so grounding the
+servos this way is OK.
+
+Power Supply Rails Not Connected Requirements (JP1 Not
+Installed)
+
+Warning: Do not exceed Abs MAX input voltages when connecting the power supply or you will
+damage your board.
+Warning: Connecting USB when you have input voltages at the high end of the range (near Abs Max)
+can damage the board. Disconnect battery before connecting USB or test input voltages so they are
+within the specified range.
+
+Power Options                  Nominal       Abs MAX  JP1 status
+Power on Output PWM connector  5.00V +-0.5   6V       JP1 open
+Power on Input PWM connector   5.00V +-0.25  5.5V     JP1 open
+
+Power Module and No Servos
+
+   If you have a power module and you are not using servos.
+   Ensure JP1 is not installed.
+   Provide the necessary power via the power module connected to the APM's power module
+    connector.
+   When connecting your ESCs to the OUTPUT connector clip the BEC power leads on each ESC's 3
+    wire connector.
+
+       Or connect only the ESC's signal wires to the OUTPUT connector.
+
+Power Module and using Servos with External BEC power
+
+   If you have a power module and an external BEC and you are using servos.
+   Ensure JP1 is Not installed
+   Provide APM board and receiver power via the power module connected to the power module
+    connector.
+
+                                                                   53
+   Connect an external BEC with sufficient power for your servos to one pair of the OUTPUT connector
+    power pins.
+   When connecting your ESCs to the OUTPUT connector clip the BEC power leads on each ESC's 3
+    wire connector.
+
+       Or connect only the ESC signal wires to the OUTPUT connector.
+
+Power Module and using Servos with BEC power from one ESC
+
+   If you have a power module and you are using servos Remove JP1.
+   Provide APM and receiver power via the power module connected to the APM's power module
+    connector.
+   The BEC of a single ESC must provide sufficient power for all your servos.
+   When connecting your ESCs to the OUTPUT connector clip the BEC power leads on all but one of
+    the ESC's connectors.
+   Or connect only the ESC signal wires to the OUTPUT connector for all except one ESC.
+
+       And on that ESC connect all 3 wires to the OUTPUT connector.
+
+No Power Module and using Servos with BEC power from two
+ESCs
+
+   If you do not have a power module and you are using servos remove JP1.
+   Provide APM and receiver power via 1 pair of ESC-BEC power wires connected to the APM INPUT
+    connector power pins.
+   Also connect another of the ESCs power wire pair to the OUTPUT connector.
+   The BEC of a single ESC must provide sufficient power for all your servos.
+   Clip the signal power leads on your remaining ESC's.
+   Connect all ESC signal wires to the appropriate OUTPUT connector pins.
+
+APM Power Wiring Example
+
+Warning: Do not exceed Abs MAX input voltages when connecting power supply or you will damage
+your board.
+Warning: Connecting USB when you have input voltages at the high end of the range (near Abs Max)
+can damage the board. Disconnect battery before connecting USB or test input voltages so they are
+within the specified range.
+
+On the bench, you'll probably be powering the board via your USB cable while you set it up and test it.
+But in your aircraft, you'll need to power it with your on board power system, which is usually your
+LiPo battery going through an ESC or the Power Module. In the case of a multicopter, this can come
+through your Power Distribution Board (PDB), which will break out the 5V output from the one of the
+
+                                                                   54
+electronic speed controls (ESCs) or the Power module which is wored directly to the battery.
+In the picture below, the red and black wires are the 5b    m hV power cable coming from a PDB. You
+can plug them into any two pins along the 5V and Ground (middle and outer) rows of pins on APM
+2.5's Output side. The other cable, which in this case is a four-wire cable with orange and white wires
+for a quadcopter, is the signal cable to the PDB, which are the wires that APM 2.5 will use to
+command each of the ESCs.
+The picture below is of APM 2; but the concept is applicable to APM 2.5.
+
+It's also possible to power APM 2.5 from two separate sources, one powering the RC system on the
+input side, and the other powering the output side (servos or ESCs). This is determined by a jumper
+on the JP1 pins (see below). If the jumper is on, which is the factory default, the board is powered
+from the OUTPUT rail or the USB. If the jumper is off, the board is powered from the INPUT rail, but
+the OUTPUT rail will need its own power source. This configuration is used if you want to have two
+
+                                                                   55
+separate power sources in your aircraft, one powering the servos and the other powering the
+electronics. The ideal input voltage is 5.37v +/-0.0v and may not be provided by a typical ESC.
+
+Warning: Do not exceed Abs MAX input voltages when connecting power supply or you will
+damage your board.
+
+In some cases it may be a good idea to set the input voltage slightly above the median (but below the
+maximum) to account for possible voltage drops during momentary high current events.
+
+The APM2.5 by itself draws relatively little current (200ma range) and a power source capable of
+providing 300 ­ 500ma will provide plenty of margin. However, if servos or other power consuming
+devices are being driven by the same power source you must consider the power requirements for
+those devices as well and provide plenty of margin to prevent disastrous "brown-outs". For instance, a
+single digital servo can easily draw 1-5 amps depending on it's size and performance. (Note: ESCs do
+not consume power from the APM) If you experience spurious resets or other odd behavior it is most
+likely due to noisy or insufficient power to the APM. As with all logic boards, electrical noise from the
+motors, servos, or other high current devices on the power source can cause unpredictable behavior.
+
+It is recommend that a power filter be used in such conditions.
+
+Too short or long power wires, bad or old connectors, or insufficient current capability of the APM
+power source can result in a "brown-out" situation resulting in unpredictable operation. This is
+particularly true in traditional helicopters where the collective servos can draw 3-20 amps in short
+bursts. The power source must be able to accommodate this without voltage droop or voltage spikes.
+A quality switching type BEC such as one of
+these
+
+
+or one of
+these
+
+
+can be a solution depending on overall current requirements. Many of these type of regulators are
+programmable so remember to program them with in the safe operating range of the APM2. Linear
+voltage regulators are not recommended as they are inefficient and prone to overheating and heat
+induced failures. APM2 should never be connected directly to a battery of any type.
+
+Power source problems are common and can be insidious and frustrating. Be meticulous. Any
+autopilot or flight controller is useless and potentially dangerous without good clean power source.
+
+The picture below is of APM 2; but the concept is applicable to APM 2.5/2.6.
+
+                                                                   56
+Explanation of solder jumper options on the bottom of the
+board
+
+                                                                   57
+APM 2.5 Board Features
+
+                                                                   58
+APM 2.5 Board Assembly Options
+
+   Quadzimodo has produced a really nice editable 3D model of the APM 2.5 board in SketchUp
+    8: APM 2.5 Google Sketchup File
+
+                                                                   59
+Analog input pins
+
+Pin 0 to 8: The APM2 has a row of analog input pins down one side, labelled A0 to A8 on the
+underside of the board. These are available as pin numbers 0 to 8 inclusive in PIN variables.
+
+All these pins can take up to 5V and may be used for any general analog input. They are commonly
+used for airspeed and sonar inputs.
+
+Pin 12: power management connector current pin, accepts up to 5V, usually attached to 3DR power
+brick with 17:1 scaling
+
+Pin 13: power management connector voltage pin, accepts up to 5V, usually attached to 3DR power
+brick with 10.1:1 scaling
+
+                                                                   60
+Digital output pins
+
+The APM2 uses the same set of 9 analog input pins as digital output pins. They are configured as
+digital output pins automatically when you start to use them as digital outputs.
+Pin 54 to 62: You need to add 54 to the pin number to convert from an analog pin number to a digital
+pin number. So pin 54 is digital output pin on the A0 connector. Pin 58 is A4 etc.
+These pins are usually used with the RELAY_PIN to RELAY_PIN4 parameters, allowing you to control
+things like camera shutter, bottle drop etc. They are also used as sonar "stop" pins allowing you to
+have multiple sonars and not have them interfere with each other.
+Questions about this page? Comments? Suggestions? Post to APM Forum! Use the platform specific
+to your query, and make sure to include the name of the page you are referring to.
+
+                                                                   61
+GETTING STARTED
+
+Introduction
+
+Video Guides
+
+First Time Setup
+
+Assembly
+
+Pixhawk Wiring and Quick Start
+
+PX4 Wiring
+
+RC Setup for ArduPlane (APM)
+
+Install Mission Planner
+
+Load Firmware onto APM
+
+Loading Firmware onto Pixhawk
+
+Load Firmware onto PX4
+
+Configuration
+
+Checking the Sensors
+
+Reversing Servos and Setting Normal/Elevon Mode
+
+Throttle Arming in ArduPlane
+
+Failsafe Function
+
+Advanced Failsafe Configuration
+
+ArduPlane Parameters
+
+First Flight
+
+Flight Modes
+
+Tuning the Airframe
+
+Roll, Pitch and Yaw Controller Tuning
+
+Navigation Tuning
+
+TECS (Total Energy Control System) for Speed & Height - Tuning Guide
+
+Calibrating an Airspeed Sensor
+
+Tuning Ground Steering for a Plane
+
+Automatic Tuning with AUTOTUNE
+
+Flight Features
+
+                                                 62
+Automatic Takeoff
+
+Automatic Landing
+
+Stall Prevention
+
+GeoFencing in ArduPlane
+
+Terrain Following
+
+Channel Output Functions
+
+Mission Planning & Analysis
+
+Planning a Mission with Waypoints and Events
+
+Camera Control and Auto Missions*
+
+Rally Points
+
+Downloading and Analyzing Data Logs in Mission Planner*
+
+Using a Ground Station
+
+Telemetry Logs
+
+Diagnosing Problems Using Logs
+
+Using Python Scripts in Mission Planner
+
+Geotagging Images with Mission Planner
+
+Other Mission Planner Features
+
+Optional Hardware*
+
+Telemetry*
+
+3DR Radio v2*
+
+Bluetooth
+
+RFD900 Radio Modem*
+
+FrSky*
+
+XBee*
+
+3DR Radio -- Advanced Configuration*
+
+3DR Radio v1*
+
+Power Modules*
+
+3DR Power Module*
+
+Attopilot Current Sensor*
+
+Attopilot Current Sensor with Pixhawk*
+
+Rangefinders*
+
+Maxbotic Analog Sonar*
+
+                                              63
+      Maxbotic I2C Sonar*
+      LIDAR-Lite*
+      Lightware SF02*
+   Optical Flow Sensors*
+      ADNS3080 Mouse Sensor*
+      PX4-FLOW*
+   Cameras and Gimbals*
+      Tarot Gimbal*
+      SToRM32 Gimbal*
+      Gimbal with Servos*
+      Camera Shutter Configuration*
+      Camera Triggering using CHDK*
+      Camera Trigger using Stratosnapper/IR*
+      3DR Camera Control Board*
+      CHDK Camera Control*
+      Automatic Camera Stabilization*
+   Minim OSD for FPV*
+   Servo*
+   3DR UBlox GPS + Compass*
+      LEDs*
+      UBlox GPS Configuration*
+   Relay Switch*
+   EPM Gripper (EPM688)*
+   PPM Encoder*
+      PPM Encoder Programming Guide*
+   Received Signal Strength Indication (RSSI)*
+   Airspeed Sensor
+      Calibrating an Airspeed Sensor
+AutoPilot Hardware*
+   Pixhawk*
+      LEDs*
+      Sounds*
+
+                                                64
+      Safety Switch*
+   APM 2.x*
+
+      LEDs*
+      PPM Encoder*
+   PX4FMU*
+      PX4IO Overview*
+      PX4FMU plus PX4IO Wiring
+   eCalc Motor and Prop Efficiency Guide
+Use-Cases and Applications*
+   3d Mapping*
+   Web Apps*
+   First Person View (FPV)
+Antenna Tracking
+   Mission Planner Antenna Tracking*
+   Antenna Design Overview*
+Appendix*
+   Glossary*
+   Wiki Editing Guide*
+   Archived Topics*
+      Disabling the Built In GPS on APM2*
+      GPS Module*
+      External Compass*
+      VR Gimbal*
+      Modes de vol (fr)
+      MagAPM2 (fr)
+      Connexion RC (fr)
+      Capteur de tension & courant (fr)
+      Carte APM2.5 (fr)
+      Téléchargement-installation du logiciel Mission Planner et chargement du micrologiciel
+      Téléchargement du programme
+      Premier paramètrage de l'APM
+      Install Mission Planner (Korean)*
+
+                                                                  65
+     Documentation Tests*
+ Fixed Wing FAQ
+ Full Table of Contents*
+META
+Log in
+Entries RSS
+
+Sponsored by 3DRobotics
+
+                                                                   66
+

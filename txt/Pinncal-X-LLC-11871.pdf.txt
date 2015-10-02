@@ -1,0 +1,1084 @@
+June 23, 2015
+
+                                                           Exemption No. 11871
+                                                           Regulatory Docket No. FAA­2015­0667
+
+Mr. Alfred A. Gates, Ph.D., P.E.
+Ms. Kathy Swift, President and CEO
+Pinncal X LLC
+16 West Cove Road
+Moodus, CT 06469
+
+Dear Mr. Gates and Ms. Swift:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter dated November 20, 2014, you petitioned the Federal Aviation Administration
+(FAA) on behalf of Pinnacl X, LLC (hereinafter petitioner or operator) for an exemption. The
+petitioner requested to operate an unmanned aircraft system (UAS) to conduct fire and rescuer
+operations, wild life management and structural inspection on high tension power lines,
+towers, buildings, bridges, light poles.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner is a Pinnacl X Chameleon Pro.
+
+The petitioner requested relief from 14 CFR part 21, Certification procedures for products
+and parts, Subpart H--Airworthiness Certificates. In accordance with the statutory criteria
+                                                                                                                 2
+
+provided in Section 333 of Public Law 112-95 in reference to 49 U.S.C. § 44704, and in
+consideration of the size, weight, speed, and limited operating area associated with the
+aircraft and its operation, the Secretary of Transportation has determined that this aircraft
+meets the conditions of Section 333. Therefore, the FAA finds that the requested relief from
+14 CFR part 21, Certification procedures for products and parts, Subpart H--Airworthiness
+Certificates, and any associated noise certification and testing requirements of part 36, is
+not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection1. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+ They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+ The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+ A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, Pinnacl X, LLC is granted an exemption from 14 CFR
+§§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a), 91.7(a), 91.119(c), 91.121,
+91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a) and (b), to the
+extent necessary to allow the petitioner to operate a UAS to perform aerial data collection.
+This exemption is subject to the conditions and limitations listed below.
+
+1 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                              3
+
+Conditions and Limitations
+
+In this grant of exemption, Pinnacl X, LLC is hereafter referred to as the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+1. Operations authorized by this grant of exemption are limited to the Pinnacl X
+    Chameleon Pro when weighing less than 55 pounds including payload. Proposed
+    operations of any other aircraft will require a new petition or a petition to amend this
+    exemption.
+
+2. Operations for the purpose of closed-set motion picture and television filming are
+    not permitted.
+
+3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+    exemption holder may use either groundspeed or calibrated airspeed to determine
+    compliance with the 87 knot speed restriction. In no case will the UA be operated at
+    airspeeds greater than the maximum UA operating airspeed recommended by the
+    aircraft manufacturer.
+
+4. The UA must be operated at an altitude of no more than 400 feet above ground level
+    (AGL). Altitude must be reported in feet AGL.
+
+5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+
+    This requires the PIC to be able to use human vision unaided by any device other than
+    corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+    U.S. driver's license.
+
+6. All operations must utilize a visual observer (VO). The UA must be operated within
+    the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+    to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+    capability. The VO and PIC must be able to communicate verbally at all times;
+    electronic messaging or texting is not permitted during flight operations. The PIC
+    must be designated before the flight and cannot transfer his or her designation for the
+    duration of the flight. The PIC must ensure that the VO can perform the duties
+    required of the VO.
+
+7. This exemption and all documents needed to operate the UAS and conduct its
+    operations in accordance with the conditions and limitations stated in this grant of
+    exemption, are hereinafter referred to as the operating documents. The operating
+    documents must be accessible during UAS operations and made available to the
+    Administrator upon request. If a discrepancy exists between the conditions and
+    limitations in this exemption and the procedures outlined in the operating documents,
+                                                                                                            4
+
+    the conditions and limitations herein take precedence and must be followed.
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+                                                                                                            5
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+    exemption holder may apply for a new or amended COA if it intends to conduct
+    operations that cannot be conducted under the terms of the attached COA.
+                                                                                                            6
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+    be as large as practicable.
+
+23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+    any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+    PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+    These documents must be made available to the Administrator or any law enforcement
+    official upon request.
+
+24. The UA must remain clear and give way to all manned aviation operations and
+    activities at all times.
+
+25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless:
+      a. Barriers or structures are present that sufficiently protect nonparticipating persons
+          from the UA and/or debris in the event of an accident. The operator must ensure
+          that nonparticipating persons remain under such protection. If a situation arises
+          where nonparticipating persons leave such protection and are within 500 feet of
+          the UA, flight operations must cease immediately in a manner ensuring the safety
+          of nonparticipating persons; and
+      b. The owner/controller of any vessels, vehicles or structures has granted permission
+          for operating closer to those objects and the PIC has made a safety assessment of
+          the risk of operating closer to those objects and determined that it does not
+          present an undue hazard.
+
+    The PIC, VO, operator trainees or essential persons are not considered
+    nonparticipating persons under this exemption.
+
+27. All operations shall be conducted over private or controlled-access property with
+    permission from the property owner/controller or authorized representative.
+    Permission from property owner/controller or authorized representative will be
+    obtained for each flight to be conducted.
+
+28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+    boundaries of the operational area as defined by the applicable COA must be reported
+    to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+    reported to the National Transportation Safety Board (NTSB) per instructions
+    contained on the NTSB Web site: www.ntsb.gov.
+                                                                                                                 7
+
+ If this exemption permits operations for the purpose of closed-set motion picture and
+ television filming and production, the following additional conditions and limitations apply.
+
+    29. The operator must have a motion picture and television operations manual (MPTOM)
+         as documented in this grant of exemption.
+
+    30. At least 3 days before aerial filming, the operator of the UAS affected by this
+         exemption must submit a written Plan of Activities to the local Flight Standards
+         District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+         notification may be waived with the concurrence of the FSDO. The plan of activities
+         must include at least the following:
+           a. Dates and times for all flights;
+           b. Name and phone number of the operator for the UAS aerial filming conducted
+              under this grant of exemption;
+           c. Name and phone number of the person responsible for the on-scene operation of
+              the UAS;
+           d. Make, model, and serial or N-Number of UAS to be used;
+           e. Name and certificate number of UAS PICs involved in the aerial filming;
+           f. A statement that the operator has obtained permission from property owners
+              and/or local officials to conduct the filming production event; the list of those
+              who gave permission must be made available to the inspector upon request;
+           g. Signature of exemption holder or representative; and
+           h. A description of the flight activity, including maps or diagrams of any area, city,
+              town, county, and/or state over which filming will be conducted and the altitudes
+              essential to accomplish the operation.
+
+    31. Flight operations may be conducted closer than 500 feet from participating persons
+         consenting to be involved and necessary for the filming production, as specified in the
+         exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                    8
+
+This exemption terminates on June 30, 2017, unless sooner superseded or rescinded.
+Sincerely,
+
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+November 20, 2014
+
+U. S. Department of Transportation
+Docket Management System
+1200 New Jersey Ave., SE
+Washington, DC 20590
+
+Re: Exemption Request Under Section333 of the FAA Modernization and Reform Act of 2012 and 14
+C.F.R. Part 11
+
+Dear Sir or Madam:
+
+Pursuant to Section 333 of the FAA Modernization and Reform Act of 2012 ("Reform Act") and 14 CFR
+Part 11, Pinnacl X, LLC ("Petitioner"), a Connecticut based multicopter manufacturing and utility aerial
+service company that performs structural inspection on high tension power lines, towers, buildings,
+bridges, light poles and for fire and rescuer operations and wild life management, hereby seeks
+exception from the Federal Aviation Regulations ("FARS") to allow commercial operation of small
+unmanned aerial systems ("sUAS") so long as such operations are conducted within and under
+conditions outlined herein or as may be established by the FAA as required by Section 3331.
+
+The exemption is in accordance with protocols outlined in this petition for exemption, protocols defined
+in the following proprietary and confidential documents:
+
+     Exhibit A: Pinnacl X Multirotor Design Safety Improvement
+     Exhibit B: Chameleon Pro Operating Procedures
+     Exhibit C: Chameleon Pro maintenance manual
+     Exhibit D: Pinnacl X pilot and observer operating procedures
+     Exhibit E: Pinnacl X UAS training program course materials
+     Exhibit F: Pinnacl X Description of Chameleon Pro quadrotor system
+     Exhibit G: Lost communications
+     Exhibit H: Flight Restrictions
+     Exhibit I: Publication, Multirotor Unmanned Aircraft Systems (UAS) Advanced Design for High
+
+         Tension Power Line Inspection, Presented by Alfred A. Gates at the 2015 AHS Specialist Meeting
+         on Unmanned Rotorcraft and Network-Centric Operations Program, January 20-22, Chandler
+         Arizona
+     Exhibit J: Report, 115 KV Power Line Electromagnetic Interference Field Testing Engineering and
+         Safety Study, by Alfred A. Gates, Department of Engineering CCSU, 4/16/2014
+
+For you convenience, this petition is organized as follows:
+1 The conditions proposed by the applicant are drawn from Order 8900.1 CHG 0, Volume 3
+2 Petitioner submits Exhibits A-H and J, its Manuals as a Confidential documents under 14 CFR 11.35(b),
+as the Manuals contain confidential commercial and proprietary. The Manuals contain operating
+conditions and procedures that are not available to the public and are protected from release under the
+Freedom of information Act 5 U.S.C. 552 et. Seq.
+
+Pinnacl X  Page 1
+1. Petitioner's Description
+
+Petitioner is supported by the Chameleon Pro created by Pinnacl X. A small Unmanned Aircraft System
+(sUAS) that is light weight, four bladed multi-rotor, vertical takeoff and landing (VTOL) sUAS specifically
+designed for flight in confined areas with in close proximity of high tension power lines and structures.
+Tethered flight test were performed with the Chameleon Pro next to energized high tension power lines.
+The Chameleon Pro tethered flight tests were similar to the testing outlined in COA-139-ESC-2013. The
+tethered flight test results indicate that 115KV power line do not interfere with the Chameleon Pro's
+autopilot or electrical and power systems, video link, data link or manual flight control system. Exhibit J
+is the report provided in the COA-139-ESC-2013 application. The Chameleon Pro was designed based on
+the research conducted by Dr. Alfred Gates from Central Connecticut State University involving
+structural inspection of high tension power lines, see exhibit I and J. Also employees of Pinnacl X and Dr.
+Gates have been involved with sUAS research, fixed wing and multicopter since 2006.
+
+To further enhance its aviation safety competence, the petitioner engaged AirOcean to provide
+additional guidance involving High tension power line and structural inspection using helicopters.
+AirOcean and Pinnacl X developed the safety check list, maintenance program and flight operations
+manuals in Exhibits A-E. AirOcean is a fixed based operator at Yalesville heliport. AirOcean routinely
+perform high tension power line inspection for the utility industry in New England. If granted Pinnacl X
+will be inspecting the same power lines and towers for structural fatigue and weather damage.
+Additionally AirOcean performs a variety of commercial operations that include low level fight for wild
+life monitoring, structural inspection and lifting operations.
+
+Currently, inspection, of high tension power lines and structures require either a tower climbing crew
+and or high voltage, HV, bucket trucks and crew to perform the inspection. In all cases access to the
+structure requires a land vehicle. Tower climbs can be extremely dangerous and only 30% of the high
+tension line structures are accessible by HV bucket trucks. The reaming 70 % of the structures require
+roadway improvement. In many cases the roadway is through wetlands and travel to the structures can
+be environmentally harmful. The usage of sUAS will have a minimum environmental impact for
+inspection. Also the usage of a sUAS eliminates unnecessary structural climbs thereby increasing the
+safety of the line crew. Additional advantages of sUAS for inspection include the development video and
+photo data bases for structures. The data base will be a cost effective tool for preventative maintenance
+resulting in a reduction in power outages. The power line inspection procedures can be applied to other
+areas of structural inspection which include, towers and bridges, light poles and buildings.
+
+The petitioner intends the sUAS Pilot in Command (PIC) to have passed the privet pilots exam within two
+years, have passed the Pinnacl X sUAS course and to be current with the Chameleon Pro in addition to
+the FAA requirements for the location of flight operations. The petitioner also intends the Observer to
+have received instruction on flight operations involving structural inspection and the Chameleon Pro.
+Both the PIC and Observer will hold a current Class II medical certificate.
+
+Consistent with the requirements of 14 CFR 11.81(a), petitioner provides the following information in
+support of its petition for exemption:
+The name and address of the petitioner is:
+Alfred Gates, Ph.D., P.E.,
+Pinnacl X, LLC
+16 West Cove Rd.
+Moodus CT, 06469
+
+Pinnacl X                    Page 2
+Relevant Statutory Authority
+
+This petition for exemption is submitted to fulfill Congress' goal in passing Section 333(a)
+through (c) of the Reform Act. In the Reform Act, Congress directed the FAA "to safely
+accelerate the integration of civil unmanned aircraft systems into the national airspace
+system" and, under Section 333 of that law, directed the Secretary of Transportation ("FAA
+Administrator") to consider whether certain unmanned aircraft systems may operate safely in
+the National Airspace System ("NAS") before completion of the rulemaking required under
+Section 332 of the Reform Act.
+
+In making this determination, the Secretary shall determine, at a minimum:
+
+which types of unmanned aircraft systems, if any, as a result of their size, weight, speed, and
+operational capability, proximity to airports and populated areas; and operation within visual
+line of sight do not create a hazard to users of the national airspace system or the public or
+pose a threat to national security; and
+whether a certificate of waiver, certificate of authorization, or airworthiness certification under
+section 44704 of title 49, United States Code is required for the operation of unmanned
+aircraft systems identified under paragraph (1).
+
+If the Secretary determines that such vehicles "may operate safely in the National Airspace
+System, the Secretary shall establish requirements for the safe operation of such aircraft in the
+National Airspace System" (Emphasis added).1
+
+In addition, the FAA Administrator has general authority to grant exemptions from its safety
+regulations and minimum standards when the Administrator decides a requested exemption is
+in the public interest. See 49 U.S.C. § 44701(f) (authorizing the grant of exemptions from a
+requirement of regulations prescribed pursuant to section 44701(a)-(b) and sections 44702-
+44716). A party requesting an exemption must explain the reasons why the exemption: (1)
+would benefit the public as a whole, and; (2) would not adversely affect safety (or how it would
+provide a level of safety at least equal to the existing rules). See 14 CFR § 11.81; FAA, Petition
+for Exemptions.
+
+Pinnacl X will solely utilize the Chameleon Pro aircraft, maximum takeoff weight of 7.9 pounds
+with payload (well below the upper limit of 55 or fewer lbs. including payload). This aircraft will
+operate, under normal conditions at a speed of no more than 23 Knots Indicated Air Speed
+(KIAS) and have the capability to hover, and move in the vertical and horizontal plane
+simultaneously. It will operate only in line of sight of the PIC and observer and will operate
+only within the sterile area approved by the FAA. The sterile area confines the aircraft to
+airspace that is not currently navigable by manned aircraft per 14 CFR 91.119. Such
+operations will insure that the sUAS will "not create a hazard to users of the NAS or the
+public."4
+
+1 Section 333 places the duty on the Administrator, inter alia, to craft conditions for the safe operation of the UAS,
+if it should be determined that the conditions set forth herein do not fulfill the statutory requirements for approval.
+
+Pinnacl X  Page 3
+Given the small size of the Chameleon Pro and the restricted sterile environment within which
+it will operate, the petitioner falls squarely within the zone of safety (an equivalent level of
+safety) in which Congress envisioned that the FAA must, by exemption, allow commercial
+operations of UASs to commence immediately. Also due to the size of the UASs and the
+restricted areas in which the relevant Chameleon Pro sUAS will operate, approval of the
+application presents no national security issue.
+
+Given the clear direction in Section 333 of the Reform Act, the authority contained in the
+Federal Aviation Act, as amended; the strong equivalent level of safety surrounding the
+proposed operations and the significant public benefit of dramatically increased safety of
+aviation versus non-aviation inspection services associated with allowing sUAS technology to
+support Pinnacl operations, the grant of the requested exemptions is in the public interest.
+Accordingly, the petitioner respectfully requests that the FAA grant the requested exemption
+without delay.
+
+Qualification for Approval Under Section 333 of the Reform Act
+
+The proposed operations in this petition for exemption qualify for expedited approval under
+Section 333 of the Reform Act. Each of the statutory criterial and other potentially relevant
+factors are satisfied.
+
+The proposed operations would permit the use of small and relatively inexpensive UAS under
+controlled conditions in airspace that is: (1) limited; (2) predetermined; (3) strictly controlled as
+to access, and; (4) would provide an increased level of safety beyond that existing when
+Pinnacl X personnel are used to accomplish the same purpose.
+
+Petitioner's sUAS is a four bladed multi-rotor, vertical takeoff and landing (VTOL) aircraft,
+weighting 7.9 or fewer pounds including payload specifically designed for safety and maximum
+ease of operation. It operates, under normal conditions, at a speed of no more than 23 KIAS
+and has the capability to hover, and move in the vertical and horizontal plane simultaneously.
+
+Petitioner's Chameleon Pro sUAS will operate in line-of-sight of the PIC and observer and will
+operate only within a sterile area surrounding objects that are current obstructions to
+navigable airspace for manned aircraft. Such operations will ensure that the Chameleon Pro
+sUAS will "not create a hazard to users of the National Airspace System or the public."
+Given the small size of the sUAS involved and the restricted sterile flight operation
+environment, this petition for exemption falls squarely within the zone of safety i.e., an
+equivalent level of safety, in which Congress envisioned that the FAA must, by exemption,
+allow commercial operations of UASs to commence immediately. Also, due to the size of the
+UASs and the restricted areas in which the sUAS will operate, approval of the application
+presents no national security issue.
+
+Considering the clear direction in Section 333 of the Reform Act, the authority contained in the
+Federal Aviation Act, as amended, the equivalent level of safety surrounding the proposed
+operations, and the significant public benefit, including enhanced safety, reduction in
+environmental impacts, including reduced emissions associated with allowing UASs for the
+proposed operations, the grant of the requested exemptions is also in the public interest.
+
+Pinnacl X  Page 4
+Accordingly, Petitioner respectfully requests that the FAA grant the requested exemption
+without delay.
+
+Description of Proposed Operations
+
+The Exhibit B Standard Operating Procedures (SOP) describes the policies and procedures for
+Petitioner's proposed Chameleon Pro sUAS operations. To assist the FAA in its safety
+assessment of Petitioner's proposed Chameleon Pro sUAS operations, below is a summary of
+operational limitations and conditions which will ensure an equivalent or higher level of safety
+to operations conducted under current regulatory guidelines:
+
+The Chameleon Pro sUAS weighs less than 7.9 lbs.
+
+Flights will be operated within line-of-sight of the PIC and Observer.
+
+Maximum total flight time for each operational flight will be 20 minutes. Flights will be
+terminated at 25% battery power reserve should that occur prior to the 20 minute limit.
+
+Flights will be operated at an altitude of no more than 400 feet above ground level ("AGL") or
+as specified by the FAA COA for the operating location.
+
+Minimum crew for each operation will consist of the Chameleon Pro sUAS PIC and an
+Observer.
+
+The PIC will, meet all FAA requirements, which could be an FAA licensed airman with a private
+pilot's certificate or have passed the privet pilots written exam within the past two year or UAS
+certificate (when the FAA issues the criteria and procedures for a UAS license) and a second
+class medical certificate. The required PIC qualifications will vary depending on the location of
+flight operations. Also the PICmust be current and have passed the written and flight exams
+required by Pinnacl X.
+
+The Chameleon Pro sUAS pilot will be the PIC. If a pilot certificate holder other than the
+Chameleon Pro sUAS Pilot is present and possesses the necessary PIC qualifications, that
+person can also be designated as PIC.
+
+The Chameleon Pro sUAS will only operate within a confined by geo-fence to a sterile area
+surrounding the structure and under 400' AGL or altitude defined in the COA for the location of
+flight. In addition the Chameleon Pro sUAS will also be programed to automatically switch
+modes from GPS position hold to altitude hold in the event of a GPS signal loss or signal
+reduction since a geo-fence will also fail in the event of a GPS signal loss.
+
+A pre-flight briefing, in accordance with the SOP (Exhibit B proprietary and confidential
+material) will be conducted in regard to the planned Chameleon Pro sUAS operations prior to
+each flight mission. It will be mandatory that all personnel who will be performing duties
+within the boundaries of the safety perimeter be present for the flight briefing.
+
+Notification of flight operations to the FAA will be consistent with the Certificate of
+Authorization (COA) requirements. Petitioner will file a NOTAM 72 to 48 hours prior to the
+
+Pinnacl X                                                                                  Page 5
+flight operations. Petitioner will notify the airspace controlling authority and or airport
+management at non-towered airports prior to operating within 5 miles of an airport.
+
+The PIC and Observer have ultimate authority of any fight operation and can cancel as needed.
+
+The PIC and Observer will be trained in operation of Chameleon Pro sUAS and will have
+received up-to-date maintenance and flight log information on the particular Chameleon Pro
+sUAS to be operated, as required in Section 3 of the Pinnacl X SOP.
+
+The PIC and Observer will at all times be able to communicate by voice.
+
+Written and/or oral permission from the relevant property holders will be obtained.
+
+All required permissions and permits will be obtained from territorial, state, county or city
+jurisdictions, including local law enforcement, fire, or other appropriate governmental
+agencies.
+
+If the Chameleon Pro sUAS loses communications or loses its GPS signal, the Chameleon Pro
+sUAS is equipped with advanced safety features that will allow the Chameleon Pro sUAS to
+switch modes to a altitude hold mode, there by avoiding a flyaway situation.
+
+The Chameleon Pro sUAS will have the capability to abort a flight in case of unpredicted
+obstacles or emergencies.
+
+Petitioner Requests Exemption From the Following Regulations
+
+The Federal Aviation Act expressly grants the FAA the authority to issue exemptions. By its
+terms, this statutory authority includes exempting civil aircraft, as the term is defined under
+§40101 of the Act, including sUAS, from its safety regulations and minimum standards when
+the Administrator decides a requested exemption is in the public interest.9
+
+Petitioner seeks an exemption from several interrelated provisions of 14 CFR Parts 21, 45 and
+91 for purposes of conducting aerial surveys and inspections using sUAS. Listed below are: (1)
+the specific sections of 14 CFR for which exemption is sought; and (2) the operating procedures
+and safeguards that Petitioner has established which will ensure a level of safety equal to or
+better than the rules from which exemption is sought.
+
+Petitioner acknowledges that some of the below cited requests were addressed in FAA Order
+11062 (Grant of Exemption to Astraeus Aerial, Docket FAA-2014- 0352) and for which no action
+was taken by the FAA. The FAA's analysis did, however, recite the petitioner's information as
+the basis for the no action; this Petition recites all of the previous sections for which
+exemptions were requested therein.
+
+14 C. F.R. Part 21, Subpart H -Airworthiness Certificates & 14 C. F.R. § 91.203(a) (1).
+
+This petition seeks an exemption from 14 CFR Part 21, Subpart H, which establishes the
+procedural requirements for the issuance of airworthiness certificates as required by 14 CFR
+§91.203(a)(1). Given the size, weight, speed and limited, obstructed and unpopulated
+
+Pinnacl X                                                                                    Page 6
+operating area associated with the Chameleon Pro sUAS to be utilized by the Petitioner, an
+exemption from Part 21 Subpart H meets the requirements of an equivalent level of safety
+under Part 11 and Section 333 of the Reform Act.
+
+The Federal Aviation Act (49 U.S.C.§ 44701(f)) and Section 333 of the Reform Act both
+authorize the FAA to exempt aircraft from the requirement for an airworthiness certificate,
+upon consideration of the size, weight, speed, operational capability, and proximity to airports
+and populated areas of the particular UAS.
+
+The Chameleon Pro sUAS to be operated here under is less than 7.9 pounds fully loaded,
+carries neither a pilot nor passenger, carries no explosive materials or flammable liquid fuels,
+and operates exclusively within a sterile area adjacent to structures that are considered
+obstructions to manned aircraft. Unlike other civil aircraft, aircraft operations will be tightly
+controlled and monitored by the PIC and Observer pursuant to the Pinnacl X SOP requirements
+and in compliance with local public safety requirements. Site security for the area of operation
+is consistent with existing requirements for maintaining public safety. The operation has been
+reviewed by a panel of subject matter experts to identify risks and safety requirements to
+mitigate those risks per Exhibit A Pinnacl X Chameleon Pro Operations.
+
+Equivalent Level of Safety
+
+In all cases, an analysis of these criteria demonstrates that the Chameleon Pro sUAS operated
+without an airworthiness certificate, in the restricted environment and under the conditions
+proposed will be at least as safe, or safer, than a conventional rotorcraft operating with an
+airworthiness certificate issued under 14 CFR Part 21, Subpart H. without the restrictions and
+conditions of the proposed Chameleon Pro sUAS operations. The same criteria demonstrate
+that there is no credible threat to national security posed by the Chameleon Pro sUAS, due to
+its size, speed of operation, location of operation, lack of explosive materials or flammable
+liquid fuels and inability to carry a substantial external load.
+
+14 C. F.R. Part 27: Airworthiness Standards: Normal Category Rotorcraft.
+
+14 CFR Part 27 sets forth the procedural requirements for airworthiness certification of normal
+category rotorcraft. To the extent the Petitioner's Chameleon Pro sUAS would otherwise
+require certification under Part 27, as a rotorcraft, Petitioner requests an exemption from Part
+27's airworthiness standards for the same reasons identified in the exemption request from
+item A. 14 CFR Part 21, Subpart H.
+
+14 C. F.R. §§ 91.9(c), 45.23(b) and 45.27(a). Aircraft Marking and Identification Requirements:
+
+This petition seeks an exemption from the aircraft marking and identification requirements of
+14 CFR §§ 91.9(c), 45.23(b) and 45.27(a).
+
+14 CFR § 91.9(c), Civil aircraft flight manual, marking, and placard requirements, provides that:
+
+No person may operate a U.S.-registered civil aircraft unless that aircraft is identified in
+accordance with part 45 of this chapter.
+
+Pinnacl X  Page 7
+14 CFR § 45.23(b), Markings of the Aircraft, states:
+
+When marks include only the Roman capital letter "N" and the registration number is displayed
+on limited, restricted or light-sport category aircraft or experimental or provisionally
+certificated aircraft, the operator must also display on that aircraft near each entrance to the
+cabin, cockpit, or pilot station, in letters not less than 2 inches nor more than 6 inches high, the
+words "limited," "restricted," "light-sport," "experimental," or "provisional," as applicable.
+
+14 CFR § 45.27(a), Rotorcraft, states:
+
+Each operator of a rotorcraft must display on that rotorcraft horizontally on both surfaces of
+the cabin, fuselage, boom, or tail the marks required by §45.23.
+
+Exemption from § 45.23(b) is warranted because the Chameleon Pro sUAS has no cabin,
+cockpit, or pilot station or entrance of any kind on which the word "Experimental" can be
+placed. Moreover, given the size of the Chameleon Pro sUAS, two-inch lettering would be
+impossible. The word "Experimental" will be placed on the fuselage in compliance with §
+45.29(f).
+
+Given the nature of the specific relief sought by this exemption request, Petitioner requires
+relief from the associated marking and identification requirements of § 45.27(a) and § 91.9(c),
+which would require compliance with § 45.23(b).
+
+Equivalent Level of Safety
+
+An equivalent level of safety for exemptions to the aircraft marking and identification
+requirements of §§ 91.9(c), 45.23(b) and 45.27(a), will be provided by having the sUAS marked
+on its fuselage as required by §45.29(f) where the pilot, observer, and others working with the
+sUAS will see the identification of the UAS as "Experimental." Additionally, Petitioner will
+ensure compliance with any requests of sUAS marking by the FAA.
+
+The FAA has issued the following exemptions to the aircraft marking requirements of §
+45.23(b): Exemptions Nos. 10700, 8738, 10167 and 10167A.
+
+14 C. F.R. § 61.113 (a) & (b): Private Pilot Privileges and Limitations: Pilot in Command.
+
+This petition seeks an exemption from the private pilot privileges and limitations of §61.113 (a)
+& (b), which states:
+
+Private pilot privileges and limitations: Pilot in command.
+
+(a) Except as provided in paragraphs (b) through (h) of this section, no person who holds a
+private pilot certificate may act as pilot in command of an aircraft that is carrying passengers or
+property for compensation or hire; nor may that person, for compensation or hire, act as pilot
+in command of an aircraft.
+
+(b) A private pilot may, for compensation or hire, act as pilot in command of an aircraft in
+connection with any business or employment if:
+
+Pinnacl X                                                                                   Page 8
+(1) The flight is only incidental to that business or employment; and
+
+(2) The aircraft does not carry passengers or property for compensation or hire. Private Pilot
+Privileges and Limitations: Pilot in Command.
+
+Except as provided in paragraphs (b) through (h) of this section, no person who holds a private
+pilot certificate may act as pilot in command of an aircraft that is carrying passengers or
+property for compensation or hire; nor may that person, for compensation or hire, act as pilot
+in command of an aircraft.
+
+A private pilot may, for compensation or hire, act as pilot in command of an aircraft in
+connection with any business or employment if:
+
+The flight is only incidental to that business or employment; and the aircraft does not carry
+passengers or property for compensation or hire. Section 61.113(a) limits private pilots to
+being in command of non-commercial flights. Section 61.113(b) (1) provides an exception that
+allows a private pilot to command an aircraft without passengers or property, in connection
+with business or employment if "the flight is only incidental to that business or employment."
+That exception likely does not apply to the proposed operations under this petition for
+exemption, as the flights are not incidental to the proposed aerial surveys and inspections but
+rather essential to it. Accordingly, this petition seeks an exemption to § 61.113(a)'s commercial
+limitation and/or § 61.113(b) (1)'s requirement that the flight be incidental to the business to
+benefit from the exception.
+
+Equivalent Level of Safety
+
+As required by the SOP (Exhibit B), Petitioner's Chameleon Pro sUAS operators acting as PIC
+will hold a private pilot license or UAS pilot certificate (when the FAA issues the regulations for
+applying for a UAS pilot certificate) and flight training specific to flight around high tension
+power lines and structures developed by Pinnacl X . Because the Chameleon Pro sUAS will not
+carry a pilot or passengers, the proposed operations can achieve the equivalent level of safety
+to § 61.113 (a) and (b), by requiring the PIC operating the sUAS to have a private pilot license
+or UAS certificate and flight training specific to the Chameleon Pro .
+
+Unlike a conventional aircraft that carries the pilot and passengers, the Chameleon Pro sUAS is
+remotely controlled with no living being on board. Moreover, the area of operation is
+controlled and restricted, and all flights are planned and coordinated in advance as set forth in
+the Pinnacl X SOP.
+
+The level of safety provided by the requirements included in the Pinnacl X SOP exceeds that
+provided by a single individual holding a commercial pilot's certificate operating a conventional
+aircraft in accordance with § 61.113 (a) & (b). The risks associated with the operation of small,
+lightweight UAS in an airspace adjacent to obstructions are diminished from the level of risk
+associated with commercial operations contemplated by Part 61 when drafted, that allowing
+the proposed operations in this petition for exemption with a PIC holding a private pilot license
+or UAS pilot certificate exceeds the present level of safety achieved by §61.113 (a) & (b).
+
+Pinnacl X  Page 9
+14 C. F.R. § 91.7(a): Civil Aircraft Airworthiness.
+
+This petition seeks an exemption from 14 CFR § 91.7(a), which requires that a civil aircraft be in
+an airworthy condition to be operated. In as much there will be no airworthiness certificate
+issued for the sUAS, should this exemption be granted, no FAA regulatory standard will exist
+for determining airworthiness.
+
+Equivalent Level of Safety
+
+The Chameleon Pro sUAS has been developed from the experimentation and flight testing
+within close proximity of energized high tension power lines, performed by Alfred A. Gates. His
+research was recently presented at the prestigiously 2015 International American Helicopter
+Society Specialist Meeting on Unmanned Rotorcraft and Network-Centric Operations Program,
+exhibit I. The flight testing included over 100 test flight under Central Connecticut State
+Universities COAs. Given the size of the sUAS, the requirements contained in the Exhibit B
+Pinnacl X SOP, Exhibit C Chameleon Pro Manual, the training requirements of the PIC and
+Observer and use of safety checklists prior to each flight, an equivalent level of safety will be
+provided.
+
+The FAA has issued the following exemptions to this regulation: Exemption Order 11062.
+
+14 C. F.R. § 91.9(b) (2): Civil Aircraft Flight Manual in the Aircraft.
+
+This petition seeks an exemption from the flight manual requirements of 14 CFR § 91.9(b) (2),
+which states:
+
+(b) No person may operate a U.S.-registered civil aircraft-
+(2) For which an Airplane or Rotorcraft Flight Manual is not required by
+§21.5 of this chapter, unless there is available in the aircraft a current approved airplane or
+Rotorcraft Flight Manual, approved manual material, markings, and placards, or any
+combination thereof.
+
+Given its size, configuration, and load capacity, the Chameleon Pro sUAS has no ability to carry
+such a manual on the aircraft, not only because there is no pilot on board, but because there is
+simply no room or capacity to carry such an item on the aircraft.
+
+Equivalent Level of Safety
+
+The safety related purpose of this manual requirement can be equally satisfied by maintaining
+the Exhibit C Chameleon Pro Manual at the ground control point where the pilot flying the
+Chameleon Pro sUAS will have immediate access to it. Accordingly, Petitioner requests an
+exemption from § 91.9(b) (2)'s flight manual requirements, on the condition that the
+Chameleon Pro sUAS flight manual be available at the control point during each operation.
+
+The FAA has issued the following exemptions to this regulation: Exemption Order 11062.
+
+Pinnacl X  Page 10
+14 C. F.R. § 91.103: Preflight Action.
+
+This petition seeks an exemption from § 91.103, which requires a PIC to become familiar with
+specific information before each flight, including information contained in the FAA -approved
+Flight Manual on board the aircraft. In as much as an FAA approved flight manual will not be
+provided for the sUAS, an exemption will be needed.
+
+Equivalent Level of Safety
+
+An equivalent level of safety will be provided by following the Exhibit C Chameleon Pro
+Manual comprehensive preflight checklist and Exhibit B Pinnacl X Section 3 General Preflight
+Checklist. The PIC will take all actions, including reviewing weather and NOTAMs, flight battery
+requirements, landing and takeoff distances, and aircraft performance data, before initiation of
+flight.
+
+14 C. F.R. § 91.109(a): Flight Instruction.
+
+This petition seeks an exemption from 14 CFR § 91.109(a), which provides that:
+
+No person may operate a civil aircraft (except a manned free balloon) that is being used for
+flight instruction unless that aircraft has fully functioning dual controls...
+
+sUASs and remotely piloted aircraft, by their design do not have fully functional dual controls.
+Instead, flight control is accomplished through the use of a control box that communicates
+with the sUAS via radio communications.
+
+Equivalent Level of Safety
+
+Given the size and speed of the Chameleon Pro sUAS, an equivalent level of safe training can
+still be performed without dual controls because no pilot or passengers are aboard the
+Chameleon Pro sUAS, the system is equipped with an automatic come home feature that can
+be triggered at any time to respond to unpredicted challenges and all persons will be a safe
+distance away should the Chameleon Pro sUAS experience any difficulties during flight
+instruction. Additionally, the aircraft's light weight and slow speeds with no pilot or
+passengers on board create less of a danger to the public than aircraft equipped with dual
+controls.
+
+The FAA has approved exemptions for flight training without fully functional dual controls for a
+number of aircraft and for flight instruction in experimental aircraft (See Exemption Nos. 5778K
+& 9862A) and other sUASs (See FAA Order 11062).
+
+14 C. F.R. § 91.119: Minimum Safe Altitudes.
+
+This petition seeks an exemption from the minimum safe altitude requirements of 14 CFR §
+91.119. Section 91.119 prescribes the minimum safe altitudes under which aircraft may not
+operate, including 500 feet above the surface and away from any person, vessel, vehicle, or
+structure in non-congested areas. See 14 CFR § 91.119(c). Section § 91.119(d) (1) allows for a
+helicopter to operate at less than those minimum altitudes when it can be operated "without
+
+Pinnacl X                                                                       Page 11
+hazard to persons or property on the surface," provided that "each person operating the
+helicopter complies with any routes or altitudes specifically prescribed for helicopters by the
+FAA."
+
+To provide the intended inspections, the Chameleon Pro sUAS will normally need to be
+operated within a range of 100 feet laterally from the structure being inspected and under
+400' AGL. Accordingly, due to the nature of the proposed operations, the PIC and the Observer
+will be less than 300 feet away from structures during the operation, and an exemption is
+therefore required.
+
+Equivalent Level of Safety
+
+Compared to flight operations with rotorcraft weighting far more than the maximum 7.9 lbs.
+proposed herein, and the lack of flammable fuel, any risk associated with these operations is
+far less than those presently presented with conventional aircraft. An equivalent level of safety
+will be achieved given the size, weight, speed of the UAS as well as the location where it is
+operated. As set forth in the Exhibit B Pinnacl X SOP, the Chameleon Pro sUAS will be operated
+in a geo-fenced sterile area, where buildings and people will not be exposed to operations
+without their pre-obtained consent. No flight will be taken without the permission of the
+property owner and/or local officials. Because of the advance notice to the property owner
+and participants, all affected individuals will be aware of the planned flight operations as set
+forth in the SOP. Furthermore, by operating at such lower altitudes adjacent to obstructions,
+the Chameleon Pro sUAS will not interfere with other aircraft that are subject to the minimum
+safe altitude regulations.
+
+14 C. F.R. § 91.121 Altimeter Settings.
+
+This petition seeks an exemption from 14 CFR § 91.121, which requires a person operating an
+aircraft to maintain cruising altitude or flight level by reference to an altimeter that is set to the
+elevation of the departure airport or barometric pressure. An exemption is required because
+the Chameleon Pro sUAS does not have a barometric altimeter, but rather a GPS altitude read
+out.
+
+Equivalent Level of Safety
+
+An equivalent level of safety will be achieved by following the procedures set forth in the
+General Preflight Checklist in Exhibit B Pinnacl X SOP. As prescribed in the SOP, the operator
+will confirm the altitude of the launch site shown on the GPS altitude indicator before flight.
+The flight plan will be programmed to maintain appropriate altitude above ground and under
+400' AGL or as specified with in the COA for the location. Moreover, the PIC will use the GPS
+altitude indicator to constantly monitor the Chameleon Pro sUAS's height, thus ensuring
+operation at safe altitudes.
+
+14 C. F.R. § 91.151(a): Fuel Requirements for Flight in V F R Conditions.
+
+This petition seeks an exemption from 14 CFR § 91.151(a)'s fuel requirements for flight in VFR
+conditions. Section 91.151 states:
+
+Pinnacl X  Page 12
+No person may begin a flight in an airplane under VFR conditions unless (considering wind and
+forecast weather conditions) there is enough fuel to fly to the first point of intended landing
+and, assuming normal cruising speed-
+During the day, to fly after that for at least 30 minutes; or
+At night, to fly after that for at least 45 minutes.
+
+The battery powering the Chameleon Pro sUAS provides approximately 20 minutes of powered
+flight. An exemption from the 20 minute reserve requirement in 14 CFR §91.151 is therefore
+required.
+
+Equivalent Level of Safety
+
+An equivalent level of safety can be achieved by limiting flights to 20 minutes or 25% of battery
+power, whichever happens first. This restriction would be more than adequate to return the
+Chameleon Pro sUAS to its launch location from anywhere within its limited operating area.
+Operation of the Chameleon Pro sUAS with less than 20 minutes of reserve fuel does not
+engender the type of risks that Section 91.151(a) was intended to alleviate given the size and
+speed of the Chameleon Pro . Moreover, operation will be limited to controlled areas where
+only people and property owners, or official representatives who have signed waivers will be
+allowed.
+
+This request for exemption falls within the scope of prior exemptions. See e.g. Exemption
+Order 11062
+
+14 C. F.R. § 91.203 (a) & (b): Carrying Civil Aircraft Certification and Registration.
+
+This petition seeks an exemption from civil aircraft certification and registration requirements
+of 14 CFR § 91.203 (a) and (b). The regulation provides in pertinent part:
+
+Except as provided in §91.715, no person may operate a civil aircraft unless it has within it the
+following:
+
+An appropriate and current airworthiness certificate....
+
+No person may operate a civil aircraft unless the airworthiness certificate required by
+paragraph (a) of this section or a special flight authorization issued under §91.715 is displayed
+at the cabin or cockpit entrance so that it is legible to passengers or crew.
+
+In addition to the fact that Petitioner is seeking an exemption from the airworthiness
+certificate requirements, an exemption to this regulation is necessary because:
+The Chameleon Pro load capacity and size does not allow it to carry
+certification and registration documents;
+The Chameleon Pro does not have a cabin or cockpit entrance at which the
+documents could be displayed; and
+There are no passengers or crew for whom the certificates need be displayed.
+
+Pinnacl X  Page 13
+Equivalent Level of Safety
+
+An equivalent level of safety will be achieved by keeping these documents, to the extent they
+are applicable to the Chameleon Pro sUAS, at the ground control point where the pilot flying
+the Chameleon Pro sUAS will have immediate access to them.
+
+The FAA has issued numerous exemptions to this regulation. See, inter alia, Exemption Order
+11062
+
+14 C. F.R. §§ 91.405(a); 91.407(a) (1); 91.409(a) (2); 91.417 (a) & (b): Maintenance
+Inspections.
+
+This petition seeks an exemption from the maintenance inspection requirements of 14 CFR §§
+91.405(a); 91.407(a) (1); 91.409(a) (2); 91.417 (a) & (b). Which state:
+
+These regulations specify maintenance and inspection standards in reference to 14 CFR Part
+43. See, e.g., 14 CFR § 91.405(a) (stating that each owner or operator of an aircraft "[s]hall
+have that aircraft inspected as prescribed in subpart E of this part and shall between required
+inspections . . . have discrepancies repaired as prescribed in part 43 of this chapter"). An
+exemption to these regulations is needed because Part 43 and these sections apply only to
+aircraft with an airworthiness certificate, which the Chameleon Pro sUAS will not have.
+
+Equivalent Level of Safety
+
+An equivalent level of safety will be achieved because maintenance and inspections will be
+performed in accordance with the Exhibit C Chameleon Pro Manual. The operator will ensure
+that the Chameleon Pro sUAS is in working order prior to initiating flight, perform required
+maintenance, and keep a log of any maintenance performed. The operator is most familiar
+with the aircraft and best suited to maintain the aircraft in an airworthy condition to provide
+the equivalent level of safety.
+
+If mechanical issues arise, the Chameleon Pro sUAS can land immediately. Moreover, the
+Chameleon Pro sUAS small size, carrying capacity, and the fact that flight operations will only
+take place in restricted areas for limited periods of time, create less risk than the same factors
+associated with conventional fixed-wing aircraft and rotorcraft performing the same operation.
+
+Public Interest
+
+Consistent with the requirements of 14 CFR §11.81(d), Petitioner offers the following reasons
+why granting this petition for exemption is in the public interest, i.e., how granting it would
+benefit the public as a whole.
+
+Approval of exemptions allowing commercial operations of small and lightweight sUAS in the
+utility aerial services industry benefits the public as a whole in the following ways:
+
+It helps fulfill Congress' goal in passing Section 333(a) through (c) of the Reform Act, namely,
+the FAA Administrator's assessment of whether certain UAS may operate safely in the National
+Airspace System before completion of the rulemaking required under Section 332 of the
+
+Pinnacl X                                                                             Page 14
+Reform Act.
+
+The operation significantly improves safety and reduces risk by alleviating human exposure to
+danger associated with current inspection methods, namely, tower climbs and helicopter
+flight. The public's interest is furthered by reducing human exposure to death or serious injury
+associated with personnel performing structure or tower inspections and patrols. In addition
+the use sUAS for inspection has a minimal impact on the environment. Also the use of sUAS for
+inspection will provide a video or photo data base for preventive maintenance thereby
+reducing the number of power outages in the utility industry.
+
+Petitioner's Chameleon Pro sUAS is battery powered and creates no emissions. If Petitioner's
+Chameleon Pro sUAS crashes, there is no fuel to ignite and explode. Any impact of Petitioner's
+lightweight Chameleon Pro sUAS is, obviously, far less than potentially harmful emissions
+associated with cranes and lift equipment. The public's interest is furthered by minimizing
+ecological impact of an accident and by reducing human exposure to emissions.
+
+Visual surveys are valuable tools for structure inspections. However, the obstructed
+environment with cables and power lines impede aerial surveys and inspections from
+conventional manned aircraft. The use of the Chameleon Pro sUAS addresses these problems
+and is a powerful tool for performing a wide-range of structure inspection and patrol
+applications. The public as a whole will benefit from the safer and more cost-effective utility
+aerial services that Chameleon Pro sUAS operations provide.
+
+Privacy
+
+All flights will occur over Petitioner's property or the customer's property with the customer's
+prior consent and knowledge.
+
+Federal Register Summary
+
+Pursuant to 14 CFR Part 11, the following summary is provided for publication in the FEDERAL
+REGISTER, should it be determined that publication is needed:
+
+Pinnacl X, LLC seeks an exemption from the following rules:
+
+14 CFR Part 21, Subpart H; 14 CFR § 91.203(a)(1);14 CFR Part 27: 14 CFR §§ 91.9(c), 45.23(b)
+and 45.27(a);14 CFR § 61.113 (a) & (b);14 CFR § 91.7(a); 91.9(b)(2); 91.103; 91.109(a); 91.119;
+91.121; 91.151(a); 91.203 (a) & (b); 91.405(a); 91.407(a)(1); 91.409(a)(2); 91.417 (a) & (b)
+
+Approval of exemptions allowing commercial operations of small and lightweight unmanned
+aircraft ("sUAS") in the structure inspection industry will enhance safety by reducing risk to
+human life. Conventional operations in this industry using personnel to climb structures
+present the risks associated with unknown hazards that often lead to accidents, incidents and
+fatalities.
+
+In contrast, the Chameleon Pro sUAS weighing fewer than 7.9 lbs. and powered by batteries
+eliminates virtually all of that risk, given the reduced mass and lack of combustible fuel carried
+on board. The Chameleon Pro sUAS is transported, not flown, to the designated survey area
+
+Pinnacl X                                                    Page 15
+and set up. The Chameleon Pro sUAS carries no passengers or crew and provides the
+inspection services eliminating the requirement for personnel to climb the structure and,
+therefore does not expose personnel to the risks associated with unknown hazards.
+
+The operation of sUASs like the Chameleon Pro, weighing less than 7.9 lbs., provides an
+equivalent level of safety and thus supports the grant of the exemptions requested herein,
+including exempting the applicant from the requirements of Part 21 and allowing commercial
+operations. The lightweight sUASs operate at slow speeds, close to the ground, and in a sterile
+environment adjacent to obstructions. As a result, they are far safer than conventional aerial
+survey and inspection operations conducted with fixed-wing aircraft or helicopters or manned
+tower climbs.
+
+Conclusion
+
+The Chameleon Pro as a result of its size, weight, speed, operational capability, distance from
+airports and populated areas and operation within a contained area adjacent to obstacles
+within visual line of sight do not create a hazard to users of the national airspace system or
+pose a threat to national security. Adequate justification exists for the grant of the requested
+exemptions allowing commercial operation of Pinnacl X LLC's Chameleon Pro sUAS in the utility
+structure services industry and telecommunication and in accordance with Exhibit A, B, C, D, E,
+F, G, H, I and J appended hereto.
+
+If additional information is required, or if you have any questions regarding this Petition for
+Exemption, please contact Alfred A. Gates at Pinnacl X (860 301-2117); kswiftgates@aol.com)
+for technical questions for any legal issues.
+
+Pinnacl X, LLC. Exemption Request
+Section 333 of the FAA Reform Act and Part 11 of the Federal Aviation Regulations
+Exhibits A, B, C, D
+
+Confidential commercial and proprietary information protected under 14 CFR § 11.35(b) and
+are protected from release under the Freedom of information Act 5 U.S.C. § 552 et.seq.
+The information contained in this exhibit has been submitted in the physical copies which
+mailed to the FAA Office of Rulemaking (ARM). If more copies are needed by FAA, requests
+made to Alfred A. Gates will be honored.
+
+Respectfully Submitted,
+
+Alfred A. Gates, Ph.D., P.E.  Kathy Swift
+Pinnacl X                     President & CEO
+
+Pinnacl X                                      Page 16
+

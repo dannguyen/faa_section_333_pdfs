@@ -1,0 +1,2035 @@
+July 31, 2015
+
+                                                           Exemption No. 12266
+                                                           Regulatory Docket No. FAA­2015­2116
+
+Mr. Ryan Koverman
+President
+Windy City Drones, LLC
+450 Village Creek Drive
+Lake in the Hills, IL 60156
+
+Dear Mr. Koverman:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter dated May 28, 2015, you petitioned the Federal Aviation Administration (FAA) on
+behalf of Windy City Drones, LLC (hereinafter petitioner or operator) for an exemption. The
+petitioner requested to operate an unmanned aircraft system (UAS) to conduct aerial
+photography, tower inspection, real estate marketing, surveying, agricultural mapping, and
+other flight operations.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner is a DJI Phantom 3 Professional.
+                                                                                                                 2
+
+The petitioner requested relief from 14 CFR part 21, Certification procedures for products
+and parts, Subpart H--Airworthiness Certificates. In accordance with the statutory criteria
+provided in Section 333 of Public Law 112-95 in reference to 49 U.S.C. § 44704, and in
+consideration of the size, weight, speed, and limited operating area associated with the
+aircraft and its operation, the Secretary of Transportation has determined that this aircraft
+meets the conditions of Section 333. Therefore, the FAA finds that the requested relief from
+14 CFR part 21, Certification procedures for products and parts, Subpart H--Airworthiness
+Certificates, and any associated noise certification and testing requirements of part 36, is
+not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection1. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+· They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+· The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+· A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, Windy City Drones, LLC is granted an exemption from
+14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a), 91.7(a), 91.119(c),
+91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a) and (b), to
+
+1 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                                                 3
+
+the extent necessary to allow the petitioner to operate a UAS to perform aerial data collection.
+This exemption is subject to the conditions and limitations listed below.
+
+Conditions and Limitations
+
+In this grant of exemption, Windy City Drones, LLC is hereafter referred to as the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+    1. Operations authorized by this grant of exemption are limited to the DJI Phantom 3
+         Professional when weighing less than 55 pounds including payload. Proposed
+         operations of any other aircraft will require a new petition or a petition to amend this
+         exemption.
+
+    2. Operations for the purpose of closed-set motion picture and television filming are
+         not permitted.
+
+    3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+         exemption holder may use either groundspeed or calibrated airspeed to determine
+         compliance with the 87 knot speed restriction. In no case will the UA be operated at
+         airspeeds greater than the maximum UA operating airspeed recommended by the
+         aircraft manufacturer.
+
+    4. The UA must be operated at an altitude of no more than 400 feet above ground level
+         (AGL). Altitude must be reported in feet AGL.
+
+    5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+         This requires the PIC to be able to use human vision unaided by any device other than
+         corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+         U.S. driver's license.
+
+    6. All operations must utilize a visual observer (VO). The UA must be operated within
+         the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+         to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+         capability. The VO and PIC must be able to communicate verbally at all times;
+         electronic messaging or texting is not permitted during flight operations. The PIC
+         must be designated before the flight and cannot transfer his or her designation for the
+         duration of the flight. The PIC must ensure that the VO can perform the duties
+         required of the VO.
+
+    7. This exemption and all documents needed to operate the UAS and conduct its
+         operations in accordance with the conditions and limitations stated in this grant of
+         exemption, are hereinafter referred to as the operating documents. The operating
+                                                                                                            4
+
+    documents must be accessible during UAS operations and made available to the
+    Administrator upon request. If a discrepancy exists between the conditions and
+    limitations in this exemption and the procedures outlined in the operating documents,
+    the conditions and limitations herein take precedence and must be followed.
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+                                                                                                            5
+
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+                                                                                       6
+
+exemption holder may apply for a new or amended COA if it intends to conduct
+operations that cannot be conducted under the terms of the attached COA.
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+    be as large as practicable.
+
+23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+    any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+    PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+    These documents must be made available to the Administrator or any law enforcement
+    official upon request.
+
+24. The UA must remain clear and give way to all manned aviation operations and
+    activities at all times.
+
+25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless:
+      a. Barriers or structures are present that sufficiently protect nonparticipating persons
+          from the UA and/or debris in the event of an accident. The operator must ensure
+          that nonparticipating persons remain under such protection. If a situation arises
+          where nonparticipating persons leave such protection and are within 500 feet of
+          the UA, flight operations must cease immediately in a manner ensuring the safety
+          of nonparticipating persons; and
+      b. The owner/controller of any vessels, vehicles or structures has granted permission
+          for operating closer to those objects and the PIC has made a safety assessment of
+          the risk of operating closer to those objects and determined that it does not
+          present an undue hazard.
+
+The PIC, VO, operator trainees or essential persons are not considered
+nonparticipating persons under this exemption.
+
+27. All operations shall be conducted over private or controlled-access property with
+    permission from the property owner/controller or authorized representative.
+    Permission from property owner/controller or authorized representative will be
+    obtained for each flight to be conducted.
+
+28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+    boundaries of the operational area as defined by the applicable COA must be reported
+    to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+                                                                                               7
+
+reported to the National Transportation Safety Board (NTSB) per instructions
+contained on the NTSB Web site: www.ntsb.gov.
+
+If this exemption permits operations for the purpose of closed-set motion picture and
+television filming and production, the following additional conditions and limitations apply.
+
+29. The operator must have a motion picture and television operations manual (MPTOM)
+    as documented in this grant of exemption.
+
+30. At least 3 days before aerial filming, the operator of the UAS affected by this
+    exemption must submit a written Plan of Activities to the local Flight Standards
+    District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+    notification may be waived with the concurrence of the FSDO. The plan of activities
+    must include at least the following:
+      a. Dates and times for all flights;
+      b. Name and phone number of the operator for the UAS aerial filming conducted
+          under this grant of exemption;
+      c. Name and phone number of the person responsible for the on-scene operation of
+          the UAS;
+      d. Make, model, and serial or N-Number of UAS to be used;
+      e. Name and certificate number of UAS PICs involved in the aerial filming;
+      f. A statement that the operator has obtained permission from property owners
+          and/or local officials to conduct the filming production event; the list of those
+          who gave permission must be made available to the inspector upon request;
+      g. Signature of exemption holder or representative; and
+      h. A description of the flight activity, including maps or diagrams of any area, city,
+          town, county, and/or state over which filming will be conducted and the altitudes
+          essential to accomplish the operation.
+
+31. Flight operations may be conducted closer than 500 feet from participating persons
+    consenting to be involved and necessary for the filming production, as specified in the
+    exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                      8
+
+This exemption terminates on August 31, 2017, unless sooner superseded or rescinded.
+
+Sincerely,
+
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+May 28rd, 2015
+
+Ryan Koverman                                        ·-;'                                .··---·,,
+Windy City Drones
+450 Village Creek Dr.
+Lake in the Hills, IL 60156
+
+U.S. Department of Transportation
+Docket Operations
+West Building Ground Floor
+Room W12-140
+1200 New Jersey Avenue, SE.,
+Washington, DC 20590-0001
+
+RE: Exemption Request Section 333 of the FAA Reform Act of2012 and Part 11 of the Federal
+Aviation Regulations
+
+Dear Sir or Madam;
+
+In accordance with the Public Guidance for Petitions for Exemption filed under Section 333,
+
+Windy City Drones, LLC requests exemption from the Federal Aviation Regulations to allow for               ·j···
+
+commercial UAS operations of a DJI Phantom 3 Professional, for the purpose of aerial photography,
+
+tower inspection, real estate marketing, surveying, agricultural mapping and other flight operations that
+
+could be performed safely and more cost effectively than a traditional manned aircraft.
+
+Applicant:
+Windy City Drones
+Ryan Koverman (President)
+450 Village Creek Dr.
+Lake in the Hills, IL 60156
+
+(630) 246-7443
+
+Attachments:
+    1. DJI Phantom 3 Professional User Manual
+    2. DJI Phantom 3 Professional Quick Start Guide
+    3. DJI Phantom 3 Professional Release Notes
+    4. DJI Phantom 3 Safety Guidelines Disclaimer
+    5. DJI Phantom Pilot Training Guide
+    6. Intelligent Flight Battery Safety Guidelines
+
+Regulations from which the exemption is requested:
+14 CFR 21, Subpart H
+14 CFR 45.23 (b)
+14 CFR 61.113 (a) & (b) & 14 CFR 61.133 (a)
+14 CFR 91.7 (a)
+14 CFR 91.9 (b)(2)
+14 CFR 91.103 (b)(2)
+14 CFR 91.109
+14 CFR 91.119 (c)
+14 CFR 91.121
+14 CFR 91.151 (a)
+14 CFR 91.203 (a) & (b)
+14 CFR 91.405 (a)
+14 CFR 91.407 (a)(l)
+14 CFR 91.409 (a)(l) & (a)(2)
+14 CFR 91.417 (a) & (b)
+
+14 CFR 21, Subpart H- In consideration of the size, weight, speed, and limited operating area
+associated with this UAS and its operation, Windy City Drones requests relief from 14 CFR part 21,
+Subpart H, and any associated noise certification and testing requirements of part 36. The UAS will
+carry neither pilot, passenger, explosive materials or flammable liquids.
+
+14 CFR 45.23 (b)- Even though the UAS will have no airworthiness certificate, an exemption may be
+needed as the UAS will have no entrance to the cabin, cockpit or pilot station on which the word
+"Experimental" can be placed. Given the size of the UAS, two-inch lettering will be impossible. The
+word "Experimental" will be placed on the fuselage in compliance with §45.29 (f). The equivalent
+level of safety will be provided by having the UAS marked on its fuselage as required by §45.29 (f)
+where the pilot, observer and others working with the UAS will see the identification of the UAS as
+"Experimental."
+
+14 CFR 61.113 (a) & (b) & 14 CFR 61.133 (a)- Since the UAS will not carry a pilot or passengers
+Windy City Drones requests a relief from these regulations. Any pilot in command or (PIC) operating
+the UAS will hold a Sport Pilot (or greater) certificate. A visual observer or (VO) will be utilized and
+required to communicate verbally at all times. The UAS will be limited to operations within visual
+distance of both the PIC and VO. All UAS operations will take place in a controlled area. The risks
+associated with the use of a UAS are far less than similar commercial aircraft operations.
+
+14 CFR 91.7 (a)- Since the UAS will not carry a pilot or passengers there will be no airworthiness
+certificate issued for the aircraft, should this exemption be granted, no FAA regulatory standard exists
+for determining airworthiness. Given the size of the aircraft, maintenance, and use of safety checklist
+prior to each flight, an equivalent level of safety will be provided. All flights will be in accordance
+with the safety and maintenance recommendations found in the DJI Phantom attachments.
+
+14 CFR 91.9 (b)(2)- Given the size and configuration, the UAS has no ability to carry a flight manual
+on the aircraft. There is no room, capacity, or pilot on board to adequately carry a flight manual. An
+equivalent level of safety will be maintained by keeping the flight manual at the ground station where
+the UAS pilot will have immediate access to it.
+
+14 CFR 91.103 (b)(2) -As no FAA approved flight manuals will be provided for the aircraft an
+exemption is needed. Alternate procedures including but not limited to reviewing weather conditions,
+checking flight battery requirements, checking takeoff and landing distances along with those found in
+the attached "DJI Pilot Training" will be implemented. These actions will provide an equivalent or
+higher level of safety.
+
+14 CFR 91.109- UAS and remotely piloted aircraft do not have fully functional dual controls. Flight
+control is achieved through the use of a control box that communicates with the aircraft via radio
+communications. An equivalent level of safety will be achieved using the real time ground station data
+and given the UAS will carry neither a pilot or passengers.
+
+14 CFR 91.119 (c)- The UAS will never be operated at an altitude higher than 400 feetAGL. The
+UAS will operate in safe areas away from public and traffic and only with permission of the property
+and structure owners. The UAS will also be restricted by the flight controller to a maximum vertical
+height of 400 feet AGL, and 1500 feet horizontal. Given the size, weight, maneuverability and speed
+of the UAS, an equivalent or higher level of safety will be achieved.
+
+14 CFR 91.121- As the UAS may not have a barometric altimeter, but instead a GPS barometric
+sensor for altitude information an exemption may be required. An equivalent level of safety will be
+achieved using a ground station which links to a telemetry data link. This will provide the pilot with
+live flight data monitoring, confirming the altitude of the launch site shown on the GPS altitude
+indicator prior to flight.
+
+14 CFR 91.151 (a)- The UAS has a limited range and will be limited to operations in a controlled
+environment. The battery power the UAS provides approximately 23 minutes of flight time. The UAS
+is unable to meet the 30 minute reserve requirement and therefore requires an exemption. An
+equivalent level of safety will be achieved by monitoring the battery through the ground station and
+landing with a minimum of 30 percent battery power remaining.
+
+14 CFR 91.203 (a) & (b)- Given the size and configuration, the UAS has no ability to carry a flight
+manual on the aircraft. There is no room, capacity, or pilot on board to adequately carry a flight
+manual. An equivalent level of safety will be maintained by keeping the flight manual at the ground
+station where the UAS pilot will have immediate access to it.
+
+Given the following sections only apply to aircraft with an airworthiness certificate, these sections do
+not apply to this applicant. As a safety precaution, the operator will perform preflight inspections and
+ensure UAS is in working condition before initiating each flight:
+
+         14 CFR 91.405 (a)
+         14 CFR 91.407 (a)(1)
+         14 CFR 91.409 (a)(l) & (a)(2)
+         14 CFR 91.417 (a) & (b)
+
+Equivalent Level of Safety
+
+In addition to the safety standards mentioned above the UAS will adhere to the following additional
+guidelines:
+
+    1. The UAS will not be operated within 5 miles of an airport unless prior contact to Air Traffic
+         Control has been established.
+
+    2. Flights will not exceed the an airspeed of 36 mph (31.3 knots)
+    3. Flights will be operated at or below an altitude never exceeding 400 feet AGL.
+    4. The PIC and VO will communicate verbally at all times.
+    5. UAS operations will not be conducted during night.
+    6. All operations will be conducted under visual meteorological conditions.
+    7. The UAS will land with a minimum 30 percent battery reserve remaining.
+    8. The UAS will only be piloted within visual line of sight.
+    9. The UAS will utilize an internal flight safety feature that will return to a preprogrammed
+
+         position and land if communication with the remote control is lost.
+     10. Preflight inspections and protocol will be followed prior to all operations.
+     11. The UAS will abort flight in the event of unpredictable obstacles or emergencies.
+
+Public Interest
+
+         We believe the use of a UAS in lieu of a manned aircraft would enhance safety and reduce the
+environmental impact compared to similar operations conducted with a manned aircraft carrying a crew
+and flammable fuel.
+
+          The inspections of cellular communication towers or similar structures will eliminate the risks
+associated with persons attempting to climb these structures. The photographs and video collected will
+provide engineers with valuable information as to the safety of these structures.
+
+         The use of a UAS in the real estate industry provides both the buyer and seller with a higher
+level of marketing and service. The UAS is able to provide a view which encompasses the entire
+property in a single photo or short video clip. When compared to similar operations, utilizing a UAS
+poses much less of a safety concern for the general public with less fuel, time, noise and other
+resources.
+
+Privacy
+
+All flights will occur over private or controlled areas with the owner's consent. Capturing people in
+images will rarely occur. If a person is captured in a collected image they will have consented prior to
+filming or otherwise have agreed to being in the area prior to the filming taking place.
+
+Ryan A overman
+President
+··<
+
+         PHANTOM 3
+
+                                  ( PROFESS/Of'JAL )
+
+                      User Manual
+
+                                         2015.04
+
+        c!J·
+Using this manual
+
+0 Warning  & Important           '\): Hints and Tips 1iiiJ Reference
+
+~~~d4.·~~tQr~~;ttiEj}f:J,ij$~,t:lfgbtc':
+
+Read the following documents before using the Phantom 3 Professional:
+
+1.1ntheBox
+2. Phantom 3 Professional User Manual
+3. Phantom 3 Professional Quick Start Guide
+4. Phantom 3 ProfessionalI Advanced Safety Guidelines and Disclaimer
+5. Phantom 3 ProfessionalI Advanced Intelligent Flight Battery Safety Guidelines
+
+We recommend that you watch all tutorial videos on the official DJI website and read the Disclaimer
+before you fly. Prepare for your first flight by reviewing the Phantom 3 Professional Quick Start Guide and
+refer to the User Manual for more detailed information.
+
+Please watch the tutorial videos at the link below, which demonstrates how to use Phantom 3 Professional
+safely:
+
+http://www.dji.com/product/phantom-3/video
+
+Download and install the DJI Pilot app before using the aircraft. Scan the QR code to the right
+
+to download the latest version.                                                                  [!]
+
+The Android version of the OJI Pilot app is compatible with Android 4.1.2 or later.              :a·
+
+The iOS version of the DJI Pilot app is compatible with iOS 8.0 or later.
+Contents                                                           2
+                                                                   2
+                   Using this manual                               2
+                          Legends                                  2
+                          Read Before the First Flight
+                          Video Tutorials                          6
+                          Download the DJI Pilot app               6
+                                                                   7
+                   Product Profile                                 8
+                          Introduction                             8
+                          Feature Highlights
+                          Preparing the Aircraft                  11
+                          Aircraft Diagram                        11
+                          Remote Controller Diagram               11
+                                                                  12
+                   Aircraft                                       12
+                          Flight Controller                       13
+                          Flight Mode                             14
+                          Flight Status Indicator                 14
+                          Return-to-Home (RTH)                    16
+                          SmartRTH                                16
+                          Low Battery RTH                         17
+                          FailsafeRTH
+                          Vision Positioning System               23
+                          Flight Recorder                         23
+                          Attaching and Detaching the Propellers  27
+                          DJI Intelligent Flight Battery          28
+                                                                  29
+                   Remote Controller
+                          Remote Controller Profile
+                          Using the Remote Controller
+                          Remote Controller Status LED
+                          Linking the Remote Controller
+                          Remote Controller Compliance Version
+Camera and Gimbal                            31
+                                             32
+      Camera Profile
+      Gimbal                                 35
+                                             38
+DJIPIIotApp                                  38
+      Camera                                 38
+      Director
+      Store                                  40
+      Discovery                              40
+                                             44
+Flight                                       44
+      Flight Environment Requirements        45
+      Flight Umits and No-Fly Zones          46
+      Preflight Checklist                    46
+      Calibrating the Compass
+      Auto Takeoff and Auto Landing          53
+      Flight Test                            55
+      Starting/Stopping the Motors           56
+
+Troubleshooting (FAQ)
+
+Appendix
+      Specifications
+      Intelligent Orientation Control (IOC)
+      FCC Compliance
+Product Profile
+
+This section introduces the Phantom 3
+Professional and lists the components of
+the aircraft and remote controller.
+Product Profile
+
+The Phantom 3 Professional represents the next generation of OJI quadcopters. It is capable of capturing
+4K video and transmitting an HD video signal out of the box. The built-in camera has an integrated gimbal
+to maximize stability while minimizing both weight and size. Even when no GPS signal is available, the
+Vision Positioning System allows the aircraft to hover accurately in place.
+
+~~~!I~~i~!~l}Jlg,ht$·
+
+Camera and Gimbal: With the Phantom 3 Professional, you're shooting 4K video at up to 30 frames per
+second and capturing 12 megapixel photos that look crisper and cleaner than ever. An enhanced sensor
+gives you greater clarity, lower noise, and better pictures than any previous flying camera.
+
+HD VIdeo Downlink: The low-latency long range HD downlink is powered by an enhanced version of DJI
+Lightbridge.
+
+DJI lnteUigent Flight Battery: The 4480 mAh DJI Intelligent Right Battery features upgraded battery cells
+and an advanced power management system.
+
+Flight Controller: The next-generation flight controller has been updated to provide a safer, more reliable
+flight experience. A newly implemented flight recorder stores critical data from each flight and the Vision
+Positioning System enhances hovering precision when flying indoors or in environments where GPS is
+unavailable.
+                                                                                      Phantom 3 Professional User Manual
+
+~~~:ij~~~~~J'~J}.' ?:,r .·· '
+
+Removing Gimbal Clamp
+Remove the gimbal clamp by sliding it to the right (when facing the nose of the aircraft), as shown below.
+
+Attaching the Propellers:
+Mount the propellers with black dots on to motors with black axes and spin counter-clockwise to secure.
+Mount the propellers with sliver dots on to motors with sliver axes and spin clockwise to secure. Be sure
+all propellers are securely in place.
+
+ & Place all propellers onto the correct motors and tighten by hand to lock them in position.
+
+Preparing the Remote Controller:
+The mobile device holder is designed for securing tablet or mobile device. Tilt the mobile device holder to
+the desired position, then adjust the antennas so they are facing outward.
+1. Press the button on the top right side of the mobile device holder to release the clamp, then adjust the
+
+   clamp to fit the size of your mobile device.
+2. Secure your mobile device in the clamp by pressing down, and connect your mobile device to the
+
+   remote controller using a USB cable.
+3. Plug one end of the cable into the mobile device, and the other end into the USB port on the back of
+
+   the remote controller.
+Phantom 3 Professional User Manual
+
+                                      -·[1]~---------------                               [1] GPS
+                                                                                          [2] Propeller
+  =~~~~b====s~::::o-""--"""--- -- [2]                                                     [3] Motor
+                                                                                     [3]  [4] Front LED Indicator
+                                                      ------------ [4]                    [5] Landing gear
+r:·                                                                                       [6] Gimbal and Camera
+                                                                                          [7] Aircraft Micro-USB Port
+t';                                                                                       [8] Aircraft Status Indicator
+                                                                                          [9] Intelligent Flight Battery
+tC.J-----·---·---                   .. - - -- ------- [5]                                 [10] Vision Positioning Sensors
+                                                                                          [11] Antennas
+                                    ·------------ [10]                                    [12] Camera Micro-SO Card Slot
+                                                                                          [13] Camera Micro-USB Port
+                                    ·- --------------- [12]                               [14] Link Button
+
+[8] ___ -                                            --- [3]                              [1) Antennas
+[7] -----                                                -·-[4]                               Relays aircraft control and
+                                                                                              video signal.
+[6] ----                            - - - - - - - - [5]
+                                                                                          [2) Mobile Device Holder
+                                                                                              Securely mounts your mobile
+                                                                                              device to the remote controller.
+
+                                                                                          [3] Control Stick
+                                                                                              Controls the orientation and
+                                                                                             movement of the aircraft.
+
+                                                                                          [4) Return Home (RTH) Button
+                                                                                              Press and hold the button to
+                                                                                              initiate Return to Home (RTH).
+[5] Battery Level LEDs                               Phantom 3 Professional User Manual
+    Displays the battery level of the remote
+    controller.                                                [15] [16]
+
+[6] Status LED
+    Displays the remote controller's system status.
+
+[7] Power Button
+    Used to turn the remote controller on and off.
+
+[8] RTH LED
+    Circular LED around the RTH button displays
+    RTHstatus.
+
+[9] Camera Settings Dial                             [14] ---[9]
+                                                     [13] --[10)
+     Turn the dial to adjust camera settings.
+     (Only functions when the remote controller is   [12]
+     connected to a mobile device running the DJI
+     Pilotapp.)                                      [14] Gimbal Dial
+                                                           Use this dial to control the tilt of the gimbal.
+[1 0] Playback Button
+                                                     [15] Mircro-USB Port
+     Playback the captured images or videos.              Connect to a SD card reader to upgrade the
+     (Only functions when the remote controller is        firmware.
+     connected to a mobile device running the DJI
+     Pilotapp.)                                      [16] USB Port
+                                                           Connect to mobile device or to a USB port for
+[11] Shutter Button                                        firmware upgrade.
+
+     Press to take a photo. If burst mode is
+     selected, the set number of photos will be
+     taken with one press.
+
+[12] Flight Mode Switch
+
+     Switch between P-mode, A-mode, and
+     F-mode.
+
+[13] Video Recording Button
+
+     Press to start recording video. Press again to
+     stop recording.
+
+[17] C1 Button                                       [13) -------- -                   -[171
+     Customizable through the DJI Pilot app.
+                                                                      0
+[18] C2 Button
+     Customizable through the DJI Pilot app.
+
+[19] Power Port
+     Connect to the DJI Phantom 3 Charger to
+     charge the battery of the remote controller.
+Aircraft
+
+This section introduces the features of
+the Flight Controller, Vision Positioning
+System, and the Intelligent Flight Battery
+Aircraft
+
+The Phantom 3 Professional's flight controller features several important upgrades, including a new flight
+mode. Safety modes include Failsafe and Return-to-Home. These features ensure the safe return of your
+aircraft if the control signal is lost. The flight controller can also save critical flight data from each flight
+to the on-board storage device. The new flight controller also provides increased stability and a new air
+braking feature.
+
+Three flight modes are available. The details of each flight mode are found below:
+P-mode (Positioning) : P-mode works best when GPS signal is strong. There are three different states
+of P-mode, which will be automatically selected by the Phantom 3 Professional depending on signal
+strength of GPS and Vision Positioning sensors :
+
+     P-GPS: GPS and Vision Positioning both are available. The aircraft is using GPS for positioning.
+     P-OPTI: Vision Positioning is available but the GPS signal strength is not sufficient. The aircraft is
+
+               using only the Vision Positioning System for positioning.
+     P-ATII: Neither GPS nor Vision Positioning is available. The aircraft is using only its barometer for
+
+               positioning, so only altitude can be stabilized.
+A-mode (Attitude): GPS and Vision Positioning System are not used for stabilization. The aircraft only uses
+its barometer. The aircraft can still automatically return to the home point if the control signal is lost and
+the Home Point was recorded successfully.
+F-mode (Function): Intelligent Orientation Control (IOC) is activated in this mode. For more information
+about IOC, refer to the IOC section in the Appendix.
+
+ '(): Use the Flight Controller mode switch to change the flight mode of the aircraft, refer to the "Flight
+         Mode Switch" on Page 26 for more information.
+
+The Phantom 3 Professional has Front LEOs and Aircraft Status Indicators. The positions of these LEOs
+are shown in the figure below:
+
+           Aircraft Status Indicator
+
+Front LED
+
+The Front LEOs show the orientation of the aircraft. The Front LEOs glow solid red when the aircraft is
+turned on to indicate the front (or nose) of the aircraft. The Aircraft Status Indicators communicate the
+system status of the flight controller. Refer to the table below for more information about the Aircraft Status
+Indicators:
+Phantom 3 Professional User Manual
+
+·J~ormal                                                 Turning On and Self Diagnostic Testing
+
+ ·R· 'G· .y ······ Red, Green and Yellow Flash           Warming Up
+ Alternatively                                           Safe to Ry (P-mode with GPS and Vision
+ \i:4· ('('; ······ Green and Yellow Rash Alternatively  Positioning)
+                                                         Safe to Fly (P-mode with Vision Positioning but
+ G ······Green Rashes Slowly                             wlthoutGPS)
+                                                         Safe to Fly (A-mode but No GPS and Vision
+ ·drX2 ······Green Rashes Twice                          Positioning)
+
+ x ·.. ·.. Yellow Rashes Slowly                          Remote Controller's Signal Lost
+                                                         Low Battery Warning
+Warning                                                  Critical Battery Warning
+                                                         IMU Error
+ ·Y: ...... Fast Yellow Rashing                          Critical Error
+                                                         Compass Calibration Required
+ '·~' ······Slow Red Flashing
+ ·Fl ····· ·Fast Red Rashing
+ .\R· ······Red Flashing Alternatively
+  R· -Solid Red
+
+·iF(! ;yy ······Red and Yellow Rash Alternatively
+
+The Return-to-Horne (RTH) function brings the aircraft back to the last recorded Horne Point. There are
+three types of RTH procedures: Smart RTH, Low Battery RTH, and Failsafe RTH. This section describes
+these three scenarios in detail.
+
+            GPS Description
+
+Home Point                          If a strong GPS signal was acquired before takeoff, the Horne Point
+
+                                    is the location from which the aircraft was launched. The GPS signal
+
+                                    strength is indicated by the GPS icon ( ~.u, ). The aircraft status
+
+                                    indicator will blink rapidly when the horne point is recorded.
+
+Use the RTH button on the remote controller (refer to "RTH button" on page 26 for more information) or
+tap the RTH button in the DJI Pilot app and follow the on-screen instructions when GPS is available to ini-
+tiate Smart RTH. The aircraft will then automatically return to the last recorded Horne Point. You may use
+the remote controller's control sticks to control the aircraft's position to avoid a collision during the Smart
+RTH process. Press and hold the Smart RTH button once to start the process, and press the Smart RTH
+button again to terminate the procedure and regain full control of the aircraft.
+
+-~--
+                                                                    Phantom 3 Professional User Manual
+
+The low battery level failsafe is triggered when the DJI Intelligent Flight Battery is depleted to a point that
+may affect the safe return of the aircraft. Users are advised to return home or land the aircraft immediately
+when prompted. The DJI Pilot app will display a notice when a low battery warning is triggered. The
+aircraft will automatically return to the Horne Point if no action is taken after a ten-second countdown. The
+user can cancel the RTH procedure by pressing the RTH button on the remote controller. The thresholds
+for these warnings are automatically determined based on the aircraft's current altitude and distance from
+the Home Point.
+
+The aircraft will land automatically if the current battery level can only support the aircraft long enough
+to descend from its current altitude. The user can still use the remote controller to alter the aircraft's
+orientation during the landing process.
+
+The Battery Level Indicator is displayed in the DJI Pilot app, and is described below:
+
+               Critical Low battery level       Sufflclent battery
+               warning(Red)                     level( Green)
+
+                j _ T .Low batter/                                  Remaining flight time
+                                     level warn>!(YeUow)
+                                                                        1
+
+                                           Power requires
+                                           to return horne
+
+                                           Battery level Indicator
+
+eattery Level.  Remark                     Aircraft Status          DJI Pilot app             Flight Instructions
+                                             Indicator
+  Wsrning
+
+Low battery     The battery                Aircraft status   Tap "Go-home" to have the        Fly the aircraft
+level warning   power is low.              indicator blinks  aircraft return to the Home      back and land
+                Please land the            RED slowly.       point and land automatically,    it as soon as
+                aircraft.                                    or "Cancel" to resune normal     possible, then
+                                                             flight. If no action is taken,   stop the motors
+                                                             the aircraft will automatically  and replace the
+                                                             go home and land after 10        battery.
+                                                             seconds. Remote controller
+                                                             will sound an alarm.
+
+Critical Low    The aircraft               Aircraft status   The DJI Pilot app display will   Allow the aircraft to
+battery level   must land                  indicator blinks  flash red and the aircraft will  descend and land
+warning         immediately.               RED quickly.      start to descend. The remote     automatically.
+                                                             controller will sound an alarm.
+Estimated
+remaining       Estimated                  N/A                      N!A                       N/A
+flight time     remaining flight
+                based on current
+                battery level.
+Phantom 3 Professional User Manual
+
+ :\;/: · When Critical battery level warning is triggered and the aircraft begins to land automatically,
+          you may push the throttle upward to make the aircraft hover at its current altitude, giving you an
+         opportunity to navigate to a more appropriate landing location.
+
+        · The colored zones and markers on the battery level indicator bar reflect the estimated
+          remaining flight time. They are automatically adjusted according to the aircraft's current location
+          and status.
+
+If the Home Point was successfully recorded and the compass is functioning normally, Failsafe RTH will
+be automatically activated if the remote controller signal is lost for more than three seconds. The Return-
+to-Horne process may be interrupted and the operator may regain control of the aircraft if the remote
+controller signal connection is re-established.
+
+Failsafe Illustration               2 Confirming Home Point         3 Remote Controller Signal Lost
+1 Record Horne Point                                  ~~ollll
+
+                                    @
+
+Blinking Green                      Blinking Green                  Fast Blinking Yellow
+
+4 Signal Lost Lasts (after 3 sec.)  5 RTH (adi.Jstable altitlK:Ie)  J6 Lardrg (after l'x:lvetirg for 5 sees) J
+
+Fast Blinking Yellow                                                r;xJ  T... '
+                                                                             @
+
+                                    Fast Blinking Y!J-'IIo'-w________ Fast Blinking Yellow
+
+,&. · The aircraft cannot avoid obstruction during the Failsafe RTH, therefore, it is important to set an
+
+         suitable Failsafe altitude before each flight. Launch the DJI Pilot app and enter "Camera" and
+         select "MODE > Advanced Settings > Failsafe mode" to set the Failsafe altitude.
+       · The aircraft will stop its ascent and return to the Horne Point immediately if the throttle stick is
+         moved during the Failsafe RTH procedure.
+
+The DJI Vision Positioning System uses ultrasound and image data to help the aircraft maintain its current
+position. With the help of Vision Positioning, your Phantom 3 Professional can hover in place more precisely
+and fly indoors or in other environments where a GPS signal is not available. The main components of the
+Vision Positioning System are located on the bottom of your Phantom 3 Professional; they include [2] two
+ultrasonic sensors and [1] one monocular camera.
+                                                                                                Phantom 3 Professional User Manual
+
+Using Vision Positioning
+Vision Positioning is activated automatically when the Phantom 3 Professional is turned on. No
+further action is required. Vision Positioning is typically used in indoor environments, where GPS
+is unavailable. Using the sensors that are built into the Vision Positioning system, the Phantom 3
+Professional can hover precisely even without GPS.
+
+Follow the steps below to use Vision Positioning:                                           e
+
+1. Toggle the flight mode switch toP-mode.                                                    '·'
+
+2. Place the aircraft on a flat surface. Note that the Vision Positioning system cannot work
+
+properly on surfaces without clear pattern variations.
+
+3. Turn on the aircraft. The aircraft status indicator will flash green two times, which indicates the Vision
+
+Positioning system is ready. Gently push the throttle up to lift off and the aircraft will hover in place.
+
+& The performance of your Vision Positioning System is affected by the surface over which it is
+
+       flying. The ultrasonic sensors may not be able to accurately measure distances when operating
+       above sound-absorbing materials. In addition, the camera may not function correctly in
+       suboptimai environments. The aircraft will switch from P-mode to A-mode automatically if neither
+       GPS nor Vision Positioning System are available. Operate the aircraft with great caution in the
+       following situations:
+       · Flying over monochrome surfaces (e.g. pure black, pure white, pure red, pure green).
+       · Flying over a highly reflective surfaces.
+       · Rying at high speeds(over 8 m/s at 2 meters or over 4 rn's at 1 meter).
+       · Flying over water or transparent surfaces.
+       · Rying over moving surfaces or objects.
+       · Flying in an area where the lighting changes frequently or drastically.
+       · Flying over extremely dark (lux< 10) or bright (lux> 100,000) surfaces.
+       · Flying over surfaces that can absorb sound waves (e.g. thick carpet).
+       · Flying over surfaces without clear patterns or texture.
+       · Flying over surfaces with identical repeating patterns or textures (e.g. tiles with the same design).
+       · Flying over inclined surfaces that will deflect sound waves away from the aircraft.
+
+'\}: · Keep the sensors clean at all times. Dirt or other debris may adversely affect the effectiveness
+         of the sensors.
+
+       · Vision Positioning is only effective when the aircraft is at altitudes of 0.3 to 3 meters.
+       · The Vision Positioning System may not function properly when the aircraft is flying over water.
+       · The Vision Positioning System may not be able to recognize pattern on the ground in low light
+
+          conditions (less than 100 lux).
+       · Do not use other ultrasonic devices with frequency of 40 KHz when Vision Positioning system is
+
+          in operation.
+       · Vision Positioning System may not be able to stabilize the aircraft when flying close to the
+
+          ground (below 0.5 meters) at fast speeds..
+Phantom 3 Professional User Manual
+
+0 Keep the animals away from the aircraft when Vision Positioning system is activated. The sonar
+
+        sensor emits high frequency sounds that are only audible to some animals.
+
+Flight data is automatically recorded to the internal storage of the aircraft. This includes flight
+telemetry, aircraft status information, and other parameters. To access these data, connect the
+aircraft to the PC through the Micro-USB port and launch the DJI Pilot app.
+
+Use only DJI approved propellers with your Phantom 3 Professional. The grey and black nuts on
+the propeller indicate where they should be attached and in which direction whey should spin. To
+attach the propellers properly, match the nut color with the motor axis color.
+
+Propellers  Silver Dot               Blaf::k Dot
+
+Figure      Motors with a grey axes  Motors with a black axes
+Attach On
+            El'l Lock : Turn the propellers in the indicated direction to mount and tighten.
+Legends     'b'l Unlock: Turn the propellers in the indicated direction to loosen and remove.
+
+Attaching the Propellers
+
+1. Be sure to remove the warning stickers from the motors before attaching the propellers.
+2. Attach the propellers with silver dots onto the motors with silver axes and spin the propellers clockwise
+
+   to secure them in place. Attach the propellers with black dots onto the motors with black axes and spin
+   the propellers oounter-clockwise to secure them in place. Be sure to tighten each propeller by hand
+   before flight.
+                                                                                               Phantom 3 Professional User Manual
+
+ & ·Ensure propellers are attached to its corresponding motors, otherwise the aircraft cannot take off.
+
+         · Wear gloves when handling propellers.
+         · Hand tighten each of the propellers on the corresponding motors to ensure it is attached firmly.
+
+Detaching the Propellers
+
+Hold the motor in place with one hand, then spin the propeller in the indicated unlock direction.
+
+ & · Check that the propellers and motors are installed correctly and firmly before every flight.
+
+         · Ensure that all propellers are in good condition before each flight. DO NOT use aged, chipped,
+           or broken propellers.
+
+         · To avoid injury, STAND CLEAR of and DO NOTtouch propellers or motors when they are spinning.
+         · ONLY use original DJI propellers for a better and safer flight experience.
+
+The DJI Intelligent Flight Battery has a capacity of 4480 mAh, a voltage of 15.2 V, and a smart charge/
+discharge functionality. It should only be charged using an appropriate charger that has been approved
+byDJI.
+
+                                              Intelligent Flrght Battery
+
+         The Intelligent Flight Battery must be fully charged before using it for the first time. Refer to
+         'Charging the Intelligent Right Battery' for more information.
+
+ :·iv'V·. Be aware that the output power of the supplied Phantom 3 Professional charger is 100W.
+
+DJllntelligent Flight Battery Functions
+1. Battery Level Display: the LED indicators display the current battery level.
+2. Battery Life Display: the LEDs display the current battery power cycle.
+3. Auto-Discharging Function: To prevent swelling, the battery automatically discharges to below 65% of
+
+   total power when it is idle for more than ten days. It takes around two days to discharge the battery to
+   65%. It is normal to feel moderate heat being emitted from the battery during the discharge process.
+   Discharge thresholds can be set in the DJI Piiot app.
+4. Balanced Charging: Automatically balances the voltage of each battery cell when charging.
+5. Overcharge Protection: Charging automatically stops when the battery is fully charged.
+6. Temperature Detection: The battery will only charge when the temperature is between OOC (32°F} and
+   400C (104°F).
+7. Over Current Protection: The battery stops charging when high amperage (more than 8 A) is detected.
+8. Over Discharge Protection: To prevent over-discharge damage, discharging automatically stops when
+   the battery voltage reaches 12 V.
+9. Short Circuit Protection: Automatically cuts the power supply when a short circuit is detected.
+       Phantom 3 Professional User Manual
+
+       10. Battery Cell Damage Protection: The DJI Pilot app displays a warning message when a damaged
+            battery cell is detected.
+
+       11. Battery Error History: Browse the battery error history in the DJI Pilot app.
+       12. Sleep Mode: To save power, the battery enters sleep mode after 20 minutes of inactivity.
+       13. Communication: Information pertaining to the battery's voltage, capacity, current, etc. is transmitted to
+
+           the aircraft's main controller.
+
+     & Refer to Phantom 3 Professional/Advanced Intelligent Right Battery Safety Guidelines before
+
+               use. Users take full responsibiHty for all operations and usage.
+
+a·)> Using the Battery
+
+~
+
+                                                                                                  Power Button (Buiit-in LED)
+
+      Turning ON/OFF
+      Turning On: Press the Power Button once, then press again and hold for 2 seconds to turn on. The
+
+                       Power LED will turn red and the Battery Level Indicators will display the current battery level.
+      Turning Off: Press the Power Button once, then press again and hold for 2 seconds to turn off. The
+
+                       battery power LED will flash when powering off the Phantom to allow automatically stopping
+                      of a recording during the event recording wasn't stopped.
+
+      Low Temperature Notice:
+      1. Battery capacity is significantly reduced when flying in low temperature (< 0°C) environments.
+      2. It is not recommended that the battery be used in extremely low temperature (< -1 0°C) environments.
+
+          Battery voltage should reach the appropriate level when operating environment with temperatures
+
+       between -1 ooc and 5°C.
+
+      3. End the flight as soon as the DJI Pilot app displays the "Low Battery Level Warning" in low temperature
+          environments.
+
+      4. Keep the battery indoors to warm it before flying in low temperature environments.
+      5. To ensure optimal performance of the battery, keep the battery temperature above 20°C.
+      6. The charger will stop charging the battery if the battery cell's temperature is not within the operating
+
+          range (OOC - 40°C ).
+
+     & In cold environments, insert the battery into the battery compartment and allow the aircraft for
+
+               approximately 1-2 minutes to warm up before taking off.
+
+      Checking the Battery Level
+      The Battery Level Indicators display how much power remains. When the battery is turned off, press
+      the Power Button once. The Battery Level Indicators will light up to display the current battery level. See
+      below for details.
+                                                Phantom 3 Professional User Manual
+
+EEl The Battery Level Indicators will also show the current battery level during charging and
+
+discharging. The indicators are defined below.
+
+0 :LED is on.        D:LED is flashing.
+0 :LED is off.
+
+Battery level
+
+LE01           LE02  LEOS  LE04                 Battery Level
+                                                87.5%-100%
+0000                                            75%-87.5%
+                                                62.5%-75%
+0 0 0 11                                        50%-62.5%
+                                                37.5%-50%
+0000                                            25%-37.5%
+                                                12.5%-25%
+0 0 ill 0                                        0%-12.5%
+
+00 00                                                =()%
+
+0 Jl                 00
+
+00 00
+
+11 0 0 0
+
+00 00
+
+Battery life
+
+Battery life refers to how many more times the battery can be discharged and recharged before it must
+be replaced. When the battery is turned off, press and hold the Power Button for 5 seconds to check the
+battery life. The Battery Level Indicators will light up and/or blink for two seconds, as shown below:
+
+Battery Life
+
+LE01           LE02  LEOS  LE04                 Battery Ufe
+                                                90%-100%
+0000                                            80%-90%
+                                                70%-80%
+0 0 0 nr                                        80%-70%
+                                                50%-60%
+0000                                            40%-50%
+                                                30%-40%
+0 0 ~:a 0                                       20%-30%
+                                                below20%
+0000
+
+0n0 0
+
+00 0 0
+
+n0 0 0
+
+0000
+
+Lt When battery life reaches 0%, it can no longer be used.
+
+EEl For more information about the battery, launch the OJI Pilot app and check the information that is
+
+       listed under the battery tab.
+Phantom 3 Professional User Manual
+
+Charging the Intelligent Right Battery
+1. Connect the Battery Charger to a power source (1 00-240 V 50/60 Hz).
+2. Open the Protection Cap and connect the Intelligent Right Battery to the Battery Charger. If the battery
+
+   level is above 95%, turn on the battery before charging.
+3. The Battery Level indicator will display the current battery level as it is charging.
+4. The Intelligent Flight Battery is fully charged when the Battery Level Indicators are all off.
+5. Air-cool the Intelligent Flight Battery after each flight. Allow its temperature to drop to room temperature
+
+  before storing it for an extended period.
+
+ .1}. · We do not recommend charging the Intelligent Flight Battery and remote controller with the
+         standard charger at the same time, otherwise the charger may overheat.
+
+        · Always turn off the battery before inserting it or removing it from the Phantom 3 Professional.
+           Never insert or remcve a battery when it is turned on.
+
+      Intelligent Flight Battery                Charger           Power Outlet
+
+Battery Level Indicators While Charging
+
+LED1        LED2                  LED3    LED4                    Battery Level
+no o                                                                0%-25%
+n :a                              o        0                       25%-50%
+:ri n n                                                             50%-75%
+'li' ,)'[ !i'                              0                       75%-100%
+
+~~ ~ ~                                     0                      Fully Charged
+
+0 00                                      n
+
+                                            0
+
+Battery Protection LED Display
+The table below shows battery protection mechanisms and corresponding LED patterns.
+
+Battery Level Indicators whilE! Charging
+
+LED1  LED2  LED3  LED4 Blinking Pattern                           Battery Protection Item
+
+ 0     u     0                    0 LED2 blinks twice per second  Over current detected
+ 0           0
+ 0    n                           0 LED2 blinks three times per second Short circuit detected
+ 0          u
+ 0     0                          0 LED3 blinks twice per second  Over charge detected.
+ 0           u
+       0                          0 LED3 blinks three times per second Over-voltage charger detected
+             0
+       0     0                    n LED4 blinks twice per second  Charging temperature is too low
+
+       0                          n LED4 blinks three times per second Charging temperature is too high
+                                                                                     Phantom 3 Professional User Manual
+
+After these issues are resolved, press the Power Button to tum off the Battery Level Indicator. Unplug the
+Intelligent Right Battery from the charger and plug it back in to resume charging. Note that you do not
+need to unplug and plug in the charger in the event of a roorn temperature error; the charger will resume
+charging when the temperature is within the allowable range.
+
+ & DJI does not take any responsibility for damage caused by third-party chargers.
+
+ '~' How to discharge your Intelligent Flight Battery:
+        Slow : Place the Intelligent Right Battery into the Phantom 3 Professional's Battery Compartment
+        and tum it on. Leave it on until there is less than 8% of power left, or until the battery can no
+        longer be turned on. Launch the DJI Pilot app to check battery levels.
+        Rapid : Fly the Phantom 3 Professional outdoors until there is less than 8% of power left, or until
+        the battery can no longer be turned on.
+Remote Controller
+
+This section describes the features
+of the remote controller and includes
+instructions for controlling the aircraft
+and the camera.
+Remote Controller
+
+··a~~~::p~~~~t~r:~r:~~~1.·~··.
+
+The Phantom 3 Professional remote controller is a multi-function wireless communication device that
+integrates the video downlink system and aircraft remote control system. The video downlink and aircraft
+remote control system operate at 2.4 GHz. The remote controller features a number of camera control
+functions, such as taking and previewing photos and videos, as well as controlling gimbal motion.
+The remote controller is powered by a 2S rechargeable battery. The battery level is displayed via LED
+indicators on the front panel of the remote controller.
+
+~    · Compliance Version: The remote controller is compliant with both CE and FCC regulations.
+q;J
+
+     · Operating Mode: Control can be set to Mode 1or Mode 2, or to a custom mode.
+
+     · Mode 1: The right stick serves as the throttle.
+
+     · Mode 2: The left stick serves as the throttle.
+
+ & To prevent transmission interference, do not operate more than three aircrafts in the same area.
+
+··u~Jhs)t,fl~;·~~~f~:~Q~·~bt~.········.
+
+Turning the Remote Controller On and Off
+The Phantom 3 Professional remote controller is powered by a 2S rechargeable battery that has a
+capacity of 6000 mAh. The battery level is indicated via the Battery Level LEOs on the front panel. Follow
+the steps below to turn on your remote controller:
+1. When the remote controller is turned off, press the Power Button once. The Battery Level LEOs will
+
+   display the current battery level.
+2. Press and hold the Power Button to turn on the remote controller.
+3. The remote controller will beep when it is turned on. The Status LED will rapidly blink green, indicating
+
+   that the remote controller is linking to the aircraft. The Status LEOs will glow solid green when linking is
+   complete.
+4. Repeat Step 2 to turn off the remote controller.
+
+Charging the Remote Controller
+
+Charge the remote controller using the included charger. Refer to the figure on next page below for more
+details.
+Phantom 3 Professional User Manual
+
+            Power Button
+
+Controlling the Camera
+Shoot videos/pictures, view recorded images, and adjust camera settings via the Shutter Button, Camera
+Settings Dial, Playback Button, and Video Recording Button on the remote controller.
+
+[1] Camera Settings Dial
+    Tum the dial to adjust camera settings such as ISO, shutter speed, and aperture without letting go of
+    the remote controller. Move the dial to left or right to scroll through pictures and videos in playback
+    mode. Press down on the dial to toggle between these settings.
+
+[2] Playback Button
+    Press to view images and videos that have already been captured.
+
+[3] Shutter Button
+    Press to take a photo. If burst mode is activated, multiple photos will be taken with a single press.
+
+[4] Video Recoding Button
+    Press once to start recording video, then press again to stop recording.
+
+[5] Gimbal Dial
+    Use this dial to control the tilt of the gimbal.
+
+Controlling Aircraft
+This section explains how to control the orientation of the aircraft through the remote controller. The
+Remote Control is set to Mode 2 by default.
+                      Phantom 3 Professional User lvlanual
+
+Eel Stick Neutral/Mid-Point: Control sticks are in the center position.
+
+       Moving the Control Stick: The control stick is pushed away from the center position.
+
+~~ (!$lndicate~1:: 0-irectiO-~~~~ark-s____
+
+___ - ~------------~ving thel;ft stic~p-and down ch~ges th;
+
+    I aircraft's elevation.
+
+    I Push the stick up to ascend and down to descend.
+    I When both sticks are centered, the Phantom 3
+    I , Professional will hover in place.
+
+                                 IThe rmre the stick is pushed away from the center
+
+                          Iposition, the faster the Phantom 3 Professional will
+
+                              Ichange elevation. Always push the stick gently
+
+                    to prevent sudden and unexpected elevation
+
+                                                   changes.
+
+       I - - - -1
+
+    ---,---·--------~.
+
+       i! Moving the left stick to the left or right controls the
+    !~         ~
+                    1 rudder and rotation of the aircraft.
+    I          ~'t  II Push the sick left to rotate the aircraft counter-
+                     clockwise, push the stick right to rotate the aircraft
+    I clockwise. If the stick is centered, the Phantom 3
+    I IProfessional will maintain its current orientation.
+    I IThe more the stick is pushed away from the center
+    1 Iposition, the faster the Phantom 3 Professional will
+
+______j             .-l!ota_te_._ _ _ _ _ _ _ _ _ _ __
+
+    1[ 1Moving the right stick up and down changes the
+1:~ IIiI-~----,-,--·
+    I '*'~~         aircraft's forward and backward pitch.
+                    Push the stick up to fly forward and down to fly
+
+    1¢         · backward. Phantom 3 Professional will hover in
+
+    I                Iplace if the stick is centered.
+
+                           Push the stick further aw~ from the center posttion for
+
+                                                 a larger pttch angle (maximum 30°) and faster flight.
+
+         -- ·----ir-M-o-ving th~rlgh~iick control left and right changes
+
+    , f the aircraft's left and right pitch.
+
+    ! 1Push left to fly left and right to fly right. The
+
+-!;;ci-~--~--.--------~:i:~:lc:~::~~:rn th;~~;.-[ . IPhantom 3 Professional will hover in place if the
+~ the dial to                                                                                an;-the-
+
+y- I l1l1l ·1 camera will shift to point upwards. Turn the
+l~
+    J       (       1dial to the left, and the camera will shift to point
+                    I downwards. The camera will remain In its current
+  ~I
+------'~--          Iposition when dial is static. _ _ _ _ _ _ __
+     Phantom 3 Professional User Manual
+
+     Flight Mode Switch                                            Position1~
+
+     Toggle the switch to select the desired flight mode.
+     You may choose between; P-mode, F-mode and A-
+     mode.
+
+     Position Figur~     Flight Mode                               Position2g --·---
+                                                                   Position3~
+     Position 1 C:.:::0    F-mode
+     Position2 Gb          A-mode
+                           P-mode
+     Position3 ~
+
+::0
+Cll
+     P-mode (Positioning): P-mode works best when the GPS signal is strong. There are three different
+g3   versions of P-mode, which will be automatically selected by the Phantom 3 Professional depending on
+
+CD
+
+() GPS signal strength and the Vision Positioning sensors:
+
+;0a P-GPS: GPS and Vision Positioning both are available; the aircraft is using GPS for positioning.
+
+Q. P-OPTI: Vision Positioning is available but a sufficient GPS signal is not available. Aircraft is using
+
+~ only Vision Positioning for position holding.
+
+     P-ATTI: Neither GPS nor Vision Positioning is available, the aircraft is using only its barometer for
+
+     positioning, so only altitude is maintained.
+
+     A-mode (Attitude): GPS and Vision Positioning System are not used for stabilization. The aircraft uses
+
+     only its barometer to stabilize. The aircraft can automatically return to the Home Point if remote controller
+
+     signal is lost and the Home Point was recorded successfully.
+
+     F-mode (Function): Intelligent Orientation Control (IOC) is activated in this mode. For more information
+
+     about IOC, refer to the IOC section in the Appendix.
+
+     By default, the Flight Mode Switch is locked to P-mode. To unlock other flight modes, launch the OJI Pilot
+
+     app, enter the "Camera" page, and tap "Mode", then activate "Multiple Flight Mode".
+
+     RTHButton
+     Press and hold the RTH button to start the Return-to-Home (RTH) procedure. The LED ring around the RTH
+     Button will blink white to indicate that the aircraft is entering RTH mode. The aircraft will then return to the
+     last recorded Home Point. Press this button again to cancel the RTH procedure and regain control of the
+     aircraft.
+                                                                                   Phantom 3 Professional User Manual
+
+Connecting Your Mobile Device
+Tilt the mobile device holder to the desired position. Press the button on the side of the mobile device holder
+to release the clamp, and then place your mobile device into the cradle. Adjust the clamp down to secure the
+mobile device. To connect your mobile device to the remote oontroller using a USB cable, plug one end of
+the cable into your mobile device and the other end into the USB port on the back of the remote controller.
+
+Optimal Transmission Range
+The transmission signal between the aircraft and the remote oontroller is most reliable within the area that
+is depicted in the image below:
+
+                                          Optimal Transmission Range
+
+strong  weak
+
+Ensure that the aircraft is flying within the optimal transmission zone. To achieve the best transmission
+performance, maintain the appropriate relationship between the operator and the aircraft.
+
+The Status LED reflects the strength of the connection between the remote controller and the aircraft. The
+RTH LED indicates the Return-to-Home status of the aircraft. The table below contains more information
+about these indicators.
+
+                                              ~ ·- - - RTH LED
+
+        Status LED -·---·---- - - - · · ····
+Phantom 3 Professional User Manual
+
+Status LED                           Alarm    Remote Controller Status
+·R -Solid Red                                 The remote controller is disconnected from the aircraft
+·~ -Solid Green                      I Chime  The remote controller is connected to the aircraft.
+                                     1 Chime
+
+R .... ··Slow Blinking Red 0-D-0......        Remote controller error.
+
+cj:{ ·G: {iP.; iy\ ......            None     HO downlink is disrupted.
+Red and Green/ Red and
+Yellow Alternate Blinks              Sound    Remote Controller Status
+                                              Aircraft is returning horne.
+RTH LED                              I Chime  Sending Return-to-Home command to the aircraft.
+                                              Return-to-Home procedure in progress.
+iN -Solid White
+
+,~, ...... Blinking White            Ooo·
+
+w ...... Blinking White              00"""
+
+& The Remote Status Indicator will blink red arid sound an alert, when the battery level is critically low.
+
+~i!11d1'li~~;~~J!l?t~;~n~oli~r· ,. . . · .,... ;t·.··· · . , ..
+
+The remote controller is linked to your aircraft before delivery. Linking Is only required when using a new
+remote controller for the first time. Follow these steps to link a new remote controller:
+
+1. Turn on the remote controller and connect to the mobile device. Launch the OJI Pilot app.
+2. Turn on the Intelligent Flight Battery.
+
+3. Enter "Camera" arid tap on Ill' ,1111 and then tap "Linking RC" button as shown below.
+
+                           RC Calibration     >
+                           Stick Mode         >
+
+                 Default stick mode is Mode 2, changing stick modes alters the way the aircraft is controlled.
+                 Do not change unless familiar with your new mode.
+
+                           C1 1~--~N~o~t~De~fi~tn~ed~--~ C2 1'-----'N-"o"'t-=D,;;.efi"'tn;,:;e,;;.d__--'
+
+                                              You can customize the C1 and C2 buttons on the back
+                                              oftheRC.
+
+28 ''i!';DJ; '··!\1-hj~·<:- F';c·''
+                                                                                               Phantom 3 Professional User Manual
+
+4. The remote controller is ready to link. The Remote Controller Status Indicator blinks blue and a beep is
+   emitted.
+
+RC Calibration                                                              >
+
+ Stick Mode                  Searching lor akcralt frequency,                  >
+                                  timeout in 54 seconds
+DetauIt stick mode is M                                            the aircraft is control!ed.
+Donot change unless f    Press the linking button on the aircraft
+                               to link this remote controller      Defined  J
+C1 I NotD
+                                      Cancel
+
+                         You can customize the C1 and C2 buttons on the back
+                         of the RC.
+
+5. Locate the linking button on the side of the aircraft, as shown in the figure below. Press the link button
+   to start linking. The Remote Controller Status Indicator LED will display a solid green once the remote
+   controller is successfully linked to the aircraft.
+
+                                                                                                                          Link Button
+
+Lt. · The remote controller will un-link itself from an aircraft if a new remote controller is linked to the
+
+           same aircraft.
+
+a~~bi o9.titrolJ~COt1'll)tJ~)l~r$i~r:r
+
+The remote controller is compliant with both CE and FCC requirements.
+Camera and Gimbal
+
+This section provides the technical
+specifications of the camera and
+explains the gimbal's operation modes.
+Camera and Gimbal
+
+The on-board camera uses the 1/2.3 inch CMOS sensorto capture video (up to 4096x2160p at 24fps or
+4K at up to 30fps with the Phantom 3 Professional) and 12 megapixel stills. You may choose to record
+the video in either MOV or MP4 format. Available picture shooting modes include burst, continuous, and
+time-lapse mode. A live preview of what the camera sees can be monitored on the connected mobile
+device via the DJI Pilot app.
+Camera Micro-SO Card Slot
+To store your photos and videos, insert the Micro-SO card into the slot, as shown below, before
+turning on the Phantom 3 Professional. The Phantom 3 Professional comes with a 16 GB Micro-SO
+card and supports Micro-SO cards up to 64GB. A UHS-1 Micro-SO card is recommended due to
+their fast read and write speeds allowing you to save high-resolution video data.
+
+ 0 Do not remove the Micro-SO card from the Phantom 3 Professional when it is turned on.
+
+Camera Data Port
+Turn on the Phantom 3 Professional and connect a USB cable to the Camera Data Port to download
+photos and videos to your computer.
+
+                                        . ----
+
+ Lb. The aircraft must be turned on before attempting to access the files on the Micro-SO card.
+Phantom 3 Professional User Manual
+Camera Operation
+Use the Shutter and Video Recording buttons on the remote controller to shoot the images or videos
+through the DJI Pilot app. For more information about how to use these buttons, refer to "Controlling the
+Camera Page 24".
+
+Gimbal Profile
+The 3-axis gimbal provides a steady platform for the attached camera, allowing you to capture clear,
+stable images and video. The gimbal can tilt the camera within a 120· range.
+
+Use the gimbal dial on the remote controller to control the tilt movement of the camera.
+Gimbal Operation Modes
+Two gimbal operation modes are available. Switch between the different operation modes on the camera
+settings page of the DJI Pilot app. Note that your mobile device must be connected to the remote
+controller for changes to take effect. Refer to the table below for details:
+
+                  Follow Mode The angle between gimbal's orientation and aircraft's nose remains
+                                    constant at all times.
+                                    The gimbal will synchronize with the movement of the aircraft to provide a
+
+                   FPVMode first-person perspective flying experience.
+
+ Lf:, · A gimbal motor error may occur in these situations: (1) the aircraft is placed on uneven ground
+
+           or the gimbal's motion is obstructed (2) the gimbal has been subjected to an excessive
+           external force, such as a collision. Please take off from flat, open ground and protect the gimbal
+           at all times.
+         · Flying in heavy fog or clouds may make the gimbal wet, leading to temporary failure. The
+           gimbal will recover full functionality after it dries.
+                                                                                               Phantom 3 Professional User Manual
+
+Anti-Drop Kit
+The anti-drop kit helps keep the gimbal and camera connected to the aircraft. Two pins have been
+mounted prior to shipping. If new or additional pins are required, see the diagram below. Press Part
+
+(j) through the hole of the vibration absorber and into the center hole of Part ® , then lock them together
+
+as shown®. Mounting the anti-drop kit pins diagonally from each other is recommended.
+DJIPilotApp
+
+This section introduces the four main
+functions of the DJI Pilot app.
+DJIPilotApp
+
+The DJI Pilot app is a mobile application designed specifically for the Phantom 3 Professional. Use this
+app to control the gimbal, camera, and other aircraft functions. The app also features Map, Academy,
+and User Center, which are used for configuring your aircraft and sharing your photos and videos with
+others. It is recommended that you use a tablet for the best experience.
+
+United States
+
+Mountain View
+
+               DIRECTOR             DISCOVERY
+
+The Camera page contains a live HD video feed from the Phantom 3 Professional's camera. You can also
+configure various camera parameters from the Camera page.
+
+                         [5] [6]               [8]
+                          .! I!
+                                                 I
+
+[15]--@                                        .~""
+
+                                               ··· ---[10]
+
+                         [12] [11]
+        Phantom 3 Professional User Manual
+
+      [1) Flight Mode
+          E): The text next to this icon indicates the current flight mode.
+           Tap to configure the MC (Main Controller) Settings. These settings allow you to modify flight limits and
+            set the gain values.
+
+       [2) GPS Signal Strength
+           ~.ul!: This icon shows the current strength of GPS signals. Green bars indicate adequate GPS
+           strength.
+
+       [3) IOC Settings
+
+        t>A CL : This icon displays the IOC setting when the aircraft has entered F-mode. Tap to view the IOC
+
+            settings menu and select the desired IOC setting.
+
+       [4) System Status
+            c~~Fiy(GPS), : This icon indicates the current aircraft system status and GPS signal strength.
+
+~
+::P. [5) Battery Level Indicator
+§: -<>-o ___.,:The battery level indicator provides a dynamic display of the battery level. The colored
+
+-6' zones on the battery level indicator represent the power levels needed to carry out different functions.
+
+"'0
+
+       [6) Remote Controller Signal
+
+       g." ,1111: This icon shows the strength of remote controller's signal.
+
+       [7) HD VIdeo Link Signal Strength
+
+        IJfef ,11ll: This icon shows the strength of the HD video downlink connection between the aircraft and
+
+            the remote controller.
+
+       [8] Battery Level
+
+        f't 1()0%: This icon shows the current battery level.
+
+            Tap to view the battery information menu, set the various battery warning thresholds, and view the
+            battery warning history.
+
+       [9] General Settings
+           :::Tap this icon to view the General Settings page. From this page, you can set flight parameters,
+            reset the camera, enable the quick view feature, adjust the gimbal roll value, and toggle the flight
+            route display.
+
+       [10] Camera Operation Bar
+             Shutter and Recording Settings
+
+          9 : Tap to enter various camera value settings, including color space for the recording, resolution of
+
+            the videos, image size and so on.
+
+             Shutter
+
+      e :Tap this button to take a single photo. Press and hold this button to select single shot, triple shot
+
+             or time-lapsed shooting modes.
+                                                                                                   Phantom 3 Professional User Manual
+
+      Record
+     ~ : Tap once to start recording video, then tap again to stop recording. You can also press the
+      Video Recording Button on the remote controller, which has the same functionaiity.
+
+      Playback
+
+    [f) :Tap to enter the playback page. You can preview photos and videos as soon as they are
+
+      captured.
+
+      Camera Settings
+      ~;: : Tap to set ISO, shutter and auto exposure values of the camera.
+
+[11] Vision Positioning
+
+   g :This icon shows the distance between the surface and the Vision Positioning System's sensors.
+
+[12] Flight Telemetry                                                                                                                  0
+
+                                                                                                                                       c_
+
+      The Vision Positioning Status icon is highlighted when the Vision Positioning is in operation.
+
+      Flight attitude is indicated by the flight attitude icon.
+      (1) The red arrow shows which direction the aircraft is facing.
+      (2) Light blue and dark blue areas indicate pitch.
+      (3} The angle of the boundary between the light blue and dark blue areas indicates the roll angle.
+
+[13] Map
+      Display the flight path of the current flight. Tap to switch from the Camera GUI to the Map GUI.
+
+[14] Retum to Home (RTH)
+
+     Ji) : Initiate RTH home procedure. Tap to have the aircraft return to the last recorded home point.
+
+[15] Auto Takeoff/Landing
+
+   .t..l..!. :Tap to initiate auto takeoff or landing.
+Phantom 3 Professional User Manual
+
+[16] Livestream
+
+      ~ : Livestream icon indicates the current video feed is broadcasting live on YouTube. Be sure the
+     mobile data seNice is available on the mobile device.
+
+[17] Back
+
+    ft :Tap to return to the main GUI.
+
+,_ .  ---
+
+·o·r:EtotQt; · ·
+
+Director is an automatic video editor built into the DJI Pilot app. After recording several video clips, simply
+tap "Director" from the app's home screen. You can then select a template and a specified number of
+clips, which are automatically combined to create a short film that can be shared immediately.
+
+0
+
+'- Tap "Store" to visit the official DJI Online Store to see the latest information about OJI products and easily
+       buy new products.
+
+    ·bi~~~n(·..:;
+
+       Sync pictures and videos to your mobile device, view flight logs, and check your DJI account status in
+       'Discovery'. Use your registered DJI account to login to 'Discovery'.
+Flight
+
+This section describes safe flight
+practices and flight restrictions.
+    Flight
+
+       Once pre-flight preparation is complete, it is recommended that you use the flight simulator in the DJI Pilot
+       app to hone your flight skills and practice flying safely. Ensure that all flights are carried out in an open
+       area.
+
+    ~~li~f1tf3f1\'ffo~m~t~.~~9~it~~~···.··.···
+
+       1. Do not use the aircraft in severe weather conditions. These include wind speeds exceeding 10 m/s ,
+          snow, rain and fog.
+
+       2. Only fly in open areas. Tall structures and large metal structures may affect the accuracy of the on-
+          board compass and GPS system.
+
+       3. Avoid obstacles, crowds, high voltage power lines, trees, and bodies of water.
+       4. Minimize interference by avoiding areas with high levels of electromagnetism, including base stations
+
+          and radio transmission towers.
+       5. Aircraft and battery performance is subject to environmental factors such as air density and
+
+          temperature.Be very careful when flying at altitudes greater than 19, 685 feet (6000 meters) above sea
+
+::n level, as the performance of the battery and aircraft may be affected.
+
+~ 6. The Phantom 3 Professional cannot operate within the polar areas.
+
+    ·.·F;~~~t,OJ1lt~:~f!~J~or:~·¥.:~@!~!~;~~.···
+
+       All unmanned aerial vehicle (UAV) operators should abide by all regulations set forth by government and
+       regulatory agencies including the ICAO and the FAA. For safety reasons, flights are limited by default,
+       which helps users operate this product safely and legally. Flight limitations include height limits, distance
+       limits, and No-Fly Zones.
+       When operating In P-mode, height limits, distance limits, and No-Fly Zones function concurrently to
+       manage flight safety. In A-mode, only height limits are in effect, which by default prevent the aircraft
+       altitude from exceeding 1640 feet (500 m).
+
+       Maximum flight altitude & Radius Limits
+       Maximum flight altitude and radius limits may be changed in the DJI Pilot app. Be aware that the
+       maximum flight altitude cannot exceed 1640 feet (500 meters). In accordance with these settings, your
+       Phantom 3 Professional will fly in a restricted cylinder, as shown below:
+
+Maximum Flight Altitude  Max Radius
+
+                                                  Home Point
+
+                         -Lit--~- Height of a<rcraft
+                                                     when turned on
+                                                                Phantom 3 Professional User Manual
+
+Maximum Flight  FlightUmits                     DJI Pilot app      Aircraft Status lndicat>r
+Altitude
+                Aircraft's altitude cannot      Warning: Height    None.
+Max Radius      exceed the specified value.     limit reached.
+                                                                   Rapid red flashing "
+                Flight distance must be within  Warning: Distance  ...... when close to the
+                the rnax radius.                limit reached.     max radius lirnit.
+
+GPS Signal Weak Y..... ·~inking Yel!l>w
+
+          Flight Limits                  DJI Pilot app             Aircraft Status Indicator
+                                                                   None.
+Maximum   Height is restricted to 400    Warning; Height limit
+Flight    feet. (120m) and under.        reached.
+Altitude
+
+Max Radius No limits
+
+        · If you fly out of the limit, you can still control the Phantom 3, but cannot fly it any father. If the
+ ~ Phantom 3 flies out of the max radius in Ready to Fly (non-GPS) mode, it will fly back within
+
+           range automatically.
+        · If the Phantom 3 flies out of the max radius in Ready to Fly (non-GPS) mode, it will fly back
+          within range automatically.
+
+No-RyZones
+All No-Fly Zones are listed on the DJI official website at http://flysafe.dji.com/no-fly. No-Ry Zones are
+divided into Airports and Restricted Areas. Airports include major airports and flying fields where manned
+aircraft operate at low altitudes. Restricted Areas include border lines between countries or sensitive
+institute. The details of the No-Fly Zones are explained as follow:
+
+Airport
+(1) Airport No-Ry Zone are comprised of Take-off Restricted zones and Restricted Altitude Zones. Each
+
+    zone features circles of various sizes.
+(2) R1 miles (value of the R1 depends on the size and shape of the airport) around the airport is a Take-
+
+    off restricted zone, inside of which take off is prevented.
+(3) From R1 mile to R1 + 1 mile around the airport the flight altitude is limited to a 15 degree inclination.
+
+    Starting at 65 feet (20 meters) from the edge of airport and radiating outward. The flight altitude is
+    limited to 1640 feet (500 meters) at R1+1 mile
+(4) When the aircraft enters within 320 feet (100 meters) of No-Fly Zones, a warning message will appear
+    on the OJI Pilot app.
+Phantom 3 Professional User Manual
+
+      L J-1mile----+I+-R1            No-fly zone Restricted-altitude flight zone Warning zone
+
+      r,;;:;]+------ R2 - - - - - +
+
+       Restricted Area
+
+;g. (1) Restricted Areas does not have flight altitude restrictions.
+
+;:r (2) R miles around the designated restriction area is a Take-off Restricted area. Aircraft cannot take off
+
+            within this zone. The value of R varies based on the definition of the restricted areas.
+
+       (3) A "warning zone" has been set around the Restricted Area. When the aircraft approaches within 0.6
+
+            miles (1 km) of this zone, a warning message will appear on the OJI Pilot app.
+
+      I I-Restricted Area--+
+
+                                    No-Hy zone Warning zone Free zone
+
+42 .
+                                                               Phantom 3 Professional User Manual
+
+GPS Signal Strong ($:· ...... Blinking Green
+
+Zone             Restriction                            OJI Pilot App Prompt                Aircraft
+                                                                                            Status
+                                                                                            Indicator
+
+                 Motors will not start.                 Warning: You are in a No-fly
+                                                        zone. Take off prohibited.
+
+No-fly Zone      If the aircraft enters the
+                 restricted area in A-mode, but is
+                 switched to P-mode, the aircraft       Warning: You are in a no-fly zone.
+                 will automatically descend, land,      Automatic landing has begun.
+                 and stop its motors.
+
+                 If the aircraft enters the restricted  R1: Warning: You are in a            R: ......
+                 area in A-mode, but is switched        restricted zone. Descending to      Red flashing
+                 to P-mode, it will descend to an       safe altitude.
+ Restricted-     appropriate altitude and hover         R2: Warning: You are in a
+altitude flight  15 feet below the altitude limit.      restricted zone. Maximum flight
+                                                        altitude is restricted to between
+    zone                                                20m and 500m. Ry cautiously.
+
+Warning zone No flight restriction applies, but Warning: You are approaching a
+
+                 there will be a warning .              restricted zone, Fly cautiously.
+
+Free zone                                               None.                               None.
+                  No restrictions.
+
+Eel Serni-autornatic descent: All stick commands are available except the throttle stick command
+
+       during the descent and landing process. Motors will stop automatically after landing.
+
+& · When flying in a safety zone, the aircraft's status indicator will blink red rapidly and continue
+
+         for 3 seconds, then switch to indicate current flying status and continue for 5 seconds at which
+         point it will switch back to blinking red.
+       · For safety reasons, please do not fly close to airports, highways, railway stations, railway lines,
+         city centers, or other sensitive areas. Ry the aircraft only within your line of sight.
+       Phantom 3 Professional User Manual
+
+       1. Remote controller, Intelligent Right Battery, and mobile device are fully charged.
+       2. Propellers are mounted correctly and firmly.
+       3. Micro-SO card has been inserted, if necessary.
+       4. Gimbal is functioning normally.
+       5. Motors can start and are functioning normally.
+       6. The DJI Pilot app is successfully connected to the aircraft.
+
+       IMPORTANT: Always calibrate the compass in every new flight location. The compass is very sensitive
+       to electromagnetic interference, which can produce abnormal compass data and lead to poor flight
+       performance or flight failure. Regular calibration is required for optimal performance.
+
+     0 ·Do not calibrate your compass where there is any possibility of strong magnetic interference.
+
+                  Sources of potential interference include magnetite, parking structures, and subterranean
+
+l} metal structures
+
+;:r · Do not carry ferromagnetic materials with you during calibration such as keys or cellular
+
+                  phones.
+               · Do not calibrate in direct proximity to large metal objects.
+                · DO NOT calibrate indoors.
+
+      Calibration Procedures
+       Choose an open area to carry out the following procedures.
+       1. Ensure that the compass is calibrated. If you did not calibrate the compass as part of your pre-flight
+
+           preparations, or if you have moved to a new location since the last calibration, tap the Aircraft Status
+           Bar in the app and select "Calibrate", then follow the on-screen instructions.
+       2. Hold the aircraft horizontally and rotate 360 degrees. The Aircraft Status Indicators will display a solid
+          green light.
+                                                                                                 Phantom 3 Professional User Manual
+
+3. Hold the aircraft vertically, with nose pointing downward, and rotate it 360 degrees around the center
+   axis. Recalibrate the compass if the Aircraft Status Indicator glows solid red.
+
+          1
+
+ &, If the Aircraft Status Indicator blinks red and yellow after the calibration procedure, move your
+
+         aircraft to a different location and try again.
+
+ :¢: Calibrate the compass before each flight. launch the DJI Pilot app and follow the on-screen
+
+         instructions to calibrate the compass. DO NOT calibrate the compass near metal objects such
+         as a metal bridge, cars, scaffolding.
+
+When to Recalibrate
+1.When compass data is abnormal and the Aircraft Status Indicator is blinking green and yellow.
+2.When flying in a new location or in a location that is different from the most recent flight.
+3.When the mechanical or physical structure of the Phantom 3 Professional has been changed.
+4.When severe drifting occurs in flight, i.e. Phantom 3 Professional does not fly in straight line.
+
+~~~tQ,~~1f;~9A~tilq#6<!10~.~.· '.. ·.
+
+Auto Takeoff
+Use auto takeoff only if the Aircraft Status Indicators are blinking green. Follow the steps below to use the
+auto takeoff feature:
+1. Launch the DJI Pilot app, and enter "Camera" page.
+2. Ensure the aircraft is in P- mode.
+3. Complete all steps on the pre-flight checklist.
+4. Tap".t.", and confirm that conditions are safe for flight. Slide the icon to confirm and takeoff.
+5. Aircraft takes off and hovers at (1.5 meters) above ground.
+
+ &, Aircraft Status Indicator blinks rapidly when it is using the Vision Position System for stabilization.
+
+          The aircraft will automatically hover below 3 meters. It is recommended to wait until there is
+          sufficient GPS lock before using the Auto Take-off feature.
+Phantom 3 Professional User Manual
+
+Auto-Landing
+Use auto-landing only if the Aircraft Status Indicators are blinking green. Follow the steps below to use the
+auto-landing feature:
+1. Ensure the aircraft is in P- mode.
+2. Check the landing area condition before tapping".!.", to begin landing. Then follow the on-screen
+
+   instructions.
+
+~~~!tf~J~tgpl;>ilJ!J, t&eMt?t()~s~< .
+
+Starting the Motors
+A Combination Stick Command (CSC) is used to start the motors. Push both sticks to the bottom
+inner or outer corners to start the motors. Once the motors have started spinning, release both sticks
+simultaneously.
+
+Stopping the Motors
+There are two methods to stop the motors.
+Method 1: When Phantom 3 Professional has landed, push the throttle downG:>, then conduct the same
+
+esc that was used to start the motors, as described above®. Motors will stop immediately. Release both
+
+sticks once motors stop.
+Method 2: When the aircraft has landed, push and hold the throttle down. The motors will stop after three
+seconds.
+
+Method 1  Method 2
+
+,&, Do not perform a CSC when the aircraft is in midair, otherwise the motors will suddently stop.
+
+Takeoffll...anding Procedures
+
+1. Place the aircraft in an open, flat area with the battery level indicators facing towards you.
+2. Turn on the remote controller and your mobile device, then turn on the Intelligent Flight Battery.
+3. Launch the DJI Pilot app and enter the Camera page.
+
+4. Wait until the Aircraft Indicators blink green. This means the Home Point is recorded and it is now safe
+
+   to fly. If they flash yellow, the Horne Point has not been recorded.
+5. Push the throttle up slowiy to take off or use Auto Takeoff.
+6. Shoot photos and videos using the DJJ Pilot app.
+7. To land, hover over a level surface and gently pull down on the throttle to descend.
+8. After landing, execute the CSC command or hold the throttle at its lowest position until the motors stop.
+9. Turn off the Intelligent Flight Battery first, then the Remote Controller.
+

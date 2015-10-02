@@ -1,0 +1,608 @@
+July 8, 2015
+
+                                                           Exemption No. 11992
+                                                           Regulatory Docket No. FAA­2015­1490
+
+Mr. Anthony S Thurman
+Ms. Stephanie J Thurman
+Aerial Check UAVs
+P.O. Box 1813
+Waller, TX 77484
+
+Dear Mr. Thurman and Ms. Thurman:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter dated April 14, 2015, you petitioned the Federal Aviation Administration (FAA) on
+behalf of Aerial Check UAVs (hereinafter petitioner or operator) for an exemption. The
+petitioner requested to operate an unmanned aircraft system (UAS) to conduct aerial digital
+imagery, survey, and inspection.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner are the DJI Phantom 2 Vision + and DJI Spreading
+Wings S1000.
+
+In accordance with the statutory criteria provided in Section 333 of Public Law 112-95 in
+reference to 49 U.S.C. § 44704, and in consideration of the size, weight, speed, and limited
+                                                                                                                 2
+
+operating area associated with the aircraft and its operation, the Secretary of Transportation
+has determined that this aircraft meets the conditions of Section 333. Therefore, the FAA
+finds that relief from 14 CFR part 21, Certification procedures for products and parts,
+Subpart H--Airworthiness Certificates, and any associated noise certification and testing
+requirements of part 36, is not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection1. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+ They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+ The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+ A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, Aerial Check UAVs is granted an exemption from
+14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a), 91.7(a), 91.119(c),
+91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a) and (b), to
+the extent necessary to allow the petitioner to operate a UAS to perform aerial data collection.
+This exemption is subject to the conditions and limitations listed below.
+
+1 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                             3
+
+Conditions and Limitations
+
+In this grant of exemption, Aerial Check UAVs is hereafter referred to as the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+1. Operations authorized by this grant of exemption are limited to the DJI Phantom 2
+    Vision + and DJI Spreading Wings S1000 when weighing less than 55 pounds
+    including payload. Proposed operations of any other aircraft will require a new
+    petition or a petition to amend this exemption.
+
+2. Operations for the purpose of closed-set motion picture and television filming are
+    not permitted.
+
+3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+    exemption holder may use either groundspeed or calibrated airspeed to determine
+    compliance with the 87 knot speed restriction. In no case will the UA be operated at
+    airspeeds greater than the maximum UA operating airspeed recommended by the
+    aircraft manufacturer.
+
+4. The UA must be operated at an altitude of no more than 400 feet above ground level
+    (AGL). Altitude must be reported in feet AGL.
+
+5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+
+    This requires the PIC to be able to use human vision unaided by any device other than
+    corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+    U.S. driver's license.
+
+6. All operations must utilize a visual observer (VO). The UA must be operated within
+    the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+    to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+    capability. The VO and PIC must be able to communicate verbally at all times;
+    electronic messaging or texting is not permitted during flight operations. The PIC
+    must be designated before the flight and cannot transfer his or her designation for the
+    duration of the flight. The PIC must ensure that the VO can perform the duties
+    required of the VO.
+
+7. This exemption and all documents needed to operate the UAS and conduct its
+    operations in accordance with the conditions and limitations stated in this grant of
+    exemption, are hereinafter referred to as the operating documents. The operating
+    documents must be accessible during UAS operations and made available to the
+    Administrator upon request. If a discrepancy exists between the conditions and
+    limitations in this exemption and the procedures outlined in the operating documents,
+                                                                                                            4
+
+    the conditions and limitations herein take precedence and must be followed.
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+                                                                                                            5
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+    exemption holder may apply for a new or amended COA if it intends to conduct
+    operations that cannot be conducted under the terms of the attached COA.
+                                                                                                            6
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+    be as large as practicable.
+
+23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+    any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+    PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+    These documents must be made available to the Administrator or any law enforcement
+    official upon request.
+
+24. The UA must remain clear and give way to all manned aviation operations and
+    activities at all times.
+
+25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless:
+      a. Barriers or structures are present that sufficiently protect nonparticipating persons
+          from the UA and/or debris in the event of an accident. The operator must ensure
+          that nonparticipating persons remain under such protection. If a situation arises
+          where nonparticipating persons leave such protection and are within 500 feet of
+          the UA, flight operations must cease immediately in a manner ensuring the safety
+          of nonparticipating persons; and
+      b. The owner/controller of any vessels, vehicles or structures has granted permission
+          for operating closer to those objects and the PIC has made a safety assessment of
+          the risk of operating closer to those objects and determined that it does not
+          present an undue hazard.
+
+    The PIC, VO, operator trainees or essential persons are not considered
+    nonparticipating persons under this exemption.
+
+27. All operations shall be conducted over private or controlled-access property with
+    permission from the property owner/controller or authorized representative.
+    Permission from property owner/controller or authorized representative will be
+    obtained for each flight to be conducted.
+
+28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+    boundaries of the operational area as defined by the applicable COA must be reported
+    to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+    reported to the National Transportation Safety Board (NTSB) per instructions
+    contained on the NTSB Web site: www.ntsb.gov.
+                                                                                                                 7
+
+ If this exemption permits operations for the purpose of closed-set motion picture and
+ television filming and production, the following additional conditions and limitations apply.
+
+    29. The operator must have a motion picture and television operations manual (MPTOM)
+         as documented in this grant of exemption.
+
+    30. At least 3 days before aerial filming, the operator of the UAS affected by this
+         exemption must submit a written Plan of Activities to the local Flight Standards
+         District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+         notification may be waived with the concurrence of the FSDO. The plan of activities
+         must include at least the following:
+           a. Dates and times for all flights;
+           b. Name and phone number of the operator for the UAS aerial filming conducted
+              under this grant of exemption;
+           c. Name and phone number of the person responsible for the on-scene operation of
+              the UAS;
+           d. Make, model, and serial or N-Number of UAS to be used;
+           e. Name and certificate number of UAS PICs involved in the aerial filming;
+           f. A statement that the operator has obtained permission from property owners
+              and/or local officials to conduct the filming production event; the list of those
+              who gave permission must be made available to the inspector upon request;
+           g. Signature of exemption holder or representative; and
+           h. A description of the flight activity, including maps or diagrams of any area, city,
+              town, county, and/or state over which filming will be conducted and the altitudes
+              essential to accomplish the operation.
+
+    31. Flight operations may be conducted closer than 500 feet from participating persons
+         consenting to be involved and necessary for the filming production, as specified in the
+         exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                    8
+
+This exemption terminates on July 31, 2017, unless sooner superseded or rescinded.
+
+Sincerely,
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+April14, 2015
+
+Docket Management Facility
+U.S. Oepartm ent of Transportation
+Docket M anagement System
+1200 New Jersey Ave S.E.
+Washingt on D.C. 20590
+
+RE: Exemption Request, Section 333 of the FAA Reform Act of t he Federal Aviation Regulations from 14
+C.F. R.
+
+Dea r Sir or Madam:
+
+Pursuant to the FAA Modernization and Reform Act of 2012 and the procedures contained within 14 C.F.R.
+Part II, Thurman & Thurman, LLC (dba Aerial Check UAVs) is writing to request that we, Anthony 5. Thurman
+and Steph anie J. Thurman, as owners and operators of small unmanned aircrafts (UAS) equipped to conduct
+aerial digit al imagery, respectfully request to be granted exemption as listed below.
+
+This exemption will permit Aerial Check UAVs to operate an Unmanned Aircraft System (UAS) for t he
+commercial purpose of conducting aerial inspections and surveys as well as post-di sast er aerial suppo rt.
+Inspections would include property, land survey and other high structures that currently require fa ll
+
+protection gear (i.e. Cellular/RF towers and roofs). Additiona lly, we shall operate in areas of agricu lture and
+
+search and rescues and will provide digital imaging services for the purpose of developing marketing
+materials. The details of the operation as well as all pertin ent information are contained within t his
+document or provided within the attachments.
+
+              AERIAL CHECK UAVs P.O. Box 1813, WALLER, TEXAS 77484
+                                                                                                                2
+
+14 C.F.R 11.81 (a)- Name and address of the Petitioner:
+
+The name and address of the applicants are:
+
+Anthony 5 Thurman
+Stephanie J Thurman
+PO Box 1813
+W aller, TX 77484
+Phone: {832} 928-9594
+Email: stephanie.thurman@outlook.com
+
+14 C.F.R (b)- Exemptions Requested:
+
+Regulations from which the exemption is requested include:
+
+Private Pilot Privileges     14 C.F.R § 61.113 (a)
+Ai rcraft Airworthiness      14 C.F.R § 91.7 (a)
+Preflight Action             14. C.F.R. §91.103 (b)
+Minimum Safe Altitudes       14. C.F.R § 91.119 (c)
+Altimeter Settings           14. C.F.R § 91.121
+Fuel Requirements            14 C.F.R.§ 91.151 (a)
+Maintenance Required         14 C.F.R § 91.405 (a)
+Operation after Maintenance  14 C.F.R § 91.407 (a) (1)
+Inspections                  14 C.F.R § 91.409 (a) (1} & (2)
+Maintenance Records          14 C.F.R. § 91.417 (a) & (b)
+
+Private Pilot Privileges -14 C.F.R. § 61.113 (a)- Because a UAS does not carry a pilot or passengers, the
+proposed operations can achieve the equivalent level of safety of current operations by requiring the PIC
+operating the aircraft to have a private pilot's license rather than a commercial pilot's license to operate
+small UAS. Unlike a conventional manned aircraft, a UAS is remotely controlled by a ground-based operator.
+The operational area is controlled and restricted and all flights are planned and. coordinated in advance. The
+level of safety exceeds that provided by a piloted helicopter or aircraft. The risks associated with the
+operations contemplated by Part 61 allowing UAS use by a private pilot as the PIC exceed the present level of
+safety sought by 14 C.F.R. §61.113 (a) and (b)
+
+Aircraft Airworthiness 14 C.F.R§ 91.7 {a)- states that no person may operate a civil aircraft unless it is in
+airworthy condition . Currently, no Administration regulatory standard exists for determining the
+airworthiness of a UAS. Therefore, if the exemption is granted, Aerial Check UAVs will follow and maintain
+the UASs as indicated by the manufacturer and conduct all safety checks recommended prior to each flight.
+
+AERIAL CHECK UAVs P.O. Box 1813, WALLER, TEXAS 77484
+                                                                                                                                                3
+
+ Preflight Action 14. C.F.R. §91.103 (b)- states that a pilot in command (PIC) become familiar with specific
+ information before each ffight, including information contained in the Administration approved Flight Manual
+ on board the aircraft. As no such manual currently exists, Aerial Check UAVs requests an exemption from
+ this requirement. If the exemption is granted, the PIC w ill ta ke all actions including review of t he flight
+ requirements, landing and takeoff distances, weather prior to the commencement of the flight.
+
+ Minimum Safe Altitudes 14. C.F.R § 91.119 (c) establishes safe altitudes for operation of civil aircraft. As set
+forth herein, the UAS would never operate above 400AGL, except under very limited and restricted
+circumstances as referenced by the User Manual. Further, the low-altitude operations of an UAS will ensure
+se paration between these small UAS operation and the operations of conventional aircraft that must
+company with Section 91.119.
+
+Altimeter Settings 14. C.F.R § 91.121- This regulation requires each person operating an aircraft to maintain
+a cruising altitude by reference to an altimeter that is "set to the elevation of the departure airport or an
+appropriate altimeter setting available before departure". As the UAS may have a barometric altimeter, this
+device is calibrated via onboard electronic calibration and cannot be set or reset by t he PIC, an exemption is
+requested. An equivalent of safety will be achieved by the operation, pursuant to the Manual and Safety
+Check list , confirming the altitude of the launch site as shown on the qnscreen display altitude indicator
+before flight.
+
+Fuel Requirements 14 C.F.R.§ 91.151 (a}- outlines fuel requirements for beginning a flight in VFR conditions.
+The battery powering the UAS provides approximately 30 minutes of powered flight. To meet the 30 minute
+reserve requirement, UASflights would be limited to approximately 5 minutes. Given the limitations on the
+UASs proposed flight area and the location of its proposed operations within a predeter mined area, a longer
+time frame for flight in daylight or night VHR conditions is reasonable.
+
+Operating the small UAS, in a controlled area, where only people and property owners or official
+represent atives w ho have signed waivers will be allowed, with less than 30 minutes of reserve fuel, does not
+engender the type of risks that Section 91.151(a) was intended to alleviate give the size and speed of the
+small UAS. Additionally, limiting UASs flights to 10 minutes would greatly reduce the utility for which the
+exemption will be granted. Aerial Check UAVs submits that safety will not be affected by terminating flights
+of t he battery powered 51000 and Phantom 2 UASs after 15 to 20 minutes of continuous flight, which allows
+for five minutes of battery power remaining. St andard flights operated by Aerial Check UAVs would last
+between 10 and 20 minutes.
+
+               AERIAL CHECK UAVs P.O. Box 1813, WALLER, TEXAS 77484
+                                                                                                                                              4
+
+ Maintenance Required 14 C.F.R § 91.405 (a)
+ Operation after Maintenance 14 C.F.R § 91.407 (a) (1)
+ Inspections 14 C.F.R § 91.409 (a) (1) & (2)
+ Maintenance Records 14 C.F.R. § 91.417 (a) & (b)
+
+Since Sections 91.405(a), 91.407(a)(l), 91.40(a) (1) & (2) and 1.417 (a) & (b) only apply to aircraft with an
+airworthiness certificate, we respectfully request exemption from these Sections because the S1000 and
+Phantom 2 do not require airworthiness certificates.
+
+Should the exemption be granted, Aerial Check UAVs w ill use approved operators to perform maintenance,
+alterations, or preventive maintenance on the UAS using the methods, techniques, and practices as
+prescribed in the DJI users/maintenance manual. A maintenance manual for each UAS will record all
+maintenance performed on each UAS and a pre-flight check list will be follo wing prior to the inception of
+each flight.
+
+14 C.F.R (c)- The extent of relief petitioner seeks, and the reasons petitioner seeks the relief:
+
+Aerial Check UAVs seeks relief pursuant to this exemption from the identified sections ofthe Federal Aviation
+Regulations to the extent necessary to perform commercial flight operations within the national airspace.
+Aerial Check UAVs seeks authorization to conduct small UAS flight operations within the perimeters of this
+exemption request.
+
+14 C.F.R. Part 11.81(d}- The reasons why granting petitioners request would be in the public interest; that
+is, how it would benefit the public as a whole:
+
+Should Aerial Check UAV be granted an exemption, it would allow the company to safely and efficiently
+conduct UAS flight operations, commercially, to collect valuable information for our clients in the form of
+High-Definition Aerial Imaging while realizing the scales of economy. Using UASs as a means to capture aerial
+data will decrease congestion of the NAS, reduce pollution (no dependence on fossil fuels), thereby reducing
+the carbon footprint and reduce inherent risks associated with the operation of an aircraft carrying pilots and
+fuel. During and immediately following emergency situations (i.e., Natural disasters, fires, search and rescue)
+data can be fed to the client in real-time, thereby allowing them to provide information to the public in a
+timely manner.
+
+14 C.F.R Part 11.81 (e)- The reasons why granting the exemption would not adversely affect safety, or
+how the exemption would provide a level of safety at least equal to that provided by the rule from which
+petitioner seeks the exemption:
+
+Using UAS technology to collect photographic/videography data is beneficial to the public as a whole as it
+significantly risks to workers who must scale heights to collect information (risk of fall), it reduces risks to the
+public as a whole due to the reduction of helicopters and small aircraft as the UASs carry no combustible
+
+             AERIAL CHECK UAVs P.O. Box 1813, WALLER, TEXAS 77484
+                                                                                                                                                       5
+
+materials on board . Battery Powered UASs serve as a safe, efficient and econom ica l alternative to manned
+aircraft traditionally used for capturing aerial images. They provide high levels of safety to person and
+property since no pilot or crew need to be airborne. UASs provide greater operational flexibility and reduced
+costs. Better aerial imagery can be obtained by using UASs due to their small size, maneuverability and flight
+performance characteristics. Less time is needed in the air to obtain the footage, thereby reducing the
+number of aircraft in the NAS. Reduction of noise will benefit the public as well. Finally, the UAS industry is
+expected to grow to $11.5B by 2024 (military and civilian), which ultimately will contribute to the US
+economy by creating jobs and increasing consumer spending.
+
+The use of UASs can significantly reduce the risk to workers of falls while inspecting, surveying, or monitoring
+sites. UASs can inspect, photograph, and collect data on hard to access areas that otherwise would require
+worker inspection. Falls are a leading source of workplace fatality and injury on
+construction sites and reducing falls through UASs use for site imaging could save workers lives.
+Additionally, UASs could replace the use of helicopters and small aircraft to monitor sites. The UASs we
+propose to fly in this application are less than 25 pounds, and carry no combustible material on board, as
+opposed to the much larger conventionally powered small aircraft. Shifting to UASs from helicopters presents
+a marked safety increase for our workers and the public. Lastly, UASs reduce the environmental impact by
+dramatically decreasing the energy used for aerial imaging and data collection over a construction site. Our
+UASs use rechargeable lithium ion batteries, as opposed to fossil fuels burned in operation of small aircraft
+that are many hundreds of times heavier.
+
+The operating limitations proposed by Aerial Check UAVs provide for at least an equivalent or higher level of
+safety because the operations further enhance the safety of aerial digital imaging over using conventional
+aircraft. In addition to following all instructions as provided by the manufacturer, Aerial Check UAVs shall
+include the following conditions and limitations in all operations:
+
+           1} Flights will be operated within line of sight of a pilot and/or observer.
+          2) Flights will be terminated at 20% battery power reserve.
+          3) Flights will be operated at an altitude of no more than 400ft AG I, and not more than 200 feet
+          above an elevated platform .
+          4} Flights will only be operated in reasonably safe environments that are strictly controlled, are away
+          from airports, power lines, elevated lights, and/or actively populated areas.
+          4) Minimum crews will consist of the UAS Pilot, the Visual Observer and the Camera Operator.
+          5) A briefing will be conducted for planned UAS operations prior to each flight.
+          6) Consent will be obtained from all persons involved in the operation and only authorized personnel
+          will be allowed within 500 feet ofthe flight operation.
+          7) Written permission will be obtained from the relevant property owners
+          8) If the UAS loses communications or loses its GPS signal, the UAS will be placed in "Return to
+          Home" mode and will return to its point of takeoff.
+          9) The UAS flight will be aborted should circumstances arise that created a potential hazard to person
+          or place.
+
+              AERIAL CHECK UAVs P .O. Box 1813, WALLER, TEXAS 77484
+                                                                                                                                            6
+
+Aircraft Description
+
+Aerial Check UAVs proposes the use of two UASs, the DJI S1000 and the DJI Phantom II. Aerial Check UAVs
+will choose which unit to use based on a review of the proposal of work, taking into consideration many
+factors including weather, wind, altitude necessary to complete the job and the complexity of the site
+location.
+
+Important safety features of the DJI S1000 and the DJI Phantom II include Airport vicinity no-fly features,
+restricted altitude features, return home capability and GPS Navigation. With an on-board OSD (Onscreen
+Display Transmitting Device), the PIC has the ability to monitor altitude, distance, and battery level, as well as
+real time camera imagery. Although the units can be programe~ to fly at a maximum of 400 feet, typica l
+applications require altitudes between 50 and 250 feet.
+
+Both the SJI S100 and the DJI Phantom II will operate with the DJI Ground Station Software. One of the
+unique functions ofthe DJI Ground Station software is that users will not be able to build waypoints or home
+points in designated restricted areas and any waypoint routines that attempt to go through these special
+areas will be rendered invalid.
+
+The DJI Ground Station enables 3-D Map Waypoints Editing, Flight Path Planning, Real-time Flight State
+Feedback and Auto Takeoff and Landing. This product is specially designed for the purpose of aircraft
+operation, flying in applications such as land surveillance, aerial photography, etc. Working with OJI flight
+control system, DJI Ground Station not only ensures stable performance and safety of the aircraft, easy
+operation for the pilot, but also allows the aircraft to fly along the flight path set before or modified during
+the flight mission in the Ground Station software autonomously.
+
+Although the UAS can be operated by one person, flight operations carried on by Aerial Check UAVs involve
+at least two people: a pilot-in-command (" PIC") and an observer. The PIC is responsible for flying the UAS,
+monitoring its status and flight dynamics whi le maintaining visual line of sight and keeping the flight w ithin
+the manufacturer's specified limits in terms of wind, flight range, battery life, etc., for safe operation of the
+UAS. Observers will be responsible for monitoring the airspace for other aircraft and hazards, advising the
+operator before and during f light of all such observed risks, and monitoring the controlled operating area .
+
+             AERIAL CHECK UAVs P.O. Box 1813, WALLER, TEXAS 77484
+                                                                                                                   7
+
+Summary for Publication in the Federal Register
+
+Pursuant to 14 C.F.R. Part 11, the following summary is provided for publication in the Federal Register,
+should it be determined that publication is necessary.
+
+Aerial Check UAVs, operators of a DJI s1000 and DJI Phantom 2, both weighing less than 25 pounds, seeks an
+exemption for the following rules:
+
+14 C.F.R § 61.113 (a); 14 C.F.R § 91.7 (a); 14. C.F.R. §91.103 (b); 14. C.F.R § 91.119 (c); 14. C.F.R § 91.12 1;
+14 C.F.R.§ 91.151 (a); 14 C.F.R § 91.405 (a);14 C.F.R § 91.407 (a) (1); 14 C.F.R § 91.409 (a) (1) & (2);
+14 C.F.R. § 91.417 (a) & (b);
+
+Granting this exemption will allow fo r the commercial operation of small UASs for the purpose of conducting
+aerial inspections and surveys as well as post-disaster aerial support. Inspections would include property,
+land survey and other high structures that currently require fall protection gear ( i.e. Cellular/RF towers and
+roofs). Additionally, operations shall be conducted in areas of agriculture and search and rescues and will
+provide digital imaging services for the purpose of developing marketing, materials, so long as such
+operations will provide an equivalent level of safety and will be conducted within and under the conditions
+outlined in the exemption request, the supporting documents, or as may be established by the FAA as
+required by Section 333.
+
+The factors as directed by Congress to consider, in accordance with Section 333(b) of P.L. 112 95 states, in
+part: " In making the determination under subsection (a), the Secretary shall determine, at a minimum-- (1)
+which types of unmanned aircraft systems, if any, as a result of their size, weight, speed, operational
+ca pability, proximity to airports and populated areas, and operation within visual line of sight do not create a
+hazard to users of the national airspace system or the public or pose a th reat to national security are each
+supported in this request. UASs are sma ll, and will operate at slow speeds in ord er to more safely and
+efficiently conduct inspections of all types that would otherwise involve a risk to inspectors. This increase in
+safety and decrease in human injuries weighs heavily in favor of granting the requested exemption.
+
+The requested exemption would permit the operation of small, unmanned UASs under controlled conditions
+that will not create a hazard to other users of the NAS or the public or pose a threat to national security. The
+controlled operations of small, low altitude UASs will provide safety enhancements to the existing methods
+of inspection and videography.
+
+AERIAL CHECK UAVs P.O. Box 1813, WALLER, TEXAS 77484
+                                                                  8
+
+Conclusion
+
+As for the reasons set forth herein, Aerial Check UAVs seeks an exemption pursuant to 14 C.F.R. §11.61 and
+Section 333 of the FAA Modernization and Reform Act of 2012 (FMRA), which will permit the safe operation
+of the DJI S1000 and DJI Phantom 2 UASs commercially, without an airworthiness certification, for the
+purposed of conducting aerial digital imaging and photography over certain areas of the United States. By
+granting this Petition, the FAA Administrator will be fulfilling the Congressional mandate of the FAA
+Modernization and Reform Act of 2012, while also advancing the interests of the public, by allowing the UASs
+to be flown safely, efficiently, and economically within the NAS.
+
+Wherefore, in accordance with the Federal Aviation Regulations and the FAA Modernization and Reform Act
+of 2012, Section 333, Aerial Check UAVs respectfully requests that the Administrator grant this Petition for an
+Exemption from the requirements of 14 C.F.R Sections 61.113(a) & (b), 91.(a), 91.121, 91.151(b), 91.405(a),
+91.407 (a) (1), 91409(a) (1) & (a)(2) and 91417 (a) & (b), and permit Aerial Check UAVs to operate the DJI
+S1000 and DJI Phantom 2 commercially for the purpose of conducting aerial digital imaging and photography
+over certain areas of the United States.
+
+Dated: April 14, 2015
+
+   Respectfully submitted
+
+MA~
+
+~SThurman
+
+            AERIAL CHECK UAVs P.O. Box 1813, WALLER, TEXAS 77484
+

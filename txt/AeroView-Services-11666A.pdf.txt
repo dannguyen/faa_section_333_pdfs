@@ -1,0 +1,246 @@
+September 11, 2015
+
+                                                      Exemption No. 11666A
+                                                      Regulatory Docket No. FAA-2015-0630
+
+Mr. Ryan Murguia
+President
+AeroView Services, LLC
+19645 Seven Ponds Road
+Sperry, Iowa 52650
+
+Dear Mr. Murguia:
+
+This letter is to inform you that we have granted your petition for an amendment. It explains
+the basis for our decision, describes its effect, and lists any changes to the original conditions
+and limitations.
+
+By letters dated June 12, 2015 , and June 25, 2015, you petitioned the Federal Aviation
+Administration (FAA) on behalf of AeroView Services, LLC (hereinafter petitioner or
+operator) for an amendment to your current exemption. That exemption from §§ 61.23(a) and
+(c), 61.101(e)(4) and (5), 61.113(a), 61.315(a), 91.7(a), 91.119(c), 91.121, 91.151(a)(1),
+91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a) and (b) of Title 14, Code of
+Federal Regulations (14 CFR) allows the petitioner to operate a UAS to perform aerial data
+collection. You requested an amendment to add the 2015 SenseFly eXom and Trimble UX5
+hp.
+
+In your petition, you indicate that there has been no change in the conditions and reasons
+relative to public interest and safety that were the basis for granting the original exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested amendment to the exemption would not set a
+precedent, and any delay in acting on this petition would be detrimental to the petitioner. The
+unmanned aircraft authorized in the original grant are comparable in type, size, weight, speed
+and operating capabilities to those in this petition.
+
+Airworthiness Certification
+
+In accordance with the statutory criteria provided in Section 333 of Public Law 112-95 in
+reference to 49 U.S.C. § 44704, and in consideration of the size, weight, speed, and limited
+                                                                                                                  2
+
+operating area associated with the aircraft and its operation, the Secretary of Transportation
+has determined that this aircraft meets the conditions of Section 333. Therefore, the FAA
+finds that relief from 14 CFR part 21, Certification procedures for products and parts,
+Subpart H--Airworthiness Certificates, and any associated noise certification and testing
+requirements of part 36, is not necessary.
+
+Our Decision
+
+The FAA has determined that the justification for the issuance of Exemption No. 11666
+remains valid and is in the public interest. Therefore, under the authority contained
+in 49 U.S.C. 106(f), 40113, and 44701, delegated to me by the Administrator, the operator is
+granted an amendment to add new aircraft to its UAS operations.
+
+The operator shall add this amendment to its original exemption.
+
+Conditions and Limitations
+
+All conditions and limitations within Grant of Exemption No. 11666 remain in effect except
+as follows. Condition No. 1 has been updated to reflect the additional aircraft.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+    1. Operations authorized by this grant of exemption are limited to the Trimble UX5,
+         SenseFly eXom, and Trimble UX5 hp when weighing less than 55 pounds including
+         payload. Proposed operations of any other aircraft will require a new petition or a
+         petition to amend this exemption.
+
+This exemption terminates on May 31, 2017, unless sooner superseded or rescinded.
+
+Sincerely,
+/s/
+John S. Duncan
+Director, Flight Standards Service
+A
+
+  AEROVIEW
+
+vS R V I C ' '>
+
+ Mr. Jim Williams
+UAS Integration Office
+Federal Aviation Administration
+ 800 Independence Avenue SW
+Washington, DC 20591
+
+Re: Re: Docket FAA 2015-0630, Petition for Amendment to Exemption No. 11666
+
+ Dear Mr. Williams:
+
+AeroView Services, LLC received FAA Exemption No. 11666 on May 22, 2015 authorizing
+AeroView Services, LLC under section 333 of the FAA Modernization and Reform Act of
+2012 to operate an unmanned aircraft system ("UAS"), the Trimble Navigation UX5, for
+various commercial purposes. In this present petition for an amendment to Exemption No.
+11666, AeroView Services, LLC seeks to operate the sensefly eXom UAS for the same
+purposes.
+
+The eXom, weighting 3.7 pounds (Maximum Take Off Weight), contains a rich array of
+advanced integrated sensors. These sensors work together to provide the user with full
+situational awareness and support obstacle avoidance:
+· Five 'Navcam ' vision sensors allow the operator to see in the direction the drone is
+moving via its flight control software, without needing to tum the system's TripleView
+A
+
+ AEROVIEW
+
+vVlv
+
+camera head. This technology is w1ique in such a lightweight UAS, similar to the visual
+parking sensors in modem cars, but brought into a 3D flight environment.
+
+· Five ultrasonic proximity sensors work in hannony with eXom's Navcams to ensure
+the operator always knows the drone's distance from nearby objects. (The drone's shock
+absorbent carbon fiber shrouding is also always on hand to protect its rotors in case of
+surface contact.)
+
+· Numerous other sensors, including inertial measurement units, barometers,
+magnetometers, GPS and magnetic encoders, maximize the drone 's stability and safety.
+
+eXom offers different flight modes to suit every project: semi-automatic mode (waypoint
+navigation) or interactive ScreenFly mode (using the supplied joypad to navigate and
+orientale the drone via computer screen). The Screenfly mode includes flight assistance
+features such as cruise control and distance lock. In any situation, RC-based manual control
+always remains available as a backup function.
+
+The eXom is particularly safe. It was developed with flexible material absorbing potential
+shocks, and senseFly's R&D team has developed also a unique carbon-fiber shrouding
+protecting the propellers. SenseFly has also added also redundancy in the command and
+control system. In case something happens to the primary autopilot, the eXom will switch
+automatically to the secondary autopilot.
+
+AeroVicw Services, LLC will comply with all ofthe conditions and limitations imposed in
+Exemption 11666 except that condition/limitation number 1 will need to be revised to
+
+include the senseFly eXom UAS. The list of "operating documents" will. also need to be
+
+revised to include the senseFly operating manual and safety assessment for the eXom UAS.
+Other than these revisions, there will be no change in the conditions and reasons relative to
+public safety that were the basis for the initial grant of exemption.
+A
+
+  AEROVIEW
+
+vA VIC ~
+
+ Supporting documents listed as exhibits one through five were emailed to
+ 333exemptions@faa.gov on 6- 12- 15. SenseFly has requested that the proprietary
+ inf01mation in exhibits one through five remain confidential in our amendment submission.
+ Because the requested amendment would not set any new precedent or otherwise raise any
+ novel issue, and because AeroView Services, LLC seeks to begin these operations without
+ delay, AeroView Services, LLC respectfully requests the FAA to determine that good cause
+ exists to dispense with publication of the summary of this petition in the Federal Register
+ and grant the requested amendment expeditiously by summary means.
+Thank you for your consideration of this petition.
+
+Res pectfully submitted,
+
+Ryan Murguia
+President
+AeroView Services, LLC
+
+Encl:
+
+cc: Zach Pieper
+A
+
+ AEROVIEW
+
+vv - -
+
+Mr. Jim Williams
+VAS Integration Office
+Federal Aviation Administration
+800 Independence Avenue SW
+Washington, DC 20591
+
+June 25[11 2015
+           '
+
+Re: Re: Docket FAA 2015-0630, Petition for Amendment to Exemption No. 11666
+
+Dear Mr. Williams:
+
+AeroView Services, LLC received FAA Exemption No. 11666 on May 22, 2015
+authorizing AeroView Services, LLC (AeroView) under section 333 of the FAA
+Modernization and Reform Act of 2012 to operate an unmanned aircraft system
+("UAS"), the Trimble Navigation UX5, for various commercial purposes. In this
+present petition for an amendment to Exemption No. 11666, AeroView seeks to
+operate the Trimble UX5 hp UAS for the same purposes.
+
+The requested amendment to add the UX5 hp to exemption 11666 is consistent with
+amendment 11110A granted to Trimble Navigation to include the UX5 hp. See
+exemption 11110A (May 7, 2015; docket FAA-2014-0367).
+A
+
+AEROVIEW
+
+vS E 1 I '-
+
+The UX5 hp, has a minimal weight and power increase to allow for an increase in
+payload. This allows the UX5 hp to carry a slightly larger camera. The larger
+camera will provide higher resolution for the finished survey product. The power
+increase will allow for better performance in high altitude areas of the country and
+flexibility to increase payload in the future. The physical dimensions and operating
+characteristics of the UX5 hp are the same as the UX5 model approved in exemption
+11666.
+
+AeroView Services, LLC will comply with all of the conditions and limitations
+imposed in Exemption 11666 except that condition/limitation number one wilJ need
+to be revised to include the Trimble UX5 hp UAS. Other than this revision, there
+will be no change in the conditions and reasons relative to public safety that were the
+basis for the initial grant of exemption.
+
+Supporting documents listed as exhibits one through five were emailed to
+333exemptions@faa.gov on June 25, 2015. Trimble has requested that the
+proprietary information in exhibits one through five remain confidential in our
+amendment submission. Please note that the UX5 hp has the same operating and
+safety characteristics as the UX5 . Exhibits one through four are the same as
+submitted in support of exemption 11666. The official documentation has not yet
+been updated to include the UX5 hp. Exhibit 5 is the UX5 hp data sheet containing
+the updated weight and power specifications. Physical dimensions are the same as
+the UXS.
+
+As the requested amendment will not set a new precedent or otherwise raise any
+novel issue, AeroView Services, LLC seeks to begin these operations without delay,
+AeroView Services, LLC respectfully requests the FAA to determine that good cause
+A
+
+ AEROVIEW
+
+v!3::C'1viCES
+
+exists to dispense with publication of the summary of this petition in the Federal
+Register and grant the requested amendment expeditiously by summary means.
+Thank you for your consideration of this petition.
+
+Respectfully submitted,
+
+Ryan Murguia
+President
+AeroView Services, LLC
+
+Encl:
+cc: Zach Pieper
+

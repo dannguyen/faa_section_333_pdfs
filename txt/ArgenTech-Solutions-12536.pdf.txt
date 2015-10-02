@@ -1,0 +1,1295 @@
+August 20, 2015
+
+                                                           Exemption No. 12536
+                                                           Regulatory Docket No. FAA-2015-1500
+
+Mr. Marcel Piet
+ArgenTech Solutions, Inc.
+16701 SE. McGillivray, Suite 210
+Vancouver, WA 98683
+
+Dear Mr. Piet:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letters dated April 21, 2015, and July 9, 2015, you petitioned the Federal Aviation
+Administration (FAA) on behalf of ArgenTech Solutions, Inc. (hereinafter petitioner or
+operator) for an exemption. The petitioner requested to operate an unmanned aircraft system
+(UAS) to conduct aerial inspection and monitoring of utilities, infrastructure, wildfire, and
+other emergency services.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner is a 3DRobotics Aero-M.
+                                                                                                                 2
+
+In accordance with the statutory criteria provided in Section 333 of Public Law 112-95 in
+reference to 49 U.S.C. § 44704, and in consideration of the size, weight, speed, and limited
+operating area associated with the aircraft and its operation, the Secretary of Transportation
+has determined that this aircraft meets the conditions of Section 333. Therefore, the FAA
+finds that relief from 14 CFR part 21, Certification procedures for products and parts,
+Subpart H--Airworthiness Certificates, and any associated noise certification and testing
+requirements of part 36, is not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection1. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+ They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+ The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+ A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, ArgenTech Solutions, Inc. is granted an exemption
+from 14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a), 91.7(a),
+91.119(c), 91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a)
+and (b), to the extent necessary to allow the petitioner to operate a UAS to perform aerial data
+collection. This exemption is subject to the conditions and limitations listed below.
+
+1 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                                 3
+
+Conditions and Limitations
+
+In this grant of exemption, ArgenTech Solutions, Inc. is hereafter referred to as the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+1. Operations authorized by this grant of exemption are limited to the 3DRobotics
+    Aero-M when weighing less than 55 pounds including payload. Proposed operations
+
+    of any other aircraft will require a new petition or a petition to amend this exemption.
+
+2. Operations for the purpose of closed-set motion picture and television filming are
+    not permitted.
+
+3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+    exemption holder may use either groundspeed or calibrated airspeed to determine
+    compliance with the 87 knot speed restriction. In no case will the UA be operated at
+    airspeeds greater than the maximum UA operating airspeed recommended by the
+    aircraft manufacturer.
+
+4. The UA must be operated at an altitude of no more than 400 feet above ground level
+    (AGL). Altitude must be reported in feet AGL.
+
+5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+
+    This requires the PIC to be able to use human vision unaided by any device other than
+    corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+    U.S. driver's license.
+
+6. All operations must utilize a visual observer (VO). The UA must be operated within
+    the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+    to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+    capability. The VO and PIC must be able to communicate verbally at all times;
+    electronic messaging or texting is not permitted during flight operations. The PIC
+    must be designated before the flight and cannot transfer his or her designation for the
+    duration of the flight. The PIC must ensure that the VO can perform the duties
+    required of the VO.
+
+7. This exemption and all documents needed to operate the UAS and conduct its
+    operations in accordance with the conditions and limitations stated in this grant of
+    exemption, are hereinafter referred to as the operating documents. The operating
+    documents must be accessible during UAS operations and made available to the
+    Administrator upon request. If a discrepancy exists between the conditions and
+    limitations in this exemption and the procedures outlined in the operating documents,
+    the conditions and limitations herein take precedence and must be followed.
+                                                                                                            4
+
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+                                                                                                            5
+
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+    exemption holder may apply for a new or amended COA if it intends to conduct
+    operations that cannot be conducted under the terms of the attached COA.
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+    number, registered in accordance with 14 CFR part 47, and have identification
+                                                                                                               6
+
+       (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+       be as large as practicable.
+
+   23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+       any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+       PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+       These documents must be made available to the Administrator or any law enforcement
+       official upon request.
+
+   24. The UA must remain clear and give way to all manned aviation operations and
+       activities at all times.
+
+   25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+   26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+       persons, vessels, vehicles, and structures unless:
+          a. Barriers or structures are present that sufficiently protect nonparticipating persons
+             from the UA and/or debris in the event of an accident. The operator must ensure
+             that nonparticipating persons remain under such protection. If a situation arises
+             where nonparticipating persons leave such protection and are within 500 feet of
+             the UA, flight operations must cease immediately in a manner ensuring the safety
+             of nonparticipating persons; and
+          b. The owner/controller of any vessels, vehicles or structures has granted permission
+             for operating closer to those objects and the PIC has made a safety assessment of
+             the risk of operating closer to those objects and determined that it does not
+             present an undue hazard.
+
+       The PIC, VO, operator trainees or essential persons are not considered
+       nonparticipating persons under this exemption.
+
+   27. All operations shall be conducted over private or controlled-access property with
+       permission from the property owner/controller or authorized representative.
+       Permission from property owner/controller or authorized representative will be
+       obtained for each flight to be conducted.
+
+   28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+       boundaries of the operational area as defined by the applicable COA must be reported
+       to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+       reported to the National Transportation Safety Board (NTSB) per instructions
+       contained on the NTSB Web site: www.ntsb.gov.
+
+If this exemption permits operations for the purpose of closed-set motion picture and
+television filming and production, the following additional conditions and limitations apply.
+                                                                                                                 7
+
+    29. The operator must have a motion picture and television operations manual (MPTOM)
+         as documented in this grant of exemption.
+
+    30. At least 3 days before aerial filming, the operator of the UAS affected by this
+         exemption must submit a written Plan of Activities to the local Flight Standards
+         District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+         notification may be waived with the concurrence of the FSDO. The plan of activities
+         must include at least the following:
+           a. Dates and times for all flights;
+           b. Name and phone number of the operator for the UAS aerial filming conducted
+              under this grant of exemption;
+           c. Name and phone number of the person responsible for the on-scene operation of
+              the UAS;
+           d. Make, model, and serial or N-Number of UAS to be used;
+           e. Name and certificate number of UAS PICs involved in the aerial filming;
+           f. A statement that the operator has obtained permission from property owners
+              and/or local officials to conduct the filming production event; the list of those
+              who gave permission must be made available to the inspector upon request;
+           g. Signature of exemption holder or representative; and
+           h. A description of the flight activity, including maps or diagrams of any area, city,
+              town, county, and/or state over which filming will be conducted and the altitudes
+              essential to accomplish the operation.
+
+    31. Flight operations may be conducted closer than 500 feet from participating persons
+         consenting to be involved and necessary for the filming production, as specified in the
+         exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                      8
+
+This exemption terminates on August 31, 2017, unless sooner superseded or rescinded.
+
+Sincerely,
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+                                                      
+  
+  
+
+                                                  April 21, 2015
+
+Manager, Flight Standards Service
+Unmanned Aircraft Systems Integration Office
+Federal Aviation Administration
+800 Independence A venue, SW
+Washington, DC 20591
+
+U.S. Department of Transportation
+Docket Management System
+1200 New Jersey Avenue, SE
+Washington, DC 20590
+
+      ArgenTech Solutions respectfully requests an exemption from several provisions of Title 14
+of the Code of Federal Regulations (C.F.R.) to permit the use of small unmanned aerial systems
+(sUAS) to assist in the evaluation and inspection of Public Utilities, Infrastructure, Forest Fire
+monitoring, and Emergency Public Response. This request is motivated primarily by the desire to
+maximize safety during high-risk and hazardous operations, as well as assisting with public
+emergencies, and to mitigate any safety concerns associated with such operations. While an
+exemption would not eliminate the current need for in-person visual inspection and monitoring, it
+would allow ArgenTech Solutions to evaluate assets and infrastructure with sUAS, resulting in a
+safer and more efficient valuation of public utilities, infrastructure, wild fire monitoring and
+emergency public response.
+
+Company Profile
+
+      ArgenTech Solutions (AgTS) is a Veteran-Owned Small Business formed in March 2009 as
+a NH-based S-corporation. Our company's core competencies include providing Unmanned Aerial
+System (UAS) Field Service Representatives (FSRs) in support of Department of Defense (DoD),
+foreign governments, and civilian industry. AgTS is a professional aviation organization with
+significant experience in UAS operations, including: mission coordination/airspace deconfliction,
+UAS operations & maintenance, sensor applications, data compilation and analysis, and overall
+program safety.
+
+      AgTS has supported 182 deployments for DoD, with a combined total of 20,000 deployed
+operational days. As an aggregate, AgTS' 50 highly trained Field Service Representative's (FSR)
+have accumulated over 40,000 hours of experience as Pilot-in-Command (PIC), with over 13,000
+UAS launches and recoveries for Group II and higher UAS. Our average FSR experience level is
+>950 hours PIC, >650 launches and recoveries.
+
+NOTES:
+
+ArgenTech Solutions, Inc.
+16701 SE McGillivray Suite 210
+Vancouver, WA 98683
+ 
+                                                      
+  
+  
+
+ All information pertaining to the proposed system can be found in Appendix A (OEM manual).
+
+ ArgenTech Solutions holds Unmanned Aircraft insurance with United States Aircraft
+    Insurance Group (Policy Number SIHL1-142Y).
+
+ ArgenTech Solutions intends to use the 3D Robotics Aero-M (The OEM Manual of which is
+    attached as Appendix A) in its sUAS operations.
+
+ ArgenTech intends to adopt ASTM F2500-07 Standard Practice for Unmanned Aircraft
+    System (UAS) Visual Range Flight Operations (Attached as Appendix B) and ASTM F2909-
+    14 Standard Practice for Maintenance and Continued Airworthiness of small Unmanned
+    Aircraft Systems (Attached as Appendix C).
+
+Regulatory Provisions from which ArgenTech Solutions seeks an Exemption
+
+      ArgenTech Solutions believes it will need an exemption from the following provisions to
+conduct the contemplated operations. In some instances, relief is needed because relief from
+another provision renders compliance with the regulation at hand not feasible.
+
+         14 C.F.R. §61.113(a) and (b)
+         14 C.F.R. §91.7(a)
+         14 C.F.R. §91.9(b)(2)
+         14 C.F.R. §91.109(a)
+         14 C.F.R. §91.119
+         14 C.F.R. §91.151
+         14 C.F.R. §91.203(a) and (b)
+         14 C.F.R. §91.405(a)
+         14 C.F.R. §91.407(a)
+         14 C.F.R. §91.409(a)
+
+      ArgenTech Solutions believes an exemption is only needed from the above-listed regulatory
+provisions. To the extent that the FAA believes that additional relief is required for ArgenTech
+Solutions to conduct the operations described here, we request an exemption from any such
+regulatory provisions as well.
+
+The Extent of Requested Relief and the Reasons Relief is Needed
+
+       14 C.F.R. §61.113(a) and (b)
+
+       §61.113 Private pilot privileges and limitations: Pilot in Command.
+
+       (a) Except as provided in paragraphs (b) through (h) of this section, no person who
+       holds a private pilot certificate may act as pilot in command of an aircraft that is
+       carrying passengers or property for compensation or hire; nor may that person, for
+       compensation or hire, act as pilot in command of an aircraft.
+
+ArgenTech Solutions, Inc.
+16701 SE McGillivray Suite 210
+Vancouver, WA 98683
+ 
+                                                      
+  
+  
+
+       (b) A private pilot may, for compensation or hire, act as pilot in command of an aircraft
+       in connection with any business or employment if:
+
+       (1) The flight is only incidental to that business or employment; and
+
+       (2) The aircraft does not carry passengers or property for compensation or hire.
+
+      ArgenTech Solutions' specially trained and certified employees will conduct the sUAS
+operations. While these individuals will have US FAA private pilot licenses, they will not hold
+commercial pilot licenses. The sUAS will not carry "property for compensation or hire" since they
+will be used solely to assist in evaluation and inspections of public utilities and infrastructure.
+Without an exemption, the pilot would be required to hold a commercial pilot certificate under
+§61.133. However, the risk associated with the contemplated operations is less than the risk posed
+by a traditional manned aircraft. The sUAS will fly at altitudes well below the permissible limits
+for other civil aircraft, eliminating the risk to other aircraft, and within a geographical envelope
+under the sole control of ArgenTech Solutions. Accordingly, the risk would be limited to
+ArgenTech personnel, who will be appropriately outfitted in safety gear. Requiring a commercial
+pilot certificate would provide no appreciable safety benefit and would needlessly impose
+additional costs on ArgenTech and its customers. Because the contemplated operations would not
+comply with §61.113(b)(1) and none of the other exceptions to paragraph (a) apply, relief is needed
+from both paragraphs (a) and (b).
+
+       14 C.F.R. 91.7(a)
+
+       §91.7 Civil aircraft airworthiness.
+
+       (a) No person may operate a civil aircraft unless it is in an airworthy condition.
+
+       (b) The pilot in command of a civil aircraft is responsible for determining whether that
+       aircraft is in condition for safe flight. The pilot in command shall discontinue the flight
+       when un-airworthy mechanical, electrical, or structural conditions occur.
+
+      There is no clear definition of "airworthy" as applied to the proposed sUAS, and the term
+has been defined in various ways depending on the applied circumstances. In all instances, it
+appears that the concept includes a requirement that the airplane 1) conforms to the aircraft's
+documented type design or its type certificate, as modified by supplemental type certificates and
+airworthiness directives, and 2) be in condition for safe operations. The sUAS will not have a type
+design or type certificate, as the FAA has not developed standards applicable to sUAS. As
+discussed later in this document, the types of operations contemplated by ArgenTech will not
+qualify the sUAS for an experimental airworthiness certificate. Accordingly, relief from §91.7(a)
+is requested. Should the FAA include airworthiness requirements as a condition of exercising the
+exemption, ArgenTech will assure the continued airworthiness of the sUAS. Regardless,
+ArgenTech believes that it can meet the requirements of §91.7(b), and is not requesting an
+exemption from that provision.
+
+ArgenTech Solutions, Inc.
+16701 SE McGillivray Suite 210
+Vancouver, WA 98683
+ 
+                                                       
+                                             
+                                             
+
+       14 C.F.R. 91.9(b)(2)
+
+§91.9 Civil aircraft flight manual, marking, and placard requirements.
+
+...
+
+(b) No person may operate a U.S.-registered civil aircraft --
+
+...
+
+(2) For which an Airplane or Rotorcraft Flight Manual is not required by §21.5 of this
+chapter unless there is available in the aircraft a current, approved manual material,
+markings, and placards, or any combination thereof.
+
+...
+
+      The sUAS comes with access to online manuals that provide instructions for the safe
+operation and maintenance of the aircraft. Compliance with this regulatory provision is not
+possible because this information has not been, and cannot be, approved by the FAA since there
+are no applicable standards established by the FAA against which to evaluate it. Additionally, the
+sUAS is too small to carry a printed manual. Since, by definition, there will never be a person
+aboard the sUAS, ArgenTech submits that there is no need to require the manual to be placed on
+the sUAS and an exemption is appropriate. Safety will be maintained by keeping the flight manual
+at the ground control point where the PIC will have immediate access to it. Since the sUAS cannot
+be operated without the Ground Control Station containing the manuals, there is minimal risk that
+the manuals will become separated from the sUAS, and ArgenTech will be able to immediately
+locate the manuals to effectuate any needed repairs on the sUAS detailed in the flight manual.
+
+       14 C.F.R. 91.109
+
+       §91.109 Flight instruction; simulated instrument flight and certain flight tests.
+
+       (a) No person may operate a civil aircraft (except a manned free balloon) that is being
+       used for flight instruction unless that aircraft has fully functioning dual controls....
+
+      Small UASs, by their design, do not have fully functional dual controls. Flight control is
+accomplished through the use of a Ground Control Station that communicates with the aircraft via
+radio communications (C2 Link). Aircraft being considered for use by ArgenTech allows the UAS
+Instructor to place the aircraft into `loiter' mode (fixed altitude stationary hold). In the event of the
+student losing control, the UAS Instructor can quickly and via alternate equipment (equipment not
+in the hands of the student) place the aircraft into a mode that then allows the instructor to bring
+the aircraft back into control and back to the pre-determined and/or safe landing location.
+
+       14 C.F.R. 91.119
+
+       §91.119 Minimum safe altitudes: General.
+
+       Except when necessary for takeoff or landing, no person may operate an aircraft below
+       the following altitudes:
+
+ArgenTech Solutions, Inc.
+16701 SE McGillivray Suite 210
+Vancouver, WA 98683
+ 
+                         
+                                    
+                                    
+       ...
+
+(c) Over other than congested areas. An altitude of 500 feet above the surface, except
+over open water or sparsely populated areas. In those cases, the aircraft may not be
+operated closer than 500 feet to any person, vessel, vehicle, or structure.
+
+...
+
+      ArgenTech submits that the only relief it requires from §91.119 is from the minimum
+altitudes listed in paragraph (c). Relief is required from paragraph (c) for fixed wing operations
+because asset evaluation conducted at 500 feet or higher is insufficiently distinct to be meaningful.
+Since operations at this altitude also pose a heightened risk of collision with another aircraft, safety
+can only be assured through the grant of an exemption. The anticipated aircraft operations should
+be adequately addressed by paragraph (d) (1). Additionally, relief should not be needed from
+paragraph (a) because an emergency landing of the aircraft due to a power failure will not create
+an undue hazard to persons or property on the surface, as noted in the explanation of why an
+exemption will not adversely affect safety.
+
+      ArgenTech will have exclusive use of the land over which the sUAS will be operated, and
+public access is restricted. Controlled access to public utility land, structures or emergency
+response areas assure that no individuals unassociated with the planned operations are within the
+affected area of operations. ArgenTech personnel are required to wear mandatory safety
+equipment, including hard hats, safety glasses whenever dispatched to a work site. As such, the
+risk of injury is minimal. ArgenTech does not contemplate conducting operations over congested
+areas, so relief is not requested from paragraph (b).
+
+       14 C.F.R. 91.151
+
+       §91.151 Fuel requirements for flight in VFR conditions.
+
+       (a) No person may begin a flight in an airplane under VFR conditions unless
+       (considering wind and forecast weather conditions) there is enough fuel to fly to the
+       first point of intended landing and, assuming normal cruising speed ­
+
+       (1) During the day, to fly after that for at least 30 minutes.
+
+       (b) No person may begin a flight in a rotorcraft under VFR conditions unless
+       (considering wind and forecast weather conditions) there is enough fuel to fly to the
+       first point of intended landing and, assuming normal cruising speed, to fly after that
+       for at least 20 minutes.
+
+      Operating the sUAS in a pre-defined area with less than 30 minutes of reserve fuel does not
+raise the type of risk contemplated by §91.151, i.e., that an aircraft could run out of fuel in the
+event it has to be flown to an alternate airport or circle the planned airport in the event of
+unanticipated conditions. ArgenTech does not intend to use the sUAS for point-to-point flights
+and will not operate the sUAS beyond visual line of sight. Nor will the sUAS require an airport in
+order to land. Rather, ArgenTech will operate the sUAS using pre-planned flight paths (taking into
+account weather conditions) designed to allow the sUAS to fly to the point of intended landing.
+
+ArgenTech Solutions, Inc.
+16701 SE McGillivray Suite 210
+Vancouver, WA 98683
+ 
+                                                      
+  
+  
+
+As such, there is no need for a time-based excess fuel requirement. Rather it should be sufficient
+to require only as much additional excess flight capacity as necessary to safely land the sUAS. We
+believe that a 20% energy reserve is more than sufficient to meet this objective.
+
+       14 C.F.R. 91.203(a) and (b)
+
+       § 91.203 Civil Aircraft: Certifications required.
+
+       (a) Except as provided in §91.715, no person may operate a civil aircraft unless it has
+       within it the following:
+
+       (1) An appropriate and current airworthiness certificate. ...
+
+       (2) An effective U.S. registration certificate issued to its owner or, for operations
+       within the United States, the second copy of the Aircraft Registration Application as
+       provided for in §47.31(c), or a registration certification issued under the laws of a
+       foreign country.
+
+       (b) No person may operate a civil aircraft unless the airworthiness certificate required
+       by paragraph (a) of this section or a special flight authorization issued under §91.715
+       is displayed at the cabin or cockpit entrance so that it is legible to passengers or crew.
+
+       ...
+
+      The sUAS that ArgenTech intends to operate will not qualify for an airworthiness certificate
+unless the FAA chooses to issue them a restricted category certificate. This is because the sUAS
+do not meet the current conditions for either a standard airworthiness certificate or an experimental
+airworthiness certificate. Notably, under 14 C.F.R. §21.191,8 experimental airworthiness
+certificates are only available for research and development, showing compliance with regulations,
+crew training, exhibitions, air racing, market surveys, operating amateur-built aircraft, operating
+primary kit-built aircraft and operating light-sport aircraft. Until such time as the FAA develops
+airworthiness standards applicable to sUAS for non-recreational and nonexperimental use,
+ArgenTech submits that the FAA should consider exemptions to the requirements of §91.203(a).
+The absence of such exemptions hinders the development of sUAS and applicable uniform
+standards since it is only through the development of the aircraft that the FAA can reliably evaluate
+them and determine appropriate design standards.
+
+      Section 333 of the Modernization Act authorizes the FAA to exempt aircraft from the
+requirement for an airworthiness certificate based on a consideration of the size, weight, speed,
+operational capability of the particular UAS, as well as its proximity to airports and populated
+areas. An analysis of these criteria demonstrates that the sUAS operated without an airworthiness
+certificate in the areas and under the conditions contemplated by ArgenTech will be at least as
+safe, or safer, than a conventional aircraft (fixed wing or rotorcraft) operating with an airworthiness
+certificate without the conditions proposed in this request. The sUAS is less than 55 lbs. fully
+loaded, carries neither a pilot nor passenger, and operates exclusively within a secured area as set
+out in the UAS Operating Manual (Appendix B). Unlike other civil aircraft, operations under this
+exemption will be tightly controlled and monitored by the operator and observer. Operations will
+
+ArgenTech Solutions, Inc.
+16701 SE McGillivray Suite 210
+Vancouver, WA 98683
+ 
+                                                      
+  
+  
+
+be conducted in compliance with the FAA and with local public safety requirements to provide
+security for the area of operation. Lastly, application of these same criteria demonstrates that there
+is no credible threat to national security posed by the sUAS, due to its size, speed of operation,
+location of operation, lack of explosive materials and inability to carry a substantial external load.
+
+      If the FAA waives the requirements of paragraph (a) (1), then it is technically impossible to
+comply with paragraph (b), so an exemption is merited there as well.
+
+       14 C.F.R. 91.405(a), 91.407(a) (1) and 14 C.F.R. 91.409(a)
+
+       §91.405 Maintenance required.
+
+       Each owner or operator of an aircraft ­
+
+       (a) Shall have that aircraft inspected as prescribed in subpart E of this part and shall
+       between required inspections, except as provided in paragraph (c) of this section, have
+       discrepancies repaired as prescribed in part 43 of this chapter;
+
+       ...
+
+       §91.407 Operation after maintenance, preventive maintenance, rebuilding, or
+       alteration.
+
+       (a) No person may operate any aircraft that has undergone maintenance, rebuilding, or
+       alteration unless:
+
+       (1) It has been approved for return to service by a person authorized under §43.7 of
+       this chapter;
+
+       ...
+
+       §91.409 Inspections.
+
+       (a) Except as provided in paragraph (c) of this section, no person may operate an
+       aircraft unless, within the preceding 12 calendar months, it has had
+
+       (1) An annual inspection in accordance with part 43 of this chapter and has been
+       approved for return to service by a person authorized by §43.7 of this chapter; or
+
+       (2) An inspection for the issuance of an airworthiness certificate in accordance with
+       part 21 of this chapter.
+
+       ...
+
+      ArgenTech believes that an exemption from these three maintenance requirements is
+appropriate because the FAA has not developed maintenance standards for UAS that would allow
+an operator to meet the part 91 maintenance requirements. In particular, there are no individuals
+authorized by the FAA to approve a sUAS for return to service under §91.407(a) or to conduct the
+initial airworthiness and annual return to service inspections required by §91.409(a). ArgenTech
+will maintain the aircraft as instructed in the owner's manual and ASTM F2909(Attached as
+
+ArgenTech Solutions, Inc.
+16701 SE McGillivray Suite 210
+Vancouver, WA 98683
+ 
+                                                      
+  
+  
+
+Appendix C), where applicable, and will not operate the aircraft until it has reasonably determined
+that any needed repairs have been made. However, because of the technical impossibility of
+meeting the requirements of §§91.405(a), 407(a) and 409(a), we believe an exemption from these
+provisions is appropriate.
+
+      Please do not hesitate to contact me at the phone number or via the e-mail address provided
+above should you have any questions or concerns.
+
+ 
+              Respectfully,
+
+                                                                     Marcel Piet
+                                                                     President-UAS Services
+                                                                            603-836-0588 X122 | Cell: 207-651-3476
+                                                                            Email: mpiet@agts.us
+
+ArgenTech Solutions, Inc.
+16701 SE McGillivray Suite 210
+Vancouver, WA 98683
+ 
+                                                      
+  
+  
+
+                              Summary for Federal Register Publications
+
+Pursuant to 14 C.F.R. Part 11, the following summary is provided for publication in the Federal
+Register should the FAA determine that publication is needed.
+
+Petitioner: ArgenTech Solutions
+
+Sections of 14 C.F.R. Affected:
+         14 C.F.R. §61.113(a) and (b)
+         14 C.F.R. §91.7(a)
+         14 C.F.R. §91.9(b) (2)
+         14 C.F.R. §91.109(a)
+         14 C.F.R. §91.119
+         14 C.F.R. §91.151
+         14 C.F.R. §91.203(a) and (b)
+         14 C.F.R. §91.405(a)
+         14 C.F.R. §91.407(a)
+         14 C.F.R. §91.409(a)
+
+Description of Relief Sought: Petitioner seeks relief from the requirements of 14 C.F.R. §§45.29,
+61.113(a) & (b), 91.7(a), 91.9(b)(2), 91.119, 91.121(a), 91.151, 91.203(a) &(b), 91.405(a),
+91.407(a) and 91.409(a) to conduct sUAS operations over privet and publicly owned or controlled
+land, solely during daylight hours, to assist in the safe evaluation and analysis of public utility's
+and infrastructure and operations. In general, sUAS operations are intended to be conducted in
+areas remote from both congested areas and airports. The nature of operations anticipated by
+ArgenTech requires that the sUAS be flown at relatively low altitudes. ArgenTech expects that in
+most instances, the sUAS will be flown less than 75 feet from the highest structure along the path
+of the sUAS and in no instances will be flown higher than 400 feet above the ground. Accordingly,
+the risk of interference with other aircraft is minimal.
+
+ArgenTech Solutions, Inc.
+16701 SE McGillivray Suite 210
+Vancouver, WA 98683
+ 
+                                              
+                                                         
+                                                         
+9 July, 2015
+
+Brenda Robeson
+Program Analyst, Airmen and
+Airspace Rules Division
+800 Independence Ave. SW
+Washington, D.C. 20591
+
+Dear Ms. Robeson
+
+We are in receipt of your letter dated 26 June, 2015 notifying us of the FAA request for
+additional information required to process our request for exemption from several provisions of
+Title 14 of the Code of Federal Regulations (C.F.R.). In your letter you indicated we needed to
+provide: "The reasons why granting the request would be in the public interest: That is, how it
+would benefit the public as a whole." The section below provides the requested information.
+Also attached is our original request with the paragraphs below inserted to provide a complete
+document.
+
+Reason why granting the request would be in the public interest
+
+This exemption application is submitted to fulfill Congress' goal in passing Section 333(a)
+through (c) of the Reform Act. This law directs the Secretary of Transportation to consider
+whether certain unmanned aircraft systems may operate safely in the NAS before completion of
+the rulemaking required under Section 332 under the same act. By granting an exemption the
+FAA will fulfill Congress' intent of allowing UAS to operate with significant safety precautions
+in low risk environments." See Exemption No. 11335, Regulatory Docket No. FAA­2014-1106,
+p.11
+
+The use of small unmanned aircraft (sUAS) for infrastructure inspection can significantly reduce
+the risk to workers of falls while inspecting, surveying, or monitoring numerous projects. sUAS
+can inspect, photograph, and collect real time data in hard to get to areas that as of now require
+worker inspection. Falls are the leading source of workplace fatality and injury on construction
+sites accounting for 36% of total deaths according to OSHA statistics and a reduction of falls
+through the use sUAS for site imaging and inspection could save workers' lives, which is
+undoubtedly in the public interest. The petitioned aircraft is under the fifty-five pound threshold
+and carries no combustible material on board, as opposed to the much larger conventionally
+powered aircraft. Shifting to sUAS from other manned assets presents a marked safety increase
+for workers and the public. See similar approved Exemption No. 11335, Regulatory Docket No.
+FAA­2014-1106, p 11
+
+ArgenTech Solutions, Inc. 
+16701 SE McGillivray Suite 210 
+Vancouver, WA 98683 
+ 
+                                                      
+  
+  
+
+As stated "The FAA finds that a grant of exemption is in the public interest. The enhanced safety
+achieved using a UA with the specifications described by the petitioner and carrying no
+passengers or crew, rather than a manned aircraft of significantly greater proportions, carrying
+crew in addition to flammable fuel, gives the FAA good cause to find that the UAS operation
+enabled by this exemption is in the public interest." See Exemption No. 11062, Regulatory
+Docket No. FAA­2014­0352, p. 22
+Thank you for the notification and allowing us to provide the additional information. Should you
+have any further request for information, please feel free to contact me again.
+
+                                                                     Respectfully,
+        
+ 
+              Marcel Piet
+              PresidentUAS Services 
+              6038360588 X122 | Cell: 2076513476    
+              Email: mpiet@agts.us
+
+ArgenTech Solutions, Inc. 
+16701 SE McGillivray Suite 210 
+Vancouver, WA 98683 
+ 
+                                                      
+  
+  
+
+Manager, Flight Standards Service
+Unmanned Aircraft Systems Integration Office
+Federal Aviation Administration
+800 Independence A venue, SW
+Washington, DC 20591
+
+U.S. Department of Transportation
+Docket Management System
+1200 New Jersey Avenue, SE
+Washington, DC 20590
+
+         ArgenTech Solutions respectfully requests an exemption from several provisions of Title
+14 of the Code of Federal Regulations (C.F.R.) to permit the use of small unmanned aerial
+systems (sUAS) to assist in the evaluation and inspection of Public Utilities, Infrastructure,
+Forest Fire monitoring and Emergency Public Response. This request is motivated primarily by
+the desire to maximize safety during hazardous operations, as well as assisting with public
+emergencies and to mitigate any safety concerns associated with such operations. While an
+exemption would not eliminate the current need for in-person visual inspection and monitoring it
+would allow ArgenTech Solutions to evaluate assets and infrastructure with sUAS, resulting in a
+safer and more efficient valuation of public utilities, infrastructure, wild fire monitoring and
+emergency public response.
+
+Company Profile
+
+         ArgenTech Solutions (AgTS) is a Veteran-Owned Small Business that was formed in
+March 2009 as a NH-based S-corporation. Our company core competencies include providing
+Unmanned Aerial System (UAS) Field Service Representatives (FSRs) in support of DoD and
+civilian industry. AgTS is a professional aviation organization with significant experience in
+UAV operation.
+
+         AgTS has supported 182 deployments with a combined total of 20,000 deployed days. As
+an aggregate, AgTS' 50 highly trained Field Service Representative's (FSR) have accumulated
+over 40,000 hours of experience as Pilot in Command (PIC) with over 13,000 UAS launches and
+recoveries for Group II and higher UAS. Our average FSR experience level is >950 hours PIC,
+>650 launches and recoveries.
+
+                                                      NOTE:
+
+      All information pertaining to this system can be found in Appendix A (OEM manual).
+
+ArgenTech Solutions, Inc. 
+16701 SE McGillivray Suite 210 
+Vancouver, WA 98683 
+ 
+                                                      
+  
+  
+
+ArgenTech Solutions hold's Unmanned Aircraft insurance with United States Aircraft Insurance
+                                   Group (Policy Number SIHL1-142Y).
+
+   ArgenTech Solutions intends to use the 3DRobotics Aero-M (The OEM Manual of which is
+                             attached as Appendix A) in its sUAS operations.
+
+                                          ArgenTech intends to adopt
+         ASTM F2500-07 Standard Practice for Unmanned Aircraft System (UAS) Visual Range
+
+                                Flight Operations (Attached as Appendix B)
+           ASTM F2909-14 Standard Practice for Maintenance and Continued Airworthiness of
+
+                     small Unmanned Aircraft Systems (Attached as Appendix C).
+
+Reason why granting the request would be in the public interest
+
+This exemption application is submitted to fulfill Congress' goal in passing Section 333(a)
+through (c) of the Reform Act. This law directs the Secretary of Transportation to consider
+whether certain unmanned aircraft systems may operate safely in the NAS before completion of
+the rulemaking required under Section 332 under the same act. By granting an exemption the
+FAA will fulfill Congress' intent of allowing UAS to operate with significant safety precautions
+in low risk environments." See Exemption No. 11335, Regulatory Docket No. FAA­2014-1106,
+p.11
+
+The use of small unmanned aircraft (sUAS) for infrastructure inspection can significantly reduce
+the risk to workers of falls while inspecting, surveying, or monitoring numerous projects. sUAS
+can inspect, photograph, and collect real time data in hard to get to areas that as of now require
+worker inspection. Falls are the leading source of workplace fatality and injury on construction
+sites accounting for 36% of total deaths according to OSHA statistics and a reduction of falls
+through the use sUAS for site imaging and inspection could save workers' lives, which is
+undoubtedly in the public interest. The petitioned aircraft is under the fifty-five pound threshold
+and carries no combustible material on board, as opposed to the much larger conventionally
+powered aircraft. Shifting to sUAS from other manned assets presents a marked safety increase
+for workers and the public. See similar approved Exemption No. 11335, Regulatory Docket No.
+FAA­2014-1106, p 11
+
+As stated "The FAA finds that a grant of exemption is in the public interest. The enhanced safety
+achieved using a UA with the specifications described by the petitioner and carrying no
+passengers or crew, rather than a manned aircraft of significantly greater proportions, carrying
+crew in addition to flammable fuel, gives the FAA good cause to find that the UAS operation
+enabled by this exemption is in the public interest." See Exemption No. 11062, Regulatory
+Docket No. FAA­2014­0352, p. 22
+
+ArgenTech Solutions, Inc. 
+16701 SE McGillivray Suite 210 
+Vancouver, WA 98683 
+ 
+                                                      
+  
+  
+
+Regulatory Provisions from which ArgenTech Solutions seeks an Exemption
+
+         ArgenTech Solutions believes it may need an exemption from the following provisions to
+conduct the contemplated operations. In some instances, relief is needed because relief from
+another provision renders compliance with the regulation at hand infeasible.
+
+         14 C.F.R. §61.113(a) and (b)
+         14 C.F.R. §91.7(a)
+         14 C.F.R. §91.9(b)(2)
+         14 C.F.R. §91.109(a)
+         14 C.F.R. §91.119
+         14 C.F.R. §91.151
+         14 C.F.R. §91.203(a) and (b)
+         14 C.F.R. §91.405(a)
+         14 C.F.R. §91.407(a)
+         14 C.F.R. §91.409(a)
+
+         ArgenTech Solutions believes an exemption is only needed from the above-listed
+regulatory provisions. To the extent that the FAA believes that additional relief is required for
+ArgenTech Solutions to conduct the operations described here, we request an exemption from
+any such regulatory provisions as well.
+
+The Extent of Requested Relief and the Reasons Relief is Needed
+
+14 C.F.R. §61.113(a) and (b)
+
+         §61.113 Private pilot privileges and limitations: Pilot in command.
+         (a) Except as provided in paragraphs (b) through (h) of this section, no person
+         who holds a private pilot certificate may act as pilot in command of an aircraft
+         that is carrying passengers or property for compensation or hire; nor may that
+         person, for compensation or hire, act as pilot in command of an aircraft.
+         (b) A private pilot may, for compensation or hire, act as pilot in command of an
+         aircraft in connection with any business or employment if:
+         (1) The flight is only incidental to that business or employment; and
+         (2) The aircraft does not carry passengers or property for compensation or
+         hire.
+
+ArgenTech Solutions, Inc. 
+16701 SE McGillivray Suite 210 
+Vancouver, WA 98683 
+ 
+                                                      
+  
+  
+
+ArgenTech Solutions specially trained employees will conduct the sUAS operations. While these
+individuals will have private pilot licenses, they will not hold commercial pilot licenses. The
+sUAS will not carry property for compensation or hire since they will be used solely to assist in
+evaluation and inspections of public utilities and infrastructure. Without an exemption, the pilot
+would be required to hold a commercial pilot certificate under §61.133. However, the
+risk associated with the contemplated operations is less than the risk posed by a traditional
+aircraft. The sUAS will fly at altitudes well below the permissible limits for other civil aircraft,
+eliminating the risk to other aircraft, and within a geographical envelope under the sole control of
+ArgenTech Solutions. Accordingly, the risk would be limited to ArgenTech personnel, who will
+be appropriately outfitted in safety gear. Requiring a commercial pilot certificate would provide
+no appreciable safety benefit and would needlessly impose additional cost on ArgenTech.
+Because the contemplated operations would not comply with §61.113(b)(1) and none of the other
+exceptions to paragraph (a) apply, relief is needed from both paragraphs (a) and (b).
+
+14 C.F.R. 91.7(a)
+
+         §91.7 Civil aircraft airworthiness.
+         (a) No person may operate a civil aircraft unless it is in an airworthy condition.
+         (b) The pilot in command of a civil aircraft is responsible for determining
+         whether that aircraft is in condition for safe flight. The pilot in command shall
+         discontinue the flight when un-airworthy mechanical, electrical, or structural
+         conditions occur.
+
+         There is no clear definition of "airworthy," and the term has been defined in various ways
+depending on the circumstances. In all instances, it appears that the concept includes a
+requirement that the airplane 1) conforms to the aircraft's type design or its type certificate, as
+modified by supplemental type certificates and airworthiness directives, and 2) be in condition
+for safe operations. The sUAS will not have a type design or type certificate, as the FAA has not
+developed standards applicable to sUAS. As discussed later in this document, the types of
+operations contemplated by ArgenTech will not qualify the sUAS for an experimental
+airworthiness certificate. Accordingly, relief from §91.7(a) is required. Should the FAA include
+airworthiness requirements as a condition of exercising the exemption, ArgenTech will assure
+the continued airworthiness of the sUAS. Regardless, ArgenTech believes that it can meet the
+requirements of §91.7(b) and is not requesting an exemption from that provision.
+
+14 C.F.R. 91.9(b)(2)
+
+         §91.9 Civil aircraft flight manual, marking, and placard requirements.
+         ***
+         (b) No person may operate a U.S.-registered civil aircraft --
+
+ArgenTech Solutions, Inc. 
+16701 SE McGillivray Suite 210 
+Vancouver, WA 98683 
+ 
+                                                      
+  
+  
+
+         ***
+         (2) For which an Airplane or Rotorcraft Flight Manual is not required by §21.5
+         of this chapter unless there is available in the aircraft a current, approved manual
+         material, markings, and placards, or any combination thereof.
+         *****
+
+         The sUAS comes with access to online manuals that provide instructions for the safe
+operation and maintenance of the aircraft. Compliance with this regulatory provision is not
+possible because this information has not been, and cannot be, approved by the FAA since there
+are no applicable standards established by the FAA against which to evaluate it. Additionally,
+the sUAS is too small to carry a printed manual. Since, by definition, there will never be a
+person aboard the sUAS, ArgenTech submits that there is no need to require the manual to be
+placed on the sUAS and an exemption is appropriate. Safety will be maintained by keeping the
+flight manual at the ground control point where the PIC will have immediate access to it. Since
+the sUAS cannot be operated without the Ground Control Station containing the manuals, there
+is minimal risk that the manuals will become separated from the sUAS, and ArgenTech will be
+able to immediately locate the manuals to effectuate any needed repairs on the sUAS detailed in
+the flight manual.
+
+14 C.F.R. 91.109
+
+         §91.109 Flight instruction; simulated instrument flight and certain flight
+         tests.
+
+         (a) No person may operate a civil aircraft (except a manned free balloon) that is
+         being used for flight instruction unless that aircraft has fully functioning dual
+         controls....
+
+         Small UASs, by their design, do not have fully functional dual controls. Flight control is
+accomplished through the use of a Ground Control Station that communicates with the aircraft
+via radio communications (C2 Link). Aircraft being considered for use by ArgenTech allows the
+UAS Instructor to place the aircraft into `loiter' mode (fixed altitude stationary hold). In the
+event of the student losing control, the UAS Instructor can quickly and via alternate equipment
+
+(equipment not in the hands of the student) place the aircraft into a mode that then allows the
+instructor to bring the aircraft back into control and back to the pre-determined and/or safe
+landing location.
+
+14 C.F.R. 91.119
+
+         §91.119 Minimum safe altitudes: General.
+
+ArgenTech Solutions, Inc. 
+16701 SE McGillivray Suite 210 
+Vancouver, WA 98683 
+ 
+                                                      
+  
+  
+
+         Except when necessary for takeoff or landing, no person may operate an aircraft
+         below the following altitudes:
+         ***
+         (c) Over other than congested areas. An altitude of 500 feet above the surface,
+         except over open water or sparsely populated areas. In those cases, the aircraft
+         may not be operated closer than 500 feet to any person, vessel, vehicle, or
+         structure.
+         *****
+
+         ArgenTech submits that the only relief it requires from §91.119 is from the minimum
+altitudes listed in paragraph (c). Relief is required from paragraph (c) for fixed wing operations
+because asset evaluation conducted at 500 feet or higher is insufficiently distinct to be
+meaningful. Since operations at this altitude also pose a heightened risk of collision with another
+aircraft, safety can only be assured through the grant of an exemption. The anticipated aircraft
+operations should be adequately addressed by paragraph (d) (1). Additionally, relief should not
+be needed from paragraph (a) because an emergency landing of the aircraft due to a power
+failure will not create an undue hazard to persons or property on the surface. As noted in the
+explanation of why an exemption will not adversely affect safety,
+
+         ArgenTech will have exclusive use of the land over which the sUAS will be operated,
+and public access is restricted. Controlled access to public utility land, structures or emergency
+response areas assure that no individuals unassociated with the planned operations are within the
+affected area of operations. ArgenTech personnel are required to wear mandatory safety
+equipment, including hard hats, safety glasses whenever dispatched to a work site. As such, the
+risk of injury is minimal. ArgenTech does not contemplate conducting operations over congested
+areas, so relief is not requested from paragraph (b).
+
+14 C.F.R. 91.151
+
+         §91.151 Fuel requirements for flight in VFR conditions.
+
+         (a) No person may begin a flight in an airplane under VFR conditions unless
+         (considering wind and forecast weather conditions) there is enough fuel to fly to
+         the first point of intended landing and, assuming normal cruising speed ­
+         (1) During the day, to fly after that for at least 30 minutes.
+
+ArgenTech Solutions, Inc. 
+16701 SE McGillivray Suite 210 
+Vancouver, WA 98683 
+ 
+                                                      
+  
+  
+
+         (b) No person may begin a flight in a rotorcraft under VFR conditions unless
+         (considering wind and forecast weather conditions) there is enough fuel to fly to
+         the first point of intended landing and, assuming normal cruising speed, to fly
+         after that for at least 20 minutes.
+
+         Operating the sUAS in a pre-defined area with less than 30 minutes of reserve fuel does
+not raise the type of risk contemplated by §91.151, i.e., that an aircraft could run out of fuel in
+the event it has to be flown to an alternate airport or circle the planned airport in the event of
+unanticipated conditions. ArgenTech does not intend to use the sUAS for point-to-point flights
+and will not operate the sUAS beyond visual line of sight. Nor will the sUAS require an airport
+in order to land. Rather, ArgenTech will operate the sUAS using pre-planned flight paths (taking
+into account weather conditions) designed to allow the sUAS to fly to the point of intended
+landing. As such, there is no need for a time-based excess fuel requirement. Rather it should be
+sufficient to require only as much additional excess flight capacity as necessary to safely land the
+sUAS. We believe that a 20% energy reserve is more than sufficient to meet this objective.
+
+14 C.F.R. 91.203(a) and (b)
+
+         § 91.203 Civil Aircraft: Certifications required.
+         (a) Except as provided in §91.715, no person may operate a civil aircraft unless it
+         has within it the following:
+         (1) An appropriate and current airworthiness certificate. ***
+         (2) An effective U.S. registration certificate issued to its owner or, for
+         operations within the United States, the second copy of the Aircraft
+         Registration Application as provided for in §47.31(c), or a registration
+         certification issued under the laws of a foreign country.
+         (b) No person may operate a civil aircraft unless the airworthiness certificate
+         required by paragraph (a) of this section or a special flight authorization issued
+         under §91.715 is displayed at the cabin or cockpit entrance so that it is legible to
+         passengers or crew.
+         *****
+
+The sUAS that ArgenTech intends to operate will not qualify for an airworthiness certificate
+unless the FAA chooses to issue them a restricted category certificate. This is because the sUAS
+do not meet the current conditions for either a standard airworthiness certificate or an
+experimental airworthiness certificate. Notably, under 14 C.F.R. §21.191,8 experimental
+airworthiness certificates are only available for research and development, showing compliance
+with regulations, crew training, exhibitions, air racing, market surveys, operating amateur-built
+aircraft, operating primary kit-built aircraft and operating light-sport aircraft. Until such time as
+
+ArgenTech Solutions, Inc. 
+16701 SE McGillivray Suite 210 
+Vancouver, WA 98683 
+ 
+                                                      
+  
+  
+
+the FAA develops airworthiness standards applicable to sUAS for non-recreational and
+nonexperimental use, ArgenTech submits that the FAA should consider exemptions to the
+requirements of §91.203(a). The absence of such exemptions hinders the development of sUAS
+and applicable uniform standards since it is only through the development of the aircraft that the
+FAA can reliably evaluate them and determine appropriate design standards.
+
+         Section 333 of the Modernization Act authorizes the FAA to exempt aircraft from the
+requirement for an airworthiness certificate based on a consideration of the size, weight, speed,
+operational capability of the particular UAS, as well as its proximity to airports and populated
+areas. An analysis of these criteria demonstrates that the sUAS operated without an airworthiness
+certificate in the areas and under the conditions contemplated by ArgenTech will be at least as
+safe, or safer, than a conventional aircraft (fixed wing or rotorcraft) operating with an
+airworthiness certificate without the conditions proposed in this request. The sUAS is less than
+55 lbs. fully loaded, carries neither a pilot nor passenger, and operates exclusively within a
+secured area as set out in the UAS Operating Manual (Appendix B). Unlike other civil aircraft,
+operations under this exemption will be tightly controlled and monitored by the operator and
+observer. Operations will be conducted in compliance with the FAA and with local public safety
+requirements to provide security for the area of operation. Lastly, application of these same
+criteria demonstrates that there is no credible threat to national security posed by the sUAS, due
+to its size, speed of operation, location of operation, lack of explosive materials and inability to
+carry a substantial external load.
+
+         If the FAA waives the requirements of paragraph (a) (1), then it is technically impossible
+to comply with paragraph (b), so an exemption is merited there as well.
+
+14 C.F.R. 91.405(a), 91.407(a) (1) and 14 C.F.R. 91.409(a)
+
+         §91.405 Maintenance required.
+         Each owner or operator of an aircraft ­
+         (a) Shall have that aircraft inspected as prescribed in subpart E of this part and
+         shall between required inspections, except as provided in paragraph (c) of this
+         section, have discrepancies repaired as prescribed in part 43 of this chapter;
+         *****
+
+         §91.407 Operation after maintenance, preventive maintenance, rebuilding, or
+         alteration.
+         (a) No person may operate any aircraft that has undergone maintenance,
+         rebuilding, or alteration unless ­
+
+          (1) It has been approved for return to service by a person authorized under
+          §43.7 of this chapter;
+         *****
+
+         §91.409 Inspections.
+
+ArgenTech Solutions, Inc. 
+16701 SE McGillivray Suite 210 
+Vancouver, WA 98683 
+ 
+                                                      
+  
+  
+
+         (a) Except as provided in paragraph (c) of this section, no person may operate an
+         aircraft unless, within the preceding 12 calendar months, it has had __
+
+          (1) An annual inspection in accordance with part 43 of this chapter and has
+          been approved for return to service by a person authorized by §43.7 of this
+          chapter; or
+          (2) An inspection for the issuance of an airworthiness certificate in
+         accordance with part 21 of this chapter.
+         *****
+
+         ArgenTech believes that an exemption from these three maintenance requirements is
+appropriate because the FAA has not developed maintenance standards that would allow an
+operator to meet the part 91 maintenance requirements. In particular, there are no individuals
+authorized by the FAA to approve a sUAS for return to service under §91.407(a) or to conduct
+the initial airworthiness and annual return to service inspections required by §91.409(a).
+ArgenTech will maintain the aircraft as instructed in the owner's manual and ASTM
+F2909(Attached as Appendix C), where applicable, and will not operate the aircraft until it has
+reasonably determined that any needed repairs have been made. However, because of the
+technical impossibility of meeting the requirements of §§91.405(a), 407(a) and 409(a), we
+believe an exemption from these provisions
+is appropriate.
+
+         Please do not hesitate to contact me at the phone number or via the e-mail address
+provided above should you have any questions or concerns.
+
+ 
+              Respectfully,
+        
+ 
+              Marcel Piet
+              PresidentUAS Services 
+              6038360588 X122 | Cell: 2076513476    
+              Email: mpiet@agts.us
+
+ArgenTech Solutions, Inc. 
+16701 SE McGillivray Suite 210 
+Vancouver, WA 98683 
+ 
+                                                      
+  
+  
+
+                               Summary for Federal Register Publication
+
+Pursuant to 14 C.F.R. Part 11, the following summary is provided for publication in the Federal
+Register should the FAA determine that publication is needed.
+
+Petitioner: ArgenTech Solutions
+
+Sections of 14 C.F.R. Affected:
+         14 C.F.R. §61.113(a) and (b)
+         14 C.F.R. §91.7(a)
+         14 C.F.R. §91.9(b) (2)
+         14 C.F.R. §91.109(a)
+         14 C.F.R. §91.119
+         14 C.F.R. §91.151
+         14 C.F.R. §91.203(a) and (b)
+         14 C.F.R. §91.405(a)
+         14 C.F.R. §91.407(a)
+         14 C.F.R. §91.409(a)
+
+Description of Relief Sought: Petitioner seeks relief from the requirements of 14 C.F.R. §§45.29,
+61.113(a) & (b), 91.7(a), 91.9(b)(2), 91.119, 91.121(a), 91.151, 91.203(a) &(b), 91.405(a),
+91.407(a) and 91.409(a) to conduct sUAS operations over privet and publicly owned or
+controlled land, solely during daylight hours, to assist in the safe evaluation and analysis of
+public utility's and infrastructure and operations. In general, sUAS operations are intended to be
+conducted in areas remote from both congested areas and airports. The nature of operations
+anticipated by ArgenTech requires that the sUAS be flown at relatively low altitudes. ArgenTech
+expects that in most instances, the sUAS will be flown less than 75 feet from the highest
+structure along the path of the sUAS and in no instances will be flown higher than 400 feet above
+the ground. Accordingly, the risk of interference with other aircraft is minimal.
+
+ArgenTech Solutions, Inc. 
+16701 SE McGillivray Suite 210 
+Vancouver, WA 98683 
+ 
+

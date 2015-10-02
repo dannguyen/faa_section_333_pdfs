@@ -1,0 +1,1025 @@
+October 1, 2015
+
+                                                           Exemption No. 13057
+                                                           Regulatory Docket No. FAA-2015-2881
+
+Mr. Jeff Taylor
+VP of Property InSight
+Xactware Solutions, Inc.
+1100 West Traverse Parkway
+Lehi, UT 84043
+
+Dear Mr. Taylor:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter dated June 9, 2015, you petitioned the Federal Aviation Administration (FAA) on
+behalf of Xactware Solutions, Inc. (hereinafter petitioner or operator) for an exemption. The
+petitioner requested to operate an unmanned aircraft system (UAS) to conduct imagery and
+analytics in underwriting, catastrophe response, roof inspection, and claim resolution.
+
+See the docket, at www.regulations.gov, for the petition submitted to the FAA describing the
+proposed operations and the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner are the Aerialtronics Altura Zenith ATX8, DJI Phantom
+2, Parrot Bebop.
+
+In accordance with the statutory criteria provided in Section 333 of Public Law 112-95 in
+reference to 49 U.S.C. § 44704, and in consideration of the size, weight, speed, and limited
+                                                                                                                 2
+
+operating area associated with the aircraft and its operation, the Secretary of Transportation
+has determined that this aircraft meets the conditions of Section 333. Therefore, the FAA
+finds that relief from 14 CFR part 21, Certification procedures for products and parts,
+Subpart H--Airworthiness Certificates, and any associated noise certification and testing
+requirements of part 36, is not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection1 or/and closed set motion picture
+and filming. The FAA has issued grants of exemption in circumstances similar in all material
+respects to those presented in your petition. In Grants of Exemption Nos. 11062 to Astraeus
+Aerial (see Docket No. FAA-2014-0352), 11109 to Clayco, Inc. (see Docket No.
+FAA-2014-0507), 11112 to VDOS Global, LLC (see Docket No. FAA-2014-0382), and
+11213 to Aeryon Labs, Inc. (see Docket No. FAA-2014-0642), the FAA found that the
+enhanced safety achieved using an unmanned aircraft (UA) with the specifications described
+by the petitioner and carrying no passengers or crew, rather than a manned aircraft of
+significantly greater proportions, carrying crew in addition to flammable fuel, gives the FAA
+good cause to find that the UAS operation enabled by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+ They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+ The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+ A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, Xactware Solutions, Inc. is granted an exemption from
+14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a), 91.7(a), 91.119(c),
+91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a) and (b), to
+the extent necessary to allow the petitioner to operate a UAS to perform aerial data collection.
+This exemption is subject to the conditions and limitations listed below.
+
+1 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                                3
+
+Conditions and Limitations
+
+In this grant of exemption, Xactware Solutions, Inc. is hereafter referred to as the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+1. Operations authorized by this grant of exemption are limited to the Aerialtronics
+    Altura Zenith ATX8, DJI Phantom 2, Parrot Bebop when weighing less than
+    55 pounds including payload. Proposed operations of any other aircraft will require a
+    new petition or a petition to amend this exemption.
+
+2. Operations for the purpose of closed-set motion picture and television filming are
+    not permitted.
+
+3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+    exemption holder may use either groundspeed or calibrated airspeed to determine
+    compliance with the 87 knot speed restriction. In no case will the UA be operated at
+    airspeeds greater than the maximum UA operating airspeed recommended by the
+    aircraft manufacturer.
+
+4. The UA must be operated at an altitude of no more than 400 feet above ground level
+    (AGL). Altitude must be reported in feet AGL.
+
+5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+
+    This requires the PIC to be able to use human vision unaided by any device other than
+    corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+    U.S. driver's license.
+
+6. All operations must utilize a visual observer (VO). The UA must be operated within
+    the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+    to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+    capability. The VO and PIC must be able to communicate verbally at all times;
+    electronic messaging or texting is not permitted during flight operations. The PIC
+    must be designated before the flight and cannot transfer his or her designation for the
+    duration of the flight. The PIC must ensure that the VO can perform the duties
+    required of the VO.
+
+7. This exemption and all documents needed to operate the UAS and conduct its
+    operations in accordance with the conditions and limitations stated in this grant of
+    exemption, are hereinafter referred to as the operating documents. The operating
+    documents must be accessible during UAS operations and made available to the
+    Administrator upon request. If a discrepancy exists between the conditions and
+    limitations in this exemption and the procedures outlined in the operating documents,
+                                                                                                            4
+
+    the conditions and limitations herein take precedence and must be followed.
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+                                                                                                            5
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least 5 minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+    exemption holder may apply for a new or amended COA if it intends to conduct
+    operations that cannot be conducted under the terms of the enclosed COA.
+                                                                                                            6
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+    be as large as practicable.
+
+23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+    any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+    PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+    These documents must be made available to the Administrator or any law enforcement
+    official upon request.
+
+24. The UA must remain clear and give way to all manned aviation operations and
+    activities at all times.
+
+25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless:
+      a. Barriers or structures are present that sufficiently protect nonparticipating persons
+          from the UA and/or debris in the event of an accident. The operator must ensure
+          that nonparticipating persons remain under such protection. If a situation arises
+          where nonparticipating persons leave such protection and are within 500 feet of
+          the UA, flight operations must cease immediately in a manner ensuring the safety
+          of nonparticipating persons; and
+      b. The owner/controller of any vessels, vehicles or structures has granted permission
+          for operating closer to those objects and the PIC has made a safety assessment of
+          the risk of operating closer to those objects and determined that it does not
+          present an undue hazard.
+
+    The PIC, VO, operator trainees or essential persons are not considered
+    nonparticipating persons under this exemption.
+
+27. All operations shall be conducted over private or controlled-access property with
+    permission from the property owner/controller or authorized representative.
+    Permission from property owner/controller or authorized representative will be
+    obtained for each flight to be conducted.
+
+28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+    boundaries of the operational area as defined by the applicable COA must be reported
+    to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+    reported to the National Transportation Safety Board (NTSB) per instructions
+    contained on the NTSB Web site: www.ntsb.gov.
+                                                                                                                 7
+
+ If this exemption permits operations for the purpose of closed-set motion picture and
+ television filming and production, the following additional conditions and limitations apply.
+
+    29. The operator must have a motion picture and television operations manual (MPTOM)
+         as documented in this grant of exemption.
+
+    30. At least 3 days before aerial filming, the operator of the UAS affected by this
+         exemption must submit a written Plan of Activities to the local Flight Standards
+         District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+         notification may be waived with the concurrence of the FSDO. The plan of activities
+         must include at least the following:
+           a. Dates and times for all flights;
+           b. Name and phone number of the operator for the UAS aerial filming conducted
+              under this grant of exemption;
+           c. Name and phone number of the person responsible for the on-scene operation of
+              the UAS;
+           d. Make, model, and serial or N-Number of UAS to be used;
+           e. Name and certificate number of UAS PICs involved in the aerial filming;
+           f. A statement that the operator has obtained permission from property owners
+              and/or local officials to conduct the filming production event; the list of those
+              who gave permission must be made available to the inspector upon request;
+           g. Signature of exemption holder or representative; and
+           h. A description of the flight activity, including maps or diagrams of any area, city,
+              town, county, and/or state over which filming will be conducted and the altitudes
+              essential to accomplish the operation.
+
+    31. Flight operations may be conducted closer than 500 feet from participating persons
+         consenting to be involved and necessary for the filming production, as specified in the
+         exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                                                 8
+This exemption terminates on October 31, 2017, unless sooner superseded or rescinded.
+Sincerely,
+
+John S. Duncan
+Director, Flight Standards Service
+Enclosure
+                                         McCARTER
+                                          &ENGLISH
+
+                                                        ATTORNEYS AT LAW
+
+Scott S. Christie       June 9, 2015
+
+Partner                 U.S. Department of Transportation
+T. 973.848.5388         Docket Management System
+F. 973.297.3981         1200 New Jersey Ave., SE
+schristie@mccarter.com  Washington, D.C. 20590
+
+McCarter &English, LLP           Re: Exemption Request Pursuant to Section 333 of the FMRA and
+Four Gateway Center                        Part 11 of the Federal Aviation Regulations, Seeking Exemption
+100 Mulberry Street                       from 14 C.F.R. § 61.113(a); 14 C.F.R. § 91.7(a); 14 C.F.R. §
+Newark, NJ 07102-4056                     91.119(c); 14 C.F.R. § 91.121; 14 C.F.R. § 91.151(a); 14 C.F.R. §
+T. 973.622.4444                            91.405(a); 14 C.F.R. § 91.407(a)(1); 14 C.F.R. § 91.409(a)(1) & (2);
+F. 973.624.7070                            14 C.F.R. § 91.417(a) & (b)
+www.mccarter.com
+                        Dear Sir or Madam:
+BOSTON
+                        Pursuant to Section 333 of the FAA Modernization and Reform Act of 2012
+HARTFORD                ("FMRA") and 14 C.F.R. Part 11, Xactware Solutions, Inc. ("Petitioner" or
+                        "Xactware") hereby applies for an exemption from the listed Federal Aviation
+STAMFORD                Regulations ("FARs") and any others necessary to allow operation of its small
+                        Unmanned Aircraft Systems ("UAS") for both research and development ("R&D")
+NEW YORK                and commercial use, so long as such operations are conducted within and under the
+                        conditions outlined herein. Xactware requests such authorization to conduct outdoor
+NEWARK                  flight operations for its use of UAS for insurance functions, including using imagery
+                        and analytics in underwriting, catastrophe response, roof inspection, and claim
+EAST BRUNSWICK          resolution settings. These operations will help define the role of UAS technology in
+                        Xactware's business operations and will guide the company in the most appropriate
+PHILADELPHIA            implementation of such technology. Ultimately, incorporating UAS into Xactware's
+                        business processes will improve worker safety and expedite response and claim
+WILMINGTON              resolution for Xactware's customers.
+
+WASHINGTON, DC          Xactware was founded in 1986 and provides computer software solutions for
+                        professionals involved in estimating all phases of construction and reconstruction of
+                        a building, including routine and emergency repairs. Xactware's flagship product is
+                        Xactimate®, its premier estimating system. Xactimate® assists contractors and
+                        insurance adjusters in estimating repairs much faster and more accurately than
+                        previously could be accomplished. Over time, Xactimate® has evolved into a high-
+                        powered software package complete with a patented plan-sketching program, and
+                        Xactware has become much more than just a provider of Xactimate®. Today 22 of
+                        the top 25 property insurance companies in the United States and all of the top ten
+                        Canadian insurers use Xactware property insurance claims tools.
+
+                        ME1 20494550v.1
+U.S. Department of Transportation
+June 9, 2015
+Page 2
+
+Xactware features software solutions for every phase of a building's life: from
+remodeling to totally replacing a building, and from determining the cost of
+rebuilding a structure to preserving and repairing a home. Xactware users can work
+on a desktop, laptop, tablet, smartphone, or "on the cloud" using browser-based
+solutions. Estimating products are connected to a comprehensive set of tools that
+includes an assignment network, analytical reports, cost research, project
+management, and third-party products. The online training center provides users
+with high-quality training on Xactware solutions and the construction industry.
+
+Xactware invests heavily in research and development as well as in the quality of
+people who develop its products.
+
+Xactware requests this exemption for three purposes. First, Xactware seeks an
+exemption to permit the operation of small UAS for R&D at Xactware's own
+facilities. These operations will be done under controlled conditions in airspace that
+is (1) limited, (2) predetermined, and (3) controlled as to access. Such operations
+will give Xactware valuable information about how best to safely and efficiently
+deploy UAS to serve our customers.
+
+Second, Xactware seeks an exemption to permit the commercial operation of its
+UAS in real world situations within the tightly-controlled and limited airspace over
+the property boundaries of individual real estate parcels with permission of the
+owners of said parcels. These operations will enable Xactware to gather vital
+information related to using UAS for exterior structure inspection and analysis.
+
+Third, Xactware also requests an exemption to permit the commercial operation of
+its UAS in real world situations during and immediately following an actual
+catastrophe such as a tornado, hurricane, flood, mudslide, hail storm, wild fire, or
+other, similar event. In this scenario, Xactware's UAS operations would be
+coordinated with the FAA, local air traffic control ("ATC"), and the officials in
+charge of onsite emergency response.
+
+As detailed below, Xactware's proposed use ofUAS will occur under conditions that
+limit the likelihood of operations over members of the general public and ensure
+complete coordination with any manned aircraft operations. Furthermore, the FAA
+has issued a grant of exemption in circumstances similar in all material respects to
+those presented herein in Grant of Exemption Nos. 11188 and 11309. Accordingly,
+the reasons stated by the FAA for granting the enclosed Grant of Exemption Nos.
+11188 and 11309 also apply to this request for exemption which is in the public
+interest.
+
+ME1 20494550v.1
+U.S. Department of Transportation
+June 9, 2015
+Page 3
+
+I. REQUEST FOR EXEMPTION TO USE UAS AT XACTWARE SITES
+
+         A. Overview of Request to Use UAS at Sites Owned or Controlled by
+              Xactware.
+
+Xactware requests an exemption to allow the use of UAS at Xactware's own
+facilities or on property that it either owns or leases. All such locations will be a
+minimum of 5 miles from any airport. During flight operations, the facility will not
+be open to the public and access will be restricted to Xactware employees or
+consultants directly engaged in related flight operations. UAS operations will occur
+in Class G airspace at altitudes of 400 feet or less. There may be uninhabited
+buildings on property which will enable Xactware to test how UAS will operate and
+capture images over various types of structures.
+
+The purpose of these flight operations will be for research, development and training
+to provide UAS pilots and ground crew experience in inhabited areas. The flights
+also will be conducted to determine how best to integrate UAS into the Xactware's
+existing aerial capture and remote sensing programs. Xactware will consider
+whether UAS may be used to capture imagery and other data to determine damage to
+roofs and structures, having contracted manned aircraft in the past for similar
+purposes. Such experience will permit Xactware to determine preferences for UAS
+deployment for any number of real world scenarios, including not only homeowners
+who have suffered losses, but also areas hit by catastrophes.
+
+Xactware's request for exemption to perform UAS flight operations at its own
+facilities also carries with it a number of benefits. Because none of the six FAA-
+selected UAS test sites are located in Utah, it would be impractical for Xactware to
+use these locations at this time for R&D. The test sites are too distant and would
+cause Xactware to incur unnecessary expense. Additionally, Xactware's need for
+UAS is centered on residential and commercial roof inspections, and must occur by
+operating over residential and commercial type structures. Performing these flight
+operations at Xactware's facilities solves these issues and allows safe and
+economical R&D and training.
+
+The petitioner thus requests authorization to perform UAS operations at its own
+facilities or at sites that it controls.
+
+ ME1 20494550v.1
+U.S. Department of Transportation
+June 9, 2015
+Page4
+
+         B. Public Interest Benefits of Permitting Use ofUAS at Sites Owned
+                  or Controlled by Xactware.
+
+Xactware's request to operate UAS at its own facilities is in the public interest.
+Granting this petition advances Congress's goal of integrating civil UAS into the
+United States airspace safely. It also will allow flight operations to begin relatively
+quickly which is another of Congress's stated goals. Indeed, the UAS operations
+will allow Xactware to develop best practices for safety and flight operations using
+UAS systems currently available to consumers.
+
+In addition, flight operations at Xactware's facilities will not create a hazard to
+aviation or to the public. As previously stated, flight operations will be conducted
+under 400 feet above ground level and will be suspended immediately in the event
+that manned aircraft are near the airspace of the facility. Safety precautions will be
+taken such as geofencing the UAS within the boundaries of Xactware's facilities.
+The site will not be open to the public during flight operations, and Xactware's UAS
+will not fly over populated areas. Likewise, the flight operations do not create a
+threat to safety or security of the public due to the location and small size, minimal
+speed and load-carrying abilities ofUAS.
+
+II. REQUEST FOR EXEMPTION TO USE UAS OVER INDIVIDUAL
+         REAL ESTATE PARCELS
+
+         A. Overview of Request to Use UAS over Individual Real Estate Parcels.
+
+The second component of Xactware's exemption request involves UAS flight
+operations over private real estate parcels with permission of the owner of said
+parcels. The flight operations would again be in tightly-controlled and limited
+airspace within the property boundaries. These flight operations will enable
+Xactware to gather vital information related to using UAS for exterior structure
+inspection and analysis. All such locations will be a minimum of 5 miles from any
+airport. During flight windows, no one with the exception of the pilot in command
+("PIC"), the visual observer ("VO") and those directly involved in the UAS
+operations will be allowed to be in or around the outside of the building. UAS flight
+operations will occur in Class G airspace at altitudes of 400 feet or less.
+
+The purpose of these flights will be to capitalize upon the results of the R&D flights
+in real world scenarios and to gather imagery and other sensor data for use in
+Xactware's workflows. These operations will allow Xactware to gather data from
+different structure and building types in a normal business environment. Xactware
+has contracted manned aircraft in the past for similar purposes. Such experience will
+
+ME1 20494550v.1
+U.S. Department of Transportation
+June 9, 2015
+Page 5
+
+permit Xactware to determine preferences for UAS deployment for highly diverse
+real world scenarios, which will be particularly instructive for UAS operations
+during catastrophes.
+
+Accordingly, Xactware requests authorization to perform flight operations using
+UAS on private real estate parcels with permission from the owner or controller of
+the parcels.
+
+         B. Public Interest Benefits of Permitting Use ofUAS over Individual
+                   Real Estate Parcels
+
+Xactware's request to operate UAS at over private real estate parcels with
+permission of the owners is in the public interest. Granting this petition advances
+Congress's goal of integrating civil UAS into the United States airspace safely. It
+also will allow flight operations to begin relatively quickly which is another of
+Congress's stated goals. Indeed, the UAS operations will allow Xactware to develop
+best practices for safety and flight operations using UAS systems currently available
+to consumers.
+
+In addition, flight operations will not create a hazard to aviation or to the public. As
+previously stated, flight operations will be conducted under 400 feet above ground
+level and will be suspended immediately in the event that manned aircraft are near
+the airspace of the property. Safety precautions will be taken such as geofencing the
+UAS within the boundaries of the real estate parcel being examined. Likewise, the
+flight operations do not create a threat to safety or security of the public due to the
+location and small size, minimal speed and load-carrying abilities ofUAS.
+
+III. REQUEST FOR EXEMPTION TO USE UAS DURING AND AFTER
+         ACTUAL CATASTROPHES
+
+          A. Overview of Request to Use UAS During and After Catastrophes.
+
+Xactware requests exemption for the use of UAS both during and after real world
+catastrophes. The location and dates that catastrophes will occur cannot be
+predicted, and no test site or scheduled homeowner fly over can provide the scale,
+variability, complexity and unpredictability likely to occur during and after an actual
+catastrophe. Aerial imagery capture during and in the wake of a natural disaster is
+critical for processing insurance claims arising from such a disaster, and such
+imagery capture with an UAS as opposed to a manned aircraft is not only more
+efficient, but also more cost effective. Because Xactware services 22 of the top 25
+property insurance companies in the United States, its ability to capture aerial images
+
+ME1 20494550v.1
+U.S. Department of Transportation
+June 9, 2015
+Page 6
+
+during and after a catastrophe also will facilitate the timely and comprehensive
+resolution of insurance claims.
+
+As outlined in the operating procedures below, in the event of a catastrophe,
+Xactware will coordinate with local ATC, the FAA, officials in change of on-scene
+emergency response, and all first responders to ensure that the use of its UAS can
+occur safely and without impeding public safety efforts. Xactware will cease its
+UAS operations immediately at the direction of the applicable officials.
+Furthermore, Xactware's UAS operations will be.conducted with notice to manned
+aircraft and will at all times defer to the operations of such aircraft.
+
+              B. Public Interest Benefits of Permitting Use ofUAS During and After
+                  Catastrophes.
+
+Granting this exemption as requested by Xactware will facilitate real-world flight
+operations under unpredictable circumstances, thereby allowing Xactware to gain
+valuable experience in flight planning, flight operations and coordination with first
+responders and emergency personnel. Such experience, coupled with the cost
+savings of using a UAS as opposed to a manned aircraft, will translate into quicker,
+less costly, and more effective service to insureds adversely affected by catastrophes.
+
+Xactware's UAS operations in actual disaster conditions also may speed overall
+post-disaster relief assessments to the extent that the data gained from UAS flights is
+shared with first responders, thus relieving manned ground and aviation assets of that
+obligation so that they can focus on other vital tasks. Indeed, video footage obtained
+by Xactware from UAS operations could materially assist first responders secure
+valuable knowledge of the aftermath of a catastrophe, potentially saving lives.
+
+Operations will not create hazards for the public or for emergency response
+personnel because Xactware will coordinate with such personnel before, during and
+after flight operations. Nor will Xactware's UAS flights serve as an obstacle to
+manned flights since Xactware will always defer to the operation of manned aircraft
+in the relevant airspace. Furthermore, in order to properly alert other users of the
+airspace about Xactware's UAS operation, Xactware will request a Notice to Airman
+("NOTAM") as early as practicable prior to operations.
+
+ME1 20494550v.1
+U.S. Department of Transportation
+June 9, 2015
+Page 7
+
+IV. THE FAA HAS LEGAL AUTHORITY TO GRANT THIS
+         EXEMPTION REQUEST
+
+Xactware believes that granting this request will aid the FAA in fulfilling Congress'
+goal in passing Section 333 of the FMRA. Section 333 directs the Secretary of
+Transportation to consider whether certain UAS may operate safely in the national
+airspace system ("NAS") before completion of the rulemaking required under
+Section 332 of the FMRA. The Secretary is required to determine which types of
+UAS do not create a hazard to users of the NAS or the public or pose a threat to
+national security in light of the UAS's size, weight, speed, and operational capability
+and whether operation will occur near airports or populated areas and within the
+visual line of sight of the operator. The FMRA illustrates Congress's intent to have
+the FAA issue exemptions and allow civil UAS, as long as they operate within the
+necessary safety parameters.
+
+In addition, the Federal Aviation Act expressly grants the FAA the authority to issue
+exemptions. This statutory authority by its terms includes exempting civil aircraft,
+as the term is defined under § 40101 of the Act, which includes UAS, from the
+requirement that all civil aircraft must have a current airworthiness certificate. The
+Administrator may grant an exemption from a requirement of a regulation prescribed
+under§§ 44701(a) or (b) or in§§ 44702-44716 ofthe Act if the Administrator finds
+the exemption to be in the public interest.
+
+V. APPLICATION INFORMATION
+
+The names and addresses ofthe applicant are:
+
+Xactware Solutions, Inc.
+
+Jeff Taylor
+VP of Property InSight
+Xactware Solutions, Inc.
+1100 West Traverse Parkway
+Lehi, UT 84043
+jctaylor@xactware.com
+801-932-8201
+
+Regulations from which the exemption is requested:
+
+          14 C.F.R. § 61.113(a);
+          14 C.F.R. § 91.7(a);
+
+ME1 20494550v.1
+U.S. Department ofTransportation
+June 9, 2015
+Page 8
+
+         14 C.F.R. § 91.119(c);
+
+          14 C.F.R. § 91.121;
+          14 C.F.R. § 91.151(a);
+          14 C.F.R. § 91.405(a);
+          14 C.F.R. § 91.407(a)(l);
+          14 C.F.R. § 91.409(a)(1) and (2); and
+          14 C.F.R. § 91.417(a) and (b).
+
+VI. THE AIRCRAFT
+
+Xactware specifically proposes to conduct operations with the following UAS:
+
+     A. Aerialtronics Altura Zenith ATX8 - the Altura Zenith ATX8 is a multirotor
+          aircraft with a carbon fiber airframe. It can carry a maximum payload of 2.9
+          kg and has a 5.6 kg take-off weight. The 16.600 mAh battery allows up to 45
+          minutes of flight time with payloads of up to 2.9 kg. The maximum speed for
+          the Zenith is 20 m/s and it features auto-takeoff and landing, auto return
+          home and landing, GPS waypoint navigation and direction lock. The length
+          and width of this aircraft is 23.6" x 23.6," and it stands up to 21.6" tall.
+
+     B. DJI Phantom 2 - the DJI Phantom 2 is a multirotor aircraft with a plastic
+          airframe. It can carry a maximum payload of 300 g and has a 1.2kg take-off
+          weight. The 5.200 mAh battery allows up to 25 minutes of flight time. The
+          maximum speed for the Phantom is 15 m/s and it features no fly zones and
+          auto-return to home and landing. The dimensions of this aircraft are 29 x 29
+          x 18 em.
+
+     C. Parrot Bebop - the Parrot Bebop is a multirotor aircraft with a plastic
+          airframe. It is fully self-contained at 400 g and has no additional payload
+          capacity. The 1.200 mAh battery allows up to 22 minutes of flight time. The
+          maximum speed for the Bebop is 13 m/s and it features auto-return to home.
+          The dimensions of this aircraft are 28 x 32 x 3.6 em.
+
+VII. OPERATING PARAMETERS FOR UAS USE
+
+Xactware proposes that the exemption requested herein apply to civil aircraft that
+have the characteristics and that operate with the limitations listed herein. These
+limitations provide for at least an equivalent or even higher level of safety to
+operations under the current regulatory structure because the proposed operations
+represent a safety enhancement to the already safe operations conducted with
+
+ ME1 20494550v.1
+U.S. Department of Transportation
+June 9, 2015
+Page 9
+
+conventional aircraft. Further details about the aircraft and operating procedures are
+available in the Operations Manuals and Training Syllabus.
+
+The limitations and conditions to which Xactware agrees to be bound for UAS
+operations when conducting R&D at an Xactware site or for real-world commercial
+operations under an FAA issued exemption include:
+
+1. UAS operations will be conducted by a PIC holding, at a minimum, a private
+         pilot certificate and a current third-class medical certificate. The PIC will
+         also meet flight review requirements specified in 14 C.F.R § 61.56 in an
+         aircraft in which the PIC is rated on his or her pilot certificate.
+
+2. UAS must be operated within the visual line of sight ("VLOS") of the PIC at
+         all times.
+
+3. UAS operations must utilize a VO. The VO may be used to satisfy the
+         VLOS requirement as long as the PIC always maintains VLOS capability.
+
+4. The PIC and VO must be able to communicate verbally at all times.
+         Electronic messaging or texting is not permitted during flight operations.
+
+5. The PIC must be designated before the flight and cannot transfer his or her
+         designation for the duration of the flight, with the exception of medical
+         emergencies affecting his or her ability to safely complete the flight.
+
+6. The PIC must be able to use human vision unaided by any device other than
+         corrective lenses as specified on the PIC's FAA-issued airman medical
+         certificate.
+
+7. The VO will not perform any other duties beyond assisting the PIC with
+         seeing and avoiding other air traffic and other ground based
+         obstacles/obstructions and is not permitted to operate the camera or other
+         instruments.
+
+8. The PIC will not be allowed to operate the UAS unless the PIC has
+         demonstrated through the operator's training and currency requirements that
+         the PIC is able to safely operate the UAS in a manner consistent with how the
+         UAS will be operated under this exemption, including evasive and
+         emergency maneuvers and maintaining appropriate distances from people,
+         vessels, vehicles and structures. During training, the PIC must have
+         accumulated and logged, in a manner consistent with 14 C.F.R § 61.51(b),
+
+ME1 20494550v.1
+U.S. Department of Transportation
+June 9, 2015
+Page 10
+
+         the minimum hours prescribed in the operating documents as UAS pilot
+         operating the same make and model of the UAS to be utilized for operations
+         under this exemption. Training, proficiency and experience-building flights
+         can be conducted under this grant of exemption to quality the operator's
+         PIC(s), VO(s), and other essential personnel as defined in the operating
+         documents. Training operations can only be accomplished during dedicated
+         training sessions and must be done at appropriate distances in accordance
+         with 14 C.F.R § 91.119.
+
+9. Operations requested under this exemption are limited to the aircraft
+         described herein. Proposed operations of any other aircraft will require a new
+         petition or a petition to amend this grant.
+
+10. The UAS may not be flown at an indicated airspeed exceeding 50 knots.
+
+11. The UAS must be operated at an altitude of no more than 400 feet above
+         ground level ("AGL"). All altitudes reported to ATC must be in feet AGL.
+
+12. Prior to each flight the PIC will inspect the UAS to ensure it is in safe
+         condition for flight. If the inspection reveals a condition that affects the safe
+         operation of the UAS, the aircraft is prohibited from operating until the
+         necessary maintenance has been performed and the UAS is in a condition that
+         is safe for flight. The ground control station must also be included in the
+         preflight inspection. All maintenance and alterations must be properly
+         documented in the aircraft records.
+
+13. If the UAS has undergone maintenance or alterations that affect the UAS
+         operation of flight characteristics, such as the replacement of a critical flight
+         component, the UAS must undergo a functional test flight in accordance with
+         the operating documents. The PIC who conducts the test flight must make an
+         entry in the UAS aircraft records for the flight. Operating documents must
+         include requirements and procedures for functional test flights and the record
+         entries.
+
+14. Preflight inspection must account for all discrepancies including inoperable
+         components, items or equipment not covered in the relevant preflight
+         inspection sections of the operating documents.
+
+15. Xactware will follow the manufacturer's UAS aircraft and component
+         maintenance overhaul, replacement, inspections, and life-limit requirements,
+
+ ME1 20494550v.1
+U.S. Department of Transportation
+June 9, 2015
+Page 11
+
+         with particular attention to critical flight components that may not be
+         addressed in the manufacturer's manuals.
+
+16. Xactware will carry out maintenance, inspections, and record keeping
+         requirements in accordance with the grant and its own operating documents.
+         Maintenance, inspection and alterations must be noted in the aircraft logbook
+         including the total flight hours, description of work accomplished, and the
+         signature of the authorized UAS technician returning the UAS to service.
+
+17. Xactware will comply with safety bulletins issued by the manufacturers of
+         the listed UAS.
+
+18. UAS operations will only be conducted during daylight hours as defined in
+         14 C.F.R § 1.1. Operations will also be conducted under visual
+         meteorological conditions ("VMC").
+
+19. Xactware will not operate UAS within 5 nautical miles of the airport
+         reference point of an airport as denoted on a current FAA-published
+         aeronautical chart.
+
+20. If the UAS loses communications or loses its GPS signal, it will return to a
+         pre-determined location within the private or controlled-access property and
+         land or be recovered in accordance with the operating documents.
+
+21. In the event of unpredicted emergencies or obstacles, the PIC must abort the
+         flight.
+
+22. Xactware will not begin UAS flight operations unless there is greater than
+         30% battery power remaining.
+
+23. Xactware will obtain an Air Traffic Organization ("ATO") issued Waiver or
+         Authorization ("COA") prior to conducting any operations under this grant of
+         exemption. Under the COA, Xactware will request a NOTAM no more than
+         72 hours in advance, but no less than 48 hours prior to the operation, except
+         where shorter time periods are required for emergency response situations.
+          Flight operations will be conducted in accordance with the airspace
+         requirements in the ATO issued COA, including the class of airspace, altitude
+          level and potential transponder requirements.
+
+24. Xactware will coordinate emergency response operations with state or local
+          government agencies having appropriate jurisdictional authority.
+
+ ME1 20494550v.1
+U.S. Department of Transportation
+June 9, 2015
+Page 12
+
+25. Aircraft operated under this exemption will be identified by serial number
+         and registered in accordance with 14 C.F.R part 47, and have identification
+         markings in accordance with 14 C.F.R part 45, Subpart C. The markings will
+         be as large as practicable on the body of the aircraft.
+
+26. Only radio frequencies that comply with UA and FCC requirements will be
+         utilized.
+
+27. Xactware will have available for the PIC documents required under 14 C.F.R
+         §§ 91.9 and 91.203 anytime the aircraft is operating. Xactware also will
+         make these documents available to the FAA or to any law enforcement
+         official upon request.
+
+28. The UAS will remain clear and yield the right of way to all other manned
+         aviation operations and activities at all times.
+
+29. The PIC will not operate the UAS from any moving device or vehicle.
+
+30. Flight operations must be conducted at least 500 feet from all non-
+         participating persons unless structures or barriers are present that sufficiently
+         protect nonparticipating persons from debris in the event of an accident.
+         Xactware will ensure that nonparticipating persons remain under such
+         protection. If a situation arises where non-participating persons leave such
+         protection and are within 500 feet of the UAS, flight operations must cease
+         immediately.
+
+31. Xactware will operate the UAS over private or controller-access property
+          only with permission from the property owner/controller or authorized
+         representative.
+
+VIII. SPECIFIC SECTIONS OF 14 C.F.R. FROM WHICH PETITIONER
+         SEEKS AN EXEMPTION
+
+Xactware requests exemption from the following FARS to the extent necessary to
+enable the requested UAS operations for the reasons detailed below. These
+exemptions mirror the grants that the FAA has awarded in Grant of Exemption Nos.
+11188 and 113 09 among others.
+
+A. 14 C.F.R. § 61.113(a): No person who holds a private pilot certificate may
+          act as a pilot in command of an aircraft that is carrying passengers or
+
+ME1 20494550v.1
+U.S. Department of Transportation
+June 9, 2015
+Page 13
+
+         property for compensation or hire; nor may that person, for compensation or
+         hire, act as pilot in command of an aircraft.
+
+         Because Xactware proposes to operate its UAS with a pilot holding, at a
+         minimum, a private pilot certificate and at least a current third-class medical
+         certificate, Xactware seeks an exemption.
+
+B. 14 C.F.R. § 91.7(a): No person may operate a civil aircraft unless it is in an
+         airworthy condition.
+
+         As stated, Xactware will perform pre- and post-flight inspections to ensure
+         the airworthiness of the UAS. It will follow manufacturer safety bulletins,
+         perform maintenance and respect life-time limits as specified by the
+         manufacturer. When critical flight components are replaced, repaired or
+         modified, Xactware will perform test flights to verify these components are
+         in working condition.
+
+C. 14 C.F.R. § 91.119(c): No person may operate an aircraft below ... [a]n
+         altitude of 500 feet above the surface, except over open water or sparsely
+         populated areas. In those cases, the aircraft may not be operated closer than
+         500 feet to any person, vessel, vehicle, or structure.
+
+         Because Xactware proposes to operate the UAS at no more than 400 feet
+         AGL, the aircraft specified in this exemption will weigh 20 pounds or less,
+         and nonparticipating persons will be adequately protected, Xactware seeks an
+         exemption.
+
+D. 14 C.F.R. § 91.121: Altimeter settings.
+
+         Because the UAS will not have a typical barometric altimeters and, instead,
+         rely upon GPS generated elevations, Xactware seeks an exemption.
+         Xactware intends to operate the UAS within VLOS and at or below 400 feet
+         AGL, as well as convert any GPS-related elevation data that needs to be
+         delivered to FAA to the approximate barometric altimeter equivalent.
+
+E. 14 C.E.R. § 91.15l(a): No person may begin a flight in an airplane under
+         VFR conditions unless (considering win and forecast weather conditions)
+         there is enough fuel to fly to the first point of intended landing and, assuming
+         normal cruising speed ... [d]uring the day, to fly after that for at least 30
+         minutes.
+
+ME1 20494550v.1
+U.S. Department of Transportation
+June 9, 2015
+Page 14
+
+         The UAS specified in this exemption request are battery-powered and can
+         only fly for short periods of time, i.e., not more than 45 minutes. For all
+         practical purposes, however, most flight times will be shorter than the
+         minimum 30 minutes specified in 14 C.F.R. § 91.151(a). Xactware seeks an
+         exemption with the understanding that it will not be allowed to begin a flight
+         unless flight batteries on the craft have at least 30% power remaining.
+
+F. 14 C.f.R. § 91.405(a): Each owner or operator of an aircraft ... [s]hall have
+         that aircraft inspected as prescribed in subpart E of this part and shall
+         between required inspections, except as provided in paragraph (c) of this
+         section, have discrepancies repaired as prescribed in part 43 of this chapter.
+
+G. 14 C.F.R. § 91.407(a)(l): No person may operate any aircraft that has
+         undergone maintenance, preventive maintenance, rebuilding, or alteration
+         unless... [i]t has been approved for return to service by a person authorized
+         under§ 43.7 ofthis chapter.
+
+H. 14 C.F.R. § 91.409(a)(l) and (2): Except as provided in paragraph (c) of this
+         section, no person may operate an aircraft unless, within the preceding 12
+         calendar months, it has had (1) An annual inspection in accordance with part
+         43 of this chapter and has been approved for return to service by a person
+         authorized by§ 43.7 of this chapter; or (2) An inspection for the issuance of
+         an airworthiness certificate in accordance with part 21 of this chapter.
+
+I. 14 C.P.R. § 91.417: Maintenance records. (a) Except for work performed in
+         accordance with §§ 91.411 and 91.413, each registered owner or operator
+         shall keep the following records for the periods specified in paragraph (b) of
+         this section: (1) Records of the maintenance, preventive maintenance, and
+         alteration and records of the 100-hour, annual, progressive, and other
+         required or approved inspections, as appropriate, for each aircraft (including
+         the airframe) and each engine, propeller, rotor, and appliance of an aircraft.
+         The records must include - (i) A description (or reference to data acceptable
+         to the Administrator) of the work performed; and (ii) The date of completion
+         of the work performed; and (iii) The signature, and certificate number of the
+         person approving the aircraft for return to service. (2) Records containing the
+         following information: (i) The total time in service of the airframe, each
+         engine, each propeller, and each rotor; (ii) The current status of life-limited
+         parts of each airframe, engine, propeller, rotor, and appliance; (iii) The time
+         since last overhaul of all items installed on the aircraft which are required to
+         be overhauled on a specified time basis; (iv) The current inspection status of
+         the aircraft, including the time since the last inspection required by the
+
+ME1 20494550v.1
+U.S. Department of Transportation
+June 9, 2015
+Page 15
+
+         inspection program under which the aircraft and its appliances are
+         maintained; (v) The current status of applicable airworthiness directives (AD)
+         and safety directives including, for each, the method of compliance, the AD
+         or safety directive number and revision date. If the AD or safety directive
+         involves recurring action, the time and date when the next action is required;
+         (vi) Copies of the forms prescribed by § 43.9(d) of this chapter for each
+         major alteration to the airframe and currently installed engines, rotors,
+         propellers, and appliances. (b) The owner or operator shall retain the
+         following records for the periods prescribed: (1) The records specified in
+         paragraph (a)(1) of this section shall be retained until the work is repeated or
+         superseded by other work or for 1 year after the work is performed; (2) The
+         records specified in paragraph (a)(2) of this section shall be retained and
+         transferred with the aircraft at the time the aircraft is sold; (3) A list of defects
+         furnished to a registered owner or operator under§ 43.11 of this chapter shall
+         be retained until the defects are repaired and the aircraft is approved for
+         return to service.
+
+         In consideration of 14 C.F.R. §§ 91.405(a), 91.407(a)(l), 91.409(a)(l) and
+         (2), and 91.417 (a) and (b), Xactware will perform the detailed pre-flight
+         checks, as well as routine maintenance, preventive maintenance, and
+         replacement and overhaul of component parts of the UAS as required by the
+         UAS operating documents. In addition, Xactware will perform test flight
+         operations after such maintenance to ensure safety. Maintenance and
+         inspections will be logged in the aircraft's log book which will be available
+         for inspection at the FAA's request. Under these conditions, Xactware seeks
+         an exemption.
+
+J. Such other relief as the FAA deems appropriate to enable the requested
+         operations.
+
+         Xactware also requests exemption from such other FARS as the FAA deems
+         appropriate to enable the requested operations. If, during the effective dates
+         of any Grant of Exemption issued pursuant to this Petition, the FAA issues
+         interim or final rules for small UAS, Xactware requests that it be relieved of
+         the requirements of any conditions and limitations of said exemption and
+         allowed to comply with any less burdensome applicable regulations that may
+         have become effective.
+
+ME1 20494550v.1
+U.S. Department of Transportation
+June 9, 2015
+Page 16
+
+IX. SUMMARY TO BE PUBLISHED IN FEDERAL REGISTER
+
+Petitioner: Xactware Solutions, Inc.
+Sections of 14 C.F.R. Affected: § 61.113(a); § 91.7(a); § 91.119(c); § 91.121; §
+91.151(a); § 91.405(a); § 91.407(a)(l); §91.409(a)(l) and (2); § 91.417(a) and (b).
+Description of Relief Sought: Petitioner seeks relief from the requirements of 14
+C.F.R. § 61.113(a); 14 C.F.R. § 91.7(a); 14 C.F.R. § 91.119(c); 14 C.F.R. § 91.121;
+14 C.F.R. § 91.151(a); 14 C.F.R. § 91.405(a); 14 C.F.R. § 91.407(a)(l); 14 C.F.R. §
+1.409(a)(l) and (2); and 14 C.F.R. § 91.417(a) and (b) to conduct small unmanned
+aircraft systems (UAS) operations at its own facilities, over individual private real
+estate parcels, and in limited areas following catastrophes subject to operating
+procedures that meet or exceed those that the FAA requires for similar operations.
+
+X. CONCLUSION
+Satisfaction of the criteria provided in Section 333 of the FMRA regarding size,
+weight, speed, operating capabilities, proximity to airports and populated areas,
+operation within visual line of sight, and national security, provide more than
+adequate justification for the grant of the requested exemption allowing operation of
+Petitioner's UAS operations related to the insurance industry pursuant to the
+Operations Manuals. The requested three exemptions-one for UAS operations at
+Xactware owned or controlled sites, and the second and third for real world UAS
+operations over individual private properties and in catastrophe situations -- can be
+granted separately or in the same Grant. Please do not hesitate to contact Petitioner's
+outside counsel, ScottS. Christie at (973) 848-5388 or schristie@mccarter.com with
+any questions about this filing.
+
+                                                                ScottS. Christie
+Attachment: Confidential Operations Manuals and Training Syllabus
+
+ ME1 20494550v.1
+

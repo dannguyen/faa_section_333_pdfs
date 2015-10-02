@@ -1,0 +1,1495 @@
+August 25, 2015
+
+                                                           Exemption No. 12586
+                                                           Regulatory Docket No.FAA-2015-0323
+
+Mr. Adam Thorngate-Gottlund
+Counsel for AGERpoint, Inc.
+The Royse Law Firm
+1717 Embarcadero Road
+Palo Alto CA 94303
+
+Dear Mr. Thorngate-Gottlund:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter dated February 5, 2015, you petitioned the Federal Aviation Administration (FAA)
+on behalf of AGERpoint, Inc. (hereinafter petitioner or operator) for an exemption. The
+petitioner requested to operate an unmanned aircraft system (UAS) to conduct data collection
+operations which will be used for early stage disease detection, crop inventory, and mapping.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner are the FOV Skyhunter 1.8 and AGERpoint Penguin B.
+                                                                                                                 2
+
+The petitioner requested relief from 14 CFR part 21, Certification procedures for products
+and parts, Subpart H--Airworthiness Certificates. In accordance with the statutory criteria
+provided in Section 333 of Public Law 112-95 in reference to 49 U.S.C. § 44704, and in
+consideration of the size, weight, speed, and limited operating area associated with the
+aircraft and its operation, the Secretary of Transportation has determined that this aircraft
+meets the conditions of Section 333. Therefore, the FAA finds that the requested relief from
+14 CFR part 21, Certification procedures for products and parts, Subpart H--Airworthiness
+Certificates, and any associated noise certification and testing requirements of part 36, is
+not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection1. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+ They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+ The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+ A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, AGERpoint, Inc. is granted an exemption from 14 CFR
+§§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a), 91.7(a), 91.119(c), 91.121,
+91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a) and (b), to the
+
+1 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                                                 3
+
+extent necessary to allow the petitioner to operate a UAS to perform aerial data collection.
+This exemption is subject to the conditions and limitations listed below.
+
+Conditions and Limitations
+
+In this grant of exemption, AGERpoint, Inc. is hereafter referred to as the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+    1. Operations authorized by this grant of exemption are limited to the FPV Skyhunter 1.8
+         and AGERPoint Penguin B when weighing less than 55 pounds including payload.
+         Proposed operations of any other aircraft will require a new petition or a petition to
+         amend this exemption.
+
+    2. Operations for the purpose of closed-set motion picture and television filming are
+         not permitted.
+
+    3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+         exemption holder may use either groundspeed or calibrated airspeed to determine
+         compliance with the 87 knot speed restriction. In no case will the UA be operated at
+         airspeeds greater than the maximum UA operating airspeed recommended by the
+         aircraft manufacturer.
+
+    4. The UA must be operated at an altitude of no more than 400 feet above ground level
+         (AGL). Altitude must be reported in feet AGL.
+
+    5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+         This requires the PIC to be able to use human vision unaided by any device other than
+         corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+         U.S. driver's license.
+
+    6. All operations must utilize a visual observer (VO). The UA must be operated within
+         the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+         to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+         capability. The VO and PIC must be able to communicate verbally at all times;
+         electronic messaging or texting is not permitted during flight operations. The PIC
+         must be designated before the flight and cannot transfer his or her designation for the
+         duration of the flight. The PIC must ensure that the VO can perform the duties
+         required of the VO.
+
+    7. This exemption and all documents needed to operate the UAS and conduct its
+         operations in accordance with the conditions and limitations stated in this grant of
+         exemption, are hereinafter referred to as the operating documents. The operating
+                                                                                                            4
+
+    documents must be accessible during UAS operations and made available to the
+    Administrator upon request. If a discrepancy exists between the conditions and
+    limitations in this exemption and the procedures outlined in the operating documents,
+    the conditions and limitations herein take precedence and must be followed.
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+                                                                                                            5
+
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+                                                                                       6
+
+exemption holder may apply for a new or amended COA if it intends to conduct
+operations that cannot be conducted under the terms of the attached COA.
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+
+    be as large as practicable.
+
+23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+    any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+    PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+    These documents must be made available to the Administrator or any law enforcement
+    official upon request.
+
+24. The UA must remain clear and give way to all manned aviation operations and
+    activities at all times.
+
+25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless:
+      a. Barriers or structures are present that sufficiently protect nonparticipating persons
+          from the UA and/or debris in the event of an accident. The operator must ensure
+          that nonparticipating persons remain under such protection. If a situation arises
+          where nonparticipating persons leave such protection and are within 500 feet of
+          the UA, flight operations must cease immediately in a manner ensuring the safety
+          of nonparticipating persons; and
+      b. The owner/controller of any vessels, vehicles or structures has granted permission
+          for operating closer to those objects and the PIC has made a safety assessment of
+          the risk of operating closer to those objects and determined that it does not
+          present an undue hazard.
+
+The PIC, VO, operator trainees or essential persons are not considered
+nonparticipating persons under this exemption.
+
+27. All operations shall be conducted over private or controlled-access property with
+    permission from the property owner/controller or authorized representative.
+    Permission from property owner/controller or authorized representative will be
+    obtained for each flight to be conducted.
+
+28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+
+    boundaries of the operational area as defined by the applicable COA must be reported
+    to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+                                                                                               7
+
+reported to the National Transportation Safety Board (NTSB) per instructions
+contained on the NTSB Web site: www.ntsb.gov.
+
+If this exemption permits operations for the purpose of closed-set motion picture and
+television filming and production, the following additional conditions and limitations apply.
+
+29. The operator must have a motion picture and television operations manual (MPTOM)
+    as documented in this grant of exemption.
+
+30. At least 3 days before aerial filming, the operator of the UAS affected by this
+    exemption must submit a written Plan of Activities to the local Flight Standards
+    District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+    notification may be waived with the concurrence of the FSDO. The plan of activities
+    must include at least the following:
+      a. Dates and times for all flights;
+      b. Name and phone number of the operator for the UAS aerial filming conducted
+          under this grant of exemption;
+      c. Name and phone number of the person responsible for the on-scene operation of
+          the UAS;
+      d. Make, model, and serial or N-Number of UAS to be used;
+      e. Name and certificate number of UAS PICs involved in the aerial filming;
+      f. A statement that the operator has obtained permission from property owners
+          and/or local officials to conduct the filming production event; the list of those
+          who gave permission must be made available to the inspector upon request;
+      g. Signature of exemption holder or representative; and
+      h. A description of the flight activity, including maps or diagrams of any area, city,
+          town, county, and/or state over which filming will be conducted and the altitudes
+          essential to accomplish the operation.
+
+31. Flight operations may be conducted closer than 500 feet from participating persons
+
+    consenting to be involved and necessary for the filming production, as specified in the
+    exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                      8
+
+This exemption terminates on August 31, 2017, unless sooner superseded or rescinded.
+Sincerely,
+
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+                               UNITED STATES OF AMERICA
+                          DEPARTMENT OF TRANSPORTATION
+                        FEDERAL AVIATION ADMINISTRATION
+
+                                       WASHINGTON, DC
+
+                          Regulatory Docket No. _
+
+          IN THE MATTER OF THE PETITION FOR EXEMPTION OF:
+                                       AGERPOINT, INC.
+
+FOR AN EXEMPTION SEEKING RELIEF FROM THE REQUIREMENTS OF
+             TITLE 14 OF THE CODE OF FEDERAL REGULATIONS
+            SECTIONS 21.185, 45.23(b), 61.113 (a) & (b), 91.7(a), 91.9(b),
+                91.103, 91.121, 91.119, 91.203(a) & (b), 405(a), 407(a)(1),
+                                  409(a)(2), AND 417(a) & (b)
+
+   CONCERNING OPERATION OF AN UNMANNED AIRCRAFT SYSTEM
+                              IN THE NATIONAL AIRSPACE
+
+                         PURSUANT TO SECTION 333 OF THE
+               FAA MODERNIZATION AND REFORM ACT OF 2012
+
+               Submitted on February 5, 2015
+
+               Adam Thorngate-Gottlund
+               The Royse Law Firm
+               1717 Embarcadero Road
+               Palo Alto CA 94303
+               Tel: (650) 813-9700
+               Fax: (650) 813-9777
+               Attorney for Petitioner
+
+{00052557;10}
+                                          TABLE OF CONTENTS
+                                                                                                          Page
+
+GLOSSARY OF ABBREVIATIONS .................................................................................3
+SUMMARY .........................................................................................................................4
+BACKGROUND .................................................................................................................5
+BASIS FOR PETITION ......................................................................................................6
+
+    NAME AND ADDRESS OF PETITIONER.................................................................8
+    REQUESTED EXEMPTIONS................................................................................8
+    GRANTING AGERPOINT'S REQUEST WOULD BE IN THE PUBLIC
+    INTEREST....................................................................................................................24
+    SUMMARY THAT CAN BE PUBLISHED IN THE FEDERAL REGISTER...........27
+CONCLUSION..................................................................................................................28
+
+{00052557;10}  2
+AGL                     GLOSSARY OF ABBREVIATIONS
+ATC            Above Ground Level
+COA            Air Traffic Control
+FAA            Certificate of Authorization
+FAR            Federal Aviation Administration
+               Federal Aviation Regulation NAS
+PIC            National Airspace System
+Section 333    Pilot In Command
+SMS            FAA Modernization and Reform Act of 2012, Section 333
+UAS            Safety Management System
+VFR            Unmanned Aircraft System
+VMC            Visual Flight Rules
+               Visual Meteorological Conditions
+
+{00052557;10}  3
+                                                    SUMMARY
+          AGERpoint, Inc. seeks exemption from the requirements of 14 C.F.R. §§ 45.23(b), 61.113
+(a) and (b), 91.7(a), 91.9(b), 91.103, 91.121, 91.119, 91.203(a) and (b), 405(a), 407(a)(1),
+409(a)(2), 417(a) and (b), as well as the restricted category airworthiness certification standards
+specified in 14 C.F.R. § 21.185, including the requirement to have a certificate of airworthiness as
+contemplated by 14 C.F.R. Part 21. AGERpoint, Inc. (hereinafter referred to as "AGERpoint") is
+an agricultural consulting company that provides crop inventory and analysis to growers of
+permanent crops (e.g. tree, bush and vine crops). AGERpoint is in the process of acquiring a UAV
+Factory Penguin B Unmanned Aerial Vehicle Platform (hereinafter referred to as the "Penguin B
+UAV Platform"), functionally identical to Unmanned Aerial Vehicles ("UAVs") used by the
+United States Defense Department, as well as various research institutions, in order to provide
+these services. This exemption will permit AGERpoint to operate this Unmanned Aircraft System
+("UAS") safely over certain rural areas of the national airspace (the "NAS"), in order to collect
+data which will be used for early stage disease detection, crop inventory and mapping using
+instruments including LiDAR, Multispectral, hyperspectral, photographic and thermal sensors
+which require low altitude and low speed collection of data ­ something the UAS is uniquely
+qualified to do ­ without complying with FAA regulations which would be impossible for a UAS
+or preclude the operations AGERpoint contemplates.
+
+{00052557;10}  4
+                                                 BACKGROUND
+         A. Unmanned Aircraft System: Penguin B UAV Platform
+         AGERpoint seeks an exemption to operate a Penguin B UAV Platform for compensation or
+hire within the NAS. The Penguin B UAV Platform is comprised of an unmanned aircraft and a
+transportable ground station. The Penguin B UAV Platform has a maximum takeoff weight of
+approximately 47 pounds, a wingspan of 130 inches, and a length of 89 inches. The Penguin B
+UAV Platform unmanned aircraft is equipped with a single propeller driven by a small gasoline
+powered internal combustion engine.
+
+               Figure 1: The Penguin B UAV Platform unmanned aircraft.
+
+{00052557;10}  5
+B. Safe Operational History of the Penguin B UAV Platform unmanned aircraft
+    in the NAS
+
+ The Penguin B UAV has operated safely within the NAS as a research platform for
+
+a variety of organizations, including (but not limited to) Virginia Tech, California State
+
+University, Texas A&M, Kansas State University, the United States Naval Research Labs,
+
+and the United States Air Force. The Air Force alone has logged over 100 hours of flight
+
+time with the Penguin B UAV over three years in service, representing 66 total sorties, of
+
+which 38 took place during 2014.
+
+                                  BASIS FOR PETITION
+
+Petitioner, AGERpoint, Inc., by and through undersigned counsel, pursuant to the
+
+provisions of the Federal Aviation Regulations (14 C.F.R. § 11.61) and the FAA
+
+Modernization and Reform Act of 2012, Section 333, Special Rules for Certain Unmanned
+
+Aircraft Systems (hereafter "Section 333"), hereby petitions the Administrator for an
+
+exemption from the requirements of 14 C.F.R. §§ 45.23(b), 61.113 (a) and (b), 91.7(a),
+
+91.9(b), 91.103, 91.121, 91.119, 91.203(a) and (b), 405(a), 407(a)(1), 409(a)(2), and 417(a)
+
+and (b), as well as the restricted category airworthiness certification standards specified in
+
+14 C.F.R. § 21.185, including the requirement to have a certificate of airworthiness as
+
+contemplated by 14 C.F.R. Part 21. In accordance with Federal Aviation Regulation
+
+("FAR") Section 21.16, Special Conditions (14 C.F.R. § 21.16), AGERpoint further
+
+requests that, to the extent necessary, the Administrator prescribe such special conditions for
+
+the intended operation of the Penguin B UAV Platform as the Administrator finds necessary
+
+to establish a level of safety equivalent to that established by the restricted category
+
+airworthiness certification standards specified in 14 C.F.R. § 21.185, including the
+
+requirement to have a certificate of airworthiness as contemplated by 14 C.F.R. Part 21.
+
+The FAA Modernization and Reform Act of 2012, Section 333 directs the Secretary
+
+{00052557;10}                     6
+of Transportation to determine if certain UAS may operate safely in the NAS.
+
+AGERpoint's request for exemption may be granted pursuant to the authority of Section
+
+333 and 14 C.F.R. Part 11. Section 333 sets forth the requirements for considering whether a
+
+UAS will create a hazard to users of the NAS or the public or pose a threat to national
+
+security; and further, provides the authority for such UAS to operate without airworthiness
+
+certification. Section 333 states the following:
+
+         (a) In General.--Notwithstanding any other requirement of this subtitle, and not
+         later than 180 days after the date of enactment of this Act, the Secretary of
+         Transportation shall determine if certain unmanned aircraft systems may operate
+         safely in the national airspace system before completion of the plan and rulemaking
+         required by section 332 of this Act or the guidance required by section 334 of this
+         Act.
+
+       (b) Assessment of Unmanned Aircraft Systems.--In making the determination
+       under subsection (a), the Secretary shall determine, at a minimum--
+
+       (1) which types of unmanned aircraft systems, if any, as a result of their size, weight,
+       speed, operational capability, proximity to airports and populated areas, and
+       operation within visual line of sight do not create a hazard to users of the national
+       airspace system or the public or pose a threat to national security; and
+
+       (2) whether a certificate of waiver, certificate of authorization, or airworthiness
+       certification under section 44704 of title 49, United States Code, is required for the
+       operation of unmanned aircraft systems identified under paragraph (1).
+
+       (c) Requirements for Safe Operation.--If the Secretary determines under this section
+       that certain unmanned aircraft systems may operate safely in the national airspace
+       system, the Secretary shall establish requirements for the safe operation of such
+       aircraft systems in the national airspace system.
+
+         As discussed in detail below, under AGERpoint's program the Penguin B UAV
+
+Platform will operate safely in the NAS without creating a hazard to users of the NAS, or
+
+the public, or otherwise pose a threat to national security.
+
+         Pursuant to 14 C.F.R. § 11.81, AGERpoint provides the following information in
+
+support of its petition for exemption:
+
+{00052557;10}  7
+          A. Name And Address Of The Petitioner.
+
+                   The name and address of the Petitioner is:
+                   AGERpoint, Inc.
+                   P.O. Box 1810
+                   Daytona Beach, FL 32115
+
+                   The point of contact for this Petition and specific contact information is
+                   as follows:
+
+                   Adam Thorngate-Gottlund, Esq.
+                   The Royse Law Firm
+                   1717 Embarcadero Road
+                   Palo Alto CA 94303
+                   Tel: (650) 813-9700
+                   Fax: (650) 813-9777
+                   Email: adamtg@rroyselaw.com
+
+          B. Sections Of 14 C.F.R. From Which AGERpoint Seeks Exemption, And The
+                  Extent Of The Exemption.
+
+          1. The Certification Standards Specified In Section 21.185 and Part 21.
+
+         In accordance with the FAA Modernization and Reform Act of 2012, Section 333, and
+
+14 C.F.R. § 21.16 entitled Special Conditions, AGERpoint seeks to exempt the Penguin B
+
+UAV Platform from the restricted category airworthiness certification specified in 14 C.F.R.
+
+§ 21.185, or the requirement to have a certificate of airworthiness issued, as contemplated by
+
+14 C.F.R. Part 21. Section 21.185 entitled Issue of airworthiness certificates for restricted
+
+category aircraft, states in part:
+
+          (a) Aircraft manufactured under a production certificate or type certificate. An
+          applicant for the original issue of a restricted category airworthiness certificate for
+          an aircraft type certificated in the restricted category, that was not previously type
+          certificated in any other category, must comply with the appropriate provisions of §
+          21.183.
+
+          AGERpoint seeks relief from the airworthiness certificate requirements and proposes
+
+ to commercially operate the Penguin B UAV Platform without an airworthiness certificate
+
+ for the special purpose of providing crop inventory and analysis. AGERpoint seeks relief
+
+{00052557;10}  8
+from the airworthiness certificate requirements of 14 C.F.R. § 21.185 to the extent that the
+
+Penguin B UAV Platform, which has not yet been type certificated by the FAA, may be
+
+operated as if it were a restricted category aircraft for a single, defined, special purpose
+
+operation (i.e., agricultural surveying). Operation of the Penguin B UAV Platform will not
+
+create a hazard to users of the NAS, or the public, or otherwise pose a threat to national
+
+security.
+
+Section 333 sets forth the requirements for considering whether a UAS will create
+
+a hazard to users of the NAS or the public or pose a threat to national security. Further,
+
+Section 333 provides the authority for such UAS to operate without airworthiness
+
+certification. Specifically, Section 333 states the following, in part:
+
+(b) Assessment of Unmanned Aircraft Systems.--In making the determination
+under subsection (a), the Secretary shall determine, at a minimum--
+
+(1) which types of unmanned aircraft systems, if any, as a result of their size, weight,
+speed, operational capability, proximity to airports and populated areas, and
+operation within visual line of sight do not create a hazard to users of the national
+airspace system or the public or pose a threat to national security; and
+
+  (2) whether a certificate of waiver, certificate of authorization, or
+ airworthiness certification under section 44704 of title 49, United States Code,
+ is required for the operation of unmanned aircraft systems identified under
+ paragraph (1).
+
+As set forth further below, numerous factors, particularly the physical characteristics
+
+of the Penguin B UAV, the operational history of the Penguin B UAV Platform in the NAS,
+
+as well as the specific parameters of AGERpoint's intended operation pursuant to this
+
+exemption, demonstrate that the Penguin B UAV Platform will operate safely in the NAS
+
+without creating a hazard to other aircraft or people on the ground. Accordingly, the FAA
+
+may approve operation of the Penguin B UAV Platform, without an airworthiness certificate,
+
+by setting forth specific operating limitations to ensure a level of safety equivalent to what
+
+would be provided by airworthiness certification.
+
+{00052557;10}  9
+         AGERpoint submits that the Penguin B UAV Platform can operate safely in the NAS,
+and will not create a hazard to other aircraft or people on the ground. Accordingly, the FAA
+may approve its use without an airworthiness certificate as demonstrated by: (i) the safe
+operational history and current use of the Penguin B UAV Platform in the NAS; (ii) the
+characteristics of the Penguin B UAV Platform; (iii) the limited area of AGERpoint's
+intended operation (i.e. only over private land in rural areas with the prior consent and
+coordinated planning of the landowner); (iv) the licensed pilot requirement; (v) the specific
+operating limitations; and (vi) any other conditions that the Administrator may prescribe.
+
+                   i. The Penguin B UAV Platform Has A History Of Safe Operation In
+                          The NAS.
+
+         The Penguin B UAV has operated safely within the NAS as a research platform for
+a variety of organizations, including (but not limited to) Virginia Tech, California State
+University, Texas A&M, Kansas State University, the United States Naval Research Labs,
+and the United States Air Force. The Air Force alone has logged over 100 hours of flight
+time with the Penguin B UAV over three years in service, representing 66 total sorties, of
+which 38 took place during 2014.
+
+                   ii. The Specifications Of The Penguin B UAV Platform Demonstrate
+                         Its Safe Characteristics.
+
+          The Penguin B UAV Platform does not create a hazard to users of the NAS or
+ the public, or otherwise pose a threat to national security considering its size, weight,
+ speed, or operational capability. The specifications of the Penguin B UAV Platform are
+ as follows:
+
+{00052557;10}  10
+Unmanned Aircraft         The Penguin B UAV is an Unmanned Aircraft System that is
+       System             comprised of an unmanned aircraft and a transportable ground
+                          station.
+
+Unmanned Aircraft         Wingspan: 130 in. Length: 89 in.
+     Dimensions
+       Engine              Engine (Propulsive Unit)
+    (Propulsive            Manufacturer: 3W-modellmotoren
+        Unit)              http://www.3w-modellmotoren.com/katalog/motoren-
+                           einzylinder-28/3w-28i.html
+         Fuel              28cc gas 2-stroke engine
+                           Muffler system
+                           3.35 HP
+                           electronic spark
+                           APC 16x15 propeller
+                           Unleaded gasoline with 2-stroke oil mixture
+                           Reverse rotation to utilize tractor propellers
+
+                          Generator
+                          Manufacturer: UAV Factory
+                          150W max
+                          Belt driven.
+
+                          Unleaded gasoline with 2-stroke oil mixture
+
+Engine (Propulsive Unit)  Maximum Power Output: 3.35 HP
+           Limits         Maximum RPM: 8,500 RPM
+                          Maximum Motor Temperature: 250 °F (121 °C)
+
+                                   NOTE: The motor temperature is not displayed to the
+                                  operator.
+
+    Propeller and         Manufacturer: APC
+  Propeller Limits        Fixed pitch tractor 16x15 or 17x10 (Diameter x Pitch)
+                          Max RPM: 9,000
+Backup Battery
+        Command &         Manufacturer: various
+        Control           Lipo 3S 3,000 mah
+
+{00052557;10}             11
+Airspeed Limits       Vne (Never Exceed Speed) 68 knot (35 m/s)
+                      Vno (Maximum Structural Cruising Speed) 43 knots (22 m/s)
+                      Va (Maneuvering Speed) 43 knots (22 m/s)
+                      Landing Speed: 25 knots (13 m/s)
+
+                C.G.  .25 inches fore or aft from datum
+               Range
+
+               Datum  Marked on aircraft
+
+Mean Aerodynamic      13 in. long with leading edge 21.2 in. from nose
+   Chord (MAC)
+
+Leveling Means        Not Applicable.
+
+Maximum Weights       Ramp 47 lbs.
+                      Takeoff 47 lbs.
+                      Landing 47 lbs.
+
+Empty Weight          22 lbs.
+
+                              NOTE: Empty Weight Excludes weight of battery and
+                              payload modules.
+
+Frequencies           902-928 MHz (ISM Band)
+                      420-450 MHz (ISM Band)
+
+                              NOTE: Telemetry uplink and downlink are on the 900 Mhz
+                              band. C2 uplink and downlink are on the 400 Mhz band.
+
+Computer Software APM Mission Planner
+
+{00052557;10}                          12
+Minimum Crew     (1) The Penguin B UAV Platform can be operated by a single
+Number of Seats  operator.
+
+                 (0) Not Applicable.
+
+Fuel Capacity    7.5 gallons maximum
+
+Oil Capacity     Not Applicable.
+
+Max. Operating Altitude 10,000 ft. AGL (3040 M)
+
+Control Surface  Wing Flaps                      Down 45
+  Movements                                               Up 30° Down 30°
+                 Aileron                                  Up 60° Down 60°
+                 "V" tail elevator action                 Up 60° Down 60°
+                 "V" tail rudder action
+                 "V" tail max. combination                Up 60° Down 60°
+                  Rudder elevator action
+
+Nominal Endurance 10 hours
+
+Ambient Outside Air Maximum OAT: 120 °F (49 °C)
+Temperature (OAT) Minimum OAT At Altitude: -20 °F (-29 °C)
+
+Wind Limitation  15 knots steady, 5 knots gusts
+
+Maintenance      This Penguin B UAV Platform must be maintained in accordance
+                 with the Penguin B UAV Maintenance Operation Manual, or later
+                 FAA accepted revision.
+
+{00052557;10}                     13
+                    iii. Flight Operations Pursuant To The Exemption Sought
+                              Would Be Limited To Rural Areas over Private Land.
+
+           AGERpoint proposes to only conduct aerial survey flight operations over privately
+  held land in rural areas, and to undertake certain procedures if a flight near to airports,
+  helipads, or state roads is planned. Specifically, AGERpoint's proposed flight operations
+  are by their nature limited to rural areas that are:
+
+        1. Private land with consent having been received from the landowner and plans
+            implemented as to any persons or structures on the ground within the flight area;
+
+       2. Not within five (5) miles of any airport or helipad, except with the prior approval of
+            the relevant FAA and/or ATC offices;
+
+Furthermore, all flight operations will be conducted such that the energy of the UAS as defined
+by a 2:1 glide slope is never directed outside the boundaries of the consenting landholder's
+land, and never directed over any state road.
+
+         In summary, AGERpoint seeks to operate its Penguin B UAV Platform only over rural
+areas, while maintaining safe distances from any populated areas, airports, helipads, or major
+roadways.
+
+                   iv. Flight Operations Of The Penguin B UAV Platform Are Limited
+                            To The Line Of Sight Of A Certificated Pilot in Command.
+
+         AGERpoint will only utilize Pilots in Command (PIC) who have successfully taken and
+passed the FAA written private pilot knowledge test, who also have a valid driver's license or
+third class medical certificate, in order to certify their health. The pilot must have 200 takeoffs
+and landings, and 25 hours of flight time on the Penguin B. The PIC must meet the
+requirements as set forth by the Standard Operating Procedures adopted by AGERpoint for
+flight operations of the Penguin B UAV Platform.
+
+{00052557;10}  14
+                 v. Flights Will Be Conducted Pursuant To Specific Operating
+                         Limitations.
+
+       In seeking this exemption, AGERpoint proposes to operate the Penguin B UAV
+Platform, for the special purpose of conducting aerial surveys for early stage disease
+detection, crop inventory, and mapping, pursuant to the following specific operating
+limitations:
+
+        1. Flight operations are permitted only over defined areas of private land.
+
+2. The Penguin B UAV Platform will be operated at or below 400 ft. above ground
+    level (AGL).
+
+3. The Penguin B UAV Platform shall be operated within two miles, and within line
+    of sight, of the pilot in command.
+
+4. The Penguin B UAV Platform shall be operated pursuant to Day Visual Flight
+    Rules (VFR) in visual meteorological conditions (VMC). The Penguin B UAV
+    Platform shall be operated only during daylight hours (i.e. between the end of
+    morning civil twilight and the beginning of evening civil twilight, as published in
+    the American Air Almanac, converted to local time).
+
+5. The duration of each flight shall not exceed 8 hours, or 80% of the Penguin B
+    UAV Platform's nominal endurance.
+
+6. The Penguin B UAV Platform shall operate from on-site takeoff/landing locations
+    directly next to the pilot in command.
+
+7. Operations shall be conducted by certificated PICs who have completed training,
+    checking, currency, and recency of experience requirements as approved by the
+    FAA Administrator.
+
+8. Operation of the Penguin B UAV Platform with any inoperative instruments or
+    equipment shall be prohibited.
+
+9. The Penguin B UAV Platform shall be maintained in accordance with the
+    Manufacturer's Maintenance Manual.
+
+10. Prior to flight operations, AGERpoint shall coordinate and establish two way
+    communications with the nearest Air Traffic Control facility, if located within five
+    miles of the survey area.
+
+11. All flight operations will be conducted such that the energy of the UAV as defined
+
+{00052557;10}  15
+               by a 2:1 glide slope is never directed outside the boundaries of the consenting
+               landholder's land, and never directed over any state road.
+
+               vi. Additional Operating Limitations May Be Prescribed By The FAA.
+
+In accordance with Section 333 of the FAA Modernization and Reform Act of 2012 14
+
+C.F.R. § 21.16, the Administrator may prescribe special conditions for the intended operation
+
+of the Penguin B UAV Platform in order to establish a level of safety equivalent to that
+
+established by Section 21.185. Likewise, the Administrator may prescribe special conditions
+
+if the airworthiness regulations of 14 C.F.R. Part 21 do not contain adequate or appropriate
+
+safety standards due to the novel or unusual design features of the aircraft.
+
+Section 21.16, entitled Special Conditions, states the following:
+
+         If the FAA finds that the airworthiness regulations of this subchapter do not
+         contain adequate or appropriate safety standards for an aircraft, aircraft engine,
+         or propeller because of a novel or unusual design feature of the aircraft, aircraft
+         engine or propeller, he prescribes special conditions and amendments thereto for
+         the product. The special conditions are issued in accordance with Part 11 of this
+         chapter and contain such safety standards for the aircraft, aircraft engine or
+         propeller as the FAA finds necessary to establish a level of safety equivalent to that
+         established in the regulations.
+
+See 14 C.F.R. § 21.16.
+
+AGERpoint requests that, to the extent necessary, the FAA prescribe such special
+
+conditions for AGERpoint's intended operation of the Penguin B UAV Platform as will
+
+establish a level of safety equivalent to that established by Section 21.185, and 14 C.F.R. Part
+
+21, which will permit safe operation of the Penguin B UAV Platform for the special purpose
+
+of conducting aerial surveys without an airworthiness certificate.
+
+2. The Display Requirements Of Section 45.23(b).
+
+AGERpoint seeks an exemption from 14 C.F.R. § 45.23(b). Section 45.23 entitled
+
+Display of marks; general, subsection (b), states the following:
+
+(b) When marks include only the Roman capital letter "N" and the registration
+
+{00052557;10}  16
+         number is displayed on limited, restricted or light-sport category aircraft or
+         experimental or provisionally certificated aircraft, the operator must also display on
+         that aircraft near each entrance to the cabin, cockpit, or pilot station, in letters not
+         less than 2 inches nor more than 6 inches high, the words "limited," "restricted,"
+         "light-sport," "experimental," or "provisional," as applicable.
+         AGERpoint requests relief from the requirement of Section 45.23(b), if applicable,
+that the word "Restricted" be displayed on the Penguin B UAV Platform near each entrance
+to the cabin, cockpit, or pilot station. As the Penguin B UAV Platform is unmanned, it has no
+cabin, cockpit, pilot station, or entrances thereto. Therefore, AGERpoint proposes that, if
+required by the Administrator, the word "Restricted" be displayed in letters two (2) inches
+high, horizontally on both sides of the fuselage between the leading edge of the wing and the
+nose section of the Penguin B UAV Platform.
+         This exemption would maintain the level of safety established by Section 45.23(b)
+because if required, displaying the word "Restricted" with two (2) inch high letters,
+horizontally on both sides of the fuselage between the leading edge of the wing and the nose
+section of the Penguin B UAV Platform, will inform all parties of the unmanned aircraft's
+overall operating status in compliance with size requirement of Section 45.23(b) (i.e.,
+"letters not less than 2 inches . . . high"). By placing the letters horizontally on both sides of
+the fuselage between the leading edge of the wing and the nose section of the Penguin B
+UAV Platform, will ensure that the word "Restricted" is the in most visible location, so that
+all parties will be informed of the unmanned aircraft's overall operating status.
+         The FAA has previously granted exemptions in circumstances similar, in all
+material respects, to those presented herein (e.g., Exemption Nos. 8737, 10167, 10167A,
+10700, 10810).
+         3. The Private Pilot Privilege and Limitations of Section 61.113 (a) and (b).
+       Section 61.113 (a) & (b) limit private pilots to non-commercial operations. Because the
+
+{00052557;10}  17
+Penguin B UAV will not carry a pilot or passengers, the proposed operations will achieve the
+same level of safety of current operations by requiring the PIC operating the aircraft to have
+passed the FAA written private pilot knowledge test. Unlike a conventional commercial
+aircraft, the Penguin B UAV is remotely controlled without the ability to carry humans or cargo
+apart from its instruments and fuel. By definition, AGERpoint's operation of the UAV will be
+in a controlled, restricted area and subject to flight plan restrictions as set forth in this
+application, supplemented by such Special Conditions as the Administrator may require. This
+level of safety is greater than that provided by a single individual holding either a commercial
+or a private pilot's certificate operating a conventional aircraft. The risks associated with the
+operation of the Penguin B UAV Platform are so much smaller than the level of risk associated
+with conventional aircraft in general, and specifically with commercial operations
+contemplated by Part 61 when it was drafted, that allowing operations of the Penguin B UAV
+with a private pilot as PIC exceeds the present safety achieved by Section 61.113 (a) & (b).
+
+         4. The Civil Aircraft Airworthiness Requirement of Section 91.7(a).
+         Section 91.7(a) requires that no person may operate a civil aircraft unless it is in
+airworthy condition. As there will be no airworthiness certificate issued for the Penguin B
+UAV if this exemption is granted, no FAA regulatory standard will exist for determining
+airworthiness. Given the size of the aircraft and the limitations on operations set out in this
+application and in any Special Conditions required by the FAA, an equivalent level of safety
+will be achieved as under the regulation.
+          5. The Manual Requirement Of Section 91.9(b).
+          AGERpoint seeks an exemption from 14 C.F.R. § 91.9(b). Section 91.9 entitled
+ Civil aircraft flight manual, marking, and placard requirements, subsection (b) states the
+ following:
+
+{00052557;10}  18
+         (b) No person may operate a U.S.-registered civil aircraft--
+
+         (1) For which an Airplane or Rotorcraft Flight Manual is required by § 21.5 of this
+         chapter unless there is available in the aircraft a current, approved Airplane or
+         Rotorcraft Flight Manual or the manual provided for in § 121.141(b); and
+
+         (2) For which an Airplane or Rotorcraft Flight Manual is not required by § 21.5 of this
+         chapter, unless there is available in the aircraft a current approved Airplane or
+         Rotorcraft Flight Manual, approved manual material, markings, and placards, or any
+         combination thereof.
+
+          Relief is requested because the Penguin B UAV Platform weighs approximately
+
+ forty seven (47) pounds at its maximum gross weight and cannot carry the approved
+
+ Airplane Flight Manual onboard. Furthermore, since the Penguin B UAV Platform is
+
+ unmanned, the aircrew member is located at a ground control station. As such,
+
+ AGERpoint proposes the following conditions and limitations to its request for exemption
+
+ from Section 91.9(b):
+
+          The approved Airplane Flight Manual must be kept at the ground control station,
+          where it is immediately available for reference by the aircrew member (pilot in
+          command) of the Penguin B UAV Platform any time the unmanned aircraft is
+          operating.
+
+The approved Airplane Flight Manual must be made available within 10 days to any FAA, U.S.
+
+Department of Defense, or law enforcement official upon request.
+
+          This exemption would maintain the level of safety established by Section 91.9(b)
+
+ because AGERpoint will keep the approved Airplane Flight Manual at the ground control
+
+ station where the pilot in command flying the Penguin B UAV Platform will have immediate
+
+ access to the document.
+
+          Previous exemptions granted by the FAA concerning Section 91.9(b) establish that
+
+ safety is not adversely affected when the approved Aircraft Flight Manual is kept at the
+
+ ground control station of a UAS, where it can be immediately accessed by the pilot in
+
+ command. Section 91.9(b) "requires aircraft to carry the flight manual so the pilot would
+
+{00052557;10}  19
+ have ready access to the aircraft limitations while in flight." Exemption No. 8607. However,
+ the FAA has also found that UAS will always be operated without any passengers or crew
+ onboard, and that "requiring these special-use aircraft [UAS] to carry superfluous paper
+ documents may present a safety hazard to the integrity of the [UAS]." Id.
+
+          The FAA has previously granted exemptions in circumstances similar, in all
+ material respects, to those presented herein (e.g., Exemption Nos. 8607, 8737, 8738, 9299,
+ 9430, 9554, 9564, 9565, 10167, 10602, 10673, 10835, 10869, 10968).
+
+         6. The Preflight Action Requirement of Section 91.103.
+         Section 91.103 requires each PIC to take certain actions before flight to ensure the
+safety of the flight. As FAA approved flight manuals will not be provided for the Penguin B
+UAV Platform, an exemption will be necessary. An equivalent level of safety will be provided
+by following the preflight procedures set forth at Exhibit A hereto.
+         7. The Altimeter Settings Requirement of Section 91.121.
+         Section 91.121 requires each person operating an aircraft to maintain cruising altitude
+by reference to an altimeter which is set "... to the elevation of the departure airport or an
+appropriate altimeter setting available before departure." The Penguin B UAV will not be
+equipped with a barometric altimeter, but with a DGPS system nominally accurate to within 0.2
+degrees of its programmed heading and about one centimeter of its programmed horizontal
+position which will be integrated into the Penguin B UAV Platform; therefore an exemption
+will be necessary. An equivalent level of safety will be achieved by the operator pursuant to the
+preflight procedures set forth at Exhibit A hereto.
+         8. The Minimum Safe Altitude Requirements of Section 91.119.
+         Section 91.119 establishes safe altitudes for operation of civil aircraft. Subsections (b)
+and (d) are, either by the terms of AGERpoint's planned operations or by the nature of the
+
+{00052557;10}  20
+Penguin B UAV, inapplicable here. Subsection (c) allows for operation at less than 500 feet
+AGL "over open water or sparsely populated areas" such as those where AGERpoint will
+conduct its operations, although "aircraft may not be operated closer than 500 feet to any
+person, vessel, vehicle, or structure." In order to successfully collect agricultural data,
+AGERpoint may need to operate the Penguin B UAV within 500 feet of people, vessels,
+vehicles, or structures. As set forth in this Application, AGERpoint's operations will only take
+place with the prior consent and cooperative planning of all people and owners of vessels,
+vehicles, or structures permitted onsite during operation. Coordination will be done with
+property owner and onsite farm manager.
+
+         The equivalent level of safety will be achieved given the size, weight, and speed of the
+Penguin B UAV, as well as the locations where it will be operated. No flight will be taken
+without the prior permission of all parties this Section aims to protect. All affected individuals
+will be made aware of the planned flight operation. Compared with the flight operations of
+conventional aircraft weighing several orders of magnitude more than the Penguin B UAV, any
+risk associated with AGERpoint's operations is far lower than similar operations with
+conventional aircraft. In addition, this exemption will permit separation between AGERpoint's
+operations and those of conventional aircraft.
+
+                   9. The Certifications Requirements Of Sections 91.203(a) and (b).
+          AGERpoint seeks an exemption from 14 C.F.R. § 91.203(a) and (b). Section
+ 91.203 entitled Civil aircraft: Certifications required, subsections (a) and (b) state the
+ following:
+          (a) Except as provided in § 91.715, no person may operate a civil aircraft unless it
+          has within it the following:
+          (1) An appropriate and current airworthiness certificate. [....]
+
+{00052557;10}  21
+          (2) An effective U.S. registration certificate issued to its owner or, for operation
+          within the United States, the second copy of the Aircraft registration Application as
+          provided for in § 47.31(c), or a registration certification issued under the laws of a
+          foreign country.
+
+          (b) No person may operate a civil aircraft unless the airworthiness certificate
+          required by paragraph (a) of this section or a special flight authorization issued
+          under § 91.715 is displayed at the cabin or cockpit entrance so that it is legible to
+          passengers or crew.
+
+          The Penguin B UAV Platform is unmanned; it has no cabin, cockpit, pilot station, or
+
+ entrances thereto. The aircrew member is located at a ground control station and no
+
+ passengers can be carried. As such, AGERpoint proposes the following conditions and
+
+ limitations to its request for exemption from Sections 91.203(a) and (b):
+
+          The documents required by Sections 91.203(a) and (b) must be kept at the ground
+          control station, where it is immediately available to the aircrew member (pilot in
+          command) of the Penguin B UAV Platform any time the unmanned aircraft is
+          operating.
+
+The documents required by 91.203(a) and (b) must be made available within 10 days to any
+
+FAA, U.S. Department of Defense, or law enforcement official upon request.
+
+          This exemption would maintain the level of safety established by Sections 91.203(a)
+
+ and (b) because AGERpoint will keep the required documents at the ground control station
+
+ where the pilot in command flying the Penguin B UAV Platform will have immediate
+
+ access.
+
+          Previous exemptions granted by the FAA concerning Sections 91.203(a) and (b)
+
+ establish that safety is not adversely affected when the Airworthiness Certificate and U.S.
+
+ registration certificate are kept at the ground control station of the UAS, where it can be
+
+ immediately accessed by the pilot in command. Specifically, the FAA has held that the intent
+
+ of Sections 91.203(a) and (b) is better served by having the required documents in the control
+
+ of the UAS operator (pilot in command), reasoning as follows in Exemption 8607:
+
+{00052557;10}  22
+          The original intent of the subject regulation was to display the airworthiness and
+          registration documents so they would be easily available to FAA inspectors and
+          passengers for inspection and verification of the airworthiness and registration of
+          the aircraft . . . In this case, the aircraft will always be operated without any
+          passengers or crew.
+
+          The missions for which UASs are intended will prevent the aircraft from being
+          available for the inspections normally prescribed for civil aircraft. Further, it will
+          be operated on strictly confined missions from a known departure and arrival point,
+          under the constant control of a pilot-in-command. We also find that requiring these
+          special-use aircraft to carry superfluous paper documents may present a safety
+          hazard to the integrity of the [UAS].
+
+          FAA operating limitations and special arrangements with Air Traffic Control (ATC)
+          for surveillance of [UAS] flights adequately compensate for the requirements for
+          carrying airworthiness and registration documents. We find the intent of the
+          regulation is better served by having the required documents in the control of the
+          aircraft operator and available for inspection under the special conditions
+          prescribed in this exemption.
+
+          The FAA has previously granted exemptions in circumstances similar, in all
+
+ material respects, to those presented herein (e.g., Exemption Nos. 8607, 8737, 8738, 9299,
+
+ 9564, 9565, 10167, 10602, 10673, 10835, 10869, 10968).
+
+         10. The Maintenance and Inspections Requirements of Sections 405(a),
+                  407(a)(1), 409(a)(2), and 417(a) and (b).
+
+         These Sections require than an aircraft operator or owner have the aircraft regularly
+
+inspected and maintained according to established standards, and maintain certain records of
+
+the same. Because they only apply to aircraft with airworthiness certificates, these sections will
+
+not apply to AGERpoint.
+
+         Nonetheless, equivalent levels of safety will be obtained through the small physical
+
+characteristics of the Penguin B UAV, as well as maintenance provided by the operator
+
+pursuant to rigorous recordkeeping in an Aircraft Maintenance Logbook (provided as Exhibit
+
+A). If mechanical issues arise, the UAV can land immediately. As provided in Exhibit B, the
+
+operator will ensure that the UAV is in working order prior to initiating flight and perform
+
+{00052557;10}  23
+required maintenance. This will best achieve the goals of these sections, since the operator will
+be most familiar with the UAV and best suited to maintain it in an airworthy condition.
+ C. Granting AGERpoint's Request Would Be In The Public Interest.
+
+          Granting the present Petition will further the public interest by allowing AGERpoint
+ safely, efficiently, and economically to perform aerial crop inventory and analysis in support
+ of any organization which might require it, including government entities, agriculture
+ producers and other businesses, scientific researchers, wildlife conservationists, and forestry
+ professionals. Additionally, use of the Penguin B UAV Platform will decrease congestion of
+ the NAS, reduce pollution, and provide significant benefits to the economy. These benefits
+ will be realized without implicating any privacy issues.
+
+          1. The Public Will Benefit From The Aerial Surveys And Research
+                   Performed.
+
+          AGERpoint submits this Petition to perform aerial crop inventory and analysis in
+ support of any organization which might require it, including government entities,
+ agriculture producers and other businesses, scientific researchers, wildlife conservationists,
+ and forestry professionals. The data gathered will be used for early stage disease detection, crop
+ inventory and mapping. According to the USDA Economic Research Service, agriculture and
+ agriculture-related industries accounted for 4.8% of the U.S. GDP in 2012, totaling $775.8
+ billion. The Penguin B UAV Platform will provide safe, efficient, and economical means for
+ gathering data which can help improve food production efficiency, yield, and safety, all of
+ which are critical to the well-being of the general public.
+
+          2. AGERpoint's Operations Will Decrease Congestion Of The NAS.
+          The Penguin B UAV Platform serves as a safe, efficient, and economical alternative
+ to the manned aircraft which would otherwise be necessary to gather this data. By reducing
+
+{00052557;10}  24
+the amount of manned aircraft needed to perform aerial surveys, an exemption allowing the
+use of a Penguin B UAV Platform would reduce the amount of manned aircraft in the NAS,
+reduce noise and air pollution, as well as increase the safety of life and property in the air
+and on the ground.
+
+         Furthermore, by reducing the number of manned aircraft operating in the NAS,
+congestion around airports caused by arriving and departing aircraft will be reduced. The
+Penguin B UAV Platform does not require an airport to takeoff or land. Likewise, a
+reduction of manned aircraft conducting aerial survey missions would result in a lower
+burden on air traffic control during the ground, takeoff, departure, arrival, and landing
+phases of flight operations.
+
+           3. The Environment Will Benefit From The Safety And Efficiency Of The
+                Penguin B UAV Platform.
+
+           Conducting aerial surveys with the Penguin B UAV Platform instead of manned
+aircraft will benefit the public by reducing the levels of air and noise pollution generated
+during traditional flight operations. By using a small gasoline engine burning around one
+gallon per hour, the Penguin B UAV Platform produces substantially less air pollution than
+the six cylinder internal combustion twin engine aircraft that are typically utilized for aerial
+surveys, while burning approximately 20-30 gallons per hour of leaded aviation fuel. The
+Penguin B UAV Platform, while reducing the carbon footprint of aerial surveys, also limits
+noise pollution as its small engine is no louder than a lawn mower during the take-off phase,
+and during normal operations is about as loud as background conversation in an office or a
+restaurant.
+
+           By using the Penguin B UAV Platform to perform aerial surveys, the substantial
+risk to life and property in the air and on the ground which is usually associated with
+
+{00052557;10}  25
+traditional manned aircraft flight operations, will be substantially reduced or completely
+eliminated. Weighing in at approximately forty seven (47) pounds at its maximum gross
+weight, with a wingspan of 130 inches and a length of 89 inches, and a maximum fuel
+capacity of only 7.5 gallons, the Penguin B UAV Platform has less physical potential for
+damage to life and property than the manned aircraft that typically conduct aerial surveys,
+which weigh approximately 6,500 pounds with a wingspan of approximately 40 feet, a length
+of 34 feet, and a fuel capacity of 180 gallons.
+
+         4. Performing Aerial Survey Operations With The Penguin B UAV
+                  Platform Will Benefit The Economy.
+
+         In addition to being safe and efficient, the Penguin B UAV Platform is also an
+economical alternative to using manned aircraft to conduct aerial surveys. As such, operation
+of the Penguin B UAV Platform will allow United States based companies, like AGERpoint,
+to remain competitive and contribute to growth of the U.S. economy. Specifically, with the
+cost of aviation fuel and the Environmental Protection Agency ("EPA") regulatory actions
+phasing out leaded fuels, U.S. owned and operated companies must adopt new and alternative
+technology in order to remain competitive.
+
+         UAV technology not only allows companies greater operational flexibility compared
+to manned aircraft, but also drastically mitigates the high operational cost of a traditional
+manned aircraft. By operating the UAV platforms, companies such as AGERpoint can
+remain competitive and profitable, providing job stability to employees and contractors,
+which increases consumer spending; improves local, state, and federal tax revenues; and
+allows companies to invest in research and development in order to remain competitive both
+in the United States and abroad, ultimately contributing to the growth of the national
+economy.
+
+{00052557;10}  26
+         5. There Are No Privacy Issues.
+         Like the manned aerial survey flight operations that have been conducted for
+decades, the proposed operation of the Penguin B UAV Platform will not implicate any
+privacy issues. By definition, the Penguin B UAV platform will only operate in rural areas,
+and only above land where AGERpoint has been contracted by the owner or occupant to
+conduct aerial survey operations. Even if carrying photographic, hyperspectral, or other
+similar payloads, the UAV will not be operated closer than 500' to any person, vessel,
+vehicle or structure without the owner's permission. Precautionary measures to mitigate risk
+to people on the property, including temporary relocation of non-essential personnel to a
+minimum distance of two times the average AGL operation of the aircraft, will be standard
+operating procedure. The aircraft will operate no higher than 400' AGL, except as necessary
+to comply with the requirements of 14 C.F.R. § 91.119. Unlike manned aerial survey flight
+operations, there are no people on board the Penguin B whose observations might impact
+privacy, and the LIDAR used to conduct AGERpoint's surveys creates not an image, but a
+data set called a "point cloud." With these precautions in place, and lacking any natural or
+virtual eyes to see, AGERpoint's operations will have no impact at all upon privacy.
+
+ D. A Summary That Can Be Published In The Federal Register
+
+ The Rules From Which AGERpoint Seeks Exemption:
+
+          AGERpoint, Inc. seeks exemption from the requirements of 14 C.F.R. §§ 21.185 and
+          Part 21, 45.23(b), 61.113 (a) and (b), 91.7(a), 91.9(b), 91.103, 91.121, 91.119,
+          91.203(a) and (b), 405(a), 407(a)(1), 409(a)(2), and 417(a) and (b).
+
+A Brief Description Of The Nature Of The Exemption AGERpoint Seeks:
+
+          This exemption will permit AGERpoint, Inc. to operate an Unmanned Aircraft System
+          over certain rural agricultural areas, while keeping the documents required by the
+          regulations at the ground control station and immediately accessible to the pilot in
+          command. Furthermore, the exemption will relieve AGERpoint, Inc. from the
+          airworthiness certificate standards and the requirement to have a certificate of
+
+{00052557;10}  27
+         airworthiness for its Unmanned Aircraft System. This exemption will also permit any
+         required markings concerning the operational status of the UAS to be displayed on
+         the fuselage of the unmanned aircraft.
+
+                                              CONCLUSION
+         AGERpoint seeks an exemption pursuant to 14 C.F.R. § 11.61 and Section 333 of
+the FAA Modernization and Reform Act of 2012, which will permit safe operation of the
+Penguin B UAV Platform commercially, without an airworthiness certificate, for the special
+purpose of aerial agricultural surveillance, collecting data which will be used for early stage
+disease detection, crop inventory and mapping. By granting this Petition, the FAA
+Administrator will be fulfilling the Congressional mandate of the FAA Modernization and
+Reform Act of 2012, while also advancing the interests of the public, by allowing
+AGERpoint to safely, efficiently, and economically operate the Penguin B UAV Platform
+commercially within the NAS.
+
+{00052557;10}  28
+         WHEREFORE, in accordance with the Federal Aviation Regulations and the FAA
+Modernization and Reform Act of 2012, Section 333, AGERpoint respectfully requests that
+the Administrator grant this Petition for an exemption from the requirements of 14 C.F.R. §§
+45.23(b), 61.113 (a) and (b), 91.7(a), 91.9(b), 91.103, 91.121, 91.119, 91.203(a) and (b),
+405(a), 407(a)(1), 409(a)(2), and 417(a) and (b), as well as the restricted category
+airworthiness certification standards specified in 14 C.F.R. § 21.185, including the
+requirement to have a certificate of airworthiness issued for the Penguin B UAV Platform, as
+contemplated by 14 C.F.R. Part 21.
+
+Dated: February 5, 2015
+
+                             Respectfully submitted,
+                             The Royse Law Firm
+
+                             /s/ Adam Thorngate-Gottlund
+
+                             Adam Thorngate-Gottlund
+                             The Royse Law Firm
+                             1717 Embarcadero Road
+                             Palo Alto CA 94303
+                             Tel: (650) 813-9700
+                             Fax: (650) 813-9777
+                             Attorney for Petitioner
+
+cc: AGERpoint, Inc.
+         Attn: CEO
+
+{00052557;10}            29
+               Exhibit A
+
+{00052557;10}  30
+                                                   Exhibit B            Page 1 of 1
+
+                            Penguin B UAV Platform Preflight Checklist
+
+Preflight Equipment Checklist:
+
+Ground Control Operator Essentials:
+         Logbook
+         Flight Log paperwork
+         Briefed on mission
+         Cloudcap Documentation
+
+Ground Station Equipment:
+         Portable (or desktop) Ground Station
+         Power Cable
+         GPS
+         GPS Cable (if using Novatel DGPS antenna)
+         External Comms Antenna (350 MHz or 900MHz as applicable)
+         Laptop
+         Laptop Power
+         USB to Serial Adapter
+         Serial Cable
+         Mouse
+         Reference Data (Mission Maps and DTED)
+         Ethernet Cable
+         External Monitor (optional)
+         Headset
+         Headset breakout box and power
+         Futaba Controller (a.k.a. Flight Control Box, FCB)
+         FCB/Headset cable spool
+         Appropriate Software Versions for GCO
+
+Aircraft Equipment (ground crew responsibility)
+         Airframe
+         Batteries
+         Fuel
+         Payload Equipment
+         Piccolo Autopilot
+         Launch Aparatus (if applicable)
+         Starter
+         Glow plugs
+         Chargers
+         Backup RC Radio (Alpha 60 only)
+
+{00052557;10}  31
+Preflight Actions Checklist:                               Page 1 of 3
+
+Portable Ground Control Station:
+         Set up GPS Antenna
+             o Physically mark location for future setups
+             o Inspect and attach GPS cable
+         Verify Connections
+             o GPS
+             o UHF Comm
+             o Serial
+             o Power
+         Turn on Power
+
+GCO Laptop:
+         Verify Connections
+             o Power
+             o Serial
+             o Network
+             o External Monitor
+             o Input devices
+         Turn on Power
+         Verify Network Connection status
+             o IP should be 192.168.1.100
+             o Check access to Terrastation NAS Drive
+         Execute Piccolo Command Center (PCC) Note Software Version
+         _________________________
+         Open Ground Station Window: Note GCS Firmware Version
+         _________________________
+             o If different from PCC, correct (Flash Firmware or exit PCC and execute correct
+                  version)
+         Verify ground station voltage readings ______________
+         Verify Ground Station GPS readings
+             o Enable DGPS and begin averaging the Ground station location
+         Open Ground Station Window and request radio settings
+             o Note Channel/Frequency
+         Set Power to .1 Watt
+         Verify GS VSWR (350 MHz only) should be less than 2.0 _____________
+         Load Map Layers
+         Load DTED Layers
+         Set Aircraft List to Dynamic
+
+{00052557;10}                 32
+Preflight Actions Checklist:                                                      Page 2 of 3
+
+Piccolo Initial Set Up:
+
+Request Piccolo Power On (ground crew)
+
+Verify Piccolo Shows up on list
+
+               o If not attach via programming cable and continue
+
+Set new piccolo to Active
+
+Verify Firmware matches GCS and PCC version numbers __________
+
+Run Validate (Preflight page) and reconcile any issues (especially with
+Gains/Limits/AC dimensions)
+
+Check radio settings
+
+               o Note Frequency/channel                 ______________________
+
+               o Verify VSWR (MHX 320 Radio) less than 2.0
+                         If not check antenna (
+
+               o Set power to .1 Watt
+
+               o Check RSSI (GS and Piccolo should be approximately equal and close to -50)
+
+Verify Payload operation
+
+At this point the RF Comms should be working, remove programming cable and connect
+over RF Link
+
+Verify Aircraft GPS reading
+
+Set Lost Comm Waypoint
+
+               o LC waypoint is 99 on mission limits
+
+Clear out all other waypoints (if necessary)
+
+Create Climb out/recovery box
+
+Conduct rage check (100 yards at .1 Watt)
+
+               o RSSI should be -80 or better
+
+               o Link should be 100
+
+Check system voltage
+
+               o Replace battery if necessary
+
+Request fast telemetry
+
+Confirm with Ground Crew and set new piccolo to Pilot address
+
+               o If flying multiple AC be sure that this is clearly communicated
+
+Run Autopilot Configuration Validation (and after any changes are made to the
+controller configuration.
+
+Verify Surface Trims
+
+               o Tethered FCB all trims set to neutral
+
+               o Adjust Surface tables with Shift function to set trims
+
+Give External Pilot go for Surfaces Check with Tethered FCB (and R/C FCB if
+applicable)
+
+Verify Correct Surface actuation using Preflight page
+
+               o Ailerons Left/Right
+
+               o Elevator Up/Down
+
+               o Rudder Left/Right
+
+               o Throttle Full/Closed
+
+{00052557;10}                                  33
+Preflight Actions Checklist:                                                 Page 3 of 3
+
+Check Euler Angle response (observe on HUD /Map or watch Sensor readings)
+
+               o Command to EP ("Go for Roll Pitch Yaw)
+                         (Sensor Readings Positive for Roll Right, Pitch Up and Yaw Right)
+
+               o On Sensor Configuration Page
+                         Penguin PSI = 180 Others 0.
+
+Zero Air Data
+
+               o Input Baro Reading from Tower or Handheld unit
+
+               o Input Current Airfield Altitude (from DTED or GPS Reading)
+
+               o Zero air data with pitot sensor cupped
+
+Climb out
+
+Test lost comm. (turn off ground station)
+
+               o Verify Tracking LC waypoint
+
+Confirm all is satisfactory
+
+               o Payload
+
+               o Test Manager
+
+               o Safety observers
+
+Execute Mission
+
+{00052557;10}                                 34
+

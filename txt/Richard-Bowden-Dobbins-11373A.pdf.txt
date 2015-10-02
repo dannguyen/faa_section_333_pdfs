@@ -1,0 +1,3993 @@
+August 18, 2015
+
+                                                      Exemption No. 11373A
+                                                      Regulatory Docket No. FAA-2015-0060
+
+Mr. Richard Bowden Dobbins
+The Dobbins Company
+3827 Cliff Crest Drive
+Smyrna, GA 30080
+
+Dear Mr. Dobbins:
+
+This letter is to inform you that we have granted your petition for an amendment. It explains
+the basis for our decision, describes its effect, and lists any changes to the original conditions
+and limitations.
+
+By letter dated May 27, 2015, you petitioned the Federal Aviation Administration (FAA) for
+an amendment to your current exemption. That exemption from §§ 61.23(a) and (c),
+61.101(e)(4) and (5), 61.113(a), 61.315(a), 91.7(a), 91.119(c), 91.121, 91.151(a)(1),
+91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a) and (b) of Title 14, Code of
+Federal Regulations (14 CFR) allows the petitioner to operate a UAS to perform aerial data
+collection. You requested an amendment to add the SenseFly eXom.
+
+In your petition, you indicate that there has been no change in the conditions and reasons
+relative to public interest and safety that were the basis for granting the original exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested amendment to the exemption would not set a
+precedent, and any delay in acting on this petition would be detrimental to the petitioner. The
+unmanned aircraft authorized in the original grant are comparable in type, size, weight, speed
+and operating capabilities to those in this petition.
+
+Airworthiness Certification
+
+In accordance with the statutory criteria provided in Section 333 of Public Law 112-95 in
+reference to 49 U.S.C. § 44704, and in consideration of the size, weight, speed, and limited
+operating area associated with the aircraft and its operation, the Secretary of Transportation
+has determined that this aircraft meets the conditions of Section 333. Therefore, the FAA
+finds that relief from 14 CFR part 21, Certification procedures for products and parts,
+                                                                                                 2
+
+Subpart H--Airworthiness Certificates, and any associated noise certification and testing
+requirements of part 36, is not necessary.
+
+Our Decision
+
+The FAA has determined that the justification for the issuance of Exemption No. 11373
+remains valid and is in the public interest. Therefore, under the authority contained
+in 49 U.S.C. 106(f), 40113, and 44701, delegated to me by the Administrator, the operator is
+granted an amendment to add new aircraft to its UAS operations.
+
+The operator shall add this amendment to its original exemption.
+
+Conditions and Limitations
+
+All conditions and limitations within Grant of Exemption No. 11373 remain in effect except
+as follows. Condition No. 1 has been updated to reflect the additional aircraft.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+1. Operations authorized by this grant of exemption are limited to the DJI Phantom 2,
+    DJI Phantom 2 Vision, and SenseFly eXom when weighing less than 55 pounds
+    including payload. Proposed operations of any other aircraft will require a new
+    petition or a petition to amend this exemption.
+
+This exemption terminates on April 30, 2017, unless sooner superseded or rescinded.
+
+Sincerely,
+
+/s/
+John S. Duncan
+Director, Flight Standards Service
+                         - 1 - HF. DOBINS COM PANY
+
+May 27, 2015
+
+United States Department of Transportation
+Federal Aviation Administration
+800 Independence Ave, SW
+Washington, DC 20591
+
+RE: Petition for Amendment of existing Section 333 Exemption for use of additional aircraft.
+
+To whom it may concern:
+
+Good day. My firm has recently been granted a Section 333 exemption and issued a COA for
+using UAS for the collection of aerial data. Per this letter of request, I seek an amendment to our
+existing 333 to allow the use of an additional aircraft that is of the same type, size and
+aerodynamic characteristics of the aircraft our existing 333 was granted for. The following will
+be included in this request: Name & information of Petitioner; Executive Summary; Reasons for
+the Requested Amendment; Public Good; Description of UAV to be Deployed; Description of
+Intended Commercial Operations and Operating Parameters. Also attached is a copy of the
+existing 333 & COA and Extended User's Manual for the subject UAS.
+
+PERSONAL INFORMATION
+
+Name          Richard Bowden Dobbins (hereafter referred to as "Petitioner")
+
+Company The Dobbins Company
+
+Address       3827 Cliff Crest Dr.
+
+              Smyrna, Georgia 30080
+
+              404-451-1595
+
+              rick@dobbinscompany.com
+
+Current 333 Information
+Section 333 Exemption No. 11373
+Regulatory Docket No. FAA-2015-0060
+
+EXECUTIVE SUMMARY
+On April 17, 2015, the FAA granted The Dobbins Company a Section 333 rule exemption and a
+Small UAS Operations 200 feet and below for Commercial Purposes COA for the purposes of
+aerial data collection. A copy of the 333 and COA are made part of this request for review of the
+details of issuance. This COA allows the use of a DJI Phantom 2 UAS. The petitioner seeks an
+amendment to the existing 333 to allow, in addition to the Phantom 2, the use of a SenseFly
+eXom quadcopter. The eXom is similar in many regards to the Phantom 2 in size, weight and
+
+              P. O. Box 20001 · Atlanta, GA 30325 · 404-352-2638
+aerodynamics. Itowever, the eXom is designed mainly for the purpose of aerial mapping and
+infrastructure inspections such as bridges, cell phone towers, industrial complexes, etc. As
+explained in detail below, the eXom is far more tecimologically advaneed than the Phantom 2 as
+it has many built in sensors to facilitate its tasks. It is also a much more expensive platfotm.
+Current cost of thc eXom is around $45,000 as compazed to the $1500 for the Phantom 2. The
+intended uses of the eXom will notrequire flight above 200 feet and all requirements of the
+existing COA will be coniplied with. The eXom is unique in today's UAS marketplace as it is
+the only available UAS built specific,ally for low altitude infrastructure inspection and mapping.
+Granting this amendment will allow this new technology to be used in many industries and
+provide significant safety improvenients and cost savings to these businesses. "rhe public good
+will is well served by allowing this amendment to be issued.
+
+REASON OF . REQUESTED AMENDMENT
+The eXom is manufactured by SenseFly. SenseFly is a subsidiary of Parrot Company. Founded
+in 1994, Parrot creates, develops and markets, in addition to UAS, advanced consumer
+teclmology products for Smattphones and tablets. Parrot also offers the most extensive range of
+hands-free communication systems on the market for cars. Its globally recognized expertise in
+the fields of mobile connectivity and multimedia around Smartphones has positioned Parrot as a
+key player of in-ear infotaimnent.
+
+SenseFly develops and produces aerial imaging drones for professional applications. These safe,
+ultra-light and easy to use UAS are highly automated data collection tools and employed by
+customers around the world in ftelds sueh as surveying, agriculture, GIS, industrial inspection,
+mining and humanitariazr aid. SenseFly was founded in 2009 by a team of robotics researchers
+and quickly became the industry leader in mapping drones. Today they continue to lead the way
+in developing situationally aware systems that help professionals make better decisions.
+ScnseFly is a world leader in manufacturing drones for industrial applications. All of their
+products utilize state of tlre art technology and have exceptional safety records.
+
+SenseFly's newest UAS, the eXom, is a quadcopter made specifically for industrial infrastructure
+inspections and aerial mapping of small (<100 acres) tracts of land for agriculture, mining,
+construction, etc. The eXom is built with matry sensors that allow it to get close to structures and
+maintain a safe distance in order to properly collect both optical and thermal imaging. The eXom
+can even bump up against stmctures without causing datnage to the aireraft or the strueture.
+
+The Dobbins Company intends to use this UAS for low attitude infrastructure inspeetions and
+mapping. All operations will be conducted under 200 feet in altitude and will alway s remain
+under VLOS control.
+
+PUBLIC .GOOD
+
+The new technology offered by the eXom will a]Iow up close inspection of bridges, towers and
+other hard to reach industrial facilities by the remote use of a UAS. Not only will this result in
+significant cost savings for business, but it is much safer to inspect these types of structures
+remotely by UAV. An example are cell phone towers. The eXom, with its wide array of sensors
+can easily inspect and produce 3D maps of a tower for civil engineers to review on the ground.
+The current method of inspecting a cell tower entails having tecluricians climb the tower to
+inspect components. Many climbing deaths occur each year. The eXom eau eliminate the need to
+climb towers on a regular basis and significantly cut down the injury rate of inspecting these
+strnetures. Bridge inspections are another public good. There are over 600,000 bridges in
+America today and they need inspecting on a regular basis. Ilowever, this is currently difficult
+and requires many man-hours to conduct. The eXom can inspect a bridge with its optical and
+thermal cameras in a small fraetion of the time it currently takes to perfonn t9rese tasks.
+Railroads, DOTs and other government agencies are seen as prime candidates for using our UAS
+bridge inspection services. Gratiting this amendment to the Petitioner would allow him to
+
+provide this service. Further, the small UAS being utilized in this application will pose no threat
+to the public given its small size and lack of combustible fuel when compared to larger mamred
+aireraft. The operation of this UAS will minimize ecological damage and promote economic
+growth by providing information to businesses & individuals in the metro Atlanta, north Georgia
+and beyond.
+
+DES.CRI.PTION OF. .UAV TO..BE DEPLOY. E. I) UNDER REQUESTED AMEN. D... M_ E_.N...T...
+
+The eXom is a quadcopter similar in size and weight to the cuffently approved Phantom 2. The
+following are its specifications:
+
+AIRFRAME                       3.71bs
+Weight                         31.5"x22.1 "x6.8"
+Diinensions                    27MPH
+Mas Airspeed                   23 Ft/Sec
+Max Climb                      22 MPH
+Max Wind Component             -10 to 40C
+Operating temperature          Approx. 22 min.
+Nominal Endurance Time         Carbon Structure & conrposite parts
+Material                       3-cell 8500mAh LiPo
+Battery                        4 Electric Brushless Motors
+Propulsion
+
+'sYG7iAYT1 '7. x.,             38MP
+Main Camera-Stills             I-1D (1280X720 Px)
+Main Camera-Video              80x60 Ps
+Thermal Camera                 640x480Px
+NavCam Video                   20 Ft
+Ultrasonic Sensors (x6) range
+                               1:2 miles
+COMMUNICATIONS                 2.4 GHz & 5 GHz ISM bands
+                               MiMo 2x2 with spatial Diversity
+Ground Modem                   OFDM or DSSS
+                               Up to 630 mW
+Range                          Dual Omnidirectional
+Frequency
+Streams
+Transmission Mode
+Radiated Power
+Antennas
+Serntrity       WPA Lncryption
+
+Remote Control  2.4 GHz
+                0.5 mites
+Frequency
+Range
+
+SOFTWARE
+The eXom comes with two sof4ware packages-- eMotion X and Postflight Terra 3D. The
+eMotion is the software that controls the UAS where the Postflight is for rendering images on the
+ground. eMotion X gives operators interactivity with the eXom and provides telemetry. eMotion
+also allows operators the ability to have enhanced manual control or strict manual control. There
+are many safety feahn·es with eMotion such as systetn monitors, malfunction alerts and safety
+alerts. eMotion allows for the construction of a geofence where the UAS will return to Home if it
+crosses 8re fence parameters. And along with its GPS capabilities, the eXom has the capability of
+Return to Home or Land Immediately in case of emergency or catastrophic failure.
+
+PRFFLIGHT
+
+The petitioner will always follow procedures outlined in the UAS operator's manual as to proper
+preflight inspection of all hardware, software, environment and any other factors needed to
+ensure a safe flight. As well as compty with the existing COA.
+
+DESC....R...IPTION O_..F .I.NTENDE.D._.CO_M..M.E..R.CIAL OP...E...R..ATION..S.....W..ITH A..D...D...ITION_A..L..
+
+UAS
+Petitioner intends to solicit work for aerial infrastructure inspections from tower operators,
+railroads, DOTs, construction contractors, mining operators, etc. This work will always be
+condueted with the permission of the properry owner or their respective agent. Plight operations
+will be restricted to flights directly over the property that has granted permission. Given the type
+of work being targeted here, the Petitioner does not foresee any instance where the UAS would
+be flown over any crowds or assemblages of people in an open-air environment. If in fact there is
+any job that does entail flights over crowds, petitioner will elect not to make said flight. Safety
+will always be the primary concem regarding any flight at any time.
+
+.U.A..S..O..P..E.._R..A. T.I.N._G..P..A.R.._A_M.._E.T..E_R..S.
+The UAS being deployed iu this amendment requests can fly at a speed of approsimately 25
+
+knots. However, given the intended use describe here, this speed will never be necessary. Much
+
+slower speeds are prefetTed to collect the imaging material needed.
+
+Although the UAS being deployed has an approximate control link distance of 1.5 miles, this is
+much more than VLOS will allow. Petitioner agrees never to fly UAS outside of VLOS.
+
+Petitioner will only fly UAS during the day in VMC conditions. Given the petitioner agrees to
+never fly higher than 200 feet AGL, distance from clouds should not be a factor if flown in VMC
+conditlons.
+
+Petitioner agrees to use a Visual Observer (VO) during all operations. The VO will be used to
+help assure VLOS at all times.
+The UAS will not operate within 5 nautical miles of an airport reference point as denoted on a
+current FAA published aeronautical chart without permission from the airport manager.
+The UAS being deployed with this amendment request has the capability of using GPS signals to
+return to its initial point of take off if connection with the radio control link is lost.
+The petitioner agrees to yield right of way to all manned aviation activities at all times.
+CLOSING
+The Petitioner believes that amendment to our existing 333 exemption is warranted given
+Petitioner's background as a Private Pilot, the nature of the type of UAS flights that will be
+undertaken, the size & weight of the UAS being deployed, the safety precautions to the general
+public and the NAS the Petitioner intends to adhere to, the positive environmental impact the
+flight operations would have compared to manned fuel consuming missions and the economic
+benefit the Petitioner's business would have in this new area of aviation.
+Thank you for your review of this matter. Please feel free to contact me at any time with any
+questions regarding this matter.
+Respectfull submitted,
+
+                                       <
+
+  /I
+Richard Bowden Dobbins
+
+                                                                                                                5
+X                 8001ndependence nve. S W
+                  Wasnmglon. DO 20591
+US Department
+otTransportotion
+iederalAviatiat
+Administrafion
+
+April 17, 2015
+
+                                                                         Exclnption No. 11373
+                                                                         Regulatory Docket No. FAA-2015-0060
+
+Mr. Richard Bowden Dobbins
+The Dobbins Colnpany
+3827 Cliff Crest Drive
+Smyrna, GA 30080
+
+Dear Mr. Dobbins:
+
+This letter is to inform you that we have granted your request for exemption. [t transmits our
+decision, explains its basis, and gives you the conditions and lilnitations of the exemption,
+including the date it ends.
+
+The Basis far Our Decision
+
+By latter dated January 12, 2015, you petitioned the Federal Aviation Adlninistration (FAA)
+on behalf of The Dobbins Company (hereinafter petitioner or operator) for an esemption. The
+exemption would allow the petitioner to operate an unmanned aireratt system (UAS) to
+conduct real estate inspections.
+
+See Appendix A for dte petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioncr seeks an exelnption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+
+Aircvorthiness Certiflcation
+
+The UAS proposed by the petitioner are the DJI Phantom 2 and DJI Phantom 2 Vision
+In accordance with the statutory criteria provided in Section 333 of Public Law 112-95 in
+reference to 49 U.S.C. § 44704, and in consideration of the size, weight, speed, and limited
+operating area associated witli the aircraft and its operation, the Secretary of Transportation
+has determined that this aircraft nieets the conditions of Section 333. Therefore, the FAA
+finds that the relief from 14 CFR part 21, Certifrcation procedures,for products and parts,
+Subpar! H--Airworthiteess Certificates, and any associated noise certification and testing
+requirements of part 36, is not necessary.
+
+Thc Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection. The FAA has issued grants of
+exemption in circutnstances similar in all material respects to those presented in your pctition.
+ht Cn'ants of Exeinption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-20I4-0352),
+I 1109 to Clayeo, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Ine. (see Doel<et No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+erew, rather than a manned aircraft of significantly greater proportions, carrying erew in
+addition to t7ammable fucl, gives the FAA good cause to find that t'he UAS operation enabled
+by this esemption is in t'he public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+·"I'hey are siinilar iu all inaterial respects to relief previously requested in Grant of
+     Exemption Nos. 11062, 11109, 11112, and 11213;
+
+· The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+     11213 also apply to the situation you present; and
+
+· A grant of exemption is in the public interesl.
+
+Our Decision
+
+In consideration of the foregoing, 1 find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, The Dobbins Company is granted an exemption from
+14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a), 91.7(a), 9I.119(c),
+91.121, 91.151(a)( I), 91.405(a), 91.407(a)( I), 91.409(a)(1) and (2), and 91.417(a) and (b), to
+the extent necessary to allow the petitioner to operate a UAS to pertbrin aerial data collection.
+This exeinption is subject to the conditions and liinitations listed below.
+
+Conditions and Limitations
+
+In this grant of exemption, The Dobbins Company is hereafler referred to as the operator
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the iininediate suspension or rescission of this exemption.
+
+      I. Operations authorized by this grant of esemption are limited to the DJI Phantom 2 and
+           DJl Phantom 2 Vision when weighing less than 55 pounds including payload.
+           Proposed operations of any other airerafY will require a new petition or a petition to
+           amend lhis esemption.
+
+     2. Operations for the purpose of closed-set motion picture and television tihning are nat
+           permitted.
+
+     3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+           exemption holder tnay use either groundspeed or calibrated airspeed to determine
+           coinpliance w·ith the 87 knot speed restriction. In no case will the UA be operated at
+           airspeeds greater than the maximuin UA operating airspeed recommended by the
+           aircraftinanufacturer.
+
+     4. The UA nmst be operated at an altitude of no more than 400 feet above ground level
+           (AGL). Altittide inust be reported in feet AGL.
+
+     5. The UA must be operated witliin visual line of sight (VLOS) of the PIC at all times.
+          This requires the PIC lo be able to use human vision unaided by any device other than
+          corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+           U.S. driver's license.
+
+     6. AII operations must utilize a visual observer (VO). The UA must be operated within
+          the visual line of sight (VLOS) of tJte PIC and VO atall times. The VO may be used
+          to satisfy the VI.OS requirement as long as the PIC always maintains VLOS
+          capability. The VO and PIC must be able to cominunicate verbally at all times;
+          electronic messaging or texting is not permitted during flight operat{ons. The PIC inust
+           be designated before the flight and cannot transfer his or her designation for the
+          duration of the flight. The PIC must ensure that the VO can perform the duties
+          required ofthe VO.
+
+          This exemption and all documents needed to operate the UAS and conduct its
+          opei'ations in accordanee with the eonditions and liinitations stated in this grant of
+          exemption, are hereinafter referred to as the operating documents. The operating
+          docutnents must be accessible during UAS operations and made available to the
+          Administrator upon request. If a discrepancy exisls between the conditions and
+           limitations in this exeinption and the procedures outlined in the operating documents,
+          the conditions and limitations herein take precedence and must be followed.
+          Odterwise, the operator inust follow the procedwes as outlined in its operating
+          docuntents. The operator may update or revise its operating documents. It is the
+          operator's responsibility to track such revisions and present updated and revised
+     docuinents to the Administrator or any law enforcement official upon request. The
+     operator inust also present updated and revised docunicnts if it petitions for extension
+     or amendment to this grant of exemption. If the operator deterinines that any update or
+     revision would affect the basis upon which lhe FAA granted lhis esemption, then lhe
+     operalor must petition for an amendment to its grant of eseinption. The FAA's UAS
+     Integration OfPice (AFS-80) may be contacted if questions arise regarding updates or
+     revisions to the operating documents.
+
+8. Any UAS tltat has undergone maintenance or alterations that affect the UAS operation
+     or flight eharacteristics, e.g. replaceinent of a Oight critical component, must undergo
+     a functional test flight prior to conducting further operations under this exemption.
+     Functional tesl tlights may only be conducted by a PIC with a VO and must remain at
+     Ieast 500 feet froin other people. The funetional test flight must be conducted in such
+     a tnanner so as to not pose an unduc hazard to persons and property.
+
+9. The operalor is responsible for maintaining and inspecting the UAS to ensure lhat it is
+     in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-fligltt inspection and deterinine the
+     UAS is in a condition for safe 1'light. The pre-tlight inspeetion inust aceount for all
+     potential discrepancies, e.g. inoperable coinponents, items, or equipment. IPtlie
+     inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+     prohibited front operating until the necessary maintenance has been performed and the
+     UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's inaintenance, overliaul,
+     replacement, {nspection, and life limil requirements for the aireraft and airerall
+     components.
+
+12. Gaeh UAS operated under this exemption must coinply with all manufacturer safety
+     bulletins.
+
+13. Under this grant of exemption, a PIC inust hold either an airline transport,
+     coinmercial, private, recreational, or sport pilot certifieate. The P[C must also hold a
+     current FAA airman inedical certificate or a valid U.S. driver's licernse issued by a
+     state, the District of Colombia, Puer[o Rico, a territory, a possession, or the Federal
+     government. Thc PIC niust also meel the flighl review requirements specified in
+      14 CFR § 61.56 in an aircraft in which the P1C is rated on his or her pilot certificale.
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+     ability to safely operate the UAS in a manner consistent with how the UAS will be
+     operated under this exemption, including evasive and emergency maneuvers and
+     maintaining appropriate distanees from persons, vessels, vehicles and structures. PIC
+     qualification flight hours and currency must be logged in a manner consistent with
+     14 CFR § 61.51(b). Flights for the purposes of naining the operator's P I Cs and VOs
+    (training, proficieney, and experience-building) and determining the PIC's ability lo
+    safely operate the UAS in a manner consistent wit'h how the UAS will be operated
+    under dhis exemption are permitted under the terms of this exemption. I{owever,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-btiilding flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducled dttring night, as defined in 14 CFR § I.I. AII
+    operations inust be conducted tinder visual meteorologieal eonditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA inay not operate within 5 nautical miles of an airport referenee point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or For airports not
+    denoted with an ARP, the center of the airpoit symbol as denoted on the current FAA-
+    published aeronautical chart, tinless a letter of agrceinent with that airport's
+    management is obtained or olherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement ofticial upon request.
+
+17.The UA inay not be operated less than 500 feot below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. [f the UAS loses communications or loses its GPS signal, the UA must return to a pre-
+    deterinined location within the private or eontrolled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergeneies.
+
+20. The PIC is prohibited from beginning a Elight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate a8er that for at least flve minutes or with the reserve
+    power recoininended by the manufactarer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). AII
+    operations shall be conducted in aceordance with an ATO-issued COA. The
+    eseniption holder may apply for a new or amended COA if it intends to conduct
+    operations that cannot be eondueted under the terms of the atteched COA.
+
+22. AII aireraft operated in accordanee with this exemption must be identified by serial
+    number, registered in accordance with 14 CFR part 47, and have identification (N-
+    Number) markings in accordance with 14 CFR part 45, Subpart C. Markings inust be
+    as Iarge as practicable.
+    23. Documents used by the operator to ensure the safe opera.tion and flight of the UAS and
+          any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+          PIC at the Ground Control Station of the UAS any time the aircraft is operating. These
+          documents inust be made avzilable to the Adminisnator or any law enforeement
+          offeial upon request,
+
+    24. Tlte UA must remain clear and give way to all inanned aviation operations and
+          activities at all tiines.
+
+   25. The UAS inay not be operated by the PIC from any moving device or vehicle.
+
+   26. AII Flight operalions must be conducted at least 500 feet from all nonparticipating
+
+          persons, vessels, vehicles, and structures unless:
+
+          a. Barriers or structures are present that sufflciently protect nonparticipating persons
+
+                 from the UA and/or debris in the event of an accident. The operator must ensure
+
+              that nonpartieipating persons remain under such protection. If a situation arises
+
+                 where nonparticipating persons leave such proteetion and are within 500 feet of
+                 the UA, flight operations must cease iminediat'ely in a manner ensuring the safety
+                 of nonparticipating persons; and
+            b. The owner/controller of any vessels, vehicles or slructures has granted perinission
+                 for operating closer t'o those objects and the PIC has made a safety assessment of
+                 the risk of operating closer to thosa objects and determined that it does not
+
+            present an undue hazard.
+
+         The PIC, VO, operator trainees or essential persons are not considered
+          nonpai'ticipating persons under this exemption.
+
+   27. All operations shall be conducted over private or controlled-access property with
+
+         permission from the property ownedcontroller or atithorized representative.
+          Permission from property owner/controller or authorized representative will be
+         obtzined for each flight to be eonducted.
+
+    28. Any incident, aecident, or flight operation that transgresses the lateral or vertical
+         boundaries ol'the operational area as defined by tite applicable COA must be reported
+
+        to the FAA's UAS Integration Office (AFS-80) within 24 hours. Aecidents must be
+        reported to the National Transportation Safety Board (NTSB) per instructions
+
+         contained on the NTSB Web sile: t~~aw.ntsb.eoa .
+
+If this exentption permit's operations for the purpose of closed-set motion picture and
+
+television filming and prodtiction, the following additional conditions and limitations apply.
+
+    29. Thc operator inust have a motion picture and television operations manual (MPTOM)
+         as documented in this grant of exemption.
+    30. At lezst 3 days before aerial fihning, the operator of the UAS affected by this
+         exeinption must submit a written Plan of Activities to the local Flight Standards
+         District Office (FSDO) v.·ithjurisdiction over the area of proposed filrning. Thc 3-day
+         notification may be waived with the concurrence of the FSDO. The plan of activities
+         must include al least the following:
+           a. Dales and times for all flights;
+           b. Name and phone nuinbcr of the operator for the UAS aerial filming conducted
+               under this grant of exemption;
+           c. Name and phone number of the person responsible for the on-scene operation of
+               the UAS;
+           d. Make, model, and serial or N-Number of UAS to be used:
+           e. Name and certiCGcate number of UAS PICs involved in the aerial filming;
+           f. A slatement that the operator has obtained permission from property owners
+               and/or local officials to conduct the filming production event; the list of those
+               who gave permission must be made available to the inspector upon request;
+           g. Signature of exeinption holder or representative; and
+           h. A description o'f the flight activity, including maps or diagams of any area, city,
+               town, county, and/or state over which filming will be conducted and the altitudes
+               essential to accomplish the operation.
+
+    31. Flight operations may be conducted closer than 500 feet froin participating persons
+         eonsenting to be involved and necessary for the fitming produetion, as specified in the
+         exeinption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+
+This exeinption terminates on April 30, 2017, unless sooner superseded or rescinded.
+
+Sincerely,
+
+/S/
+John S. Duncan
+Director, Flight Standards Service
+January az, 2015
+
+United States Department of'I7ansportation
+Federal Aviation Administration
+
+800 Independence Ave, S W
+
+Washington, DC 20591
+
+RE: Petition for fixemption from certain Title ig CFRs in regards to Section 333 of the
+FAAMode.rnization & Reforni Aet of 2ot2 concerning Unmanned Aerial Systems (UAS)
+
+To whom it may concern:
+
+Good day. Per this letter of request, I secic exeniption from sevreral Tttle tq CFBs that
+relzte to the commercial use of unmanned aerial systenrs (UAS). Tlre following will be
+included in this request: Name & information of Petitioner; Executive Snmmary of
+Petitioner summarizing the rules Petitioner seeks exemption from and reasons the
+
+ezeinptions would serve the pubtic good; SpeeificTitle rq CFRs lo which an exemption
+is sought; the extent & reasons for the re4uested exemptions; reasons why safety would
+
+not be compromised.
+
+PER80NAL INPORI~ IATION
+
+Naine    Richard I3owden Dobbins (hereafter rcferred to as "Petitioner")
+Company 'CheDobbinsConrpauy
+
+Address  3827C1iffCrestDr.
+
+         Smyrna, Georgia 30080
+
+         904 -451 -1595
+
+         rick (r7i dobbinscompanv.coni
+
+EXECUTIVF, SUMbIARY
+The Petltioner was born on Deceniher 9, 1959 in Atlmrta, Ga. and is a U9 citizen.l9e is
+the CEO ofThe Dobbins Cmnpany which has been in business since 1975. The Dobbins
+Company is a consulting firm whose primary clients are banks and commercial finance
+companies located mainly in the southcast USA. Tlre petitioner is a Itcensed private pilot
+Nvitlr an instrument rating. 1-le has previonsly owned a 1975 Cessna Cardinal RG.
+I'etltioner hns never been cited for any FAAviolations. Since 2013, Petitioner has owned
+u DJI Phantom 2 and n Phantom z Vision UAS. As a hobbyist, Petitioner has become
+very proficfent wtth the Phantom models wittr ovec roo hours fiown in type. Petitioner Is
+requesting an escinption from the current rules in Section 333 which govern the uses of
+UASs for commercial purposes. The Petitioner seeks autlrorizatian to perform
+comniercial UAS operations for real estate inspections. This would include residential,
+commercial and rural properties. Prospective customers and clients would include real
+
+                  P. O.  o.c 20001 · Atluntn, CA 3e325' 904-352-2638
+estate agents & brokers, manzgement companies, insm ance companies & vendors,
+banks and private property owners.
+
+The Tltle 14 CFRs exeniptions that this request eneails are 61.1 13(a) &(b); 91.7(a);
+91.1197 9 1 . 121 l9 1 . 151(a){ 91.405; 91 407(a)S 91 409(a)(1)
+for request are cited below.                                      Pi(z);  91.417(a) S(b).  Reasons
+
+PUELIC GOOD
+
+Aeriul videograpby for geograpliical awareness and for real es-tate marketing and
+inspections has been around for a long time throngh ntanned fixed wing aircraft and
+helicopters. But far small business awners, its expense has been cost-prohibitive.
+Granting this esemption to the Petitioner would allow ltiin to provide this sendce at a
+much lower cost. Purther, the small UAS being ntilized in this applieafion will pose no
+threat to the pubiic given its small size and lack of combustible fuel when compared to
+larger manned aireraft. The operation of this U A 5 wdll mininrize ecological damage
+and promote economic growth by providing intormation to businesses & individuals in
+the metro Atlanta and north Georgia area.
+
+DESCRIPTION OF IJAV TO EL+ DEPLOYED UN D F.R REOUESTED
+EXEMPTIONS
+Petitioner currently owns a DSI Pliantom 2 quad copter and a DJI Phantom 2 Vision
+quad copte.r. These nre virtually the same model of UAV. The difference is in cumera
+capabilities and slightly different control linl:s. Tbe petitioner intends to use the
+Phantom 2 as the primary UAV in comntercial applications described lterein. The
+Phantom? is a quad capter that czn take off and land vei4ically. It weighs approximately
+31bs. and has a maxinmm airspeed ofapprosimately 25lcnots. This UAS uses lithium
+polynrer batteries which have approximately 20-25 minutes of total cliarge time. This
+gives this UAS upproximately 12-15 minutes of flight time with suffictent remaining
+battery charge to land safely. The particular model of Phantom z being utilized under
+this request for exemption has Pirst Person View (PPV) which allows the PIC to visually
+monitor certain telemetry data on a ground station monftor including altitude (AGL),
+GPS signal strength, battery charge informatfon, etc. This FPV also gives the PIC lddeo
+feed fronr the attached GoPro camera showing what images arebeing captured. This is a
+significant safety feature as it shows the attitude ofthe UAS and its forward direction.
+However, this PPV feature will never be used as e tool to deviate from VLOS operation
+by the PIQ
+
+PREBLIGHT
+The petitionerNvill always follow procedures outlined in the UAS operator's manual as to
+proper preflight inspection of all bardware, software, environment and anyother factors
+needed to ensure a safe (]ight.
+FCC llVFOR.rIATION
+The L'AS be deployed here is a DJI Phantom z. The control link operates on the 2.4 GFIz
+ISM radio frequency, its published range is ro(o meters f328o feet). The rece4ver
+sensitivity is -97dDm.
+
+PIC QUAidRICATIO NyS
+The petitioner holds a FAA Private Pilot's License with an instrument rating. Petitioner
+Irzs over 600 hours PIC time in a varlety of Cessna znd Piper aircraft with the majolity
+being in the 1975 Cessna 177RG he previously owned. Petitioner has oswned the UAS
+described above since 2013 and has over roo hours in this type of IIAS as a hobbyist.
+The petitioner envisions being the PIC in all operations thatwill be performed under the
+requested rule exemptions and the subsequent COA request. IIowever, if another P1C is
+used for these operations, petitioner agrees that any PIC of tlre UAS in the envisioned
+operatians v+dll hold at least a PAA Private pilots certificate, hold at least a 3"d class
+medical certifrcate, have no less than 25 hours of PIC time in the UAS bcing deployed
+before beginning any type of commercial for hire operations and conform to all safety
+protocols.
+
+DESCItIPTION OF INTPNDFD CO'VIMERCIAi OPLRATIONS
+Petitioner intends to solicit work for aerial real estate inspections from real estate agents
+& bralcers, insurmrce companies & related vendors, bnnks and private property owners
+to provide photography and videography of residentinl, commercial and rural real
+e.state. This work will always be conducted with the per:nission af the property· mvner or
+their respective agent. Flight operations will be restricted to flights dirrectly over the
+property thaL has granted permission. Given the type of work being targeted here, the
+Petitioner does not foresee any instence ivhere the UAS would be flown over any crowds
+or assenrblages of people in an open air environment. If in fact anyjob does entail flights
+oecr crowds, petitioner will elect not to make said flight. SafeLywlll alivays be the
+primary concern regarding any flight at any time.
+
+Petitioner agrees to place a sign during any flight operation that says: CAUTION-
+UNMlv*INED AERIAL VEHICLE IN OPERA7']ON. STAY BACK roo FEET FROM
+AIRCIU,Fr.
+
+l7ASOPERATINGPARAMETEHB
+Tlre UAS being deploycd in these esemption reauest can fly at a speed of approximately
+25 knots. However, given the intended use describe here, this speed will never be
+necessary. Much slower speeds zrc preferred to collect the photographic tnaterial
+needed.
+
+Although the UAS being deployed has an approximatg control link distance of 3/4 mlle,
+this is much niore thun VLOS will allaw. Petitioner agrees never to fly UAS outside of
+VLOS.
+
+Petitlonor will only fly UAS during the day in VMC conditions. Given the petitioner
+agrees to never fly higher than 300 fect AGL, distance from clouds should not be a factor
+ifYlown in VD1C condittons.
+Petitioner agrees to use a Visual Obsetver (VO) during all operations. The VO ivill be
+used to help assure VLOS at all limes.
+
+The UAS tidll not operate within 5 nautical miles of an airport reference point as
+denoted on a current FAA published aeronautical chat4.
+
+The UAS being deployed cvith these exemption requests has the capability of using GPS
+signals to return to its initial point of take off if connection wltb t7re radio cantrol link fs
+lost.
+
+The petitioner agrees to yield right of way to all manned aviation activities at all times.
+
+F:XHMPTION R. ./2UPSTS
+The following are a list of Title 14 CPAs which fhe petitioner seeks exemption. Please
+note that the Pefitioner has used Sxemption No. 11138 to Uouglas Trudeau (Regulatory
+Oocl:et No. FAA-2014-048r) as a reference. Given that the petitioner and 11r. Trudeau
+intend to use the exemptions in similar manners and botlt use similar equipment, it
+seemed prudent not to bnrden the reviewer in this matter with exemption requests that
+have been previously deemed that celieve was not necessary. These rules are Part 21,
+45-23(b), 9rA(b)(2), 9 1,1 03(b), 91.109 and gx203(a) &(b). If the reviewer believes that
+these rules need to be addressed in this request, the petitioner will make a snpplemental
+request including these additional rule exemptlons.
+
+RULL 6r:ir s PRNATP ('ILOT PREVELEGES AND LI&IITATIONS
+The Petitioner currently holds an PAA Private Pilot Certificate with an Instrument
+Rating (a copy of this certificate is included in supplemental material as part of this
+request). In addilion to the certificate, Petitioner agrees to maintain a 3r" Class Medical
+Certificate. However, petitionerhas an eye sight problem that may cause rejection of the
+medical unless addressed by rule exemption. Petitioner has what is called a uniiateral
+papifledema of the right eye. This is an inflantmation of the rfght optic nerve to which
+there is no cure ar corrective lens solution.'17tis cnmses blurriness in lhe right eye. The
+left eye has 20/20 vision and when using both eyes, Petitioner has 2o/2o long distance
+sight. Corrective lens are need for rending. This sight condition has caused Petitioner to
+cease operating nianned aircraft. However, this condition does not affect Petitioner's
+ability to operate a UAS in any way. The petitioner seeks an esemption from some
+eyesight requirements for the 3rd Class medical certificate.
+
+As to private pilot limitations concerning operations for ltire or compensation, it seems
+that Gxemption No. uoGZ to A.straeus has allowed this cxemption previously and was
+noted in the Trudeau Exenrptlon No. 11138 ,
+
+As to airmansltip skills, the Petitioner has been operating his UAS since?or3 and lUas
+over too hours of Flight tiine. Petitioner currently fly's this U.AS several hours z month
+as a hobby and is very profrcient and bas ttie skills to maintain altitudc, maintain VLOS,
+aavigate, avoid obstacles, avoid air traffic and respond to loss of control link. Petitioner
+understands that he mnst make at least 3 takeoffs and landings withfn a 90 day perriod
+for cttrrency purposes.
+RL'LE or.v(a) CIVIL AIRCRAIT.AI12XNORTIiINESS
+There is no current PAA regulatory standard for determining ainvorthiness ofUA9 and
+there is no certificate currently available for UAS ainvorthiness. Petitioner seeks an
+exemption from this rule by ensuring that the UAS is in an airworthy conditionbased on
+conipliance witlr the operating documents prior to evety flight. Flight manuals nnd otlter
+important documents will be kept in a loeation readily accessible to the PIC nt ell times.
+
+RULE nr.rin(c) MINIMUM SAFEALTITUDES
+91.1 i9 prescribes safe altitudes for the operation of civil aireraft, butit ellows helicopters
+to be operated at lower altltudes in certain conditions. Pelitioner seeks an exemption
+from this rule as Petitioner will only operate the UAS in a range from ground level up to
+but not exceeding goo feet (AGL) znd will only operate in safe areas away from the
+publlc lhus providing a level of safety not available to manned aircraft. The petitioner
+asserCs that given the size, weight, tnaneuverability and speed of the UAS, an eqtdvalent
+or Iiigher level of safety will he achieved that from conventional manned helicopters.
+
+Petitioner will avoid activelypopulated areas.'these areas will be interpreted to inrinde
+areas on a RVR chart depicted in vellow and will be supplemented with informetion
+from a P'ligbts Standard District Offlce (FSDO). Petifloner intends to operate the UAS
+over real esfate for inspection purposes. Petitioner ivill not operate over any assemblage
+of people in an open air environment
+
+Per the exemption granted in No, u135 concerning 9Lia9(e), Pelitioner ugrees to uct in
+strict accordanee to that esemption. However, Petitioner seeks zn exempfion from the
+rule stipulatiug tlrat a UAS cannot be operated witlhin goofeet of a structure withaut
+permission af the omner. Given the intended use Petitimter ivill use these exemptions
+for, which is for photograplry and videography of real estate for marketing & inspection
+purposes, agreement from the engnging property owner or their agent is an absolute
+necessity.'ltre UAS will only be flown over properties with this pemiissian. However,
+given the housing density in the Atlanta, GA area, maintuining a 500 foot distance from
+other structures even while strictly flying over a perniission granting owner's property is
+impossible in many instances. The Petitioner seeks an exemption to this rule which
+would allow a 5o'stand-off from other structures as long as the UAS is operated
+completely over and within the propertyboundary lines of a permission granting
+property owner. Petitioner agrees to always keep privacy rights of other property owners
+in mind and will never engage a UAS in any type of surveillance or spying.
+
+RUL~,I .au ALTIMETER SETTINGS
+Petitioners' UAS has GPS derived altitude capabilities Nvith a baromatric sensor. The
+petilioner believes this cule in not applicable to the UAS operations iniended.
+
+RULE ov.iFi(a) FUEL REOUII2EMEN'PS FOR FLIGIIT IN VFR CONDITIONS
+Pefitioner seeks relief from this rule due to thc UAS being deployed is battery operated
+and thereqairements under this rule are not appliczble. The UAV in question has First
+Person Vision capabilities which transmits certain telemetry to a monitor where the PIC
+can monitor certain aspects ofthe flight inclttding battery level. A typical battery for a
+Phantom 2 U.4S will last approximately 20-25 minutes before total exhaustion. Certain
+battery lecel warnings sre set wherc the PIC will know when the battery state is at 30^6
+and 15% remaining charge lovelx. Th[s will normally allow z flight Of rz -- 15 m[nutes
+
+with snfficicnt hattery charge to mzke a safe landing. Petitioner will never beg[n a tlight
+unless a fully charged battery is used-
+
+RULC qi,zlo                                                       ION
+
+AFPERNAINTENANCP PREBVENTITIVEMAINPENANCE RBBUILDINC
+
+OBALTERA'PION; nr aoo( )(2) INSPECTIONS nt axo(a)(b)
+
+MAINTENANCE RECORDS
+
+Petitioner seeks relief from thesc rules dne to it being an alternate inspectfon
+
+requirement of 91.409(a)(2). The Petitioner will inspect and onsme UAS Is in a
+
+conditlon for snfe flight and adhere to all operating documen[s.
+
+SUPPLEMENI'AL INPOIIIV[ATION
+
+R'he Petitioner has provided t'he following information to support these requests for rule
+exemptions:
+r) Copy of petitioners FAA Private Pllot's License, 2) Phentom 2 User Mnnual v. 1 . 04. 3)
+NAZA M-V2 Main Controller Qtdck Star[ Guidev.t.26 (Tltis is the micro cvntroller that
+operates the UAS), S) iOSD Mini User Manoal (This provides telemetry data during
+flight).
+
+CLOSING
+
+The Petftloner belicves that exemption from the above listed Title 14 CPRS is warranted
+given Petitioner's hackground as a Private Pilot, the nature of the type of UAS fligh(s
+that will be und¢rtaken, [he size & weight of the U AS being deployed, the safety
+precautions to thegeneral public and the NAS the Petitioner intends to adlmre to, the
+positive environmental impact the flight operatious would have compared to manned
+fuel consnining missions und the economiebenefit the Petitloner's business would have
+in this new area of aviatian.
+
+Thank cou foryour review of this inaCter. Please feel free to eontact me at anytimewith
+any qnestions regarding this matter.
+
+Respectfully sub,mitted,
+                    /i
+
+Richarrll3mvden Dobbins
+FAA FORM 7711-1 UAS COA Attachment  Page 1 of 6
+                  FAA-2015-0060
+
+                                       DEPARTMENT OF TRANSPORTATION
+                                      FEDERAL AVIATION ADMINISTRATION
+                              CERTIFICATE OF WAIVER OR AUTHORIZATION
+ISSUED TO
+The Dobbins Company
+3827 Cliff Crest Drive
+Smyrna, GA 30080
+
+    This certificate is issued for the operations specifically described hereinafter. No person shall conduct
+any operation pursuant to the autliority of this certificate exeept in accordance with the standard and special
+provisions contained iv this certificate, and such other requirements of the Federal Aviation Regulations not
+s ecifically waived by this certificate.
+OPERATIONSAUTHORIZED
+Operation of the DJI Phantom 2 and DJI Phantom 2 Vision Unmanned Aircraft Systems at or below 200
+feet Above Ground Leval (AGL) for the purpose of aerial data collection.
+
+LIST OF WAIVED REGULATIONS BY SECTION AND TITLE
+N/A
+
+                                                STANDARD PROVISIONS
+1. A copy of the application made for this certificate sliall be attached and becwme a part hereof.
+2. This certificate shall be presented for inspection upon the request of any authorized representative of the
+Federal Aviation Administration, or of any State or nnwicipal official charged with the duty of enforcing
+local laws or regulations.
+3. The holder of tltis certificate shall be responsible for the sttict observance of the tenns and provisions
+contained herein.
+4. This certificate is nontransferable.
+
+Note-This eertificate constitutes a waiver of those Federal rules or regulations specifically refeffed to
+above. It does not constitute a waiver of any State law or local ordinance.
+
+                                                  SPECIAL PROVISIONS
+S ecial Provisions are set forth and attached.
+This certificate FAA-2015-0060-333E is effective from April 17, 2015 to April 30, 2017 and is subjectto
+cancellation at any time upon notice by the Administrator or his/her authorized representative.
+
+BY DIRECTION OF THE ADMINISTRATOR
+
+FAA Headquarters- AJV-115               /S/
+            (Region)
+                                    Jacaueline R. Jackson
+         April 10, 2015                    (Signature)
+            (Date)
+                           Manaaer. UAS Tactical Onerations Section
+   FAA Form 7711-1 (7-74)                  (Title)
+
+                           Small UAS Operations 200 feet and below for
+                                         Commercial Purposes March 2015
+                            FAA FORM 7711-1 UAS COA Attachment  Page 2 of 6
+                                               FAA-2015-0060
+
+STANDARD PROVISIONS
+
+A. General.
+
+1. The approval of this COA is effective only with an approved FAA Grant of Exemption.
+
+2. A copy of ihe COA including the special limitations must be immediately avaitable to all
+    operational personnel at each operating location whenever UAS operations are being
+    conducted.
+
+3. This authorization may be canceled at any timc by the Administrator, the person
+    autlhorized to grant the authorization, or the representative designated to monitor a
+    speci8e operation. As a general rule, this authorization may be caneeled when it is no
+    longer required, thcre is an abuse of its provisions, or when unforeseen safety factors
+    develop. Failure to comply with the authorization is cause for cancellation. The operator
+    will receive written notice of cancellation.
+
+B. Safety of Flight.
+
+1. Tbe operator or pilot in couvnand (PIC) is responsible for haltung or canceling ac[ivity in
+    the COA area if, at any time, the safety of persons or property on the ground or in thc air
+    is in jeopudy, or if there is a failure to cotnply with the terms or conditions of this
+    authorization.
+
+See-and-Avoid
+
+Unmanned aircraft have no on-board pilot to perform see-and-avoid responsibilities;
+therefore, when operating outside of active restricted and warning areas approved for
+aviation activities, provisions must be made to ensure an equivalent level of safety exists
+for unmanned operations consistent with 14 CFR Part 91 §91.11 l, §91.113 and §91.115.
+
+a. The pilot in command (PIC) is responsible:
+
+    · To remain clear and give way to alI manned aviation operations and activities at
+         all times,
+
+    · For the safety of persons or property on the sudace with respect to the UAS, and
+    · For compliance with CFR Parts 91.111, 91.113 and 91.115
+
+b. UAS pilots will cnsure there is a safe operaling distance between aviation activities
+and unmanned aircraft (UA) at all times.
+
+c. V isual observers must be usedd at all tinies and mainYain instantaneous communication
+with the PIC.
+
+d. The PIC is responsible to ensure visual observer(s) are
+
+                                                      Small UAS Operations 200 feet and below for
+                                                                    Commercial Purposes March 2015
+                              FAA FORM 7711-1 UAS COA Attachment Page 3 of 6
+                                                  FAA-2015-0060
+
+              · Able to see the UA and the surrounding airspace throughout the entire flight, and
+
+              · Able to provide the PIC with the UA's flight path, and proximity to all aviation
+                  activities and other hazards (e.g., terrain, weather, structures) sufficiently for the
+                  PIC to exercise effective control of the UA to prevent the UA from creating a
+                  collision hazard.
+
+         e. V isual observer(s) must be able to communicate clearly to the pilot any instructions
+         required to remain clear of eonflicting haftie.
+
+    2. Pilots are reminded to follow all federal regulations e.g. reinain clear of ail Teinporary
+         Flight Restrictions, as well as following the exemption granted for their operation.
+
+    3. The operator or delegated representative must not operate in Prohibited Areas, Special
+         Flight Rule Areas or, the Washington National Capital Region Flight Restricted Zone.
+         Such areas are clepicted on cliarts available at
+         httn://www.faa.gov/air traffic/flizht info/aeronav/. Additionally, aircraft operators
+         should beware of and avoid other areas identified in Notices to Airmen (NOTAMS)
+         which restricts operations in proximity to Power Plants, Electric Substations, Dams,
+         Wind Fanns, Oil Refineries, Industrial Complexes, National Parks, The Disney Resorts,
+         Stadiums, Emergency Services, the Washington DC Metro Flight Restricted Zone,
+         Militay or other Federal Faeilities.
+
+    4. AII aireraft operated in accordance with this Certificate of Waiver/Authorization must be
+         identified by serlal uumber, registered in accordance with 14 CFR part 47, and have
+         identification (N-Number) markings in accordance witli 14 CFR part 45, Subpart C.
+         Markings must be) as large as practicable.
+
+C. Reporting Requirements
+
+     1. Documentation of all operations associated with UAS activities is required regardless of
+         the airspace in which the UAS operates. NOTE: Negative (zero flights) reports are
+         required.
+
+    1 The operator must submit the following information through
+         mailto:9-AJV-115-UASOrganizationna faa.aov on a monthly basis:
+         a. Name of Operator, Exemption number and Aircraft registration number
+         b. UAS type and model
+         c. All operating locations, to include location city/name and latitude/longitude
+         d. Number of fligllls (per location, per aircraft)
+         e. Total airerafi operational hours
+         f. Takeoff or Landing damage
+
+                                                               Small UAS Operations 200 feet and below for
+                                                                             Commercial Purposes March 2015
+FAA FORM 7711-1 UAS COA Attachment  Page 4 of 6
+                  FAA-2015-0060
+
+g. Equipment malflinctions. Reportable malfunctions include, but are not limited to the
+    following:
+    (1) On-board flight control system
+    (2) Navigation system
+    (3) Powerplant failure in flight
+    (4) Fuel system failure
+    (5) Electrical system failure
+    (6) Control station failure
+
+3. The number and duration of lost link events (control, performance and health monitoring,
+    or commwiications) per UA per flight.
+
+D. No6ce to Airmen (NOTAM).
+
+    A distant (D) NOTAM must be issued when unmanned aircraft operations are being
+    conducted. This requirement may be accomplished:
+
+    a. Through the operator's local base operations or NOTAM issuing authority, or
+
+    b. By contacting the NOTAM Flight Service Station at 1-877-4-US-NTMS (1-877-487-
+         6867) not more than 72 hours in advance, but not Iess than 24 hours prior to the
+         operation, unless otherwise authorized as a special provision. The issuing agency will
+         requice the:
+
+         (1) Name and address ofthe pilot filing the NOTAM request
+
+         (2) Location, altitude, or operating area
+
+         (3) Time and nature of the activity.
+
+AIR TRAFFIC CONTROL SPECIAL PROVISIONS
+
+  A. CoordinaGon Requirements.
+
+        1. Operator liling and the issuance of required distance (D) NOTAM, will serve as
+            advance ATC facility notifieation of UAS operations in an area.
+
+        2. Operator must cancel NOTAMs when UAS operations are completed or will not be
+            conducted.
+
+        3. Coordination and deconfliction between Military 17aining Routes (MTRs) is the
+            operator's responsibility. When identifying an operational area the operator must
+            evaluate whether an MTR will be afPected. In the event tlre UAS operational area
+            overlaps (5 miles either sidc of centertine) an MTR, the operator will contact the
+            scheduling agency 24 hours in advance to coordinate and deconflict. Approval from
+            the scheduting agency is not required. Scheduling agencies are listed in the Area
+            Planning AP/I B Military Planning Routes North and South America, if unable to gain
+
+                                                               Small UAS Operations 200 feet and below for
+                                                                             Coinmercial Purposes March 2015
+                           FAA FORM 7711-1 UAS COA Attachment  Page 5 of 6
+                                             FAA-2015-0060
+
+          access to AP/1B contact the FAA at email address
+          mailto:9-AJV-115-UASOreanization(rDfaa rcov with the IRNR routes affected and the
+          FAA will provide the scheduling agency information. If prior coordination and
+          deconfliction does not take place 24 hours in advance, the operator must remain clear
+          of all MTRs.
+
+B. Communication Requirements.
+
+      1. When operating in the vicinity of an airport without an operating control tower,
+          announce your operations in accordance with the FAA Aeronautical Information
+          Manual (AIM) 4-I-9 TrafFrc Advisory Practices at Airports without Operating Control
+          Towers.
+
+C. Flight Planning Requirements.
+
+    "I'his COA will allow small UAS (55 pounds or less) operations during daytime VFR
+    conditions under the following conditions and limitations:
+
+       (1) At or below 200 feet AGL; and
+
+      (2) Beyond the following distances from the airport refcrence point (ARP) of a public use
+           aitport, heliport, gliderport, or seaport listed in the Airport/Facility Direetory, Alaska
+           Supplement, or Paeific Chart Supplement of the U.S. Government Flight Information
+           Publications.
+                a) 5 nautical miles (NM) from an aiiport having an operational control tower; or
+
+                b) 3 NM from an airport having a published instniment flight procedure, but not
+                    having an operational control tower; or
+
+                c) 2 NM from an airpmt not having a published instrument flight procedure or an
+                    operational control tov.·er; or
+
+                d) 2 NM from a heliport
+
+D. Emergency/Contingency Procedures.
+
+  1. Lost Link/Lost Comniunieations Procedures:
+
+      · If the UAS loses comtnunications or loses its GPS signal, thc UA must return to a
+           pre-determined location within the private or controlled-access property and land.
+
+      · The PIC tnust abort the flight in the evcnt of unpredicted obstacles or emergencies.
+
+   2. Any incident, accident, or flight operation that transgresses the lateral or vertical
+   boundaries defined in this COA must be reported to the FAA via email at
+
+                                                             Small UAS Operations 200 feet and below for
+                                                                           Commernial Purposes March 2015
+                              FAA FORM 7711-1 UAS COA Attachment Page 6 of 6
+                                                  FAA-2015-0060
+
+     mailto:9-AJV-I 15-UASOreanization(rDfaa.gov within 24 hours. Accidents tnust be reported
+     to the National Transportation Safety Board (NTSB) per instructions contained on the
+     NTSB Web site: www.ntsb.gov
+AUTHORIZATION
+This Certificate of Waiver or Authorization does not, in itself, waive any Title 14 Code of
+Federal Regulations, nor any state law or local ordinance. Should the proposed operation
+conflict with any state law or local ordinance, or require permission of local authorities or
+property owners, it is the responsibility of the operator to resolve the matter. This COA does not
+authorize flight within Special Use airspace without approval from the seheduling agency. The
+operator is hereby authorized to operate the small Unmanned Aircraft Systam in the National
+Airspace System.
+
+                                                               Small UAS Operations 200 feet and below for
+                                                                             Commercial Purposes March 2015
+Extended User Manual - eXom
+
+                    Revision 1/ April 2015
+
+                           Copyright © 2015 senseFly Ltd
+
+            senseFly
+
+                                                   a PaCCot company
+GENERALINFORMATION
+
+READ THIS USER MANUAL CAREFULLY BEFORE USING A SENSEFLY LTD PRODUCT.
+senseFly Ltd produfts are intended for professlunal use only.
+
+Applicable Regulations
+
+senseFly Ltd products are subject to Civil Aviation regulations. Regulatione may vary depending on the country
+where you intend to operate your product.
+ANY USE OF SENSEFLY LTD PRODUCTS IN BREACH OF THE LAW OF THE COUNTRY WHERE YOU OPERATE THE PRODUCT
+15 UNDER YOUR SOLE RESPONSIBILITY.
+INFORM YOUftSELF BEFORE USING THE PRODUCT. SOME COUNTRIES MAY HAVE LAWS THAT LIMIT THE USE OF UN-
+MANNED AIRCRAFT TO'LINE-OF-5IGHT' OPERATIONS AND/OR PROHIBIT THE USE OF UNMANNED AIRCRAFT AT ALL
+OR IN SPECIFIC AREAS.
+
+Privacy
+
+Recording and circulating an image of an individual may constitute an infringement of their image and privacy for
+which you can be liable. Ask for authorization before taking pictures of an individual, particularly if you want to keep
+your recordings and/or circulate images on the Web or any other medium. Do nat <irculate degrading images or
+ones that could undermine the reputation or dignity of an individual. Check that your use of the cameras on board
+senseFly Ltd products comply with the legal provision on privacy in the country where you operate your product.
+
+Limited Warranty
+
+SenseFly Ltd warrants that the product will be free from defects in material and workmanship for a period of twelve
+p2) months from the date of deltvery- SenseFly Ltd further warrants that the product will perform substantially in
+accordance with its speclficatlon. During the warranty perlod senseFly Ltd's sole Ilability shall be at senseFly Ltd's
+sole option, either to repair or to replace the defective product with another product or a product with similar spec-
+ifications, at no charge, or to reimburse the purchase price of the product, or if repair or replacement is not possible,
+issue a credit note; provided however, that the defect has been confirmed by senseFly Ltd and that the defective
+product is returned to seneeFly Ltd in accordancewith the support and repair form together with all required Flight
+logfiles.
+Warranty does not apply, without limitation, in case: a) the products are not stored and used according to their
+specifications, b) the products are damaged due to carelessness, negligence, or wrong use by the user, and c) for
+defects due to normal wear and tear including, but not limited to, deterioratian to the airframe after first flight,
+normal degradation, misuse, moisture or liquids, proximity or exposure ta heat, accidents, excessive strain, abuse,
+neglect, misapplication, repairs or modifications made by third party other than senseFly Ltd, damage due to manual
+operation, damage due to take-off or landing location with obstacles, damage due to low altitudeFlight, damage due
+to loss of data radio connection, damage due to strong wind, rain or humidity, or other causes for which senseFly Ltd
+has no cantrol.
+THE FOREGOING WARRANTIES ARE IN LIEU OF ALL WARRANTIES, EITHER EXPRESSED OR IMPLIED, INCLUDING WITH-
+OUT LIMITATION ANY IMPLIED WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, AND OF
+ANY OTHER OBLIGATION ON THE PART OF SENSEFLY LTD.
+
+Limitation of liability
+
+TO THE EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL SENSEPLY LTD BE LIABLE FOR ANY LOSS OF REV-
+ENUE, LOSS OF PROFIT, L055 OF DATA, OR INDIRECT, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES, EVEN IF
+5ENSEFLY LTD HAS BEEN NOTIFIED OF THE POSSIBILITY OF SUCH DAMAGES, AND WHETHER THIS LIABILITY ARISES
+FROM A CLAIM BASED ON CONTRACT, WARRANTY, TORT OR OTHERWISE, WITH THE EXCEPTION OF GROSS NEGLI-
+GENCE AND DEATH.
+YOU SHALL AT ALL TIMES OPERATE THE PRODUCT IN AREAS OR UNDER CIRCUMSTANCES SO AS TO GUARANTY SE-
+CURITY AND SAFETY OF PEOPLE, PROPERTY AND ANIMALS.
+
+Disposal of this product at the end of its life
+
+              At the end of this product's life, please do not dispase of this product in your general household waste.
+              Instead,inordertopreventpossibleharmtatheenvironmentorhumanhealthfromuncontrolledwaste
+              disposal, please dispose of this product separately in accordance with your local laws and regulation. For
+              more information on the separate collection systems for waste electrical and electronlc equipment that
+are available for consumers, near your home, free of charge, please contact your local municipal authority.
+You can also contact senseFly Ltd or the reseller from which you purchased yaur drone wha may provide recycling
+services or be part of a recycling scheme.
+
+Copyrights
+
+senseFly Ltd reserves the riqht to mzke changes to specifications and product descriptions contained in this docu-
+ment at any time without notice. Please <onsult www.sensefly.com for the latest release.
+Copyright!a 2015 sensePly Ltd. AII rights reserved. REPRODUCTION, USE OR DISCLOSURE OF ALL OR IN PART OF THIS
+MANUAL TO THIRD PARTIES WITHOUT THE PRIOR WRITTEN PERMISSION OF SENSEFLY LTD IS STRICTLY PROHIBITED.
+Address
+
+senseFly Ltd
+Route de Geneve 38
+1033 Cheseaux-Lausanne
+Switzerland
+Website: http://www.sensefly.com
+
+Technical support
+
+If you have questions about any of your senseFly products, please visit my.senseFly* where you'II find:
+       · Our Knowledge Base.
+       · Aformfor<ontactingsupport.
+
+   'my.sensefly.com
+Congratulations on your purchase of the eXom, a complex and powerful yet intu-
+itive inspection and mapping system. We take great care to develop and design
+the best possible hardware and software tools for quick, high-quality and easy-
+to-use inspection and aerial mapping.
+
+The eXom is a technologically advanced drone (UAV, RPAS or UAS) platform capa-
+ble of manual, stabilised, pre-planned and interactiveflight and is equipped with
+muititude of professional-grade sensors.
+
+            Note: This manual refers to eMotion X and version 3.4 of Postflight
+            Terra 30 software. The eXom req uires eMotion X. If you installed eMo-
+             tion before purchasing your drone, check the version and upgrade if
+             necessary. You can consult the Release Notes* for changes included
+             in more recent versions ofthe software.
+
+Package contents
+The standard eXom package contains the following items:
+
+     · tx carrying case with foam protection
+    . 1 x eXom
+     a 2 sets of 4 spare propellers
+     . 4 x Lithium-Polymer battery packs
+     s 2 x Lithium-Polymer battery charger (including cables)
+     . 4 x spare legs
+     · 8 x spare leg caps
+     . 1x 2.4/5.8 GHz U5B ground modem for data link (including U5B cable)
+     . 1x 2.4 GHz remote control (RC) (including 3 AA batteries)
+     . 1x USB cable for interfacing with camera and on-board autopilot
+     . 1x eXom User Manual
+
+Depending on your order, your package may also include other items. Please ver-
+ify upon delivery that your package is complete. In case of a missing item, please
+contact your eXom reseller immediately.
+Hardware features
+The eXom has the following components:
+
+    · Central body: The core of the eXom, housing its autopilot, image process-
+        ing logic and communications.
+
+     · Arms:Carbonfibrecompositearmsprovidealightweightandsturdystruc-
+        ture.
+
+     · Power button/status LED & strobe: Power button has an LED built into it
+        that ind icates the cu rrent state of the eXom when on the ground and flashes
+         brightly in the air.
+
+     · Top cover: Light yet durable cover to protect the drone's electronics.
+
+     · Sensor modufes: Composed of high-speed ultrasonic sensors and nav-
+         cam, the 5 sensor modules (head, left, right, rear and bottom) are used for
+         navigation, landing and situational awareness.
+
+                Navcam: High-speed optical sensor that constantly analyses the eXom's
+
+                                                     -
+
+                surroundings for navigation and collision avoidance.
+             - Ultrasonic transmitter: Emits ultrasound which is then picked up
+
+                 by the ultrasonic receiver.
+                Ultrasonic receiver: Detects the ultrasound emitted by the trans-
+               mitter, allowing the eXom to measure its distance from a surface.
+
+      · TripleView head: Stabilised head equipped with:
+
+                 Main camera: Capable of capturing high-resolution video and still
+                 imagery.
+                Thermal camera: Capabl e of capturing high-resolution thermal video
+                 and still imagery.
+             - Flash: Able to provide high-intensity Flashes of light.
+                 Headlamp: Provides lighting forvideo and navigation.
+             - Head sensor module: Contains an ultrasonic transmitter, ultrasonic
+                 receiver and navcam for navigation, landing and situational aware-
+                 ness.
+
+ 10
+· Propeller: Used to generate thrust. The eXom's propellers are detachable
+   so that they can be easily replaced.
+
+· Motor: Powers the propellers.
+
+· Motor mount: Houses the motor and connections and supports the legs
+   and shrouding.
+
+· Motor cooling fins: Provide air cooling for the motors.
+
+· Shrouding: Made of durable carbon fibre composite, it protects the pro-
+   pellers and surfaces with which the drone might come into contact.
+
+· Navigation Iights: Indicate the drone's position and orientation. The light
+   on the left-hand (port) side shines red and the one on the right-hand (star-
+   board) side shines green.
+
+· Leg: Supports the eXom on the ground.
+
+· Cap: Provides protection for the surface the drone lands on.
+
+· Battery: The eXom is powered by a LiPo (Lithium Polymer) battery stored
+   within the battery compartment.
+
+· Battery compartment: Holds the removable battery.
+
+· Battery release tabs: Squeeze the tabs to remove the battery.
+
+· Battery level indicator: Press the button and a series of LEDs indicate the
+    battery fevel.
+
+· Bottom strobe: Positioned on the bottom of the drone, it indicates the
+   drone's location when viewed from below.
+
+· Port access cover: Protects the eXom's ports:
+
+           SD card slot: Holds the SD card on which video and images are stored.
+           Autopilot port: Used for upgrading your drone's firmware.
+          Maintenance port: Only for use by senseFly support.
+
+                                                                                                                        tl
+               Maintenance button: Only for use by senseFly support.
+               Maintenance switch: Only for use by senseFly support.
+            Caution: The propellers spin at high speeds and can be potentially
+            dangerous if they come into contact with exposed skin. Be sure to
+            always keep your hands clear of the propellers when the battery is
+            installed in your eXom.
+            Caution: Proper care of your battery is essential. Please read section
+            'Proper battery care' on page 90 before using your drone for the first
+            time.
+
+12
+                                       Top
+
+                      TripleView head                    Right sensor module
+        Leftsensormodule                                  Power button/
+                                                          status LEO & top strobe
+Propeller
+
+                 ~                     oP                     Frontarm
+
+Topcover                                 if                   Reararm
+
+Le9 ,~ Legclip
+
+                                                       Rear sensor module
+
+Shroudinq ~                                Port access cover
+                                       I~ ~
+
+                                                              Motor mount
+
+                                                         J
+
+C ap                                                                             Motor
+                                                                                 cooling fins
+     ~Malncamera                                                % Motor
+
+  Headsensormodule                                       ~
+                   Ultrasonictransmitter '~                                                       13
+                                Left navcam
+                        Ultrasonicreceiver
+
+                                       Navigation light
+                                    TripleView Head
+
+                  Headlamp
+                Head sensor
+
+                      module
+              Ultrasonic rec
+
+                     Head w
+          Ultrasonic transrr
+
+14
+                      i / / 11
+
+Bottom sensor module                  Maintenancecover
+         TripleViewhead
+                                                                     >,a
+                                   y
+
+Batter                                ~
+level
+indicator                                             Bottom strobe
+                                            Battery ~
+
+Battery release tabs
+
+                                                                          l5
+    Ports
+
+      Maintenanceport*                                                      /
+    Mamtenancesmntch"-- f"~'-'1 --                                            J`
+
+            444
+
+                                                                            *Donotuse
+
+    Battery
+
+         . f..  Battery
+    ......
+
+    Battery level indicator--1-~:~--~ ,'
+
+                                                                         ~
+
+      Battery level button
+
+16
+         2.1.1   Visually inspect the drone                                                                                                                                                                            37
+         2.1.2                                                                                                                                         . . . . . . . . . . . . . . . . .                               39
+
+                 Visually inspect the propellers ........ .. ..  .
+                                                    .
+
+         2.1.3   Check sensor and camera operation  . . . . . . . . . . .                                                                                                                                              40
+
+         2.1.4   Pre-flight remote control check                                                                                                                                                                       41
+         2.1.5                                                                                                                                                                     . . . . . . . . . . . . . .         42
+         2.1.6                                                                                                                                                                                                         43
+                 How to set the working area . . . . . . . . . . . . . . .
+                 How to remove the battery
+
+                                                                                                                                                                . . . . . . . . . . . . . . . .
+
+    2.2  About mission planning  . . . . . . . . . . . . . . . . . . . . . .                                                                                                                                           43
+
+         2.2.1   The setup phase of a flight plan                                                                                                                                                                      43
+                                                                                                                                                                                            . . . . . . . . . . . . .
+
+         2.2.2   About mission blocks                                                                                                                                                                                  44
+         2.2.3                                                                                                                      . . . . . . . . . . . . . . . . . . .                                              45
+
+                 How to create a mission block . . . . . . . . . . . . . .
+
+         12.4    How to edit a mission block . . . . . . . . . . . . . . . .                                                                                                                                           45
+
+         2.2.5 How to assign a mission block to a drone ........ 46
+
+         2.2.6   How to remove a mission block . . . . . . . . . . . . . .                                                                                                                                             46
+         12.7    Choosing a take-off location . . . . . . . . . . . . . . .                                                                                                                                            46
+
+         2.2.8   Landing and the home waypoint                                                                                                                                                                         46
+         22.9                                                                                                                                                                              . . . . . . . . . . . . .   47
+
+                 Take-off and start mission  . . . . . . . . . . . . . . . .
+
+         2.2.10  Landing after a mission . . . . . . . . . . . . . . . . . .                                                                                                                                           48
+         2.2.11                                                                                                                                                                                                        48
+                 Emergencylanding .. ... . . . .            . . . .
+                                             . . . . . . .
+
+3   Manual  control  of  the                                                                                                                                                                                           50
+                              eXom                                                                                                                                                                                     50
+                                                                                                                                                                                                                       52
+    3.1 About the remote control .....................                                                                                                                                                                 53
+                                                                                                                                                                                                                       53
+    3.2 About flight assistance . . . . . . . . . . . . . . . . . . . . . . .                                                                                                                                          56
+                                                                                                                                                                                                                       56
+    3.3 How to change assistance level . . . . . . . . . . . . . . . . . .
+
+    3.4 Using the remote control . . . . . . . . . . . . . . . . . . . . .
+
+    3.5 Take-off with manual flight . . . . . . . . . . . . . . . . . . . .
+
+         3.5.1 Manuallanding . . . . . . . . . . . . . . . . . . . . . .
+
+20
+     3.5.2  Motor cut off  . . . . . . . . . . . . . . . . . . . . . . .                                                                                                                                         57
+     3.5.3                                                                                                                                                                                                       57
+            How to take manual control ofthe eXom in-flight ....
+
+     3.5.4 How to climb using the remote control .......... 57
+
+     3.5.5 How to hover using the remote control ......... 57
+
+     3.5.6 How to yaw using the remote control .......... 58
+
+     15.7 How to fly forward using the remote control ....... 58
+
+     3.5.8  How to tilt and fly to the left or right using the remote
+     3.5.9
+            co ntro I  . . . . . . . . . . . . . . . . . . . . . . . . . . .                                                                                                                                     58
+                                                                                                                                                                                                                 59
+            How to stop the propellers using the remote control ..
+
+     eMotion X3.5.10 Returning control to  . . . . . . . . . . . . . .                                                                                                                                           59
+                                                                                                                                                                                                                 60
+3.6  In-flight monitoring and control                                                                                                                                                                            60
+3.7                                                                                                                                                                         . . . . . . . . . . . . . . . . . .  61
+3.8
+     Powering your eXom off . . . . . . . . . . . . . . . . . . . . . .
+
+     About in-flight errors . . . . . . . . . . . . . . . . . . . . . . . .
+
+4 Processing image data                                                                                                                                                                                          62
+     4.1 Importing images and flight data . . . . . . . . . . . . . . . . .                                                                                                                                      62
+     4.2 In-field image quality check . . . . . . . . . . . . . . . . . . . .                                                                                                                                    63
+
+11Advanced functionalities                                                                                                                                                                                       65
+
+4.3 Waypoints and their properties . . . . . . . . . . . . . . . . . . 65
+
+4.4 3D mission planning using elevation data . . . . . . . . . . . . . 65
+
+4.5 Flight visualization in Google Earth T^^ . . . . . . . . . . . . . . .68
+
+4.6 About the different phases of an autonomous mission ...... 69
+
+5 eMotionX in·depth guide                                                                                                                                                                                        71
+     5.1 Toolbar . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                                                                                                                   71
+     5.2 Control Bar . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                                                                                                                   73
+
+                                                                                                                                                                                                                 2
+III Maintenance and Repair                                                          77
+
+6 Maintenance and repair ofthe eXom                                                 78
+
+    6.1 Attaching and detaching propellers  . . . . . . . . . .        . . . . . .  78
+
+         6.1.1  How to detach a propeller   . . . . . . . . . .                         81
+
+                                                                       . . . . . .
+
+         6.1.2  How to attach the propellers 81. . . . . . . . .
+                                                                       . . . . . .
+
+    6.2  Changing a leg     . . . . . . . . . . . . . . . . . . . . .                   83
+
+                                                                       . . . . . .
+
+    6.3 Changing a ground modem antenna        .........               . . . . . .  87
+
+    6.4  Cleaning the eXom    . . . . . . . . . . . . . . . . . . .                    87
+
+                                                                       . . . . . .
+
+    6.5  Storing the eXom 87. . . . . . . . . . . . . . . . . . . .
+                                                                       . . . . . .
+
+    6.6  Full inspection    . . . . . . . . . . . . . . . . . . . . .                   87
+
+                                                                       . . . . . .
+
+         6.6.1  Check your motors    . .  .. ..  . . . . . . . .       . . . . . .  88
+
+         6.6.2  Check inertial sensors  . . . . . . . . . . . . .      . . . . . .  88
+
+         6.6.3  Check barometric pressure sensor     ......            . . . . . .  89
+
+    6.7  Repairing the eXom airframe 89. . . . . . . . . . . . . .
+                                                                       . . . . . .
+
+    6.8  Proper battery care  . . . . . . . . . . . . . . . . . . .    . . . . . .  90
+
+7 Troubleshooting                                                                   92
+
+    7.1  About the autopilots  . . . . . . . . . . . . . . . . . .     . . . . . .  92
+
+    7.2  In-flightwarnings    .....  ...........       ..                ..  ...    93
+
+                                                     .                 .
+
+    7.3  Critical failures  . . . . . . . . . . . . . . . . . . . . .                  96
+
+                                                                       . . . . . .
+
+    7.4  Improving radio signal communication    . . . . . . . .       . . . . . .  100
+
+    7.5  Losing and locating your eXom in the field  ......                           101
+
+                                                                       . . . . . .
+
+    7.6  Reporting a problem with your eXom. . . . . . . . .                          102
+
+                                                                       . . . . . .
+
+    7.7  Maintenanceschedule   . . . . . . . . . . . . . . . . .       . . . . . .  102
+
+22
+IV Specifications        105
+
+1 Software requirements   106
+2 Dronespecifications     107
+
+                         23
+24
+                                                                Part 1
+
+                        Getting 5tarted
+
+The first part ofthis document introduces you to the eXom and contains the basic
+information you will need to plan and execute a flight.
+
+A typical mission can be divided into three main phases:
+
+   1. Planning: Every project begins with careful planning, whether it is a quick
+
+        flight over a small area or a multi-stage flight in complex terrain. Section
+        'Planning a flight' on the next page describes how to use the Mission Plan-
+        ning feature to quickly generate a flight plan.
+
+   1 Pre-flight preparation: In section'Executing a flight' on page 33 you will
+
+        learn how to prepare your drone for flight.
+
+   3.Executing a flight: Once planning and preparation is complete, it is time
+
+        fo r the drone to perform its flight. Though the eXom can fol low a flight plan
+        without interventionfrom take-offto landing, you can also modify its flight
+        plan at any point during flight.
+
+   4.Processing image data: The last step in a project is viewing images and
+
+        video, or converting the images taken by your eXom into usable products
+        such as precise geo-referenced orthomosaics or 3D terrain models. section
+        'Processing image data' on page 62 leads you through the process of ob-
+        taining the video and images the drone has recorded, checking ifthe image
+        quality suits your needs while still in the field and producing advanced 2D
+        and 3D maps.
+          Started
+
+    Planning a flight
+
+            Goal of this section: This section introduces the eMotion X software
+            used to interface with the eXom. It describes the steps required to fly
+             your drone and plan a simple mapping flight.
+
+1.1 Installing eMotion X, Postflight Terra 3D, and the ground
+       modem drivers
+
+You can download the latest version of eMotion X and PostflightTerra 3D at:
+
+                                      http://my.sensefly.com
+
+We recommend that you download and install Google Earth r"^ to take full advan-
+tage of the features of eMotion X. You can find more information at the following
+address:
+
+                                    www.google.com/earth/
+
+To install eMotion X on Windows, simply execute the provided installers for eMo-
+tion X and PostFlight Terra 3D a nd follow the on-screen i nstructions. The eMotion X
+and PostflightTerra 3D software will be available in the'Start' menu. Drivers for
+the USB ground station ground modem will automatically be installed along with
+eMotion X.
+In case a problem arises after connecting the ground modem to the computer for
+the first time you can find the drivers in one of the following directories (depend-
+ing on your version of Windows):
+
+       C:\Program Files\senseFly\eMotion X\usb-driver\
+       C:\Program Files (x86)\senseFly\eMotion X\usb-driver\
+
+26
+                                                e
+
+1.2 The eMotionX interface
+
+                                       Sidebar     _®
+
+                                       Sa:...^--_ ~ _......· .
+
+                                                 .r O
+
+                                                   za
+
+                                       e ~~~f ·L:.':. ~ :._~..
+
+                                                 I
+
+navam                                  Mapd¢playl
+
+Selettetl
+
+rtavcamsfeed
+
+                            Bonom bar
+
+The main screen of eMotion X is split into several sections:
+
+     . Main Area: The Main Area of eMotionX can display a map with the drone's
+        current position, or the feed from the main or thermal cameras.
+
+     s Control Bar: The Control Bar is used to issue various commands to the
+        eXom while it is in flight, such as starting the mission phase or holding po-
+        sition. It is also used to display and acknowledge warnings that may occur
+        either before or during a flight.
+
+     e Toolbar: The Toolbar contains buttons to switch between 2D and 3D, con-
+        trol the layers, sources or map information and other display options re-
+        lated to the Map Area. eMotion X can use many sources of mapping infor-
+        mation.
+
+     · sidebar: The sidebar is split into several tabs, each with a particular func-
+        tion:
+
+                                                    27
+Getting Started
+
+    e Sensor bar: The sensor bar displays the feed from the selected navcam.
+
+        When viewing the main or thermal camera feed in the main area, you can
+        also find the map in the sensor bar.
+
+1.3 About flight plans
+
+If you want your eXom to fly part of its mission autonomously, you must create a
+flight plan, which is a path defined by a set of waypoints, or points in 3D space,
+and a set of actions that can be performed at or in between waypoints, such as
+taking images, capturing images, carrying out a manoeuvre, proceeding to the
+next waypoint or landing.
+A flight plan is shown in the Map Area using:
+
+    a In 2D view, circles to represent waypoints.
+
+     . In 3D view, vertical lines to representthe altitude ofthe drone with inverted
+        cones to represent the waypoint itself.
+
+1.4 Creating a new flight plan
+
+eXom flights plans are made up of a series of blocks. Each block is made up of a
+mission polygon and a series of waypoints.
+
+           Note: Each block can be assigned to a different drone.
+
+To create a flight plan:
+
+   1. Click the Mission Planning tab in the eMotion X sidebar.
+
+    2. Click to create a new block. A new mission polygon, including the required
+        waypoints, is automatically calculated and displayed.
+
+    3. Adjust the ground resolution and other mapping and mission parameters
+        in the Mission Planning tab to suit your terrain and quality requirements.
+
+28
+    4. Click and drag the corners of the polygon to adjust its size and shape.
+
+    5. Click and drag the home and mission waypoints to adjust their position.
+
+    6. Click waypoints and edit their properties in the sidebar.
+
+    7. Check the resulting flight characteristics in the tab. Once you are satisfied,
+        upload the mission plan to the drone by clicking the'Upload' button.
+
+Click the CtO button in the Toolbar to to toggle 3D mode on and off.
+Review the flight plan to ensure that there is sufficient clearance between the
+flight pian and the ground.
+
+     i Caution: NeithereMotionX nor the automatic mission planning tool
+             are awa re of obstacles in the area. I n addition, if you do not use eleva-
+             tion data, the mission planning tool assumes that the mission area is
+             flat and at the same altitude than the take-off location. It is also not
+             aware of any legal restrictions (such as minimum or maximum alti-
+             tude) that may apply in your region. The resulting flight plan should
+             be carefully reviewed in order to avoid any collision with uneven ter-
+             rain or tall objects such as buildings, and to comply with local regu-
+             lations.
+
+The final step after you have prepared a flight plan is to save it to a file that you
+can load into the eXom when you are in the fieid. Select the Setup Phase tab from
+the Sidebar, click on'Save flight plan to file..; choose a filename and location and
+click'Save:
+
+1.5 About the working area
+
+The cylindrical volume of space in which the drone is allowed to fly is known as
+the working area. Attempting to leave this area (fly out of the circle or over the
+height limit defined) will cause the drone to raise a warning and carry out a secu-
+rity action. The working area is represented by:
+
+     . In 2D view, a large semi-transparent grey circle.
+
+                                                                                                                 RM
+          Started
+
+     · In 3D view, a large semi-transparent grey cylinder.
+
+See section'Waypoints and their properties' on page 65 for more information on
+waypoints and the various symbols presented in the Map Area.
+A complete eXom flight plan is divided into two separate phases: the setup phase
+and the mission phase. The mission phase includes waypoints and actions related
+to mapping and capturing images. The setup phase includes waypoints and ac-
+tions related to take-off and landing. The setup phase is usually planned in the
+field, and is explained in detail in section'About mission planning' on page 43.
+
+1.6 The mission phase of a flight
+
+To create a mapping flight for the systematic coverage of an area use the auto-
+matic mission planning feature of eMotion X. By simply positioning a rectangle
+around the area you would like to cover, eMotion X will generate a mission plan
+optimised for the ground resolution that you desire.
+
+            Note: For more complex terrain and missions, eMotion X has the abil-
+             ity to set polygonal mission areas of any size and shape, and to auto-
+             matically adjust waypoint altitudes based on elevation data.
+
+Follow these steps to automatically setup waypoints for a mapping mission:
+
+    1. Select the Mission Planning tab from the Sidebar. A grey zone will appear
+        in the Map Area to designate the mission area to cover. Information such
+        as size and position is overlaid on the area. A mission plan, including the
+        required waypoints, is automatically calculated and displayed to preview
+        the mission plan that will be created.
+
+    2. Adjust the location, size, and shape of the mission area. The area can be
+        relocated by dragging the gray zone. The four sq uare handles on the edges
+        of the area can be used to resize it and the round handles on the corners of
+        the area can be used to rotate it. As you adjust the area the mission plan
+        preview is continuously updated.
+
+30
+                                                                                    Planning a flight
+
+    3. Adjust the mapping and mission parameters in the Mission Planning tab to
+        suit your terrain and quality requirements.
+
+    4. Check the resulting flight characteristics in the tab. Once you are satisfied,
+
+      assign the mission plan to the drone by clicking the k Assign button.
+
+    5. Click the (& button in the Toolbar to to toggle 3D mode on and off. Review
+        theflight plan to ensure that there is sufficientclearance between theflight
+        plan and the ground.
+
+            Caution: eMotion X as well as the automatic mission planning tool
+             are not aware of any obstacles that may exist in the area. In addition,
+             when not using elevation data, the mission planning tool assumes
+             that the m ission area is flat and at the same altitude than the take-off
+             location, lt is also not aware of any legal restriction (such as mini mum
+             or maximum altitude) that may exist in your region. The resulting
+             flight plan shou ld be careful ly reviewed in order to avoid any collision
+             with uneven terrain or tall objects such as buildings, and to comply
+             with local regulations.
+
+1.6.1 Getting ready for a mission
+
+Before leaving for the field to perform a fl ight, be sure to fu Ily charge all your eXom
+batteries. When delivered, the eXom battery may not be fully charged.
+To charge eXom's battery pack, connect it to the battery charger provided.
+The charger provided independently balances the voltage of each ofthe cells con-
+tained in the battery pack to ensures optimal performance and battery life.
+If you plan on performing a flight away from an Internet connection it is useful
+
+to pre-load map tiles by selecting'Download maps..: from the e file menu.
+
+More details on how to take advantage of the various map sources available in
+eMotionX can be found in section 'Toolbar'on page 71.
+
+                                                                                                                             31
+Getting Started
+1.6.2 How to pick the eXom up
+
+            Caution: Switch the eXom off before picking it up. Never attempt to
+            pick the eXom up while the propellers are turning.
+The eXom has been designed to be picked up one-handed at the narrowest point
+on the central body.
+
+32
+                                                                                                t]
+
+2 Executing a flight
+
+             Goal of this section: This section describes how to prepare your
+            eXom for flight, take off, monitor and control from the air, and initiate
+             an autonomous landing.
+
+             Note: We recommend that you perform your first flight in a large
+             obstacle-free area and limit the length of the mission in order to fa-
+            miliarise yourself with the eXom in flight.
+
+2.0.3 Preparing the eXom for flight
+The eXom's advanced yet simple design means it can go from the box to being
+ready for flight in minutes. We recommend that you perform the following steps
+before every flight to ensure that the platform is best prepared for flight.
+
+2.0.4 Pre-flight checklist
+     · Weatherchecked.
+     · Propellers attached.
+     · Charged eXom battery installed.
+     · Fresh AA batteries in the remote control.
+     · General inspection complete.
+     · Drone powered on.
+     · Drone connected to eMotion X through the ground modem*.
+
+   " If you only intend to fly manually, although a connection to eMotion X is not necessary, it is highly
+   recommended forflight monitoring and drone location tracking.
+
+                                                                                                                                    33
+          Started
+
+     · Main camera and thermal camera are ready to capture images and video.
+     · Images are successfully streaming from all navcams.
+     · Ultrasonic sensors are all working correctly.
+     · Takeoff zone is free of obstacles.
+     · An appropriate working area has been set.
+
+2.0.5 Weathercheck
+
+Before each flight, you should be aware of the weather conditions. The eXom is
+a small drone that cannot fly in heavy rain or strong wind conditions. In case of
+doubt, make sure to check a weather bulletin including wind estimations in the
+flight area. Note that wind is often stronger at higher altitudes and that the wind
+perceived at the surface is not always a good reference to estimate the wind at
+flight altitude. Cloud velocity ortall tree movements can help you to estimate the
+wind speed once you are out in the field.
+Weather forecasts may use various units to measure wind speed. As a reference,
+
+            Caution: Do not fly eXom missions if the wind speed exceeds 8 m/s
+             (29 km/h, 18 mph, 16 kts).
+
+            Caution: The eXom is not designed to fly in temperatures above
+             40° C. Avoid exposing the drone to high temperature for prolonged
+             periods of time. In particular, leaving the drone exposed to the sun
+             or in a car should be avoided.
+
+2.0.6 Flying conditions
+
+Avoid flying the eXom in the following conditions:
+
+     · In high winds.
+
+34
+                                                                          ri
+
+     · When there is precipitation, for example, rain, snow or hail.
+     · In very dusty conditions.
+     · If sand is being blown into the air.
+     · In very low light conditions.
+
+2.0.7 Landing conditions
+Do not attempt to land the eXom on the following:
+
+     · Area with less than t m clearance on all sides of the eXom.
+     · Surface that does not allow all 4 feet to contact the ground.
+     · Muddy, wet, dusty or sandy area.
+     · Into water or deep snow.
+     · A steeply inclined surface.
+
+2.0.8 How to install the eXom's battery
+Place the eXom on the ground or on a level surface in the vicinity of the take-off
+location. Slide the battery firmly into the battery compartment, making sure that
+it clicks into place.
+
+     ~ Caution: Take care to keep clear of the propellers, in case they unex-
+             pectedly start spinning.
+
+             Note: Only insert the battery when you are ready for start-up. Do not
+             leave the battery connected for extended periods of time when the
+             drone is on the ground, as this may discharge the batteries and cause
+             irreparable damage to them.
+
+                                                                                                            35
+          Started
+
+2.0.9 How to power on the eXom
+
+Press the power button. The eXom will perform an automatic self-check of its sen-
+sors and acquire satellite signals. Do not move the drone during these tests. It is
+important that the drone is not inclined morethan 10 degrees in order to start up
+properly. Pre-flight checks may last from a few seconds to several minutes in the
+case of poor satellite signal reception.
+
+             Note: Satellite positioning signals are not required for manual flight
+             using the remote control. If the satellite check fails, you can still fly
+             manually, but with only limited assistance from the drone.
+
+            Caution: Do not attempt to use eMotion X to fly eXom in areas where
+             satellite positioning signals (GPS/GLONASS) are unavailable, for ex-
+             ample, indoors.
+
+             Note: If there was any problem during the pre-flight checks per-
+            formed by the drone this will be indicated by a Pre-flight error in eMo-
+            tion X.
+
+2.0.10 How to connect to eMotion X
+
+Start by connecting the USB ground modem to your computer. Then launch eMo-
+tion X, which will display the Connection window. Select the eXom connection
+profile, choose the corresponding FTDI port and click'OK'.
+
+            Note: Every eXom is paired with the ground modem it is delivered
+             with, and will only work with that particular modem. The name of the
+            FTDI port corresponding to the ground modem is labelled as'eXom-
+             SERIAL; where SERIAL is the serial number of the drone it is paired
+             with.
+
+Once your drone has set its position using satellite signals, an icon of the drone
+
+36
+                                                                                                t]
+
+will appear at its location on the map. If the drone's location is not on the map
+you can click the'A' button from the Toolbar to centre the map on the drone.
+
+2.0.11 How to change the remote control's batteries
+    1. The battery cover is on the back of the remote control. Slide the battery
+        coveroff.
+    2. Remove any used batteries.
+    1 Replace them with fresh batteries, following the polarity (+/-) indication on
+        the inside of the battery compartment.
+    4. Replace the battery cover.
+
+             Caution: Always change all the batteries at once. Do not mix fresh
+             and used batteries.
+
+2.1 General inspection
+A general inspection should be performed before everyflight. It is also good prac-
+tice to perform a full airframe check regularly to keep your eXom in good shape.
+See section'Full inspection' on page 87 for more details.
+
+2.1.1 Visually inspect the drone
+The sensors and lenses must be clean and unobstructed for them to work cor-
+rectly.
+
+     e Remove the battery from the drone.
+     . Pick the drone up from above, holding the central body at its narrowest
+
+        point.
+
+                                                                                                                                    37
+          Started
+
+     . Visually inspect each ofthe 5 vision sensors.
+     . Visually inspect the 5 ultrasonic transmitters and receivers.
+     o Visually inspect the main camera.
+     . Visually inspect the thermal camera.
+     o Check that all propellers are properly locked on.
+     o Check that the legs are in good condition and properly attached with their
+
+        capsin place.
+     o Checkthat the shrouding is in good condition and properly attached at the
+
+        leg clips.
+     o Check that the top cover is attached and in good condition.
+     o Ensure that nothing is at risk of touching the spinning propellers.
+     o Check that the eXom's main body is in good condition.
+
+   . Check that the eXoms head is undamaged and turns freely on both axes.
+
+     e Check that all LEDs and strobes are clean and free of obstacles.
+     . Replace the battery, ensuring it clicks into the battery compartment.
+
+38
+2.1.2 Visually inspect the propellers
+
+New propeller:                         Worn propeller:
+    OK to fly                               replace
+
+                                                        39
+    Started
+
+             Damaged propeller: Cracked propeller:
+
+             Replace  Replace
+
+    . Replace propellers that are considerably worn down.
+    . Replace propellers that have many deep indentations on their leading edge.
+    · Replace cracked propellers.
+
+2.1.3 Check sensor and camera operation
+
+     . Insert the drone's battery.
+     e Holding the drone's central body from above at it's narrowest point, place
+
+        it on the ground and power it on.
+     . Launch eMotion X and connect to your drone.
+
+40
+    · In eMotion X, switch to interactive mode.
+
+    · Check the vision sensors.
+        Clickto activate each vision sensor and view the resulting video feed.
+
+    · Check the bottom sensor module's ultrasonic sensor.
+       View the bottom sensor module's distance reading in eMotion X. It should
+        show that the ground is close to the sensor.
+
+    · Check the front, left, right and rear sensor module's ultrasonic sen-
+        sors.
+        Walk in a circle around your drone, about 2 m away from it, while viewing
+       the sensor module readings in eMotion X (for example, with your computer
+        and ground modem in your hands).
+       The sensor d isplay i n eMotion X should show that there is an object approx-
+        imately 2 m away from each sensor in turn.
+
+     · Checkthe main camera.
+        View the main camera's video feed.
+
+     · Check the thermal camera.
+        View the thermal camera's video feed.
+
+2.1.4 Pre-flight remote control check
+
+Ifyou plan to usethe remote control during a flight we recommend thatyou check
+it before flight.
+
+    1. Place the drone in a safe and suitable take-off location.
+
+    2. Insert the battery and power on the drone.
+
+    3. Launch eMotion X and connect to the drone.
+
+    4. If you are not comfortable piloting the drone will only basic assistance,
+        switch Extended Assistance on in the Flight Parameters tab.
+
+                                                                                                                             41
+          Started
+
+    5. Switch the remote control on.
+    6. Slide the take off/land slider up. The drone will take off. Allow it to spin
+
+        around once to calibrate its compass.
+    7. Use the remote control to carry out some small, simple manoeuvres (yaw,
+
+        tilt, climb, descend).
+    8. Slidethetakeoff/Iandsliderdown.Thedronewillland.
+    9. Turn the remote control off.
+
+     ~ Caution: If you detect a problem with the remote control, land the
+            drone immediately. If you cannot land with the remote control, click
+            LAND NOW in eMotionX. Do not attempt to fly with a malfunctioning
+            remote control.
+
+            Caution: Always keep the area around the propeller clear of obsta-
+            cles and body parts to prevent injury.
+
+2.1.5 How to set the working area
+    · Launch eMotion X and connect to your drone.
+    · In eMotion X, click and drag the working area so that its centre is at the
+        posltion you want.
+     · Click the Parameters tab.
+     · Set the working area radius.
+     · Set the working area ceiling.
+
+42
+2.1.6 How to remove the battery
+
+    1. Grip the battery release tabs and squeeze them together.
+
+    2. Pull the battery out.
+
+             Caution: Never try to remove the battery while the propellers are
+             turning.
+
+2.2 About mission planning
+
+Use eMotion X to build the mission blocks, waypoints and optionally, the actions
+that you want your eXom's to carry out during the mission.
+eXom m issions consist of one or m any m ission blocks. Each block can have a differ-
+ent setup phase, a different purpose and you can assign each block to a different
+drone. A mission might include, for example, several blocks for inspecting several
+surfaces and objects, and a horizontal mapping block to gather mapping data of
+the surrounding area.
+
+2.2.1 The setup phase of a flight plan
+
+The setup phase of a mission block includes the following locations:
+
+        Take-off location: The point from which the drone takes off, automatically
+
+                     .
+
+         set to the location calculatedfrom satellite positioning signals (GPS/GLONASS)
+         by the drone when it is powered on. This location defines the altitude of
+         0 m/ATO (ATO stands for above take-off); the altitudes of all other way-
+         points, when defined in m/ATO, are referenced to the altitude of this lo-
+         cation.
+
+     . startwaypoint:Thefirstpointthatthedronefliestowardswhenthemis-
+         sion is launched.
+
+                                                                                                                                     43
+          Started
+
+     . Home waypoint: The safe point for the drone to return and hover in case
+        of emergency. The drone will land directly below this waypoint at the end
+        of an autonomous flight.
+
+     · Mission waypoints: The series of waypoints that define the mission.
+
+Immediately after take-off the drone will climb to an altitude of 1 m.
+
+     · If the first mission block is a mapping block
+        The drone pauses briefly then flies to the start waypoint and follows the
+        flight plan you have set up.
+
+     · If the first mission block is not a mapping block
+        The drone hovers, awaiting your command.
+
+             Caution: The drone's ability to maintain its position in a hover de-
+             pends on the conditions. There m ust be good lighting conditions and
+             good satellite positioning signal reception.
+
+             Caution: If you are using only the basic level of manual assistance,
+             you must be prepared to take immediate control of the drone as soon
+             as it reaches 1 m above the ground. It will not stabilise itself.
+
+2.2.2 About mission blocks
+
+Mission blocks have the following properties:
+
+     · Description
+        The name you have given to the block.
+
+     · Area
+        The surface area of the block.
+
+     · Resolution
+        The ground resolution that you want the images captured to have.
+
+44
+                                                              Executinq a
+
+· Overlap
+   The percentage you want one image to overlap the next.
+
+· Use elevation data
+   Check this checkbox to have eMotion X automatically set mission height
+   according to elevation data.
+
+· Reverse flight direction
+   Check this checkbox ifyou want your drone to fly the mission in the oppo-
+   site direction to the one chosen automatically by eMotionX.
+
+· Perpendicularlines
+   Check this checkbox if you want to double the number of images and in-
+   crease overlap by flying a second set of flight lines perpendicular to the
+   first.
+
+2.2.3 How to create a mission block
+
+In the Mission Planning tab, click `k Add mission block and choose the type of
+block:
+
+     . Horizontal Mapping
+        Defi ne a mission polygon and eMotion X will autom atically set out the way-
+        points and flight lines.
+
+2.2.4 How to edit a mission block
+    1. Click ® to expand the mission block you want to edit.
+    2. Click A Edit.
+    3. Edit the mission block fields.
+
+                                                                           45
+          Started
+
+2.2.5 How to assign a mission block to a drone
+
+   1. Click A..
+
+    2. Choose the drone that want to carry out that mission block.
+
+2.2.6 How to remove a mission block
+
+   1. Click 0 to expand the mission block you want to edit.
+
+    Z. Click Q..
+    3. Choose O Remove.
+
+2.2.7 Choosing a take-off location
+It is important to carefully select the place you take off from, the Start waypoint
+and the Home waypoint to ensure your drone remains at a safe distance from
+obstacles.
+Select a take-off location clear of obstacles (buildings, rocks, power lines, hills,
+trees, etc.) within a distance of at least 10 m in the all directions.
+
+2.2.8 Landing and the home waypoint
+
+The Home waypoint is used both as the location under which the drone will land
+in Fully Autonomous mode and as a safety position in case ofan in-flightwarning.
+
+             Caution: The ground sensor can only provide usable feedback in
+             daylight conditions above flat terrain that contains enough visual tex-
+             ture. If these conditions are not met the drone cannot ensure a safe
+             landing.
+The precision of the landing will depend on the satellite positioning accuracy,
+lighting conditions, the ground's visual texture and the wind. Define a security
+
+46
+perimeter around the landing point. Place the Home waypoint in a location that
+has no obstacles within a radius of 10 m to give the drone enough space to land.
+Ensure that the entire landing area is flat to allow the ground sensor to function
+properly.
+By default, the Home waypoint is set to an altitude of 75 m/ATO. In case a Go
+to Home Waypoint procedure is triggered during flight' the drone will, by de-
+fault, determine the highest altitude between its current altitude and the Home
+waypoint's altitude, and climb towards that highest altitude (if required). Once it
+reaches this highest altitude it will then fly towards the Home waypoint.
+Due to this behaviour, the altitude of the Home waypoint should be selected with
+care; it should be at least 20 m higher than the surrounding obstaclesto avoid the
+risk of a crash, but should not be set too high to reduce the effect of potentially
+high winds and altitude and to prevent the drone from getting lost. Alternatively,
+you can change the altitude transition behaviour within the Setup Phase tab. See
+section'Waypoints and their properties' on page 65 for more information on alti-
+tude transition behaviours and how to modify them.
+
+2.2.9 Take-off and start mission
+
+Once you've planned your mission and the eXom status LED is solid green your
+drone is ready to take off.
+
+     · Click TAKE OFF on the Control Bar.
+
+      · Allowthedronetotakeoffandcalibrateitscompass(itspinsaroundonce).
+
+      · Click START MISSION.
+
+      t Caution: Keep clear of the drone during take-off.
+
+     i Caution: Never attempt a hand-held take-off.
+
+' eitherautomaticallyduetoanln-flightwarningormanuallyusingeMotionX
+
+                                                                     47
+          Started
+
+After take-off, the drone switches into waypoint navigation mode and flies to the
+Start waypoint, then proceeds with the mission.
+
+2.2.10 Landing after a mission
+
+After finishing its mission the drone will return to the Home waypoint and au-
+tomatically initiate a landing sequence. Once on the ground, the propellers will
+stop.
+The vision sensors must have sufficient light and texture to accurately detect the
+drone's height above the ground. Ensure that the sensors are clear of dirt or other
+obstructions. Ensure that there is a high-contrast surface in the landing zone. Do
+not attempt to land on low-texture surfaces such as snow or clean sand.
+Disconnect the battery from the drone before picking it up. We recommend you
+immediately import the images and flight data after each flight (see section'Im-
+porting images and flight data' on page 62) before putting the eXom back in its
+case for storage.
+
+2.2.11 Emergency landing
+
+Return to home and land
+If you need to abort the mission and land, for example, in case of an emergency,
+click GO LAND on the control bar.
+The drone will immediately fly in a straight line to the Home waypoint, then de-
+scend vertically, land and power off its motors.
+
+             Caution: In most circumstances, we recommend setting the Home
+             waypoint to be the highest waypoint in the mission. This reduces the
+              risk of collision as the drone returns to the Home waypoint.
+
+ Land immediately at current location
+ If you need the drone to land immediately without first returning to the Home
+ waypoint, do one of the following:
+
+ 5!:]
+                                                                             Executina a
+s Rapidly click the LAND NOW button on the Control Bar three times (triple-
+
+   click).
+. switch on the remote control and pilot the drone to the ground.
+
+       Caution: If you decide to switch on the remote control, make sure
+       you have the level of assistance you are expecting - basic or extended.
+        Caution: The drone will immediately descend at a moderately fast
+        rate of descent. There is a high risk of collision with any objects or
+        people that are directly under the drone.
+
+                                                      m
+Gettinq Started
+
+3 Manual control of the eXom
+
+             Goal of this section: This section describes how to use the remote
+             control to manually control the drone, with basic or extended manual
+             assistance.
+
+            Caution: Manual operation of the eXom requires a moderate level of
+             piloting skil Is. We recommend several practice flights, especially with
+             only basic assistance, before you first inspection mission.
+
+3.1 About the remote control
+
+By using the remote control, it is possible to override the drone's autopilot and
+fly manually. With extended manual assistance, the sticks of the remote control
+are used to send commands to the drone, which acts on those commands while
+maintaining stable flight. Without only basic manual assistance, the sticks of the
+remote control directly set the motors'thrust.
+
+             Caution: Do not turn the remote control on without it being held in
+             the hands of a pilot who is ready to take immediate manual control
+             of the drone. Turn the remote control off before putting it down.
+
+             Caution: The remote control emits an audible low-battery warning.
+             If you hear this warning, take action immediately; land your drone
+             and change the batteries.
+Manual control of the eXom can be achieved at any time if the drone is within
+range of the remote'.
+
+' see section'Drone specifications' on page 107 forthe range of the remote control
+
+ 50
+               Manual contml (power) on/off ~--  Manual control of the eXom
+                              TaheofVland
+                                                 *Do not touch these controls
+Motor cut
+(Press+ho                                                        Pitch
+                                                                              hme u
+         Ya
+                                                                          Right stick
+            itrigger n
+
+                                                 51
+Started
+
+         Eci ..... E.~DE.
+                ~
+                   ~F* 3ID
+         C~ E3ID
+
+3.2 About flight assistance
+
+There are 2 levels of flight assistance:
+
+     e Basic assisted manual control
+
+     . Extended assisted manual control
+
+With extended manual flight assistance, the sticks on the remote control set the
+desired speed, pitch, turn rate and climb or sink rate. These commands are then
+transferred to control signals for the propellers by the a utopi lot based on feedback
+
+from its sensors. This control scheme simplifies control ofthe eXom.
+
+Manua I flight without assistance allows you to have direct control over the eXom's
+propellers, overriding control from the on-board autopilots. The left stick controls
+the thrust and yaw. The right stick controls pitch and roll. The drone only assists
+with maintaining a flat pitch/roll.
+
+52
+                                                                     Manual control of the eXom
+
+            Caution: Although assistance is provided, the pilot must still be
+            aware of obstactes in the area, the drone's proximity to the ground,
+            the inversion of control commands when the drone is flying towards
+            the pilot and the distance between the drone and the pilot.
+
+33 How to change assistance level
+
+Choose Manual control mode from the Parameters tab in the sidebar.
+
+3.4 Using the remote control
+
+The following table describes the drone's response to your inputs on the remote
+control.
+
+     · Push forward on a stick means push the stick away from you (or up in the
+        above diagram).
+
+     · Pull back on a stick means pull the sticktowards you (or down in the above
+         diagram).
+
+     · Release a stick means let go and let the stick spring back into its neutral
+         position.
+
+     · To press on a stick means push down on thetopof the stick,alongthe stick's
+         axis. You will feel a click.
+
+     · Turn (yaw) direction is given as if you were on board the drone (from the
+         drone's frame of reference).
+
+                                                                                                                              53
+      Started
+
+                    Table 7: Remote Control Functions
+
+                                               6ron6response
+
+ttem                User's actiun     Eutended         Basic
+                                      assistance       assistance
+
+A:Leftstick         Pushforward       Climb            Increasethrust
+                    Pull back
+                    Push left         Descend          Decrease thrust
+                    Push right
+                    Release           Rotate left      Yaw to left
+                                                       (port)
+                    Press+hold (1 s)  Rotate right
+                                                       Yaw to right
+                                      Maintain         (starboard)
+                                      altitude
+                                                       Neutral thrust
+
+                                                    Motor cut off
+
+    B: Right stick  Push forward      Fly forward      Pitch forward
+                    Pull back         Fly backwards
+                    Push left         Fly left         Pitch backward
+
+                    Pull back         Fly right        Roll to left
+                                                       (port)
+                    Release           Maintain level   Roll to right
+                                      flight           (starboard)
+                                                       Flat pitch/roll
+
+54
+                                   Manual control of the eXom
+
+              Press         No response  No response
+
+A+B: Both     Release       Hover        Neutral thrust
+sticks        Push forward
+                                 On the ground: take off
+C: Take off/                 While landing: abort landing
+land
+                                             Land
+              Pull back     While taking off: abort take-off
+
+D: Custom     Push forward               User defined
+              Pull back                  User defined
+
+E:Auto photo  Push left                        Off
+sequence      Push right
+                                               On
+F:Disabled                   Do not use
+                            Do not press
+G: set
+
+        Caution: Flying with the remote control, especially with only basic
+        manual assistance requires some piloting experience.
+
+                                                                                                                           55
+Getting Started
+
+3.5 Take-off with manuai flight
+
+    1. Prepare the drone for flight as described in section 'Preparing the eXom for
+        flight' on page 33 while keeping the remote control turned off.
+
+    2. Take the remote control in your hands and switch it on. Leave the sticks
+        alone, in their neutral position.
+
+    3. Place the eXom in its take-off location and power it on using the power
+        button. The status LED will indicate the progress of the drone's autopilot's
+        start-up sequence.
+
+    4. Push the take off slider (C) on the remote control up. The drone will climb
+        to 1 m.
+
+    5. Leave the sticks alone while the drone spins around once to calibrate its
+         internal compass.
+
+With extended assistance:
+The drone will hover awaiting commands from the remote control.
+With only hasic assistance:
+You havefull manual control ofthedrone. You must immediately adjust the drone's
+position using the remote control.
+
+             Note: Although it is posslble, do not use the remote control to take
+             control of the drone before compass calibration is complete. Flying
+             an uncalibrated dronecan result in it rotating (yawing) unexpectedly.
+
+3.5.1 Manual ianding
+
+             Caution: We recommend you perform a standard landing procedure
+             using eMotionX whenever possible.
+
+ Pilotyour drone down to the ground. Approach the ground at low vertical speed.
+ Once on the ground, press and hold the left stickfor 1 s to stop the motors.
+
+ 56
+                                                                     Manual control of the eXom
+
+3.5.2 Motor cut off
+Pressing the left stick down until it clicks and holding for 1 s will cause the eXom's
+motors to stop.
+
+             Caution: Only stop the motors when the drone is on the ground. AI-
+             ways stop the motors before picking the drone up.
+
+             Caution: Ifthe drone is in the air, only use this feature in an absolute
+             emergency. The drone will im mediately drop out of the sky and risks
+             damaging or injuring anything or anyone beneath it. Even at low al-
+             titude, using this feature will cause irreparable damage to the drone.
+
+3.5.3 How to take manual control of the eXom in-flight
+
+             Caution: Make sure that the level of manual assistance you want is
+             activated in eMotionX's Parameters tab.
+If your drone is already in the air, switch the remote control (RC) on. You will im-
+mediately have remote control ofthe drone.
+
+3.5.4 How to climb using the remote control
+Push the left stick up and the drone will climb.
+
+3.5.5 How to hover using the remote control
+Release both sticks, allowing then to spring back to their central position. The
+drone will maintain a hover.
+
+             Caution: lf you have selected only basic manual assistance, you must
+             maintain the drone's position and altitude manually using the remote
+             control.
+
+                                                                                                                              57
+          Started
+
+             Caution: lf your drone is at altitude in a zone that has little or no satel-
+             lite positioning signal coverage, extended manual assistancewill not
+             be able to automatically maintain a hover. You must use the right
+             and left sticks to maintain a hover manually.
+
+3.5.6 How to yaw using the remote control
+
+Push the left stick to the right to turn the drone on its axis to the right (clockwise
+when viewed from above).
+Push the left stickto the left to turn the drone on its axis to the left (anticlockwise
+when viewed from above).
+
+3.5.7 How to fly forward using the remote control
+
+Release the left stick, allowing it to spring back to its central position. Push the
+right stick up and the drone will tilt and fly forward.
+
+             Caution: By releasing the left stickwith extended manual assistance,
+             you are instructing the drone to maintain its altitude. With only basic
+             assistance, you must use the left stick to provide enough additional
+             thrust to maintain altitude.
+
+35.8 How to tilt and fly to the left or right using the remote control
+
+Release the left stick, allowing it to spring back to its central position. Push the
+right stick to the left or right and the drone will tilt and fly in that direction.
+
+             Caution: By releasi ng the left stick with extended manual assistance,
+             you are instructing the drone to maintain its altitude. With only basic
+             assistance, you must use the left stick to provide enough additional
+             thrust to maintain altitude.
+
+Pv
+                                                                     Manual control of the eXom
+3.5.9 How to stop the propellers using the remote control
+Press the left stick down and hold for 1 s.
+
+             Caution: Only stop the propellers once the drone has landed or in an
+             emergency. Stopping the propellers while the drone is in flight will
+             cause it to fall out of the sky.
+3.5.10 Returning control to eMotion X
+To retu rn control to eMotion X, press the power on/off button to switch the remote
+control off.
+
+                                                                                                        6101
+          Started
+
+3.6 In-flight monitoring and control
+
+You can monitor and control your drone while in-flight through eMotion X using
+the map, video streams, ultrasonic sensor readouts and the Flight Monitoring tab
+in the Sidebar.
+The Map Area displays the current position of your drone, updated live as the
+drone executes its flight.
+
+             Note: AII waypoints, image locations and flight paths displayed in
+            eMotion X are a reflection of the data contained within the drone au-
+            topilot. If at any point the connection between eMotion X and the
+             drone is lost, the drone will by default continue its planned flight,
+             including the imaging mission and the selected automatic landing,
+             fully a utonomously. If you would like the drone to retu rn to the Home
+             waypoint instead of continuing its mission when it detects a loss of
+            connection you may set the appropriate parameter in eMotionX.
+
+During the Mission phase of an autonomous flight the eXom will automatically
+take pictures at pre-defined moments based on the parameters that were defined
+during mission planning.
+At the top of the Map Area is the Control Bar, which can be used at any time to
+send commands to your drone as well as to acknowledge warning and failure
+messages if they occur. During a fully autonomous flight the eXom will control
+its flight autonomously from take-off to landing and you do not need to use any
+of the control buttons. They can however be useful in unexpected situations to
+temporarily hold position by pressing the HOLD button or to send the drone to
+the Home or Start waypoints with the'GO TO HOME WPT' or'GO TO START WPT'
+buttons, respectively. Detailed descriptions of the buttons and their effects on
+the drone are described in section'Control Bar' on page 73.
+
+3.7 Powering your eXom off
+
+Wait for the propellers to stop spinning, then press the power button on the top
+of the eXom.
+
+m
+                                                                     Manual control of the eXom
+
+             Caution: Never attempt to power the drone off using its built-in
+             power button while the propellers are spinning.
+
+3.8 About in-flight errors
+
+The d rone can encounter two types of error messages while flying: In-flight warn-
+ings and Critical failures. In-flight warnings typically indicate a dangerous situa-
+tion such as a low battery or strong winds and typically result in a security ac-
+tion such as a return to the Home waypoint. Critical failures occur only when the
+d rone's ability to fly is severely com promised, such as a loss of satellite positioning
+signals or an empty battery. When a critical failure arises, the drone will immedi-
+ately perform an emergency landing.
+
+             Caution: We recommend that you familiarise yourself with the pos-
+             sible in-flight errors to have a better understa nding of what happens
+             if they occur in the field. A full list of possible In-flight warnings and
+             Critical failures and the drone's reaction to them is described in sec-
+             tion'In-flight warnings' on page 93 and section'Critical failures' on
+             page 96.
+
+             Note: It is i mportantto keep track of the location of the drone during
+             a Critical failu re untii the moment it reaches the ground. Its position's
+             coordinates can aid in finding it afterwards. Instructions on how to
+             find a lost drone can be found in section 'Losing and locating your
+             eXom in the field' on page 101.
+          Started
+
+4 Processing image data
+
+4.1 Importing images and flight data
+
+The next step to creating mapping products, after completing a flight, is to import
+the raw images and log files to a computer.
+eMotion X features a Flight Data Manager to help you transfer and consolidate all
+the data related to a mapping mission. Open the Flight Data Manager by clicking
+on the Flight Data Manager icon when you load eMotion X. Alternatively, click on
+the Q button in the Toolbar and select'Flight Data Manager..:
+Follow these steps to import data from the drone:
+
+    · Step 1- Select a flight: If the flight was monitored from the computer
+
+        you are using to import images then the flight is saved within the local
+        database. Select the date that the flight took place. A list of flights (in-
+        cluding number of images taken) from that date will appear in the combo
+         box, select the one you wish to import.
+
+    · Step 2- Create a directory: Choose a directory name that uniquely iden-
+
+        tifies your flight (e.g. the date, the name of the area, etc.).
+
+    . Step3-Preparedataforimport: Remove the SD card from the drone and
+
+         insert it into your computer's SD card slot. A new storage drive will appear
+         on your computer.
+         Select'I m port from SD-ca rd reader: Alternatively, tra nsfer the i mages from
+         the camera by lifting it out of its compartment just enough to connect a
+         USB cable to it and turn the camera on. Copy all the images into a tem-
+         porary folder on your computer. Select'Import from a specific folder' and
+         choose the temporary folder.
+
+    . Step 4- Import flight logs: Confirm that the Drone and eMotion Flight
+
+         Logs found by the Flight Data Manager are correct. You may select logs
+         manually if they are not correctly detected.
+
+E$
+                                                                                                    data
+
+     . Step 5- Import images: Confirm that the images corresponding to your
+        flight were found and matched to the Drone Flight Log correctly.
+
+     e Step6-Selectoutputs:Choosetheoutputactionstoexecuteandfilesto
+        create. Geo-tagging images is necessary to create geoinfo, KML and Post-
+        flightTerra 3D files.
+
+     o Step 7 Eject the SD-card drive before removing the SD-card. You can now
+        open the KML file in Google Earth'M or the project in PostflightTerra 3D for
+        further processing.
+
+4.2 In-field image quality check
+
+PostAightTerra 3D software', available as a free download with the eXom package,
+can be used to rapidly create a Quality Report directly in the field. The Quality
+Report that is automatically generated aswell as the orthomosaic provide imme-
+diate feedback on the quality ofthe images gathered during your mission.
+You can open a project for processing i n PostflightTerra 3D directly from the Flight
+Data Manager after importing your data by clicking the'Open project in Terra'
+button. You will now see the main PostFlight Terra 3D window. The position of
+your images will appear as red dots in the Map Area of PostFlightTerra 3D.
+After importing flight data and images you can create a PostflightTerra 30 project
+by following these steps:
+
+    1. Launch Postflight Terra 3D and start the New project wizard by selecting
+        'New project' from the'Project' menu.
+
+    2. Select the samefolder in which you saved the images and Drone Flight Log
+        as the location for the project (the'Create in' field). Choose a name for your
+        project, preferably the same as the name of the folder and select the'New
+        project' button. Click'Next'.
+
+    3. Add the images taken during your last eXom mission. Click'Next'.
+
+' powered by Pix4D; see section'Installing eMotion X, PostllightTerra 3D, and the ground modem
+   drivers' on page 26 for installation instructions
+
+                                                                                                                                     63
+          Started
+
+    4. Load the geolocation data from the Drone Flight Log file (with extension
+        .bbx) by clicking on'From file..: and selecting the file. Click'Next; then click
+        'Finish' in the next screen, You will now see the main PostFlight Terra 3D
+        window. The position of your images will appear as red dots in the Map
+        Area of PostflightTerra 3D.
+
+To create a Quality Report while in the field bring up the local processing panel by
+selecting'Local processing' from the'Process' menu or by clicking the icon in
+the Toolbar. Select only the'Initial project processing' checkbox and the'Rapid'
+button. If you wish to create a low-resolution orthomosaic while generating the
+report, check the'Orthomosaic and DSM generation' checkbox. Click'Start' to
+begin rapid processing.
+PostflightTerra 3D will now process the data and produce a report that includes
+the overall completeness and georeference quality of the images taken during
+your last mission. You may use this information to decide whether further imag-
+ing flights are required while you are still in the field. The quality report will be
+displayed in a new window (click the icon in the Toolbar if it does not appear).
+
+64
+                                                                 Part 11
+
+             Advanced functionalities
+
+4.3 Waypoints and their properties
+
+The eXom uses a flight plan consisting of a list of waypoints to navigate. A way-
+point essentially consists of a circle about a given position and information that
+defines how the drone should behavewhen reaching them. Theentire listofway-
+points is stored in the drone autopilot and can be remotely edited using eMotionX.
+In eMotion X every waypoint is defined by the following parameters
+
+4.4 3D mission planning using elevation data
+
+In Fully Autonomous mode, eMotion X has the ability to take into account eleva-
+tion data to set the altitude of mission waypoints and the resulting flight lines of a
+mapping mission. This not only improves the resulting ground resolution but also
+increases mission safety (particularly in uneven terrain) by keeping a more even
+height between the drone and the ground.
+You can display elevation data by clicking on the '>+ button in the Toolbar. eMo-
+tion X's default Improved SRTM elevation data will be downloaded as tiles from
+senseFly's servers and overlaid above the map as a colourmap °. You can adjust
+the scale and opacity of the colourmap by using the associated buttons in the
+bottom-right corner of the Map Area.
+
+" eMotionXmust be connected to the internet. Once downloaded, elevation tiles are cached and can
+   then be used off-line.
+Advanced functionalities
+
+    Auto-adjust colormap --' Elevation colourmap r Change opacity
+
+                          =141i~90 ~180 2N 3"00
+                          {ygw· ~ . ...... ..  .
+
+            Caution: eMotionX's default Improved SRTM elevation data uses a 3
+             arc-second (approx. 90 m resolution) digital elevation model derived
+             from the SRTM (Shuttle Radar Topography Mission) dataset version
+             2.1 combined with other data sources (ASTER GDEM, SRTM30, carto-
+             graphic data, etc.). This data covers nearly aH emerged land except
+             the territories below 56° 5 latitude and the territory of the Russian
+             Federation above 60° N latitude. This data may contain inaccura-
+             cies of several meters, and does not contain data on obstacles such
+             as buildings or trees. We highly recommend that you check your
+             flight plan thoroughly, in 2D and 3D, to ensure sufficient clearance
+             between the flight plan and the ground. SenseFly Ltd provides no
+             guarantee regarding the accuracy of the elevation data and it is the
+             operator's sole responsibility to ensure a safe flight trajectory and al-
+             titude.
+
+Activate the 3D mission planning feature by selecting the'Use elevation data' pa-
+rameter in the mapping mission block. Elevation data is used to adjust every mis-
+sion waypoint altitude as follows:
+
+    1. The flight planner uses elevation data to find the maximal terrain elevation
+        under the current waypoint, the previous waypoint and the flight line that
+        connects the two.
+
+    1 This maximum value is increased by the target altitude value, and the result
+        is set as the altitude of the current waypoint.
+
+One way to increase the resolution and accuracy of the elevation data is to fly
+a first mission at high altitude and then create a dataset using PostFlightTerra 3D.
+You can then automatically import the data into eMotion X by selecti ng'Send DSM
+to eMotion' from the'Process' menu within Postflight Terra 3D. The dataset can
+
+PT
+
+
+                                                                                                                                data
+
+                            then be enabled using the 1i menu in the Toolbar. eMotionX will use this custom
+                            dataset (wherever it is available) to set waypoint altitudes instead of its default
+                            Improved SRTM elevation data.
+
+                                         Note: It is recommended to visually compare imported elevation
+
+                                datasets with the default Improved SRTM elevation layer of eMotion X
+
+                                         in order to detect possible mismatches. This comparison should be
+                                         done with a colourmap opacity value of 100%.
+                            More advanced controls of imported datasets are available in the'Elevation data'
+                            panel of the Preferences pane of the Q menu. From this panel you can add,
+
+                      remove, activate/deactivate or reorder overlays. eMotionX uses the top-most el-
+
+                            evation data layerto calculate altitude for each waypoint and flight line, with eMo-
+                            tion X's default Improved SRTM elevation dataset always considered the bottom
+                            layer.
+
+i~ :,:.....    l..k .,m,,.~,,.,       Custom elevation
+                                      data
+oe           `°"'""sx,~°,~.a. ~a~ ,a
+
+®,                        s'
+
+al.
+
+             ~~ dsm   ffk,            Networkcache
+                     r ,A,;,'~,,.,
+
+                                                        67
+Advanced functionalities
+
+4.5 Flight visualization in Googte Earth r'
+
+eMotion X i ncl udes a n interface with Google Earth r"^ to help with flight plan verifi-
+cation and visualization, particularly in uneven terrain. Clicking on the ~P button
+in the Toolbar will open Google Earthr^^ and zoom to the current position of the
+drone. The current position of drone, its planned trajectory, the working area cir-
+cle and all waypoints currently uploaded to the drone (including Take-Off, Start
+and Home) are displayed within Google Earth 7^^ . Any changes to waypoints or
+flight parameters within eMotionX are updated accordingly within GoogleEarth r"
+The interface with Google Earth r"^ is particu la rly useful to check the drone's trajec-
+tory with respect to obstacles in the area s. The flight plan is projected onto the
+ground in a darker colour, giving you an idea of the distance between the flight
+path and the ground. If you connect to a simulated drone you can simulate the
+entire flight and follow the drone within Google Earth T^^ .
+
+            Note: To use this feature Google Earth'^^ has to be installed on the
+            ground station PC, as described in section'Installing eMotionX, Post-
+            flightTerra 3D, and the ground modem drivers' on page 26. We rec-
+            ommend to use the latest version of the Google Earthr^^ software.
+
+            Caution: A flight trajectory visualized in Google Earth r"^ represents
+             the planned trajectory. The reaf flight trajectory can be different from
+             the planned due to flight conditions such as strong wind.
+
+            Caution: The terrain data within Google Earth'^r, including hills and
+             buildings, may contain significant errors. When planning flights over
+             uneven terrain be sureto keep sufficient distance between the flight
+             plan and the terrain.
+
+   While checking flight plans in Google Earth'M is a good safety practice, senseFly Ltd provides no
+   guarantee regarding the accuracy and completeness of the Google Earrhn^t terrain model.
+
+FS!
+Advanced functionalities
+
+     . Once it reaches the Home waypoint (if it has been i nstructed to return there)
+        the drone will either:
+                begin its landing procedure
+            - hover at the Home waypoint until it receives a command.
+
+     s After completing a landing procedure and detecting that it has successfully
+        landed, the drone switches its motors off and enters idle mode.
+
+     . Turning on the remote control will cause the drone to fly under manual
+        control. Turning off the remote control will return control of the drone to
+        eMotionX and its autopilot.
+
+     . Clicking the'HOLD POSITION' button in the Control Bar at any time will
+        cause the drone to hover until it receives a new command from the Con-
+        trol Bar. Alternatively, right-clicking in the Map Area and selecting'Hold
+        here' will direct the drone towards that position and hover there. This will
+        also happen automatically after certain In-flight warning or Critical failure
+        conditions'.
+
+     e Clicking the'LAND NOW'button in the Control Bar three times in quick suc-
+        cession will cause the drone to immediately initiate a landing procedure at
+        its current location.
+
+' seesection'iroubleshooting'onpage92forafulllistofln-FlightwarningandCriticalfailurecondi-
+   tions and the subsequent reactions of the drone
+
+70
+                                                                     eMotion X in-depth guide
+
+5 eMotion X in-depth guide
+
+            Goal of this section: eMotion X is a powerful tool designed specifi-
+             cally to work with your senseFly drone.
+
+This section includes a comprehensive guide to all the functionalities in eMotion X
+
+to help you plan and monitor your next mapping flight.
+The main eMotion X interface is composed of a main panel, a Toolbar and a Side-
+bar a .
+The main panel can be switched between Map mode and video mode:
+
+     · Click t to switch to map mode.
+     · Click -~- to switch to video mode.
+
+In map mode, the main area displays the current location of the eXom, a Status
+Panel with important information on the drone's current status, and a Control Bar
+used to send commands to the drone (section'Control Bar' on page 73).
+In video mode, the main area displays the eXom's video streams.
+The Toolbar above the main panel includes the Q File menu, controls for select-
+ing the source of map data, display options and other controls (section'Toolbar'
+
+The Sidebar is separated into tabs that are used during different phases of plan-
+ning and monitoring a flight. The Sidebar tabs can be hidden at any time by click-
+ing on the left-hand edge of the Sidebar. Each tab is described in detail in the
+following chapter.
+
+5.7 Toolbar
+
+You can access the File menu by clicking on the Q button in the Toolbar. From
+this menu you can connect to or disconnect from a drone, access the Flight Data
+
+6 for an overview of the eMotion X interface see section'The eMotion X interface'on page 27
+Advanced functionalities
+
+Manager, change eMotionX preferences or import custom maps.
+Clicking the'~= icon will launch Google Earth T°^ and display the current flight tra-
+jectories of drones connected to eMotionX, as described in detail in section'Flight
+visualization in Google EarthT^^' on page 68.
+You can select the backgrou nd map source from the drop-down list i n the Toolbar,
+and adjust its zoom level using the P and P buttons. eMotion X can use many
+sources of commercially available and custom mapping information. Tiles from
+
+map sources with the icon'+-. are downloaded by eMotion X from the Internet as
+
+required and locally cached on the hard drive. Due to regulatory restrictions, map
+sources with the icon & cannot be saved locally and are not recommended for
+use in the field.
+If you anticipate the use of eMotion X in cond itions where connecting to the inter-
+net is impossible, you can pre-load the map data by selecting'Download maps._'
+from the s File menu. Follow the instructions in the dialog box to select the
+zone of interest, map tile source and start downloading.
+
+eMotionX can also import and displaycustom layers which may include KML files,
+
+custom map tiles and elevation data. To import a KML file, select'Import KML..:
+from the Gi File menu and select your KML file. The resulting layer will now be
+available in the Toolbar by clicking on the ~ icon, and can be clicked to display
+or hide it. eMotion X can display lines, polygons, paths and points saved in KML
+format.
+
+             Note: KMLfiles, including associated icons or images included within
+            them, are not copied to the eMotion X directory and will no Ionger
+            appear in eMotionX if the original KML files are deleted.
+
+Custom map tiles can also be added as a layer in eMotion X. These tile sets must
+be TMS-compatible sets of files. Select'Import custom map..' from the Q File
+menu and select the folder that contains the tile set. The tile set will then appear
+in the list of layers in the Toolbar, accessible by clicking the :--!: button.
+
+72
+                                                                     eMotionX in-depth quide
+
+            Note: If you use PostFlight Terra 3D (see section 'Processing image
+            data' on page 62), you can generate TMS-compatible, eMotion X-
+             compatible tile sets for each project. In this way, you can create your
+            own map background using the eXom. Generate the tile set by select-
+             ing'Generate Google Maps tiles and KML' from the'Process' menu
+            within PostFlightTerra 3D.
+Whenever the eXom takes a picture, eMotion X records the location and orienta-
+tion ofthe drone and computes the approximate span ofthe photo on the ground
+(or'footprint').
+The Toolbar also contains buttons for centering the Map Area on the current po-
+sition of the drone ('o!o button), on a searchable location or coordinate ('Y'button)
+or to continually follow the position ofthe drone while it is in flight ((& button).
+Finally you can view eMotionX in full-screen mode by clicking theO button
+
+5.2 Control Bar
+
+The Control Bar includes buttons for sending commands to the drone and for ac-
+knowledging warnings while it is in flight. Certain buttons can only be used dur-
+ing specific flight modes.
+The Command buttons allows the operator to directly control the drone while it
+is in flight. The various buttons are described in table 2 on the next page.
+
+                                                                                                                             73
+Advanced functionalitles
+
+                          Table 2: Control Bar Buttons
+
+6utton     Availahle        Action
+WARNING 9
+           Active           For yellow In-flight warnings, button
+           warning          text changes to 'ACK WARNING' and
+                            clicking will acknowledge the current
+                            warning. For red Critical failures, button
+                            text changes to'CRITICAL FAILURE'and
+                            cannot be clicked.
+
+START      No active        Fly towards the first active waypoint ln
+MISSION    Security action  the waypoint list and start the mission
+                            from the beginning.
+
+RESUME     Not in Perform   Return to the last position reached dur-
+MISSION    Mission mode     ing the mission and continue the flight
+                            plan.
+
+GOTO       No active        Fly towards the Start waypoint, hover
+START WPT  Security action  and wait for next command.
+
+GO TO      Anytime          Fly towards the Home waypoint, hover
+HOME WPT                    and wait for next command.
+
+GOLAND     Anytime          Flytowardsthe Homewaypointand ini-
+                            tiate landing procedure.
+
+s seesectionTroubleshooting'onpage92forafulldescriptionofln-flightwarningsandCriticalfail-
+   ures that may occur
+
+74
+                           eMotion X in-depth
+
+HOLD      No active        Create a waypoint at the current loca-
+POSITION  Securityaction   tion and altitude, hover at this point
+                           and wait for next command.
+
+LAND NOW  Anytime          Initiate a landing at the current loca-
+Click 3x                   tion. Must be clicked 3 times in quick
+                           succession to be engaged.
+
+MOTORS    Anytime          Immediately stop all 4 motors. Mustbe
+OFF                        clicked 3 times in quick succession to
+                           be engaged.
+Click 3x
+
+ABORT     During Land-     Abort current landing procedure, re-
+LANDING   ing (if no       turn to the altitude of the Home way-
+          active Critical  point, hover atthe Home waypoint and
+          failure)         wait for next command.
+
+                                                                    75
+      Part I11
+a` ~
+Maintenance and
+
+6 Maintenance and repair of the eXom
+
+6.1 Attaching and detaching propellers
+
+Damaged propellers are unsafe, cause vibrations and must be replaced.
+             Note: You do not need to replace all 4 propellers at once. You can
+             replace one propeller at a time.
+
+m
+Maintenance and repair of the eXom
+
+    ~ X2
+
+6g  x2
+
+~
+
+~ x1
+
+          79
+Maintenance and Repair
+       2.
+
+                      ,
+
+       3.
+
+911
+                                                          Maintenance and repair ofthe eXom
+
+6.1.1 How to detach a propeller
+
+    1. Take the screwdriver provided and insert it into one of the sockets on the
+        motor.
+
+    2. While holding the screwdriver to prevent the motor from turning, turn to
+        unlock the propeller and remove.
+
+             Caution: Do not attempt to unscrew the screw. Only use the screw-
+             driver to hold the motor still while installing the propeller.
+
+             Caution: Never fly your eXom with a propel ler missing or incorrectly
+             locked on.
+
+6.1.2 How to attach the propellers
+
+             Note: The eXom's propellers come in pairs that rotate in opposite di-
+             rections and have opposite pitch. You must install the correct pro-
+             peller on the correct motor. A blade with a circular lock symbol on
+             it must be installed on the propeller that is labelled with the same
+             circular lock symbol.
+
+     1. Take the screwdriver provided and insert it into one of the sockets on the
+        motor.
+
+    2. Position the correct propeller on the correct motor. Make sure that the la-
+        bels match (circular or square lock symbol).
+
+    3. While holding the screwdriver to prevent the propeller from turning, push
+        and turn to lock the propeller onto the motor. The propeller should be
+        aligned with the shrouding and the lock arrows should be lined up.
+Maintenance and
+             Caution: Do not attempt to unscrew the screw. Only use the screw-
+             driver to hold the motor still while installing the propeller.
+            Caution: Never fly your eXom will a propeller missing or incorrectly
+             locked on.
+
+FL~
+                    Maintenance and reoair ofthe eXom
+
+6.2 Changing a leg
+
+   (~~~\~~~ x1
+
+~
+
+                    r7r>~  x2
+
+                           ~'C' ~ v.·:Wb4b } ... ~
+
+                               Sm
+Maintenance and
+
+ 2. tC
+
+      ~
+
+-m
+                                                     Maintenance and reoair of the eXom
+
+                                                       ~
+
+                                                    s,
+
+                                                                                .,~
+                                                                                 ~
+
+First, completely remove the shrouding on the side the leg is on...
+    1. TakethescrewdriversuppliedwithyoureXomandunscrewthe2shrouding
+        screws at the top of the leg you want to change.
+    2. Unscrew the 2 shrouding screws on the top of the other leg (on the same
+        side of the eXom as the leg you want to change).
+    3. Lift the shrouding mounting points a little so that they are free to move.
+    4. While holding the leg in place, push the shrouding out of each of its clips.
+                                                                                                       RE
+Maintenance and Repair
+
+        A good way to do this is to hook the fingers of one hand over the leg then
+        push the shrouding out of its clip with your thumb.
+
+                     Caution: Do not twist the legs.
+
+    S. Put the shrouding to one side.
+
+Next, remove the leg...
+    6. Unscrew the screw that's holding the leg you want to change in place and
+        lift the leg off.
+
+             Caution: Never try and unscrew the motor mounting screw that's
+             undertheleg.
+
+             Note: If undamaged, you can pull off and reuse the cap.
+
+Fit the new leg...
+    7. Take the new leg and fit it into place. Screw the leg screw back in firmly.
+
+Finafly, replace the shrouding...
+    8. Take the shrouding, pass it under the legs, then clip it back into the clips.
+        A good way to do this is to hook the fingers of one hand over the leg then
+         push the shrouding into its clip with your thumb.
+    9. Slotthetopshroudingmountsbackintoplaceandfirmlyscrewall4screws
+         backin.
+
+0
+                                                          Maintenance and repair of the eXom
+
+ 0 Caution: Never attempt to fly without the shrouding or legs.
+
+6.3 Changing a ground modem antenna
+
+    1. Grip the serrated part at the base ofthe antenna and carefully unscrewthe
+        old antenna.
+
+    2. Ensure that the antenna threads are clean and undamaged.
+    3. Screw the new antenna firmly on using finger force only. Take care not to
+
+        cross the threads.
+
+You can obtain replacement antennas from senseFly or your reseller.
+
+6.4 Cleaning the eXom
+
+Use a damp cloth to wipe off dirt from the eXom's sensor modules, housing, mo-
+tors, propellers and shrouding.
+
+             Caution: Never bring the eXom into direct contact with water; this
+             may damage its electronics.
+
+6.5 Storing the eXom
+
+Always clean the eXom before returning it to its case for storage.
+Whenever possible, store the eXom in the case it was supplied in.
+
+6.6 Full inspection
+
+The eXom is fully acceptance tested, adjusted and flown before being shipped.
+When you receive it, it is ready to fly.
+
+                                                                                                                 77
+Maintenance and
+
+Beyond the general airframe inspection that is performed before every fl ight, senseFly
+recommends that the operator regularly performs a full airframe and sensor in-
+spection 10.
+
+             Caution: The autopilot, sensors and actuators within the central
+             body of the eXom are specially calibrated and should only be mod-
+             ified by your eXom reseller. Opening the central body of the eXom
+             will void the warranty.
+
+6.6.1 Check your motors
+
+The eXom uses brushless DC motors to turn its propellers and generate thrust. AII
+4 motors must be clean and spin smoothly without friction to function correctly.
+To check the motors, follow these steps:
+
+     1. Remove the battery from the eXom.
+
+    2. Visually inspect the motors.
+
+    3. Turn each propeller with your finger. Ensure that there is no sand or other
+        obstruction preventing the motor from turning smoothly. Ifthe motor does
+        not turn smoothly, blow some air through the motor to dislodge any ob-
+        struction.
+
+6.6.2 Check inertial sensors
+
+The inertial sensors are used by the autopilot to compute the attitude (i.e. its ori-
+entation in space) of the drone. The attitude is displayed bythe artificial horizon in
+the Flight Monitoring tab of eMotion X. To check the inertial sensors, follow these
+steps:
+
+     1. Switch the eXom and connect to eMotion X.
+
+10 See se<tion'Maintenance schedule' on page 102
+
+9
+                                                        Maintenance and repair of the eXom
+
+    2. Put the drone on a flat surface (typically an office floor) and check that the
+        artificial horizon is level,
+
+    3. Take the drone with your hand and put it indifferent orientation. Makesure
+        that the artificial horizon displays the corresponding orientation.
+
+The artificial horizon shou Id follow smoothly the motion of the eXom and it should
+not drift when the drone is not moving. In case of doubt, take a short video
+and follow the instructions in section'Reporting a problem with your eXom' on
+page 102 for advice.
+
+6.6.3 Check barometric pressure sensor
+
+The barometric pressure sensor is used to measure the altitude from the take-off
+location. To check it, follow these steps:
+
+    1. Switch the eXom and connect to eMo[ionX.
+
+    2. Move the drone from your feet to above your head (about 2 m altitude vari-
+        ation).
+
+    3. Check the altitude on the vertical barto the right of the artificial horizon or
+         in the Status Panel next to the drone icon on the map).
+
+The displayed altitude should follow the drone motion, i.e. if the drone is raised
+by 2 m, the altitude reading should increase by about 2 m.
+
+6.7 Repairing the eXom airframe
+
+The eXom's advanced materials and construction mean that it has very few user-
+serviceable parts.
+Only carry out the basic repairs described in this user manual. Do not try and
+disassemble the drone beyond the part replacement procedures described in this
+manual. Do not try and remove the top cover.
+
+                                                        m
+Maintenance and
+
+If your drone is damaged, contact senseFly or your eXom reseller.
+
+     i Caution: Never fly a damaged eXom.
+
+6.8 Proper battery care
+
+Proper care ofyour eXom's battery is important to prevent damage to your drone
+and to maximize flight time. Batteries perform better at medium or high air tem-
+perature and it is normal to observe shorter flight times in cold weather.
+The charger delivered with your drone automatically checks for healthy voltages
+of all cells and only attempts charging if they are within limits. If the cells are out
+of balance, the charger will take care of balancing them.
+
+             Caution: The batteries delivered with your drone are deeigned to be
+             charged with the charger del ivered with your eXom. senseFly Ltd can-
+             not be held responsible for any consequences resulting from using a
+             different charger. In particular, using a charger improperly config-
+             ured or designed for other types of batteries may lead the battery
+             pack to be permanently damaged or to catch fire.
+
+LiPo batteries do not exhibit any memory effect. We recommend that you always
+fully charge them after use even when they are only partially discharged.
+When not using the battery store it with 50
+Charge level is shown by the battery indicator on the battery.
+Dispose of the battery safely and appropriately.
+
+             Caution: After flight, the battery will be warm. Allow it to cool down
+             before charging.
+
+ 0 Caution: Always fly missions with a fully-charged battery.
+
+m
+                                           Maintenance and renair of the eXom
+Caution: If the battery swells or if any of the cells are punctured the
+battery is damaged and should be discarded. Do not charge a dam-
+aged battery - it may catch fire.
+
+                                                                                                        91
+Maintenance and
+
+7 Troubleshooting
+
+             Goal of this section: This section describes the various error mes-
+            sages that may be displayed during start-up or while the eXom is in
+             flight and provides some tips on solving the simplest problems.
+             In the case of a more serious problem, this section describes how to
+            prepare the required data on the problem and report it to your eXom
+             reseller.
+The eXom can generate several types of error messages. some of these messages
+are minor and simply need to be acknowledged through eMotion X, whereas oth-
+ers require more specific action from the user. As long as the drone is connected
+to eMotionX, error messages will appear in the software.
+
+7.1 About the autopilots
+
+The eXom's autopilot is divided into 2 functional units-the low-level autopilot and
+the high-level autopilot. The low-level autopilot deals with direct control of the
+propellers and interpreting commands from the remote control. The high-level
+autopilot deals mainly with autonomous flight.
+
+92
+                                                                                    Trou
+
+7.2 In-flight warnings
+
+While it is in flight the eXom can generate two types of errors: warnings and fail-
+ures. In-flight warnings occur when there is an event that requires an automatic
+response from the drone, or the user's attention a nd action, but does not com pro-
+mise the drone's ability to continue flying.
+If an in-flight warning is raised while flying an autonomous mission, the drone
+will immediately abort the mission and head back to the Home waypoint (apart
+from loss of satellite positioning signals). The drone will fly in a straight line in
+the direction of the Home waypoint, climbing or descending to the waypoint's
+altitude. Always place your home waypoint so that, in case of in-flight warning,
+there are no obstacles between the drone and the Home waypoint to prevent a
+collision.
+Once it reaches the Home waypoint the drone will wait for a command until its
+battery is empty, and then initiate a landing when a'Failure: empty battery' Crit-
+ical failure is triggered (as described in section'Critical (ailures' on page 96).
+Ifflying manually,warnings mustbe acknowledged by clicking onthe'ACK WARN-
+ING' button on eMotion X's Control Bar, after which, to avoid loss of your drone,
+collision or a crash, you must carry out the action recommended below. The full
+list of possible In-flight warnings and required User actions can be found in table 3
+on the following page.
+
+                                                                                                                              93
+Maintenance and
+
+                     Table 3: In-flight warnings
+
+      eMotionXtezt   pes<ription
+                     Useraction
+
+      High-level     The high-level autopilot's barometer has failed.
+      barometer      User Action: Land as soon as possible.
+      failure
+
+      Low-level IMU  One of eXom's inertial measurement units has failed.
+      failure        User action: Land as soon as possible.
+
+      Battery gauge  The drone is unable to measure the remaining battery
+      failure        charge. There is a risk that the battery will run out dur-
+                     ing flight.
+                     User Action: Land as soon as possible. Recharge the
+                     drone battery before the next flight.
+
+      Low battery    The remaining battery level is too low to continue the
+                     flight pian.
+                     User Action: Land as soon as possible. Recharge the
+                     drone battery before the next flight.
+
+      Battery hot    The drone's battery is overheating. There is a riskthat it
+                     will fail or catch fire.
+
+                     User Action: Land as soon as possible. Remove the
+                     battery from the drone and place it in a fireproof bag
+                     or container to cool down. Do not charge or use the
+                     battery again.
+
+FI'f
+                 Troubleshooti
+
+Autopilot over-  The drone's autopilot is overheating. There is a riskthat
+heating          itwillfail.
+
+                 User Action: Land as soon as possi ble. Allow the drone
+                 to cool before the next flight.
+
+Outside work-    The drone has Ieft the working area. This may occur
+ing area
+                 if waypoints are set close to or outside of the working
+                 area or due to strong wind. There is a risk of collision,
+                 loss or prosecution.
+
+                 User Action: Bring the drone back into the working
+                 area.
+
+Above working    The drone has climbed above the working area ceiling.       ,
+ceiling          This may occur if waypoint altitudes are set close to or
+                 outside the working area or due to strong wind. There       '
+                 is a risk of collision, loss or prosecution.
+                                                                             '.
+                 User Action: Bring the drone back below the working
+
+                 ceiling.
+
+Telemetry link   The eXom has not received any data from eMotion X for       '.
+failure          more than 30 s. This can be due to a large distance be-     .
+                 tween drone and ground modem, a problem with the
+                 ground modem, antenna positioning or interference.          .
+                 Videofeedbackwillbelostandpilotingwillbecomedif-
+                 ficult.
+                 User Action: Try to improve radio signal quality by fol-
+                 lowing the instructions in section 'I m proving radio sig-
+                 nal communication' on page 100. If this is impossible,
+                 land as soon as possible.
+
+                                                                             95
+Maintenance and
+
+Strong wind      There is too much wind to maintain stable flight. There
+                 is a risk the drone crashes, collides or exits the working
+                 area. If it cannot reach the Home waypoint, it lands im-
+                 mediately.
+
+                 User Action: Land as soon as possible.
+
+Poor GPS cover-  Your eXom is unable to reliably calculate its position.
+age              Unless flying manually, there is a riskof loss or collision.
+                 Manual flight is, however, unaffected.
+
+                 Response: Unless flying manually, the drone raises an
+                 alert, returns to the Home waypoint and immediately
+                 engages its landing sequence.
+                 Prevention: Only fly autonomously outside, in areas
+                 with good satellite positioning signal coverage.
+
+7.3 Critical gailures
+
+A critical failure is an error that occurs in flight that prevents the continuation of
+normal flight. This is the most serious type of error that can occur with the eXom.
+When a critical failure occurs flight is aborted and the drone initiates an Emer-
+gency action which immediately directs it to the ground.
+Table 4 on the following page describes the critical failures that may occur and
+what action is taken by the drone. In some cases it may be possible to manually
+control the drone using the remote controP'. If a critical failure occurs that results
+in an Emergency landing we recommend that you keep track of the drone's last
+known position in the air and in eMotionX if possible and follow the instructions
+in section'Losing and locating your eXom in the field' on page 101.
+
+" see section'Manual control of the eXom' on page 50
+
+09
+                    Table 4: Critical failures
+
+eMotionXtext        Description                                                                       ;
+                                                                                               '
+High-level autopi-                                                                                    I
+lotfailure          Effect on droneldrone's response
+                    Prevention
+                    Userattion
+
+                    The eXom's high-level autopilot has failed.                                       '
+                    Response: The drone raises an alert and immedi-
+                    ately engages its landing sequence.                                               I
+                    Prevention: Only fly within the eXom's recom-
+
+                    mended operating conditions.
+
+                    User action: If automatic landing will be safe, allow
+
+                    your drone to land. If not, land your drone manually.
+
+High-level IMU One of eXom's inertial measurement units has failed.
+
+failure             Response: The drone raises an alert and immedi-
+
+                    ately engages its landing sequence.
+
+                    User action: If automatic landing will be safe, allow
+
+                    your drone to land. If not, land your drone manually,
+
+High-level magne-   One of your eXom's internal compasses has failed.
+tometer failure     Response: The drone raises an alert and immedi-
+                    ately engages its landing sequence.
+                    User action: If automatic landing will be safe, allow
+                    your drone to land. If not, land your drone manually.
+
+                                                                                                  97
+Maintenance and R
+
+   Low-levelbarome-   One of your eXom's barometer units has failed.
+   ter failure        Response: An alert is raised and, unless under man-
+                      ual control, the drone flies in a straight line to the
+                      home waypoint. If under manual control, the drone
+                      carries out an immediate emergency landing.
+                      User action: If automatic landing will be safe, allow
+                      your drone to land. If not, land your drone immedi-
+                      ately.
+
+   Low-level magne-   One of your eXom's internal compasses has failed.
+   tometer failure    Response: An alert is raised and, unless under man-
+                      ual control, the drone flies in a straight line to the
+                      home waypoint. If under manual control, the drone
+                      carries out an immediate emergency landing.
+                      User action: If automatic landing will be safe, allow
+
+                      your drone to land. If not, land your drone immedi-
+                      ately.
+
+   Batteryoverheat    YoureXom'sbatterieshaveoverheated.Therelsarisk
+                      of battery failure or fire.
+                      Response: The drone immediately lands.
+                      Prevention: Inspect your batteries before each
+                      flight. Store them accordi ng to senseFly's recom men-
+                      dations. Do not operate the drone outside the rec-
+
+                      ommended temperature range.
+
+   Battery  critical  Your eXom's batteries can no longer provide enough
+   level              energy to keep the drone airborne.
+
+                      Effect: The drone immediately lands.
+                      Prevention: Do not allow your drone's batteries to
+
+                      run out.
+
+m
+Lost RC signal in  Your eXom lost contact with the remote control dur-
+manual mode        ing manualflight.
+
+                   Response (Autonomous flight): The drone flies in a
+                   straight line to the home waypoint.
+                   Response (Manual flight): The drone immediately
+                   lands.
+                   Prevention: Do not allow your drone to fly beyond
+                   the range of the remote control or allow an obstacle
+                   such as a building or terrain to block the RC signal.
+
+GPSfailure         Your eXom's GPS has malfunctioned. The drone is un-
+
+                   able to reliably calculate its position. Unless flying
+                   manually, there is a risk of loss or collision. Manual
+                   flight is, however, unaffected.
+                   Response: Unless flying manually, the drone raises
+                   an alert and immediately engages its landing se-
+                   quence.
+                   Prevention: Only fly autonomously outside, where
+                   there is good satellite positioning signal coverage.
+
+Far outside work-  While flying autonomously, your eXom has been
+ing area           pushed well outside the working area.
+                   Response: Unless flying manually, the drone raises
+
+                   an alert and immediately engages its landing se-
+                   quence.
+                   Prevention: Only fly your drone in suitable weather
+                   conditions.
+
+                                                                           F}1
+Maintenance and Repair
+
+Abnormal sink           Your eXom is descending at an unexpected rate or the
+rate and attitude       drone pitch or roll angle is higher than 90 0
+                        Response: The eXom immediately stops its motors.
+                        Prevention: In manual modes, do not make the
+                        drone descend into its own downwash.
+
+                        User action: Prepare in whatever way possible for a
+                        falling drone.
+
+Motor controller        The processor controlling your eXom's propellers has
+failure                 failed.
+                        Effect: The propellers stop.
+                        User action: Prepare in whatever way possible for a
+                        falling drone.
+
+Battery failure         The battery is not providing enough power for Flight.
+                        Effect: The propellers stop.
+                        User action: Prepare in whatever way possible for a
+                        falling drone,
+
+7.4 Improving radio signal communication
+
+You may occasional ly lose the data connection between eMotion X and your eXom
+while in the field. Whether there is a loss in uplink or downlink communication,
+the drone will continue Flying along its Flight Plan and should re-establish the
+connection as it flies closer to the base station or changes direction.
+Data connection range can be effected by many external factors such as antenna
+height, terrain and obstacles or radio interference. We recommend the following
+tips to improve the range of your connection in the field:
+
+100
+                                                                                    Trou
+
+    1. Place the USB ground modem as high as possible (for example, on top of a
+        car, ladder or nearby building). A height of at least 2 m is recommended.
+
+    2. Ensure that the USB ground modem's antennas are properly screwed on
+        and are pointing straight up.
+
+The strength of the connection between the drone and eMotion X is indicated in
+the Flight Monitoring tab.
+
+7.5 Losing and locating your eXom in the field
+
+In case you lose your drone in the field for whatever reason, whether from a loss
+of communications, a Critical failure or an accidental collision, use the following
+steps to try to recover it:
+
+    1. Do not disconnect the connection in eMotion X! If it is out of communica-
+        tion range, the drone should reconnect automatically as it comes back into
+        range.
+
+    2. Note the last known location of the drone in eMotion X by printing the
+        screen or writing down the location displayed.
+
+    3. Move towards this last known direction with the computer running eMo-
+        tion X in the hope of regaining a connection. Be sure to take the remote
+        control with you as well.
+
+    4. Ifyou have reached the last known location ofyour drone and have notyet
+        found it, turn on the remote control.
+
+    S. Try moving both the control sticks around. If the drone is within range it
+        may start making noise with its propellers.
+
+    6. Try moving downwind from the last known location in case the drone was
+         pushed by the wind while still in the air.
+
+                                                                                                                                   101
+Maintenance and Repair
+
+7.6 Reporting a problem with your eXom
+
+If there is a problem with your eXom, whether it is a software malfunction, dam-
+aged airframe or any other problem, we recommend the following actions:
+
+    1. If there is an error message displayed in eMotionX, begin by checking sec-
+        tion'Troubleshooting' on page 92 to see if there is a solution to the partic-
+        ular message.
+
+    2. CheckourKnowledgeBase,partofmy.senseFly",toseeifthereisasolution
+        to your problem.
+
+    3. If you have still not found a solution, contact your eXom reseller. Please
+        include the following information with your inquiry:
+            · The serial number of your drone.
+            · A short description of the problem.
+            · The Drone Flight Log file of the flight that had a problem.
+           o The eMotion Flight Log file of the flight that had a problem. You can
+              find this file in the eMotion/logs/ directory which is created in My
+              Documents on Windows.
+           e Photos or video of the eXom airframe, if required.
+
+             Note: In order to provide support, senseFly may request the flight
+             log files for inspection.
+
+7.7 Maintenance schedule
+
+You must carry out a general airframe inspection" before every flight. You must
+also perform a full airframeand sensorinspection14 at least once a month, orevery
+
+" http://my.sensefly.com
+" See section'Preparing the eXom for fllght' on page 33
+14 See section'Full inspection' on page 87
+
+102
+20 flight hours, whichever comes first. In addition, perform this full inspection
+when bringing your drone out of long-term storage (more than 1 month) after
+any repair, part replacement, heavy landing or other unexpected incident.
+
+                                                                                                                            103
+     A
+
+     ~
+     ~
+     a
+
+     _~
+
+     a
+     a
+
+      V1
+
+     YA
+     YRV>
+     V~
+
+     mC
+
+     c
+
+     N
+
+     Y_.~
+
+m
+0G
+c
+0
+
+V
+ac ~L~L
+vc~
+     ii0
+v    d
+c~   C
+     6!
+
+v~
+c
+4: h
+
+     O7
+
+     S
+
+     z
+
+     N
+
+     a"Oa
+     E
+     V
+     Q
+
+     N
+
+     Y
+      R
+     ~
+                  Part IV
+
+Specifications
+Software requirements
+
+eMotionX has thefollowing minimum software requirements:
+
+Operatingsystem      MicrosoftWindows7/8
+         Hardware    1.6 GHz processor
+                     4 GB RAM (8GB recommended)
+             Screen  10 GB free storage space
+                     recommended resolution: 1920 x 1080
+                     visible outdoors
+
+PostFlight Terra 3D has the following minimum software requirements:
+
+  Operating system Microsoft Windows 7/ 8
+                             64-bit on(y
+
+           Hardware 1.6 GHz processor (2 GHz Intel i5/i7/Xeon recommended)
+                             4 GB RAM (16 GB recommended for large projects)
+                              10 GB free storage space (1 TB recommended for large
+                              projects)
+
+                Screen min. resolution: 1024x768
+2 Drone specifications
+
+  Nominal take-oPf weight (approx.) 1.7 kg (3.7 Ib)
+                Weight without battery 1.1 kg (2.41b)
+
+            Maximum take-off weight 1.9 kg (4.2 Ib)
+                              Dimensians 799 x 561 x 172 mm (31.5 x 22.1 x 6.8 in)
+
+        Max. airspeed (manual flight) 12 m/s (43 km/h, 27 mph)
+  Max. airspeed (autonomous Flight) 8 m/s (29 km/h,18 mph)
+
+                 Maximum climb speed 7 m/s (23 ft/s)
+             Maximum pitch/roll angle 60°
+
+                   Possible manoeuvres Climb, descend, hover, pitch, roll, yaw
+    Nominal endurance (flight time)" 22 min
+
+                                  Material Carbon structure & composite parts
+                                    Battery 3-cell 8500 mAh
+
+                           Battery weight 0.57 kg (1.3 Ib)
+                  Optimum charge time 1.5 hours
+
+                     Main camera-stills 38 Mp
+                       Main camera FOV 63°
+
+                    Main camera - video HD (1280 x 720 pixels)
+                                                 Stills and video geo-referenced
+
+               Thermal camera images 80 x 60 pixels
+                   Thermal camera FOV 50°
+
+    Thermal camera temp. resolution 0.1 ° C (0.2° F)
+
+   can vary greatly depending on external factors such as wind, altitude change and temperature.
+                      Navcam resolution 640 x 480 pixels
+                             Navcam FOV 120°
+
+                Ultrasonic sensor range 6 m (20 ft)
+                  Ultrasonic sensor FOV 50°
+                                Propulsion 4 x electric brushless motors
+
+            Max. wind (manual Flight) 10 m/s (36 km/h, 22 mph, 19 kts)
+      Max. wind (autonomous flight) 8 m/s (29 km/h, 18 mph, 16 kts)
+
+                Operating temperature -10 to 40° C
+
+                                     Communication devices
+
+                                          Grc und modem
+                                   Range 16 Up to 2 km (1.2 miles)
+                                 Frequency 2.4 GHz & 5 GHz ISM bands
+                                    Streams MiMo 2x2 with Spatial Diversity
+                       Transmision Mode OFDM" or DSSS' a
+                          Radiated Power Up to 630 m W 19
+                                  Antennas Dual Omnidirectional
+                                    Security WPA Encryption
+
+10 can vary greatly depending on external factors such as cruise altitude, presence of obstades and
+   radio-frequencyinterference.
+
+° Orthogonal Frequency Division Modulation
+' a Direct Sequence Spread Spectrum
+19 automati<ally configured based on frequency and legal limits of the country
+                       Remote control
+              Frequency 2.4 GHz
+
+                   Range Up to 0.8 km (0.5 miles)
+
+Carry case dimensions 92 x 64 x 22 cm (36 x 25 x 9 in)
+

@@ -1,0 +1,941 @@
+July 17, 2015
+
+                                                           Exemption No. 12069
+                                                           Regulatory Docket No. FAA­2015­1218
+
+Mr. Joseph Busalacchi
+1320 Nancy Drive
+Tallahassee, FL 32301
+
+Dear Mr. Busalacchi:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter dated April 22, 2015, you petitioned the Federal Aviation Administration (FAA) for
+an exemption. The petitioner requested to operate an unmanned aircraft system (UAS) to
+conduct aerial photography, filming, and scientific data collection.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner are the DJI S-1000, 3D Robotics Aero-M, X8-M, Zeta
+Science FX79, and 3D Robotics Y6.
+
+The petitioner requested relief from 14 CFR part 21, Certification procedures for products
+and parts, Subpart H--Airworthiness Certificates. In accordance with the statutory criteria
+provided in Section 333 of Public Law 112-95 in reference to 49 U.S.C. § 44704, and in
+consideration of the size, weight, speed, and limited operating area associated with the
+aircraft and its operation, the Secretary of Transportation has determined that this aircraft
+                                                                                                                 2
+
+meets the conditions of Section 333. Therefore, the FAA finds that the requested relief from
+14 CFR part 21, Certification procedures for products and parts, Subpart H--Airworthiness
+Certificates, and any associated noise certification and testing requirements of part 36, is
+not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection1. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+· They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+· The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+· A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, Joseph Busalacchi is granted an exemption from
+14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a), 91.7(a), 91.119(c),
+91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a) and (b), to
+the extent necessary to allow the petitioner to operate a UAS to perform aerial data collection.
+This exemption is subject to the conditions and limitations listed below.
+
+Conditions and Limitations
+
+In this grant of exemption, Joseph Busalacchi is hereafter referred to as the operator.
+
+1 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                                                 3
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+    1. Operations authorized by this grant of exemption are limited to the DJI S-1000, 3D
+         Robotics Aero-M, X8-M, Zeta Science FX79, and 3D Robotics Y6 when weighing
+         less than 55 pounds including payload. Proposed operations of any other aircraft will
+         require a new petition or a petition to amend this exemption.
+
+    2. Operations for the purpose of closed-set motion picture and television filming are
+         not permitted.
+
+    3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+         exemption holder may use either groundspeed or calibrated airspeed to determine
+         compliance with the 87 knot speed restriction. In no case will the UA be operated at
+         airspeeds greater than the maximum UA operating airspeed recommended by the
+         aircraft manufacturer.
+
+    4. The UA must be operated at an altitude of no more than 400 feet above ground level
+         (AGL). Altitude must be reported in feet AGL.
+
+    5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+         This requires the PIC to be able to use human vision unaided by any device other than
+         corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+         U.S. driver's license.
+
+    6. All operations must utilize a visual observer (VO). The UA must be operated within
+         the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+         to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+         capability. The VO and PIC must be able to communicate verbally at all times;
+         electronic messaging or texting is not permitted during flight operations. The PIC
+         must be designated before the flight and cannot transfer his or her designation for the
+         duration of the flight. The PIC must ensure that the VO can perform the duties
+         required of the VO.
+
+    7. This exemption and all documents needed to operate the UAS and conduct its
+         operations in accordance with the conditions and limitations stated in this grant of
+         exemption, are hereinafter referred to as the operating documents. The operating
+         documents must be accessible during UAS operations and made available to the
+         Administrator upon request. If a discrepancy exists between the conditions and
+         limitations in this exemption and the procedures outlined in the operating documents,
+         the conditions and limitations herein take precedence and must be followed.
+         Otherwise, the operator must follow the procedures as outlined in its operating
+         documents. The operator may update or revise its operating documents. It is the
+                                                                                                            4
+
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+                                                                                                            5
+
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+    exemption holder may apply for a new or amended COA if it intends to conduct
+    operations that cannot be conducted under the terms of the attached COA.
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+    be as large as practicable.
+                                                                                                               6
+
+   23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+       any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+       PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+       These documents must be made available to the Administrator or any law enforcement
+       official upon request.
+
+   24. The UA must remain clear and give way to all manned aviation operations and
+       activities at all times.
+
+   25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+   26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+       persons, vessels, vehicles, and structures unless:
+          a. Barriers or structures are present that sufficiently protect nonparticipating persons
+             from the UA and/or debris in the event of an accident. The operator must ensure
+             that nonparticipating persons remain under such protection. If a situation arises
+             where nonparticipating persons leave such protection and are within 500 feet of
+             the UA, flight operations must cease immediately in a manner ensuring the safety
+             of nonparticipating persons; and
+          b. The owner/controller of any vessels, vehicles or structures has granted permission
+             for operating closer to those objects and the PIC has made a safety assessment of
+             the risk of operating closer to those objects and determined that it does not
+             present an undue hazard.
+
+       The PIC, VO, operator trainees or essential persons are not considered
+       nonparticipating persons under this exemption.
+
+   27. All operations shall be conducted over private or controlled-access property with
+       permission from the property owner/controller or authorized representative.
+       Permission from property owner/controller or authorized representative will be
+       obtained for each flight to be conducted.
+
+   28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+       boundaries of the operational area as defined by the applicable COA must be reported
+       to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+       reported to the National Transportation Safety Board (NTSB) per instructions
+       contained on the NTSB Web site: www.ntsb.gov.
+
+If this exemption permits operations for the purpose of closed-set motion picture and
+television filming and production, the following additional conditions and limitations apply.
+
+   29. The operator must have a motion picture and television operations manual (MPTOM)
+       as documented in this grant of exemption.
+                                                                                                                 7
+
+    30. At least 3 days before aerial filming, the operator of the UAS affected by this
+         exemption must submit a written Plan of Activities to the local Flight Standards
+         District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+         notification may be waived with the concurrence of the FSDO. The plan of activities
+         must include at least the following:
+           a. Dates and times for all flights;
+           b. Name and phone number of the operator for the UAS aerial filming conducted
+              under this grant of exemption;
+           c. Name and phone number of the person responsible for the on-scene operation of
+              the UAS;
+           d. Make, model, and serial or N-Number of UAS to be used;
+           e. Name and certificate number of UAS PICs involved in the aerial filming;
+           f. A statement that the operator has obtained permission from property owners
+              and/or local officials to conduct the filming production event; the list of those
+              who gave permission must be made available to the inspector upon request;
+           g. Signature of exemption holder or representative; and
+           h. A description of the flight activity, including maps or diagrams of any area, city,
+              town, county, and/or state over which filming will be conducted and the altitudes
+              essential to accomplish the operation.
+
+    31. Flight operations may be conducted closer than 500 feet from participating persons
+         consenting to be involved and necessary for the filming production, as specified in the
+         exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                    8
+
+This exemption terminates on July 31, 2017, unless sooner superseded or rescinded.
+Sincerely,
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+                                   Joseph Busalacchi
+
+April 22, 2015
+
+U.S. Department of Transportation
+Docket Management System
+1200 New Jersey Ave., SE
+Washington, DC 20590
+
+                          Joseph Busalacchi Petition for Exemption to Operate
+   Unmanned Aircraft Systems for Aerial Photography, Filming and Scientific Data collection
+
+                                             FAA Regulatory Docket
+
+Re: Exemption Request Pursuant to Section 333 of the FAA Reform Act and Part 11 of the
+Federal Aviation Regulations from: 14 CFR 21; 14 CFR 45.23(b); 14 CFR 61.113(a)& (b); 14 CFR
+91.7(a); 14 CFR 91.9(b)(2); 14 CFR 91.103;14 CFR 91.109; 14 CFR 91.119; 14 CFR 91.121; 14 CFR
+91.151(a); 14 CFR 91.203 (a) & (b); 14 CFR 91.405 (a); 14 CFR 91.407 (a) (1); 14 CFR 91.409
+(a)(2); 14 CFR 91.417(a) & (b)
+
+Dear Sir or Madam:
+
+Pursuant to Section 333 of the FAA Modernization and Reform Act of 2012 (the "Reform Act")
+and 14 C.F.R. Part 11, Joseph Busalacchi, seeks an exemption from Federal Aviation Regulations
+("FARs") to allow commercial operation of an sUAS, so long as such operations are conducted
+within and under the conditions outlined herein or as may be established by the FAA as
+required by Section 333.
+Joseph Busalacchi provides high quality imagery and data that can be used independently or in
+the case of surveying and modelling, can be combined to produce precision digital point clouds,
+triangle models, and contour maps of the surveyed area. Applications for these sUAS include
+assistance to law enforcement agencies for criminal investigation, traffic accident
+reconstruction and tactical support, emergency services emergency site management in cases
+of natural and manmade disasters as well as search and rescue, environmental monitoring,
+wildlife monitoring and enforcement, inspection of sensitive infrastructure including oil and gas
+pipelines, flare stacks, power lines, communications towers, wind turbines, and surveying tasks
+such as precision agriculture, mining, transportation, and forestry. Use of Mr. Busalacchi for
+these emergency services, inspection and surveying applications reduces the need to operate
+conventional aircraft, providing data more safely, quickly, accurately, economically, and with
+reduced environmental impacts.
+
+                                                                                                       Page 1 of 16
+                                                                                                Joseph Busalacchi
+
+Based on the small size of Petitioner's UAS, the qualifications and experience of Mr. Busalacchi,
+and the restricted, sterile environment within which Mr. Busalacchi will operate, the requested
+exemptions fall squarely within the zone of safety envisioned by Congress and set forth in
+Section 333. Additionally, the enhanced safety achieved by replacing significantly larger
+manned aircraft carrying crew and flammable fuel with small UAS carrying no passengers or
+crew and operated under the specific guidelines and procedures proposed by Petitioner gives
+the FAA good cause to find that the UAS operations enabled by the instant Petition are in the
+public interest. Thus, the requested exemptions should be granted.
+
+The requested exemption would permit Joseph Busalacchi to pursue his current interests in
+providing services via small UAS in the following areas list below and in the public interest
+statement above:
+
+    1. Aerial photography and/or video for public and/or private use including real estate,
+         architecture, land surveying, engineering, precision agriculture and collection of
+         scientific data in support of research, conservation and humanitarian concerns.
+
+    2. Aerial inspection/photography of residential/commercial structures under contract with
+         the owners or local government authority.
+
+    3. Aerial video/photography or providing live video feed to assist with search and rescue
+         operations in cases of an emergency or natural disaster only when the local authorities
+         or government has requested it by contract or donation.
+
+    4. The ability to offer training on the technological and methodological aspects of aerial
+         data capture to individuals from public or private organizations. This does not
+         encompass training in the use of the sUAV's or certification of UAV operators but on the
+         applications surrounding sensor configurations and mapping methods.
+
+Mr. Busalacchi states that all sUAS flights will occur over private or controlled access property
+will do so with the property owner's prior consent and knowledge. Only persons who have
+consented or otherwise agreed to be in the area where photography and videography will take
+place will be captured.
+
+The name and address of the applicant is:
+Joseph Busalacchi
+1320 Nancy Drive
+Tallahassee, Florida 32301
+Phone: 352.256.6303
+Email: joey.busalacchi@gmail.com
+
+                                                                                                       Page 2 of 16
+                                                    Joseph Busalacchi
+
+Regulations from which the exemption is requested:
+14 CFR Part 21;
+14 CFR 45.23 (b);
+14 CFR 61.113(a) & (b);
+14 CFR 61.133 (a);
+14 CFR 91.7 (a);
+14 CFR 91.9 (b) (2);
+14 CFR 91.103;
+14 CFR 91.109;
+14 CFR 91.119;
+14 CFR 91.121
+14 CFR 91.151 (a);
+14 CFR 91.203 (a) & (b);
+14 CFR 91.405 (a);
+14 CFR 91.407 (a) (1);
+14 CFR 91.409 (a) (2);
+14 CFR 91.417 (a) & (b);
+
+Section 333: Statutory Authority
+Section 333, titled "Special Rules for Certain Unmanned Aircraft Systems", provides a
+mechanism for seeking expedited FAA authorization of safe civil UAS operations in the National
+Airspace System ("NAS"). Section 333(a) states that the FAA "shall determine if certain
+unmanned aircraft systems may operate safely in the national airspace system before
+completion of the [comprehensive] plan and rulemaking required by section 332(b)(1) of this
+Act or the guidance required by section 334 of this Act." In Section 332(b)(1), Congress made it
+clear that Section 333 provides a mechanism for "expedited operational authorization." The FAA
+has committed to complying with this mandate by granting several petitions almost identical to
+the one at hand. See, e.g., Exemption No. 11062, Regulatory Docket No. FAA-2014-0352
+(granting regulatory exemptions to Astraeus Aerial for operation of unmanned aircraft systems
+for the purpose of filming for the motion picture and television industry). Section 333(b)
+identifies several factors that the FAA should consider in determining whether commercial UAS
+operations should be approved. These include UAS that, "as a result of their size, weight, speed,
+operational capability, proximity to airports and populated areas, and operation within visual
+line of sight do not create a hazard to users of the [NAS] or the public or pose a threat to
+national security." See Section 333(b).
+
+Section 44701(f)
+In addition to the specific authority conferred by Section 333, the FAA Administrator has general
+authority to grant exemptions from the FAA's safety regulations and minimum standards when
+the Administrator decides a requested exemption is in the public interest. See U.S.C. § 44701(f).
+
+                                                    Page 3 of 16
+                                                                                                 Joseph Busalacchi
+
+The sUAS's proposed for use in this exemption request will be both fixed wing and multi-rotor
+craft, including models: 3DRobotics Aero-M and Y6; Zeta Science FX-79; and DJI S1000+. These
+craft weigh no more than 55lbs. including payload. Under normal conditions they operate at
+speeds of no more than 100 Mph or 87 Knots. They will operate in line of sight only and only by
+a qualified operator obeying all other local and federal laws and terms of this exemption.
+
+The sUAS's will be operated in the field with both a Pilot in Command (PIC) and a ground-based
+Visual Observer (VO) in accordance with FAA Policy N 8900.227 Section 14 "Operational
+Requirements for UAS" with the following additional restrictions:
+
+ All operations will occur at no more than 400 ft AGL. Altitude reported in feet Above
+     Ground Level.
+
+ Operations will be conducted over private property with the permission of the land owner
+ All required permits will be obtained from state and local government prior to operation
+ The aircraft will not be operated over urban or populated areas
+ The aircraft will not be operated at air shows or over an open-air assembly of people
+ The aircraft will not be operated over heavily trafficked roads
+ The aircraft will not be operated within 5 NM of an airport or heliport
+ Operations will be limited to day, visual meteorological conditions
+ Aircraft will remain within Visual Line of Sight at no greater than 1 NM of the PIC at all times
+ While the aircraft is airborne, the VO will be positioned within voice distance to the PIC the
+
+     best
+ All Flight operations will be conducted at least 500 feet from all nonparticipating persons,
+
+     vessels, vehicles, and structures unless:
+    a) Barriers or structures are present that sufficiently protect nonparticipating persons from
+
+         the UA and/or debris in the event of an accident. The operator will ensure that
+         nonparticipating persons remain under such protection. If a situation arises where
+         nonparticipating persons leave such protection and are within 500 feet of the UA, flight
+         operations must cease immediately in a manner ensuring the safety of nonparticipating
+         persons; and
+    b) The owner/controller of any vessels, vehicles or structures has granted permission for
+         operating closer to those objects and the PIC has made a safety assessment of the risk of
+         operating closer to those objects and determined that it does not present an undue
+         hazard
+
+Mr. Busalacchi, as the Pilot in Command (PIC) during commercial operations described herein,
+will hold at minimum a FAA Sport Pilot certificate and hold a current and valid U.S. driver's
+license as evidence of medical eligibility or a third class airmen's medical certificate. Mr.
+Busalacchi will have a sound understanding of FARs, pre-flight inspections, maintenance and
+repair, operations within airspace, as well as being trained to high safety standards.
+
+                                                                                                        Page 4 of 16
+                                                                                                 Joseph Busalacchi
+
+ Currently, there are no standards for either private or commercial UAS pilot certificates,
+ knowledge of airspace regulations acquired from FAA sport pilot written(knowledge test) and
+ practical (flight test) courses and dexterity in the control and operation of the UAS acquired
+ from actual operation of the aircraft will be the most important factors in establishing an
+ equivalent level of safety. According to the FAA, "the FAA considers the overriding safety factor
+ for the limited operations proposed by the petitioner to be the airmanship skills acquired
+ through UAS-specific flight cycles, flight time, and specific make and model experience,
+ culminating in verification through testing." See Exemption No.
+ 11062, Regulatory Docket No. FAA-2014-0352, at p. 18. With those factors in mind,
+ Mr. Busalacchi shall be required to meet several conditions and limitations as outlined in the
+ flight operations manual, including the following:
+
+  Joseph Busalacchi will have accumulated and logged a minimum of 200 flight cycles and 25
+     hours of total time as a UAS pilot and at least 10 hours logged as a UAS pilot with a similar
+     UAS type (single blade or multirotor).
+
+  Joseph Busalacchi will have accumulated and logged a minimum of five hours of flight time
+     with the specific make and model of the UAS to be utilized for operations under the
+     exemption and three take-offs and landings in the preceding 90 days.
+
+ I submit that the combination of the aircraft's light weight, flight performance, fully qualified
+ flight crew and strict operation under the guidelines established in 8900.227, the FAA can have
+ confidence that Mr. Busalacchi will have an equivalent or greater level of safety of manned
+ aircraft performing the same mission.
+
+ I am prepared to modify or amend any part of this request to satisfy the need for an equivalent
+ level of safety. We look forward to working with your office. Please contact us at any time if
+ you require additional information or clarification.
+
+ Sincerely,
+
+Joseph Busalacchi
+
+ Appendices:
+ A. Exemption Request and Equivalent Level of Safety
+ B. Small Unmanned Aerial System (sUAS's) Descriptions
+ C. sUAS User Manuals
+
+                                                                                                        Page 5 of 16
+                                                                                                Joseph Busalacchi
+
+                                                   APPENDIX A
+
+                      EXEMPTION REQUESTS AND EQUIVALENT LEVEL OF SAFETY
+
+Joseph Busalacchi requests an exemption from the following regulations as well as any
+additional regulations that may technically apply to the operation of the sUAS's described
+herein:
+
+14 CFR Part 21, Subpart H: Airworthiness Certificates
+Subpart H, entitled Airworthiness Certificates, establishes the procedural requirements for the
+issuance of airworthiness certificates as required by FAR §91.203 (a) (1). Given the size and
+limited operating area associated with the aircraft to be utilized by the Applicant, an exemption
+from Part 21 Subpart H meets the requirements of an equivalent level of safety under Part 11
+and Section 333 of the Reform Act. The Federal Aviation Act (49 U.S.C.§44701 (f)) and Section
+333 of the Reform Act both authorize the FAA to exempt aircraft from the requirement for an
+airworthiness certificate, upon consideration of the size, weight, speed, operational capability,
+and proximity to airports and populated areas of the particular sUAS's. In all cases, an analysis of
+these criteria demonstrates that the sUAS's operated without an airworthiness certificate, in the
+restricted environment and under the conditions proposed will be at least as safe, or safer, than
+a conventional aircraft (fixed wing or rotorcraft) operating with an airworthiness certificate
+without the restrictions and conditions proposed.
+
+The sUAS's to be operated here are less than 55 lbs. fully loaded, carries neither a pilot nor
+passenger, carries no explosive materials or flammable liquid fuels, and operates exclusively
+within a secured and designated area. Unlike other civil aircraft, operations under this
+exemption will be tightly controlled and monitored by both the operator and under the
+requirements and in compliance with local public safety requirements. These safety
+enhancements provide a greater degree of safety to the public and property owners than
+conventional operations conducted with airworthiness certificates issued under 14 C.F.R. Part
+21, Subpart H. Lastly, application of these same criteria demonstrates that there is no credible
+threat to national security posed by the sUAS's, due to its size, speed of operation, location of
+operation, lack of explosive materials or flammable liquid fuels, and inability to carry a
+substantial external load.
+
+14 CFR 91.203(a) & (b) Civil aircraft: Certifications required
+The regulation provides that an airworthiness certificate, with the registration number assigned
+to the aircraft and a registration certificate must be aboard the aircraft. Additionally,
+subparagraph (b) provides that the airworthiness certificate be "displayed at the cabin or
+cockpit entrance so that it is legible to passengers or crew." The sUAS's described herein are
+
+                                                                                                       Page 6 of 16
+                                                                                                Joseph Busalacchi
+
+too small to carry documentation, does not have an entrance, and is not capable of carrying
+passengers or crew. To obtain an equivalent level of safety and meet the intent of 91.203, we
+propose that documents deemed appropriate for this aircraft by the FAA will be co-located with
+the crew at the ground control station and available for inspection upon request. In order to
+identify the aircraft, we propose that the information found on airworthiness and registration
+certificates be permanently affixed to the aircraft via placard:
+
+                             Manufacturer: Name and Manufacturer of sUAS
+                                             Model: Model Number
+
+                                                   Registered to:
+                                                Joseph Busalacchi
+                                                 1320 Nancy Drive
+                                              Tallahassee, Florida 32301
+
+                                   If found please contact: (352)256-6303
+
+14 CFR 45.23 (b) Marking of the Aircraft
+These regulations provide that each aircraft must display "N" and the aircraft's registration
+number in letters at least 3 inches high. Additionally, the aircraft must display the word
+"EXPERIMENTAL" in letters at least 2 inches high near the entrance to the cabin, cockpit, or
+pilot station. The sUAS's described herein do not have an entrance in which the word
+"EXPERIMENTAL" can be placed, and may not have a registration number assigned to it by the
+FAA.
+
+We propose to achieve an equivalent level of safety by including the word "EXPERIMENTAL" on
+the top of the aircraft, where the PIC, VO and others in the vicinity of the aircraft while it is
+preparing for launch will be able to see the designation. Additionally, we feel that the
+permanent placard discussed in the previous paragraph will provide the aircraft's registration
+information should it be found on the ground. Finally, we will display at the ground station a
+high contrast flag or banner that contains the words "Unmanned Aircraft Ground Station" in
+letters 3 inches high or greater. Since the aircraft will operate within 1 NM of the ground
+station, the banner should be visible to anyone that observes the aircraft and chooses to
+investigate its point of origin.
+
+14 C.F.R. 91.7(a): Civil Aircraft Airworthiness
+The regulation requires that no person may operate a civil aircraft unless it is in airworthy
+condition. As there will be no airworthiness certificate issued for the aircraft, should this
+exemption be granted, no FAA regulatory standard will exist for determining airworthiness.
+
+                                                                                                       Page 7 of 16
+                                                                                                Joseph Busalacchi
+
+Given the size of the aircraft for maintenance and use of safety checklists prior to each flight an
+equivalent level of safety will be provided.
+
+14 CFR 91.9 (b) (2) Civil Aircraft Flight Manual in the Aircraft
+This regulation provides that no person may operate an aircraft unless a current, approved flight
+manual is in the aircraft. We assume that the intent of this requirement is to ensure that flight
+manual information is available to the aircrew while operating the aircraft. We request an
+exemption to this requirement since the aircraft is not only too small to carry documentation,
+the documentation would not be available to the crew.
+To obtain an equivalent level of safety and meet the intent of 91.9, we propose that a current,
+approved Flight Manual for each of the sUAS's described herein must be available to the crew at
+the ground station anytime the aircraft is in or preparing for flight. See Appendix C.
+
+14 CFR 61.113 (a) & (b) Private pilot privileges and limitations: Pilot in Command
+The regulation provides that no person that holds a private pilot certificate may act as pilot in
+command of an aircraft for compensation or hire. Subparagraph (b) allows a private pilot to act
+as pilot in command of an aircraft in connection with any business or employment if: (1) The
+flight is only incidental to that business or employment; and (2) The aircraft does not carry
+passengers or property for compensation or hire.
+Our proposed operations meet the requirements of 8900.227 paragraph 16 (c) (2) (c)
+"Operations without a pilot certificate" in which the PIC is required to complete "FAA Sport pilot
+ground instruction" and pass "the FAA Sport Pilot written examination." Since there are
+currently no means available for the pilot of a UAS to gain the experience in an equivalent
+category and class in order to apply for a commercial pilot's license, Mr. Busalacchi proposes to
+generate an equivalent level of safety by completing, at a minimum, FAA Sport pilot ground
+instruction and pass the FAA Sport Pilot written and practical examination in addition to
+completing all sUAS pilot requirements set forth in the Petition for Exemption above. Since the
+aircraft cannot carry passengers or property, we feel we meet the intent of 61.113
+Subparagraph (b) even though the intent of this application is to conduct a business.
+
+14 CFR 91.109 Flight instruction
+Section 91.103 provides that no person may operate a civil aircraft (except a manned free
+balloon) that is being used for flight instruction unless that aircraft has fully functioning dual
+controls. sUAS's and remotely piloted aircraft, by their design do not have fully functional dual
+controls. Flight control is accomplished through the use of a control box that communicates
+with the aircraft via radio communications. The FAA has approved exemptions for flight training
+without fully functional dual controls for a number of aircraft and for flight instruction in
+experimental aircraft. See Exemption Nos.5778K & 9862A.
+
+                                                                                                       Page 8 of 16
+                                                                                                Joseph Busalacchi
+
+The equivalent level of safety provided by the fact that neither a pilot nor passengers will be
+carried in the aircraft and by the size and speed of the aircraft.
+
+14 CFR 91.119 Minimum safe altitudes
+The regulation provides that over sparsely populated areas the aircraft cannot be operated
+closer than 500 feet to any person, vessel, vehicle, or structure. Since the aircraft will be
+operating at a maximum of 400 feet AGL, Mr. Busalacchi cannot comply with this requirement.
+To provide an equivalent level of safety Mr. Busalacchi will only fly over private property with
+the permission of the land owner. The land owner will be briefed of the expected route of flight
+and the associated risks to persons and property on the ground. We maintain that due to the
+small size of the sUAS's described herein, the hazard to persons, vessels, vehicles, and
+structures is not comparable to manned aircraft and should be considered in granting the
+exemption.
+Consideration about risks related to ground impacts. The sUAS's described herein will not be
+operated over congested areas nor over any open air assembly of persons. In the event of
+power unit failure and operating at 400 feet altitude, Mr. Busalacchi as PIC will be able to
+conduct an emergency landing without undue hazard to persons or property on the ground.
+
+14 CFR 91.121 Altimeter settings
+The regulation provides that aircraft shall maintain cruising altitudes by reference to an
+altimeter setting available within 100 nautical miles of the aircraft. The aircraft will fly below
+400 feet AGL and will not need to maintain hemispherical cruising altitudes in order to de-
+conflict with other aircraft. As such, an appropriate altimeter measurement presented to the
+pilot should be Above Ground Level and should be based on the barometric pressure at the
+point of launch. To provide an equivalent level of safety, the sUAS's described herein AGL
+altimeter(s) will be set to zero on the ground prior to every flight. Since the average flight will
+be 8-60 minutes, even rapid changes in barometric pressure will have limited effect on the
+safety of the flight.
+
+14 C.F.R. § 91.103: Preflight action
+Seeks an exemption from 14 CFR 91.103, which requires a PIC to become familiar with specific
+information before each flight, including information contains in the FAA-approved Flight
+Manual on board the aircraft. While the PIC will be familiar with all of the information
+necessary to safely conduct the flight, an exemption is requested to the extent that an FAA-
+approved Flight Manual is required.
+
+14 CFR 91.151 (a) Fuel requirements for flight in VFR conditions
+Section 91.151 (a) prohibits an individual from beginning "a flight in an airplane under
+
+                                                                                                       Page 9 of 16
+                                                                                                Joseph Busalacchi
+
+VFR conditions unless (considering wind and forecast weather conditions) there is enough fuel
+to fly to the first point of intended landing, and, assuming normal cruising speed ­ (1) During the
+day, to fly after that for at least 30 minutes; or (2) At night, to fly after that for at least 45
+minutes." The battery powering the sUAS provides approximately 40 minutes of powered flight.
+To meet the 30-minute reserve requirement in 14 CFR 91.151, sUAS flights would be limited to
+approximately 10 minutes in length. Given the limitations on the UAS's proposed flight area and
+the location of its proposed operations within a predetermined area, a longer time frame for
+flight in daylight or night VFR conditions is reasonable.
+Joseph Busalacchi believes that an exemption from 14 CFR 91.151(a) falls within the scope of
+prior exemptions. See Exemption 10673 (allowing Lockheed Martin Corporation to operate
+without compliance with FAR 91.151 (a)). Operating the small UAS, in a tightly controlled area
+where only people and property owners or official representatives who have signed waivers will
+be allowed, with less than 30 minutes of reserve fuel, does not engender the type of risks that
+Section 91.151(a) was intended to alleviate given the size and speed of the small UAS.
+Additionally, limiting sUAS flights to 10 minutes would greatly reduce the utility for which the
+exemption will be granted.
+Mr. Busalacchi believes that an equivalent level of safety can be achieved by limiting flights to
+30 minutes or 25% of battery power, whichever happens first. This restriction would be more
+than adequate to return the sUAS to its planned landing zone from anywhere in its limited
+operating area. Similar exemptions have been granted to other operations, including
+Exemptions 2689F, 5745, 10673, and 10808.
+
+14 CFR 91.405 (a); 91.407 (a) (1); 91.409 (a) (2); 91.417 (a) & (b) ­ Maintenance Inspections
+These regulations require that an aircraft operator or owner "shall have that aircraft inspected
+as prescribed in subpart E of this part and shall between required inspections, except as
+provided in paragraph (c) of this section, have discrepancies repaired as prescribed in part 43 of
+this chapter...," and others shall inspect or maintain the aircraft in compliance with Part 43.
+Given that these section and Part 43 apply only to aircraft with an airworthiness certificate,
+these sections will not apply to the applicant. The operator pursuant to the flight manual and
+operating handbook will accomplish maintenance. An equivalent level of safety will be achieved
+because these small UASs are very limited in size and will carry a small payload and operate only
+in restricted areas for limited periods of time. If mechanical issues arise the UAS can land
+immediately and will be operating from no higher than 400 feet AGL. As provided in the Manual,
+the operator will ensure that the UAS is in working order prior to initiating flight, perform
+required maintenance, and keep a log of any maintenance performed. Moreover, the operator
+is the person most familiar with the aircraft and best suited to maintain the aircraft in an
+airworthy condition to provide the equivalent level of safety.
+
+                                                                                                      Page 10 of 16
+            Joseph Busalacchi
+
+APPENDIX B
+
+                                              sUAS DESCRIPTIONS
+
+Joseph Busalacchi requests the sUAS's to be used are as follows but not limited to providing
+they are within the scope of the exemption granted by the FAA. Mr. Busalacchi may update or
+revise its operating documents. It is the operator's responsibility to track such revisions and
+present updated and revised documents to the Administrator or any law enforcement official
+upon request. Mr. Busalacchi must also present updated and revised documents if it petitions
+for extension or amendment to this grant of exemption. If Mr. Busalacchi determines that any
+update or revision would affect the basis upon which the FAA granted this exemption, then Mr.
+Busalacchi must petition for an amendment to its grant of exemption. The FAA's UAS
+Integration Office (AFS-80) may be contacted if questions arise regarding updates or revisions
+to the operating documents.
+
+Fixed Wing sUAS's:
+3D Robotics Aero-M Specifications:
+
+     Wing Span: 74 inches/1900 mm
+     Length: 51 inches / 1300 mm
+     Cruise Speed: 25 mph / 40km/hr
+     Max Speed: 62 mph / 100 km/hr
+     Stall Speed: 9 mph / 15 km/hr
+     Autonomous capabilities: Auto-Return to Home if lost communications or lost data link;
+
+         Auto-Loiter, Auto-Landing, Emergency Auto-Landing if Low Power Emergency
+     Maximum Range: 6+ miles / 10+ km
+     Maximum Take-off Weight: 7.7 lbs. / 3500 grams
+     Maximum Wind Speed: 25 mph
+     Normal Flight Time:40 minutes hours; 4S 6000 mAh 35C LiPo
+     Payload: 1.1 lbs.
+
+Zeta Science FX79 Specifications:
+     Wing Span: 79 inches/2000 mm
+     Length: 33.93 inches / 862 mm
+     Cruise Speed: 25 mph / 40km/hr
+     Max Speed: 50 mph / 80 km/hr
+     Stall Speed: 12 mph / 19 km/hr
+     Autonomous capabilities: Auto-Return to Home if lost communications or lost data link;
+         Auto-Loiter, Auto-Landing, Emergency Auto-Landing if Low Power Emergency
+     Maximum Range: 6+ miles / 10+ km
+     Aircraft Weight w/ battery: 9.7 lbs. / 4535 grams
+
+                                                                                                     Page 11 of 16
+                                                   Joseph Busalacchi
+
+ Payload: 1.5 lbs.
+ Maximum Take-off Weight: 11.2 lbs. / 5080 grams
+ Maximum Wind Speed: 40 mph
+ Normal Flight Time: 1 hour; 4S 6000 mAh 35C LiPo
+
+Muti-Rotor sUAS's:
+3D Robotics Y6:
+
+      Width: 13.7 in/348 mm
+      Length: 20.1 in/ 511 mm
+      Height: 11.8 in/300 mm
+      Cruise Speed: 22 mph / 36km/hr
+      Approx. Max Air Speed: 30 mph / 50 km/hr
+      Minimum Airspeed: 0 mph / 0 km/hr
+      Maximum Range: 0.5 miles / 0.8 km
+      Multi-Rotor Weight w/ battery: 4.7 lbs. / 2120 g
+      Payload Capacity: 1.1 lbs/500g
+      Maximum Take-off Weight: 5.8 lbs./2630 g
+      Autonomous capabilities: Auto-Return to Home if lost communications or lost data link;
+
+          Auto-Loiter, Auto-Landing, Emergency Auto-Landing if Low Power Emergency
+      Maximum Wind Speed: 30 mph
+      Normal Flight Time: 15 minutes; Max payload: 8 minutes hours; various battery
+
+          configurations available
+
+DJI S100+:
+     Width: 41 in/1045 mm
+     Length: 41 in/ 1045 mm
+     Top Diameter:13 in/338mm
+     Height: 24 in/ 609 mm
+     Cruise Speed: 22 mph / 36km/hr
+     Approx. Max Air Speed: 30 mph / 50 km/hr
+     Minimum Airspeed: 0 mph / 0 km/hr
+     Maximum Range: 1+ miles / 1.6+ km
+     Multi-Rotor Weight w/ battery: 11.5 lbs. / 5200 grams
+     Payload Capacity: 12.5 lbs/5660 g
+     Maximum Take-off Weight: 24 lbs/11000g
+     Autonomous capabilities: Auto-Return to Home if lost communications or lost data link;
+         Auto-Loiter, Auto-Landing, Emergency Auto-Landing if Low Power Emergency
+     Normal Flight Time: 15 mins; 6S 15,000mAh LiPo
+
+                                                   Page 12 of 16
+                                                                                                Joseph Busalacchi
+
+Power Source:
+Lithium polymer or Lithium ion batteries. Charging of batteries can be completed via: standard
+wall outlet, direct connection to vehicle battery, or via the vehicle's cigarette lighter.
+
+Propulsion System:
+The sUAS's described herein are powered by electric direct drive brushless DC motors.
+
+Autonomous Flight:
+The key element of the sUAS's described herein is the system's autopilot which automatically
+compensates for wind versus relying on the operator's sense of feel for what the impact of the
+wind is at launch or at the altitude the system is flying. All flight operations are GPS and
+autopilot controlled making the system extremely easy to operate and navigate. The autopilot
+serves in a "cruise control" like manner limiting the operator from placing any the sUAS's
+described herein in an unusual attitude while maintaining desired altitude. At any point if the
+signal between the Ground Control Station (GCS) and the aircraft is lost, the aircraft will return
+to the designated home station and loiter or land as preprogrammed.
+
+Landing styles/types ­ Aided or Autonomous:
+      In "Aided" landing mode the autopilot continues to assist the pilot in maintaining
+          altitude and stability as the pilot controls the fixed wing sUAS to the desired landing
+          location.
+      In "Autonomous" Landing mode without human intervention, the fixed wing sUAS
+          autopilot can land the aircraft consistently within a narrow and limited landing area,
+          even in crosswinds. The autopilot intelligently manages the landing pattern and
+          glideslope to minimize overshoot or undershoot. If signal is lost and cannot be
+          reestablished for some reason, the autopilot will initially return to home location and
+          loiter.
+
+Onboard Flight Instruments:
+The sUAS's described herein are equipped with an Inertial Navigation System (3axis gyroscope,
+3axis magnetometer, GPS receiver, and static pressure sensor and secure radio link to the
+operator).
+
+Onboard Computer Systems:
+The sUAS's described herein are equipped with onboard computer systems to monitor, control,
+and communicate the essential fight status to the PIC and VO.
+
+Frequency Allocations:
+915 MHz, 2.4 GHz OR 5.8 GHz
+
+                                                                                                      Page 13 of 16
+                                                                                                Joseph Busalacchi
+
+Navigation System:
+Specific maps can be downloaded to the display screen (such as air sectional and geographic
+maps) which are overlaid with GPS positional data. Waypoints can be created before and during
+flight operations, thus creating specific locations and flight sequences for the aircraft. During
+flight waypoints can be clicked and dragged to change their location and/or altitude.
+
+Command and Control Systems:
+All missions will be flown in using a handheld radio transmitter in conjunction with ground
+control station (GSC) computers providing PIC and VO all of the essential flight data via
+telemetry from the sUAS at least once per second.
+
+ GCS Data Displayed:
+      sUAS Barometric Altitude
+      sUAS Bearing
+      sUAS Heading
+      sUAS Ground Speed
+      sUAS Climb Rate
+      sUAS Flight Time
+      sUAS Data Link Quality
+      sUAS Position
+      GPS Number of Satellites
+      sUAS Battery Level
+      Altitude
+      Local Time
+      Direction to Home
+      Active Flight Mode
+      sUAS Status
+      Pitch/Roll/Yaw Horizon
+
+Emergency Procedures and System Failures:
+     Sensor Failure- Failure of onboard flight instruments/sensors will degrade the UAS
+         performance and will result in either a fatal critical response or a non-fatal critical
+         response, depending on the nature and severity. If the UAS becomes unstable due to
+         sensor failure, this may result in loss of performance or features but still allow for stable
+         Pilot in Command flight, an automated landing or in extreme cases a fatal response.
+     Motor Failure- This will cause a fatal response in the UAS flight performance if one or
+         more motors fails.
+     Airframe Failure- Depending on the nature and severity, this may result in decreased
+         flight performance or a fatal response.
+     Navigation System Failure- In a navigation system failure, degraded GPS will result in a
+         response warning to the pilot where-by the system would be flown in manual mode. This
+
+                                                                                                      Page 14 of 16
+                                                                                           Joseph Busalacchi
+    will result in degraded GPS position performance, manual Pilot in Command flight will
+    not be effected.
+ Power Failure -A complete battery failure which results in power loss to the UAS will
+    result in a fatal response.
+ Low Battery Condition - Operator will be alerted of a low battery condition and will land
+    the
+ UAS as soon as able.
+ Critical Battery Condition - Operator will be alerted of a Critical low battery condition
+    and will land the UAS as soon as able, the UAS will begin to descend at a controlled rate.
+ Line of Sight Loss -All flight operations will be conducted with the UAS within visual sight
+    of the pilot. If the pilot's view becomes obstructed and line of sight is lost, the pilot may
+    instruct the
+ UAS to hover in place until line of sight is re-established, to return to the takeoff
+    position, or to land at the current position.
+ Security - The system and communication links are encrypted by the manufacturer's
+    proprietary software.
+
+                                                                                                 Page 15 of 16
+                                           Joseph Busalacchi
+
+     Appendix C
+sUAS User Manuals
+
+        Page Intentionally Left Blank
+(User Manuals Attached as Separate Files)
+
+                                           Page 16 of 16
+

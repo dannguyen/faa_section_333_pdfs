@@ -1,0 +1,1813 @@
+August 6, 2015
+
+                                                           Exemption No. 12371
+                                                           Regulatory Docket No. FAA­2015­1971
+
+Mr. Thomas C. Gricks III
+Schnader Harrison Segal and Lewis LLP
+Fifth Avenue Place, Suite 2700
+120 Fifth Avenue
+Pittsburgh, PA 15222
+
+Dear Mr. Gricks:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter dated May 15, 2015, you petitioned the Federal Aviation Administration (FAA) on
+behalf of Civil & Environmental Consultants, Inc. (hereinafter petitioner or operator) for an
+exemption. The petitioner requested to operate an unmanned aircraft system (UAS) to
+conduct aerial acquisitions in surveying, monitoring, and inspecting.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner is a DJI Phantom 2 Vision.
+                                                                                                                 2
+
+The petitioner requested relief from 14 CFR part 21, Certification procedures for products
+and parts, Subpart H--Airworthiness Certificates. In accordance with the statutory criteria
+provided in Section 333 of Public Law 112-95 in reference to 49 U.S.C. § 44704, and in
+consideration of the size, weight, speed, and limited operating area associated with the
+aircraft and its operation, the Secretary of Transportation has determined that this aircraft
+meets the conditions of Section 333. Therefore, the FAA finds that the requested relief from
+14 CFR part 21, Certification procedures for products and parts, Subpart H--Airworthiness
+Certificates, and any associated noise certification and testing requirements of part 36, is
+not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection1. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+· They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+· The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+· A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, Civil & Environmental Consultants, Inc. is granted an
+exemption from 14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a),
+91.7(a), 91.119(c), 91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and
+91.417(a) and (b), to the extent necessary to allow the petitioner to operate a UAS to perform
+
+1 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                             3
+
+aerial data collection. This exemption is subject to the conditions and limitations listed
+below.
+
+Conditions and Limitations
+
+In this grant of exemption, Civil & Environmental Consultants, Inc. is hereafter referred to as
+the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+1. Operations authorized by this grant of exemption are limited to the DJI Phantom 2
+    Vision when weighing less than 55 pounds including payload. Proposed operations of
+    any other aircraft will require a new petition or a petition to amend this exemption.
+
+2. Operations for the purpose of closed-set motion picture and television filming are
+    not permitted.
+
+3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+    exemption holder may use either groundspeed or calibrated airspeed to determine
+    compliance with the 87 knot speed restriction. In no case will the UA be operated at
+    airspeeds greater than the maximum UA operating airspeed recommended by the
+    aircraft manufacturer.
+
+4. The UA must be operated at an altitude of no more than 400 feet above ground level
+    (AGL). Altitude must be reported in feet AGL.
+
+5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+    This requires the PIC to be able to use human vision unaided by any device other than
+    corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+    U.S. driver's license.
+
+6. All operations must utilize a visual observer (VO). The UA must be operated within
+    the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+    to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+    capability. The VO and PIC must be able to communicate verbally at all times;
+    electronic messaging or texting is not permitted during flight operations. The PIC
+    must be designated before the flight and cannot transfer his or her designation for the
+    duration of the flight. The PIC must ensure that the VO can perform the duties
+    required of the VO.
+
+7. This exemption and all documents needed to operate the UAS and conduct its
+    operations in accordance with the conditions and limitations stated in this grant of
+    exemption, are hereinafter referred to as the operating documents. The operating
+                                                                                                            4
+
+    documents must be accessible during UAS operations and made available to the
+    Administrator upon request. If a discrepancy exists between the conditions and
+    limitations in this exemption and the procedures outlined in the operating documents,
+    the conditions and limitations herein take precedence and must be followed.
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+                                                                                                            5
+
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+                                                                                       6
+
+exemption holder may apply for a new or amended COA if it intends to conduct
+operations that cannot be conducted under the terms of the attached COA.
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+    be as large as practicable.
+
+23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+    any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+    PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+    These documents must be made available to the Administrator or any law enforcement
+    official upon request.
+
+24. The UA must remain clear and give way to all manned aviation operations and
+    activities at all times.
+
+25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless:
+      a. Barriers or structures are present that sufficiently protect nonparticipating persons
+          from the UA and/or debris in the event of an accident. The operator must ensure
+          that nonparticipating persons remain under such protection. If a situation arises
+          where nonparticipating persons leave such protection and are within 500 feet of
+          the UA, flight operations must cease immediately in a manner ensuring the safety
+          of nonparticipating persons; and
+      b. The owner/controller of any vessels, vehicles or structures has granted permission
+          for operating closer to those objects and the PIC has made a safety assessment of
+          the risk of operating closer to those objects and determined that it does not
+          present an undue hazard.
+
+The PIC, VO, operator trainees or essential persons are not considered
+nonparticipating persons under this exemption.
+
+27. All operations shall be conducted over private or controlled-access property with
+    permission from the property owner/controller or authorized representative.
+    Permission from property owner/controller or authorized representative will be
+    obtained for each flight to be conducted.
+
+28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+    boundaries of the operational area as defined by the applicable COA must be reported
+    to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+                                                                                               7
+
+reported to the National Transportation Safety Board (NTSB) per instructions
+contained on the NTSB Web site: www.ntsb.gov.
+
+If this exemption permits operations for the purpose of closed-set motion picture and
+television filming and production, the following additional conditions and limitations apply.
+
+29. The operator must have a motion picture and television operations manual (MPTOM)
+    as documented in this grant of exemption.
+
+30. At least 3 days before aerial filming, the operator of the UAS affected by this
+    exemption must submit a written Plan of Activities to the local Flight Standards
+    District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+    notification may be waived with the concurrence of the FSDO. The plan of activities
+    must include at least the following:
+      a. Dates and times for all flights;
+      b. Name and phone number of the operator for the UAS aerial filming conducted
+          under this grant of exemption;
+      c. Name and phone number of the person responsible for the on-scene operation of
+          the UAS;
+      d. Make, model, and serial or N-Number of UAS to be used;
+      e. Name and certificate number of UAS PICs involved in the aerial filming;
+      f. A statement that the operator has obtained permission from property owners
+          and/or local officials to conduct the filming production event; the list of those
+          who gave permission must be made available to the inspector upon request;
+      g. Signature of exemption holder or representative; and
+      h. A description of the flight activity, including maps or diagrams of any area, city,
+          town, county, and/or state over which filming will be conducted and the altitudes
+          essential to accomplish the operation.
+
+31. Flight operations may be conducted closer than 500 feet from participating persons
+    consenting to be involved and necessary for the filming production, as specified in the
+    exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                      8
+
+This exemption terminates on August 31, 2017, unless sooner superseded or rescinded.
+
+Sincerely,
+
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+PETITION FOR EXEMPTION FROM FEDERAL AVIATION REGULATIONS
+   ("FARS") AND REQUEST FOR APPROVAL TO OPERATE UNMANNED
+
+ AIRCRAFT SYSTEMS UNDER SECTION 333 OF THE FAA REFORM ACT
+
+                                AND PART 11 OF THE FARS
+
+Submitted by: Civil & Environmental Consultants, Inc.
+
+Dated: May 15, 2015
+
+By Electronic Submission to: www.regulations.gov (without CONFIDENTIAL Supplement)
+
+By Paper Submission (including CONFIDENTIAL Supplement) to:
+
+                  U.S. Department of Transportation
+                  Docket Operations
+                  West Building Ground Floor, Room W12-140
+                  1200 New Jersey Avenue, SE
+                  Washington, DC 20590
+
+Filed by:
+
+           Thomas C. Gricks III
+           Schnader Harrison Segal & Lewis LLP
+           Fifth Avenue Place, Suite 2700
+           Pittsburgh, PA 15222
+           (412) 577-5205
+           tgricks@schnader.com
+
+           Counsel for Civil & Environmental Consultants, Inc.
+
+                                                                P HDATA 5282092_1
+                                           TABLE OF CONTENTS
+I. Summary for Publication in Federal Register..........................................................1
+II. Legal Basis for the Requested Exemption under Section 333 .................................7
+III. Identity and Contact Information of the Petitioner ..................................................7
+IV. The Phantom 2 Vision sUAS ...................................................................................8
+V. The Proposed sUAS Operation................................................................................9
+VI. The Phantom 2 Vision sUAS Equivalent Level of Safety .....................................14
+VII. Privacy ...................................................................................................................17
+VIII. Public Interest and Safety ......................................................................................17
+IX. Exemptions Requested Under Section 333 ............................................................18
+X. Certificate of Authorization or Waiver...................................................................28
+XI. Conclusion .............................................................................................................28
+
+                                                                                                                                                  P HDATA 5282092_1
+I. Summary for Publication in Federal Register
+
+         Civil and Environmental Consultants, Inc. ("CEC") is a national industry- focused
+consulting firm of more than 650 professionals providing comprehensive services in the primary
+practice areas of civil engineering, environmental engineering and sciences, ecological sciences,
+waste management and water resources. Amongst its many service offerings, CEC conducts site
+inspections, surveys, construction site monitoring, and other similar projects for clients in the
+manufacturing, mining, natural gas, power, public sector, real estate, and solid waste industries.
+
+         CEC seeks to operate small unmanned aircraft systems ("sUAS") for compensation or
+hire within the National Airspace System ("NAS") for the purpose of conducting aerial
+acquisitions within the NAS, including without limitation, site surveying, monitoring, and
+inspecting. CEC seeks an exemption to operate the DJI Phantom 2 Vision sUAS ("Phantom 2
+Vision sUAS") for this purpose.
+
+         The data obtained through the use of the Phantom 2 Vision sUAS will enable CEC to
+better comply with laws and regulations by conducting aerial acquisitions for project sites in an
+efficient and safe manner. Use of the sUAS is a low cost solution with low-environmental impact
+that protects surveyors and engineering personnel from the often hazardous conditions present at
+civil engineering project sites, while optimizing the quality and effectiveness of the data
+collected.
+
+         CEC hereby petitions the Federal Aviation Administration ("FAA") for an exemption
+from various Federal Aviation Regulations ("FARs") and requests approval to operate the
+Phantom 2 Vision sUAS in the NAS pursuant to Section 333 of the FAA Modernization and
+Reform Act of 2012, 49 U.S.C.S 44701(f) (the "Act"), and Title 14 of the Code of Federal
+Regulations ("CFR"), Part 11 (14 CFR Part 11) (the "Petition").
+
+         In its Petition, CEC requests that an exemption be granted from the following regulations:
+
+         14 CFR Part 21
+         14 CFR 43.7
+         14 CFR 43.11
+         14 CFR 45.11
+         14 CFR 45.21
+         14 CFR 45.23(b)
+         14 CFR 45.27
+         14 CFR 45.29
+         14 CFR 61.113(a) & (b)
+         14 CFR 67
+         14 CFR 91.7(a)
+         14 CFR 91.9(b)(2)
+         14 CFR 91.9(c)
+         14 CFR 91.103(b)
+         14 CFR 91.109
+         14 CFR 91.119
+
+1
+         14 CFR 91.121
+         14 CFR 91.151(a)
+         14 CFR 91.203(a) & (b)
+         14 CFR 91.405(a)
+         14 CFR 91.407(a)(1)
+         14 CFR 91.409(a)(2)
+         14 CFR 91.417(a) & (b)
+
+         In its Petition, CEC describes in detail (i) the Phantom 2 Vision sUAS, (ii) the CEC team
+that will operate the Phantom 2 Vision sUAS and the members' respective roles and
+qualifications, (iii) the proposed sUAS operations for which it seeks approval, and (iv) the
+various safety precautions that will be taken prior to and during the operations. Additional
+information concerning the Phantom 2 Vision sUAS, consisting of the Phantom 2 Vision sUAS
+operating documents, is attached hereto as Exhibits A through D (i.e., the Phantom 2 Vision User
+Manual; the Phantom 2 Vision Quick Start Guide; the Smart Flight Battery Safety Guidelines;
+and the Phantom 2 Vision Pilot Training Guide, respectively). CONFIDENTIAL
+INFORMATION concerning the procedures for the proposed operation of the sUAS, which
+include the sign-in sheet, preflight procedures, and maintenance and operations checklists, is
+attached to this Petition as Exhibit E (further endorsed as the "CONFIDENTIAL Supplement").
+CEC intends to use these materials as part of its proposed operations, and requests that the
+CONFIDENTIAL Supplement not be made public.
+
+         All maintenance, alterations, and preventive maintenance of the Phantom 2 Vision UAS
+performed by CEC will be in accordance with the methods, techniques, and practices prescribed
+in the above documents. Furthermore, only the Original Equipment Manufacturer (OEM) or
+qualified OEM maintainers will perform higher level inspections and maintenance per the
+operating documents and OEM standards. Moreover, CEC will document and maintain all
+maintenance records for the Phantom 2 Vision sUAS.
+
+         In support of its exemption request, CEC submits that (i) the Phantom 2 Vision sUAS is
+both safe and reliable and will satisfy the FAA's airworthiness assessment, (ii) the CEC Pilot in
+Command (PIC) and visual observer (VO) have the requisite knowledge and experience to
+ensure the safe operation of the proposed sUAS, (iii) the operation procedures and parameters to
+be employed by CEC ensure safe sUAS operations in the NAS, and remove the threat of harm to
+people and property, including other manned aircraft, and (iv) CEC's proposed operations, which
+include without limitation, the use of the Phantom 2 Vision sUAS to conduct aerial acquisitions
+of secure project sites for the benefit of the civil engineering industry, will be safer than that
+which would be achieved by flying a larger manned aircraft carrying crew and flammable fuel
+for the same purpose. In addition, permitting use of the Phantom 2 Vision sUAS will achieve
+various economic and environmental benefits, as well as significant efficiencies associated with
+cost, labor and safety, that serve the public interest.
+
+         A. The Phantom 2 Vision sUAS
+
+         The Phantom 2 Vision sUAS is a popular off-the-shelf sUAS, developed by Dajiang
+Innovation Technology Inc. ("DJI"). The Phantom 2 Vision sUAS is comprised of a vertical
+takeoff and landing ("VTOL") Unmanned Aircraft ("UA") and a transportable Ground Control
+
+2
+Station ("GCS"). The Phantom 2 Vision sUAS has a maximum gross weight of approximately
+5.5 pounds; measures approximately 12 inches in length, 12 inches in width, and 7 inches in
+height; and has maximum speed of approximately 30 knots. The Phantom 2 Vision sUAS is
+equipped with four rotors, each being driven by a Lithium Polymer battery powered electric
+motor. The Phantom 2 Vision sUAS is designed to carry an on-board camera manufactured by
+GoPro that allows it to collect detailed aerial acquisitions of project sites.
+
+         B. The Proposed sUAS Operations
+
+         CEC will conduct its sUAS operations using the Phantom 2 Vision sUAS in compliance
+with the FAA Notice 8900.227 Sections 12, 13, 14 and 16, issued on July 30, 2013.
+
+         The Phantom 2 Vision sUAS will be operated at CEC client project sites by a Pilot in
+Command (PIC), who will be assisted by a ground-based Visual Observer (VO) at all times
+during the operation. The VO will have a clear visual line of sight to the sUAS, and will be able
+to communicate verbally with the PIC at all times throughout the sUAS operation. The CEC PIC
+will hold a private pilot certificate, as well as an airman medical certificate, and will
+demonstrate, by meeting minimum flight-hour and currency requirements, that the PIC is able to
+safely operate the Phantom 2 Vision sUAS in a manner consistent with this exemption, including
+evasive and emergency maneuvers and maintaining appropriate distances from people, vessels,
+vehicles and structures. Both the PIC and VO will have significant experience operating a variety
+of radio controlled model aircraft and have flown the Phantom 2 Vision sUAS in an indoor
+setting.
+
+         Additional CEC operational restrictions for the Phantom 2 Vision sUAS that ensure safe
+flight include:
+
+    1. The sUAS will not be flown at night and will be operated under visual meteorological
+         conditions ("VMC") or where visibility is at least 3 statute miles from PIC. The use of
+         first person view ("FPV") by the PIC or visual observer ("VO") is not permitted.
+
+    2. Flights will be operated at an altitude of no more than 400 feet Above Ground Level
+         ("AGL"), with the majority of flights anticipated to be operated at no more than 270 feet
+         AGL.
+
+    3. The sUAS will not be flown at an airspeed exceeding 30 knots.
+
+    4. The sUAS will weigh less than 6 lbs.
+
+    5. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+         weather conditions) there is enough power to fly at normal cruising speed to the intended
+         landing point and land the sUAS with 30% battery power remaining.
+
+    6. The sUAS must be operated within VLOS of the PIC at all times. This requires the PIC to
+         be able to use human vision unaided by any device other than corrective lenses, as
+         specified on the PIC's FAA-issued airman medical certificate.
+
+    7. All operations must utilize a VO. The VO may be used to satisfy the VLOS requirement
+         as long as the PIC always maintains VLOS capability. The VO and PIC must be able to
+         communicate verbally at all times. Electronic messaging or texting is not permitted
+
+2
+         during flight operations. The PIC must be designated before the flight and cannot transfer
+         his or her designation for the duration of the flight. The PIC must ensure that the VO can
+         perform the functions prescribed in the operating documents.
+
+    8. The operating documents and the grant of exemption will be accessible during sUAS
+         operations and made available to the Administrator upon request. If a discrepancy exists
+         between the conditions and limitations contained in the grant of exemption and the
+         procedures outlined in the operating documents, the conditions and limitations contained
+         in the grant of exemption take precedence and must be followed. Otherwise, the operator
+         must follow the procedures as outlined in its operating documents. The operator may
+         update or revise its operating documents. It is the operator's responsibility to track such
+         revisions and present updated and revised documents to the Administrator upon request.
+         The operator must also present updated and revised documents if it petitions for
+         extension or amendment to the grant of exemption. If the operator determines that any
+         update or revision would affect the basis upon which the FAA granted the exemption,
+         then the operator must petition for amendment to the grant of exemption. The FAA's UAS
+         Integration Office (AFS-80) may be contacted if questions arise regarding updates or
+         revisions to the operating documents.
+
+    9. A briefing will be conducted in regard to the planned sUAS operations prior to each day's
+         activities. It will be mandatory that all personnel who will be performing duties in
+         connection with the operations be present for this briefing.
+
+    10. The operator will file any necessary paperwork in light of the exemptions with the
+         appropriate Flight Standards District Office ("FSDO").
+
+    11. Prior to each flight the PIC must inspect the sUAS to ensure it is in a condition for safe
+         flight. If the inspection reveals a condition that affects the safe operation of the sUAS, the
+         aircraft is prohibited from operating until the necessary maintenance has been performed
+         and the sUAS is found to be in a condition for safe flight. The Ground Control Station
+         must be included in the preflight inspection. All maintenance and alterations must be
+         properly documented in the aircraft records.
+
+    12. Any sUAS that has undergone maintenance or alterations that affect the sUAS operation
+         or flight characteristics, e.g. replacement of a flight critical component, must undergo a
+         functional test flight. The PIC who conducts the functional test flight must make an entry
+         in the aircraft records.
+
+    13. The pre-flight inspection must account for all potential discrepancies, e.g. inoperable
+         components, items, or equipment, not already covered in the relevant sections of the
+         operating documents.
+
+    14. The operator must follow the sUAS manufacturer's aircraft/component, maintenance,
+         overhaul, replacement, inspection, and life limit requirements.
+
+    15. The operator must carry out its maintenance, inspections, and record keeping
+         requirements, in accordance with the operating documents. Maintenance, inspection,
+         alterations, and status of replacement/overhaul component parts must be noted in the
+         aircraft records, including total time in service, description of work accomplished, and
+         the signature of the authorized person returning the sUAS to service.
+
+    16. Each sUAS operated under this exemption must comply with all Manufacturer Safety
+
+3
+         Bulletins.
+
+    17. The authorized person must make an entry in the aircraft record of the corrective action
+         taken against discrepancies discovered between inspections.
+
+    18. The sUAS will have redundancies and an independent flight termination system (FTS)
+         that can be activated manually by the PIC to ensure the overall safety and predictability
+         of the sUAS.
+
+    19. In the event of a loss of communications or signal, the sUAS is programmed to return to
+         its home base.
+
+    20. The sUAS will have the capability to abort a flight in case of unexpected obstacles or
+         emergencies.
+
+    21. If the multirotor and its controller disconnects during flight, the system's failsafe
+         protection will come to the rescue and the multirotor will return to home and land
+         automatically, rather than flying off uncontrollably or landing at an unknown location.
+
+    22. If the multirotor crosses a geo-fence guarding the 500ft perimeter from the public, it will
+         return to home and land automatically.
+
+    23. The sUAS will only be flown (i) in rural areas, away from any urban or congested
+         locations, (ii) on secured private property with restricted public access, (iii) in areas
+         located more than 5 miles away from any airport, (iv) in Class G Airspace, and (v) in
+         such locations where the property owner has approved the contemplated sUAS
+         operations.
+
+    24. The PIC, VO, and any additional crew members will comply with any additional safety
+         regulations and protocols as may be required by each project site.
+
+    25. CEC will communicate information about specific operations with Air Traffic Control
+         (ATC) nearest to the project site.
+
+    26. CEC will submit a precise description of proposed sUAS operations (Plan of Activities)
+         to the local Flight Services District Office (FSDO) within 3 days prior to the sUAS
+         operations.
+
+    27. CEC will obtain an Air Traffic Organization (ATO) Certificate of Authorization or Waiver
+         (COA) prior to any operations under the grant of exemption. This COA will also require
+         the operator to request a Notice to Airmen (NOTAM) not more than 72 hours in advance,
+         but not less than 48 hours prior to the operation.
+
+    28. All aircraft operated in accordance with the exemption must be identified by serial
+         number, registered in accordance with 14 C.F.R. part 47, and have identification (N-
+         Number) markings in accordance with 14 C.F.R. part 45, Subpart C. Markings must be as
+         large as practicable.
+
+    29. Before conducting operations, the radio frequency spectrum used for operation and
+         control of the sUAS must comply with the Federal Communications Commission (FCC)
+         or other appropriate government oversight agency requirements.
+
+    30. The documents required under 14 C.F.R. 91.9 and 91.203 must be available to the PIC at
+         the Ground Control Station of the sUAS any time the sUAS is operating. These
+
+4
+         documents must be made available to the Administrator or any law enforcement official
+         upon request.
+
+    31. The sUAS must remain clear and yield the right of way to all manned aviation operations
+         and activities at all times.
+
+    32. Written and/or oral permission from the relevant property holders will be obtained,
+         confirmed and documented.
+
+    33. All required permissions and permits will be obtained from territorial, state, county or
+         city jurisdictions, including local law enforcement, fire, or other appropriate
+         governmental agencies.
+
+    34. Any incident, accident, or flight operation that transgresses the lateral or vertical
+         boundaries of the operational area as defined by the applicable COA must be reported to
+         the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be reported
+         to the National Transportation Safety Board ("NTSB") per instructions contained on the
+         NTSB Web site: www.ntsb.gov.
+
+         C. Relevant Previously-Granted Exemptions
+
+         CEC bases its Petition, in part, on several relevant Section 333 Petitions that were granted
+by the FAA in 2014 and early 2015 and makes references to these exemptions throughout. These
+exemptions include the following:
+
+         1. Exemption No. 11109 (the "Clayco Exemption") for sUAS operations used to
+                  conduct aerial imaging to monitor and ensure the safety of construction sites.
+
+         2. Exemption No. 11114 (the "Woolpert Exemption") for sUAS operations used to
+                  conduct precision aerial surveys over Ship Island, Mississippi.
+
+         3. Exemption No. 11062 (the "Astraeus Exemption") for sUAS operations used for
+                  closed set filming for the motion picture industry.
+
+         4. Exemption No. 11136 (the "Advanced Aviation Solutions Exemption") for sUAS
+                  operations used to conduct aerial surveys to support the agriculture industry.
+
+         5. Exemption No. 11138 (the "Trudeau Exemption") for sUAS operations used to
+                  conduct real estate and aerial images of Tucson, AZ to use for marketing
+                  purposes.
+
+         The FAA granted these exemptions with conditions, having found that the petitioners
+presented an adequate showing of airworthiness and safety in their described sUAS operation to
+serve the public interest. CEC's proposed operation does not differ significantly from the
+situations presented in the Clayco, Woolpert, and Advanced Aviation Solutions Exemptions. In
+fact, the proposed Phantom 2 Vision sUAS operations establish at least an equivalent level of
+safety to the sUAS operations described in the Clayco, Woolpert, and Advanced Aviation
+Solutions Exemptions, and are for purposes that will benefit the public in very similar ways.
+Given that CEC plans to operate over similar operating environments, and for similar purposes,
+
+5
+and with the airmanship skills necessary to operate the sUAS, the FAA should grant CEC's
+Petition.
+
+         D. Recent Changes to the Exemption Process
+
+         In April 2015, the FAA used a "summary grant" process to issue 30 Section 333
+exemption approvals for unmanned aircraft systems (UAS). Use of this process is likely to speed
+up the Section 333 exemption process for sUAS operators such as CEC. Given that the CEC
+Petition is substantially similar to the previously- granted exemption requests described above,
+CEC believes that use of the "summary grant" process is appropriate in evaluating this Petition.
+
+         In addition, the FAA made the following two significant changes to the Section 333
+exemption process in April 2015:
+
+     The agency now allows operations under these exemptions by people who hold a
+         recreational or sport pilot certificate. Previously, Section 333 operators were required to
+         have at least a private pilot certificate. The newly added certificates are easier to obtain,
+         and therefore less costly, than a private pilot certificate.
+
+     A third class medical certificate is no longer required. Now, a Section 333 operator only
+         needs a valid driver's license to satisfy the medical requirement. This change is
+         consistent with the agency's approach for sport pilot certificate holders, who may fly light
+         sport aircraft with a driver's license and no FAA medical certificate.
+
+FAA News & Update - FAA Summary Grants Speed UAS Exemptions, FAA E-Newsletter, April 9,
+2015.
+
+         CEC has been working diligently to comply with the previous requirements set forth by
+the FAA, and has developed its proposed plan of sUAS operations accordingly. Given that its
+proposed sUAS operations follow the more stringent requirements, CEC believes that it has
+exceeded what is needed to show at least an "equivalent level of safety" as required by the FAA.
+In light of the recent changes made by the FAA, CEC requests that the FAA use its "summary
+grant" authority to approve this Petition.
+
+         D. Recent FAA Rules
+
+         On February 15, 2015, the FAA issued proposed rules for operation and certification of
+sUAS, under which the Phantom 2 Vision sUAS would qualify. (Docket No.: FAA-2015-0150;
+Notice No. 15-01 concerning 14 CFR Parts 21, 43, 45, 47, 61, 91, 101, 107, and 183). While
+these rules are open for public comment, and have yet to be implemented and therefore do not
+have the force of law, they are a strong indication of the FAA's inclination to allow sUAS
+operations such as those proposed by CEC. CEC continues to pay close attention to these rules
+and their development and ultimate implementation.
+
+         E. Conclusion
+
+6
+         For all the above reasons, CEC asks that the FAA grant its request for exemption from
+certain FARs, and approve its operation of the Phantom 2 Vision sUAS in the national airspace in
+accordance with the limitations and restrictions set forth herein.
+
+II. Legal Basis for the Requested Exemption under Section 333
+
+         In 2012, Congress passed the FAA Modernization and Reform Act, mandating the FAA to
+integrate unmanned aircraft systems (UAS) into the national airspace system (NAS). Section 332
+of the Act authorizes the FAA to develop regulations for the civil operation of UAS weighing
+less than 55 pounds. While the final UAS regulations have not yet been issued by the FAA,
+Congress, in Section 333 of the Act, directed the FAA to allow the operation of civil sUAS even
+before such final regulations are completed, to the extent that the sUAS operations do not create
+a hazard to the national airspace system or the public, or pose a threat to national security. 2012
+Act, §§ 333(a), (b)(1).
+
+         The FAA has authority pursuant to 49 U.S.C.S 44701(f) to grant an exemption from the
+regulations developed for manned aircraft operations (FARs and other requirements) to the
+extent the FAA finds that the exemption is "in the public interest." An sUAS operation that is in
+the public interest has been described as an operation that "falls squarely within that zone of
+safety (an equivalent level of safety) in which Congress envisioned that the FAA must, by
+exemption, allow commercial operations of sUAS to commence immediately. " See Clayco
+Exemption, p.8.
+
+         Section 333 of the Act mandates the Secretary of Transportation to make a case-by-case
+determination of safety concerning proposed sUAS operations, by considering 6 factors. The six
+factors are (1) size, (2) weight, (3) speed, (4) operational capability, (5) proximity to airports and
+populated areas, and (6) operation within VLOS. 2012 Act, §§ 333(c). Once safe operation of the
+sUAS is established, the Secretary must then set forth requirements to facilitate the operation of
+the sUAS.
+
+III. Identity and Contact Information of the Petitioner
+
+         The petitioner is Civil & Environmental Consultants, Inc., a Pennsylvania corporation
+with its principal place of business at:
+
+                           Civil & Environmental Consultants, Inc.
+                           333 Baldwin Road
+                           Pittsburgh, PA 15205-1751
+                           Tel: (412) 429-2324
+                           Fax: (412) 429-2114
+                           Email: rcelender@cecinc.com
+                           Principal Contact: Richard Celender, Vice President
+
+7
+All questions concerning this Petition may be directed to Thomas C. Gricks III, counsel for Civil
+& Environmental Consultants, Inc., at:
+
+                           Thomas C. Gricks III
+                           Schnader Harrison Segal & Lewis, LLP
+                           Fifth Avenue Place, Suite 2700
+                           120 Fifth Avenue
+                           Pittsburgh, PA 15222
+                           (412) 577-5205
+                           tgricks@schnader.com
+
+IV. The Phantom 2 Vision sUAS
+
+         CEC seeks an exemption to operate the Phantom 2 Vision sUAS. This sUAS has been the
+subject of multiple Grants of Exemption from Section 91.151 (Exemption Nos. 11153, 11157),
+and other previous exemptions granted by the FAA concerning Section 91.151 establish that
+safety is not adversely affected when the technical characteristics and operating limitations of the
+sUAS are considered.
+
+         The Phantom 2 Vision sUAS is comprised of a vertical takeoff and landing (VTOL)
+Unmanned Aircraft (UA) and a transportable Ground Control Station (GCS). The Phantom 2
+Vision sUAS has a maximum gross weight of approximately 5.5 pounds; measures
+approximately 12 inches in length, 12 inches in width, and 7 inches in height; and has a
+maximum speed of approximately 30 knots. The Phantom 2 Vision sUAS is equipped with four
+rotors, each being driven by a Lithium Polymer battery powered electric motor. The Phantom 2
+Vision sUAS comes with an on-board camera and can support an additional camera payload to
+collect detailed imagery of project sites.
+
+         The technical specifications of the Phantom 2 Vision sUAS are as follows:
+         1. sUAS: DJI Phantom 2Vision
+
+         2. Data Link: 3DR 915 MHz Radio, and 2.4 GHz 802.11
+         3. Camera: DJI On-board camera, GoPro Hero 3+ (Optional)
+
+         4. Batteries: Intelligent 5200 mAh Li-Po Battery
+         5. Empty Weight: <6lbs
+         6. Minimum Takeoff Weight: <6lbs
+
+         7. Maximum Takeoff Weight: <7lbs
+         8. Maximum Flight Time: 25 minutes
+
+         9. Programmed Range: >1mile
+         10. Maximum Wind Speed for Flight: 25 knots
+
+8
+         11. Maximum Speed: 30 knots
+
+         12. Programmed Speed: 10 knots
+
+         The Phantom 2 Vision sUAS is manually controllable at all times, and while it has
+preprogrammed autopilot capability, it is not completely autonomous and the PIC can override it
+at any time using manual controls. A PIC controls vertical and lateral movement by varying rotor
+RPM among the four rotors, independently for lateral movement and collectively for vertical
+movement. A flight radar displays the current position of the Phantom 2 Vision sUAS in relation
+to the pilot. If the Phantom 2 Vision sUAS exceeds the control range of the remote control, the
+flight control system will trigger `Return-to-Home', meaning the Phantom 2 Vision sUAS will
+automatically fly back to its takeoff point and land safely. This same feature can be used to
+program flight parameters for the sUAS. In the event that the sUAS exceeds the programmed
+flight parameter, the sUAS will automatically fly back to its takeoff location.
+
+         Additionally, and in order to increase flight safety and prevent accidental flights in
+restricted areas, the new firmware for the Phantom 2 Vision sUAS includes a No Fly Zone
+feature. This feature creates a No Fly Zone around airports all over the globe, and will not allow
+the sUAs to enter the parameters of the No Fly Zone.
+
+         The Phantom 2 Vision sUAS tracks its battery life in real-time through its built-in Battery
+Power Indicator and can be programmed to return to its launch location automatically in the
+event its battery life reaches 30%. The Phantom 2 Vision sUAS utilizes a barometric pressure
+sensor, GPS equipment, and a radio communications telemetry data link to downlink altitude
+information from the UAV to the PIC at the ground control station. The Phantom 2 Vision sUAS
+uses a 3DR 915 MHz Radio, and 2.4 GHz 802.11 communications link, which does not require
+any additional Federal Communications Commission (FCC) approvals beyond what is already
+approved for use commercially.
+
+         The Phantom 2 Vision sUAS carries a high quality camera and a removable 4GB micro
+SD card. It shoots full high definition video at 1080p/30fps and 720p/60fps. In addition to the
+built-in DJI camera, an off-shelf GoPro Hero 3+ camera can be mounted to the Phantom 2 Vision
+sUAS airframe. The GoPro Hero 3+ camera features include high-definition video recording
+with resolutions of 1080p60, 960p60 and 720p120 fps, a wide-angle glass lens and 10.0MP still
+image resolution, allowing it to take highly precise video and photographs.
+
+         A complete description of the operation and specifications of the Phantom 2 Vision
+sUAS, the Ground Control Station ("GCS"), and its software is provided at pages 7 through 17
+and pages 42 through 65 of the Phantom 2 Vision User Manual. The Phantom 2 Vision sUAS is
+compliant with all Federal Communications Commission (FCC) requirements, and the radio
+frequency spectrum used for operation and control of the sUAS is set forth at page 70 of the
+Phantom 2 Vision sUAS User Manual. A copy of the Phantom 2 Vision User Manual, which
+contains proprietary information, is attached hereto in Exhibit A.
+
+V. The Proposed sUAS Operation
+
+         The Phantom 2 Vision sUAS will be used to (i) conduct routine monitoring and (ii)
+produce high resolution and quality precision aerial acquisitions of project sites for the civil
+engineering industry. Use of the sUAS is a low cost solution with low-environmental impact that
+
+9
+protects surveyors from the often hazardous conditions present at civil engineering project sites,
+while optimizing the quality and effectiveness of the data collected.
+
+         A. Selection of Appropriate Project Sites
+
+         CEC wishes to operate the Phantom 2 Vision sUAS for the purpose of conducting aerial
+acquisitions of project sites for its clients in various industries, including in the manufacturing,
+mining, natural gas, power, public sector, real estate, and solid waste industries. Typical project
+sites may include: (1) commercial and residential construction sites, (2) oil and gas and
+alternative energy sites, (3) public utility sites, (4) mining sites, (5) quarries, (6) excavation sites,
+(7) waste management sites, and (8) and other infrastructure development sites. CEC will select
+appropriate project sites based on safety considerations and any restrictions imposed by the FAA
+that are related to sUAS operations ("Appropriate Project Sites" or "APS"). As such, APS are
+limited to those project sites that have the following operating environment:
+
+         1. APS will be located in rural areas, away from any urban or congested locations.
+
+         2. APS will be located on secured private property with restricted public access.
+
+         3. APS will be located more than 5 miles away from any airport.
+
+         4. APS will be located in Class G Airspace.
+
+         5. APS will be such locations where the property owner has approved the
+                  contemplated sUAS operations.
+
+         CEC will not operate the Phantom 2 Vision sUAS at project sites that are not determined
+to be APS.
+
+         If its Section 333 exemption request is granted, CEC intends to expand its sUAS
+operations to other similar APS within the United States.
+
+         B. Operator Qualifications
+
+         The Phantom 2 Vision sUAS will be operated at APS by a PIC, who will be assisted by a
+ground-based VO at all times during the operation. The VO will have a clear visual line of sight
+to the sUAS, and will be able to communicate verbally with the PIC at all times throughout the
+sUAS operation.
+
+         The CEC PIC does not currently have a private pilot license or third class medical
+certification, although he is prepared to obtain these if necessary. The CEC PIC does, however,
+possess significant experience with and has demonstrated the appropriate skillset needed for
+flying sUAS. The CEC PIC has flown numerous practice flights in remote areas as a hobbyist
+simulating flights for future commercial use to gain familiarization with the characteristics of the
+sUAS performance under different temperature and weather conditions. In addition, the CEC
+PIC practices computerized simulated flights to maintain adequate skills and response reflex
+time.
+
+         With this experience, the CEC PIC can achieve an equivalent level of safety as achieved
+by current regulations because the risks of the CEC PIC operating the proposed sUAS at the APS
+are far less than the risk levels inherent in the commercial activities outlined in 14 CFR Part 61,
+et seq. The Phantom 2 Vision sUAS does not carry any pilots or passengers. Moreover, research
+
+10
+has shown that a pilot's license, while helpful, does not ensure remote control piloting skills or
+safe sUAS operation.
+
+         Indeed, the FAA's recent changes to the Section 333 exemption request process supports
+CEC's position. Those changes allow for sUAS operations by PICs who hold a recreational or
+sport pilot certificate, certificates that are less costly and easier to obtain than a private pilot
+license. Additionally, a third class medical certificate is no longer required. Instead, a sUAS
+operator only needs a valid driver's license to satisfy the medical requirement. This change is
+consistent with the agency's approach for sport pilot certificate holders, who may fly light sport
+aircraft with a driver's license and no FAA medical certificate.
+
+         In keeping with the FAA's current position, the CEC PIC will obtain a recreational or
+sport pilot certification prior to, and as a condition of, conducting the proposed sUAS operations.
+Nonetheless, because the CEC PIC does not currently have a private pilot license or third class
+medical certificate, CEC petitions the FAA for an exemption from the requirements of Section
+61.113 (a) and (b) of Title 14, Code of the Federal Regulations (14 C.F.R.) for the reasons set
+forth in Section 8.I, below.
+
+         C. Training
+
+         If this Petition is granted by the FAA, the PIC and VO intend to test fly the sUAS
+outdoors, at the APS described above, or in locations bearing the same characteristics. CEC will
+adopt the FAA's findings regarding sufficient training protocol for its PICs, whatever they may
+be, prior to conducting any commercial operations of the sUAS, and proposes the following in
+this regard (taken from the training requirements outlined by the FAA in the Trudeau Exemption,
+at pages 14-15, basing its analysis on the Astraeus Exemption):
+
+         "The PIC must have accumulated and logged at least 25 hours of total time as a UAS
+         rotorcraft pilot including at least 10 hours logged as a UAS pilot with a multi-rotor UAS.
+         The PIC must also have accumulated and logged a minimum of 5 hours as a UAS pilot
+         operating the same make and model of UAS to be used for operations under the
+         exemption.
+
+         For clarification, these minimum hour requirements will be inclusive rather than additive;
+         that is, 5 hours using the same system contemplated for operations may be included in the
+         10 hours of multirotor time and the 10 hours may be included in the total 25 hours of
+         UAS rotorcraft time. In addition to the hour requirements, the PIC must accomplish 3
+         take-offs and landings in the preceding 90 days (for currency purposes)."
+
+         This will ensure that the PIC obtains sufficient flight experience to begin using the sUAS
+outdoors for the specified purposes outlined in this Petition.
+
+         D. sUAS Flight Operations
+
+         The purpose of the typical sUAS flight will be to safely, accurately, and efficiently
+capture aerial images of a project site. The sUAS will collect photogrammetric pictures, and use
+specialized photogrammetry software to process the data. The output will typically be a 3D
+surface model and high resolution aerial photographs.
+
+         Every sUAS flight will use at minimum a two man flight crew, including the PIC and
+VO.
+
+11
+         The standard pre-flight and operational procedure is as follows:
+
+         1. Meet at the security gate and complete pre-flight security, as appropriate for each
+                  site.
+
+         2. Set up a "no-entry" perimeter around the jobsite forbidding entrance by non-
+                  authorized personnel.
+
+         3. Verify that the project site is clear of non-authorized personnel.
+         4. Drive to the area to be surveyed.
+         5. Ensure that all necessary equipment, including the Flight Log, operating and
+
+                  flight manuals and checklists, and other documents are readily accessible.
+         6. The PIC begins to ready sUAS for flight.
+
+                  a. Set up the hand held weather station on tripod.
+                  b. Check over the airframe, connections, and propellers for any damage
+
+                           during transport in vehicle.
+                  c. Calibrate the camera.
+                  d. Turn on and ready the GCS.
+                  e. Connect communication antennae to the GCS.
+                  f. Open Ground Station software and pull up the pre-planned
+
+                           photogrammetry flight path.
+
+                  g. Remove the battery for flight, measure current voltage, and log findings in
+                           the battery manual.
+
+                  h. Strap the battery securely into the sUAS; do not attach the main power.
+                  i. Move the sUAS to take off point, approximately 30 feet from crew.
+                  j. Attach the main power.
+                  k. Listen to the power up sequence of beeps from the ESC and motors.
+
+                  l. Set up traffic cones around the sUAS with a 20-foot (approximate) radius.
+                           This is the "home" area; operators are not allowed inside this area while
+                           the electrical motor is running.
+
+                  m. Activate engine power without moving the throttle up. Follow DJI
+                           compass calibration procedure which records the "home" point.
+
+                  n. Using the Ground Control Station, verify connection to the sUAS.
+                  o. The sUAS should appear on the screen, along with a recorded home point,
+
+                           battery voltage, current altitude relative to the ground, and current
+
+12
+                           velocity.
+                  p. Upload the flight path data to the sUAS.
+
+                  q. Set a geo-fence around the jobsite so that when crossed the sUAS returns
+                           to Home. The Geo-fence will ensure that the sUAS never comes within
+                           the 500 ft limit from the public.
+
+                  r. Verify good upload and connection.
+                  s. Record the time and weather in Flight Log.
+
+                  w. The sUAS is now fully prepared and ready to go.
+
+         7. While the PIC is readying the aircraft, the VO, or secondary crew member, is
+                  preparing the Ground Control Points ("GCPs") and walking the site.
+
+                  a. Power up and calibrate the survey grade GPS equipment.
+                  b. Begin setting the GCPs and shooting the center of targets with survey
+
+                           GPS.
+                  c. While setting out the GCPs, the secondary crew member is also making
+
+                           sure area is clear of all people.
+
+         8. The PIC double checks that the take-off area is clear.
+         9. The PIC takes off flying to the approximate survey altitude.
+
+         10. The PIC instructs secondary crew member to initiate the preprogrammed flight
+                  path.
+
+         11. The secondary crew verifies that the Ground Station has a good connection and is
+                  tracking the sUAS.
+
+         12. The secondary crew then turns on the camera to take pictures at a continuous
+                  interval.
+
+         13. During the entire preprogrammed flight, the PIC and VO always have VLOS and
+                  the PIC is prepared to take over flight operations as needed to ensure safe
+                  operations.
+
+         14. The PIC's Ground Station has a flight battery monitor which is set to a minimum
+                  of 30% battery reserve. The timer begins from the point the throttle is moved out
+                  of its start position.
+
+         15. During flight, a secondary crew member vigilantly monitors the Ground Station
+                  data (voltage, forward velocity, altitude, and estimated remaining time to
+                  complete the mission) and relays any sudden changes or alerts to the PIC.
+
+         16. As the mission completes, the PIC informs the secondary crew he is taking back
+                  over control.
+
+         17. The secondary crew turns off the camera.
+
+         18. The PIC begins to land the sUAS.
+
+13
+         19. After safely landing, the PIC immediately goes and unplugs the main power. He
+                  then checks the pictures to verify if the pictures are good and the mission was
+                  successful.
+
+         20. If successful, the secondary crew leaves to go pick up GCPs.
+
+         21. The PIC checks battery voltage and records in battery log.
+
+         22. The PIC records flight time in Flight Log.
+
+         23. The PIC turns off Ground Control and camera.
+
+         24. The PIC looks over airframe to see if any damage or loose connections resulted
+                  from the flight, and records any findings.
+
+         25. The PIC begins to pack all equipment up for safe transport.
+
+VI. The Phantom 2 Vision sUAS Equivalent Level of Safety
+
+         CEC proposes that the exemptions requested herein apply to civil aircraft that have the
+characteristics and that operate within the limitations listed herein. These limitations provide for
+at least an equivalent or higher level of safety to operations under the current regulatory
+structure.
+
+         The limitations and conditions to which CEC agrees to be bound when conducting
+commercial operations under an FAA issued exemption include:
+
+    1. The sUAS will not be flown at night and will be operated under visual meteorological
+         conditions ("VMC") or where visibility is at least 3 statute miles from PIC. The use of
+         first person view ("FPV") by the PIC or visual observer ("VO") is not permitted.
+
+    2. Flights will be operated at an altitude of no more than 400 feet AGL, with the majority of
+         flights anticipated to be operated at no more than 270 feet AGL.
+
+    3. The sUAS will not be flown at an airspeed exceeding 30 knots.
+
+    4. The sUAS will weigh less than 6 lbs.
+
+    5. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+         weather conditions) there is enough power to fly at normal cruising speed to the intended
+         landing point and land the sUAS with 30% battery power remaining.
+
+    6. The sUAS must be operated within VLOS of the PIC at all times. This requires the PIC to
+         be able to use human vision unaided by any device other than corrective lenses, as
+         specified on the PIC's FAA-issued airman medical certificate.
+
+    7. All operations must utilize a VO. The VO may be used to satisfy the VLOS requirement
+         as long as the PIC always maintains VLOS capability. The VO and PIC must be able to
+         communicate verbally at all times. Electronic messaging or texting is not permitted
+         during flight operations. The PIC must be designated before the flight and cannot transfer
+         his or her designation for the duration of the flight. The PIC must ensure that the VO can
+         perform the functions prescribed in the operating documents.
+
+    8. The operating documents and the grant of exemption will be accessible during sUAS
+         operations and made available to the Administrator upon request. If a discrepancy exists
+         between the conditions and limitations contained in the grant of exemption and the
+
+14
+         procedures outlined in the operating documents, the conditions and limitations contained
+         in the grant of exemption take precedence and must be followed. Otherwise, the operator
+         must follow the procedures as outlined in its operating documents. The operator may
+         update or revise its operating documents. It is the operator's responsibility to track such
+         revisions and present updated and revised documents to the Administrator upon request.
+         The operator must also present updated and revised documents if it petitions for
+         extension or amendment to the grant of exemption. If the operator determines that any
+         update or revision would affect the basis upon which the FAA granted the exemption,
+         then the operator must petition for amendment to the grant of exemption. The FAA's UAS
+         Integration Office (AFS-80) may be contacted if questions arise regarding updates or
+         revisions to the operating documents.
+
+    9. A briefing will be conducted in regard to the planned sUAS operations prior to each day's
+         activities. It will be mandatory that all personnel who will be performing duties in
+         connection with the operations be present for this briefing.
+
+    10. The operator will file any necessary paperwork in light of the exemptions with the
+         appropriate Flight Standards District Office ("FSDO").
+
+    11. Prior to each flight the PIC must inspect the sUAS to ensure it is in a condition for safe
+         flight. If the inspection reveals a condition that affects the safe operation of the sUAS, the
+         aircraft is prohibited from operating until the necessary maintenance has been performed
+         and the sUAS is found to be in a condition for safe flight. The Ground Control Station
+         must be included in the preflight inspection. All maintenance and alterations must be
+         properly documented in the aircraft records.
+
+    12. Any sUAS that has undergone maintenance or alterations that affect the sUAS operation
+         or flight characteristics, e.g. replacement of a flight critical component, must undergo a
+         functional test flight. The PIC who conducts the functional test flight must make an entry
+         in the aircraft records.
+
+    13. The pre-flight inspection must account for all potential discrepancies, e.g. inoperable
+         components, items, or equipment, not already covered in the relevant sections of the
+         operating documents.
+
+    14. The operator must follow the sUAS manufacturer's aircraft/component, maintenance,
+         overhaul, replacement, inspection, and life limit requirements.
+
+    15. The operator must carry out its maintenance, inspections, and record keeping
+         requirements, in accordance with the operating documents. Maintenance, inspection,
+         alterations, and status of replacement/overhaul component parts must be noted in the
+         aircraft records, including total time in service, description of work accomplished, and
+         the signature of the authorized person returning the sUAS to service.
+
+    16. Each sUAS operated under this exemption must comply with all Manufacturer Safety
+         Bulletins.
+
+    17. The authorized person must make an entry in the aircraft record of the corrective action
+         taken against discrepancies discovered between inspections.
+
+    18. The sUAS will have redundancies and an independent flight termination system (FTS)
+         that can be activated manually by the PIC to ensure the overall safety and predictability
+
+15
+         of the sUAS.
+
+    19. In the event of a loss of communications or signal, the sUAS is programmed to return to
+         its home base.
+
+    20. The sUAS will have the capability to abort a flight in case of unexpected obstacles or
+         emergencies.
+
+    21. If the sUAS and its controller disconnects during flight, the system's failsafe protection
+         will come to the rescue and the sUAS will return to home and land automatically, rather
+         than flying off uncontrollably or landing at an unknown location.
+
+    22. If the sUAS crosses a geo-fence guarding the 500ft perimeter from the public, it will
+         return to home and land automatically.
+
+    23. The sUAS will only be flown (i) in rural areas, away from any urban or congested
+         locations, (ii) on secured private property with restricted public access, (iii) in areas
+         located more than 5 miles away from any airport, (iv) in Class G Airspace, and (v) in
+         such locations where the property owner has approved the contemplated sUAS
+         operations.
+
+    24. The PIC, VO, and any additional crew members will comply with any additional safety
+         regulations and protocols as may be required by each project site.
+
+    25. CEC will communicate information about specific operations with Air Traffic Control
+         (ATC) nearest to the project site.
+
+    26. CEC will submit a precise description of proposed sUAS operations (Plan of Activities)
+         to the local Flight Services District Office (FSDO) within 3 days prior to the sUAS
+         operations.
+
+    27. CEC will obtain an Air Traffic Organization (ATO) Certificate of Authorization or Waiver
+         (COA) prior to any operations under the grant of exemption. This COA will also require
+         the operator to request a Notice to Airmen (NOTAM) not more than 72 hours in advance,
+         but not less than 48 hours prior to the operation.
+
+    28. All aircraft operated in accordance with the exemption must be identified by serial
+         number, registered in accordance with 14 C.F.R. part 47, and have identification (N-
+         Number) markings in accordance with 14 C.F.R. part 45, Subpart C. Markings must be as
+         large as practicable.
+
+    29. Before conducting operations, the radio frequency spectrum used for operation and
+         control of the sUAS must comply with the Federal Communications Commission (FCC)
+         or other appropriate government oversight agency requirements.
+
+    30. The documents required under 14 C.F.R. 91.9 and 91.203 must be available to the PIC at
+         the Ground Control Station of the sUAS any time the sUAS is operating. These
+         documents must be made available to the Administrator or any law enforcement official
+         upon request.
+
+    31. The sUAS must remain clear and yield the right of way to all manned aviation operations
+         and activities at all times.
+
+    32. Written and/or oral permission from the relevant property holders will be obtained.
+
+16
+    33. All required permissions and permits will be obtained from territorial, state, county or
+         city jurisdictions, including local law enforcement, fire, or other appropriate
+         governmental agencies.
+
+    34. Any incident, accident, or flight operation that transgresses the lateral or vertical
+         boundaries of the operational area as defined by the applicable COA must be reported to
+         the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be reported
+         to the National Transportation Safety Board ("NTSB") per instructions contained on the
+         NTSB Web site: www.ntsb.gov.
+
+         Satisfaction of the criteria provided in Section 333 of the Reform Act of 2012--size,
+weight, speed, operating capabilities, proximity to airports and populated areas, and operation
+within visual line of sight and national security--provide more than adequate justification for the
+grant of the requested exemption allowing commercial operation of the sUAS to support the civil
+engineering industry pursuant to the rules of operation described herein.
+
+         Additional information concerning the sUAS operational procedures, which include the
+sign-in sheet, preflight procedures, maintenance and operations manual, and operating checklist,
+are attached to this Petition as Exhibit B (CONFIDENTIAL Supplement), which CEC requests
+not to be made public.
+
+VII. Privacy
+
+         There is little risk that the proposed use of the Phantom 2 Vision sUAS will result in any
+privacy violations because all flights will occur over private or controlled access property with
+the property owner's prior consent and knowledge. In addition, similar to the manned aerial
+acquisition flight operations that have been conducted for decades, CEC's proposed operation of
+the Phantom 2 Vision sUAS will not implicate any privacy issues. Specifically, the Phantom 2
+Vision sUAS will only be operated pursuant to the specific conditions and limitations set forth
+herein, and in accordance with the Federal Aviation Regulations, including the minimum altitude
+requirements of 14 C.F.R. § 91.119. Most significantly, the Phantom 2 Vision sUAS will not be
+operated closer than 500 feet to any person, vessel, vehicle, or structure, which is not directly
+involved in the operation.
+
+VIII. Public Interest and Safety
+
+         The civil engineering industry routinely utilizes workers on the ground to monitor, take
+photos, and conduct surveys of project sites. Project sites in the oil and gas, mining, excavation,
+and construction industries are known to be unsafe. Hazards at these sites include (1) exposure to
+dangerous chemicals, (2) unsafe ground conditions due to uneven terrain, debris, construction
+materials, and heavy equipment that lead to on-site injuries, and (3) extreme temperatures which
+can lead to related illness and injury.
+
+         Use of the Phantom 2 Vision sUAS will increase ground safety by reducing ground
+surveying and the hazards associated therewith. By flying the sUAS over the project sites, rather
+than putting workers on the ground, the hazards stemming from these conditions will be
+removed.
+
+         The use of the sUAS for these purposes will achieve significant economic efficiencies as
+well. By operating a sUAS, CEC can reduce the time required for aerial acquisition and
+therefore, provide greater job stability to employees, reduce costs to our clients, all of which will
+ultimately contribute to growth of the U.S. economy. Improved financial performance through
+
+17
+the commercial use of sUAS will help provide a stable workforce that increases consumer
+spending; improves local, state, and federal tax revenues; and allows companies to invest in
+research and development in order to remain competitive. Finally, inspections and monitoring
+of project sites by the sUAS will help project site owners identify dangerous conditions, and may
+prevent serious injury to employees and other on-site and near-site personnel.
+
+         For all these reasons, the sUAS operations contemplated by CEC achieve a level of safety
+equal to or greater than that which would be achieved by flying a much larger manned aircraft
+carrying crew and flammable fuel for the same purposes.
+
+IX. Exemptions Requested under Section 333
+
+         CEC requests that an exemption be granted from the following regulations:
+
+    A. 14 CFR Part 21
+    B. 14 CFR 43.7
+    C. 14 CFR 43.11
+    D. 14 CFR 45.11
+    E. 14 CFR 45.21
+    F. 14 CFR 45.23(b)
+    G. 14 CFR 45.27
+    H. 14 CFR 45.29
+    I. 14 CFR 61.113(a) & (b)
+    J. 14 CFR 67
+    K. 14 CFR 91.7(a)
+    L. 14 CFR 91.9(b)(2)
+    M. 14 CFR 91.9(c)
+    N. 14 CFR 91.103(b)
+    O. 14 CFR 91.109
+    P. 14 CFR 91.119
+    Q. 14 CFR 91.121
+    R. 14 CFR 91.151(a)
+    S. 14 CFR 91.203(a) & (b)
+    T. 14 CFR 91.405(a), 91.407(a)(1), 91.409(a)(2), and 91.417(a) & (b)
+
+         The regulations and the basis for an exemption are set forth as follows.
+
+         A. 14 CFR Part 21 Certification Procedures for Products and Parts--prescribes the
+             procedural requirements for issuing and changing design approvals, production
+             approvals, airworthiness certificates, and airworthiness approvals.
+
+         CEC requests an exemption from 14 CFR Part 21 to the extent applicable. This
+exemption meets the requirement for an equivalent level of safety pursuant to Section 333 based
+on the small size, light weight, relatively slow speed, safety and fail-safe system specifications of
+the Phantom 2 Vision sUAS, and its use in controlled rural environments on private land with
+restricted public access, as described previously in this Petition. Moreover, the Phantom 2 Vision
+sUAS carries no fuel and is therefore not at risk of fuel spillage and fire in the event of an
+accident.
+
+18
+         If the exemption is granted, and an airworthiness certificate is not required, noise
+certification and testing also will not be required. See FAA, Public Guidance for Petitions for
+Exemption Filed Under Section 333 (September 25, 2014), at 4. In any event, the Phantom 2
+Vision sUAS is a small, battery powered system designed to emit very little noise.
+
+         Notwithstanding the foregoing, the FAA has previously determined that relief under Part
+21 is not necessary for petitioners who have presented facts substantially similar to those
+presented by CEC. (See Exemption Nos. 11109, 11114, 11062, 11136, 11138, referenced in
+Section I, above).
+
+         B. 14 CFR 43.7 Persons authorized to approve aircraft, airframes, aircraft engines,
+             propellers, appliances, or component parts for return to service after
+             maintenance, preventive maintenance, rebuilding, or alteration--provides that
+             the holder of a mechanic certificate or a repair station certificate may approve an
+             aircraft, airframe, aircraft engine, propeller, appliance, or component part for return to
+             service.
+
+         CEC requests an exemption from 14 CFR 43.7. The Phantom 2 Vision sUAS is
+comprised of parts and components that are no different from a model aircraft, and the
+contemplated operators of the Phantom 2 Vision sUAS, who will maintain and when necessary
+repair the sUAS, have engineering degrees. The operators will conduct inspections and
+maintenance based on maintenance guidelines, attached for reference as Exhibit B. The
+capabilities of these operators to maintain and repair the Phantom 2 Vision sUAS will meet the
+requirements for an equivalent level of safety pursuant to Section 333 for the type of sUAS, its
+intended use, and the intended operating environment and locations.
+
+         C. 14 CFR 43.11 Content, form, and disposition of records for inspections
+             conducted under parts 91 and 125--provides, in pertinent part, that maintenance
+             record entries be maintained and a record for the listing of discrepancies and placards
+             by inspectors be maintained.
+
+         CEC requests an exemption from 14 CFR 43.11. The Phantom 2 Vision sUAS central
+frame is less than six (6) inches high. There is no room on the sUAS to store or display placards
+or records. Additionally, no inspections for the Phantom 2 Vision sUAS have been conducted or
+certified by FAA at the present time. However, as a condition to the approval of exemption, CEC
+will keep log books of all maintenance and repairs, and such log books will be available at each
+project site during the sUAS operations.
+
+         D. 14 CFR 45.11 Marking of Products--prescribes, in pertinent part, that the
+             manufacturers of aircraft, engines and propellers mark such aircraft, engines, or
+             propellers with an approved fireproof identification plate.
+
+         CEC requests an exemption from 14 CFR 45.11. The Phantom 2 Vision sUAS, due to its
+small size, does not have room for fireproof identification plates to be placed in it. Any required
+fireproof identification plates could become hazardous due to the additional weight and strain
+placed on the sUAS.
+
+         E. 14 CFR 45.21 General--prescribes, in pertinent part, that no person may operate a
+             U.S.-registered aircraft unless that aircraft displays nationality and registration marks
+
+19
+             in accordance with the requirements of this section and §§45.23 through 45.33.
+
+         CEC requests an exemption from 14 CFR 45.21. To date, no requirements or procedures
+for obtaining a registration mark for a sUAS have been established by the FAA. However, as a
+condition to the approval of exemption, CEC is willing to be assigned a registration number and
+to display it to the extent practicable.
+
+         F. 14 CFR 45.23(b) Display of Marks; general--prescribes, in pertinent part, that
+             when marks include only the Roman capital letter "N" and the registration number is
+             displayed on limited, restricted, or 2 light-sport category aircraft or experimental or
+             provisionally certificated aircraft, the operator must also display on that aircraft near
+             each entrance to the cabin, cockpit, or pilot station, in letters not less than 2 inches
+             nor more than 6 inches high, the words "limited," "restricted," "light-sport,"
+             "experimental," or "provisional," as applicable.
+
+         CEC requests an exemption from 14 CFR 45.23(b), to the extent applicable. The
+Phantom 2 Vision sUAS center airframe is less than 6" in height. Due to its small size, the
+Phantom 2 Vision sUAS does not have room to display aircraft marks in a conventional size.
+However, as a condition to the approval of exemption, CEC is willing to affix an aircraft mark to
+one or more of the "arms" of the Phantom 2 Vision sUAS mainframe. The size of the marking
+will be determined by the size of the "arm" being used and may be less than 1 inch in size.
+
+         The word "Experimental" will be placed on the center frame of the Phantom 2 Vision
+sUAS in compliance with §45.29(f). However, a partial exemption from this display regulation is
+requested as the sUAS will have no entrance to the cabin, cockpit or pilot station on which the
+word "Experimental" can be placed. Given the size of the sUAS, two-inch lettering will be
+impossible.
+
+         The equivalent level of safety will be provided by having the Phantom 2 Vision sUAS
+marked on its center frame as required by §45.29 (f), where the PIC, observer and others
+working with the sUAS will see the identification of the sUAS as "Experimental." The requested
+exemption is consistent with previous exemptions issued by the FAA--the FAA has previously
+determined that relief under 14 CFR 45.23(b) is not necessary for petitioners who have facts
+substantially similar to those presented by CEC. (See Exemption Nos. 11109, 11114, 11062,
+11136, 11138, referenced in Section I, above).
+
+         G. 14 C.F.R. 45.27 Location of Marks; nonfixed-wing aircraft--prescribes, in
+             pertinent part, that each operator of a rotorcraft must display on that rotorcraft
+             horizontally on both surfaces of the cabin, fuselage, boom, or tail the marks required
+             by §45.23.
+
+         CEC requests an exemption from 14 C.F.R. 45.27. The Phantom 2 Vision sUAS does not
+have a cabin, fuselage, boom or tail to display the marks as required by §45.23. CEC will ensure
+that marks are placed, to the extent practicable, on one of the "arms" of the main frame of the
+sUAS.
+
+         H. 14 C.F.R. 45.29: Size of Marks--prescribes, in pertinent part, that the registration
+             marks for rotorcraft must be at least 12 inches high.
+
+20
+         CEC requests an exemption from 14 CFR 45.29. The Phantom 2 Vision sUAS, due to its
+small size, does not have any surface area large enough to display marks that are 12 inches high.
+As a condition to the approval of exemption, however, CEC is willing to affix an aircraft mark to
+one or more of the "arms" of the main frame of the sUAS. The size of the marking will be
+determined by the size of the "arm" being used and may be less than 1 inch in size.
+
+         I. 14 CFR 61.113(a) and (b) Private pilot privileges and limitations: Pilot in
+             command--prescribe that (a) No person who holds a private pilot certificate may act
+             as a pilot in command (PIC) of an aircraft that is carrying passengers or property for
+             compensation or hire; nor may that person, for compensation or hire, act as the PIC of
+             an aircraft; (b) A private pilot may, for compensation or hire, act as PIC of an aircraft
+             in connection with any business or employment if (1) the flight is only incidental to
+             that business or employment; and (2) the aircraft does not carry passengers or
+             property for compensation or hire.
+
+         CEC requests an exemption from 14 C.F.R. 61.113. Under § 61.113 (a) and (b) private
+pilots are limited to noncommercial operations. However, the CEC PIC can achieve an
+equivalent level of safety as achieved by current regulations because the Phantom 2 Vision sUAS
+does not carry any pilots or passengers. Furthermore, a pilot license does not ensure adequate
+remote control piloting skills; only RC operating experience can establish such skills.
+
+         For conducting safe sUAS operations, it is more important that the PIC of the sUAS be
+experienced, particularly with the sUAS at issue, than for the PIC to have a pilot's license. The
+PICs operating under this exemption will be experienced. The CEC PIC has flown numerous
+practice flights in remote areas as a hobbyist simulating flights for future commercial use to gain
+familiarization with the characteristics of the sUAS performance under different temperature and
+weather conditions. The CEC PIC also practices computerized simulated flights to maintain
+adequate skills and response reflex time. Finally, the CEC PIC has two (2) years of recreational
+sUAS flight experience and a deep knowledge of sUAS systems, and, therefore, meets or
+exceeds the present level of safety envisioned under this Section.
+
+         Model aircraft, RC planes, and even certain unmanned military systems are routinely
+flown, successfully and safely, by hobbyists or personnel who do not have a private or
+commercial license. Research into this area has shown that the skill set needed to successfully
+and safely operate the UAS is very different from the set of skills needed by a pilot of manned
+aircraft. In fact, research has shown that a manned aircraft pilot is not equipped, merely by virtue
+of his obtaining pilot certification, to fly or operate a remote-controlled unmanned aircraft safely.
+In fact, in some cases a manned aircraft pilot's training may be counterproductive when
+operating unmanned aircraft.1
+
+1 Examples of this research can be found in (1) Michael J. Barnes, Beverly G. Knapp, Barry W. Tillman,
+Brett A. Walters & Darlene Veliki, Crew Systems Analysis of Unmanned Aerial Vehicle (UAV) Future Job
+and Tasking Environments, Technical Report ARL- TR-2081, Aberdeen Proving Ground, MD: Army
+Research Laboratory, page 12 (2000); (2) Kevin W. Williams, Unmanned Aircraft Pilot Medical
+Certification Requirements, Report DOT/FAA/AM-07/3, FAA Civil Aerospace Medical Institute, page 2,
+(2007), available at http://fas.org/irp/program/collect/ua-pilot.pdf; and (3) Jason S. McCarley &
+Christopher D. Wickens, Human Factors Implications of UAVs in the National Airspace, Institute of
+
+21
+         CEC recognizes that the FAA, in addressing other Section 333 exemption requests, has
+made it clear that it does not have the requisite authority to exempt a petitioner from the statutory
+requirement to hold an airman certificate under 49 USC § 44711, and has found that a pilot
+certificate would ensure that a PIC passes the security screening of the Department of Homeland
+Security. In April 2015, however, the FAA relaxed its position and changed the Section 333
+exemption request process to allow PICs with sport or recreational pilot licenses to conduct
+sUAS operations such as those contemplated by CEC. The FAA also eliminated the need for a
+PIC to hold a third class medical certificate.
+
+         If the FAA is unwilling to grant CEC's request for a full exemption from 14 C.F.R.
+61.113, CEC asks that the FAA grant it the same relief that it has granted to other petitioners who
+presented substantially similar facts to those of CEC. See Exemption Nos. 11109, 11114, 11062,
+11136, 11138, referenced in Section I, above, and the FAA's recently publicized changes to the
+Section 333 Exemption request process. For example, in the Trudeau Exemption, the FAA
+required the PIC to obtain at minimum, a private pilot license and outlined a training program to
+substantiate the PICs experience. CEC has already adopted the same training program. If
+necessary, CEC will require that its PIC obtains a commercial or sport pilot license. In fact, the
+CEC PIC is already in the process of obtaining such a license.
+
+         J. 14 CFR Part 67 Medical Standards and Certification--gives the FAA the
+             authority to issue the necessary medical standards and certifications for pilots. FAA
+             Notice 8900.227, paragraph 16.c.(4) PIC Medical, states, in pertinent part, that the
+             PIC must maintain, at a minimum, a valid FAA second-class medical certificate
+             issued under 14 CFR Part 67, Medical Standards and Certification, or the FAA-
+             recognized equivalent. Paragraph 16.e.(1) of the same Notice requires, in pertinent
+             part, that all observers must have a valid FAA second-class medical certificate issued
+             under part 67; an FAA-recognized equivalent is an acceptable means of
+             demonstrating compliance with this requirement. The FAA notes that the notice
+             referenced above is now incorporated into FAA Order 8900.1, vol. 16, ch. 4., sec. 1.
+
+         CEC requests an exemption from FAA Notice 8900.227, paragraph 16.c.(4) and 16.e.(1)
+which requires that a PIC require a valid FAA second-class medical certificate under 14 CFR 67.
+CEC's currently contemplated PIC does not currently hold a valid FAA medical certificate. CEC
+respectfully submits that a second-class medical certificate is unwarranted in this instance
+because (i) the sUAS is no different a model aircraft, weighs less than 6 lbs. including payload,
+and will not carry any pilot or passengers, (ii) the area of operation is controlled and restricted,
+and (iii) all flights will be planned and coordinated in advance with an auto-pilot feature and fail-
+safe programs to account for user error. There is little chance that the medical condition of the
+PIC will affect the Phantom 2 Vision sUAS operations in any unsafe or damaging way.
+
+Aviation, Aviation Human Factors Division, University of Illinois at Urbana-Champaign, 13 (2004),
+available at http://www.tc.faa.gov/logistics/grants/pdf/2004/04-G-032.pdf, citing Barnes, supra.
+
+22
+         In light of the FAA's recent decision to allow PICs to operate sUAS with only a driver's
+license and without a third class medical certificate, CEC asks that the FAA grant it the same
+relief from FAA Notice 8900.227, paragraph 16.c.(4) and 16.e.(1), that it has granted to other
+petitioners who presented substantially similar facts to that of CEC.
+
+         K. 14 CFR 91.7(a) Civil aircraft airworthiness--prescribes that no person may
+             operate a civil aircraft unless it is in an airworthy condition.
+
+         CEC requests an exemption from 14 CFR 91.7(a). Currently there is no standard for
+determining the airworthiness of an sUAS, and no airworthiness certificate can be issued for the
+Phantom 2 Vision sUAS should this exemption be granted.
+
+         An equivalent level of safety is met, given the size, weight, and performance
+specifications of the Phantom 2 Vision sUAS, as well as the requirements contained in the flight
+operations described above, including the maintenance procedures and use of safety check lists
+prior to each flight that have been submitted as Exhibit B.
+
+         L. 14 CFR. 91.9(b)(2) Civil aircraft flight manual, marking, and placard
+             requirements--prescribes, in pertinent part, that no person may operate U.S.-
+             registered civil aircraft unless there is available in the aircraft a current approved
+             Airplane or Rotorcraft Flight Manual, approved manual material, markings, and
+             placards, or any combination thereof. Approvals are granted under 14 CFR 91.203 (a)
+             and (b).
+
+         CEC requests an exemption from 14 CFR 91.9(b)(2). First, there is currently no approval
+process for Airplane or Rotorcraft Flight Manuals. Second, the FAA has previously determined
+that relief from this section is not required, provided that relevant materials are kept in a location
+accessible to the PIC in compliance with the regulations. See the Trudeau Exemption at pg. 17.
+CEC has provided a flight operations manual and relevant materials for use during the sUAS
+operations, which it requires to be readily accessible to the PIC and VO during all sUAS
+operations.
+
+         M. 14 C.F.R. 91.9(c) Civil aircraft flight manual, marking, and placard
+             requirements--prescribes that "(c) No person may operate a U.S.-registered civil
+             aircraft unless that aircraft is identified in accordance with part 45 of this chapter."
+
+         CEC requests an exemption from 14 CFR 91.9(c). As previously stated, there is no
+current registration process for sUAS; and the Phantom 2 Vision sUAS, due to its small size,
+does not have room to contain fireproof placard or to display aircraft marks in a conventional
+size. However, as a condition to the approval of petition, CEC is willing to affix an aircraft mark
+to one or more of the "arms" of the sUAS. The size of the marking will be determined by the size
+of the "arm" being used and may be less than 1 inch in size.
+
+         N. 14 CFR 91.103(b)(2) Preflight action--prescribes that each PIC shall, before
+             beginning a flight, become familiar with all available information concerning that
+             flight. This information must include... (b) For any flight, runway lengths at airports
+             of intended use, and the following takeoff and landing distance information: (1) For
+             civil aircraft for which an approved Airplane or Rotorcraft Flight Manual containing
+             takeoff and landing distance data is required, the takeoff and landing distance data
+             contained therein; and (2) For civil aircraft other than those specified in paragraph
+
+23
+             (b)(1) of this section, other reliable information appropriate to the aircraft, relating to
+             aircraft performance under expected values of airport elevation and runway slope,
+             aircraft gross weight, and wind and temperature.
+
+         CEC requests an exemption from 14 CFR 91.103(b)(2). Currently, there is no approval
+process for Airplane or Rotorcraft Flight Manuals. However, the CEC PIC will, prior to
+conducting any sUAS operations, become familiar with all available information concerning that
+flight. Such actions, described at length in this Petition, will include reviewing weather
+conditions and visibility, flight battery life, landing and takeoff distances, and all other aircraft
+performance data prior to any sUAS operations. The flights of the Phantom 2 Vision sUAS will
+only be conducted at APS, with the PIC and VO having extensive knowledge of the operating
+environment.
+
+         O. 14 CFR 91.109 Flight instruction; Simulated instrument flight and certain flight
+             tests--prescribes, in pertinent part, that no person may operate a civil aircraft (except
+             a manned free balloon) that is being used for flight instruction unless that aircraft has
+             fully functioning dual controls.
+
+         CEC requests an exemption from 14 CFR 91.109. Remotely piloted aircraft, including
+the Phantom 2 Vision sUAS, are designed and constructed without dual controls. Flight control
+will be accomplished through the use of a control box that communicates with the aircraft via
+radio communications. The equivalent level of safety is provided by the limited size and speed of
+the aircraft and by the fact that neither a pilot nor passengers will be carried in the aircraft.
+Moreover, the Phantom 2 Vision sUAS has a control system with a mix mode feature that allows
+for intermittent manual override of the autopilot control to achieve maximum safety and
+controlled operation of the Phantom 2 Vision sUAS.
+
+         P. 14 CFR 91.119 Minimum safe altitudes: General--prescribes that, except when
+             necessary for takeoff or landing, no person may operate an aircraft below the
+             following altitudes: (a) Anywhere. An altitude allowing, if a power unit fails, an
+             emergency landing without undue hazard to persons or property on the surface. (b)
+             Over congested areas. Over any congested area of a city, town, or settlement, or over
+             any open-air assembly of persons, an altitude of 1,000 feet above the highest obstacle
+             within a horizontal radius of 2,000 feet of the aircraft. (c) Over other than congested
+             areas. An altitude of 500 feet above the surface, except over open water or sparsely
+             populated areas. In those cases, the aircraft may not be operated closer than 500 feet
+             to any person, vessel, vehicle, or structure. (d) Helicopters, powered parachutes, and
+             weight-shift-control aircraft. If the operation is conducted without hazard to persons
+             or property on the surface ... (1) A helicopter may be operated at less than the
+             minimums prescribed in paragraph (b) or paragraph (c) of this section, provided each
+             person operating the helicopter complies with any routes or altitudes specifically
+             prescribed for helicopters by the FAA; and (2) A powered parachute or weight-shift-
+             control aircraft may be operated at less than the minimums prescribed in paragraph
+             (c) of this section.
+
+         CEC requests an exemption from 14 CFR 91.119. CEC will not operate the Phantom 2
+Vision sUAS at an altitude higher than 400 feet AGL. Furthermore, while CEC will not be
+operating over any congested areas, the sUAS will necessarily be flown within 500 feet of the
+
+24
+structures it will be examining.
+
+         The requirements set out in this petition for the sUAS operations contemplated by CEC
+provide for an equal or greater level of safety than that which would be provided by the
+operation of manned aircraft maintaining a distance of at least "500 feet to any person, vessel,
+vehicle, or structure," in light of the small size and relatively light weight of the sUAS, the close
+monitoring of the flight by both the pilot in command and the secondary ground crew member,
+the remote and secured nature of the operating environment, and the other detailed operating
+limitations described in this Petition.
+
+         Q. 14 CFR 91.121 Altimeter settings--prescribes, in pertinent part, each person
+             operating an aircraft to maintain cruising altitude by reference to an altimeter that is
+             set "to the elevation of the departure airport or an appropriate altimeter setting
+             available before departure."
+
+         CEC requests an exemption from 14 CFR 91.121. CEC will not operate the Phantom 2
+Vision sUAS above 400 feet AGL, nor will it operate the Phantom 2 Vision sUAS at a sustained
+cruising altitude like a manned aircraft. The laptop used in the ground station has live feedback
+information about the sUAS operation, including but not limited to, the altitude of the sUAS, its
+forward velocity, and the compass heading. The PIC will be able to observe and control the
+maximum altitude of the sUAS at all times. Additionally, the sUAS will be operated within the
+line of sight. For all these reasons, an equivalent level of safety to that contemplated by Section
+91.121 will be provided.
+
+         R. 14 CFR 91.151(a) Fuel requirements for flight in VFR conditions--prescribes that
+             no person may begin a flight in an airplane under visual flight rules (VFR) conditions
+             unless (considering wind and forecast weather conditions) there is enough fuel to fly
+             to the first point of intended landing and, assuming normal cruising speed ... (1)
+             During the day, to fly after that for at least 30 minutes; or (2) At night, to fly after that
+             for at least 45 minutes.
+
+         CEC requests an exemption from 14 CFR Part 91.151(a). The Phantom 2 Vision sUAS
+will be operated in a manner that is at least as safe as the operation of a manned aircraft
+complying with Part 91.151(a) because the sUAS will only be flown in daylight, and the short
+distances over which the sUAS will be operated (substantially less than one mile) will allow the
+sUAS to be flown to a safe landing point within the area of operation in a short period of time.
+
+         During the entire pre-programmed flight, the PIC will always have a visual line of sight
+and be prepared to take over. The PIC's Ground Station has a flight count down timer which is
+set to a minimum of 30% battery reserve; more than enough to safely fly the sUAS back to the
+roped off "home" area.
+
+         Given the limited size and speed of the sUAS, its ability to land safely almost anywhere,
+the fact that it will be under the PIC and VO's visual observation at all times, and will be
+operated in a tightly controlled area, where all people other than the PIC and VO will be
+removed before flight, permitting its operation with less than 30 minutes of reserve fuel does not
+engender the type of risks that Section 91.151(a) was intended to alleviate.
+
+         S. 14 CFR 91.203(a) and (b) Civil aircraft: Certifications required--. Section
+             91.203(a) prescribes, in pertinent part, that no person may operate a civil aircraft
+
+25
+             unless it has within it--(1) An appropriate and current airworthiness certificate; and
+             (2) An effective U.S. registration certificate issued to its owner or, for operation
+             within the United States, the second copy of the Aircraft Registration Application as
+             provided for in § 47.31(c). Section 91.203(b) prescribes, in pertinent part, that no
+             person may operate a civil aircraft unless the airworthiness certificate or a special
+             flight authorization issued under § 91.715 is displayed at the cabin or cockpit entrance
+             so that it is legible to passengers or crew.
+
+         CEC requests an exemption from 14 CFR 91.203(a) and (b). First, there currently are no
+procedures set forth by the FAA for providing airworthiness certificates for sUAS. As a condition
+to the approval of exemption, however, CEC will display on the sUAS a registration certificate
+or equivalent that is issued by FAA pursuant to this petition at the ground point control, where
+the operator will have immediate access to it.
+
+         Second, the sUAS that CEC will use weighs less than 6 pounds, and has an equivalent, if
+not greater, level of safety as manned aircraft with an airworthiness certificate. The flight
+controller and Ground Station software provides a number of safety features in addition to acting
+as the command and sUAS controller.. Because of the use of GPS with the sUAS, the operator
+will set the initial location of flight takeoff ("Home Position") and if the radio control link is
+broken, the flight controller will recognize this broken control link and cause the sUAS to
+automatically return to the Home Position as recorded by the GPS instrumentation. Additionally,
+because the sUAS team will mark off an area with traffic cones having a 20-ft. radius,
+approximately 30 ft. from the operators as the "Home Position" for the sUAS to return, no one
+will be standing in its path. See Exhibits A and B.
+
+         In the restricted environment and under the conditions proposed, operation of the sUAS
+will be at least as safe as a conventional aircraft (fixed wing or rotorcraft) operating with an
+airworthiness certificate, but without the restrictions and conditions proposed by CEC. CEC will
+not accept assignments from clients who are within 5 miles of controlled airspace without first
+gaining written and/or oral permission from air traffic control (ATC).
+
+         The Phantom 2 Vision sUAS to be operated hereunder is less than 6 pounds inclusive of
+batteries and technical payload, carries neither a pilot nor passengers, and carries no explosive
+materials or flammable liquid fuels. The Phantom 2 Vision sUAS will be tightly controlled and
+monitored by the PIC and VO, and under the requirements and in compliance with local public
+safety requirements, to provide security for the area of operation. The FAA will have advance
+notice of all operations. These safety enhancements provide a greater degree of safety to the
+public and property owners than conventional operations conducted with airworthiness
+certificates. Lastly, application of these same criteria demonstrates that there is no credible threat
+to national security posed by the Phantom 2 Vision sUAS, due to its size, speed of operation,
+location of operation, lack of explosive materials or flammable liquid fuels, and inability to carry
+a substantial payload.
+
+         T. 14 CFR 91.405(a) Maintenance Required, 91.407(a)(1) Operation after
+             maintenance, preventive maintenance, rebuilding, or alteration, 91.409(a)(2)
+             Inspections, 91.-417(a) and (b) Maintenance Records--Section 91.405(a)
+             prescribes, in pertinent part, that each aircraft operator or owner shall have that
+             aircraft inspected as prescribed in subpart E of this part and shall, between required
+             inspections, except as provided in paragraph (c) of this section, have discrepancies
+
+26
+             repaired as prescribed in part 43, Maintenance, Preventive, Maintenance, Rebuilding,
+             and Alteration. Section 91.407(a)(1) prescribes that no person may operate any
+             aircraft that has undergone maintenance, preventive maintenance, rebuilding, or
+             alteration unless it has been approved for return to service by a person authorized
+             under § 43.7 of this chapter. Section 91.409(a)(2) prescribes, in pertinent part, that no
+             person may operate an aircraft unless, within the preceding 12 calendar months, it has
+             had an inspection for the issuance of an airworthiness certificate in accordance with
+             part 21. Section 91.417(a) and (b) prescribe, in pertinent part, that ... (a) Each
+             registered owner or operator shall keep the following records for the periods specified
+             in paragraph (b) of this section: (1) Records of the maintenance, preventive
+             maintenance, and alteration and records of the 100-hour, annual, progressive, and
+             other required or approved inspections, as appropriate, for each aircraft (including the
+             airframe) and each engine, propeller, rotor, and appliance of an aircraft. The records
+             must include ... (i) a description (or reference to data acceptable to the Administrator)
+             of the work performed; (ii) the date of completion of the work performed; and (iii) the
+             signature and certificate number of the person approving the aircraft for return to
+             service. (2) Records containing the following information: (i) The total time in service
+             of the airframe, each engine, each propeller, and each rotor. (ii) The current status of
+             life-limited parts of each airframe, engine, propeller, rotor, and appliance. (iii) The
+             time since last overhaul of all items installed on the aircraft that are required to be
+             overhauled on a specified time basis. (iv) The current inspection status of the aircraft,
+             including the time since the last inspection required by the inspection program under
+             which the aircraft and its appliances are maintained. (v) The current status of
+             applicable airworthiness directives (AD) and safety directives including, for each, the
+             method of compliance, the AD or safety directive number and revision date. If the AD
+             or safety directive involves recurring action, the time and date when the next action is
+             required. (vi) Copies of the forms prescribed by § 43.9(d) for each major alteration to
+             the airframe and currently installed engines, rotors, propellers, and appliances. (b)
+             The owner or operator shall retain the following records for the periods prescribed:
+             (1) The records specified in paragraph (a)(1) of this section shall be retained until the
+             work is repeated or superseded by other work or for 1 year after the work is
+             performed. (2) The records specified in paragraph (a)(2) of this section shall be
+             retained and transferred with the aircraft at the time the aircraft is sold. (3) A list of
+             defects furnished to a registered owner or operator under § 43.11 shall be retained
+             until the defects are repaired and the aircraft is approved for return to service.
+
+         CEC requests an exemption from 14 CFR 91.405(a), 91.407(a)(1), 91.409(a)(2), 91.-
+417(a) and (b). CEC respectfully submits that it has demonstrated in its Petition that the
+capability of the PIC and sUAS operators to maintain and repair the Phantom 2 Vision sUAS
+meets Section 333's requirement for an equivalent level of safety. The PIC will perform routine
+maintenance and inspection of the Phantom 2 Vision sUAS and be authorized to approve the
+Phantom 2 Vision sUAS for return to service. Additionally, the PIC will ensure that the Phantom
+2 Vision sUAS is in an airworthy condition prior to any flight, and will conduct detailed
+inspections pursuant to the maintenance manuals. Detailed inspection records will be kept at all
+times by CEC. Given the size, construction, and simplicity of the Phantom 2 Vision sUAS, an
+equivalent level of safety is provided.
+
+27
+X. Certificate of Authorization or Waiver
+         This exemption request is a prerequisite to CEC's application for a commercial
+
+Certificate of Authorization or Waiver (COA) to use the Phantom 2 Vision sUAS for the purpose
+of aerial acquisition and monitoring of secure project sites in support of the civil engineering
+industry, including without limitation construction, excavation, transportation infrastructure,
+mining, and oil and gas sites.
+XI. Conclusion
+
+         CEC respectfully submits that it has demonstrated that (i) the Phantom 2 Vision sUAS is
+both safe, reliable and will satisfy the FAA's airworthiness assessment, (ii) the Pilot in Command
+(PIC) and visual observer (VO) have the requisite knowledge and experience to ensure the safe
+operation of the Phantom 2 Vision sUAS, (iii) CEC has provided and will comply with the
+operation procedures and parameters that further ensure safe sUAS operations in the national
+airspace, removing any legitimate threat of harm to humans and property, including other
+manned aircraft, and (iv) CEC's proposed operations, which include without limitation, the use
+of the Phantom 2 Vision sUAS to conduct aerial acquisitions, monitoring and surveying of secure
+project sites for the benefit of the civil engineering industry, achieve a level of safety equal to or
+greater than that which would be achieved by flying a larger manned aircraft carrying crew and
+flammable fuel for the same purposes. In addition, permitting use of the Phantom 2 Vision sUAS
+will achieve various economic and environmental benefits, as well as significant efficiencies,
+associated with cost, labor and safety, that serve the public interest.
+
+         CEC asks that the FAA grant its request for exemption from the above described FARs
+under Section 333, and approve its operation of the Phantom 2 Vision sUAS in the national
+airspace in accordance with the limitations and restrictions set forth herein.
+
+28
+

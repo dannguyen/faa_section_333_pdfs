@@ -1,0 +1,949 @@
+May 11, 2015
+
+                                                          Exemption No. 11521
+                                                          Regulatory Docket No. FAA-2014-0947
+
+Mr. Andrew McCollough
+Regulatory Services
+SkyWard IO, Inc.
+233 Naito Parkway Suite 200
+Portland, OR 97204
+
+Dear Mr. McCollough:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+The Petitioner Supports its Request with the Following Information
+
+By letter dated November 5, 2014, you petitioned the Federal Aviation Administration (FAA)
+on behalf of SkyWard IO, Inc. (hereinafter petitioner or operator) for an exemption. The
+petitioner requested to operate an unmanned aircraft system (UAS) to conduct research and
+development of sUAS and associated sUAS software within defined areas of operations.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+Discussion of Public Comments:
+
+A summary of the petition was published in the Federal Register on December 9, 2014
+(79 FR 73133). Four comments were received. The Small UAV Coalition (Coalition)
+supported the petition, while the Air Line Pilots Association, International (ALPA), the
+National Agricultural Aviation Association (NAAA), and the United States Hang Gliding and
+Paragliding Association (USHPA) opposed it.
+                                                                                                                 2
+
+In support of the petition, the Coalition stated the petitioner has proposed to abide by stronger
+safety measures than hobby and modeler groups operating similar aircraft. The Coalition
+stated that it does not believe that heightened safety measures should be required for the
+petitioner simply because of the commercial nature of its operations. The Coalition urged the
+FAA to adopt an evaluation framework for UAS operations under Section 333 of
+Public Law 112­95 that weighs the relative safety issues and risks of UAS by class and
+operational circumstances, rather than adopting artificial distinctions among unmanned aerial
+vehicles based on commercial and noncommercial operations. The petitioner's UAS pose
+considerably less safety risk than larger UAS. The Coalition asserted that because UAS
+operations like the petitioner's pose minimal risk to safety, they should be subject to minimal
+and appropriate regulations.
+
+The Coalition noted the FAA is to consider the seven factors1 in Section 333 as a minimum.
+The Coalition stated the petition shows the FAA should consider factors other than those
+specified in Section 333, such as: location, the restricted areas of its small UAV operations,
+and the petitioner's Safety Management System (SMS). The Coalition maintained that the
+petitioner's proposed operations satisfy the seven factors in Section 333 and include several
+additional mitigating factors to ensure the safety and security of the proposed UAS operations.
+The Coalition emphasized the FAA must evaluate each factor within the context of the
+petitioner's proposed UAS operations.
+
+The Coalition also commented that the FAA should grant relief from the requirement to hold
+an airman certificate. The Coalition further stated that if an airman certificate is required then,
+at a minimum the, FAA should provide an exception from the training and testing
+requirements in part 61 in favor of requirements pertinent to the aircraft and operation
+proposed. The Coalition also asserted that in Section 333 Congress intended for the FAA to
+consider national security with respect to the operation as opposed to addressing it through
+pilot certification.
+
+The FAA notes that, as discussed in the grant of exemption to Trimble Navigation Ltd.
+(Exemption No. 11110), neither Section 333, nor the FAA's exemption authority2
+allows the FAA to exempt pilots from the statutory requirement to hold an airman
+certificate as prescribed in 49 U.S.C. § 44711.
+
+The Coalition commented that a visual observer (VO) should not be required for all small
+UAS operations. The Coalition further asserted that the presence of one or more VOs may
+allow the UAS to be operated beyond visual line of sight (VLOS) of the pilot in command
+
+1 Section 333(b) of P.L. 112­95 states, in part: "In making the determination under subsection (a), the Secretary
+shall determine, at a minimum-- (1) which types of unmanned aircraft systems, if any, as a result of their size,
+weight, speed, operational capability, proximity to airports and populated areas, and operation within visual line
+of sight do not create a hazard to users of the national airspace system or the public or pose a threat to
+national security; . . . ."
+2 49 U.S.C. § 44701(f)
+                                                                                                                 3
+
+(PIC) and that the petitioner's proposal to operate the unmanned aircraft (UA) within VLOS
+of the PIC and/or VO should be permitted.
+
+The FAA notes that one of the determinations for operations under Section 333 is operation
+within visual line of sight. The PIC must maintain VLOS while operating the UA. The FAA
+finds that a VO complements the PIC's capability to see and avoid other aircraft, including
+when the PIC may be momentarily attending to other flying tasks. The VO provides an
+additional level of operational safety.
+
+ALPA expressed concern regarding several aspects of the petition. ALPA noted that the
+proposed operations will take place below 400 feet above ground level (AGL) in Class B, C,
+D, E, and G airspace, potentially in extremely close proximity to routine manned aircraft
+operations. ALPA stated, "There must be means both to ensure that the sUAS remains within
+the defined airspace and to ensure that the hazard of other aircraft intruding on the operation
+is mitigated."
+
+The FAA believes the limitations under which the petitioner will operate (i.e., VLOS and at or
+below 400 feet AGL are sufficient mitigations to this risk so that the operations will not
+adversely affect safety.
+
+ALPA noted that the petitioner does not state how the pilot and the observer will be able to
+communicate with each other. NAAA stated UAS observers must be present and able to
+communicate with the operator from the most minimal distance possible. The conditions and
+limitations regarding PIC and VO communications address those concerns.
+
+ALPA asserted the UA's lithium polymer batteries have numerous associated fire and
+explosion hazards as outlined in DOT/FAA/AR­09/55, "Flammability Assessment of
+Lithium-Ion and Lithium-Ion Polymer Battery Cell Designed for Aircraft Power Usage
+(January 2010)," and that the safe carriage of the batteries and the mitigations in place for
+known risks should be addressed. The referenced study was primarily conducted to determine
+how certain battery cells react in a fire situation aboard manned airplanes. Given the size of
+the battery and the operating conditions of the UAS, the FAA concludes that the use of a
+lithium polymer battery will not pose an undue safety risk for the proposed operations.
+
+ALPA commented that the petitioner's aircraft does not have a barometric altimeter as
+required by 14 CFR § 91.121. ALPA stated that processes or mitigations must be in place to
+ensure the UA can accurately maintain altitude including engineering processes, software
+development and control, electronic hardware development and control, configuration
+management, and design assurance to ensure the aircraft and its control system(s) operate to
+the same level of safety as other aircraft operated commercially in the National Airspace
+System (NAS).
+
+ALPA commented that command and control (C2) link failures are one of the most common
+failures on a UAS, and that lost link mitigations should require safe modes to prevent
+                                                                                                4
+
+flyaways or other scenarios. The FAA has inserted conditions and limitations in this
+exemption to mitigate the risk associated with such failures.
+
+ALPA contended the sUAS pilot must hold at least a current FAA commercial pilot certificate
+with an appropriate category and class rating for the type of aircraft being flown, as well as
+specific and adequate training on the UAS make and model intended to be used. Similarly,
+ALPA asserted a current second-class airman medical certificate should be required. NAAA
+also commented on pilot qualification, stating--
+
+Just as manned aircraft pilots are required to undergo a rigorous training curriculum
+and show that they are fit to operate a commercial aircraft, so too must UAS operators.
+Holding a commercial certificate holds UAS operators to similar high standards as
+commercial aircraft operators and ensures they are aware of their responsibilities as
+commercial operators within the NAS. Medical requirements ensure they have the
+necessary visual and mental acuity to operate a commercial aircraft repeatedly over a
+sustained period of time.
+
+The FAA has reviewed the knowledge and training requirements of sport, recreational, private
+and commercial certificates and concluded that a UAS PIC holding a minimum of a sport pilot
+certificate, and operating under this exemption, would not adversely affect operations in the
+NAS or present a hazard to persons or property on the ground.
+
+ALPA noted the petitioner must specify a means to meet see and avoid requirements in
+§ 91.113 given the absence of an onboard pilot. The FAA notes that all flights must be
+operated within VLOS of the PIC and VO.
+
+ALPA noted the petitioner requested an exemption to the entirety of 14 CFR Part 61.
+Specifically, ALPA expressed concern that the petition makes no reference to compliance
+with 14 CFR § 61.195, Flight instructor limitations and qualifications, which defines the
+requirements for flight instructors. A certificated flight instructor is authorized to provide the
+instruction required for the certificates or ratings or currency listed in 14 CFR § 61.193. A
+person instructing on how to operate the UAS under the petitioner's training program would
+not need to be a certificated flight instructor because the instruction is not being provided for
+a certificate or rating listed in § 61.193. We note that none of the UAS operations proposed by
+the petitioner require such flight instruction because § 61.31(l) allows for operation of the
+UAS by an airman who is current per 14 CFR § 61.56 without a category and class rating.
+Instruction provided toward obtaining the pilot certificate required by this exemption would
+need to be provided by a certificated flight instructor.
+
+Regarding the petitioner's request for exemption from the minimum safe altitude and
+transponder requirements of 14 CFR §§ 91.119 and 91.215, ALPA argued all aircraft in the
+NAS must operate to the same high level of safety. ALPA asserted this includes the
+maintenance of a safe altitude for both airplanes and helicopters, and the use of transponders
+and altitude reporting equipment.
+                                                                                                                 5
+
+Regarding the fuel requirements of § 91.151, ALPA argued that using batteries as the only
+source of an aircraft's power is a substantial shift from traditional methods of propulsion, and
+requires further research to determine best safety practices. This comment is addressed in
+detail below.
+
+ALPA opposed the petitioner's request for an exemption from the aircraft maintenance and
+record keeping requirements. ALPA asserted that the petitioner's small UAS "should comply
+to the same level of safety as other aircraft operated commercially in the NAS." The FAA
+finds that adherence to the petitioner's operating documents, as required by the conditions and
+limitations below, is sufficient to ensure that safety is not adversely affected.
+
+ALPA also expressed concern that the petitioner's request is not for a single specific operation
+or location, but for all operations of the same general type. ALPA stated that this results in a
+considerable increase in the FAA's oversight tasks. The FAA notes ALPA's concern and in
+order to minimize potential impact to the NAS, the FAA requires that each operator secure a
+Certificate of Waiver or Authorization (COA) which covers specific details of the petitioner's
+operation. The FAA recognizes that UAS integration will generate new NAS access demand
+and will review and adjust accordingly.
+
+NAAA noted that its members operate in low-level airspace, and therefore clear low-level
+airspace is vital to the safety of these operators. NAAA stated that seeing and avoiding other
+aircraft and hazardous obstructions is the backbone for agricultural safety, and that
+agricultural pilots depend on pilots of other aircraft to perform their see-and-avoid functions
+to prevent collisions. NAAA believes UAS operations at low altitudes will increase the
+potential for collision with agricultural aircraft.
+
+The FAA recognizes these concerns and has incorporated associated conditions and
+limitations into this exemption, including: (a) a Notice to Airmen (NOTAM) issued for all
+operations; (b) operations conducted within VLOS of the pilot in command (PIC) and the VO;
+and (c) the UAS PIC must always yield right-of-way to manned aircraft.
+
+NAAA stated that FAA airworthiness certification should be a requirement for all unmanned
+aircraft to operate within the NAS. NAAA recommended UAS be equipped with ADS­B or
+similar identification and positioning systems, strobe lights, high-visibility markings and
+registration numbers. NAAA also recommended UAS be operated strictly within the line-of-
+sight of the ground controller, with the assistance of a VO and clear of any low-flying
+manned aircraft.
+
+As discussed in greater detail below, Section 333 of the FAA Modernization and Reform Act
+of 2012 authorizes the Secretary of Transportation to determine, considering a number of
+factors laid out in the statute, that an airworthiness certificate is not necessary for certain
+operations. The Secretary has made that determination in this case and therefore the aircraft
+operated by the petitioner will not need to be certificated by the FAA.
+                                                                                                                 6
+
+The USHPA stated they disagree that granting exemptions would enhance safety and fulfill
+the Secretary of Transportation's statutory obligation to establish requirements for the safe
+operation of sUAS in the NAS. In support of this statement, USHPA discussed issues related
+to sUAS proximity to ultralight flight activities, lack of sense and avoid capabilities, and
+operator visibility limitations, such as limited depth perception. The USHPA argued in favor
+of limiting operations to VLOS, requiring NOTAM issuance, pilot and UAS certification, and
+category level training requirements.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner are:
+    · DJI Spreading Wings S10001
+    · 3D Robotics X82
+    · 3D Robotics Iris3
+    · DJI Phantom 24
+    · DJI Phantom 2 Vision Plus5
+
+The petitioner requested relief from 14 CFR part 21, Certification procedures for products
+and parts, Subpart H--Airworthiness Certificates. In accordance with the statutory criteria
+provided in Section 333 of Public Law 112-95 in reference to 49 U.S.C. § 44704, and in
+consideration of the size, weight, speed, and limited operating area associated with the
+aircraft and its operation, the Secretary of Transportation has determined that this aircraft
+meets the conditions of Section 333. Therefore, the FAA finds that the requested relief from
+14 CFR part 21 and any associated noise certification and testing requirements of part 36, is
+not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for research and development related to the production of
+data and aerial data collection.3
+
+The FAA has issued grants of exemption in circumstances similar in all material respects to
+those presented in your petition. In Grants of Exemption Nos. 11062 to Astraeus Aerial (see
+Docket No. FAA-2014-0352), 11109 to Clayco, Inc. (see Docket No. FAA-2014-0507),
+11112 to VDOS Global, LLC (see Docket No. FAA-2014-0382), and 11213 to Aeryon Labs,
+Inc. (see Docket No. FAA-2014-0642), the FAA found that the enhanced safety achieved
+using an unmanned aircraft (UA) with the specifications described by the petitioner and
+carrying no passengers or crew, rather than a manned aircraft of significantly greater
+
+3 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                                                 7
+
+proportions, carrying crew in addition to flammable fuel, gives the FAA good cause to find
+that the UAS operation enabled by this exemption is in the public interest.
+
+Except as noted below, having reviewed your reasons for requesting an exemption, I find
+that--
+
+· They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+· The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+· A grant of exemption is in the public interest.
+
+Your petition and supporting materials inferred the potential for the carriage of light-weight
+inert payloads (e.g. antibiotics, or other medical supplies, documents, etc.). Transport of
+property for compensation or hire, whether common carriage, non-common carriage, or
+private carriage, requires an appropriate air carrier commercial operator certificate. This
+exemption does not provide such a certificate. As specified in condition and limitation
+number 3, operations for the carriage of property for compensation or hire are not permitted.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, SkyWard IO, Inc. is granted an exemption from
+14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a), 91.7(a), 91.119(c),
+91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a) and (b), to
+the extent necessary to allow the petitioner to operate a UAS to perform research and
+development of sUAS and associated sUAS software within defined areas of operations for
+the purpose of the production of data and aerial data collection. This exemption is subject to
+the conditions and limitations listed below.
+
+Conditions and Limitations
+
+In this grant of exemption, SkyWard IO, Inc. is hereafter referred to as the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+    1. Operations authorized by this grant of exemption are limited to the DJI Spreading
+         Wings S10001, 3D Robotics X82, 3D Robotics Iris3, DJI Phantom 24, and the DJI
+         Phantom 2 Vision Plus5, when weighing less than 55 pounds including payload.
+         Proposed operations of any other aircraft will require a new petition or a petition to
+         amend this exemption.
+                                                                                        8
+
+2. Operations for the purpose of closed-set motion picture and television filming are
+    not permitted.
+
+3. Operations for the carriage of property for compensation or hire are not permitted.
+
+4. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+    exemption holder may use either groundspeed or calibrated airspeed to determine
+    compliance with the 87 knot speed restriction. In no case will the UA be operated at
+    airspeeds greater than the maximum UA operating airspeed recommended by the
+    aircraft manufacturer.
+
+5. The UA must be operated at an altitude of no more than 400 feet above ground level
+    (AGL). Altitude must be reported in feet AGL.
+
+6. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+    This requires the PIC to be able to use human vision unaided by any device other than
+    corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+    U.S. driver's license. The use of First Person View (FPV) or similar device is not
+    permitted.
+
+7. All operations must utilize a visual observer (VO). The UA must be operated within
+    the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+    to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+    capability. The VO and PIC must be able to communicate verbally at all times;
+    electronic messaging or texting is not permitted during flight operations. The PIC must
+    be designated before the flight and cannot transfer his or her designation for the
+    duration of the flight. The PIC must ensure that the VO can perform the duties
+    required of the VO.
+
+8. This exemption and all documents needed to operate the UAS and conduct its
+    operations in accordance with the conditions and limitations stated in this grant of
+    exemption, are hereinafter referred to as the operating documents. The operating
+    documents must be accessible during UAS operations and made available to the
+    Administrator upon request. If a discrepancy exists between the conditions and
+    limitations in this exemption and the procedures outlined in the operating documents,
+    the conditions and limitations herein take precedence and must be followed.
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update or
+    revision would affect the basis upon which the FAA granted this exemption, then the
+    operator must petition for an amendment to its grant of exemption. The FAA's UAS
+                                                                                                            9
+
+    Integration Office (AFS-80) may be contacted if questions arise regarding updates or
+    revisions to the operating documents.
+
+9. Any UAS that has undergone maintenance or alterations that affect the UAS
+    operation or flight characteristics, e.g. replacement of a flight critical component, must
+    undergo a functional test flight prior to conducting further operations under this
+    exemption. Functional test flights may only be conducted by a PIC with a VO and
+    must remain at least 500 feet from other people. The functional test flight must be
+    conducted in such a manner so as to not pose an undue hazard to persons and property.
+
+10. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+11. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g. inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+12. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+13. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+14. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+
+15. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+                                                                                                          10
+
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+16. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+17. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+18. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+19. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+20. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+21. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+22. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+    exemption holder may apply for a new or amended COA if it intends to conduct
+    operations that cannot be conducted under the terms of the attached COA.
+
+23. All aircraft operated in accordance with this exemption must be identified by serial
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+    be as large as practicable.
+
+24. Documents used by the operator to ensure the safe operation and flight of the UAS and
+    any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+    PIC at the Ground Control Station of the UAS any time the aircraft is operating. These
+    documents must be made available to the Administrator or any law enforcement
+    official upon request.
+                                                                                       11
+
+25. The UA must remain clear and give way to all manned aviation operations and
+    activities at all times.
+
+26. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+27. All Flight operations must be conducted at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless:
+      a. Barriers or structures are present that sufficiently protect nonparticipating persons
+          from the UA and/or debris in the event of an accident. The operator must ensure
+          that nonparticipating persons remain under such protection. If a situation arises
+          where nonparticipating persons leave such protection and are within 500 feet of
+          the UA, flight operations must cease immediately in a manner ensuring the safety
+          of nonparticipating persons; and
+      b. The owner/controller of any vessels, vehicles or structures has granted permission
+          for operating closer to those objects and the PIC has made a safety assessment of
+          the risk of operating closer to those objects and determined that it does not
+          present an undue hazard.
+
+The PIC, VO, operator trainees or essential persons are not considered
+nonparticipating persons under this exemption.
+
+28. All operations shall be conducted over private or controlled-access property with
+    permission from the property owner/controller or authorized representative.
+    Permission from property owner/controller or authorized representative will be
+    obtained for each flight to be conducted.
+
+29. Any incident, accident, or flight operation that transgresses the lateral or vertical
+    boundaries of the operational area as defined by the applicable COA must be reported
+    to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+    reported to the National Transportation Safety Board (NTSB) per instructions
+    contained on the NTSB Web site: www.ntsb.gov.
+
+If this exemption permits operations for the purpose of closed-set motion picture and
+television filming and production, the following additional conditions and limitations apply.
+
+30. The operator must have a motion picture and television operations manual (MPTOM)
+    as documented in this grant of exemption.
+
+31. At least 3 days before aerial filming, the operator of the UAS affected by this
+    exemption must submit a written Plan of Activities to the local Flight Standards
+    District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+    notification may be waived with the concurrence of the FSDO. The plan of activities
+    must include at least the following:
+      a. Dates and times for all flights;
+                                                                                                               12
+
+           b. Name and phone number of the operator for the UAS aerial filming conducted
+              under this grant of exemption;
+
+           c. Name and phone number of the person responsible for the on-scene operation of
+              the UAS;
+
+           d. Make, model, and serial or N-Number of UAS to be used;
+           e. Name and certificate number of UAS PICs involved in the aerial filming;
+           f. A statement that the operator has obtained permission from property owners
+
+              and/or local officials to conduct the filming production event; the list of those
+              who gave permission must be made available to the inspector upon request;
+           g. Signature of exemption holder or representative; and
+           h. A description of the flight activity, including maps or diagrams of any area, city,
+              town, county, and/or state over which filming will be conducted and the altitudes
+              essential to accomplish the operation.
+
+    32. Flight operations may be conducted closer than 500 feet from participating persons
+         consenting to be involved and necessary for the filming production, as specified in the
+         exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+
+This exemption terminates on May 31, 2017, unless sooner superseded or rescinded.
+
+Sincerely,
+
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+                                                Jonathan Evans
+                                                     SkyWard CEO
+
+                                                 SkyWard IO, Inc.
+                                 233 Naito Parkway Suite 200
+
+                                             Portland, OR 97204
+                                               Tel (971) 303-9981
+
+The Honorable Anthony R. Foxx    The Honorable Michael P. Huerta
+Office of the Secretary          Office of the Administrator
+US Department of Transportation  Federal Aviation Administration
+1200 New Jersey Ave., SE         800 Independence Avenue SW
+Washington, DC 20590             Washington, DC 20591
+
+November 5, 2014
+
+RE: SkyWard IO sUAS Airworthiness Exemption Petition for FMRA Sec 333 Exemp-
+tion
+
+Gentlemen:
+
+SkyWard IO, Inc. (`SkyWard') hereby petitions the FAA for regulatory relief pursuant to Section
+333 of P.L 112­95 333 and 14 C.F.R. Sec. 11.81 to conduct commercial flights with SkyWard sUAS
+and to pursue research and development of the those sUAS and associated sUAS software within
+defined areas of operations, secured according to the SkyWard procedures, in the national airspace
+(NAS). Attached, therefore, is a request for exemption from airworthiness and specific Title 14
+C.F.R. sections for the types of sUAS and sUAS operations described in this Section 333 exemption
+petition.
+
+SkyWard is a software platform developer and operational infrastructure provider dedicated to de-
+veloping flight systems, fleet management systems, and operations processes for the safe deployment
+of sUAS in the NAS. This petition seeks authorization to operate the SkyWard sUAS described
+in this petition within restricted access areas. These areas of operations, similar to the "closed
+set" areas described in Exemption No. 11062, will be defined and submitted for approval prior to
+operations. Generally, SkyWard sUAS operations will be below an altitude of 400 ft. AGL, within
+specific access-restricted areas, within Class G airspace, with the permission of the flight service
+station, using sUAVs operated by SkyWard qualified sUAS pilots, and within visual line of sight
+of the operator or observer. The UAVs contemplated in this proposal are of small size and weight
+(less than 55 lb.), capable of relatively slow speeds (top speed of a UAV to be deployed under this
+petition is less than 50 kt.) and, as demonstrated in this petition, do not pose a threat to the safety
+of the NAS, persons on the ground, or national security.
+
+This exemption seeks authorization to conduct commercial and R&D flights according to the terms
+of this petition and the SkyWard Omnibus General Operations Manual (`SkyWard Manual') which
+is composed of (1) an operations manual, (2) flight manuals for each of the SkyWard fleet sUAS by
+make and model; (3) an Operator Training Manual, and (4) a Maintenance and Inspection Manual.
+                                                                                                                                            2
+
+Please note that the SkyWard Manual (including all of the above listed components) are all clearly
+marked "Confidential" on each page, and contain confidential commercial and proprietary informa-
+tion that SkyWard has not and will not share with others who are not subject to a "Nondisclosure
+Agreement" (NDA). Therefore, the SkyWard Manual (including all components) are not available
+to the public and contain operating conditions, procedures and other information that is not avail-
+able to the public and that are protected from public release or disclosure under the Freedom of
+Information Act 5 USC Sec. 552 et seq.
+
+Why we require an exemption
+
+Commercial Operation
+
+An exemption is required because current FAA regulations do not allow for the commercial use of
+sUAS lacking airworthiness certificates in the NAS. SkyWard requests an airworthiness exemption
+for the specific types of sUAS described in this petition to carry both active payloads including
+sensor packages, e.g. film and video equipment, and light-weight inert payloads (e.g. antibiotics, or
+other medical supplies, documents, etc.), under the conditions and operating limitations outlined
+below and described in the SkyWard Manual.
+
+Research and Development
+
+SkyWard develops operational, navigational, and fleet management software for commercial sUAS
+so that they may fly safely and predictably in the NAS. In order to develop and test the software
+for these sUAS under the variety of operational conditions a sUAS will face in the NAS, it is
+necessary to test various sUAS and sUAS configurations, operating systems, and management
+systems in different environments. FAA Order 8130.34C for a Special Airworthiness Certificate:
+Experimental Category does not authorize the necessary variable aircraft characteristics and systems
+to meaningfully test the responsiveness of these sUAS to the capricious influences affecting the NAS.
+
+Therefore, to gain the meaningful data about sUAS features necessary for developing a program
+for safe and efficient sUAS operations, an exemption is required that authorizes R & D: 1) across a
+range of sUAS makes, models and prototypes, 2) in a variety of locations (subject to the restrictions
+outlined in this petition), and 3) for iterating on the systems and airframes on an ongoing basis.
+Without this exemption the regulatory requirements for a Special Airworthiness Certificate, Exper-
+imental Category (SAC-EC) are overly burdensome because they forbid the necessary R & D, i.e.
+rapid iterations on prototypes. Finally, as the FAA is well aware, the SAC-EC does not authorize
+commercial operations of the type described above; which are required for SkyWard research and
+development.
+
+The types of sUAS for which SkyWard requests exemptions
+
+SkyWard is developing a class of sUAS that are designated "Low-Energy small Unmanned Aerial
+Vehicles" ("LE sUAS"). These LE sUAS are approximately equivalent to the Air Force designated
+"Micro UAS" class of UAS. Specifically, LE sUAS are those sUAS which are small ( < 2 meter in
+largest dimension), light-weight ( 55 lb. or less ), slow-moving (50 kt.) and operate close to
+the ground (< 400 ft. AGL). We believe that these LE sUAS and associated SkyWard operation
+and management systems meet the standard provided by Section 333 of the FMRA for a UAS to
+operate safely within the National Airspace prior to the completion of FMRA's required rule-making.
+Section 333 describes seven minimum criteria to determine whether an sUAS may operate safely in
+the NAS without creating a hazard or posing a threat to national security. These criteria comprise
+                                                        3
+
+size, weight, speed, operational capability, operation in close proximity to airports, operation in
+close proximity to people, and operation within visual line of sight. SkyWard's proposed LE sUAS
+are of a type and scale that meet these criteria and that are equivalent to those for which FAA
+has recently granted Sec 333 exemptions and, similarly, are not anticipated to create a hazard to
+users of the National Airspace System ("NAS"), persons on the ground, or pose a threat to national
+security. Basic characteristics of the SkyWard proposal are summarized below.
+
+Table 1: Section 333 Determinants and LE sUAS
+
+Criterion                                               SkyWard LE sUAS and Operations
+1. Size
+2. Weight                                               Under 2m largest dimension
+3. Speed                                                Less than 55 lb. maximum takeoff weight
+4. Operational Capability                               Velocity not to exceed 50 kt. or 25.7 m/s.
+5. Operation of the UAS in close proximity to airports  Day VFR, with 30 minutes of flight time.
+                                                        At least 5 miles from airports or with explicit ATC
+6. Operation in close proximity to populated areas      approval.
+                                                        Operated over property with consent of owner.
+7. Operation in visual line of sight.                   Exclusion of non-participants from area of operations.
+                                                        Operated with direct visual contact by PIC or Observer.
+
+In addition to the LE sUAS operational requirements listed above and, in order to further mitigate
+risk, each SkyWard sUAS will be equipped with a pilot-controlled precautionary landing system
+(PLS) capable of landing the sUAS in the event of an unrecoverable C2 lost-link or other exigent
+eventuality. The PLS is composed of a separate, redundant circuit and radio control link that
+is directly operated by the PIC and independent of the other flight control systems, a hard (not
+software-based) power disconnect, and a parachute deployment system. The PIC may therefore
+terminate the flight by remotely disconnecting power from the system and deploying the parachute.
+The PLS system is described in detail in the SkyWard Operations Manual.
+
+Comparison to Ultralight Aircraft
+
+14 CFR Part 103 "Ultralight Vehicles" describes the applicability, inspection requirements, waivers,
+certification and registration requirements, as well as operating rules, for another class of aircraft
+that are the closest comparable aircraft to sUAS currently in the NAS. Ultralights are defined, in
+part, as a single-occupant manned aircraft that weigh less than 254 lb. empty weight, carries no
+more than 5 gallons (41 lb.) of fuel, and has a maximum speed of 55 kt. The FAA has determined
+that these aircraft require no airworthiness certificate or inspection; that ultralight pilots require
+no pilot certifications nor medical certification, despite flying in the NAS; and that ultralights are
+not required to be registered or to bear markings or any kind. In addition, the operational rules in
+103 Subpart B are equivalent to, or even less stringent than, those that SkyWard is proposing for
+our LE sUAS operations. Please see Ultralight and LE sUAS Comparison (Table 2) below.
+
+A significant difference between ultralights and LE sUAS as is, of course, the presence of a pilot on
+board the ultralight. While this may decrease the risk of C2 loss event, in case of other catastrophic
+events the pilot is at risk. LE sUAS are unmanned and thus the risk to the pilot is removed,
+and as described above and in the SkyWard Manual, C2 loss-link risks are mitigated. Thus, given
+the pilot training, speed, weight, airspace limitations, and other risk mitigation measures proposed
+by SkyWard, LE sUAS simply do not pose additional hazard to the national airspace, persons,
+property, or national security. A risk-based approach to determining LE sUAS safety, as outlined
+in the FMRA 2012 Section 333, clearly indicates that the SkyWard LE sUAS are less hazardous
+than some existing aircraft in the NAS.
+                                                             4
+
+               Table 2: Ultralight and LE sUAS Comparison
+
+Item           Ultralight Rules                              SkyWard LE sUAS Rules
+               No certification required                     Pilot Ground School, SkyWard operator
+Pilot                                                        qualification and currency
+               294 lb. (including fuel) + pilot              55 lb.
+Weight         55 kt.                                        55 kt.
+Speed          No registration                               Registration with AIR­200
+Registration   No requirement for certification.             Airworthy according to manufacturer standards
+Airworthiness                                                and SkyWard technicians.
+               Class B,C, and D, with ATC approval. Class E
+Operating      and G.                                        Class B,C, and D with ATC approval. Class G.
+Rules          None
+Airspace                                                     Below 400 ft. AGL
+               Day VFR
+Altitude       Not over congested areas.                     Day VFR
+limits                                                       Not over congested areas.
+Daylight
+Populated
+areas
+
+Priority Safety Issues
+
+Priority safety issues and resolution strategies are outlined in the SkyWard Manual. These include
+LE sUAS reliability and safe operations, Command and Control lost-link, and "See and Avoid" (also
+known as "Detect and Avoid" in the context of UAVs) requirements.
+
+Reliability, Safety and Operation of LE sUAS:
+
+Operations in Class G airspace below 400 ft AGL 5 Miles or More From an Airport The region
+of operations for LE sUAS is below 400 ft AGL, in Class G airspace and 5 miles or more from an
+airport or otherwise in coordination with the FSDO and ATC. The airspace used will be wholly
+with the underlying property owner's written consent. Aircraft separation will be accomplished by
+flying under VFR rules during the day with a pilot and an observer both of whom are qualified
+according to the SkyWard Manual. See Pilot Requirements (section ). In addition, the SkyWard
+Manual details fail-safe mechanisms including a recovery parachute, return to home, slow descent
+and auto-land.
+
+Operations in controlled Airspace (B, C, D), Below 400 Ft. AGL This region of operation
+of LE sUAS is below 400 ft AGL, in Class B, C, and D airspace. Two-way communication with
+ATC will be established before operations commence or before the sUAS enters controlled airspace.
+These operations will be wholly with the underlying property owner's written consent. Aircraft
+separation will be accomplished by flying under VFR rules during the day with a pilot and an
+observer, both of whom are qualified and current according to the SkyWard Manual. See Pilot
+Requirements (section ). In addition, the SkyWard Manual details fail-safe mechanisms including
+a recovery parachute, return to home, slow descent and auto-land.
+
+Command and Control (C2) link failure modes, mitigation strategies. In addition to the loca-
+tional protections outlined above, lost link mitigation is achieved by redundant failure operation,
+auto-land, return-to-home, geo-fencing, and parachute deployment to reduce the probability and
+mitigate the severity of a C2 failure. Risk assessment and mitigation procedures for spectrum
+                                                                                                                                            5
+
+interference, as well as weather, obstacles, and unforeseen events, are detailed in the SkyWard
+Manual.
+
+14 CFR Sec. 91.113 Right of Way, See and Avoid Requirements Mitigation for reduced "See
+and Avoid" capability is that all proposed operations under this petition are at 400 AGL and below.
+In this near-surface airspace, the only other legally operating aircraft are other approved UAVs
+or those operating with a special use certificate (Life Flight, fire watch contractors etc.) Further
+risk mitigations include a PIC will be monitoring all UAS operations, and a visual observer, both
+qualified according to the SkyWard Manual, will be employed for all UAV flight operations to avoid
+aerial conflicts. Further, the proposed UAVs will fly only within visual line-of-sight of the PIC and
+an observer, under VFR conditions, and during daylight hours. We believe that types of LE sUAS
+and operations together with the protocols and characteristics outlined in this petition and detailed
+in the accompanying SkyWard Manual maintain the current high level of safety in the NAS.
+
+Pilot Requirements
+
+In accordance with the knowledge requirements in Exemption No. 11062, and as described in detail
+in the SkyWard Manual10, a SkyWard Pilot in Command (PIC) must:
+
+    · Be qualified and current according to the SkyWard Manual and passed the Private Pilot FAA
+      Ground School knowledge test.
+
+    · Have flown and logged a minimum of 200 flight cycles and 25 hours of total time as a sUAS
+      pilot for a given category of sUAS (rotorcraft or fixed-wing) and at least 10 hours logged as a
+      sUAS pilot with a similar UAS type (single blade or multi-rotor).
+
+    · Have flown and logged a minimum of five hours as UAS pilot with the make and model of the
+      SkyWard sUAS as well as three take-offs and landings in the preceding 90 days.
+
+Documentation for pilot and observer qualification 12 and currency will be maintained as per the
+SkyWard Operating Manual13 and will be available upon the FAA's request.
+
+Information Supporting this Petition as Specified in 14 C.F.R. Sec. 11.81
+
+This section responds to the specific requirements of 14 CFR Sec 11.81. The attached Exhibit A
+"Information Supporting Petition" presents an analysis of 8130.34C and ancillary CFRs to demon-
+strate either direct compliance or alternative method of compliance for each regulatory exemption
+requested.
+
+(a) Mailing address and other contact information such as a fax number, telephone
+number, or email address copy.
+
+SkyWard IO, Inc.
+ATTN: Andrew McCollough
+Regulatory Services
+233 Naito Parkway
+Portland, OR 97204
+Email: exemption@skyward.io
+                                                                                                                                            6
+
+(b) The specific section or sections of 14 C.F.R. from which SkyWard seeks an exemp-
+tion
+
+§ 91.203 Airworthiness certificates
+§ 47.16 Temporary registration numbers
+§ 91.121 Altimeter settings
+§ 91.203(a) Airworthiness certificate with registration number (within the aircraft)
+§ 91.203(b) Display of airworthiness certificate
+§ 91.9(b,c) Manual, marking, and placards
+Part 43 Inspection and maintenance programs;
+§91.405 Maintenance required;
+§91.407 Operation after maintenance, preventive maintenance, rebuilding, or alteration;
+§91.409 Inspections;
+§91.417 Maintenance records
+Part 45 Registration and marking special rules
+Part 21 ( Subpart H) Airworthiness certificate; Experimental certificate - general
+§61 Requirements for certification of instructors for crew training
+§91.119 Minimum safe altitudes: General
+§91.413 ATC transponder tests and inspections
+§91.215 ATC transponder and altitude reporting equipment and use
+§67 Medical standards and certification
+§91.109 Flight instruction; Simulated instrument flight and certain flight tests
+§91.151 Fuel requirements for flight in VFR conditions
+
+(c) The extent of relief SkyWard seeks, and the reason SkyWard seeks the relief
+
+A Section 333 exemption is required because current FAA regulations do not allow commercial use
+of sUAS in the NAS, or for appropriate research and development of sUAS. SkyWard requests an
+airworthiness exemption for the specific types of sUAS described in this petition to carry inactive and
+active payloads, e.g. sensor packages for commercial applications such as videography and precision
+agriculture and light-weight inert packages, under the conditions and operating limitations outlined
+below and described in the SkyWard Manual. In addition, SkyWard is developing sUAS and sUAS
+software, including operational, navigational, and management software for small commercial UAVs,
+so that sUAV may fly safely and predictably in the NAS. In order to develop and test these sUAS
+under the variety of operational conditions that a sUAS will face in the NAS, it is necessary to
+test variations on aircraft characteristics, operating systems, and management systems in different
+environments. FAA regulations in FAA Order 8130.34C for a Special Airworthiness Certificate:
+Experimental Category do not authorize the necessary rapid modifications of aircraft characteristics
+and associated systems to test these sUAS.
+
+Therefore, to gain meaningful data about the necessary features for safe and efficient sUAS oper-
+ations, an exemption is necessary : 1) to operate a range of sUAS makes, models and prototypes,
+2) in a variety of locations (subject to the restrictions outlined in this petition), 3) to be permitted
+to adjust the systems and airframes tested on an ongoing basis, and 4) for both research and com-
+mercial use. Finally, as the FAA is well aware, the exemption is necessary because the SAC-EC
+does not authorize commercial operations of the type sought here, which is required for SkyWard
+to develop accurate data about the types of sUAS that are best suited for safe operations in the
+various conditions affecting the NAS.
+                                                                                                                                            7
+
+(d) The reasons why granting SkyWard's request would be in the public interest; that
+is, how it would benefit the public as a whole
+
+The proposal is designed to establish a reasonable methodology to test specific types and platforms
+of sUAS, in a variety of environments and to enable the safe and efficient deployment of commercial
+sUAS. The outputs of safe, reliable, and regulatory compliant operations of sUAS provide economic
+benefits historically unparalleled since the invention of flight, benefitting stakeholders at every
+level, both public and private. Lawful, safe aerial robotics operations will create new high-tech
+employment that will stimulate city and state governments; create new small and large businesses;
+infuse new interest in STEM for children; and increase the safety of citizens through enhanced first-
+responder capabilities. Grant of this petition would enable the research and operational development
+of necessary industry infrastructure to enable the safe and efficient acceleration of these significant
+public benefits to the United States public.
+
+(e) The reasons why granting the exemption would not adversely affect safety, or how
+the exemption would provide a level of safety at least equal to that provided by the
+rule from which SkyWard seeks the exemption
+
+SkyWard operations will provide a level of safety that is equivalent to current aviation standards.
+SkyWard's safety procedures, risk assessments, and flight operations standards are described in
+detail in the accompanying SkyWard Operations Manual. In brief, the following procedures that
+apply during operations conducted under this exemption request, establish an equivalent level of
+safety (ELOS) as follows:
+
+   1. The SkyWard LE sUAS are less than 55 pounds and are battery powered.
+
+   2. All SkyWard LE sUAS will be U.S. registered and display marks either in accordance with 14
+      C.F.R. Part 45, Subpart C or approved alternative markings.
+
+   3. SkyWard sUAS operations under this exemption will be conducted within the visual line of
+      sight of the pilot operator or least one observer, at less than 400 feet AGL, in coordination
+      with the FSDO, within Class G airspace and with the permission of the flight standards service
+      station or other local authority, as applicable. Operations in controlled B,C, or D airspace will
+      be conducted in coordination with FSDO and ATC with prior permission.
+
+   4. SkyWard operations will be conducted in defined regions and over property authorized for this
+      use by the landowner. Consistent with the recently issued Section 333 Exemption No. 11062
+      (Astraeus Aerial), the area of operations will be submitted for approval to the local FSDO
+      and will be subject to any restrictions or conditions imposed by the FSDO. Class G airspace
+      operations will also be subject to the express written approval of the Flight Service Station.
+      All operations will remain within the geographic boundaries of the operating area.
+
+   5. LE sUAS operations under this exemption will be conducted under the supervision of a desig-
+      nated pilot in command (PIC) who has final responsibility for the operation and in accordance
+      with 14 C.F.R. 91.3. See the Pilot Requirements section below. All LE sUAS operators and
+      observers must have completed training on the normal, abnormal, and emergency procedures
+      in the SkyWard Manual, demonstrated proficiency with the sUAS being operated, and passed
+      the Private Pilot FAA Ground School knowledge test.
+                                                                                                                                            8
+
+   6. Operators and engineers will maintain the LE sUAS system in a condition for safe opera-
+      tion according to the SkyWard Manual and associated manufacturer's maintenance manuals,
+      including pre-flight and post-flight inspections.
+
+   7. The PIC and observers will maintain situational awareness and perceive, process, and perform
+      risk management prior to and during each operation as described in the SkyWard Manual.
+      The PIC will terminate the operation in accordance with the SkyWard Manual if hazards that
+      cannot be acceptably mitigated are observed.
+
+   8. LE sUAS will safely stop operating and either return home or auto-land at a location along
+      the flight path if the control link is lost.
+
+   9. For each LE sUAS, the PIC will have the ability to force a controlled landing at any time or
+      to deploy the parachute for an emergency landing.
+
+In addition to the above, SkyWard has implemented a Safety Management System. The SkyWard
+Safety Manager is responsible for conducting safety audits, investigations, and inspections and is
+authorized to stop or prohibit any activity or operations which is considered unsafe. Full details
+are available in chapter 6 of the SkyWard Manual.
+
+(f ) A summary FAA can publish in the FEDERAL REGISTER, stating: (1) The rule
+from which you seek the exemption; and (2) A brief description of the nature of the
+exemption you seek.
+
+Petitioner: SkyWard IO, Inc.
+Sections of 14 C.F.R 21; 45.23(b); 91.9(b); and 91.203(a) and (b) and ancillary sections. Description
+of Relief Sought: Petitioner seeks to be exempt from the requirements of 14 C.F.R. Part 21(Subpart
+H), § 91.121, §21.193, §91.203, §91.319, §91.119; §91.413; §91.215, §91.155, §91.109, §91.111, §91.113,
+§91.115, §91.151; §91.203(a); §91.203(b), §91.9(b,c); part 43; §45.11, §45.21, §45.22(d); §47.16, part
+49, part 61, and part 67. Skyward requests this regulatory relief in order to conduct R&D and
+commercial use for a class of sUAS over private and public property subject to operating procedures
+that meet an equivalent level of safety as those that FAA requires for similar operations in manned
+aviation.
+
+(g) Any additional information, views or arguments available to support your request
+
+Please see the introduction to this exemption request and the attached "Exhibit A: Information
+Supporting Petition."
+
+(h) If you want to exercise the privileges of your exemption outside of the United States,
+the reason why you need to do so. Some SkyWard partners and clients operate manufacturing
+and testing facilities outside the United States. Nonetheless, SkyWard pilots operating in any
+jurisdiction will operate according to the standards promulgated by the FAA and the restrictions
+outlined here and in the SkyWard manual.
+                                                                                                                                            9
+
+SkyWard seeks this exemption to conduct commercial operations and supporting R&D of sUAS
+within specified areas in the NAS. Without this exemption, sUAS innovation will be suppressed,
+the public economic benefits derived from increased sUAS development will be denied, and the
+Congressional directive to accelerate the integration of UAS into the NAS will be impeded. SkyWard
+LE sUAS physical and operational characteristics are compliant with those described in the FMRA
+and FAA's guidance for Sec 333 exemptions. SkyWard respectfully requests that the FAA grant its
+petition for exemption from airworthiness, COA, and COW requirements.
+
+Please do not hesitate to contact Andrew McCollough, the Regulatory Services POC, via email at
+exemption@skyward.io if you have any questions or concerns.
+
+Very Respectfully Yours,
+
+Jonathan Evans
+SkyWard CEO
+

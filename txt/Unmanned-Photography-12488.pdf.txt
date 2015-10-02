@@ -1,0 +1,2153 @@
+August 18, 2015
+
+                                                           Exemption No. 12488
+                                                           Regulatory Docket No. FAA­2015­2254
+
+Mr. Brent M. Detter
+Unmanned Photography
+125 Stanley Avenue
+Landisville, PA 17538
+
+Dear Mr. Detter:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter dated May 22, 2015, you petitioned the Federal Aviation Administration (FAA) on
+behalf of Unmanned Photography (hereinafter petitioner or operator) for an exemption. The
+petitioner requested to operate an unmanned aircraft system (UAS) to conduct aerial
+photography, videography, surveying, mapping, monitoring, and inspections.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner is a 3D Robotics IRIS+.
+
+The petitioner requested relief from 14 CFR part 21, Certification procedures for products
+and parts, Subpart H--Airworthiness Certificates. In accordance with the statutory criteria
+provided in Section 333 of Public Law 112-95 in reference to 49 U.S.C. § 44704, and in
+consideration of the size, weight, speed, and limited operating area associated with the
+                                                                                                                 2
+
+aircraft and its operation, the Secretary of Transportation has determined that this aircraft
+meets the conditions of Section 333. Therefore, the FAA finds that the requested relief from
+14 CFR part 21, Certification procedures for products and parts, Subpart H--Airworthiness
+Certificates, and any associated noise certification and testing requirements of part 36, is
+not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection1. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+· They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+· The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+· A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, Unmanned Photography is granted an exemption from
+14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a), 91.7(a), 91.119(c),
+91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a) and (b), to
+the extent necessary to allow the petitioner to operate a UAS to perform aerial data collection.
+This exemption is subject to the conditions and limitations listed below.
+
+1 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                             3
+
+Conditions and Limitations
+
+In this grant of exemption, Unmanned Photography is hereafter referred to as the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+1. Operations authorized by this grant of exemption are limited to the 3DR IRIS+ when
+    weighing less than 55 pounds including payload. Proposed operations of any other
+    aircraft will require a new petition or a petition to amend this exemption.
+
+2. Operations for the purpose of closed-set motion picture and television filming are
+    not permitted.
+
+3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+    exemption holder may use either groundspeed or calibrated airspeed to determine
+    compliance with the 87 knot speed restriction. In no case will the UA be operated at
+    airspeeds greater than the maximum UA operating airspeed recommended by the
+    aircraft manufacturer.
+
+4. The UA must be operated at an altitude of no more than 400 feet above ground level
+    (AGL). Altitude must be reported in feet AGL.
+
+5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+    This requires the PIC to be able to use human vision unaided by any device other than
+    corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+    U.S. driver's license.
+
+6. All operations must utilize a visual observer (VO). The UA must be operated within
+    the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+    to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+    capability. The VO and PIC must be able to communicate verbally at all times;
+    electronic messaging or texting is not permitted during flight operations. The PIC
+    must be designated before the flight and cannot transfer his or her designation for the
+    duration of the flight. The PIC must ensure that the VO can perform the duties
+    required of the VO.
+
+7. This exemption and all documents needed to operate the UAS and conduct its
+    operations in accordance with the conditions and limitations stated in this grant of
+    exemption, are hereinafter referred to as the operating documents. The operating
+    documents must be accessible during UAS operations and made available to the
+    Administrator upon request. If a discrepancy exists between the conditions and
+    limitations in this exemption and the procedures outlined in the operating documents,
+    the conditions and limitations herein take precedence and must be followed.
+                                                                                                            4
+
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+                                                                                                            5
+
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+    exemption holder may apply for a new or amended COA if it intends to conduct
+    operations that cannot be conducted under the terms of the attached COA.
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+    number, registered in accordance with 14 CFR part 47, and have identification
+                                                                                                               6
+
+       (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+       be as large as practicable.
+
+   23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+       any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+       PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+       These documents must be made available to the Administrator or any law enforcement
+       official upon request.
+
+   24. The UA must remain clear and give way to all manned aviation operations and
+       activities at all times.
+
+   25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+   26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+       persons, vessels, vehicles, and structures unless:
+          a. Barriers or structures are present that sufficiently protect nonparticipating persons
+             from the UA and/or debris in the event of an accident. The operator must ensure
+             that nonparticipating persons remain under such protection. If a situation arises
+             where nonparticipating persons leave such protection and are within 500 feet of
+             the UA, flight operations must cease immediately in a manner ensuring the safety
+             of nonparticipating persons; and
+          b. The owner/controller of any vessels, vehicles or structures has granted permission
+             for operating closer to those objects and the PIC has made a safety assessment of
+             the risk of operating closer to those objects and determined that it does not
+             present an undue hazard.
+
+       The PIC, VO, operator trainees or essential persons are not considered
+       nonparticipating persons under this exemption.
+
+   27. All operations shall be conducted over private or controlled-access property with
+       permission from the property owner/controller or authorized representative.
+       Permission from property owner/controller or authorized representative will be
+       obtained for each flight to be conducted.
+
+   28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+       boundaries of the operational area as defined by the applicable COA must be reported
+       to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+       reported to the National Transportation Safety Board (NTSB) per instructions
+       contained on the NTSB Web site: www.ntsb.gov.
+
+If this exemption permits operations for the purpose of closed-set motion picture and
+television filming and production, the following additional conditions and limitations apply.
+                                                                                                                 7
+
+    29. The operator must have a motion picture and television operations manual (MPTOM)
+         as documented in this grant of exemption.
+
+    30. At least 3 days before aerial filming, the operator of the UAS affected by this
+         exemption must submit a written Plan of Activities to the local Flight Standards
+         District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+         notification may be waived with the concurrence of the FSDO. The plan of activities
+         must include at least the following:
+           a. Dates and times for all flights;
+           b. Name and phone number of the operator for the UAS aerial filming conducted
+              under this grant of exemption;
+           c. Name and phone number of the person responsible for the on-scene operation of
+              the UAS;
+           d. Make, model, and serial or N-Number of UAS to be used;
+           e. Name and certificate number of UAS PICs involved in the aerial filming;
+           f. A statement that the operator has obtained permission from property owners
+              and/or local officials to conduct the filming production event; the list of those
+              who gave permission must be made available to the inspector upon request;
+           g. Signature of exemption holder or representative; and
+           h. A description of the flight activity, including maps or diagrams of any area, city,
+              town, county, and/or state over which filming will be conducted and the altitudes
+              essential to accomplish the operation.
+
+    31. Flight operations may be conducted closer than 500 feet from participating persons
+         consenting to be involved and necessary for the filming production, as specified in the
+         exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                      8
+
+This exemption terminates on August 31, 2017, unless sooner superseded or rescinded.
+
+Sincerely,
+
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+May 22, 2015
+
+U.S. Department of Transportation
+Docket Management System
+1200 New Jersey Avenue, SE
+Washington, DC 20590
+
+Re: Exemption Request Section 333 of the FAA Reform Act and
+         Part 11 of the Federal Aviation Regulations
+
+Dear Sir or Madam,
+
+We, Unmanned Photography, are writing pursuant to the FAA Modernization and Reform Act of 2012 and the
+procedures contained within 14 C.F.R. 11, to request that, Unmanned Photography, an owner and operator of
+small unmanned aircraft, be exempted from the Federal Aviation Regulations ("FARs") listed below so that We,
+Unmanned Photography, may operate unmanned aircraft system ("UAS") commercially in airspace regulated by
+the Federal Aviation Administration ("FAA").
+
+Currently using a 3DR IRSI+Quadcopter¹,2 with intent for aerial photography / videography to showcase
+constructed projects for architects, landscape architects, and contractors in and around South Eastern
+Pennsylvania. Other anticipated applications would include surveying, mapping, and construction site monitoring.
+Use of the UAS for aerial photography, inspections and surveys reduce the need to utilize conventional manned
+aircraft, manned lifting devices or manned climbing for the same purpose and provides very high quality imagery
+at a fraction of the cost. These savings result in enhanced safety, efficiency and productivity for the affected
+activities, as well as environmental benefits.
+
+We, Unmanned Photography, are committed to safety with each flight. Our exemption request would permit
+operation of ultra-light weight, UAS(s) in tightly controlled and limited airspace. Predetermined in areas away
+from general public, airports, heliports and vehicular traffic.
+
+Currently, similar lightweight, remote controlled UAS's are legally operated by unmonitored amateur hobbyists
+with no safety plan or controls in place to prevent catastrophe. We, Unmanned Photography, have personally
+instilled safety protocols and controls3 to avoid and prevent public hazard, as well as manned aircraft
+hazards/catastrophe. This will act to further safety protocols exclusive to lightweight UAS's specific to aerial
+photography, surveying, and mapping applications as We, Unmanned Photography, record flight data and other
+information gained through permitted flight operations to share with the FAA through any required FAA reports
+to assist with future protocol and safety regulation.
+
+Granting our request comports with the Secretary of Transportation's (FAA Administrator's) responsibilities and
+authority to not only integrate UAS's into the national airspace system, but to "...establish requirements for the
+safe operation of such aircraft systems [UAS's] in the national airspace system" under Section 333(c) of the Reform
+Act specific to the use of UAS's for Cinematography/Photo purposes. Further We, Unmanned Photography, will
+conduct our operations in compliance with the protocols described herein or as otherwise established by the FAA.
+
+For the reasons stated below We, Unmanned Photography, respectfully request the grant of an exemption
+allowing us to operate ultra-lightweight, remote controlled UAS's for aerial photography, mapping, and surveying
+operations that are now conducted with fixed wing and rotary conventional aircraft or other manned means of
+inspections. All of which will promote local economic growth through increased employment and increased tax
+
+Unmanned Photography Section 333 Exemption Petition          1 of 7
+base. Both with public safety in mind by keeping heavier manned aircraft containing combustible fuel that that
+poses potential public hazard.
+
+I. Contact Information
+
+Unmanned Photography
+Brent M. Detter
+125 Stanley Avenue
+Landisville, PA 17538
+(717) 468-0700
+brentdetter@unmanned-photography.com
+
+II. Regulations Petitioner Petitions for Exemption, If Such Regulations Apply to sUAVs
+
+14 CFR Part 21           14 CFR 91.103                               14 CFR 91.405 (a)
+14 C.F.R. 45.23(b)       14 CFR 91.109(a)                            14 CFR 407 (a) (1)
+14 CFR 61.113 (a) & (b)  14 CFR 91.119                               14 CFR 409 (a) (2)
+14 CFR 61.133 (a)        14 CFR 91.121                               14 CFR 417 (a) & (b)
+14 CFR 91.7 (a) and (b)  14 CFR 91.151 (a)
+14 CFR 91.9 (b) (2)      14 CFR 91.203 (a) & (b)
+
+III. The Extent of Relief Sought and the Reason We Seek Such Relief
+
+We, Unmanned Photography, submit this application in accordance with the Reform Act, 112 P.L. 95 §§ 331-
+334, seeking relief from any currently applicable FARs operating to prevent Us, Unmanned Photography, to
+pursue aerial photography, surveying, mapping and other flight operations within the national airspace
+system. The Reform Act in Section 332 provides for such integration of civil unmanned aircraft systems into
+our national airspace system as it is in the public's interest to do so. Our, Unmanned Photograph's, ultra-
+lightweight UAS meets the definition of "small unmanned aircraft" as defined in Section 331 and therefore
+the integration of our ultra-lightweight UAS is expressly contemplated by the Reform Act. We would like to
+operate our ultra-lightweight UAS prior to the time period by which the Reform Act requires the FAA to
+promulgate rules governing such craft.
+
+Thereby, providing direct experience and valuable information for formal regulation that can be administered
+uniformly to all construction related UAS aerial photography, surveying and mapping. The Reform Act guides
+the Secretary in determining the types of UAS's that may operate safely in our national airspace system.
+Considerations include: The weight, size, speed and overall capabilities of the UAS's; whether the UAS will be
+operated near airports or heavily populated areas; and, whether the UAS will be operated by line of sight. 112
+P.L. 95 § 333 (a). Each of these items reflect in favor of an exemption for Us, Unmanned Photography. Our
+UAS utilizes four (4) counter-rotating propellers for balance, control and stability. Our UAS is equipped with
+GPS and Return to Launch safety technology. Weighing less than ten (10) pounds (far below the maximum 55
+pound limit); including camera with gimbal.
+
+We, Unmanned Photography, considers safety as foremost with each flight. Our small unmanned aircraft is
+designed to hover in place via GPS and operate in less than a 24 knot (15 mph) wind. For safety, stability and
+fear of financial loss we will not fly in winds exceeding 16 kph (10 mph). Built in safety systems include a Loiter
+Mode that allows our UAS to hover in place when radio control inputs are released. With three modes to
+choose from, we utilize the Loiter Mode for aerial photography. This is the safest, most reliable and stable
+
+Unmanned Photography Section 333 Exemption Petition                                     2 of 7
+    mode to prevent accident and hazard. When pilot communication is lost our UAS is designed to slowly descend
+    to point of take-off. We do not operate our UAS near airports, Hospitals nor Police heliports, and do not
+    operate near areas where general public is within fifty to one hundred (50-100) yards depending on location,
+    conditions and weather.
+
+    We are constantly on alert for any manned aircraft (Police/Medical helicopters, etc.) and are prepared to
+    land/abort immediately to the nearest and safest ground point should a manned aircraft approach our
+    location or we suspect manned aircraft may approach near our location. Our UAS is capable of vertical and
+    horizontal operations, and is flown only within line of sight of the pilot. Utilizing battery power rather than
+    combustible fuels, flights generally last between eighteen (18) to twenty (20) minutes, with an altitude under
+    three hundred (300) feet.
+
+    We, Unmanned Photography, utilize a fresh fully charged battery with each flight as a safety precaution; full
+    flight time limit for each battery is eighteen (18) to twenty (20) minutes as tested. We do not operate our UAS
+    at or below manufacturer recommended minimum charge levels for operation; preferring to remain well
+    within a safe operating range to insure adequate communication between radio control and UAS to eliminate
+    potential for crash, loss of control or hazard. Reserve batteries are at hand with each exercise to insure
+    replacement for sufficient safe level of operation.
+
+    We do not believe in taking risk that may cause a crash that could create hazard to the
+    public/property/manned aircraft. We have clocked over 50+ hours of hobby level flights for future commercial
+    use to gain familiarization with the characteristics of this specific UAS's performance under different
+    temperature and weather conditions. We also practice computerized simulated flights to maintain adequate
+    skills and response reflex time.
+
+    We, Unmanned Photography, am extremely cautious when operating of our UAS/ultra-lightweight unmanned
+    aircraft and will not "create a hazard to users of the national airspace system or the public." 112 P.L. 95 § 333
+    (b). Given the small size and weight of our UAS it falls well within Congress's contemplated safety zone when
+    it promulgated the Reform Act and the corresponding directive to integrate UAS's into the national airspace
+    system. The UAS, used in hobby flight, has a demonstrable safety record and does not pose any threat to the
+    general public or national security.
+
+IV. How Unmanned Photography's Request Will Benefit the General Public
+
+    Aerial photography, surveying and mapping for the Architectural, Engineering and Construction market has
+    been around for a long time through manned fixed wing aircraft and helicopters. However, for small budget
+    companies and average design professionals the expense of such aerial services is cost prohibitive. Only large
+    companies can afford to absorb such expenses, depriving smaller companies from a valuable marketing and
+    construction observation tool. Manned aircraft can pose a threat to the public through potential catastrophic
+    crashes which may result in possible loss of life. Our UAS pose no such threat since size and lack of combustible
+    fuel alleviates any potential threat to the public.
+
+    Congress has already proclaimed that it is in the public's interest to integrate commercially flown UAS's into
+    the national airspace system, hence the passing of the Reform Act. Granting Our, Unmanned Photograph's,
+    exemption request furthers the public interest through academic/visual awareness of the geographical
+    benefits in and around the South Florida area. Our ultra-lightweight UAS is battery powered and creates no
+    emissions that can harm the environment. The consequence of our ultra-lightweight UAS crashing is far less
+
+Unmanned Photography Section 333 Exemption Petition  3 of 7
+than a full size helicopter or fixed wing aircraft; which are heavy, contain combustible fuel and can cause
+catastrophic devastation to the public
+
+The public's interest is furthered by minimizing ecological and crash threat by permitting aerial photography,
+surveying and mapping through our battery operated ultra lightweight UAS's.
+
+Permitting us, Unmanned Photography, to immediately fly within national air space furthers economic
+growth. Granting our exemption request substantially furthers the economic impact for the south central
+Pennsylvania Florida community for companies looking to benefit from aerial photography, surveying and
+mapping. Both of which serve as a stimulus to the community.
+
+V. Reasons Why Unmanned Photography's Exemption Will Not Adversely Affect Safety and How The
+    Exemption Will Provide a Level of Safety At Least Equal To Existing Rule
+
+Our, Unmanned Photograph's, exemption will not adversely affect safety. Quite the contrary, for the reasons
+stated permitting us, Unmanned Photography, to log more flight time in FAA controlled airspace, with
+communication with the FAA, will allow me to contribute to the innovation and implementation of new and
+novel, as of yet undiscovered safety protocols for UAS Pilots that can be embraced for development in
+cooperation with the FAA. In addition We, Unmanned Photography, submit the following representations of
+enhancements to current aerial videography and photography:
+
+a. Our UAS weighs less than 10 pounds complete with a small ultra-lightweight high camera
+b. We only operate our UAS below 300 feet (well within the 400 foot permissible ceiling set by the FAA
+
+    Modernization and Reform Act of 2012);
+c. Our UAS only operate for 18-20 minutes per flight;
+d. We land our UAS prior to manufacturer recommended minimum level of battery power;
+e. We pilot our UAS through remote control only by line of sight;
+f. Our UAS has GPS a flight safety feature whereby it hovers and then slowly lands if communication with
+
+    the remote control pilot is lost;
+g. We actively analyze flight data and other sources of information to constantly update and enhance safety
+
+    protocols;
+h. We only operate in reasonably safe environment that are strictly controlled, are away from power lines,
+
+    elevated lights, airports and actively populated areas;
+i. We conduct extensive pre-flight inspections and protocol, during which safety carries primary importance;
+j. WE always obtains all necessary permissions prior to operation; and,
+k. WE have procedures in place to abort flights in the event of safety breaches or potential danger.
+
+Our, Unmanned Photograph's, safety protocols provide a level of safety equal to or exceeding existing rules.
+It is important to note that absent the integration of commercial UAS into our national airspace system,
+traditional helicopters and fixed wind aircraft are the primary means of aerial photography, surveying and
+mapping in the design and construction industry. While the safety record of such helicopters is remarkably
+astounding, it is far safer to operate a battery powered ultra-lightweight UAS.
+
+a. First, the potential loss of life is diminished because UAS's carry no people on board and only operated in
+    specific areas away from mass populations.
+
+b. Second, there is no fuel on board a UAS and thus the potential for fire or explosions is greatly diminished.
+c. Third, the small size and extreme maneuverability of our UAS allow me to remotely pilot away from and
+
+    avoid hazards quickly and safely.
+
+Unmanned Photography Section 333 Exemption Petition  4 of 7
+    d. Lastly, given its small size and weight, even when close enough to capture amazing images, our UAS need
+         not be so close to the objects they are focused on through the technology and use of post editing software
+         allowing pan and zoom.
+
+    Accordingly, our UAS has been experimentally operated for familiarization/competency and will continue to
+    operate at and above current safety levels.
+
+VI. A Summary - The FAA May Publish in the Federal Register
+
+    A. 14 C.F.R. 21 & 14 C.F.R. 91: Airworthiness Certificates, Manuals and the Like
+
+    14 C.F.R. 21, Subpart H, entitled Airworthiness Certificates, sets forth requirements for procurement of
+    necessary airworthiness certificates in relation to FAR § 91.203(a)(1). The size, weight and enclosed
+    operational area of Our, Unmanned Photograph's, UAS permits exemption from Part 21 because our UAS
+    meets (and exceeds) an equivalent level of safety pursuant to Section 333 of the Reform Act. The FAA is
+    authorized to exempt aircraft from the airworthiness certificate requirement under both the Act (49 U.S.C. §
+    44701 (f)) and Section 333 of the Reform Act. Both pieces of legislation permit the FAA to exempt UAS's from
+    the airworthiness certificate requirement in consideration of the weight, size, speed, maneuverability and
+    proximity to areas such as airports and dense populations.
+
+    Our, Unamend Photography's, current and projected UAS's meet or exceed each of the elements.
+
+    14 C.F.R. 91.7(a) prohibits the operation of an aircraft without an airworthiness certificate. As no such
+    certificate will be applicable in the form contemplated by the FARs, this Regulation is inapplicable.
+
+    14 C.F.R. § 91.9 (b) (2) requires an aircraft flight manual in the aircraft. As there are no on board pilots or
+    passengers, and given the size of the UAS's, this Regulation is inapplicable. An equivalent level of safety will
+    be achieved by maintaining a safety/flight manual delineating areas of where safety can be defined. The FAA
+    has previously issued exemptions to this regulation in Exemption Nos. 8607, 8737, 8738, 9299, 9299A, 9565,
+    9565B, 10167, 10167A,10602, 10700 and 32827.
+
+    14 C.F.R. § 91.121 regarding altimeter settings is inapplicable insofar as our UAS utilizes electronic global
+    positioning systems with a barometric sensor.
+
+    14 C.F.R. § 91.203 (a) and (b) provides for the carrying of civil aircraft certifications and registrations. They are
+    inapplicable for the same reasons described above. The equivalent level of safety will be achieved by
+    maintaining any such required certifications and registrations by Unmanned Photography.
+
+    B. 14 C.F.R. § 45.23: Marking of The Aircraft
+
+    Applicable Codes of Federal Regulation require aircraft to be marked according to certain specifications. Our
+    UAS are, by definition, unmanned. They therefore do not have a cabin, cockpit or pilot station on which to
+    mark certain words or phrases.
+
+    Further, two-inch lettering is difficult to place on such small aircraft with dimensions smaller that minimal
+    lettering requirement. Regardless, we will mark our UAS's in the largest possible lettering by placing the word
+    "EXPERIMENTAL" on its fuselage as required by 14 C.F.R. §45.29 (f) so that the pilot, or anyone assisting as a
+
+Unmanned Photography Section 333 Exemption Petition  5 of 7
+spotter with the UAV will see the markings. The FAA has previously issued exemptions to this regulation
+through Exemptions Nos. 8738, 10167, 10167A and 10700.
+
+C. 14 C.F.R. § 61.113: Private Pilot Privileges and Limitations: PIC
+
+Pursuant to 14 C.F.R. §§ 61.113 (a) & (b), private pilots are limited to non-commercial operations. We,
+Unmanned Photography, can achieve an equivalent level of safety as achieved by current Regulations because
+our UAS does not carry any pilots or passengers. Further, while helpful, a pilot license will not ensure remote
+control piloting skills. The risks attended to the operation of our UAS are far less than the risk levels inherent
+in the commercial activities outlined in 14 C.F.R. § 61, et seq. Thus, allowing us, Unmanned Photography, to
+operate our UAS meeting and exceeding current safety levels in relation to 14 C.F.R. §61.113 (a) & (b).
+
+D. 14 C.F.R. 91.119: Minimum Safe Altitudes
+
+14 C.F.R. § 91.119 prescribes safe altitudes for the operation of civil aircraft. It allows helicopters to be
+operated at lower altitudes in certain conditions. Our UAS will never operate at an altitude greater than 300
+AGL; safely below the standard of 400 AGL. We, Unmanned Photography, will however operate our UAS in
+safe areas away from public and traffic, providing a level of safety at least equivalent to or below those in
+relation to minimum safe altitudes. Given the size, weight, maneuverability and speed of our UAS, an
+equivalent or higher level of safety will be achieved.
+
+E. 14 C.F.R. 91.405 (a); 407 (a) (1); 409 (a) (2); 417(a) & (b): Maintenance Inspections
+
+The above-cited Regulations require, amongst other things, aircraft owners and operators to "have [the]
+aircraft inspected as prescribed in subpart E of this part and shall between required inspections, except as
+provided in paragraph (c) of this section, have discrepancies repaired as prescribed in part 43 of this chapter.
+. . ."
+
+These Regulations only apply to aircraft with an airworthiness certificate. They will not, therefore, apply to
+Our, Unmanned Photograph's, UAS. However, as a safety precaution WE inspect our UAS before and after
+each flight.
+
+A Summary: The FAA May Publish in the Federal Register: A. 14 C.F.R. 21 and 14 C.F.R. 91: Airworthiness
+Certificates, Manuals and the Like. 14 C.F.R. 21, Subpart H, entitled Airworthiness Certificates, sets forth
+requirements for procurement of necessary airworthiness certificates in relation to FAR § 91.203(a)(1). The
+size, weight and enclosed operational area of our UAS permits exemption from Part 21 because Our,
+Unmanned Photograph's, UAS meets an equivalent level of safety pursuant to Section 333 of the Reform Act.
+The FAA is authorized to exempt aircraft from the airworthiness certificate requirement under both the Act
+(49 U.S.C. § 44701 (f)) and Section 333 of the Reform Act. Both pieces of legislation permit the FAA to exempt
+UAS's from the airworthiness certificate requirement in consideration of the weight, size, speed,
+maneuverability and proximity to areas such as airports and dense populations. Our UAS meets or exceeds
+each of the elements. 14 C.F.R. 91.7(a) prohibits the operation of an aircraft without an airworthiness
+certificate. As no such certificate will be applicable in the form contemplated by the FARs, this Regulation is
+inapplicable. 14 C.F.R. § 91.9 (b) (2) requires an aircraft flight manual in the aircraft. As there are no pilots or
+passengers, and given the size of the UAS's, this Regulation is inapplicable. An equivalent level of safety will
+be achieved by maintaining a manual. The FAA has previously issued exemptions to this regulation in
+Exemption Nos. 8607, 8737, 8738, 9299, 9299A, 9565, 9565B, 10167, maintenance program that involves
+
+Unmanned Photography Section 333 Exemption Petition  6 of 7
+regular software updates and curative measures for any damaged hardware. Therefore, an equivalent level
+of safety will be achieved.
+
+F. In summary, Unmanned Photography seeks an exemption from the following Regulations
+
+14 CFR Part 21           14 CFR 91.103                                            14 CFR 91.405 (a)
+14 C.F.R. 45.23(b)       14 CFR 91.109(a)                                         14 CFR 407 (a) (1)
+14 CFR 61.113 (a) & (b)  14 CFR 91.119                                            14 CFR 409 (a) (2)
+14 CFR 61.133 (a)        14 CFR 91.121                                            14 CFR 417 (a) & (b)
+14 CFR 91.7 (a) and (b)  14 CFR 91.151 (a)
+14 CFR 91.9 (b) (2)      14 CFR 91.203 (a) & (b)
+
+To commercially operate our small unmanned vehicle/lightweight unmanned aircraft vehicle in community
+awareness, aerial photography, surveying and mapping services, and to develop economic platforms for
+design professionals and contractors to market their projects, services, and documents construction progress.
+Currently, area design professionals and contractors rely primarily on the use of larger aircraft running on
+combustible fuel. Posing potential risk to the public.
+
+Granting our request for exemption will reduce current risk levels and thereby enhance safety. Our UAS craft
+does not contain potentially explosive fuel, is smaller, lighter and more maneuverable than conventional video
+and photographic aircraft with much less flight time. Further, We operate at lower altitudes and in controlled
+airspace eliminating potential public risk flying to and from established air fields. We, Unmanned
+Photography, have been informally analyzing flight information and have compiled safety protocols and the
+implementation of a flight operations manual for UAS usage that exceeds currently accepted means and
+methods for safe flight. Formal collection of information shared with the FAA will enhance the FAA's internal
+efforts to establish protocols for complying with the FAA Modernization and Reform Act of 2012. There are
+no personnel on board our UAS and therefore the likelihood of death or serious bodily injury is significantly
+diminished.
+
+Operation of our UAS, weighing less than 10 pounds and travelling at lower speeds within limited areas will
+provide an equivalent level of safety as that achieved under current FARs. Accordingly We, Unmanned
+Photography, respectfully request that the FAA grant our exemption request and am willing to cooperate in
+sharing information to benefit the FAA, safety of manned aircraft, and the general public at large.
+
+Sincerely,
+Unmanned Photography
+
+    Brent M. Detter                                                                    7 of 7
+    Owner
+
+    Enclosure:
+    1. Appendix A IRIS+ Operation Manual
+    2. Appendix B FlySky ER9X Controller Operation Manual
+    3. Appendix C Unmanned Photography Standard Operating Procedures
+    4. Appendix D Unmanned Photography Flight Log
+
+      c:\users\brentd\google drive\up\correspondance\2015 05 xx 333 request.dotx
+
+Unmanned Photography Section 333 Exemption Petition
+Unmanned Photography
+        Appendix A
+
+IRIS+ Operation Manual
+                                                              IMPORTANT
+
+                                    Read before
+                                       flying!
+
+Operation Manual
+Contents
+
+01 Meet IRIS
+03Parts
+04 Charging the Battery
+06 Attaching Propellers
+07 Safety and Failsafes
+
+08 Learn to Fly
+11 Flight Modes
+13 Return to Launch
+13Geofence
+14  First Flight
+19 Planning Missions
+20 Flying Missions
+
+21 Specifications and Resources
+22 Learn More and Support
+Meet IRIS+.
+
+Thank you for purchasing IRIS+.
+IRIS is a personal aerial imaging platform powered by open-source
+hardware, software, and firmware. Please read this manual carefully
+before your first flight and pay close attention to safety information.
+Happy flying!
+
+        Important note: When using a GoPro with IRIS, always
+        ensure that the WiFi on the GoPro is turned OFF.
+
+                                                                                                                   01
+Front
+
+                                   antenna
+                                                            safety button
+
+                front arms (blue)
+
+    Rear
+
+                                   USB port
+
+    status LED
+
+                battery
+                compartment
+
+                           rear arms (black)
+
+02
+Parts
+
+Controller
+your direct link to IRIS
+
+Ground station radio
+with USB and Android adapters
+
+Battery kit
+battery, guard bag, and charger
+with international travel adapters
+
+Propellers and tool kit
+four propellers with propeller tool and
+small, medium, and large hex keys
+(1.5 mm, 2 mm, and 3 mm)
+
+Tall legs
+Switch to tall legs to use IRIS with the Tarot
+Gimbal or for extra clearance on landing.
+
+Use the small (1.5 mm) hex   Slide out the leg to remove it, and replace with the tall leg.
+key to loosen the set screw  Tighten the set screw until it sits flush with the surface.
+in the bottom of the leg.    Do not tighten the screw beyond this point.
+
+                                                                                                       03
+Charging the Battery
+
+IRIS is powered by a rechargeable lithium polymer (LiPo) battery. Store
+the battery at half charge then charge fully before flying. Batteries must
+ship at half charge, so please charge before your first flight. Each full
+battery provides up to 22 minutes of flight time without a gimbal and
+up to 16 minutes when using a Tarot Gimbal.*
+
+1 Connect charger to the         Connect the red cable to the
+      power adapter cable and    + port and the black cable
+      a wall outlet.             to the - port.
+
+                                 +
+
+2 Set the charger to             ­
+       LiPo and 3A.
+                                     LiPo 3A
+3 Connect the white
+      connector to the 3S port.
+      Join the two yellow
+      connectors together.
+
+                3S
+
+04
+4 Secure battery inside the guard bag
+       while charging. Charge until the status
+       indicator displays green.
+
+                                                                       Charging Complete
+
+     Battery Safety
+
+Protect the battery from extreme heat, extreme cold, puncturing,
+and flammable surfaces. Always transport, charge, and store
+the battery in the guard bag.
+
+Charge the battery using a designated LiPo balance charger only.
+Always monitor the battery while charging.
+
+Flying with a low battery is a safety risk and can render the battery
+unusable. Always discontinue use when you receive a low battery
+notification, and always fly with a fully charged battery.
+
+Inspect the battery for damage before takeoff and after landing.
+If you observe any swelling of the package or the battery ceases
+to function, locate your local battery recycling center to dispose
+of the battery. In the US and Canada, visit call2recycle.org to find
+a location. Do not dispose of the battery in the trash.
+
+*Flight time varies with payload, wind conditions, altitude,
+temperature, humidity, flying style, and pilot skill. See the Flight
+Checklist for instructions on managing battery levels during flight.
+
+                                                                                          05
+Attaching Propellers
+
+IRIS uses four propellers: two with black nuts and two with silver nuts.
+Attach the propellers with black nuts to the motors with black tops and
+the propellers with silver nuts to the motors with silver tops.
+
+Each propeller has locking and unlocking direction symbols. To attach,
+spin the propeller in the direction of the locking symbol. The propellers will
+automatically tighten onto the motors when you arm IRIS before takeoff.
+
+For propellers with black nuts:  For propellers with silver nuts:
+
+Spin clockwise to attach.        Spin counterclockwise
+                                 to attach.
+Spin counterclockwise
+to remove.                       Spin clockwise to
+                                 remove.
+
+                                              To remove, hold the motor in place with
+                                              the propeller tool, and spin the propeller
+                                              in the direction of the unlocking symbol.
+
+06
+     Safety
+
+IRIS has powerful motors and high-speed propellers. Never place your hands
+near propellers while IRIS is armed or the safety button displays solid red.
+Always press the safety button until it displays blinking red before handling.
+
+Always fly in an open area away from people and buildings; do not attempt to
+fly indoors or in a confined space. Do not fly over people, near airports, or in any
+situation that could pose a hazard to those around you. Always fly within your
+line of sight and in compliance with local regulations. IRIS will not avoid
+obstacles on its own. As the operator, it is your job to recognize and avoid
+obstructions while flying. Always follow the preflight and postflight steps in the
+order described in this manual, and remain attentive at all times while flying.
+
+Environmental factors, such as wind and GPS irregularities, can cause instability
+in flight. IRIS will attempt to compensate for these factors by triggering a failsafe
+if it detects an unsafe flying condition due to loss of controller signal, loss of GPS
+signal, or low battery (see below for details). To avoid potential hazards due to
+environmental factors, identify the boundaries of your flying area before takeoff,
+and recover IRIS manually by switching into standard (STD) if it moves outside
+your designated flying area. If you observe any inconsistent behavior, land, and
+consult the troubleshooting guide at 3dr.com/iris/info.
+
+Failsafes
+
+Loss of RC signal
+Always use the controller as a primary or backup control system when flying.
+Ensure that the controller is turned on any time IRIS is powered. If contact with
+the controller is lost during flight, IRIS will land and display a blinking yellow LED.
+If IRIS is more than 2 meters (6.5 feet) from the launch point, it will return to
+launch (RTL) before landing. (See page 13 for more information about RTL.)
+
+Loss of GPS signal
+IRIS requires an active GPS signal before takeoff. If IRIS loses GPS signal in flight,
+it will trigger a GPS failsafe, indicated by a blinking blue and yellow LED with a
+high-high-high-low tone, and automatically switch to manual control (standard
+- altitude hold mode). Always be prepared to regain manual control of IRIS at
+any time while flying and choose an unobstructed flying area to improve GPS
+signal strength. When flying a mission, we recommended changing the GPS
+failsafe behavior to land. (Visit 3dr.com/iris/info for more information about
+configuring the GPS failsafe.)
+
+Low battery
+When the battery reaches 25% of its remaining charge, IRIS will land and display
+a blinking yellow LED with a quick repeating tone. If IRIS reaches the low battery
+limit during a mission, it will return to the launch point before landing.
+
+                                                                                                                 07
+Learn to Fly                                          left stick:  right stick:
+                                                      throttle     pitch
+Maneuver IRIS in flighLLetefutftSsSitnitcigckk        & yaw        & roll
+the controller sticks.
+
+Throttle                  Left Stick
+
+Move the left stick up and down to control altitude.
+
+                          left stick
+
+To take off and to        Left Stick
+gain altitude, raise the
+throttle stick slightly
+above center position.
+
+Set the throttle stick
+to center to maintain
+the current altitude.
+
+Lower the throttle        Left Stick
+stick below center        Left Stick
+to decrease altitude.
+
+Set the throttle stick    Left Stick
+fully down to land
+once IRIS is a few
+inches above the
+ground.
+
+08
+YawLHtLHtoooooohwhwvvooeeeevvrrrreejj++urur ssLLttMFaaossnonrlliivadgdgehshtltohtllweyylreofttasttiiocnk,hmoLoriLevzefeotftnStShttiatceilcklskytitcokrsoltiagthetlIyRaISwaanydfrcohmantghee  orientation.  LLeefftt
+                                                                                                                                                                                             center        RRiigghhtt
+
+in either direction. Moving the stick farther from the center creates
+
+a faster rotation.
+
+                                                                                                                                                  left stick
+
+LLeefftt YYaaww
+
+                    Move the stick to
+                    the left to rotate
+                    counterclockwise.
+
+RRiigghhtt YYaaww
+                    Move the stick
+                    to the right to
+                    rotate clockwise.
+
+HDssDHttoeoeooalplapddccssututpipinnvviitntnaaiilnlnttepoRsmpeiitnrenorairleepogiognnarttpspoaaeitteenaitothltlnilhlene.eegsrtrcaisuscnrkdretont
+
+Flight Tip
+When adjusting orientation, move the left stick horizontally without changing its
+vertical position.
+
+                                                                                                                   09
+           Pitch and Roll
+
+           The right stick allows you to control IRIS' position in the air. Move the right
+           stick to tell IRIS to move in that direction: forward (toward the blue arms),
+           back (toward the black arms), left (toward the left arms), or right (towards
+           the right arms). How far you move the stick from the center before releasing
+           it tells IRIS how fast to move.
+
+pellers                        right stick  Forward
+p. ellers
+pellers    Move the right                   Forward
+pellers    stick forward to                 Forward
+           fly forward.                     Forward
+ t
+ thtly     Move the right                   Back
+ ht tly    stick back to fly
+ ht tly    backward.                        Back
+ htly                                       Back
+                                            Back
+d
+dghtly     Move the right                   Left
+gdhtly     stick left to fly
+dghtly     left.                            Left
+ghtly                                       Left
+                                            Left
+
+           Move the right                   Right
+           stick right to fly
+           right.                           Right
+                                            Right
+                                            Right
+
+               Flight Tip
+               IRIS moves according to its orientation. The blue arms and white lights face
+               forward, and the black arms and red lights face backward. Before using the right
+               stick, use yaw to keep IRIS facing in outward orientation so that the black arms and
+               red lights face towards you and the blue arms and white lights face away from you.
+
+           10
+Flight Modes  Full Autonomy                                                                       mode switch
+
+IRIS includes three flight modes: manual flight
+(STD-altitude hold), hover mode (LTR-loiter), and
+rmigishstiosindefliogfhtth(eAcUoTnOtr)o.llUesretothseelsewctitachfliognhRttehmtuerondteo. Launch
+
+                                            Loiter
+
+Standard (altitude hold mode)
+
+STD                            Full Autonomy
+
+fly manually  Altitude Hold
+
+Start your flight in standard to select altitude hold
+mode, and fly IRIS manually using the controller.
+
+                                                        Loiter
+
+              Stabalize
+
+Loiter mode                    Altitude Hold
+
+LTR
+
+hover
+
+Select loiter to set IRIS to hover in place automatically. Use the
+controller to adjust IRIS' position then release the sticks to hold
+that position. Loiter is a great way for beginners to learn how to fly!
+If you're new to flying, start your first fSlitgahbatliizneloiter instead of standard.
+
+To avoid sudden changes in altitude, set the throttle stick
+to center position before switching modes, including in the
+event of a GPS failsafe.
+
+Advanced Operator Note: If you choose to modify the flight mode configuration to
+include Stabilize mode, please fly only with the provided set of tall legs. Flying in Stabilize
+with short legs can cause vibrations that may interfere with autopilot calculations and
+produce unexpected behavior.
+
+                                                                                                  11
+    Auto mode       Altitude Hold
+
+    AUTO
+
+    fly a mission
+
+    Select auto mode to fly an autonomous mission. IRIS will
+    automatically fly the series of waypoints saved to the autopilot.
+    See pages 19 and 20 for Linositterructions on planning and flying missions.
+
+          Do not activate auto mode unless you have saved a
+          mission to IRIS using a ground station application.
+
+                    Full Autonomy
+
+    Gimbal control
+
+    TILT
+
+    tilt the camera up and down
+
+    CcoonntnroelctthaeTaanroglteGoifmtbhaeSltca(RasbemoatluliedzrnresateoipnLafarluaignthectlhy. )V, iasnitd3udsr.ecothme/TirIiLsT/kinnfoobfotor
+    instructions.
+
+    Land            Altitude Hold
+
+    CH 7
+
+    land at the current position
+
+    Set the CH 7 switch to ON to end your flight and land IRIS at its
+    current position. Once you activate land, set the throttle stick fully
+    down, and IRIS will autLoomiteartically disarm after landing. IRIS will not
+    disarm automatically unless the throttle stick is set fully down.
+
+    Reposition during landing: During landing, use the
+    right stick on the controller to adjust IRIS' position.
+
+                                     Full Autonomy
+
+12
+Return to LaunchA(ltiRtudTeLHo)ld
+
+land at the launch point
+
+Set the RTL switch to ON to end your flight and return
+
+IRIS to the launch point automatically. Ensure that the
+
+RTL switch is set to OFF before takeoff.
+
+             Loiter
+
+1 15 meters                                                 2 hover 5 seconds
+
+When commanded to RTL, IRIS will:                           3
+1 Achieve minimum altitude of 15 m (50 ft)
+ or maintain current altitude if above 15 m.                      launch point
+2 Move to launch point and loitFeruflloAr u5tosencoomnyds.
+3 Land at launch point.
+
+Reposition during landing: During landing, use the
+right stick on the controller to adjust IRIS' position.
+
+                                          Return to Launch
+           RTL returns IRIS to the location where IRIS was armed.
+           Always arm IRIS in a safe, unobstructed launch point.
+
+Geofence
+
+A safety fence restricts IRIS to within 300 meters (980 feet) of the
+launch point and under 100 meters (320 feet) in altitude. If IRIS reaches
+the edge of the geofence, it will initiate an automatic return to launch.
+
+                                                                                        300 m
+
+100 m
+
+                                                                   launch point
+
+          In the event of a GPS failsafe, the horizontal geofence will be disabled.
+          If IRIS breaches the vertical geofence during a GPS failsafe, it will land at
+          its current position.
+
+                                                                                                                        13
+Launch  First Flight
+
+omy     Select an open area for flying, away from people and buildings, and
+nch     remember to bring the Flight Checklist and a fully charged battery.
+        Determine the boundaries of your flying area before takeoff, and select
+        a level, unobstructed space as a launch point. Follow these preflight
+        and postflight steps in the order shown here and on the Flight Checklist
+        every time you fly.
+
+        Preflight
+
+        1 Check
+             IRIS.
+
+                                     Point the controller antenna up
+                                     and the IRIS antenna down for
+                                     the strongest signal.
+
+                                                        Set the mode switch to standard (STD).
+                                                        If you're new to flying, try starting your first
+old flight in loiter (LTR) instead of standard.
+
+                                                        Ensure that the RTL switch
+                                                        is set to OFF.
+
+        2 Power on         Ensure that the controller is always turned on while
+              controller.  IRIS is powered. If IRIS loses communication with
+                           the controller in flight, IRIS will initiate an automatic
+        14                 return to launch.
+                       Press and hold the DN button on the controller to
+                       view flight data from IRIS. See the Flight Checklist
+                       for more information about controller flight data.
+
+3 Connect battery.
+
+                              Press the sides of the battery
+                              compartment together and
+                              rotate the door down.
+
+                       Insert battery, and attach the yellow
+                       connectors. To close, squeeze the door,
+                       and rotate up until it clicks into place,
+                       ensuring that the battery cables do not
+                       interfere with the LED cables.
+
+Keep IRIS still and    Place IRIS at the launch point
+level while it powers  with the black arms facing
+on and initializes     towards you and the blue arms
+the sensors.           facing away from you.
+
+                       Connect the radio to your ground station, and select Connect.
+
+                       A ground station (recommended) lets you view live data in
+                       flight and unlock IRIS' advanced autonomous features.
+                       To download a ground station app for you laptop or
+                       Android device, visit 3DR.com/iris/info.
+
+                                                                                      15
+4 Press safety
+      button.
+
+                Press the safety button         Do not handle IRIS while the
+                until it is solid red.          safety button is solid red and
+                IRIS is now live.               IRIS is live. Always press the
+                                                button until it displays blinking
+                Stand back!                     red before approaching
+                                                the propellers.
+
+    Motors inactive, safe to handle             Motors active, deactivate before
+                                                handling
+
+5 Check LED.
+
+                Check the LED to view the status of IRIS. Wait
+                to proceed until you see the blinking green light
+                indicating that IRIS has acquired GPS lock.
+
+    Initializing, please wait.                GPS lock requires a clear view of the
+                                              sky. IRIS may take a few minutes to
+    Acquiring GPS, please wait.               acquire GPS lock depending on your
+                                              flying location. Always fly in an open
+    Autopilot ready, GPS locked               area to improve GPS signal strength,
+                                              and review the GPS failsafe
+    Pre-arm safety check failure. Connect     information on page 7.
+    to a ground station and see the trouble-
+    shooting guide at 3DR.com/iris/info.
+
+6 Arm motors.
+
+                To activate the motors,         IRIS will spin its propellers
+                hold the left stick down-right  when armed. Ensure that the
+                until the motors spin.          launch point is clear of
+                                                obstructions before arming.
+                Now you're ready for takeoff!   Always disarm the motors
+                                                before approaching IRIS.
+
+16
+            FlightLeft Stick
+
+                                          Take off and gain altitude by
+                                          raising the left stick slightly
+                                          above center.
+
+                                          Set the left stick to            Rotate counter-
+                                          center to maintain               clockwise and
+                                          the current altitude.            clockwise by
+                                                                           moving the left
+            Left Stick                                                     stick left and right.
+
+Left Stick                    Left Stick
+
+                                                                 Fly forward, backward, left, or right
+                                                                 by moving the right stick in the
+                                                                 dLierfet Sctictkion you want to fly.
+
+                                          Release the right                Lower the left
+                                          stick to level IRIS.             stick below center
+                                                                           to descend.
+
+            Left Stick
+
+                                          Set the left stick fully         ! IRIS is a powerful and agile
+                                          down to land once IRIS               flier. Move the sticks in small
+                                          is a few inches above                increments until you feel
+                                          the ground.                          comfortable with how IRIS
+                                                                               responds to controls.
+
+                                                                                                                17
+Postflight               2 Press safety
+                                                button.
+1 Disarm
+     motors.    After landing, hold
+                the left stick down-
+                left until the motors                    Press the safety
+                stop spinning.                           button until it
+                                                         displays blinking
+                                                         red to make IRIS
+                                                         safe to handle.
+
+3 Disconnect    4 Power off
+      battery.        controller.
+
+                                   Your first flight is now complete!
+
+                                   Follow the steps shown here and
+                                   on the Flight Checklist every time
+                                   you fly.
+
+   Tips for New Fliers: Practice these exercises to help you master flight controls.
+
+   Skill 1: Hover
+   Your first step is to maintain a consistent altitude while keeping IRIS oriented so
+   the black arms face towards you and the blue arms face away from you. Practice
+   taking off, rising to a comfortable hovering altitude, and keeping IRIS in place
+   without allowing for any changes in orientation or position. If IRIS drifts forward,
+   backward, left, or right, or rotates clockwise or counterclockwise, use the
+   corresponding stick controls to correct.
+
+   Skill 2: Box
+   When you feel comfortable with your ability to maintain a consistent hovering
+   altitude, try flying a box pattern. To practice this, take off, reach your hovering
+   altitude, then fly forward, right, backward, and left by making small adjustments
+   to the right stick. Make sure to fly the box in front of you and not around you.
+   Use the left stick to rotate IRIS so the black arms face towards you and blue arms
+   face away from you for the duration of the exercise.
+
+   Skill 3: Figure Eight
+   When you can confidently navigate a box while maintaining altitude and
+   orientation, try flying a figure-eight pattern. Once again, make sure to fly the figure
+   eight in front of you and not around you. Use the right stick to create a smooth
+   flight path while using the left stick to correct orientation and maintain altitude.
+
+18
+Planning Missions
+
+To plan a mission, download a ground station application from
+3dr.com/iris/info, and install onto your laptop or Android device.
+
+DroidPlanner 2 for Android                      Mission Planner for Windows
+                                                APM Planner for OS X
+
+1 Power IRIS, connect the radio to your laptop  Connect the USB adapter to the
+     or Android device, and select Connect.     radio and your laptop. Select
+                                                AUTO, 57600, and Connect.
+           Connect the blue end of the
+           Android adapter to your device
+           and the black end to the radio.
+           Select Connect.
+
+2 Configure waypoints.                          Select Flight Plan, and click to
+                                                add waypoints. Select the green
+           Select Edit and tap to add           arrows at the bottom of the
+           waypoints, or select the brush       screen to configure altitude and
+           tool and draw a path for IRIS        change waypoint types.
+           to follow.
+
+3 Save the mission to IRIS.                     Select Write WPs.
+
+           Select the option menu in
+           the top-right corner, and
+           select Send Mission.
+
+When flying missions, we recommend changing the GPS
+failsafe behavior to set IRIS to land in the event of a loss of
+GPS signal. For instructions, visit 3dr.com/iris/info.
+
+                                                                                  19
+          Flying Missions                       2 Arm IRIS
+                                                      in standard.
+                     Loiter
+                                                                            When you're ready
+          1 Perform a pre-mission                                           to start the mission,
+               test flight.                                                 arm IRIS in standard
+                                                                            (STD).Left Stick
+             Fly a brief test flight to verify
+             that all controls (throttle, yaw,
+             roll, and pitch) are responding
+             normaAllltyit.ude Hold
+
+          3 Switch to
+                AUSTtOa.balize
+
+Lladunch                        If you planned a takeoff waypoint into      For auto-takeoff,
+omy                             your mission, switch to AUTO on the         raise throttle to
+omy                             ground, and raise the throttle to initiate  start mission.
+Lladunch                        the mission. If you did not add a takeoff
+                                waypoint, switch to AUTO mode after
+                                takeoff to initiate the mission in flight.
+
+                                To recall IRIS during a mission,    To avoid sudden changes
+                                use the controller to switch        in altitude when switching
+                                to standard (STD) and land          from auto to standard (STD),
+                                manually. Or switch to RTL,         ensure that the left stick is
+                                and automatically return to         set to the center position.
+                                the launch point.
+
+          4 Switch to standard
+                before disarming.
+                                       When the mission is complete and IRIS has landed,
+                                       use the controller to switch to standard (STD) then
+                                       disarm and proceed with the postflight steps.
+
+                                       If you added an automatic landing waypoint to your
+                                       mission, IRIS will disarm automatically after landing.
+
+          20
+Specifications
+
+Autopilot:             Pixhawk v2.4.5
+Firmware:              ArduCopter 3.2
+GPS:                   3DR uBlox GPS with Compass (LEA-6H module, 5 Hz update)
+Telemetry radio:       3DR Radio Telemetry v2 (915 mHz or 433 mHz)
+Motors:                920 kV
+Frame type:            V
+Propellers:            9.5 x 4.5 T-Motor multirotor self-tightening counterclockwise (2)
+                       9.5 x 4.5 T-Motor multirotor self-tightening clockwise (2)
+           
+
+Battery:               3S 5.1 Ah 8C lithium polymer
+Low battery voltage:   10.5 V
+Maximum voltage:       12.6 V
+Battery cell limit:    3S
+
+IRIS is compatible with 3S lithium polymer batteries only.
+Using a 4S battery can cause permanent damage to the gimbal electronics and will void
+the warranty.
+
+Payload capacity:      400 g (.8 lbs)
+Radio range:           up to 1 km (.6 miles)
+Flight time:           16-22 minutes, depending on payload
+
+Resources
+
+Hardware:              3dr.com/iris/info
+
+Firmware:copter.ardupilot.com
+
+Software:              planner.ardupilot.com and planner2.ardupilot.com
+
+3DR Store:             store.3dr.com
+
+Community:diydrones.com
+
+Happy flying!
+
+                                                                         21
+Learn More
+
+Visit 3dr.com/iris/info to learn about:
+»» 3PVTM Follow Me and DroidPlanner
+»» Opening the shell
+»» Replacing the arms and motors
+»» Installing software
+»» Planning a mission
+»» Updating firmware
+»» LED meanings and tones
+
+Visit copter.ardupilot.com to learn about:
+»» Additional flight modes
+»» Configuring parameters, including yaw behavior during
+
+     autonomous flight, descent speed during RTL, and more
+
+Visit planner.ardupilot.com (Mission Planner) and
+planner2.ardupilot.com (APM Planner) to learn about:
+»» Planning a mission with waypoints and events
+»» Using a ground station to command IRIS in flight
+»» Downloading and analyzing flight logs
+
+Join the community and share your experience at
+diydrones.com.
+
+Follow us on Facebook and Twitter @3drobotics.
+
+Support
+
+For customer support, contact us at help@3dr.com
+or call our support line at +1 (858) 225-1414
+Monday through Friday, from 8 am to 5 pm, PST.
+
+Iris+ Operation Manual vE | ©3D Robotics, Inc. | 29 October 2014
+          Unmanned Photography
+                  Appendix B
+
+FlySky ER9X Controller Operation Manual
+1
+Disclaimer..................................................................................................................................................3
+Introduction................................................................................................................................................4
+
+   How it works.........................................................................................................................................5
+   Nomenclature........................................................................................................................................6
+   Edit buttons............................................................................................................................................7
+   Navigation.............................................................................................................................................7
+   Editing and Saving................................................................................................................................8
+Main Screen...............................................................................................................................................9
+   General view..........................................................................................................................................9
+   Statistics Screens Statistics Screens....................................................................................................10
+General Settings.......................................................................................................................................11
+   Basic Setup (1/7).................................................................................................................................12
+   Setup Options (2/7).............................................................................................................................13
+   PPM In (3/7)........................................................................................................................................14
+   Version Info (4/7)................................................................................................................................14
+   Diagnostics (5/7).................................................................................................................................15
+   Analog Inputs (6/7).............................................................................................................................15
+   Calibration (7/7)..................................................................................................................................16
+Model Setup.............................................................................................................................................17
+   Model Select (1/8)...............................................................................................................................18
+   Model Setup (2/8)................................................................................................................................19
+   Expo/Dr (3/8)......................................................................................................................................21
+
+       Triple Dr Example..........................................................................................................................21
+   Mixer (4/8)..........................................................................................................................................22
+
+       Main Screen....................................................................................................................................22
+       Edit Mix..........................................................................................................................................23
+   Limits (5/8)..........................................................................................................................................25
+   Curves (6/8).........................................................................................................................................26
+   Custom Switches (7/8)........................................................................................................................27
+   Templates (8/8)....................................................................................................................................28
+Examples..................................................................................................................................................29
+   Programming a throttle cut..................................................................................................................29
+MORE......................................................................................................................................................31
+
+                                                              2
+3
+The IMAX/FLYSKY/TURNIGY/EURGLE 9x is a computerized radio from china. The transmitter is
+outfitted with a 128x64 pixel monochrome LCD, 2-2axis gimbals, 3 variable potentiometers (pots), 6
+2-position switches, 1 3-position switch and some funky red trim.
+The big thing about this transmitter is the price. At the time of writing radios may cost anywhere from
+$180 for simple units up to $1000+ for super blinged out bazillion channel super heavyweight
+monsters.
+This one costs $60.
+Where's the catch then? (you ask) The catch is in the software (firmware - FW). The original FW is
+less-than-perfect. It has bugs, funky navigation and the most annoying beeping I have ever heard. Not
+good.
+However, some neat guy called Thus figured out that the whole radio is made from gimbals, switches,
+funky trim and a very generic main processing unit that does absolutely everything. He had one of
+those ah-ha moments where insanity overrides common-sense and decided to completely rewrite the
+original software and replace it with his own.
+At some point I decided that while Thus' FW is great I really wanted more bling for my TX. So in the
+spirit of open-source Thus' source was stolen and ER9x was born. (Yah, I was vain. ER are my
+initials)
+You might want to check out Thus' code ­ it's available here: http://code.google.com/p/th9x/
+While you're at it check out RadioClone's code ­ which also runs on the 9x. While ER9x is based on
+Thus' code, I have managed to pilfer some of RC's excellent code. His FW is more complex but also
+more powerful. Check it out here: http://radioclone.org/
+Got you all worked up about this? Good. Go now to the kitchen, make yourself a nice cup of coffee.
+This is a long read. I'll wait here till you're ready. Promise!
+
+                                                              4
+Bear with me here ­ some flow charts coming up:
+
+   Pots                Sticks                    Trims  Switches
+(P1,P2,P3)   (RUD,THR,ELE,AIL)
+
+Calibration  Calibration
+             Expo / Dr
+
+                           MIXER
+                          Limits
+                          Output
+
+                              5
+What the heck was that?
+The system receives 4 types of imputs:
+
+    1. Main Sticks
+    2. Potentiometers
+    3. Trims
+    4. Switches
+
+The analog inputs (sticks and pots) go through a calibration phase. The sticks can also go through
+Expo and Dr filters before going to the mixer.
+
+The mixer does it all. It directs each input to the desired output (CH1..CH16). It controls how the
+inputs are added. It also controls the timing of each function.
+
+After the inputs are processed by the mixer they are directed to the relevant output channels. The limit
+procedure takes over and makes sure no output goes too far.
+
+Finally the channels are encoded and sent to the RF module to take that nice little hike through the air
+to your model.
+
+(just so we understand each other)
+
+Inputs:
+    1. RUD ­ Rudder.
+    2. ELE ­ Elevator.
+    3. THR ­ Throttle.
+    4. AIL ­ Aileron.
+    5. P1/P2/P3 ­ Pots.
+    6. Switches:
+         1. THR ­ Throttle cut switch, don't confuse this with the THR stick. The THR switch is
+             located on the back left side.
+         2. RUD ­ Rudder Dr switch.
+         3. ELE ­ Elevator Dr switch.
+         4. ID0, ID1, ID3 ­ Three position switch. These 3 define the 3-position switch. ID0 is the top
+             position, ID1 ­ mid position and ID2 ­ bottom position.
+         5. AIL ­ Aileron Dr switch.
+         6. GEA ­ Gear switch.
+         7. TRN ­ Trainer switch. This switch is spring loaded.
+         8. SW1..SW6 ­ Custom switches. More on these later.
+
+It should be stated that every function in this FW is assignable. There are no fixed switches. You can
+choose the TRN switch to be throttle cut and use the triple switch to control Dr. The names are useful
+since they are labeled like that on the Tx.
+
+                                                              6
+There are 6 edit buttons on the Tx. In this manual they are noted with square brackets ([MENU]).
+Some functions need the button to be pressed and held for a second or so. The are noted as "long"
+presses like so: [MENU LONG]
+Also since the "+" and "-" keys are placed stupidly in the original Tx I've switched their position. So
+[+] is actually [-] and vice-versa. This is actually more intuitive than the original (trust me, I've tried
+using them as is).
+Since to upload this FW you need to open up your Tx and do some modifications (which void your
+non-existent warranty FYI) it is highly recommended you switch between the [+] and [-] keys. It's a
+simple job, so don't skimp, you'll thank me later.
+To avoid confusion with people who modded their keys and all the others I'll refer to the [+] and [-]
+keys as [LEFT] and [RIGHT] from now on. (I hope that left and right are still universal values ­ you
+can never tell today)
+The "!" sign. Whenever you see the "!" sign you can read that as "not" or "inverted". Switches can be
+"normal" or "inverted". So when choosing the elevator d/r switch ELE is normal operation and !ELE
+denotes inverted operation.
+
+As a general rule the [UP]/[DOWN]/[LEFT]/[RIGHT] move the cursor appropriately The [MENU] key
+is used for selection and for editing. The [EXIT] key is used for exiting (surprise). Pressing [EXIT]
+will generally bring the cursor to the top of the screen. Another press will exit the menu to the main
+screen. Pressing [EXIT LONG] will exit immediately to the main screen.
+Pressing [MENU] from the main screen will take you back to the last menu.
+From the main screen you can press [RIGHT LONG] to enter the model setup pages. Pressing [LEFT
+LONG] will enter the general setup menus.
+Once in the menus you can navigate between different screens using the [LEFT]/[RIGHT] keys as long
+as the cursor is at the top right position of the screen.
+
+                                                              7
+As a rule once a value is changed it is saved. You can turn off your Tx and turn it back on and the
+values will be saved. The values are saved internally in the MCU's eeprom. However there is a slight
+delay sometimes so it's probably a good idea to wait a couple of seconds before turning off.
+There is no undo functionality. Once something is erased/changed it's changed for good.
+Generally, when a value is highlighted and you cannot move left or right then pressing [LEFT]/
+[RIGHT] will change that value.
+When moving left or right is possible you need to press [MENU] to edit that value. Edit-mode is
+displayed by the cursor blinking. To exit edit-mode press either [MENU] or [EXIT].
+
+                                                              8
+(Cool back light here, huh?)
+
+The main view is split into top and bottom. The top contains the following:
+         The current model's name. (goofi in this case and yes, it's a real airplane)
+         The battery voltage.
+         Trim increment information.
+         Timer and timer trigger information. Pressing [EXIT LONG] resets the timer.
+         Throttle trim activation information.
+
+The bottom consists of three screens. You can flip between these with the [UP]/[DOWN] keys.
+The 3 screens are:
+
+         Value bars ­ these show the output values for the first 8 channels.
+         Value values ­ The output values for the first 8 channels.
+         Input values ­ Stick position and switch indicators.
+
+                                                              9
+From the main screen pressing [UP LONG]/[DOWN LONG] will enter the statistics screen.
+The first shows some available timers and traces the throttle stick as well.
+The second shows general timing of the Tx. The value "tmain" shows how long the math takes. This
+will increase as you add more mixers. It can be very large sometimes depending on eeprom writes.
+You can reset the timers by pressing [MENU].
+
+                                                             10
+From the main screen pressing [LEFT LONG] will enter the general settings menus. Here you can set
+up settings that will be the same regardless of chosen model.
+The menus are as follows:
+
+    1. Basic Setup
+    2. Setup Options
+    3. PPM In Calibration
+    4. Version Information
+    5. Diagnostics
+    6. Analog Inputs
+    7. Calibration
+
+                                                             11
+Use this screen to set up general functions for the Tx:
+    1. Contrast: The LCD's contrast. The values can be 20..45.
+         The higher the value the darker the screen.
+    2. BAT Warning: Battery voltage warning. When the connected battery's voltage drops below this
+         voltage the Tx will beep. Though the Tx will continue to function normally it's really advisable
+         to land as it is known that this FW was not able to fix the "zero voltage non-functionality"
+         problem of the original.
+    3. Inactivity Alrm: This will set up a warning that will beep if the Tx is left unattended for the
+         specified amount of time.
+         Values can be from 1 to 250 minutes. To reset the timer simply move one of the sticks.
+    4. Filter ADC:
+         i. SING: Single conversion. This is the fastest conversion but base resolution is 1024.
+         ii. OSMP: Oversampling. This uses extra samples to increase resolution to 2048. Just slightly
+             slower than SING.
+         iii. FILT: Filtered. This is in case you have excessive noise from the conversion (servo jitters).
+             This will filter the input and prevent that noise. It will, however, increase latency by
+             ~30msec.
+    5. Throttle Rev: This is for all you wacky people who fly with the throttle backwards (e.i. idle is
+         far from you and full is close to you). Though I personally don't understand how you fly like
+         that it's a nice feature.
+         The reverse will also reverse the throttle warning on startup and some other throttle related
+         functions.
+    6. Light: This chooses a switch which can be used to turn on a backlight if connected.
+    7. Mode: Choose between MODE1, MODE2, MODE3 and MODE4.
+
+                                                             12
+Startup warnings here:
+         THR Warning: If ON will show a warning when throttle is not at idle when the Tx is turned on.
+         The Tx will not output a signal until the alert is cleared.
+         SW Warning: If ON will show a warning when the switches are not at the default position when
+         the Tx is turned on. The Tx will not output a signal until the alert is cleared.
+         MEM Warning: If ON will show a warning when the available eeprom memory is less than 200
+         bytes when the Tx is turned on. The Tx will not output a signal until the alert is cleared.
+         Beeper: Sets Beeping levels
+                  I. 0 ­ Quiet. No beeping at all. No warning ­ nada. If the kids are sleeping and you
+                      must setup the model in your living room this is the mode to use. Just remember
+                      that the Tx will not even warn you when the battery is low. If you're using a Lipo
+                      watch out!
+                  II. 1 ­ No keys. The beeps are normal but edit keys are silent.
+                  III. 2 ­ Normal. Normal beeping.
+                  IV. 3 ­ Extra long beeps. For those who want to annoy other people.
+
+                                                             13
+This menu allows you to calibrate the mid point for the input PPM channels.
+Highlighting "Cal" and pressing [MENU] will calibrate the mid point for all PPM IN channels.
+PPM IN is read from the signal at the trainer port of the Tx.
+
+This screen shows the version information for the current FW:
+SVN: The SVN name of the current revision.
+DATE: Compile date for the current FW.
+TIME: Compile time for current FW.
+VERS: Version number.
+Since ER9x is OPEN SOURCE I try to help out anyone who has problems. Please feel free to open
+new issues for defects and/or enhancement requests at the project's code page:
+http://code.google.com/p/er9x/issues/list
+Your participation is what helps me makes the FW better. Please use the revision number stated in this
+screen when you state a problem.
+
+                                                             14
+This menu will help you visualize the current state of the trims, keys and physical switches.
+Each Key/Switch/Trim is represented. When pressing a key or switch they are highlighted.
+
+Here you can see the analog inputs in hexadecimal format to save space and annoy you at the same
+time.
+Values range between 0..0x3FF (0..1023).
+A1..A4 are the gimbals (sticks).
+A5..A7 are the pots.
+A8 is battery voltage. You can press [DOWN] and highlight the battery voltage. Pressing [LEFT]/
+[RIGHT] will increase and decrease the value and so enable you to calibrate the battery voltage
+monitor.
+
+                                                             15
+This screen allows you to calibrate the analog channels (A1..A7).
+The calibration method goes like this:
+
+    1. Press [DOWN]  (SetMid)
+    2. Set Sticks to center. (Including throttle)
+    3. Press [DOWN]  (SetSpan)
+    4. Move sticks and pots through full range.
+    5. Press [DOWN]  (Done) ­ Values are saved here.
+    6. Press [DOWN] (Back to top)
+The values are calculated when you press [DOWN].
+They are saved when you press [DOWN] to (Done).
+(Works surprisingly well for a cheap Chinese Tx)
+
+                                                             16
+From the main screen pressing [LEFT RIGHT] will enter the model select/settings menus. Here you
+can set up settings that model specific.
+The menus are as follows:
+
+    1. Model Select
+    2. Model Setup
+    3. Expo/Dr
+    4. Mixer (This is the important one)
+    5. Limits
+    6. Curves
+    7. Custom Switches
+    8. Templates
+
+                                                             17
+In this screen you can see, select, copy and move models between different memory "slots". I quote
+the word "slots" because memory management is dynamic. The available memory is displayed at the
+top of the screen.
+Memory usage for each model is displayed on the right. The more complex your model
+(mixes/curves/options/limits/etc) the more memory it'll take.
+The "*" on the left shows the currently loaded model memory.
+Pressing [UP]/[DOWN] will move the cursor between different models.
+Pressing [MENU] will highlight the model. Pressing [UP]/[DOWN] with the model highlighted will
+move it up/down. Pressing [MENU] again will copy the model memory. Pressing [EXIT] will only
+move it.
+Pressing [EXIT] will load the highlighted model.
+Pressing [EXIT LONG] will load and exit to the main screen.
+Pressing [MENU LONG] or [RIGHT LONG] will load the model and go to the next screen (Model
+Setup).
+
+                                                             18
+Lots of options here:
+    1. Name: Unsurprisingly here you edit the model's name. To edit: scroll down until the name is
+         highlighted and press [MENU].
+         Once your press [MENU] only one letter will remain highlighted. To change the letter you
+         press [UP]/[DOWN]. To move the cursor press [RIGHT]/[LEFT].
+         Once done, press [MENU]/[EXIT] to exit the edit.
+    2. Timer: Here you set the value for the timer.
+         Press [RIGHT]/[LEFT] to choose between minutes and seconds.
+         Press [MENU] and the cursor will blink. To edit use the [UP]/[DOWN]/[RIGHT]/[LEFT]
+         buttons and [MENU]/[EXIT] when done.
+    3. Trigger: Choose what triggers the timer  (remember ­ by pressing [LEFT] you'll see the
+         same values with the "!" sign. This means that the usage is inverted)
+         1. OFF ­ timer is off.
+         2. ABS ­ timer is on.
+         3. RUs/RU%/ELs/EL%/THs/TH%/ALs/AL% - chooses to activate the timer based on stick
+             position. When a XXs is selected (THs for example) The timer starts whenever the stick is
+             not at zero.
+             The XX% sign is the same except the timer speed is determined by stick position. When at
+             zero, the timer is stopped. When at full the timer goes at normal speed. When midway the
+             timer's speed reflects the sticks position.
+         4. Switches ­ You can specify a switch so whenever that switch is activated the timer counts.
+         5. Momentary switches. A switch denoted with "m" (like TRNm) means "momentary". That
+             means that moving the switch once to the on position and back turns the timer on. Moving
+             it on and off again turns the timer off. (difficult I know, take a sip from your coffee, relax a
+             bit, take a break ­ it's not difficult once you try it out :) )
+    4. Timer: Here you can choose whether the timer counts up or down.
+    5. T-Trim: Throttle trim. This is a nifty feature for power fliers. When activated a couple of
+         things happen. First off the center detent for the throttle trim is removed. Also the throttle's
+         trim will now only affect the "low" side. That means you can use the trim for setting idle while
+         full throttle remains unchanged.
+    6. T-Expo: 'nother throttle related function. This one makes the throttle stick's expo go from zero
+         to full instead of having a center like all the others. Always the odd kid out this throttle is.
+    7. Trim Inc: Trim increments:
+
+                                                             19
+    1. Exp ­ Exponential. With this the trims are fine near the center and get progressively coarser
+         farther out.
+
+    2. ExFine ­ Extra fine ­ 1 step per click.
+    3. Fine ­ 2 steps per click.
+    4. Medium (my personal favorite) ­ 4 steps per click.
+    5. Coarse ­ 8 steps per click.
+8. Trim Sw: Neat little function this is. When in flight if this key is activated it reads the current
+    position of the sticks and trims and copies that into the subtrims. After that it zeros the trims.
+    This is really neat for new models when you might have a hard time taking your hands off the
+    stick and pressing the trims. Simply hold the plane level with the sticks and press the selected
+    trim switch. Voilà ­ the plane is trimmed. It's magic! No it ain't. It's ER9x!!!
+9. Proto: encoding protocol
+    1. PPM ­ with ppm you can choose how many channels to encode. Anything from 4 to 16
+
+         channels. You can also change the pulse spacing. This is useful for systems which might
+         experience jitter. On the whole it might be a good idea to leave it alone.
+    2. Other protocols include Silver A/B/C and TRAC09.
+    3. TRIM->subTRIM [MENU]: Pressing [MENU LONG] here will copy the trims to the
+         subtrims and zero them.
+    4. DELETE MODEL [MENU]: Guess....
+         This deletes the current model. You need to press [MENU LONG] for that to happen
+         though.
+
+                                                        20
+This screen allows you to enter and edit Expo and D/R values for the main controls
+(RUD/ELE/THR/AIL).
+
+For each control you can input values for Left/Right for both Expo and D/R. To edit expo values
+highlight the value in the "expo" column and press [MENU]. Once the cursor blinks you can use the
+[UP]/[DOWN]/[LEFT]/[RIGHT] buttons to change the value. Notice that while there is a telltale that
+shows you which side of travel you are adjusting:
+
+         "-": This means both left and right values are equal. Pressing [UP]/[DOWN]/[LEFT]/[RIGHT]
+         will change values simultaneously.
+         "", "" : When moving the stick you can see either of these symbols. When this symbol is
+         visible you are only changing that side of travel.
+
+For each control you can set 2 switches. The main switch changes between high rate/high expo and
+mid rate. If the main switch is "low" (e.i. mid rate) the second switch can switch between mid and low
+rate.
+At the end of each line there's a telltale that shows you which rate you are on:
+
+         H: High.
+         M: Medium.
+         L: Low.
+
+Pressing [MENU LONG] while the cursor is on a control will take you to the Edit Expo/Dr screen. In
+this screen you can adjust the values for that single control. You will also see a graph indicating the
+action of that control. Press [EXIT] to return to the main Expo/Dr screen.
+
+The "F.Mode" switch can be used as a triple rate switch for any one axis, or it can be used as a triple
+rate flight mode switch, controlling rates and expos for some or all of the flight axes at once. To use it
+as a triple rate/flight mode switch, set sw1 to "!ID2" and sw2 to "!ID1" If you want rudder, elevator,
+and aileron all assigned to this switch for flight modes, be sure to set sw1 and sw2 as above for each
+axis. With the switch in the up position, it will be at low rate, as indicated by the "L" at the end of the
+line. In the mid position, it will be mid rate, and at the down position, it will be at high rate. You can
+also include throttle if you'd like, to have different expo curves for each of the flight modes.
+
+                                                             21
+I'm actually writing this last since it's the most important menu. If you're still awake now would be a
+good time to sip that coffee and wake up. You want to understand ER9x? Understand the mixer and
+you're very nearly there.
+The function of the mixer is to take the inputs, perform some function on them and rout them to the
+output channels. Since selection is totally free you have a very flexible system which is extremely
+powerful and very quick to boot.
+
+When you enter the screen for the first time you'll probably see a list like so:
+
+What this is telling you is that the rudder stick's input is being routed with a weight of 100% to CH1.
+Same for the elevator, throttle and aileron. Though not visible now you can also see the switch column
+which will tell you if a switch is assigned to the mix and also a crv (curve) column which tells you
+what curve is applied to that mix.
+When you scroll down you'll see that sometimes the weight is being highlighted and sometimes the
+channel's number is underlined. When the weight is highlighted, pressing [LEFT]/[RIGHT] will edit
+that value and pressing [MENU LONG] will enter the Edit Mix screen and allow you to edit that mix.
+When the channel's number is underlined, pressing [MENU LONG] will insert a new mix for that
+channel and take you to the edit mix screen for it.
+You can also press [MENU]. This will highlight the mix. Then you can press [UP]/[DOWN] to move
+or copy the mix. Notice that moving or copying is decided by whether you press up or down on the
+first press after highlighting the mix. If you first try to move it down it will be copied. Subsequent
+presses of [UP]/[DOWN] will move the copy up or down until you press [MENU] or [EXIT].
+Pressing [UP] will move the mix without copying it. Again, subsequent presses of [UP]/[DOWN] will
+move the copy up or down until you press [MENU] or [EXIT].
+
+                                                             22
+In this screen you edit individual mixes.
+
+Here are the available options for each mix:
+
+    1. Source: This is the input for the mix. It can be the following:
+
+         i. Stick or pot: Self explanatory.
+
+         ii. MAX: The output is either 0 or the value describes in "weight". This is controlled by the
+             switch.
+
+         iii. FULL: Same as MAX but the value is "-weight" if the switch is off or "weight" if the
+             switch is on.
+             MAX and FULL can be a little confusing. Look in the examples section for, well, examples
+             :).
+
+         iv. PPM1..PPM8: PPM input channels. These are fed by the ppm input or "trainer port". You
+             can use these to configure a buddy system or to simply extend your radio with more
+             functions (like head tracking for you FPV guys).
+
+         v. CH1..CH16: These are the outputs of the other mixes. You can use these to chain mixes for
+             very complex behavior.
+
+    2. Weight: This value multiplies the value from the input. It can be -125% to 125%.
+
+    3. Offset: This value is added to the value from the input. It can be -125% to 125%.
+
+    4. Trim: When this is "ON" the trim value (if exists) will be carried on through the mix. When
+         "OFF" it is ignored.
+
+    5. Curves:
+
+         i. x>0: The value of the source is carried through only if it is positive (greater than zero).
+             Otherwise it is zero.
+
+         ii. x<0: Same but for negative values.
+
+         iii. |x|: The value is passed as an absolute value.
+
+         iv. f>0: If source is positive then the output value is "+weight" otherwise it is 0.
+
+         v. f<0: If source is negative then the output value is "-weight" otherwise it is 0.
+
+                                                             23
+    vi. |f|: Output is either "+weight" or "-weight" depending on the sign of the source.
+    vii. c1..c16: custom curves. These are defined in the "CURVES (6/8)" screen. You can also
+
+         press [MENU] to edit the curve directly.
+6. Switch: Here you select the switch that operates the mix. If the switch is not selected then the
+
+    mix is on by default.
+7. Warning: Here you can select an audible warning that will sound whenever a mix is active.
+
+    (This will only work when a switch is defined). You have an option of 1, 2 or 3 beeps. The
+    warnings will sound in succession so you can hear them individually.
+8. Multpx: This value defines how the mix will be added to the channel.
+    i. Add: This is the default value. With this value the mix is added to the previous values in the
+
+         same channel.
+    ii. Multiply: Use this to multiply the previous values in the same channel.
+    iii. Replace: This value is used in conjunction with a switch. When the switch is off the value
+
+         is ignored. When the switch is on the value discards the previous values and places it's own
+         value in the channel.
+9. Delay Down/Up: Use this to delay use of this channel. Usually used with a switch. When the
+    switch is turned "ON" or "OFF" the mixer will wait the specified number of seconds before
+    changing the value.
+10. Slow Down/Up: Slow the rate of change in the channel. When not zero these will determine the
+    maximum speed with which the value can change. The specified value is the number of
+    seconds to go between -100% to 100%.
+11. DELETE MIX [MENU]: Pressing [MENU LONG] here will delete the mix and return to the
+    main mix screen.
+
+                                                        24
+This is probably the second most important menu.
+The limits operate on the output channels (as you can see from the flow chart in the introduction). In
+the LIMITS menu you can set the center point (subtrim), limits (both left and right) and reverse the
+channel's output (inv ­ invert).
+
+Each channel here corresponds to a channel in your receiver. The limits you set will be used on that
+channel only.
+
+Columns:
+    1. subT: SubTrim. This sets the channel's center point. Please notice that the position of the limits
+         is based on the center point. When subT changes their absolute position moves with it.
+         HINT: The values of subT can be -100 to 100 with increments of 0.1. This is done so to have
+         excellent resolution when setting the center of each surface. You can use your stick to set the
+         center point as well. While the subT is highlighted hold the stick so that the surface is
+         centered. Press [MENU LONG] and the position will be recorded! It's the magic of ER9x
+         again :).
+    2. Min/Max: These set the endpoints of the channel. Notice that there's a telltale that hints as to
+         which side is active at the moment. Each limit point can range between -125% to 125%.
+         The limits act both as gains and as absolute limits. The servo will not go beyind the limits you
+         set here.
+    3. inv: Invert. This function reverses the output of the channel.
+
+                                                             25
+Surprisingly in this menu you set your custom curves. Curves are nifty things that can tell your servo
+how to move when you move your stick. In ER9x there are 8 5point curves and 8 9pointt curves.
+A 5pt curve is a curve you can edit at position -100%, -50%, 0%, 50%, 100%.
+A 9pt curve is a curve you can edit at position -100%, -75%, -50%, -25%, 0%, 25%, 50%, 75%, 100%.
+When you enter the menu you see a long list of zeros. Scroll down to the curve you wish to modify
+and press [MENU]. This will bring up the screen for editing the curve. Depending on whether you
+chose a 5pt or a 9pt curve you will see 5 or 9 editable points. Scroll through the points with [UP]/
+[DOWN]. Change the value with [LEFT]/[RIGHT].
+At the bottom you will see a "preset" entry. Pressing [LEFT]/[RIGHT] on that will populate the values
+with a linear curve that is a good starting point.
+
+                                                             26
+I really like this feature.
+Custom switches are not really switches at all but rather a set of logical conditions that can be used as
+switches.
+
+You might have noticed that beyond the physical switches there are 6 switches called SW1..SW6.
+These correspond to the list you see in this screen. Once the condition defined for the switch is met it's
+value will be "ON".
+
+    1. To define a custom switch you need to define a source. This can be a stick, a pot, a PPM input
+         or an output channel.
+
+    2. Next we define an offset. This can be anywhere between -100 and 100. This will be the test
+         point for the condition.
+
+    3. Lastly we define the condition. This can be v>offset, v<offset, |v|>offset and |v|<offset.
+         The offset is the value we set in step 2 and "v" is the value of the source we set in step 1.
+
+Example:
+Say you have a glow plug driver which you want to turn on when the throttle is below 10%:
+
+    1. Highlight SW1
+    2. Select the source as THR.
+    3. Select the offset as -80 (remember -100 ­ 100 so 10% from idle is -80).
+    4. Select the condition as v<ofs.
+
+Now you need to use a mix to run the switch. Go to the mixer menu. Select the CH8 as the channel
+you want the GP driver to operate on. On that channel select source as "MAX" and Switch as "SW1".
+Now whenever the throttle goes below 10%, CH8 will go to 100%. Cool, huh?
+
+                                                             27
+The templates are there to help you get started. When entering the screen you'll see a list of available
+templates. To choose a template, scroll down to it and press [MEU LONG]. This will the
+template to the existing mixes.
+At the bottom you'll see an option called "CLEAR MIXES [MENU]". Pressing [MENU LONG] on
+this will clear all the mixes leaving you with a clean slate.
+
+                                                             28
+29
+30
+31
+    Unmanned Photography
+            Appendix C
+
+Standard Operating Procedures
+UNMANNED PHOTOGRAPHY
+
+STANDARD OPERATING PROCEDURES
+
+PREFLIGHT CHECKLIST
+
+Safety for the public on the ground as well as manned aircraft above is an essential consideration for aerial
+photography, surveying and mapping. As such, safety protocol and control must be implemented through
+pre-flight preparation and during aerial operation.
+
+ENVIRONMENTAL:
+ Check weather forecasts for wind advisory or other conditions that may impact flight
+ Notify any bystanders or nearby property owner of your intentions.
+ Consult five (5) mile radius map for airport vicinity
+
+            · Contact respective airport to advices of estimated flight time, estimate flight duration,
+               estimated elevation of flight, and any other pertinent information
+
+ Inspect flight area for:
+            · Vicinity of public safety helipads/heliports
+            · Vicinity of medical helipads/heliports
+            · Vicinity of light poles
+            · Vicinity of utility wires
+            · Vicinity of trees
+            · Flocks of birds that may cause interference and potential flight impact
+            · Vicinity of any elevated obstructions that may pose potential flight hazard
+            · Vicinity of roadway with moderate to heavy traffic that can be distracted
+            · Public gathers that may attract viewers
+
+ Takeoff and landing
+            · Inspect area for best and safest point of takeoff and landing
+            · If in a subdivision or area that is within 150 feet of a residential street, post warning
+               sign(2)/stand(s) "Attention Aerial Photography/Surveying/Mapping In Progress ­ Remain
+               Back 150 Feet"
+
+ First Aid / Safety Kit on hand, stocked, readily accessible, and visible to anyone in the area
+
+HARDWARE / EQUIPMENT:
+VISUALLY INSPECT THE AIRFRAME
+ Cracks (especially in high stress areas like joints)
+ Loose or damaged screws / fasteners / bands / straps / ties
+ Loose or damaged wiring
+ Loose or damaged connections (solder, plugs, etc)
+ Inspect prop mounts & screws & apply slight counter pressure on arms to check for loosened
+
+  construction
+ Inspect camera lens and ensure that cameras are secured
+ Battery/batteries fully charged, properly seated & secured
+ Remove props and test failsafe behavior (if applicable)
+ Props are smooth and free of damage/defect (check blade, surface, & hub)
+ Tighten prop adapters (careful not to over tighten which may damage prop)
+ Ensure voltage alarm is connected
+ Ensure arming/idle timeout is properly configured (615 seconds is generally acceptable)
+ Check whether the right model is selected in the transmitter (if applicable)
+ Check your RC transmitter shows the right range and centering for all sticks
+ If desired, perform range test
+UNMANNED PHOTOGRAPHY
+
+STANDARD OPERATING PROCEDURES
+PREFLIGHT:
+POWER UP
+ Batteries charged & secured
+ Position UAV in a level, safe location for takeoff
+ Power up ground station and video receiver
+ Turn on camera
+ All transmitter controls move freely in all directions
+ All transmitter trims in its neutral position
+ All transmitter switches in correct position (typically away)
+
+ Transmitter throttle to zero
+ Radio transmitter on
+ Connect/power on battery to airframe
+ Ensure led indicators & audible tones are all correct
+ Timer on (if applicable)
+ Scan for nearby people or animals
+ Stand clear  audibly, loudly announce the word "CLEAR!"
+ Arm flight controller
+
+PRE TAKEOFF
+ Increase throttle slightly listening for any abnormalities
+ Short 2030 second hover at 35 feet
+
+  (listen for any weird vibrations or anything that sounds loose)
+
+FLIGHT:
+ Takeoff and land from same location
+ Remain alert to birds, sound or aircraft, curious public, and approaching vehicles
+ Do not allow anyone to engage in conversation or distract the remote control pilot
+ Restrict flight to minimal elevation sufficient to acquire desired results
+ Remain prepared for emergency landing at all times
+
+                             Pay attention to flight time and set a timer as a safety alert
+ Land UAS and shut down propulsion immediately following landing
+
+POST FLIGHT:
+ Disconnect battery to prevent accidental activation of propulsion system
+ Secure UAS in a safe location
+ Remove all warning signs from public access areas
+
+Emergency or Suspected Hazard:
+ Immediate land UAS at safest and closet ground location in the event:
+
+            · Manned aircraft is heard or seen in vicinity of flight
+            · There is a public gathering within established safety boundary wanting to observe flight
+            · Pilot is being distracted from focusing on flight and safety
+            · Sudden change in weather (wind bursts)
+            · Sudden increase in vehicular traffic in vicinity of flight
+            · Birds enter into proximity of flight
+            · Any sudden unsafe event that can cause collision, distraction or interruption of control
+Unmanned Photography
+        Appendix D
+         Flight Log
+UNMANNED PHOTOGRAPHY
+FLIGHT LOG
+
+                 Date:
+            Location:
+
+Pre-Flight Inspection:          Yes No
+
+Elements                Circle   Circle        Comment
+Weather                 Good      Fair
+Visibility              Good      Fair
+Wind Speed              Low     Medium
+
+Proximity to Airport:
+
+Airport Notified: Yes           No Date:                 Time:
+ Phone Number:                            Contact Name:
+
+            Nearest Major Intersection:
+
+Proximity to Medium Traffic Road:
+
+Proximity to Heavily Traveled Road:
+
+                                Takeoff Time:
+                                Landing Time:
+                        Estimated Elevation:
+
+Comments:
+
+ Safety for the public on the ground as well as manned aircraft above is an essential consideration for
+aerial photography, surveying and mapping. As such, safety protocol and control must be implemented
+
+                           through pre-flight preparation and during aerial operation.
+

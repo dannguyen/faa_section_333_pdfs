@@ -1,0 +1,584 @@
+July 22, 2015
+
+                                                           Exemption No. 12118
+                                                           Regulatory Docket No. FAA­2015­0819
+
+Ms. Danielle M. Rivera
+CEO
+Lone Star Sky Solutions, LLC
+1699 Ridge Runner Court
+Clarksville, TN 37042
+
+Dear Ms. Rivera:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter dated March 24, 2015, you petitioned the Federal Aviation Administration (FAA) on
+behalf of Lone Star Sky Solutions, LLC (hereinafter petitioner or operator) for an exemption.
+The petitioner requested to operate an unmanned aircraft system (UAS) to conduct aerial
+photography, videography, surveying, and UAS training1.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+
+1 The petitioner requested authority to conduct UAS training. At this time, the FAA is unable to authorize UAS
+operations for training until a further assessment is completed. When the FAA completes its review, we will
+proceed accordingly and no further action will be required by the petitioner. However, the petitioner is permitted
+to train its own pilot in commands and visual observers in accordance with condition no. 14 and the other
+conditions and limitations in this exemption.
+                                                                                                                 2
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner are the 3D Robotics X8+ and SenseFly eBee.
+
+In accordance with the statutory criteria provided in Section 333 of Public Law 112-95 in
+reference to 49 U.S.C. § 44704, and in consideration of the size, weight, speed, and limited
+operating area associated with the aircraft and its operation, the Secretary of Transportation
+has determined that this aircraft meets the conditions of Section 333. Therefore, the FAA
+finds that relief from 14 CFR part 21, Certification procedures for products and parts,
+Subpart H--Airworthiness Certificates, and any associated noise certification and testing
+requirements of part 36, is not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection2. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+· They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+· The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+· A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, Lone Star Sky Solutions, LLC is granted an exemption
+
+2 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                                                 3
+
+from 14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a), 91.7(a),
+91.119(c), 91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a)
+and (b), to the extent necessary to allow the petitioner to operate a UAS to perform aerial data
+collection. This exemption is subject to the conditions and limitations listed below.
+
+Conditions and Limitations
+
+In this grant of exemption, Lone Star Sky Solutions, LLC is hereafter referred to as
+the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+    1. Operations authorized by this grant of exemption are limited to the 3D Robotics X8+
+         and SenseFly eBee when weighing less than 55 pounds including payload. Proposed
+         operations of any other aircraft will require a new petition or a petition to amend this
+         exemption.
+
+    2. Operations for the purpose of closed-set motion picture and television filming are
+         not permitted.
+
+    3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+         exemption holder may use either groundspeed or calibrated airspeed to determine
+         compliance with the 87 knot speed restriction. In no case will the UA be operated at
+         airspeeds greater than the maximum UA operating airspeed recommended by the
+         aircraft manufacturer.
+
+    4. The UA must be operated at an altitude of no more than 400 feet above ground level
+         (AGL). Altitude must be reported in feet AGL.
+
+    5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+         This requires the PIC to be able to use human vision unaided by any device other than
+         corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+         U.S. driver's license.
+
+    6. All operations must utilize a visual observer (VO). The UA must be operated within
+         the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+         to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+         capability. The VO and PIC must be able to communicate verbally at all times;
+         electronic messaging or texting is not permitted during flight operations. The PIC
+         must be designated before the flight and cannot transfer his or her designation for the
+         duration of the flight. The PIC must ensure that the VO can perform the duties
+         required of the VO.
+                                                                                                            4
+
+7. This exemption and all documents needed to operate the UAS and conduct its
+    operations in accordance with the conditions and limitations stated in this grant of
+    exemption, are hereinafter referred to as the operating documents. The operating
+    documents must be accessible during UAS operations and made available to the
+    Administrator upon request. If a discrepancy exists between the conditions and
+    limitations in this exemption and the procedures outlined in the operating documents,
+    the conditions and limitations herein take precedence and must be followed.
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+                                                                                                            5
+
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+                                                                                                            6
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+    exemption holder may apply for a new or amended COA if it intends to conduct
+    operations that cannot be conducted under the terms of the attached COA.
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+    be as large as practicable.
+
+23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+    any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+    PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+    These documents must be made available to the Administrator or any law enforcement
+    official upon request.
+
+24. The UA must remain clear and give way to all manned aviation operations and
+    activities at all times.
+
+25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless:
+      a. Barriers or structures are present that sufficiently protect nonparticipating persons
+          from the UA and/or debris in the event of an accident. The operator must ensure
+          that nonparticipating persons remain under such protection. If a situation arises
+          where nonparticipating persons leave such protection and are within 500 feet of
+          the UA, flight operations must cease immediately in a manner ensuring the safety
+          of nonparticipating persons; and
+      b. The owner/controller of any vessels, vehicles or structures has granted permission
+          for operating closer to those objects and the PIC has made a safety assessment of
+          the risk of operating closer to those objects and determined that it does not
+          present an undue hazard.
+
+    The PIC, VO, operator trainees or essential persons are not considered
+    nonparticipating persons under this exemption.
+
+27. All operations shall be conducted over private or controlled-access property with
+    permission from the property owner/controller or authorized representative.
+    Permission from property owner/controller or authorized representative will be
+    obtained for each flight to be conducted.
+
+28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+    boundaries of the operational area as defined by the applicable COA must be reported
+                                                                                                                 7
+
+         to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+         reported to the National Transportation Safety Board (NTSB) per instructions
+         contained on the NTSB Web site: www.ntsb.gov.
+
+ If this exemption permits operations for the purpose of closed-set motion picture and
+ television filming and production, the following additional conditions and limitations apply.
+
+    29. The operator must have a motion picture and television operations manual (MPTOM)
+         as documented in this grant of exemption.
+
+    30. At least 3 days before aerial filming, the operator of the UAS affected by this
+         exemption must submit a written Plan of Activities to the local Flight Standards
+         District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+         notification may be waived with the concurrence of the FSDO. The plan of activities
+         must include at least the following:
+           a. Dates and times for all flights;
+           b. Name and phone number of the operator for the UAS aerial filming conducted
+              under this grant of exemption;
+           c. Name and phone number of the person responsible for the on-scene operation of
+              the UAS;
+           d. Make, model, and serial or N-Number of UAS to be used;
+           e. Name and certificate number of UAS PICs involved in the aerial filming;
+           f. A statement that the operator has obtained permission from property owners
+              and/or local officials to conduct the filming production event; the list of those
+              who gave permission must be made available to the inspector upon request;
+           g. Signature of exemption holder or representative; and
+           h. A description of the flight activity, including maps or diagrams of any area, city,
+              town, county, and/or state over which filming will be conducted and the altitudes
+              essential to accomplish the operation.
+
+    31. Flight operations may be conducted closer than 500 feet from participating persons
+         consenting to be involved and necessary for the filming production, as specified in the
+         exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                    8
+
+This exemption terminates on July 31, 2017, unless sooner superseded or rescinded.
+Sincerely,
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+Lone Star Sky Solutions, LLC.  Section 333 UAS Exemption Request
+
+                                                                                                March 24th, 2015
+
+Danielle M. Rivera, CEO
+Lone Star Sky Solutions, LLC
+1699 Ridge Runner Ct.
+Clarksville, TN 37042
+danielle@lonestarskyllc.com
+(931) 444-7150
+
+U.S. Department of Transportation
+Docket Management System
+1200 New Jersey Ave., SE
+Washington, DC 205930
+
+Petition for Exemption Filed under Section 333 of the 2012 FAA Modernization and Reform Act
+Filed via www.regulations.gov
+
+Dear FAA UAS Exemption Review Team,
+
+Lone Star Sky Solutions, LLC ("LSSS") is respectfully writing to request exemptions that would
+lead to safe and legal entry into the NAS under Section 333 of the FAA Modernization and
+Reform Act of 2012. A granted exemption would allow us to obtain a COA, if required, to
+conduct commercial operations and training described in this letter. Furthermore, it would
+enhance airspace safety and efficiency in our community by offering affordable aerial imagery,
+video, and surveying to the general public that would deter and mitigate unsafe and illegal
+entrance into the NAS by untrained and unlicensed UAS users.
+
+Annex A outlines requested exemptions and applicable reasoning. Annex B briefly describes PIC
+training program and qualifications. Annex C outlines operations, safety considerations, and
+limitations. The remainder of this letter is outlined in accordance with ("IAW") the Section 333
+Guidance document available at FAA's Petitioning for Exemption under Section 333.
+
+LSSS' UAS Platforms
+
+      1. Operations will be conducted with 3D Robotics' X8+ and SenseFly's eBee UAS(s).
+           Design and operational characteristics are defined within attached manuals. Recently,
+           exemptions for the X8+ were granted to Build Imagery, BNSF Railway Company, and
+           the eBee to Quiet Creek Corporation, amongst others, on the 11th and 12th of March.
+           In addition, airworthiness of both platforms has been demonstrated in different projects
+           within the United States (e.g., eBee by New Mexico State University, X8).
+
+                                                                                                                        Page 1
+Lone Star Sky Solutions, LLC.  Section 333 UAS Exemption Request
+
+      2. PIC(s) will be trained on and operate by strict conditions defined by the Safety Program
+           of the Academy of Model Aeronautics, attached flight manuals, and LSSS' training
+           program. Inspections will be conducted before each flight IAW platform's respective
+           checklist and Annex C. Maintenance and repairs will be performed IAW 3DR or eBee
+           user manual, at minimum, quarterly or upon failed pre- or post-flight inspections.
+
+      3. All equipment, frequencies, and payloads comply with FCC requirements and can be
+           furnished upon request.
+
+LSSS' PIC(s)
+
+      4. LSSS has developed a PIC training program that can be furnished upon request. Refer
+           to Annex B for further information.
+
+      5. All PIC(s) will obtain and maintain First Aid and CPR certification. They will be able
+           to apply basic aid in the unlikely situation that an UAS collides with personnel.
+
+Operation of UAS
+
+      6. LSSS conducts operations to provide affordable aerial photography, video, and
+           surveying to the general public. Refer to Annex C for a list of operations, safety
+           considerations, and limitations.
+
+      7. The X8+ max operating speed will not exceed 15MPH and the eBee will not exceed
+           35MPH. Neither platform will exceed an altitude of 400 feet above ground level. Both
+           platforms will not operate at night or in weather conditions that produce precipitation,
+           visibility less than three miles from the launch point, ceilings less than 1000 feet,
+           sustained winds greater than 25 knots, or gust spreads greater than 10 knots. All PIC(s)
+           are equipped with Kestrels to measure current site wind speed. This will prevent
+           unnecessary risk to people and property.
+
+      8. Areas of intended operations are defined by property owners, responsible agents, or
+           government agencies consent and boundaries obtained by government GIS sources.
+           Refer to Annex C for further information.
+
+      9. PIC(s) will not conduct operations within five nautical miles of airports without
+           approved consent from base operations or air traffic control authorities. PIC(s) will
+           notify these agencies at least 72 hours prior if operation site is within five nautical miles
+           of an airport.
+
+      10. PIC(s) will maintain unaided VLOS with UAS. In complex duties or terrain, VO(s) will
+           be used to maintain VLOS with UAS and PIC, and relay flight information.
+
+                                                                                                                        Page 2
+Lone Star Sky Solutions, LLC.  Section 333 UAS Exemption Request
+
+      11. PIC(s) will verify flight limiting factors upon arrival to the operation site by using
+           government sources and Kestrel for weather data, surveying and documenting site
+           hazards, and conducting pre-flight inspections prior to operations.
+
+      12. PIC(s), when applicable to operations, will submit FAA Form 7711-1 or equivalent
+           form with Flight Standards District Office at least 72 hours prior operations.
+
+      13. Will obtain COA, if required, from FAA Air Traffic Organization if granted exemption.
+We hope that you grant us an exemption to the current regulations. We are looking forward to
+leading the way and setting a safe and efficient standard for future companies and UAS
+operators. Thank you for your consideration.
+
+                                                               Very respectfully,
+
+                                                               DANIELLE M. RIVERA, CEO
+                                                               LONE STAR SKY SOLUTIONS, LLC
+
+                               Page 3
+Lone Star Sky Solutions, LLC.  Section 333 UAS Exemption Request
+
+                                     ANNEX A: Requested Exemptions
+
+    - Part 61 Certification
+             o 61.113 (a, b)
+                       Operators should not be required to hold a commercial or private pilot
+                           licenses given safety features of X8+, eBee, AMA training, Lone Star Sky
+                           Solutions' training program, and safety measures described in Annex C.
+
+    - Part 91 General Operating and Flight Rules
+             o 91.105
+             o 91.109
+                       Flight instruction will be accomplished using a thorough and safe training
+                           program outlined in Annex B.
+             o 91.119 (c)
+                       Cannot operate above 400 feet AGL and therefore cannot comply with this
+                           regulation.
+             o 91.121
+                       Onboard systems of the eBee and X8+ provide a similar level of safety by
+                           using GPS and other orientation sensors.
+             o 91.151 (a)
+                       X8+ and eBee do not use fuel. However, operators will prepare to land
+                           when battery falls below 25% and before 20% is reached. PIC(s) will
+                           conduct a weather brief before each flight and UAS will not be operated
+                           below VFR conditions.
+             o 91.405 (a), 91.407 (a)(1), 91.409 (a)(1, 2), 91.417 (a, b)
+                       All maintenance and repairs will be accomplished by utilizing 3DR
+                           documentation or eBee user manual. An equivalent level of safety to the
+                           regulations will be achieved because the X8+ and eBee are not complex
+                           mechanical devices. Furthermore, pre- and post-flight checks will be
+                           conducted with each flight. If deficiencies are found, the UAS will not be
+                           operated until repairs are conducted. All repairs will be logged.
+             o 91.7 (a)
+                       Airworthiness of both aircraft has been demonstrated. If required, a waiver
+                           or certificate according to step four on the Petitioning for Exemption
+                           under Section 333 web page will be obtained.
+             o 91.203 (a, b), 91.9
+                       An equivalent level of safety will be ensured by requiring PIC(s) to carry
+                           manuals and standard operating procedure documents while operating
+                           UAS.
+
+In addition, request exemption from other regulations deemed necessary by reviewer.
+
+                                                                                                                        Page 4
+Lone Star Sky Solutions, LLC.  Section 333 UAS Exemption Request
+
+                                     ANNEX B: Pilot in Command Qualifications
+
+Lone Star Sky Solutions' training program is developed by our co-founder who has extensive
+knowledge in small UAS military applications and safety programs. The program is designed
+with community safety at mind using AMA guidelines. Ultimately, this program will efficiently
+qualify trainees to operate and recognize the need for PIC refresher training.
+
+The program separates operators into three tiers: Trainee, Basic Mission Qualified ("BMQ") and
+Fully Mission Qualified ("FMQ") PIC(s). Minimum qualifications are listed below.
+
+         1. Trainee: Can only operate UAS on training courses under supervision. Primary goal
+             is to reach BMQ status by completing classroom, visual observer ("VO"), and
+             operational instruction.
+                  a. Possess valid state issued driver's license
+                  b. Passes LSSS interview
+                  c. Passes background check
+
+         2. BMQ PIC: Can operate UAS under supervision. Primary goal is to reach FMQ status
+             by acquiring supervised on-the-job flight hours, passing check-ride, and becoming
+             First Aid and CPR certificated.
+                  a. Completes eight hours of classroom instruction
+                  b. Completes four hours of simulated flight training
+                  c. Completes at least eight hours of operation instruction per platform
+                  d. Completes at least eight hours of VO on-the-job training
+
+         3. FMQ PIC: Can operate UAS unsupervised and can recommend trainee upgrade or
+             BMQ downgrade.
+                  a. Completes at least twelve hours of supervised on-the-job flight
+                  b. Passes written test
+                  c. Passes UAS platform check-ride course
+                  d. Receives Basic First Aid and CPR certification
+
+                               Page 5
+Lone Star Sky Solutions, LLC.  Section 333 UAS Exemption Request
+
+                                       ANNEX C: Operations, Safety and Limitations
+
+Lone Star Sky Solutions ("LSSS") conducts several types of operations for two primary reasons.
+First, is to provide affordable aerial photography, video, and surveying to the general public.
+Second, is to provide free education and training to youth, high-school, and undergraduates in
+there freshman or sophomore year. By providing affordable services to the general public and
+free education, we hope to keep the community safe by deterring and mitigating untrained and
+unlicensed UAS users from entering the NAS.
+
+    1. Proposed operations are, but not inclusive to, the following:
+             a. Employee and youth training on LSSS' properties or approved public locations
+                  with written consent of responsible government authority
+             b. Real-estate photography and video services for property owners, managers, or
+                  real-estate agents
+             c. Home inspections with multi-spectral cameras for owners or potential buyers.
+             d. Outdoor event photography or video (e.g., weddings, golf tournament, etc.) for
+                  the general public with consent of property owners and or responsible government
+                  authority
+             e. Agriculture monitoring, imagery, and surveying for owners, farmers, or
+                  agronomist with permission of property owner
+             f. General imagery, mapping, and surveying for property/land owners or
+                  governments
+
+    2. Safety is important, and the guidelines below will be followed in accordance with
+         ("IAW") FAA regulations.
+             a. Pre-flight:
+                       i. PIC(s) will define operational borders using government GIS sources
+                      ii. PIC(s) will account for all persons on property.
+                     iii. PIC(s) will seek consent for persons within 100 feet of flight operations
+                     iv. PIC(s) will survey and document site flight hazards
+                      v. PIC(s) will review weather data from Kestrel and government sources
+                     vi. PIC(s) will verify payload limits are not exceeded
+                     vii. PIC(s) will conduct specific platform pre-flight checklist
+                    viii. PIC(s) will document all tasks
+                     ix. PIC(s) will conduct briefings for all PIC(s), VO(s), owners or responsible
+                           agent, and persons within 100 feet of operations. Brief will highlight the
+                           concept of operation, potential hazards, weather conditions, and
+                           abbreviated guidelines of the Academy of Model Aeronautics Safety Code
+             b. Flight Operations and Limitations:
+                       i. PIC(s) will operate according to FAA regulations, manuals, and standard
+                           operating procedures
+                      ii. PIC(s) will end operations before sunset.
+                     iii. PIC(s) will leave operation site before evening civil twilight.
+
+                                                                                                                        Page 6
+Lone Star Sky Solutions, LLC.  Section 333 UAS Exemption Request
+
+        iv. PIC(s) will not arrive to operation site before morning civil twilight.
+         v. PIC(s) will not start operations before sunrise.
+        vi. PIC(s) will not operate on any property without consent from owner or
+
+             responsible agent
+       vii. PIC(s) will not fly within 5NM of airports without consent from base
+
+             operations or air traffic control authorities
+      viii. PIC(s) will not fly over people
+
+        ix. PIC(s) will not fly within 100 feet of non-consenting persons
+         x. PIC(s) will not fly in excess of 400 feet above ground level
+        xi. PIC(s) will not operate UAS, to include payloads, more than 20 pounds
+       xii. PIC(s) will maintain VLOS and or coordination with VO(s)
+      xiii. PIC(s) will prepare for landing when battery level falls below 25% and
+
+             land before level reaches 20%
+
+c. Supervision of Operations
+         i. FMQ PIC(s) will ensure personnel within 100 feet of UAS operations are
+             wearing protective equipment (e.g., safety vest and glasses, hard hat, etc.)
+        ii. FMQ PIC(s) will ensure all FAA UAS regulations and guidelines are
+             maintained.
+
+        iii. FMQ PIC(s) will document violations by trainees, VO(s), or BMQ(s)
+        iv. FMQ PIC(s) will recommend upgrade and downgrade of trainees or
+
+             BMQ(s)
+         v. FMQ PIC(s) will conduct spot checks to ensure lead PIC gained proper
+
+             consent from all authorities.
+
+                               Page 7
+

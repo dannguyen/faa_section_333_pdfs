@@ -1,0 +1,834 @@
+August 6, 2015
+
+                                                           Exemption No. 12368
+                                                           Regulatory Docket No. FAA­2015­1976
+
+Mr. Christopher C. Knight
+President
+Dark Technologies, LLC
+10319 Mount Oxford Avenue
+Las Vegas, NV 89166
+
+Dear Mr. Knight:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter dated May 13, 2015, you petitioned the Federal Aviation Administration (FAA) on
+behalf of Dark Technologies, LLC (hereinafter petitioner or operator) for an exemption. The
+petitioner requested to operate an unmanned aircraft system (UAS) to conduct precision
+aerial mapping, inspections, photography and video.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner is a 3D Robotics Iris +.
+                                                                                                                 2
+
+The petitioner requested relief from 14 CFR part 21, Certification procedures for products
+and parts, Subpart H--Airworthiness Certificates. In accordance with the statutory criteria
+provided in Section 333 of Public Law 112-95 in reference to 49 U.S.C. § 44704, and in
+consideration of the size, weight, speed, and limited operating area associated with the
+aircraft and its operation, the Secretary of Transportation has determined that this aircraft
+meets the conditions of Section 333. Therefore, the FAA finds that the requested relief from
+14 CFR part 21, Certification procedures for products and parts, Subpart H--Airworthiness
+Certificates, and any associated noise certification and testing requirements of part 36, is
+not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection1. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+· They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+· The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+· A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, Dark Technologies, LLC is granted an exemption from
+14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a), 91.7(a), 91.119(c),
+91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a) and (b), to
+
+1 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                                                 3
+
+the extent necessary to allow the petitioner to operate a UAS to perform aerial data collection.
+This exemption is subject to the conditions and limitations listed below.
+
+Conditions and Limitations
+
+In this grant of exemption, Dark Technologies, LLC is hereafter referred to as the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+    1. Operations authorized by this grant of exemption are limited to the 3D Robotics Iris +
+         when weighing less than 55 pounds including payload. Proposed operations of any
+         other aircraft will require a new petition or a petition to amend this exemption.
+
+    2. Operations for the purpose of closed-set motion picture and television filming are
+         not permitted.
+
+    3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+         exemption holder may use either groundspeed or calibrated airspeed to determine
+         compliance with the 87 knot speed restriction. In no case will the UA be operated at
+         airspeeds greater than the maximum UA operating airspeed recommended by the
+         aircraft manufacturer.
+
+    4. The UA must be operated at an altitude of no more than 400 feet above ground level
+         (AGL). Altitude must be reported in feet AGL.
+
+    5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+         This requires the PIC to be able to use human vision unaided by any device other than
+         corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+         U.S. driver's license.
+
+    6. All operations must utilize a visual observer (VO). The UA must be operated within
+         the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+         to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+         capability. The VO and PIC must be able to communicate verbally at all times;
+         electronic messaging or texting is not permitted during flight operations. The PIC
+         must be designated before the flight and cannot transfer his or her designation for the
+         duration of the flight. The PIC must ensure that the VO can perform the duties
+         required of the VO.
+
+    7. This exemption and all documents needed to operate the UAS and conduct its
+         operations in accordance with the conditions and limitations stated in this grant of
+         exemption, are hereinafter referred to as the operating documents. The operating
+         documents must be accessible during UAS operations and made available to the
+                                                                                                            4
+
+    Administrator upon request. If a discrepancy exists between the conditions and
+    limitations in this exemption and the procedures outlined in the operating documents,
+    the conditions and limitations herein take precedence and must be followed.
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+                                                                                                            5
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+    exemption holder may apply for a new or amended COA if it intends to conduct
+    operations that cannot be conducted under the terms of the attached COA.
+                                                                                                            6
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+    be as large as practicable.
+
+23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+    any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+    PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+    These documents must be made available to the Administrator or any law enforcement
+    official upon request.
+
+24. The UA must remain clear and give way to all manned aviation operations and
+    activities at all times.
+
+25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless:
+      a. Barriers or structures are present that sufficiently protect nonparticipating persons
+          from the UA and/or debris in the event of an accident. The operator must ensure
+          that nonparticipating persons remain under such protection. If a situation arises
+          where nonparticipating persons leave such protection and are within 500 feet of
+          the UA, flight operations must cease immediately in a manner ensuring the safety
+          of nonparticipating persons; and
+      b. The owner/controller of any vessels, vehicles or structures has granted permission
+          for operating closer to those objects and the PIC has made a safety assessment of
+          the risk of operating closer to those objects and determined that it does not
+          present an undue hazard.
+
+    The PIC, VO, operator trainees or essential persons are not considered
+    nonparticipating persons under this exemption.
+
+27. All operations shall be conducted over private or controlled-access property with
+    permission from the property owner/controller or authorized representative.
+    Permission from property owner/controller or authorized representative will be
+    obtained for each flight to be conducted.
+
+28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+    boundaries of the operational area as defined by the applicable COA must be reported
+    to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+    reported to the National Transportation Safety Board (NTSB) per instructions
+    contained on the NTSB Web site: www.ntsb.gov.
+                                                                                                                 7
+
+ If this exemption permits operations for the purpose of closed-set motion picture and
+ television filming and production, the following additional conditions and limitations apply.
+
+    29. The operator must have a motion picture and television operations manual (MPTOM)
+         as documented in this grant of exemption.
+
+    30. At least 3 days before aerial filming, the operator of the UAS affected by this
+         exemption must submit a written Plan of Activities to the local Flight Standards
+         District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+         notification may be waived with the concurrence of the FSDO. The plan of activities
+         must include at least the following:
+           a. Dates and times for all flights;
+           b. Name and phone number of the operator for the UAS aerial filming conducted
+              under this grant of exemption;
+           c. Name and phone number of the person responsible for the on-scene operation of
+              the UAS;
+           d. Make, model, and serial or N-Number of UAS to be used;
+           e. Name and certificate number of UAS PICs involved in the aerial filming;
+           f. A statement that the operator has obtained permission from property owners
+              and/or local officials to conduct the filming production event; the list of those
+              who gave permission must be made available to the inspector upon request;
+           g. Signature of exemption holder or representative; and
+           h. A description of the flight activity, including maps or diagrams of any area, city,
+              town, county, and/or state over which filming will be conducted and the altitudes
+              essential to accomplish the operation.
+
+    31. Flight operations may be conducted closer than 500 feet from participating persons
+         consenting to be involved and necessary for the filming production, as specified in the
+         exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                      8
+
+This exemption terminates on August 31, 2017, unless sooner superseded or rescinded.
+
+Sincerely,
+
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+                                        Dark Technologies, LLC ­ Las Vegas, NV
+
+May 13, 2015
+U.S. Department of Transportation
+Docket Management System
+1200 New Jersey Avenue, SE
+Room W12-140, West Building Ground Floor
+Washington, D.C. 20590-0001
+
+Re: Exemption Request Section 333 of the FAA Reform Act of the Federal Aviation Regulations from
+14 C.F.R. 45.23(b) 14 C.F.R. Part 21 14 C.F.R. 61.113(a)&(b) 91.7(a) 91.9(b) (2) 91.103(b) 91.109
+119.121 91.151(a) 91.203(a)&(b) 91.405(a) 91.407(a) (1) 91.409(a) (2) 91.417(a)&(b)
+
+Dear Sir or Madam,
+Dark Technologies, LLC hereby petitions the Secretary of Transportation and Federal Aviation
+Administration for a Grant of Exemption to the above referenced and below more fully described
+Federal Aviation Regulations (FARs) that currently may or may not apply to the recreational and
+business operations of sUAS (Small Unmanned Aircraft Systems) for the use in precision aerial mapping,
+inspections, photography and video.
+Pursuant to Section 333 of the FAA Modernization and Reform Act of 2012 and the procedures
+contained within 14 C.F.R. 11, petition that Dark Technologies, LLC, owner and operator of sUAS's
+commercially in airspace regulated by the FAA with the following sUAS quad rotor systems:
+
+     3DR Iris 2 plus w/Gimbal and GoPro Camera or small point and shoot camera
+
+                                             FAAFAA 333 EXEMPTION ­ DARK TECHNOLOGIES, LLC 1
+Dark Technologies, LLC Background and Purpose for Exemption:
+With safety being our primary goal we have obtained the aforementioned quad rotor systems that are
+commercially available and flown regularly by advanced hobbyist clientele. Our company is primarily all
+degreed aerospace engineers with over 85 years of collective professional aviation experience. Our pilot
+cadre is all former military pilots with over 10,000 hours of collective flying experience in both Military
+and Civil aviation as well as over 3,000 UAV Pilot in Command (PIC) hours.
+Our intent is to conduct aerial photography/Inspection/ included but not limited to the following
+Business Operations: over land, waterways, and oceans Operation over/in non-restricted National
+Parks, National Forests, flight in non-navigable airspace, using nonintrusive recording devices, operation
+in otherwise unrestricted U.S. States/Territories for aerial videography for commercial operation and to
+enhance academic community awareness for those individuals and companies unfamiliar with the
+geographical layout of their areas of operation.
+As described more fully below, the requested exemption would permit the operation of UAS under
+controlled conditions in airspace that is 1) limited 2) Pre-determined in areas away from general public,
+airports, heliports and vehicular traffic for community videos, and within property boundaries for
+individual homeowner real estate listing videos/photos And 3) controlled as to access.
+
+Contact Information:
+Christopher C. Knight
+President - Dark Technologies, LLC
+10319 Mount Oxford Ave
+Las Vegas, NV 89166
+Tel: 702-238-5122
+Email: Chris@Darktech.us
+
+List of Specific Exemptions of 14 CFR:
+14 CFR 21, Subpart H ­ Airworthiness Certificates
+14 CFR 45.23 (b) ­ Aircraft Marking Certification and Registration
+14 CFR 61.113 (a) & (b) ­ Certification: Pilots, Flight Instructors, and Ground Instructors
+14 CFR 91.7 (a) ­ Civil Aircraft Airworthiness
+
+                                             FAAFAA 333 EXEMPTION ­ DARK TECHNOLOGIES, LLC 2
+14 CFR 91.103 (b) (2) - Preflight action
+14 CFR 91.105 - Flight crewmembers at stations
+14 CFR 91.109 - Flight instruction
+14 CFR 91.119 (c) - Minimum safe altitudes
+14 CFR 91.121 - Altimeter settings
+14 CFR 91.151 - Fuel requirements for flights in VFR conditions
+14 CFR 91.405 (a) - Maintenance required
+14 CFR 91.407 (a) (1) - Operation after maintenance
+14 CFR 91.409 (a) (2) - Inspections
+14 CFR 91.417 (a) and (b) - Maintenance records
+
+In accordance with the outline given in the FAA's "Public Guidance for Petitions Files under Section 333",
+the following information is provided for each numbered section in that guidance:
+1. Aircraft Description
+Design and Operational Characteristics:
+Dark Technologies plans to operate the 3DR Iris Plus quad rotor aircraft, which is a readily available and
+widely utilized and tested quad rotor sUAS aircraft.
+3DR Iris Plus ­
+
+     3.7 pound weight with battery and camera payload
+     16-22 min estimated flight times
+     21.6 inches from rotor to rotor
+     Maximum capability to set forward speed of 30 mph
+     GPS Autopilot (Next Gen 32-bit 3DR Pixhawk) with 3 available flight mode settings (Return to
+
+         Home/Launch, Stabilize or Manual mode, and position hold)
+     Controller ­ 2.4 GHz Preconfigured FlySky FS-TH9x RC with built in backup telemetry module
+
+         (915 mHz)
+     Ground-Station Telemetry Connection ­ 915 mHz (FCC Compliant)
+
+                                             FAAFAA 333 EXEMPTION ­ DARK TECHNOLOGIES, LLC 3
+The 3DR Iris Plus is equipped with a built-in flight control system, which includes a failsafe function that
+will activate if the remote control is powered off or signal is lost to the sUAS. When this mode is
+activated the Iris Plus will automatically fly the Iris Plus back to the home point (the point at which the
+copter was armed and took off from) and land itself. If the GPS is lost the Iris Plus will descend and land
+in place after a short period.
+
+The ground-station application runs on an associated laptop that is dedicated for this purpose and
+communicates to the Iris Plus via a telemetry link that serves as a near real time view for the associated
+spotter to view aircraft essential data and general health and status of the system.
+
+Through the ground-station software the Iris Plus will have a pre-programmed flight area limitation set
+prior to every flight activity that it will return to the launch area should it depart from that pre-set flight
+area. This area is set for a designated area or radius as well at altitude. This negates the ability for the
+sUAS to fly into restricted areas or airspace.
+
+Detailed manufacturer's information and manuals (current to date) have been included as follows in the
+appendices attached along with this document:
+
+     Appendix A ­ 3DR Iris + Operations Manual
+     Appendix B ­ 3DR Iris + Pre-Flight Checklist
+
+For reference, the 3DR Iris Plus is included in a current FAA Section 333 Exemption No. 11204 granted on
+March 11, 2015 to Build Imagery, LLC.
+
+2. Procedures for Ensuring the sUAS is in a Condition Safe for Flight
+
+Preflight Checks will be accomplished before any operation of the Iris Plus sUAS aircraft and will consist
+of the following as well as the reference material presented in Appendix B.
+
+     Operation is conducted in daylight hours under visual conditions
+     Survey or operational area is defined and set into the aircraft autopilot via the ground-station
+
+         interface.
+     All areas of the flight path are at least 500 ft. from all non-participating persons, vehicles and
+
+         structures unless protection is in place and permission to overfly these areas is granted or such
+         operations present no hazard to the PIC, VO or other essential persons involved.
+     The Visual Observer (VO) assisting the PIC during all flight activities as well as the PIC will verify
+         all planned flight points; the schedule will be reviewed and a flight briefing conducted with
+         procedures covered for any emergency situation.
+     Flight battery, remote control battery and all back-up batteries will be checked for full charge
+         and proper installation.
+     All four propellers are checked for proper installation and examined to be free from any
+         damage.
+
+                                             FAAFAA 333 EXEMPTION ­ DARK TECHNOLOGIES, LLC 4
+     Damping absorbers are in good working condition.
+     SD card installed in camera.
+     Power on aircraft and connect to ground-station
+     Ensure proper GPS has been attained
+     Check upload of proper working area coincides with pre set flight distance and altitude limits for
+
+         current operating area.
+     Ensure altitude limits are NEVER to exceed 300 ft. AGL (leaving a 100 ft. buffer for safety
+
+         purposes).
+     Place aircraft onto launch point and press the arm button to establish the "home" location.
+     Ensure that the Green indication for proper GPS lock is attained.
+     Visual Observer is in place and audibly verifies that the area is clear to proceed with the flight
+
+         mission.
+     No inoperable components for flight
+     PIC and VO record the preflight check complete and sign, and file into equipment inspection and
+
+         maintenance record book.
+     Proceed with flight activities.
+
+3. Qualifications for the Pilot in Command (PIC)
+    Certifications: a Pilot in Command (PIC) possessing at a minimum a private pilot certificate and at
+    minimum a current third-class medical certificate will conduct Operations.
+
+    Hour Requirement: Prior to operations the PIC will have accumulated a minimum of 25 hours of
+    total sUAS operation time. Training and experience building flights (not less than 10 flight activities)
+    in dedicated training sessions will be accomplished prior to operating this system to ensure a full
+    understanding of capabilities, normal operations and system limitations for all standard Dark
+    Technologies, LLC flight profiles/mission activities.
+
+    Currency: Prior to operational flight activities the PIC will have accumulated at least 5 hours of 3DR
+    Iris Plus operations as the PIC. Training activities will be included in this total. The PIC for any given
+    mission will have accomplished at least 3 flight activities in the past 90 days to remain in a "current"
+    status. To re-accomplish currency a minimum of 3 takeoffs and 3 landings will be accomplished with
+    demonstrations of system capabilities for specific mission purposes.
+
+    Emergency Procedures: The PIC will be proficient in evasive maneuvers and mitigate risk by
+    accomplishing the proper standoff distances from all properties, people, structures and vehicles
+    outside of the designated operating area.
+
+4. Medical Standards and Certification for the PIC
+
+                                             FAAFAA 333 EXEMPTION ­ DARK TECHNOLOGIES, LLC 5
+    As previously described in "3. Qualifications for the Pilot in Command (PIC)", the PIC will possess at
+    least a current third-class medical certificate.
+
+5. Description of intended UAS Operations
+
+    No operations of the sUAS will occur within 5 miles of an airport (towered or non-towered). I fa
+    need arises to be within this parameter a letter of agreement will be obtained with the airport
+    directive authority and the operation is conducted in accordance with a Notice to Airman (NOTAM)
+    as required by the Certificate of Waiver of Operation (COA).
+
+    The 3DR Iris plus sUAS quad rotor aircraft will be utilized to survey construction sites, structures and
+    open mines for the purposes of three dimensional modeling, these generated models will give an
+    increased level of safety to the general public and provide a more immediate and thorough
+    information than is readily available by other current means. In some cases the utilization of
+    manned aircraft are obtained to do these types of analysis. The associated risk and cost of this type
+    of operation will be greatly diminished by the use of such a small sUAS and with no pilot or souls on
+    board the risk of public safety are immediately reduced. In other applications workers erect
+    scaffolding or climb structures to allow for inspection and measure, this risk of a fall hazard and risk
+    of life and limb is not present with the use of the sUAS proposed.
+
+    As proposed in section 2 above proper detailed pre-flight checks will take place before every
+    operation, altitude and distance limits will be set and entered into the on board flight control
+    system. These parameters will be double checked by the VO as well to mitigate any issues or
+    conflict. All of this coupled with the aircrafts failsafe measures assure that this aircraft will stay
+    within the area deemed safe and operable for system operations.
+
+    All survey and photo facilities have strict safety procedures and guidelines, Dark Technologies, LLC
+    and its operators take great measure to ensure that there is a strict compliance with these
+    procedures and all applicable laws and regulations.
+
+6. Proposed Speed, Altitude, Visibility and Distances
+
+    Speed: The 3DR Iris Plus is capable of travelling at speeds up to 44 knots. A limit in the Flight
+    Control Software has been set to only allow the aircraft to top out at 15 m/s or 29 knots. Typically
+    the craft will be taking photos that need to be very clear to allow the 3D model to be rendered
+    correctly, thus the speed of normal operation is around 2-3 m/s or 4-6 knots. In the case the aircraft
+    performs a failsafe function to return to the home location it will increase to the maximum set
+    speed of 29 knots. Additionally, when traversing sections of the operating area that are not of
+    interest, a higher speed (not to exceed 29 knots) may be utilized.
+
+                                             FAAFAA 333 EXEMPTION ­ DARK TECHNOLOGIES, LLC 6
+    Altitude: All operations will be completed below 200 ft. AGL, which will provide more than enough
+    room for all facilities and structures in the range of our operations. The flight control system again
+    will be set to never achieve an AGL altitude of over 200 ft.
+
+    Clearance Distances (Operating Area): The flight control system will be set to limit the maximum
+    radial distance from the home location such that the Iris Plus cannot leave those boundaries of the
+    property lines or pre-established operating area. The PIC and VO will operate the equipment to
+    assure those limits are not reached and plan the missions accordingly to allow for ample buffer
+    space.
+
+    All operations will be aborted immediately if the PIC or VO encounters any abnormalities or system
+    behavior outside of the specified ranges. A safe landing procedure will be followed in accordance
+    with operating documentation.
+
+7. Descriptions of the area of intended operations
+
+    Operations will be restricted to the prescribed Dark Technologies, LLC client property and not taken
+    into any public spaces. All client and operators will be aware of operations prior to any flight
+    activity.
+
+8. Proximity of Airports
+
+    Operations will be restricted to the Class G airspace. No operations will occur within 5 miles of a
+    non-towered airport reference point as denoted on current FAA published aeronautical charts.
+
+9. Operation within Visual Line of Sight (VLOS)
+
+    In addition to the PIC the VO will be present for all flight activities. The VO will stay in constant
+    available contact with the PIC at all times by utilizing voice or two way radio means.
+
+10. Procedures for Preflight Safety Assessment
+
+    Prior to each flight activity the PIC will inspect the Iris Plus and the ground-station for proper
+    operation per the provided pre-flight checklists (see section 2. Above & Appendix B). If any section
+    of the pre-flight checklist indicates any unsafe condition the flight will not commence until the
+    proper maintenance is performed and the pre-flight check can be accomplished successfully. All
+    maintenance and alterations performed will be documented and filed in the Maintenance Record
+    Book for the Iris Plus ­ Appendix C.
+
+11. Notifications
+
+    In accordance with the COA, a NOTAM will be requested not more than 72 hours in advance and not
+    less than 48 hours prior to any operation outside the currently authorized "blanket" COA as of
+
+                                             FAAFAA 333 EXEMPTION ­ DARK TECHNOLOGIES, LLC 7
+    March 23, 2015 for Section 333 exempt flights for aircraft under 55 pounds, during daytime VFR
+    conditions and below 200 ft. AGL within VLOS of the PIC and VO.
+
+12. Certificate of Waiver or Authorization (COA)
+
+    Prior to conducting any operations, an Air Traffic Organization (ATO) issued Certificate of Waiver or
+    Operation (COA) will be obtained for each aircraft. Services will start with one aircraft, with
+    additional units added as needs for operations increase over time. Each Phantom 2 Vision+ aircraft
+    will be identified with its serial number, registered in accordance with 14 CFR part 47, and have
+    identification (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings will be
+    as large as practicable.
+
+Specific Regulations for which Exemption is sought:
+
+1. 14 CFR 21, Subpart H ­ Airworthiness Certificates
+
+    Part 21 covers certification procedures for products and parts. Subpart H specifies for Airworthiness
+    Certificates for various types of aircraft. Small Unmanned Aircraft are not specifically called out and
+    addressed in these rules.
+
+    Existing law (49 USC 44701 (f)), Part 11 and Section 333 allow the FAA to exempt aircraft from the
+    requirements of an airworthiness certificate upon consideration of the size, weight, speed,
+    operational capability and proximity to airports and populated areas of the identified sUAS aircraft.
+    Unlike the manned counterparts, the Iris Plus is lightweight, carries no flammable fuel or lubricants,
+    operates at very slow speeds and stays well below the prescribed limitations set forth by the FAA for
+    the use of sUAS aircraft under Section 333.
+
+    Due to this consideration of the size, weight, speed and limited operating area associated with the
+    proposed utilization of the Dark Technologies, LLC Iris Plus, we believe it will not create a hazard to
+    users of the National Airspace System (NAS) or the general public. Therefore, a request is made for
+    exemption from 14 CFR part 21, and any associated noise certification and testing requirements of
+    part 36.
+
+2. 14 CFR 45.23 (b) ­ Aircraft Marking Certification and Registration
+
+    Per CFR 45.23; when marks include only the Roman capital letter "N" and the registrations number
+    is displayed on limited, restricted or light-sport category aircraft of experimental or provisionally
+    certified aircraft, the operator must also display on that aircraft near each entrance to the cabin,
+    cockpit, or pilot station, in letters not less than 2 inches nor more than 6 inches high, the words
+    "limited", "restricted", "light-sport", "experimental", or "provisional", as applicable.
+
+                                             FAAFAA 333 EXEMPTION ­ DARK TECHNOLOGIES, LLC 8
+    We request an exemption in this section due to the lack of a cabin, cockpit or pilot station where
+    any reference to the term "Experimental" could be affixed. Our proposed equivalency will be to
+    place the term "Experimental" on the fuselage. This precedent has been established previously on
+    exemption 10167 & 11408.
+
+3. 14 CFR 61.113 (a) & (b) ­ Certification: Pilots, Flight Instructors, and Ground Instructors
+
+    14 CFR 61.113 (a) and (b) prohibit private pilots from fulfilling the role of PIC if the aircraft is carrying
+    property for compensation, unless the flight is only incidental to that business or employment.
+
+    Dark Technologies believes that due to the size, weight, speed and limited operating area associated
+    with our proposed operations, a PIC possessing a private pilot certificate and a current third-class
+    medical certificate, and also having the aforementioned training and hours on the specifically
+    utilized system (Iris Plus) would ensure safety inherently and prevent creating any hazard to users of
+    the National Airspace System (NAS) or the general public. Therefore, we are requesting exemption
+    from these parts of 14 CFR.
+
+4. 14 CFR 91.7 (a) ­ Civil Aircraft Airworthiness
+
+    Under the assumption that the above exemption for 14 CFR 21, Subpart H is granted, no
+    airworthiness certificate will be required. In lieu of the airworthiness certification by 14 CFR 21,
+    Dark Technologies, LLC and the operating crew (PIC & VO) will ensure that the 3DR Iris Plus system is
+    in full compliance with its own operating documentation as described in this document. This will
+    include all pre-flight inspections and maintenance as described in the included manufacturer's
+    documentation.
+
+5. 14 CFR 91.103 (b) (2) - Preflight action
+
+    14 CFR 91.103 (b) (2) specifies that the PIC be familiar with the aircraft performance under expected
+    values of airport elevation and runway slope, aircraft gross weight and wind and temperature.
+
+    The Iris Plus will not be operating out of an airport and therefore this rule would not be applicable.
+    On that basis that the operating documentation covers the requirements for safety during all
+    operations an exemption from this rule is requested.
+
+6. 14 CFR 91.105 - Flight crewmembers at stations
+
+    This part requires certain actions by onboard crewmembers. Since the Iris Plus is unmanned, an
+    exemption from this rule is requested.
+
+7. 14 CFR 91.109 - Flight instruction
+
+    14 CFR 91.109 states requirements for flight instruction and requires that the aircraft used for flight
+    instruction have fully functioning dual controls.
+
+                                             FAAFAA 333 EXEMPTION ­ DARK TECHNOLOGIES, LLC 9
+    These details pertain to manned aircraft and are not applicable to small unmanned aircraft systems.
+    The equivalent level of safety will be attained and accomplished via the flight training program and
+    the on boards fail safe methods explained in this documentation. The combined required hours on
+    the system and inherent training program will show the robust nature of this system coupled with
+    the experience obtained with a private pilot's license and current third-class medical certificate will
+    assure that the required competency for safe operations of the Iris Plus will be maintained. On this
+    basis as exemption from this rule is requested.
+
+8. 14 CFR 91.119 (c) - Minimum safe altitudes
+
+    14 CFR 91.119 (c ) requires that no operation is permitted below 500 ft. AGL, except over open
+    water and sparsely populated areas. The proposed use of the Iris Plus is specifically for altitudes
+    well beneath the 500 ft. AGL limitation. On the basis of the previously mentioned safety
+    procedures, we believe that there will be no increased hazard to users of the National Airspace
+    System (NAS) or the general public created by the operation of the Iris Plus as detailed in this
+    document.
+
+9. 14 CFR 91.121 - Altimeter settings
+
+    14 CFR 91.121 provides specific rules for altimeter settings for cruising altitude and flight level of
+    aircraft and speaks of altimeter stations along the route and the elevation of the departure airport.
+    In lieu of these specific requirements, most suitable for manned aircraft, the Iris Plus will
+    incorporate the GPS altitude received from the onboard Radio Frequency telemetry system to
+    derive specific altitude. An equivalent level of safety will be achieved through the use of operational
+    procedures and the flight control system as a backup reading. A preflight check for the proper
+    launch location altitude will be performed for every flight. All altitudes reported will be in feet
+    Above Ground Level (AGL). On this basis, an exemption from this rule is requested.
+
+10. 14 CFR 91.151 - Fuel requirements for flights in VFR conditions
+
+    14 CFR 91.151(a) requires that no person may begin a flight under Visual Flight Rule (VFR) conditions
+    unless (considering wind and forecast weather conditions) there is enough fuel to fly to the first
+    point of intended landing and, assuming normal cruising speed, (1) during the day, to fly after that
+    for at least 30 minutes, or (2) at night, to fly after that for at least 45 minutes.
+
+    The 3DR Iris Plus has the built in capability to monitor battery levels in real time as well as provide
+    audible warnings upon low limit levels of battery capacity. Given that the normal flight time for the
+    Iris Plus in this configuration is 22 min, Dark Technologies, LLC will limit use of the battery to 50% of
+    battery level. If the aircraft reaches a critical battery level, the Iris Plus will simply descend and land
+    safely at that point. Prior to that action the PIC will get audible notification that the system battery
+    levels are reaching their minimum and the PIC must take action to bring the aircraft to a safe home
+    location or land.
+
+                                             FAAFAA 333 EXEMPTION ­ DARK TECHNOLOGIES, LLC 10
+    The batteries that are being utilized for this aircraft are 5100mAh 3 cell Lithium Polymer batteries.
+    Each battery will be verified charged before flight actions take place and will be monitored in the
+    aircraft maintenance documentation the number of cycles on the battery. The batteries will be
+    properly disposed of after 50 cycles of charge and discharge and replaced with new.
+
+    On the basis of these specific safety features and processes of battery power level monitoring and
+    operating procedures, an exemption from this rule is required.
+
+11. 14 CFR 91.405 (a) - Maintenance required
+
+    Please see exemption request explanation in item 14 below (14 CFR 91.417).
+
+12. 14 CFR 91.407 (a) (1) - Operation after maintenance
+
+    Please see exemption request explanation in item 14 below (14 CFR 91.417).
+
+13. 14 CFR 91.409 (a) (2) - Inspections
+
+    Please see exemption request explanation in item 14 below (14 CFR 91.417).
+
+14. 14 CFR 91.417 (a) and (b) - Maintenance records
+
+    Parts 91.405 (a), 91.407 (a) (1), 91.409 (a) (2), and 91.417 (a) and (b), contain requirements for
+    maintenance of larger aircraft. In lieu of adapting these rules for the 3DR Iris Plus, Dark
+    Technologies, LLC is requesting an exemption on the basis that it will inspect the Iris Plus and ensure
+    it is in a safe flight ready condition prior to beginning any flight operation. We propose that
+    adherence to the operating documentation describing the requirements for maintenance,
+    inspection and recordkeeping are sufficient to ensure safety is not adversely affected. Additionally,
+    maintenance will be documented on a monthly basis (see Appendix C) and kept along with the
+    aircraft documentation for reference at any time.
+
+Public Benefit
+
+Granting this Section 333 Exemption would benefit the public in the following ways:
+
+     Public Safety: The current common practices for surveying any construction facility or open
+         mining project are intrusive and inherently dangerous by the utilization of manned aircraft
+         systems. The utilization of a sUAS such as Dark Technologies, LLC is proposing will reduce risk to
+         life, limb and property in orders of magnitude over current conventional means.
+
+     Public Knowledge: Given the current state of public acceptance of the UAS industry as a whole
+         an appropriate representation of a capable, safety oriented operation for others to view and
+                                             FAAFAA 333 EXEMPTION ­ DARK TECHNOLOGIES, LLC 11
+         learn the true benefit of these types of technology will certainly benefit the overall public
+         purview of the UAS as a whole. Additionally, the educational community stands to gain
+         knowledge and understanding from a proper sUAS operation with all aspects of maintenance,
+         safety and governance covered by legal and ethical means.
+     Industrial Safety: Accomplishing these types of inspections and modeling of buildings requires
+         large scaffoldings for which they bring their own level of safety equipment and fall protection
+         devices mandated by OSHA rules. This technology implementation with the Iris Plus would not
+         involve personnel in such activities and would complete the work with an unmanned aircraft
+         which poses little to zero risk for life safety.
+     Energy Savings: By utilizing a sUAS to accomplish these tasks would reduce the frequency of
+         manned aircraft being required and utilized for aerial photography purposes. This would also
+         reduce the amount of fuel being burned and saving energy and reducing emissions of
+         combustible gasses.
+
+The reasons why granting the exemption would not adversely affect safety:
+
+The key features of the proposed 3DR Iris Plus unmanned aircraft system that assure that safety to the
+public and safety of the National Airspace System (NAS) is not adversely affected are the following:
+
+     PIC training and credentials, along with detailed operating procedures assure the level of
+         competency required for safe and successful flight operations are achieved.
+
+     VLOS operations are provided solely by the PIC and VO, and the provided ability to communicate
+         verbally at all times mitigates risk and assures operational control of the sUAS at all times.
+
+     The built in flight control system with associated built in fail safe functionality assures proper
+         flight control data feedback to the PIC, and provides immediate return to home/launch point
+         and safe landing capability under failure scenarios further mitigates mishaps and assures full
+         operational control to prevent injury and damage.
+
+     Detailed procedures for operations and maintenance, and an included pre-flight checklist
+         further assure the mechanical integrity and full functionality of the system prior to any flight
+         operation.
+
+                                             FAAFAA 333 EXEMPTION ­ DARK TECHNOLOGIES, LLC 12
+Summary for publication in the Federal Register
+Petition for exemption
+Docket No.: FAA-2015-xxxx
+Petitioner: Dark Technologies, LLC
+Seeking exemption from the following regulations: Section 14 CFR 21, Subpart H, 14 CFR 45.23 (b), 14
+CFR 61.113 (a) & (b), 14 CFR 91.7 (a), 14 CFR 91.103 (b) (2), 14 CFR 91.105, 14 CFR 91.109, 14 CFR
+91.119 (c), 14 CFR 91.121, 14 CFR 91.151, 14 CFR 91.405 (a), 14 CFR 91.407 (a) (1), 14 CFR 91.409 (a) (2),
+14 CFR 91.417 (a) and (b)
+Description of sought relief: The petitioner is seeking exemption to utilize a small unmanned aircraft
+system (sUAS) to accomplish precision aerial survey, building and construction inspections, utilizing
+aerial video and photography.
+
+Respectfully Submitted,
+//Signed//
+Christopher C. Knight
+President, Dark Technologies, LLC
+Tel: 702-238-5122
+
+                                             FAAFAA 333 EXEMPTION ­ DARK TECHNOLOGIES, LLC 13
+            Appendix ­ A ­ Iris Plus Operation Manual
+
+               See Attached Documentation
+
+            Appendix ­ B ­ Iris Plus Flight Checklist
+
+               See Attached Documentation
+
+            Appendix ­ C ­ Monthly Maintenance Log
+
+                                          Dark Technologies, LLC ­ Iris +
+
+            Month:_________Year:________
+
+sUAS #                  Date Date          Issue Description / Maintenance Conducted  Performed
+                     Discovered Completed                                                  by
+
+                                                                                      Print & Sign
+
+Software Update
+
+Airframe
+Engines
+Propellers
+
+Camera Mount/Gimbal
+
+Landing Gear
+Dampners
+Other:
+
+                                          FAAFAA 333 EXEMPTION ­ DARK TECHNOLOGIES, LLC 14
+

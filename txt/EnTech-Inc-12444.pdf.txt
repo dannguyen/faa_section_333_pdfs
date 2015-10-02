@@ -1,0 +1,1509 @@
+August 12, 2015
+
+                                                           Exemption No. 12444
+                                                           Regulatory Docket No. FAA­2015­1236
+
+Mr. Hanns Mercer, P.E.
+Project Engineer
+EnTech, Inc.
+1949 Sugarland Drive, Suite 205
+Sheridan, WY 82801
+
+Dear Mr. Mercer:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter dated April 16, 2015, you petitioned the Federal Aviation Administration (FAA) on
+behalf of EnTech, Inc. (hereinafter petitioner or operator) for an exemption. The petitioner
+requested to operate an unmanned aircraft system (UAS) to conduct aerial surveying and
+inspections.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner is a Draganfly X4-ES.
+
+The petitioner requested relief from 14 CFR part 21, Certification procedures for products
+and parts, Subpart H--Airworthiness Certificates. In accordance with the statutory criteria
+provided in Section 333 of Public Law 112-95 in reference to 49 U.S.C. § 44704, and in
+                                                                                                                 2
+
+consideration of the size, weight, speed, and limited operating area associated with the
+aircraft and its operation, the Secretary of Transportation has determined that this aircraft
+meets the conditions of Section 333. Therefore, the FAA finds that the requested relief from
+14 CFR part 21, Certification procedures for products and parts, Subpart H--Airworthiness
+Certificates, and any associated noise certification and testing requirements of part 36, is
+not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection1. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+· They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+· The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+· A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, EnTech, Inc. is granted an exemption from 14 CFR
+§§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a), 91.7(a), 91.119(c), 91.121,
+91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a) and (b), to the
+extent necessary to allow the petitioner to operate a UAS to perform aerial data collection.
+This exemption is subject to the conditions and limitations listed below.
+
+1 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                             3
+
+Conditions and Limitations
+
+In this grant of exemption, EnTech, Inc. is hereafter referred to as the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+1. Operations authorized by this grant of exemption are limited to the Draganfly X4-ES
+    when weighing less than 55 pounds including payload. Proposed operations of any
+    other aircraft will require a new petition or a petition to amend this exemption.
+
+2. Operations for the purpose of closed-set motion picture and television filming are
+    not permitted.
+
+3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+    exemption holder may use either groundspeed or calibrated airspeed to determine
+    compliance with the 87 knot speed restriction. In no case will the UA be operated at
+    airspeeds greater than the maximum UA operating airspeed recommended by the
+    aircraft manufacturer.
+
+4. The UA must be operated at an altitude of no more than 400 feet above ground level
+    (AGL). Altitude must be reported in feet AGL.
+
+5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+    This requires the PIC to be able to use human vision unaided by any device other than
+    corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+    U.S. driver's license.
+
+6. All operations must utilize a visual observer (VO). The UA must be operated within
+    the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+    to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+    capability. The VO and PIC must be able to communicate verbally at all times;
+    electronic messaging or texting is not permitted during flight operations. The PIC
+    must be designated before the flight and cannot transfer his or her designation for the
+    duration of the flight. The PIC must ensure that the VO can perform the duties
+    required of the VO.
+
+7. This exemption and all documents needed to operate the UAS and conduct its
+    operations in accordance with the conditions and limitations stated in this grant of
+    exemption, are hereinafter referred to as the operating documents. The operating
+    documents must be accessible during UAS operations and made available to the
+    Administrator upon request. If a discrepancy exists between the conditions and
+    limitations in this exemption and the procedures outlined in the operating documents,
+    the conditions and limitations herein take precedence and must be followed.
+                                                                                                            4
+
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+                                                                                                            5
+
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+    exemption holder may apply for a new or amended COA if it intends to conduct
+    operations that cannot be conducted under the terms of the attached COA.
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+    number, registered in accordance with 14 CFR part 47, and have identification
+                                                                                                               6
+
+       (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+       be as large as practicable.
+
+   23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+       any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+       PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+       These documents must be made available to the Administrator or any law enforcement
+       official upon request.
+
+   24. The UA must remain clear and give way to all manned aviation operations and
+       activities at all times.
+
+   25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+   26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+       persons, vessels, vehicles, and structures unless:
+          a. Barriers or structures are present that sufficiently protect nonparticipating persons
+             from the UA and/or debris in the event of an accident. The operator must ensure
+             that nonparticipating persons remain under such protection. If a situation arises
+             where nonparticipating persons leave such protection and are within 500 feet of
+             the UA, flight operations must cease immediately in a manner ensuring the safety
+             of nonparticipating persons; and
+          b. The owner/controller of any vessels, vehicles or structures has granted permission
+             for operating closer to those objects and the PIC has made a safety assessment of
+             the risk of operating closer to those objects and determined that it does not
+             present an undue hazard.
+
+       The PIC, VO, operator trainees or essential persons are not considered
+       nonparticipating persons under this exemption.
+
+   27. All operations shall be conducted over private or controlled-access property with
+       permission from the property owner/controller or authorized representative.
+       Permission from property owner/controller or authorized representative will be
+       obtained for each flight to be conducted.
+
+   28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+       boundaries of the operational area as defined by the applicable COA must be reported
+       to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+       reported to the National Transportation Safety Board (NTSB) per instructions
+       contained on the NTSB Web site: www.ntsb.gov.
+
+If this exemption permits operations for the purpose of closed-set motion picture and
+television filming and production, the following additional conditions and limitations apply.
+                                                                                                                 7
+
+    29. The operator must have a motion picture and television operations manual (MPTOM)
+         as documented in this grant of exemption.
+
+    30. At least 3 days before aerial filming, the operator of the UAS affected by this
+         exemption must submit a written Plan of Activities to the local Flight Standards
+         District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+         notification may be waived with the concurrence of the FSDO. The plan of activities
+         must include at least the following:
+           a. Dates and times for all flights;
+           b. Name and phone number of the operator for the UAS aerial filming conducted
+              under this grant of exemption;
+           c. Name and phone number of the person responsible for the on-scene operation of
+              the UAS;
+           d. Make, model, and serial or N-Number of UAS to be used;
+           e. Name and certificate number of UAS PICs involved in the aerial filming;
+           f. A statement that the operator has obtained permission from property owners
+              and/or local officials to conduct the filming production event; the list of those
+              who gave permission must be made available to the inspector upon request;
+           g. Signature of exemption holder or representative; and
+           h. A description of the flight activity, including maps or diagrams of any area, city,
+              town, county, and/or state over which filming will be conducted and the altitudes
+              essential to accomplish the operation.
+
+    31. Flight operations may be conducted closer than 500 feet from participating persons
+         consenting to be involved and necessary for the filming production, as specified in the
+         exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                      8
+
+This exemption terminates on August 31, 2017, unless sooner superseded or rescinded.
+
+Sincerely,
+
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+                                                           April 16, 2015
+
+   Petition for Exemption under §333 of the FAA Modernization and Reform Act of 2012
+
+Mr. Anthony Foxx
+United States Secretary of Transportation
+1200 New Jersey Ave, SE
+Washington DC, 20590
+
+Re: Exemption Request under §333 of the FAA Modernization and Reform Act of 2012
+       (Public Law 112-95) from 14 CFR 21; 14 CFR 36, 45.23; 45.27, 45.29; 61.113; 91.7; 91.9(b)
+       (2); 91.103(b); 91.109; 91.119(c); 91.151(a); 91.203(a)&(b); 91.405(a); 91.407(a) (1); 91.409(a)
+       (2); 91.417(a)&(b)
+
+Dear Mr. Secretary,
+
+In accordance with §333(c) of the Federal Aviation Administration (FAA) Modernization and
+Reform Act of 2012, EnTech, Inc. is requesting permission to use its Draganfly X4-ES Unmanned
+Aircraft System (UAS) to perform operations involving surveying and inspections of properties owned
+by both public and private entities for the use in civil engineering planning and design solutions. This
+letter contains the documentation pertaining to the waiver requests as per 14 CFR Part 11 and
+how these exemptions are in the best interest of public safety.
+
+EnTech is committed to obtaining a level of safety at or above the current regulations. EnTech has
+developed a UAS Flight Operations Manual and has detailed the operating system of the proposed
+UAS filed with this exemption, both of which are included within this request.
+
+Public safety is the primary concern of EnTech. Utilizing the remote use of the Dragonfly X4-ES,
+public and personal safety will be heightened and the safety risks involved with the current practice
+will be reduced. The UAS will allow a faster and safer approach to engineering inspections and
+solutions with safe and efficient flights made possible with unmanned surveying and inspections.
+EnTech will utilize the expertise of existing personnel within the company with decades of
+experience flying radio controlled aircraft. EnTech will be responsible for ensuring compliance with
+applicable FAA regulations in relation to UAS operations, with public safety being of the utmost
+concern.
+
+Performing aerial inspections and surveys utilizing a UAS has many beneficial uses to public safety
+and can be utilized in many different applications. Some of the beneficial uses that are in the best
+interest of public safety include search and rescue, natural disaster surveillance, power line
+inspections after storms, agricultural application surveys, and other efficient, non-invasive surveys
+or videography to reduce the exposure and time required for traditional inspections and surveys.
+   Petition for Exemption under §333 of the FAA Modernization and Reform Act of 2012
+
+EnTech, Inc., requests an exemption under Section 333 of the FAA Modernization and Reform
+Act of 2012 for commercial flight of its Draganfly X4-ES UAS. EnTech, Inc. provides civil engineering
+consulting, surveying and inspection services to private and government entities. EnTech will
+primarily use this UAS for general land surveying and aerial photography to aid in the design and
+implementation of solutions based in the civil engineering field. EnTech would also expect to utilize
+the UAS in future operations which may consist of: (1) agricultural operations; (2) forest and
+wildlife conservation; (3) aerial surveying; (4) patrolling (pipelines, power lines & natural gas
+fields); and (5) any other operation specified by the FAA. Proposed operations will be performed
+in full compliance with aviation safety regulations, maintained at or below 400 feet AGL and in
+Line-of-sight with the Pilot-in-Command (PIC). As per 14 CFR §11.81, this petition for exemption
+is prepared and filed in accordance with regulation to request exemptions from the Federal
+Aviation Regulations (FAR's) pertaining to operation of a UAS so that operations can be
+commercially completed in accordance to all applicable FARs that would pertain to a small UAS.
+Specifically, 14 CFR §11.81 states:
+
+         "You must include the following information in your petition for an exemption and
+         submit it to FAA as soon as you know you need an exemption.
+
+                   (a) Your name and mailing address and, if you wish, other contact information
+                   such as a fax number, telephone number, or e-mail address;
+                   (b) The specific section or sections of 14 CFR from which you seek an
+                   exemption;
+                   (c) The extent of relief you seek, and the reason you seek the relief;
+                   (d) The reasons why granting your request would be in the public interest; that is,
+                   how it would benefit the public as a whole;
+                   (e) The reasons why granting the exemption would not adversely affect safety, or
+                   how the exemption would provide a level of safety at least equal to that provided
+                   by the rule from which you seek the exemption;
+                   (f) A summary we can publish in the FEDERAL REGISTER, stating:
+
+                              (1) The rule from which you seek the exemption; and
+                              (2) A brief description of the nature of the exemption you seek;
+                   (g) Any additional information, views or arguments available to support your
+                   request; and
+                   (h) If you want to exercise the privileges of your exemption outside the United
+                   States, the reason why you need to do so."
+
+14 CFR §11.81, EnTech, Inc. submits the following information:
+
+    (a) Name and mailing address
+
+         Hanns Mercer, P.E.
+         Project Engineer
+         EnTech, Inc.
+         1949 Sugarland Dr. Ste: 205
+         Sheridan, Wyoming 82801
+         P: (307) 673-1542
+         hwm@entechusa.net
+
+                                                               2
+  Petition for Exemption under §333 of the FAA Modernization and Reform Act of 2012
+
+(b) The specific section or sections of 14 CFR from which exemption is sought:
+             · 14 CFR Part 21, Airworthiness Certificates
+
+             · 14 CFR 36, Noise Certification
+             · 14 CFR 45.23, 45.27, Aircraft Marking & Certification and Registration
+             · 14 CFR 45.29, Size Requirements
+             · 14 CFR 61.113, Pilot in Command
+             · 14 CFR 91.7, Civil aircraft airworthiness
+             · 14 CFR 91.9, Document/Flight Manuals
+             · 14 CFR 91.103, Preflight action
+             · 14 CFR 91.109, Flight Instruction
+             · 1 4 C FR 9 1 .1 1 9 ( c ) Minimum safe altitude
+             · 14 CFR 91.151, Fuel requirements for VFR flight
+             · 14 CFR 91.203, Civil Aircraft: Certifications required
+             · 14 CFR 91.405 (a); 407 (a) (1); 409 (a); 417 (a) & (b) Maintenance and Maintenance inspection
+
+   (b) The extent of relief sought is for the duration of the Grant of Exemption, unless otherwise specified.
+        The reason to seek the relief is as follows:
+
+     I. 14 CFR 21
+
+     The proposed UAS to be utilized is well under 55 lbs weighing at the maximum payload
+     range and weighing approximately 5.5 lbs when outfitted with all equipment and batteries.
+     There are no flammable liquids or other hazardous materials that would propose a danger
+     to the public. The maximum speed is 30 mph. The PIC will maintain VFR (Visual Flight
+     Rules) and operate the UAS during the day, at or below 400 feet AGL and in line-of-sight
+     so as not to create a hazard to users of the National Airspace System or the public.
+
+     II. 14 CFR 36
+
+     EnTech, Inc. requests relief from any associated noise certification and testing requirements
+     of Part 36. As a note, according to the manufacturer's specifications, the UAS operates
+     below 62db within 3 meters.
+
+     III. 14 CFR 45.23, 45.27
+
+      The UAS does not currently display marks consisting of the Roman capital letter "N"
+      followed by the registration number of the aircraft in compliance with 14 CFR 45.23 and 14
+      CFR 45.27. EnTech will register the UAS with the FAA and ensure the UAS is marked as
+      appropriate for use in the NAS for commercial purposes.
+
+                                                              3
+Petition for Exemption under §333 of the FAA Modernization and Reform Act of 2012
+
+   IV. 14 CFR 45.29
+
+   Relief is requested from the size requirements under this section due to the size limitations
+   of the UAS. We propose to use marks as large as possible on the UAS as well as keep
+   registration information with the PIC during operations on the ground.
+   V. 14 CFR 61.113
+   EnTech, Inc. employees currently do not have commercial pilot licenses and therefore request
+   relief from 14 CFR part 61.113. The flight is only incidental to this business; and the aircraft
+   does not carry passengers or property for compensation. To reach an equivalent level of
+   safety, the self-imposed experience and training requirements of the Pilot in Command (PIC)
+   would more than offset any risk introduced by using private pilots to fly an unmanned aircraft in
+   very restricted and controlled areas.
+
+ VI. 14 CFR 91.7
+
+   Assuming no airworthiness certificate will be required due to relief from Subpart H, no
+   regulatory standard exists for determining airworthiness. The equivalent level of safety will
+   be achieved through the employment of flight manual and maintenance manual
+   procedures, pilot training and analytical risk management for each event.
+
+ VII. 14 CFR 91.9
+
+   Relevant materials shall be kept in a location accessible to the PIC in compliance
+   with the regulations.
+
+ VIII. 14 CFR 91.103
+
+   This regulation dictates that a pilot conduct preflight activities. Without an FAA approved
+   flight manual, relief is required from this regulation. Extensive pre-flight planning will
+   provide an equivalent level of safety by using the operations plan, aircraft flight manual,
+   maintenance manual and available weather and NOTAM information. The PIC will follow
+   all other applicable pre-flight procedures including reviewing weather, flight battery
+   requirements, landings, and takeoff distances and aircraft performance data before
+   initiation of flight.
+
+ IX. 14 CFR 91.109
+   The Draganfly X4-ES has no onboard flight controls. An equivalent level of safety will be
+   accomplished by conducting pilot training via the control system that communicates with the
+   aircraft from the ground. EnTech intends to conduct this training at the radio control aircraft
+   airport site under controlled conditions.
+
+                                                           4
+Petition for Exemption under §333 of the FAA Modernization and Reform Act of 2012
+
+X.14 CFR 91.119(c)
+
+  EnTech, Inc. requests relief from this section because the UAS will be operated below
+  400 feet AGL. The PIC will ensure the UAS is operated in controlled environments, as
+  well as obtaining and assessing information regarding congested areas from the local
+  Flight Standards District Office (FSDO) and avoiding areas of congestion. We feel that
+  an acceptable level of safety can be achieved. Extensive range testing and additional
+  on-site testing in a controlled environment would be conducted in real time conditions. The
+  light-weight UAS being proposed for use in this activity, along with its precise guidance and
+  redundant systems, create an entirely different paradigm that should be considered by
+  regulatory bodies.
+
+XI. 14 CFR 91.151
+
+  EnTech, Inc. requests exemption from this section due to the maximum flight time
+  available from this UAS. The UAS total flight time is limited to 20 minutes and therefore
+  the PIC would not be able to meet the minimum standards and still conduct the
+  inspections. The UAS is equipped with a visual battery indicator that displays the battery
+  levels at all time. Additionally, the UAS has a visual alarm that indicates when the
+  battery reaches a state of 20% battery life, or approximately 4 minutes of flight time. These
+  indicators, coupled with pilot awareness and the emergency "Return to Home" setting, will
+  supply ample time to land the UAS safely in the event of low battery.
+
+XII.  14 CFR 91.203
+
+EnTech, Inc. requests relief from 14 CFR 91.203, as the appropriate airworthiness
+certificate does not exist for this UAS. Additionally, the certificate cannot be displayed in the
+aircraft due to the size and physical structure of the UAS.
+
+XIII. 14 CFR 91.405(a), 407(a)(1), 409(a), 417(a)(b)
+
+  EnTech, Inc. requests relief from these sections of 14 CFR 91.405, 407, 409, and 417. The
+  above-cited regulations require, in general, aircraft owners and operators to inspect the
+  aircraft "...as prescribed in subpart E of this part and shall between required inspections,
+  except as provided in paragraph (c) of this section, have discrepancies repaired as
+  prescribed in Part 43 of this chapter." These regulations apply to aircraft with an Airworthiness
+  Certificate. Therefore, these sections are not applicable to this UAS. Operators will
+  adhere to requirements located within the operations manual. These FARs only concern
+  aircraft with an airworthiness certificate and therefore would not apply in this situation. All
+  maintenance and inspections will be conducted within the maintenance manual and
+  operations manual.
+
+                     5
+ Petition for Exemption under §333 of the FAA Modernization and Reform Act of 2012
+
+(d) The reasons why granting this request would be in the public interest; that is, how it would
+     benefit the public as a whole.
+
+     Personnel Safety
+
+     Performing aerial inspections and surveys utilizing a UAS has many beneficial uses to public
+     safety and can be utilized in many different applications. Some of the beneficial uses that are
+     in the best interest of public safety include: search and rescue, natural disaster surveillance,
+     power line inspections after storms, agricultural application surveys, and other fast non-
+     invasive surveys or videography to reduce the exposure and time required for traditional
+     inspections and surveys of such matters.
+
+     Hazards such as downed power lines, flooding, broken or damaged pipelines and bridges,
+     forest fires and avalanches oftentimes are located in areas where terrain is inaccessible or
+     difficult to access safely, or simply too dangerous for foot travel. Field inspections leave
+     employees vulnerable to environmental hazards such as snow and ice accumulation,
+     stream crossings, seasonal water runoff, felled trees, downed power lines and blocked
+     paths; biological hazards, such as poison ivy, snakes, and natural predators; and extreme
+     temperature changes which may cause altitude sickness, heat stroke or frost bite. The
+     utilization of our UAS will ensure access to these areas while minimizing risk of serious injury
+     or issue to personnel assigned to conduct these inspections, as well as a more cost-effective
+     and timely analysis of any such events that the UAS may be deemed useful to complete
+     such tasks. Local emergency entities will be briefed on the nature of intent of EnTech's and
+     the UAS's capabilities which could be made available for a possible resource option.
+
+     Cost-Effectiveness
+
+     Costs will be reduced and timelines will gain efficiency with the use of a UAS. Most
+     applications of a traditional inspection or survey would include multiple personnel and
+     vehicles to complete the task. The use of the UAS will minimize the planning, engineering
+     and design of gaining the access and data to make informed decisions and generate
+     solutions, while minimizing possible lost time of employees due to sickness or injury being
+     sustained in a hazardous situation.
+
+(e) The reasons why granting the exemption would not adversely affect safety, or how the
+     exemption would provide a level of safety at least equal to that provided by the rule from
+     which the exemption is sought.
+     The UAS consists of a lightweight, battery powered multirotor craft, a personal computer-
+     based ground control station, and associated communications equipment. The
+     multirotor craft's length is 36", its width is 36" and it has a height of 12.6", which can operate
+     at a maximum speed of about 30 mph. The Draganfly X4-ES is controlled from a 2-
+     way 900 MHz data link frequency which sends controls to the UAS and also receives
+     data, such as battery level alarms back to the PIC. This frequency is a DSSS (Direct
+     Sequence Spread Spectrum) transmission. These have been proven to be reliable
+
+                                                             6
+Petition for Exemption under §333 of the FAA Modernization and Reform Act of 2012
+
+    and not accept interference from other frequencies. The UAS is equipped with a visual
+    battery indicator that displays the battery levels at all times. Pilots are trained to monitor
+    the battery indication lights during flights. Additionally, the UAS has a visual alarm that
+    indicates when the battery reaches a state of 20% battery life, or approximately 4 minutes
+    of flight time. The UAS consists of a semi-autonomous flight mode. The aircraft will be
+    operated with both a PIC and a ground-based Visual Observer (VO) in accordance with
+    FAA Policy N 8900.227 Section 14, Operational Requirements for UAS. All flights will
+    occur at no more than 400 feet AGL; operations will be conducted in a professional and
+    controlled manner and in line of sight (LOS) of the PIC. The UAS has a Sony RX100 III zoom
+    camera which downloads real time data via a 5.8 GHz link to the ground control station. All
+    applicable regulations set forth by the Federal Communications Commission (FCC) will be
+    adhered to by the PIC. This UAS has 11 onboard sensors including gyros, accelerometers,
+    magnetoresistive, barometric and GPS sensors.
+
+   Flight operations will be limited to daytime hours with at least a 500' cloud ceiling and a
+   1 mile flight visibility requirement. Visual meteorological conditions and the aircraft will
+   remain within visual line of sight of the PIC at all times. The PIC will complete the proper
+   training and exercises at a controlled field before performing client based flight patterns.
+
+   This exemption will provide a greater level of safety to that provided by the rule from which
+   the exemption is sought due to the current nature of conducting inspections. Because UAS
+   flights are not currently authorized for commercial use, the small size, extreme
+   maneuverability and zoom capabilities on the camera together allow for a safe,
+   unimpeded inspection of critical infrastructure assets. Conducting safe inspections and
+   land surveys are in the public interest, provide a safer alternative, and produce more
+   accurate data for engineering evaluation.
+
+(f) Summary to publish in the Federal Register
+
+    I. The rule from which exemption is sought
+
+   EnTech, Inc. seeks exemption under §333 of the FAA Modernization and Reform Act of
+   2012 (Public Law 112-95) from 14 CFR 21; 14 CFR 36, 45.23; 45.27, 45.29; 61.113; 91.7;
+   91.9(b) (2); 91.103(b); 91.109; 91.119(c); 91.151(a); 91.203(a)&(b); 91.405(a); 91.407(a) (1);
+   91.409(a) (2); 91.417(a)&(b)
+
+    II. A brief description of the nature of the exemption sought
+
+   EnTech, Inc. requests an exemption under Section 333 of the FAA Modernization and
+   Reform Act of 2012 for commercial flight of its Draganfly X4-ES UAS. EnTech, Inc.
+   provides civil engineering consulting, surveying and inspection services to private and
+   government entities. EnTech will primarily use this UAS for general land surveying and aerial
+   photography to aid in the design and implementation of solutions based in the civil
+   engineering field. EnTech would also expect to utilize the UAS in program operations which
+   consist of: (1) agricultural operations; (2) forest and wildlife conservation; (3) aerial
+   surveying; (4) patrolling (pipelines, power lines & natural gas fields); and (5) any other
+   operation specified by the FAA. Proposed operations will be performed in full
+
+                                                           7
+   Petition for Exemption under §333 of the FAA Modernization and Reform Act of 2012
+
+                           FLIGHT OPERATIONS MANUAL
+
+Area & Environment
+ Hazards / Site Selection
+
+      Check for wires / cables
+      Animals
+      People / bystanders
+      Property in the vicinity
+      Site is away from nonessential participants
+      Ability to maintain adequate buffer zones between aircraft and personnel;
+      Minimize departures and landings over populated areas
+      Take into account local topography, ensuring a visible line of sight towards the UAS at all times. Ensure the
+
+          telemetry connection is not obstructed.
+      Investigate potential alternative landing sites in case take-off site is obstructed.
+ Psychological consideration (are you well rested, rushed, are you being pressured by client)
+ Weather considerations
+      Temperature
+      Visibility
+      Precipitation
+ Wind Speed
+      Upper winds / at altitude
+      Rotor (lee side of large objects)
+ Notify any bystanders or nearby property owners of your intentions (permission)
+ Discuss flight plan with your co-pilot or spotter
+ If flying in controlled airspace, have you notified airspace authority
+      NOTAMs
+      Can you reach authorities
+      Do you need to maintain communication?
+ First Aid Kit stocked, readily accessible and visible to anyone in the area.
+
+UAS Equipment
+ Walk-around
+ Crack in joints and structural members
+ Loose or damaged screws, ties, fasteners, straps
+ Loose or damaged wiring
+ Loose or damaged connections (solder, plugs, etc.)
+ Inspect prop mounts and screws and apply slight counter pressure on arms to check for loosened components
+ FPV , inspect / clean FPV (Camera) Lens and insure it is secured and connects are firmly attached
+ Camera settings are correct (still images, video, framerate)
+
+                                                               9
+   Petition for Exemption under §333 of the FAA Modernization and Reform Act of 2012
+
+ Battery / Batteries are fully charged, properly seated and Secured
+ Fail-safe equipment functioning
+
+      RTH (return to home)
+      Firmware Airport Proximity Detection Functioning
+ Props are smooth and free of damage / defect (check blade, surface and hub)
+ Prop adapters are tight / secure
+ Ensure voltage alarm is connected
+ Ensure arming / idle timeout is properly configured
+ Correct model is selected in transmitter (if applicable)
+ Check RC transmitter shows the right range and centering for all sticks
+ Perform range test
+
+Mission Plan
+ All actions and contingencies for the mission planned.
+ Contingency planning should include safe routes in the event of a system failure, degraded performance, or lost
+
+     communication link, if such a failsafe exists.
+ Mission plans and flight plans should be shared with other operators in the vicinity.
+
+Public Awareness
+ Be courteous and polite
+ You are an ambassador and your actions will affect other pilots and the industry in general
+ Be professional / appear professional
+
+Pre-Flight/Run-Up
+ Verifying all transmitter, on-board aircraft and camera batteries are fully charged; (confirm voltages)
+ Ensure no frequency conflicts with both video and transmitter / receiver
+ Checking all control surfaces for signs of damage, loose hinges, and overall condition; Looking over the
+
+     wing/rotors to ensure they are in good structural condition and properly secured;
+ Check motor/engine and mounting attached to the airframe;
+ Study propellers / mounting hardware (tight) / rotor blades for chips and deformation;
+ Check the landing gear for damage and function
+ Test electrical connections, plugged in and secure
+ Ensure photo / video equipment mounting system is secure and operational.
+ Check location of GPS equipment controlling the autopilot.
+ Check the IMU movements in the ground control software.
+ UAS in stabilization mode, ensure control surfaces move towards the correct positions
+ UAS / Drone is in a level location safe for takeoff
+ FPV / Power up ground station
+
+                                                               10
+   Petition for Exemption under §333 of the FAA Modernization and Reform Act of 2012
+
+ FPV / Power up Video receiver
+ If using Video recorder turn on camera system
+ Camera settings are correct (still images, video, framerate)
+ SD camera memory clear and inserted into the camera
+ Action / Start filming
+ All transmitter controls move freely in all directions
+ All transmitter trims in neutral position
+ All transmitter switches in correct position( typically away)
+ Transmitter throttle to zero
+ Radio transmitter on
+ Connect / power on battery to airframe
+ Ensure led indicators and audible tones are correct
+ Timer on (if applicable)
+ FPV, confirm video is in monitor / goggles
+ Scan for nearby cars / people / animals
+ Say "CLEAR!"
+ Arm flight controller
+ Increase throttle slightly listening for any abnormalities
+ Short 20-30 second hover at 3-5 feet (listen for vibrations / loose items)
+ Confirm Voltage levels are correct
+
+In-Flight
+ Basics: If flying manually, always keep your fingers on the controller/transmitter.
+ Never let the UAS out of your sight even for a second.
+ Climb to a safe altitude away from potential hazards and to reduce noise pollution.
+ Keep aircraft at a safe operating distance from people, electric utility lines and buildings.
+ If the UAS must be flown over buildings or people, use a lightweight UAS and maintain a safe altitude for
+
+     recovery and make every effort to minimize exposure.
+ Spotter: Use a spotter whenever possible and appropriate.
+ Do not fly UASs within distance defined by local laws of any private/commercial airport/helipad
+ Do not fly around a pre-existing UAS flying site without a frequency-management agreement.
+ Do not interfere with operations and traffic patterns at any airport
+ Landing: Regardless of whether of a manual or automated UAS landing, scan landing area for potential
+
+     obstruction hazards.
+ Announce out loud "Preparing to Land".
+ Carefully land the aircraft away from obstructions and people.
+
+                                                               11
+   Petition for Exemption under §333 of the FAA Modernization and Reform Act of 2012
+
+Post-Flight
+ Shutting Down: Turn the power off to the aircraft and/or disconnect the batteries.
+ Turn off the transmitter.
+ Turn the power off to the photo equipment.
+ Visually check aircraft for signs of damage and/or excessive wear.
+ Remove the unused fuel if applicable. Secure the aircraft.
+ Check pictures: Verify that the UAS camera actually took the pictures.
+ LOG FLIGHT
+
+                                                               12
+Draganflyer X4-ES Helicopter Tech Specs
+
+             Draganflyer X4- Emergency Services Configuration
+
+Helicopter Size
+
+    · Dimensions
+             o Width: 87cm (36.25in)
+             o Length: 87cm (36.25in)
+             o Top Diameter: 106cm (41.8in)
+             o Height: 32cm (12.6in)
+
+Weight & Payload
+
+    · Helicopter Weight: 1,625g (57oz)
+    · Payload Capability: 850g (30oz)
+    · Maximum Gross Take-Off Weight: 2,475g (87oz)
+
+RF Communications*
+
+    · 900 MHz Data Link
+             o Link Type: Helicopter to Ground & Ground to Helicopter (Two-Way)
+             o Helicopter Antenna: Wired Whip Antenna
+             o Controller Antenna: ½ Wave Whip Antenna
+             o RF Data Rate: 200kbps
+             o Receiver sensitivity: -101dBm
+             o Transmission Technique: DSSS (Direct Sequence Spread Spectrum)
+             o Frequency band: 902 ­ 925 MHz
+             o Certifications: FCC, IC, C-TICK, Anatel, IDA
+             o Data Link Channel Selection: Automatic (13 Channels)
+
+    · 5.8GHz Video Link
+             o Link Type: Helicopter to Ground & Ground to Helicopter (Two-Way)
+             o Helicopter Access Point Antenna: Omni-Directional
+             o Base Station Receiver Antennas: Integrated Antenna Array (Hi-gain 4
+                  antenna system)
+             o Transmission Power: 25dBm
+             o Receiver Sensitivity: -96dBm
+             o Transmission Technique: WiFi
+             o Frequency Band: 802.11n 4.9-5.9GHz
+             o Certifications: FCC Part 15.247, IC RS210, CE
+
+  *Range varies with environment
+
+11 Onboard Sensors
+
+    · 3 Solid State MEMS (Micro-Electro-Mechanical Systems) Gyros
+    · 3 Solid State MEMS (Micro-Electro-Mechanical Systems) Accelerometers
+    · 3 Magnetometers (Magnetoresistive Sensors)
+    · 1 Barometric Pressure Sensor
+    · 1 GPS Receiver
+
+GPS
+
+    · GPS Used For: Position Hold, Location & Velocity Data
+    · Maximum Satellites Tracked Simultaneously: 16
+    · Position Update Rate: 4 Hz
+    · GPS Antenna: Ceramic Patch
+
+Flight Characteristics:
+
+    · Unassisted visual reference required
+    · Max Climb Rate: 2m/s (6.5ft/s)
+    · Max Descent Rate: 2m/s (6.5ft/s)
+    · Max Turn Rate: 90°/second
+    · Approx Maximum Speed: 50km/h (30mph)
+    · Minimum Speed: 0km/h (0mph)
+    · Launch Type: VTOL (Vertical Take Off and Landing)
+    · Maximum Altitude ASL: 2,438m (8,000ft)
+    · Maximum Flight Time: Approx. 20 min
+    · Approx Sound at 1m (3.28ft): 72dB
+    · Approx Sound at 3m (9.84ft): 62dB
+
+Operating Requirements
+
+    · Recommended Pre-Use Temperature: 10° to 35°C (50° to 95°F)
+    · Maximum Environmental Operating Temperature: -25° to 38°C (-13° to 100°F)
+    · Relative Humidity: 0% to 90% Non condensing
+    · Maximum Wind speed: 50 km/h (30mph)
+
+Rotor Blades
+
+    · Two Clockwise, Two Counter-clockwise rotors (Four Rotors Total)
+    · Rotor Blade Material: Molded Carbon Fiber
+    · Rotor Diameter: 39.4 cm (16in)
+
+Electric Motors
+
+    · Brushless Motors: 4
+    · Configuration: Direct Drive (One Motor per Rotor)
+    · Safety Features: Stall Protection
+    · Ball Bearing
+    · Voltage: 14.8V
+
+Position Navigation Lights
+
+    · Type: 1 Watt LED Variable Brightness Emitters
+    · Luminous Flux at Full Brightness: 40lm
+    · Purpose: Helicopter Orientation Confirmation
+    · Visible Condition Range: Full Darkness to Direct Sunlight
+    · LED Light Positions
+
+             o Red: Left Front
+             o Green: Right Front
+             o White: Both sides Tail/Rear
+
+Rechargeable Helicopter Battery
+
+    · Cell Chemistry: Lithium Polymer
+    · Voltage: 14.8V
+    · Capacity: 5400mAh
+    · Length: 9.8cm (3.9in)
+    · Width: 6.7cm (2.6in)
+    · Height: 3.4cm (1.3in)
+    · Connectors: Integrated Balance and Power
+    · Recharge Time: Approx. 60 minutes (after typical flight)
+Landing Gear
+
+    · Installed Height: 16.5cm (6.5in)
+    · Stance Width: 64.7cm (25.5 in)
+    · Landing gear : 4 individual nylon feet
+    · Landing Gear Material: Molded Carbon Fiber, nylon
+
+Materials
+
+    · Carbon Fiber
+    · Glass Filled Injected Nylon
+    · Aluminum & Stainless Steel Fasteners
+    · RoHS Compliant
+
+Flight Data Recorder
+
+    · Flight Data Recording: On-Board
+    · Stored To: Micro SD card or GCS hard drive exportable to external storage
+    · Data Recorded: Onboard Sensor Flight Data (Link quality, Orientation, Altitude,
+
+         Speed, Direction)
+
+Camera Attachments
+
+     Standard camera for the Draganflyer X4ES System is the Digital Still camera
+
+    · 20.2MP (Mega-Pixel)/1080P HD video- Digital Still Camera with Remote
+         Controlled Tilt, Zoom and shutter with a 2 axis stabilized mounting system.
+
+    · Thermal FLIR (Forward Looking Infra-Red) Camera with Remote Controlled Tilt
+         & onboard digital video recorder
+
+    · Low Light Video Camera with Remote Controlled Tilt & onboard digital video
+         recorder
+
+    · Note: The Digital Still camera and the FLIR Camera (Quark 320 model) can be
+         ordered to allow for a dual mounting system to provide live video switching on
+         demand remotely between regular video and IR video.
+Maintenance
+Maintenance
+
+The Draganflyer series aircraft feature a direct drive system requiring minimal
+maintenance as compared to a tradition style helicopter with servo linkages, gears, drive
+shafts, clutch, rotor head, swash plate, tail rotor and pitch change mechanisms.
+
+However, as the pilot in command, in addition to the health of your batteries, you are
+responsible for the mechanical integrity of the aircraft, so it's a good idea to inspect the
+aircraft on a regular basis for any wear or damage. Should any component on the
+helicopter or support equipment show signs of fatigue or damage, immediately
+discontinue use until the component has been properly repaired or replaced.
+
+To help ensure safe operation and keep your Draganflyer running at its best we
+recommend that you inspect or service the aircraft at the following intervals listed below.
+
+Every Flying Session:
+
+          · Inspect folding mechanisms and all joints for damage or wear
+          · Inspect motors for rough motion
+          · Inspect all props and prop quick release clips for damage
+          · Inspect batteries for damage or puffing
+          · Inspect payload quick release attach points and spring loaded connections
+          · Check to ensure the handheld controller is recording a log file
+          · Clean all components with a soft damp cloth or compressed air
+
+Every 3 months:
+
+          · Check for software or configuration updates
+          · Check mounting bolts on rotor mounts to ensure they are tight
+          · Perform a motor test and inspect for rough sounding motors
+          · Cycle flight batteries
+          · Inspect canopy mounting latch and slot for tears or cracks
+
+Every Year or 300 flight hours:
+Please contact Draganfly Innovations Customer Service Department for assistance with
+the following service requirements.
+
+          · Inspect and clean all electrical connections
+          · Inspect all crimps and solder connections on movable components
+          · Inspect all moveable components for wear
+          · Recalibration of magnetometer and main circuit board
+          · Inspect motor assemblies and replace all that are worn
+          · Inspect all fasteners, linkages and joints
+          · Inspect all rubber mounting brackets
+          · Cycle and test flight batteries
+          · Cycle and test hand held controller or GCS battery
+          · Cycle and test base station battery
+          · Check for software or configuration updates
+
+Every 600 flight hours:
+Congratulations for hitting the 600 hour mark. Please contact Draganfly Innovations
+Customer Service Department for assistance to overhaul or replace all motor
+assemblies.
+Firmware updates
+
+Firmware is the software running onboard the helicopter autopilot system or the
+software running on the handheld controller. At Draganfly we're always working to
+improve the flight characteristics of our systems or when possible, to bring new systems
+functionality to our customers. These improvements are accomplished sometimes by
+new hardware or most often, changes or improvements to the system software.
+
+Just like your computer at home, you should never perform a "software update" unless
+you have a good idea of "what's new" or what will change as a result of the software
+update.
+
+At Draganfly, before releasing a new firmware update to our customers the software is
+tested first on simulator systems, then tested extensively in the field under different
+environmental conditions by several "beta testers" before making it available to our
+customers.
+
+The following details the firmware update process for the:
+
+          · Standard Handheld Controller (HHC)
+          · Handheld Ground Control System (GCS)
+          · Draganflyer X4
+          · Draganflyer X6
+          · Draganflyer X4-P and ES systems
+
+Before any upgrade:
+
+To get started you'll need to get the new Draganfly Firmware and that can be
+accomplished any number of ways. The software might be sent to you on a memory
+stick, it might be something you get in an e-mail or you might download it from the
+Draganfly Support Base WEBsite. To accomplish the upgrade you'll need one or more of
+the items detailed below:
+          · Computer with Internet connection
+          · Formatted 1Gb micro SD memory card
+          · Freshly charged batteries for either the controller or helicopter
+
+Upgrading the standard handheld controller (HHC):
+
+To get started either delete existing files or reformat the 1Gb micro SD memory card.
+With a clean memory card, download or copy the new upgrade firmware software to the
+1Gb Micro SD memory card. Double check to make sure the new update file is on the
+card and then properly eject it from your computer.
+
+The HHC update file is typically called: TXboot.fx6
+
+The system update file contains an "auto-loader" program that will be executed when
+the system is powered up but... we need to force the HHC to read the file. And to do this
+please:
+
+          · remove the flight log file SD memory card from the HHC
+
+          · insert the SD memory card with the firmware update file in the HHC
+
+          · as illustrated on the next page, press and hold the "yaw trim" and "roll trim"
+              switches to the "center" of the HHC. It's more like a pinch and hold grip on
+              them
+
+          · as you're holding the trim tabs, power-on the HHC
+
+          · hold the trim tabs until you see the code start loading on the display and then
+              release
+
+          · after loading the new updated firmware the HHC will reboot
+
+          · you can check the new firmware version number on the HHC config screen
+
+          · power-off the HHC and reinstall the "log file" SD memory card
+Pinch the "yaw" and "roll" trim  Remove the "log file" SD
+tabs towards each other before   memory card and insert the SD
+powering on the HHC to load the  card containing the new
+new systems firmware             firmware file
+
+                                                                   While pinching the yaw and roll trim tabs
+                                                                   power on the HHC. After code starts
+                                                                   loading you can release the trim tabs.
+                                                                   After loading the new firmware the system
+                                                                   will reboot.
+
+                                 HHC Firmware Upgrade Diagram
+Upgrading the handheld Ground Control System (GCS):
+
+Because the handheld Ground Control System (GCS) is a full blown computer the
+process is considerably different and in many cases much more straight forward. The
+GCS is actually comprised of two computers operating side-by-side to "present" the
+information and to "control" the aircraft.
+
+Periodically the GCS will get new "software" updates for the presentation computer and
+new "firmware" updates for the flight controller. As a user of the system, this is all
+accomplished through a single "system upgrade".
+
+To upgrade a GCS all that's required is an Internet connection either via a wired, or
+wireless ethernet.
+
+To get started power-on the                 P1 ---- Set Clear ----
+GCS and connect to either a                 P2 ---- Set Clear ----
+wired ethernet connection or                P3 ---- Set Clear ----
+the wireless access to the                  P4 ---- Set Clear ----
+Internet.                                   P5 ---- Set Clear ----
+
+Keep in mind that if you select a           Open Mission  Clear All     Save Mission
+new wireless network, after the
+upgrade process you'll need to              Flight time: 00:00     AGL: 0m
+reconnect back to the Draganfly                Heading: 0       Speed: 0m/s
+video network before you will                 Distance: 0m
+receive video again.                                                  Solo
+
+                                            00:00:00 Software build hash number              GCS  Aircraft  Link  GPS/SV  PDOP
+                                            00:00:00 DraganView Software Version Number
+                                                                                         N
+
+                                                                                         WE
+
+                                                                                         S
+
+                                                          Scanning ...                   System Utilities
+                                                                                            Disconnect 15.9 0.0 0.0 0.0 0.0
+
+Once powered on and                         Handheld Ground Control System (GCS)
+
+connected to the Internet
+
+navigate to the System Utility Screens and
+
+select the "controller" screen. From there please run through these steps to check for
+
+updates and load:
+
+· select "upgrade"
+
+· in the upper right screen select "check"
+          · at this point the GCS will connect through the Internet to the Draganfly
+              Servers and "check" for the latest software updates for the GCS. If a new
+              update is found, it will be listed
+
+          · select the upgrade file and "update" the GCS
+
+          · update status will be indicated as the GCS copies and loads the new
+              software. Once completed the GCS will reboot itself
+
+          · check the new software version by returning to the system utility, controller
+              screen and hovering your GCS mouse over the "controller identity" located in
+              the upper left window. Hovering over identity will pop-up the status in the
+              upper right window.
+
+          · upgrade is complete
+
+          · if you used a wireless network to upgrade your GCS, you will need to
+              reconnect with the Draganfly network the next time the helicopter is powered
+              up to restore the video down-link network so you can do that now, or
+              remember it needs to be done the next time you fly.
+
+Helicopter firmware upgrades:
+
+The process to update firmware on the various aircraft is exactly the same, no matter
+what the aircraft. The only difference between them is the physical location of the SD
+memory card socket and the switches. The following is a general description of the
+process and to see the exact location of the switches and SD memory card locations
+refer to the aircraft diagrams that follow.
+
+To get started either delete existing files or reformat a 1Gb micro SD memory card. With
+a clean memory card, download or copy the new aircraft upgrade firmware to the 1Gb
+Micro SD memory card. Double check to make sure the new update file is on the card
+and then properly eject it from your computer.
+
+The aircraft update file is typically called: boot.fx6
+
+Just like the HHC, the aircraft update file contains an "auto-loader" program that will be
+executed when the helicopter is powered up but... we need to force the helicopter to
+read the file on power-up. To get all this going please:
+          · if you have an SD memory card in the aircraft, remove it
+
+          · install the SD memory card containing the new firmware in the aircraft
+
+          · install and plug in the helicopter flight battery
+
+          · locate and press/hold the S1 switch on the helicopter
+
+          · with S1 depressed, power-on the aircraft
+
+          · S1 forces the helicopter to read the SD memory card and begin loading the
+              new firmware. As the firmware is being loaded the navigation LEDs will blink
+              in an erratic fashion. Hold the S1 switch until the new firmware is loaded,
+              indicated by a normal navigation LED blink pattern. When you see a normal
+              blink pattern it's okay to release the S1 switch.
+
+          · connect to the aircraft with your HHC or GCS to read and confirm the new
+              helicopter firmware version number
+
+          · power-down the system
+
+          · unplug the helicopter battery
+
+          · remove the update SD memory card
+
+          · reinstall the original helicopter SD memory card that's normally in the aircraft
+              to record system flight data and error logs
+
+SD memory card and switch locations for the different aircraft:
+
+Draganflyer X4
+
+Remove the canopy and you'll see two different PC boards. The power distribution
+board is located on the bottom and the autopilot/main control board is located above it.
+As illustrated the SD memory card socket is located on the bottom side of the power
+distribution board near the left, front, boom.
+
+The S1 switch is located on the top autopilot board right next to the Xbee module and
+as you know, the power on/off switch is located under the main board at the rear of the
+aircraft.
+It takes two hands to do this, but in some respects it's easier than the other helicopters.
+The diagram on the next page explains where everything is located.
+
+                                                                 SD memory card slot is located
+                                                                 under the main board in this
+                                                                 location
+
+The S1 switch is near the Xbee                                        Right front boom
+module and is depressed and
+held before powering up the                                Autopilot / main control
+aircraft to load new firmware                              board
+
+                                                                        Power distribution
+                                                                        board
+
+Aircraft main power switch is located
+under the power distribution board at rear
+of aircraft
+
+                                    Draganflyer X4 Canopy
+                                       removed Top View
+Draganflyer X6
+
+Remove the canopy and you'll see a printed circuit board along the back end of the
+helicopter deck plate. The PC board holds the power on/off switch, S1 switch and SD
+memory card holder.
+
+The S1 switch is located next to the red power
+on/off switch.
+
+It takes two hands to do this and some                                     Main deck plate
+
+people find it easier to
+
+use a plastic pen tool or  Helicopter battery
+pointer of some kind to    pack
+
+depress and hold the S1
+
+button.
+
+Draganflyer X4-P, ES and X8                    S1                                                            Right boom
+                                               switch
+Illustrated on the next page, remove                                                         SD memory card slot
+the canopy and you'll see two buttons                                      Helicopter power
+at the rear of the deck plate.                                             on/off switch
+
+The S1 switch is located to the left of the
+red power on/off switch.
+
+It takes two hands to do this and some
+people find it easier to use a plastic pen
+tool or pointer of some kind to depress and
+hold the S1 button as you reach under the
+helicopter to power it on.
+
+                                                           Draganflyer X6
+                                                       Canopy removed Top
+
+                                                                  View
+                    Helicopter battery pack                                       Right front boom
+                                                                                          Main deck plate
+SD memory card slot
+located under the deck
+plate of the aircraft
+
+                                             S1 switch
+
+                                                        Helicopter power on/off
+                                                        switch located below the
+                                                        deck plate
+
+                                             Draganflyer X4-P, X4-ES and X8
+                                                Canopy removed Top View
+Helicopter configuration file upgrades:
+
+The configuration file, contains the helicopter tuning parameters. Helicopter
+configuration files are different between all airframes and as you might expect, when
+improvements are made to the aircraft, new helicopter tuning "config files" will be made
+available.
+
+Updating the helicopter configuration file is an easy and straight forward process that
+can be implemented in one of two ways. You can update using an SD memory card or if
+you prefer, use the USB wireless dongle and the DF X6 Control program.
+
+SD memory card update process:
+
+          · Insert an SD memory card into the helicopter.
+
+          · Within 5 seconds of powering on the helicopter, depress the S1 switch.
+
+          · The helicopter will create a backup file called "BACKUP.DFD".
+
+          · During the backup process, the aircraft navigation LEDs will blink fast. After
+              they stop, power off the aircraft.
+
+          · Remove the SD memory card.
+
+          · Copy the new configuration file you either downloaded or received from
+              Draganfly to the SD card.
+
+          · While the SD card is plugged into your computer, copy the BACKUP.DFD file
+              you just created to a nice safe place on your computer system.
+
+          · Insert the SD memory card into the helicopter.
+
+          · Within 5 seconds of powering on the helicopter, depress the S1 switch.
+
+          · During the update process, the aircraft navigation LEDs will blink fast. After
+              they stop, power off the aircraft and the the software update is complete.
+
+          · You are ready to fly
+USB wireless dongle update process:
+
+          · keep in mind that before updating your current helicopter configuration it's
+              always a good idea to create a backup of the current aircraft settings.
+
+          · you will receive new helicopter config files from Draganfly via e-mail or you'll
+              download the files from the Draganfly Support Base WEBsite.
+
+          · to begin, setup your computer and connect the blue USB telemetry
+              communications adapter.
+
+          · after powering on the computer and letting it boot, launch the DF X6 Control
+              program and select the "configuration" tab.
+
+          · power on the aircraft.
+
+          · The DF X6 Control program, will automatically establish a wireless connection
+              to the aircraft.
+
+          · from within DF X6 Control, download and save the current aircraft
+              configuration file to a named folder. For example a folder called "DF Old
+              Config". With this step completed continue to update the aircraft.
+
+          · Download the new config file to your computer and save it in a named folder.
+              For example create a folder called "DF Config Updates".
+
+          · using the DF X6 Control program, selct the new configuration file to upload to
+              the aircraft.
+
+          · select the "all wind conditions" and the "all payloads" radio buttons.
+
+          · Confirm that you have selected the correct file and that you have the radio
+              buttons selected.
+
+          · select "upload" to update the aircraft. When completed the program will
+              indicate "success".
+
+          · power-off the aircraft.
+Motor testing:
+
+To conduct a motor test it is very important to REMOVE THE PROPS from the aircraft.
+Only after removing the props should you consider executing a motor test because the
+computer will run up/down the motors to test their performance. If you do not remove
+the props there is a serious risk of both damage to the aircraft and personal injury.
+
+To execute a motor test:
+
+          · remove all props from the helicopter.
+
+          · install a fully charged helicopter flight battery.
+
+          · power-on the helicopter.
+
+          · power-on your HHC or your GCS controller.
+
+          · power on your computer.
+
+          · connect the blue USB telemetry communications adapter to your computer.
+
+          · launch the DF X6 Control program.
+
+          · The DF X6 program will automatically connect to the aircraft.
+
+          · select the "diagnostics" tab.
+
+          · with the props removed, arm the aircraft with your HHC or the GCS.
+
+          · select the "start button" to begin the motor test.
+
+          · each motor can be run independently using the control sliders.
+
+          · slowly increase each slider to 25% and the reduce to zero.
+
+          · any motors that do not run, or run roughly should be replaced.
+
+          · after completing the test power-off the helicopter, power-off the HHC or GCS
+              and shutdown your computer.
+Motor replacement:
+
+It is very important to understand the motors are set-up to run in the specific boom. For
+example, a motor that is in the right front boom can not be moved to any other boom
+without changing the "motor ID settings" DIP switch. And the same is true when
+installing a new motor; the motor DIP switch settings of the new motor must "match" the
+DIP switch settings of the motor being replaced. Failure to set-up the motor correctly will
+result in a crash.
+
+To replace a motor please follow these instructions:
+
+          · disconnect and remove the aircraft battery.
+
+          · remove the prop.
+
+          · remove the motor by removing the small "set screw" type screws around the
+              outside edge of the motor pod. Some aircraft will use 5 screws while others
+              may use 3.
+
+          · with the screws removed, slowly and carefully remove the motor from the
+              pod. Please avoid twisting the motor assembly. The motors are a snug fit but
+              you must wiggle and pull straight up to remove them from the motor pod to
+              avoid damaging motor wiring.
+
+          · be aware there is either a wired cable connector or flex cable attached so
+              remove it very slowly and carefully. Please note, the flex cable is very fragile
+              so take extra care if your motor is connected with this type of cable.
+
+          · the cable connectors in some aircraft are typically secured with a dab of
+              adhesive. The adhesive can be either peeled away or carefully cut to remove
+              the motor connector.
+
+          · with the motor removed you will see a four position DIP switch located on the
+              motor speed controller. Motors from the X4-P, X4-ES and X8 are very easy to
+              see. Motors from the X6 have the speed controller on the inside of the pod
+              motor housing so it requires looking through one of the holes, to read the
+              switch settings.
+· match the switch settings of the new motor, to the old motor. Check this, and
+   double check this, to make sure the switch settings are the same before
+   reassembling the helicopter.
+
+· after assembly, remove all props from the aircraft and execute a motor test as
+   described above. Please note the direction the new motor is spinning as
+   another safety check to insure the switches were set properly.
+Contact Information
+
+Draganfly Innovations Inc.
+
+Product support:
+
+Phone: 1-800-979-9794
+International: 1-306-955-9907
+e-mail: support@draganfly.com
+
+Sales information:             https://www.draganfly.com
+Phone: 1-800-979-9794
+International: 1-306-955-9907
+Online: www.draganfly.com
+e-mail: sales@draganfly.com
+
+Mailing address:
+Draganfly Innovations Inc.
+2108 St. George Avenue
+Saskatoon, SK S7M0K7
+Canada
+
+This product and manual are copyrighted by Draganfly Innovations Inc. with all rights
+reserved. No part of this product or start-up guide shall be reproduced in any form
+without the prior written consent or authorization of Draganfly Innovations Inc. No patent
+liability is assumed with respect to the use of the product or information contained herein.
+
+                                                Document Revision Level: v1.4
+· SYSTEM FLIGHTS
+
+                    Draganflyer Flight Logs
+
+                                              Version 1.0
+Introduction:
+
+It's important to plan and log each flight. Flight pre-planning helps define special
+conditions that will be encountered during the flight, aircraft configuration and any
+special resources required.
+
+After each flight please complete a post flight log detailing what transpired, battery
+usage and anything unusual that happened. Well maintained log books are the sign of a
+well run and strong air program.
+
+This log book is the property of:
+
+If found please                  Local contact numbers
+return to:
+                       FAA/TC:
+Phone:           Local airport:
+E-mail:           Local tower:
+                  Fire & EMS:
+
+                         Police:
+              Draganflyer Helicopter Serial Number ________ Flight Plan
+
+       Date                   Location             Flight Plan Number
+
+ Estimated         Estimated            Maximum          Nature of Flight
+Takeoff Time       Land Time             Altitude         Payload Type
+                                         Student
+Pilot              Spotter
+
+Support Personnel
+
+                   Restrictions or Special Instructions
+              Draganflyer Helicopter Serial Number ________ Flight Log
+
+     Date      Location                   Pilot     Flight Plan Number
+Takeoff Time  Land Time               Total Flight  Flight Log Number
+
+                                          Time        Agency Number
+                                                                Accumulated Flight Time
+
+Wind Speed Temperature Spotter                      Maximum Altitude
+
+Weather Conditions                                  Payload Type
+
+                   Purpose of Flight                                          Battery
+Comments                                            Pack # Start Voltage: End Voltage:
+
+              Include damage sustained, repairs made or required
+

@@ -1,0 +1,897 @@
+August 18, 2015
+
+                                                           Exemption No. 12494
+                                                           Regulatory Docket No. FAA­2015­1554
+
+Mr. Derick E. Seaton
+VP-Aviation Operations
+Farmspace Systems, LLC.
+Savannah, TN 38372
+
+Dear Mr. Seaton:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter dated May 1, 2015, you petitioned the Federal Aviation Administration (FAA) on
+behalf of Farmspace Systems, LLC. (hereinafter petitioner or operator) for an exemption. The
+petitioner requested to operate an unmanned aircraft system (UAS) to conduct aerial
+surveying.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner are the 3D Robotics 3DR Y-6, 3DR X-8, and the 3DR
+Solo.
+
+In accordance with the statutory criteria provided in Section 333 of Public Law 112-95 in
+reference to 49 U.S.C. § 44704, and in consideration of the size, weight, speed, and limited
+operating area associated with the aircraft and its operation, the Secretary of Transportation
+                                                                                                                 2
+
+has determined that this aircraft meets the conditions of Section 333. Therefore, the FAA
+finds that relief from 14 CFR part 21, Certification procedures for products and parts,
+Subpart H--Airworthiness Certificates, and any associated noise certification and testing
+requirements of part 36, is not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection1. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+· They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+· The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+· A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, Farmspace Systems, LLC. is granted an exemption
+from 14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a), 91.7(a),
+91.119(c), 91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a)
+and (b), to the extent necessary to allow the petitioner to operate a UAS to perform aerial data
+collection. This exemption is subject to the conditions and limitations listed below.
+
+Conditions and Limitations
+
+In this grant of exemption, Farmspace Systems, LLC. is hereafter referred to as the operator.
+
+1 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                                                 3
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+    1. Operations authorized by this grant of exemption are limited to the 3D Robotics 3DR
+         Y-6, 3DR X-8, and the 3DR Solo when weighing less than 55 pounds including
+         payload. Proposed operations of any other aircraft will require a new petition or a
+         petition to amend this exemption.
+
+    2. Operations for the purpose of closed-set motion picture and television filming are
+         not permitted.
+
+    3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+         exemption holder may use either groundspeed or calibrated airspeed to determine
+         compliance with the 87 knot speed restriction. In no case will the UA be operated at
+         airspeeds greater than the maximum UA operating airspeed recommended by the
+         aircraft manufacturer.
+
+    4. The UA must be operated at an altitude of no more than 400 feet above ground level
+         (AGL). Altitude must be reported in feet AGL.
+
+    5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+         This requires the PIC to be able to use human vision unaided by any device other than
+         corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+         U.S. driver's license.
+
+    6. All operations must utilize a visual observer (VO). The UA must be operated within
+         the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+         to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+         capability. The VO and PIC must be able to communicate verbally at all times;
+         electronic messaging or texting is not permitted during flight operations. The PIC
+         must be designated before the flight and cannot transfer his or her designation for the
+         duration of the flight. The PIC must ensure that the VO can perform the duties
+         required of the VO.
+
+    7. This exemption and all documents needed to operate the UAS and conduct its
+         operations in accordance with the conditions and limitations stated in this grant of
+         exemption, are hereinafter referred to as the operating documents. The operating
+         documents must be accessible during UAS operations and made available to the
+         Administrator upon request. If a discrepancy exists between the conditions and
+         limitations in this exemption and the procedures outlined in the operating documents,
+         the conditions and limitations herein take precedence and must be followed.
+         Otherwise, the operator must follow the procedures as outlined in its operating
+         documents. The operator may update or revise its operating documents. It is the
+                                                                                                            4
+
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+                                                                                                            5
+
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+    exemption holder may apply for a new or amended COA if it intends to conduct
+    operations that cannot be conducted under the terms of the attached COA.
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+    be as large as practicable.
+                                                                                                               6
+
+   23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+       any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+       PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+       These documents must be made available to the Administrator or any law enforcement
+       official upon request.
+
+   24. The UA must remain clear and give way to all manned aviation operations and
+       activities at all times.
+
+   25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+   26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+       persons, vessels, vehicles, and structures unless:
+          a. Barriers or structures are present that sufficiently protect nonparticipating persons
+             from the UA and/or debris in the event of an accident. The operator must ensure
+             that nonparticipating persons remain under such protection. If a situation arises
+             where nonparticipating persons leave such protection and are within 500 feet of
+             the UA, flight operations must cease immediately in a manner ensuring the safety
+             of nonparticipating persons; and
+          b. The owner/controller of any vessels, vehicles or structures has granted permission
+             for operating closer to those objects and the PIC has made a safety assessment of
+             the risk of operating closer to those objects and determined that it does not
+             present an undue hazard.
+
+       The PIC, VO, operator trainees or essential persons are not considered
+       nonparticipating persons under this exemption.
+
+   27. All operations shall be conducted over private or controlled-access property with
+       permission from the property owner/controller or authorized representative.
+       Permission from property owner/controller or authorized representative will be
+       obtained for each flight to be conducted.
+
+   28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+       boundaries of the operational area as defined by the applicable COA must be reported
+       to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+       reported to the National Transportation Safety Board (NTSB) per instructions
+       contained on the NTSB Web site: www.ntsb.gov.
+
+If this exemption permits operations for the purpose of closed-set motion picture and
+television filming and production, the following additional conditions and limitations apply.
+
+   29. The operator must have a motion picture and television operations manual (MPTOM)
+       as documented in this grant of exemption.
+                                                                                                                 7
+
+    30. At least 3 days before aerial filming, the operator of the UAS affected by this
+         exemption must submit a written Plan of Activities to the local Flight Standards
+         District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+         notification may be waived with the concurrence of the FSDO. The plan of activities
+         must include at least the following:
+           a. Dates and times for all flights;
+           b. Name and phone number of the operator for the UAS aerial filming conducted
+              under this grant of exemption;
+           c. Name and phone number of the person responsible for the on-scene operation of
+              the UAS;
+           d. Make, model, and serial or N-Number of UAS to be used;
+           e. Name and certificate number of UAS PICs involved in the aerial filming;
+           f. A statement that the operator has obtained permission from property owners
+              and/or local officials to conduct the filming production event; the list of those
+              who gave permission must be made available to the inspector upon request;
+           g. Signature of exemption holder or representative; and
+           h. A description of the flight activity, including maps or diagrams of any area, city,
+              town, county, and/or state over which filming will be conducted and the altitudes
+              essential to accomplish the operation.
+
+    31. Flight operations may be conducted closer than 500 feet from participating persons
+         consenting to be involved and necessary for the filming production, as specified in the
+         exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+
+This exemption terminates on August 31, 2017, unless sooner superseded or rescinded.
+
+Sincerely,
+
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+                                   1 May 2015
+
+U.S. Department of Transportation
+Docket Management System
+1200 New Jersey Ave., SE
+Washington, DC 20590
+
+Re: Exemption Request under Section 333 of the FAA Reform Act and Part 11 of the Federal
+Aviation Regulations
+
+Dear Sir or Madam:
+
+FARMSPACE SYSTEMS, LLC ("FARMSPACE") requests an exemption from parts
+§§ 61.23 (a) and (c), 61.113(a) and (b), 91.7(a), 91.119 (c), 91.121, 91.151(a), 91.405(a),
+91.407(a)(1), 91.409(a)(2), and 91.417(a) of Title 14, Code of Federal Regulations (14 CFR).
+The proposed exemption would allow Farmspace to operate UAS platforms manufactured by 3D
+Robotics (3DR) of California. Current systems include the "IRIS", "Y-6", "X-8", "Spektre",
+"Solo" and "Aero" aircraft, which all have a common autopilot, operating systems and Ground
+Control Stations (GCS). All aircraft weigh less than 20 lbs and consist of Vertical Take-Off and
+Landing (VTOL) and Fixed-Wing platforms. The granted exemption will allow Farmspace to
+conduct UAS flights for aerial surveying to support: Agriculture, Environmental, Emergency
+Management, Key National Security & Infrastructure, Real Estate, Economic Development,
+Training, plus UAS Research & Development initiatives.
+
+FARMSPACE will provide the following proprietary documents, under separate cover, to
+support the petition:
+
+         1: Platform and Operating System Specifications
+         2: sUAS Users Manual
+         3: Standard Operating Procedures (SOPs) to include Flight, Ground and Safety
+         procedures
+
+FARMSPACE has organized its information into four sections: (1) the unmanned aircraft system
+(UAS), (2) the UAS Operator (3) the UAS operating parameters, and (4) the public interest.
+
+                                 The Unmanned Aircraft System (UAS)
+
+FARMSPACE plans to operate 3DR Platforms carrying geo-referenced (1) video, (2) multi and
+hyper spectral, (3) LIDAR, (4) Infared, as well as other sensing payloads to support the above
+mentioned initiatives. The 3DR system consists of light weight battery powered aircraft, a
+personal computer or tablet based ground control station, and associated communications
+equipment. The 3DR VTOL platforms are multi-rotor systems with four (4), six (6) or eight (8)
+rotors, each platform weighing less than 10 pounds and with a diameter of less than 2 feet. The
+Fixed-Wing "Aero" aircraft is light weight (less than 15 pounds) with a wingspan of
+approximately 5 feet. The maximum speed for any of the aircraft is 50 knots.
+
+                                                          1
+The 3DR aircraft are capable of operating in either Autonomous or Manual mode. Also, the
+highly trained and experienced Pilot-In-Command (PIC)s can modify the flight plan at any time,
+using the flight management interface or by manual take-over via a regular RC remote controller,
+or controls integrated into a PC or tablet. In autonomous mode, the operator can instruct the
+vehicle to hold (loiter) at its current position, return to the Home waypoint, initiate the planned
+landing procedure or immediately land at the current location. The Pilot-In-Command (PIC) will
+always have the ability to manually control the aircraft with predetermined Lost Link Procedures
+(LLP), Divert Contingency Points (DCPs), and Flight Termination Points (FTPs).
+
+14 CFR Part 21, Certification Procedures for Products and Parts
+
+This provision prescribes, in pertinent part, the procedural requirements for issuing and changing
+design approvals, production approvals, airworthiness certificates, and airworthiness approvals.
+In accordance with the statutory criteria provided in Section 333 of P.L. 112-95 in reference to
+49 USC § 44704, and in consideration of the size, weight, speed, and limited operating area
+associated with the aircraft and its operation,
+
+FARMSPACE asserts that this aircraft meets the conditions of Section 333. Relief from 14 CFR
+part 21and any associated noise certification and testing requirements of part 36, is not necessary
+because 3DR platform will be at least as safe, if not safer, than a conventionally certificated
+aircraft performing the same mission. The platform (1) will not carry persons, property, or fuel,
+(2) will only fly under strict operational requirements, and (3) will weigh less than 20 pounds.
+
+The PIC and crew will be remotely located from the aircraft. The limited weight and construction
+reduces the potential for harm to persons or damage to property in the event of an incident or
+accident. The risk to an onboard pilot and crew during an incident or accident is eliminated with
+the use of a UAS for the proposed operation.
+
+Manned aircraft are at risk of fuel spillage and fire in the event of an incident or accident. The
+proposed platforms carry no fuel and therefore the risk of fire following an incident or accident
+due to fuel spillage is eliminated.
+
+The 3DR platforms have the capability to operate safely after experiencing certain in-flight
+contingencies or failures and use an auto-pilot system to maintain UAS stability and control. The
+UAS is also able to respond to a loss of GPS or a lost-link event with pre-coordinated automated
+flight maneuvers. These safety features, in addition to the operator measures described above,
+ensure that these operations will not adversely impact safety compared to a manned aircraft
+performing a similar operation.
+
+14 CFR 45.23 Display of Marks
+
+FARMSPACE can comply with § 45.23(a). Regarding § 45.23(b), since FARMSPACE's UAS
+will not be certificated under § 21.191, a grant of exemption for § 45.23(b) is not necessary.
+
+                                                          2
+FARMSPACE's platform will be identified by serial number, registered in accordance with 14
+CFR part 47, and have identification (N-Number) markings in accordance with 14 CFR part 45,
+Subpart C. The markings will be as large as practicable per § 45.29(f). Therefore a grant of
+exemption for § 45.29 is not necessary.
+
+14 CFR §§ 91.405(a) Maintenance required, 91.407(a)(1) Operation after maintenance,
+preventive maintenance, rebuilding, or alteration, 91.409(a)(1) and (2) Inspections, and
+91.417(a) and (b) Maintenance records.
+
+FARMSPACE requests an exemption from the specified maintenance, preventative maintenance,
+
+and alterations requirements in part 91, Subpart E. Farmspace will perform maintenance and
+
+inspection of the aircraft and be authorized to approve the aircraft for return to service. As
+provided in the supplemental, proprietary maintenance procedures submitted to the FAA under
+separate cover, the operator will ensure that the aircraft is in an airworthy condition prior to
+flight and conduct detailed inspections on an hourly programmed inspection schedule.
+Maintenance performed by the PIC is limited to performing "Field-Level" repairs, such as
+repairing simple hardware, replacing propellers, and updating software and firmware; all other
+
+maintenance will be performed by a certified and trained technician. Farmspace will document
+
+work performed in accordance with § 91.417. The size, construction, and simplicity of the
+aircraft will ensure that FARMSPACE will provide an equivalent level of safety.
+
+In addition, prior to flight, FARMSPACE will ensure that all links between the control station
+and the small unmanned aircraft are operational. The PIC will verify control inputs from the
+control station to the servo actuators in the aircraft. If the PIC finds, during this preflight check,
+that a control link is not functioning properly, the PIC will not commence flight until the
+problem with the control link is resolved.
+
+                                              The UAS Operator
+
+14 CFR 61.113, Private pilot privileges and limitations, and 14 CFR 61.133 Commercial pilot
+privileges and limitations.
+
+The Pilot in Command will be referred to as the PIC. The PIC will be at least 17 years old,
+speak English proficiently, hold a minimum of a Sport Pilot certificate, and a third-class airman
+medical certificate or US Gov't issued drivers license. All FARMSPACE personnel have
+extensive experience in both manned and unmanned flight operations. FARMSPACE requires
+that all PIC's possess a minimum of a Sport Pilot's license in recognition of the fact that,
+currently, the FAA does not possess the authority to exempt FARMSPACE from the statutory
+requirement to hold an airman certificate as prescribed in 49 USC § 44711.
+
+FARMSPACE is aware that unlike operations pursuant to a public Certificate of Waiver or
+Authorization (COA), the FAA is requiring a pilot certificate for UAS operations for two
+reasons, the first of which is to satisfy the statutory requirements as stated above. The second is
+because pilots holding a Pilot certificate are subject to the security screening by the Department
+of Homeland Security that certificated airmen undergo. As previously determined by the
+
+                                                          3
+Secretary, the requirement to have an airman certificate ameliorates security concerns over civil
+UAS operations conducted in accordance with Section 333.
+
+Under current regulations, civil operations for compensation or hire require a PIC holding a
+commercial pilot certificate per 14 CFR part 61. Based on the pilot limitations in accordance
+with the pertinent parts of 14 CFR 61.113(a) and (b), a pilot holding a pilot certificate cannot act
+as a PIC of an aircraft for compensation or hire unless the flight is only incidental to a business
+or employment. However, in Grant of Exemption No. 11062 to Astraeus Aerial (Astraeus) (see
+Docket FAA-2014-0352), and in Grant of Exemption No. 11136 to Advanced Aviation
+Solutions, LLC (see Docket FAA-2014-0508) the FAA determined that a PIC with a pilot
+certificate operating the Astraeus UAS and the eBee Ag UAS would not adversely affect
+operations in the NAS or present a hazard to persons or property on the ground.
+
+FARMSPACE's request does not differ significantly from the situation described in the
+exemptions issued to Astraeus and Advanced Aviation Solutions. The petitioner plans to operate
+over private property, or with a "Land-Use-Agreement", with controlled access in the NAS.
+Given: 1) the similar nature of the petitioner's proposed operating environment to that of
+Astraeus, 2) the parallel nature of pilot aeronautical knowledge requirements to those of
+commercial requirements, and 3) the airmanship skills necessary to operate the UAS, the
+additional manned airmanship experience of a commercially certificated pilot would not
+correlate to the airmanship skills necessary for the petitioner's operations. Therefore, an operator
+holding a pilot certificate and a third-class airman medical certificate, or Gov't issued Driver's
+License is appropriate for the proposed operations.
+
+With regard to the airmanship skills necessary to operate the UAS, FARMSPACE will ensure,
+through PIC training, that P{ICs are knowledgeable about UAS regulations, airspace
+requirements, UAS flight restrictions, how to clear an obstacle during flight, the effects of
+weather and meteorology, how to calculate and account for weight and balance, how to handle
+emergency situations, aeronautical decision making and crew coordination, airport operations
+and radio communication, and the physiological effects of alcohol and drugs.
+
+Once a UAS specific knowledge examination and operator certification is implemented by the
+FAA, all PICs will comply with FAA standards for UAS Operators and obtain such licensing.
+The conditions and limitations FARMSPACE is suggesting will prohibit an individual from
+operations unless that PIC has demonstrated that he or she is able to safely operate the UAS in a
+manner consistent with how the UAS will be operated under this exemption, including See &
+Avoid, plus emergency maneuvers and maintaining appropriate distances from persons, vessels,
+vehicles and structures.
+
+To ensure that the PIC's vision (and that of a visual observer, if used) of the small unmanned
+aircraft is sufficient to see and avoid other aircraft in the NAS, the operator's and visual
+observer's vision of the small unmanned aircraft will be sufficient to allow him or her to: (1)
+know the small unmanned aircraft's location; (2) determine the small unmanned aircraft's
+attitude, altitude, and direction; (3) observe the airspace for other air traffic or hazards; and (4)
+determine that the small unmanned aircraft does not endanger the life or property of another.
+
+                                                          4
+If the aircraft must maneuver to avoid other users of the NAS, the PIC will always initiate an
+avoidance maneuver to avoid collision with any other user of the NAS. To the maximum extent
+possible, the PIC will give right-of-way to all manned aircraft in such a manner that the manned
+aircraft should not be presented with a see-and-avoid decision or the impression that it must
+maneuver to avoid the UAS.
+
+The PIC will make available to the FAA, upon request, the platform for inspection or testing, and
+all associated documents and records. The Operator will report an accident to the FAA within 10
+days of any operation that results in injury or property damage. The Operator will conduct a
+preflight inspection, to include specific aircraft and control station systems checks, to ensure the
+small UAS is safe for operation.
+
+All PICs and visual observers will comply with the alcohol and drug use prohibitions that are
+currently in place in part 91 of the FAA's regulations.
+
+No person will be involved in flight operations if he or she knows or has reason to know of any
+physical or mental condition that would interfere with the safe operation of a small UAS.
+
+The PIC will provide a pre-flight briefing to all crewmembers involved in the flight operations.
+
+In conclusion, FARMSPACE asserts that a PIC holding a sport pilot certificate (or higher) and a
+third-class airman medical certificate (or State Driver's License), and who has completed the
+FARMSPACE UAS training, can conduct the proposed UAS operations without adversely
+affecting the safety of the NAS and persons or property on the ground. FARMSPACE,
+therefore, requests relief from 14 CFR § 61.113(a) and (b). Relief from section 133 is not
+necessary.
+
+                                     Operating parameters of the UAS
+
+14 CFR 91.7(a) Civil aircraft airworthiness
+
+Although FARMSPACE's platform should not require an airworthiness certificate in accordance
+with 14 CFR part 21, Subpart H, FARMSPACE asks the FAA to consider its compliance with its
+operating documents to be a sufficient means for determining an airworthy condition and,
+therefore, to grant relief from § 91.7(a). FARMSPACE will ensure that its aircraft is in an
+airworthy condition ­ based on compliance with the operating documents prior to every flight,
+and as stated in the conditions and limitations herein.
+
+14 CFR 91.7(b)
+
+This provision requires the Operator of the UAS to determine whether the aircraft is in a
+condition for safe flight. As explained above, FARMSPACE can comply with this requirement,
+therefore relief from § 91.7(b) is not necessary.
+
+                                                          5
+14 CFR 91.9 Civil aircraft flight manual, marking, and placard requirements and 14 CFR
+91.203(a) and (b) Civil aircraft: Certifications required
+
+The FAA has previously determined that relief from these sections is not necessary.
+Nevertheless, should relief be necessary, such relief is justified as explained herein. The FAA
+has previously found that relevant materials may be kept in a location accessible to the PIC in
+compliance with the regulations.
+
+14 CFR 91.109 Flight instruction; Simulated instrument flight and certain flight tests
+
+FARMSPACE intends to accomplish training through the procedures referenced in the operating
+documents. Regarding the requirements for fully functioning dual flight controls aboard the
+aircraft, FARMSPACE points out that the ground control station is based on a small hand-held
+computer; while it does not offer a second set of "controls," two individuals can and when
+necessary operate the single set of controls simultaneously. Furthermore, training operations will
+only be conducted during dedicated training sessions. Safety will not be adversely impacted if
+FARMSPACE follows the training outlined in the operating documents. As such, FARMSPACE
+is not requesting relief from section 91.109.
+
+14 CFR 91.119 Minimum safe altitudes
+
+FARMSPACE is not requesting relief from Section 91.119(a), which requires operating at an
+altitude that allows a safe emergency landing if a power unit fails. FARMSPACE is also not
+requesting relief from § 91.119(b), operation over congested areas, because FARMSPACE will
+not conduct such operations.
+
+FARMSPACE is requesting relief from § 91.119(c). The regulation provides that over sparsely
+populated areas the aircraft cannot be operated closer than 500 feet to any person, vessel, vehicle,
+or structure. Because the aircraft will be operating at a maximum of 400 feet AGL, it cannot
+comply with this requirement. FARMSPACE will provide an equivalent level of safety by only
+flying over private property with the permission of the landowner. The landowner will be
+briefed on the expected route of flight and the associated risks to persons and property on the
+ground. Due to the small size of the platform, the hazard to persons, vessels, vehicles, and
+structures is not comparable to manned aircraft and should be considered in granting the
+exemption. The aircraft will not be operated over individuals not involved with flight operations.
+Operations will be conducted only over private property with the permission of the landowner,
+the landowner will be briefed of the expected route of flight and the associated risks to persons
+and property on the ground. The UAS will be operated at an altitude allowing, if a power unit
+fails, an emergency landing without undue hazard to persons or property on the surface.
+
+As discussed in Exemption No. 11109 to Clayco, Inc. (see Docket No. FAA-2014-0507),
+operations conducted closer than 500 feet to the ground may require that the aircraft be operated
+closer than 500 feet to essential persons, or objects that would not be possible without additional
+relief. Therefore, the FAA has required, and FARMSPACE will ensure that, prior to conducting
+UAS operations, all persons not essential to flight operations (nonparticipating persons) will
+remain at appropriate distances. In open areas, FARMSPACE will require the aircraft to remain
+
+                                                          6
+an acceptable safe distance from all persons other than essential flight personnel (i.e. operator,
+observer, operator trainees or essential persons). Moreover, the platform will weigh less than 20
+pounds. FARMSPACE will ensure that only persons engaged in flight operations will be closer
+than 500 feet. Barriers or structures will be present that can sufficiently protect both
+participating and nonparticipating persons from the UA or debris in the event of an accident.
+The operator will also ensure that nonparticipating persons remain under such protection. If a
+situation arises where nonparticipating persons leave such protection and are within 500 feet of
+the UA, flight operations will cease immediately. When considering how to immediately cease
+operations, the primary concern is the safety of those nonparticipating persons. The only
+operations that will be conducted closer than 500 feet to vessels, vehicles and structures will be
+operations pursuant to a grant of permission from the land owner/controller after the operator
+makes a safety assessment of the risk of operating closer to those objects and determines that it
+does not present an undue hazard.
+
+In order to address potential safety concerns surrounding a possible loss of positive control of the
+aircraft, FARMSPACE will implement a performance-based operator-responsibility standard
+built around the concept of a confined area of operation. FARMSPACE will confine each flight
+to a limited area of operations defined by the Area of Operations (AOR) to be surveyed. This
+will allow the operator to become familiar with the area of operation and to create contingency
+plans for using the environment in that area to mitigate the risk associated with possible loss of
+positive control. For example, the operator will mitigate loss-of-control risk to people on the
+ground by setting up a perimeter and excluding people not involved with the operation from the
+operational area. The operator will also mitigate risk to other aircraft by notifying the local air
+traffic control of the small UAS operation and the location of the confined area in which that
+operation will take place.
+
+In addition to the operator-based standards above, FARMSPACE will use technological
+approaches to ensure safe operations in the event of a loss of positive control. All 3DR platforms
+will include automatic return-to-base instructions within their flight management software. In
+addition, to the extent possible, the platform will include geo-fencing software preventing the
+vehicle from travelling beyond pre-determined coordinates.
+
+All operations will occur in class approved airspace at no more than 400 feet above ground level
+(AGL); operations will be conducted over private or approved Land Owner agreed upon property
+with the permission of the land owner; and all required permits will be obtained from state and
+local government before operation. The PIC will file a Notice to Airmen (NOTAM) providing
+radial/distance measuring equipment, radius, and a date/time group for each operation.
+
+The aircraft will not be operated (1) over urban or populated areas; (2) at air shows or over an
+open-air assembly of people; (3) over heavily trafficked roads; (4) within 5 NM of an airport or
+heliport, without prior written consent, (5) over any persons not directly involved in the
+operation. Operations will be limited to day, visual meteorological conditions and the aircraft
+will remain within visual line of sight at no greater than 3/4 nautical mile of the PIC at all times.
+
+                                                          7
+In addition the flight parameters above, in order to ensure the safety of its flight operations,
+FARMPSACE will implement the following flight restrictions in accordance with the provisions
+of Proposed Part 107:
+
+To the extent that a first-person view camera, binoculars, or other vision enhancing devices
+(other than corrective lenses) are used, these will not be used as a substitute for the "see-and-
+avoid" requirement. This requirement shall be met through the line of sight operation as
+described above.
+
+The aircraft shall never be operated in excess of 100 mph (87 knots). Typical operations will
+involve airspeeds of approximately 15 knots.
+
+The aircraft will never be flown without minimum weather visibility of 3 miles from the control
+station. In addition, the aircraft will maintain no less than: (1) 500 feet (150 meters) below
+clouds; and (2) 2,000 feet (600 meters) horizontal from clouds.
+
+No person will act as a PIC or observer for more than one unmanned aircraft operation at one
+time.
+
+Since the PIC and any visual observers will maintain or achieve visual line of sight with the
+aircraft at all times, FARMSPACE will not conduct a relay or "daisy-chain" formation of
+multiple visual observers.
+
+No operations will be conducted from a moving vehicle or aircraft.
+
+All operations will be conducted in a manner to avoid careless or reckless behavior.
+
+14 CFR § 91.121 Altimeter Settings
+
+FARMSPACE requests an exemption regarding the altimeter settings in § 91.121 because the
+platform will fly below 400 feet AGL and will not need to maintain hemispherical cruising
+altitudes to de-conflict with other aircraft. AGL should be an appropriate altimeter measurement
+presented to thePIC, and it should be based on the barometric pressure at the point of launch. To
+provide an equivalent level of safety, the platform's AGL altimeter will be set to zero on the
+ground before every flight. Because the aircraft will fly no more than 30 minutes, even rapid
+changes in barometric pressure will have limited effect on the safety of the flight.
+
+14 CFR § 91.151(a)(1) Fuel requirements for flight in VFR conditions,
+
+Regarding the fuel requirements in § 91.151, the 3DR vehicles are battery-operated and the
+maximum duration of flight from a single battery charge is currently approximately 30 minutes.
+The aircraft will never fly more than 3/4 nautical mile from the point of intended landing and a
+full battery charge at launch will ensure it meets the reserve energy requirements. FARMSPACE
+requests an exemption to the word "fuel" and asks for an equivalent interpretation with the words
+
+                                                          8
+"energy" or "power." The PIC will ensure that the UAS has enough power to operate for its
+intended operational time and an additional five minutes. The 5-minute buffer will ensure that
+the platform has sufficient power to return to the operator, or another location, and be able to
+make a controlled landing. Additionally, this buffer will ensure that the platform remains
+controllable throughout its intended operational time.
+
+Prior relief has been granted for manned aircraft to operate at less than the prescribed minimums,
+including Exemption Nos. 2689, 5745, and 10650. In addition, similar UAS-specific relief has
+been granted in Exemption Nos. 8811, 10808, 10673, and 11136 for daytime, VFR conditions.
+The UAS provides battery power remaining in percent to the PIC. The UA batteries provide
+approximately 30 minutes of powered flight. Information provided in the operating documents
+discusses procedures regarding remaining battery power. Those documents contain a condition in
+which the PIC will initiate a landing procedure when 5 minutes of flight remain. Given the
+limitations on its proposed operations and the location of those proposed operations, a reduced
+minimum power reserve for flight in daytime VFR conditions is reasonable. These factors should
+provide the FAA with sufficient reason to grant the relief from 14 CFR 91.151(a) as requested in
+accordance with the conditions and limitations herein, that prohibit the operator from beginning a
+flight unless (considering wind and forecast weather conditions) there is enough power to fly to
+the first point of intended landing and, assuming normal cruising speed, land the UA when 5
+minutes of power remain.
+
+                                                 Public Interest
+
+The FAA has acknowledged that technological advances in small UAS have led to a developing
+commercial market for their uses by providing a safe operating environment for them and for
+other aircraft in the NAS. The use of small unmanned aircraft will lead to more efficient methods
+of performing certain commercial tasks that are currently performed by other methods.
+Proposed Rule 107 lists FARMSPACE's sUAS initiatives as operations that can be safely
+conducted under a framework similar to that proposed by FARMSPACE.
+
+The FAA has also acknowledged the experience that military pilots bring to the UAS field. All
+of the principals at FARMSPACE are military veterans. The CEO and the General Counsel are
+former military aviators. Two of the Vice-Presidents of the company have extensive experience
+flying and training operators in military unmanned systems. FARMSPACE will continue to
+focus on the hiring and training of military veterans.
+
+The sUAS data gathered by FARMSPACE will allow organizations to become much more
+efficient, productive and by reducing risks to the NAS.
+
+                                                          9
+                                  Summary of Conditions & Limitations
+
+FARMSPACE currently supports flight operations for a "Public CoA" conducting sUAS
+Aeronautical Research with many years of safely flying in the NAS and complying with 14 CFR
+and FAA requirements.
+
+Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the
+UAS. Examples include imagery (photography, video, infrared, etc.), electronic measurement
+(precision surveying, RF analysis, etc.), chemical measurement (particulate measurement, etc.),
+or any other gathering of data by instruments aboard the UA.
+
+1. Operations authorized by this grant of exemption will be limited to the 3DR systems weighing
+less than 55 pounds including payload and utilizing a common operating software and Ground
+Control Station. Proposed operations of any other aircraft will require a new petition or a petition to
+amend this grant.
+
+2. The UA will not be operated at a speed exceeding 87 knots (100 miles per hour). And never
+greater than the maximum UA operating airspeed recommended by the aircraft manufacturer.
+
+4. The UA will not operated at an altitude more than 400 feet above ground level (AGL). Altitude
+will be reported in feet AGL.
+
+5. The UA will operated within visual line of sight (VLOS) of the PIC at all times. The PIC will be
+able to use human vision unaided by any device other than corrective lenses, as specified on the
+PIC's FAA-issued airman medical certificate or U.S. driver's license.
+
+6. All operations will utilize a visual observer (VO). The UA will be operated within the visual line
+of sight (VLOS) of the PIC and VO at all times. The VO will be used to satisfy the VLOS
+requirement and augment the PIC, as long as the PIC always maintains VLOS capability. The VO
+and PIC will be able to communicate verbally at all times. Electronic messaging or texting will not
+permitted during flight operations. The PIC's will be designated before the flight and will not transfer
+his or her designation for the duration of the flight. The PIC will ensure that the VO can perform the
+duties required of the VO.
+
+7. All operating documents and the exemption will be accessible during UAS operations and made
+available to the Administrator upon request. If a discrepancy exists between the conditions and
+limitations in the exemption and the procedures outlined in the operating documents,
+the conditions and limitations in the exemption will take precedence and must be followed.
+Otherwise, the PIC will follow the procedures as outlined in the operating documents. The PIC will
+update or revise the operating documents. FARMSPACE will track revisions and present updated
+and revised documents to the Administrator or any law enforcement official upon request.
+
+Farmspace will also present updated and revised documents if it petitions for extension or
+
+amendment to this grant of exemption. If FARMSPACE determines that any update or revision
+would affect the basis upon which the FAA granted this exemption, then FARMSPACE will
+petition for an amendment to the grant of exemption. The FAA's UAS Integration Office (AFS-80)
+will be contacted if questions arise regarding updates or revisions to the operating documents.
+
+                                                         10
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation or flight
+characteristics, e.g. replacement of a flight critical component will undergo a functional test flight
+prior to conducting further operations. Functional test flights will only be conducted by a PIC with a
+VO and must remain at least 500 feet from other people. The functional test flight will be conducted
+in such a manner so as to not pose an undue hazard to persons and property.
+
+9. The PIC is responsible for maintaining and inspecting the UAS to ensure that it is in a condition
+for safe operation.
+
+10. Prior to each flight, the PIC will conduct a pre-flight inspection and determine the UAS is in a
+condition for safe flight. The pre-flight inspection will account for all potential discrepancies, e.g.
+inoperable components, items, or equipment. If the inspection reveals a condition that affects the safe
+operation of the UAS, the aircraft will be prohibited from operating until the necessary maintenance
+has been performed and the UAS is found to be in a condition for safe flight.
+
+11. The PIC will follow the UAS manufacturer's maintenance, overhaul, replacement, inspection,
+and life limit requirements for the aircraft and aircraft components.
+
+12. Each UAS operated under the exemption will comply with all manufacturer safety bulletins.
+
+13. The PIC will hold either an airline transport, commercial, private, recreational, or sport pilot
+certificate. The PIC will also hold a current FAA airman medical certificate or a valid U.S. driver's
+license issued by a state, the District of Colombia, Puerto Rico, a territory, a possession, or the
+Federal government. The PIC will also meet the flight review requirements specified in 14 CFR §
+61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+
+14. FARMSPACE will not permit any PIC to operate unless the PIC demonstrates the ability to
+safely operate the UAS in a manner consistent with how the UAS will be operated under exemption
+requirements, including See & Avoid, emergency procedures and maintaining appropriate distances
+from persons, vessels, vehicles and structures. PIC qualification flight hours and currency will be
+logged in a manner consistent with 14 CFR § 61.51(b). Flights for the purposes of training the
+FARMSPACE's PICs and VOs (training, proficiency, and experience-building) and determining the
+PIC's ability to safely operate the UAS in a manner consistent with how the UAS will be operated
+under the requirements of this exemption and 14 CFR requirements. Training operations will only be
+conducted during dedicated training sessions. During training, proficiency, and experience-building
+flights, all persons not essential for flight operations will be considered nonparticipants, and the PIC
+will operate the UA with appropriate distance from nonparticipants in accordance with 14 CFR §
+91.119.
+
+15. UAS operations will not be conducted at night, as defined in 14 CFR § 1.1. All operations will be
+conducted under visual meteorological conditions (VMC). Flights under special visual flight rules
+(SVFR) will not be conducted.
+
+16. The UAS will not operate within 5 nautical miles of an airport reference point (ARP) as denoted
+in the current FAA Airport/Facility Directory (AFD) or for airports not denoted with an ARP, the
+center of the airport symbol as denoted on the current FAA-published aeronautical chart, unless a
+letter of agreement with that airport's management is obtained or otherwise permitted by a COA
+issued to FARMSPACE. The letter of agreement with the airport management will be made available
+to the Administrator or any law enforcement official upon request.
+
+                                                         11
+17. The UAS will not be operated less than 500 feet below or less than 2,000 feet horizontally from a
+cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses link or loses its GPS signal, the UA will return to a pre-determined LLP, DCP or
+Land immediately at a FTP within the private or controlled-access property.
+
+19. The PIC will abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast weather
+conditions) there is enough available power for the UA to conduct the intended operation and to
+operate after that for at least five minutes or with the reserve power recommended by the
+manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All operations
+will be conducted in accordance with an ATO-issued COA or administration accepted equivalent
+requirements. FARMSPACE will apply for a new or amended COA if it intends to conduct
+operations that cannot be conducted under the current terms.
+
+22. All aircraft operated will be identified by serial number, registered in accordance with 14 CFR
+part 47, and have identification (N-Number) markings in accordance with 14 CFR part 45, Subpart
+C. Markings will be as large as practicable.
+
+23. Documents used by FARMSPACE will ensure the safe operation and flight of the UAS and any
+documents required under 14 CFR §§ 91.9 and 91.203 will be available to the PIC at the Ground
+Control Station of the UAS any time the aircraft is operating. The documents will be made available
+to the Administrator or any law enforcement official upon request.
+
+24. The UAS will remain clear and give way to all manned aviation operations and activities at all
+times.
+
+25. The UAS will not be operated by the PIC from any moving device or vehicle.
+
+26. All Flight operations will be conducted at least 500 feet from all nonparticipating persons,
+vessels, vehicles, and structures unless:
+
+    a. Barriers or structures are present that sufficiently protect nonparticipating persons from the
+         UAS and/or debris in the event of an accident. FARMSPACE will ensure that
+         nonparticipating persons remain under such protection. If a situation arises where
+         nonparticipating persons leave such protection and are within 500 feet of the UAS, flight
+         operations will cease immediately to ensure the safety of nonparticipating persons; and,
+
+    b. The owner/controller of any vessels, vehicles or structures has granted permission for
+         operating closer to those objects and the PIC has made a safety assessment of the risk of
+         operating closer to those objects and determined that it does not present an undue hazard. The
+         PIC, VO, operator trainees or essential persons are not considered nonparticipating persons
+         under this exemption.
+
+                                                         12
+27. All operations will be conducted over private or controlled-access property with permission from
+the property owner/controller or authorized representative. Permission from property
+owner/controller or authorized representative will be obtained for each flight to be conducted.
+28. Any incident, accident, or flight operation that transgresses the lateral or vertical boundaries of
+the operational area as defined by the applicable COA will be reported to the FAA's UAS
+Integration Office (AFS-80) within 24 hours. Accidents will be reported to the National
+Transportation Safety Board (NTSB) per instructions contained on the NTSB Web site:
+www.ntsb.gov.
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations will comply with all applicable parts of 14 CFR including, but not limited to, parts 45, 47,
+61, and 91.
+
+                                                   Conclusion
+The entire FARMSPACE team looks forward to your consideration of this request and is
+available to answer any remaining concerns. We are very excited by the prospect of
+demonstrating our ability to conduct safe operations while helping to support the growing global
+community, employ veterans, promote Science, Technology, Engineering & Math (STEM)
+education, improve the environment and protect National Security.
+Sincerely,
+Submitted on 1 may 2015
+DERICK E. SEATON
+Farmspace Systems, LLC.
+VP-Aviation Operations
+PO Box 57
+Savannah, TN 38372
+Tel: (731) 727-7021
+
+                                                         13
+

@@ -1,0 +1,1969 @@
+May 20, 2015
+
+                                                           Exemption No. 11626
+                                                           Regulatory Docket No. FAA­2015­0537
+
+Mr. Cameron R. Cloar
+Associate
+Nixon Peabody, LLP
+One Embarcadero Center, 18th Floor
+San Francisco, CA 94111-3600
+
+Dear Mr. Cloar:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter dated February 20, 2015, you petitioned the Federal Aviation Administration (FAA)
+on behalf of Olsson Associates (hereinafter petitioner or operator) for an exemption. The
+exemption would allow the petitioner to operate an unmanned aircraft system (UAS) to
+conduct aerial inspection, documentation, survey, mapping, photography, videography and
+data collection.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner. However, the FAA
+received one comment in support of the petition made to the docket.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner are the Draganfly Innovations X4-ES, Draganflyer, 3D
+Robotics Aero-M, and 3D Robotics X8+.
+                                                                                                                 2
+
+The petitioner requested relief from 14 CFR part 21, Certification procedures for products
+and parts, Subpart H--Airworthiness Certificates. In accordance with the statutory criteria
+provided in Section 333 of Public Law 112-95 in reference to 49 U.S.C. § 44704, and in
+consideration of the size, weight, speed, and limited operating area associated with the
+aircraft and its operation, the Secretary of Transportation has determined that this aircraft
+meets the conditions of Section 333. Therefore, the FAA finds that the requested relief from
+14 CFR part 21, Certification procedures for products and parts, Subpart H--Airworthiness
+Certificates, and any associated noise certification and testing requirements of part 36, is
+not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+ They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+ The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+ A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, Olsson Associates is granted an exemption from
+14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a), 91.7(a), 91.119(c),
+91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a) and (b), to
+the extent necessary to allow the petitioner to operate a UAS to perform aerial data collection.
+This exemption is subject to the conditions and limitations listed below.
+                                                                                             3
+
+Conditions and Limitations
+
+In this grant of exemption, Olsson Associates is hereafter referred to as the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+1. Operations authorized by this grant of exemption are limited to the Draganfly
+    Innovations X4-ES Draganflyer, 3D Robotics Aero-M, and 3D Robotics X8+ when
+    weighing less than 55 pounds including payload. Proposed operations of any other
+    aircraft will require a new petition or a petition to amend this exemption.
+
+2. Operations for the purpose of closed-set motion picture and television filming are
+    not permitted.
+
+3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+    exemption holder may use either groundspeed or calibrated airspeed to determine
+    compliance with the 87 knot speed restriction. In no case will the UA be operated at
+    airspeeds greater than the maximum UA operating airspeed recommended by the
+    aircraft manufacturer.
+
+4. The UA must be operated at an altitude of no more than 400 feet above ground level
+    (AGL). Altitude must be reported in feet AGL.
+
+5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+
+    This requires the PIC to be able to use human vision unaided by any device other than
+    corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+    U.S. driver's license.
+
+6. All operations must utilize a visual observer (VO). The UA must be operated within
+    the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+    to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+    capability. The VO and PIC must be able to communicate verbally at all times;
+    electronic messaging or texting is not permitted during flight operations. The PIC
+    must be designated before the flight and cannot transfer his or her designation for the
+    duration of the flight. The PIC must ensure that the VO can perform the duties
+    required of the VO.
+
+7. This exemption and all documents needed to operate the UAS and conduct its
+    operations in accordance with the conditions and limitations stated in this grant of
+    exemption, are hereinafter referred to as the operating documents. The operating
+    documents must be accessible during UAS operations and made available to the
+    Administrator upon request. If a discrepancy exists between the conditions and
+    limitations in this exemption and the procedures outlined in the operating documents,
+                                                                                                            4
+
+    the conditions and limitations herein take precedence and must be followed.
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+    Government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+                                                                                                            5
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least 5 minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+    exemption holder may apply for a new or amended COA if it intends to conduct
+    operations that cannot be conducted under the terms of the attached COA.
+                                                                                                            6
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+    be as large as practicable.
+
+23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+    any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+    PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+    These documents must be made available to the Administrator or any law enforcement
+    official upon request.
+
+24. The UA must remain clear and give way to all manned aviation operations and
+    activities at all times.
+
+25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless:
+      a. Barriers or structures are present that sufficiently protect nonparticipating persons
+          from the UA and/or debris in the event of an accident. The operator must ensure
+          that nonparticipating persons remain under such protection. If a situation arises
+          where nonparticipating persons leave such protection and are within 500 feet of
+          the UA, flight operations must cease immediately in a manner ensuring the safety
+          of nonparticipating persons; and
+      b. The owner/controller of any vessels, vehicles or structures has granted permission
+          for operating closer to those objects and the PIC has made a safety assessment of
+          the risk of operating closer to those objects and determined that it does not
+          present an undue hazard.
+
+    The PIC, VO, operator trainees or essential persons are not considered
+    nonparticipating persons under this exemption.
+
+27. All operations shall be conducted over private or controlled-access property with
+    permission from the property owner/controller or authorized representative.
+    Permission from property owner/controller or authorized representative will be
+    obtained for each flight to be conducted.
+
+28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+    boundaries of the operational area as defined by the applicable COA must be reported
+    to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+    reported to the National Transportation Safety Board (NTSB) per instructions
+    contained on the NTSB Web site: www.ntsb.gov.
+                                                                                                                 7
+
+ If this exemption permits operations for the purpose of closed-set motion picture and
+ television filming and production, the following additional conditions and limitations apply.
+
+    29. The operator must have a motion picture and television operations manual (MPTOM)
+         as documented in this grant of exemption.
+
+    30. At least 3 days before aerial filming, the operator of the UAS affected by this
+         exemption must submit a written Plan of Activities to the local Flight Standards
+         District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+         notification may be waived with the concurrence of the FSDO. The plan of activities
+         must include at least the following:
+           a. Dates and times for all flights;
+           b. Name and phone number of the operator for the UAS aerial filming conducted
+              under this grant of exemption;
+           c. Name and phone number of the person responsible for the on-scene operation of
+              the UAS;
+           d. Make, model, and serial or N-Number of UAS to be used;
+           e. Name and certificate number of UAS PICs involved in the aerial filming;
+           f. A statement that the operator has obtained permission from property owners
+              and/or local officials to conduct the filming production event; the list of those
+              who gave permission must be made available to the inspector upon request;
+           g. Signature of exemption holder or representative; and
+           h. A description of the flight activity, including maps or diagrams of any area, city,
+              town, county, and/or state over which filming will be conducted and the altitudes
+              essential to accomplish the operation.
+
+    31. Flight operations may be conducted closer than 500 feet from participating persons
+         consenting to be involved and necessary for the filming production, as specified in the
+         exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                   8
+
+This exemption terminates on May 31, 2017, unless sooner superseded or rescinded.
+Sincerely,
+
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+                                                                                                                    Cameron R Cloar
+                                                                                                                    Associate
+                                                                                                                    T 415-984-8285
+                                                                                                                    ccloar@nixonpeabody.com
+
+                                                                                                                    One Embarcadero Center, 18th Floor
+                                                                                                                    San Francisco, CA 94111-3600
+                                                                                                                    415-984-8200
+
+                                               February 20, 2015
+
+U.S. Department of Transportation
+Docket Management System
+1200 New Jersey Ave, SE
+Washington, DC 20590
+
+         RE: Exemption Request Under Section 333 of the FAA Reform Act and Part 11
+                  of the Federal Aviation Regulations
+
+Dear Sir or Madam:
+
+Pursuant to Section 333 of the FAA Modernization and Reform Act of 2012 (the "Reform Act"
+or "Section 333"), Subsection (f) of 49 U.S.C. § 44701, and 14 C.F.R. Part 11, Olsson
+Associates ("Olsson") seeks an exemption from the Federal Aviation Regulations ("FARs")
+listed below and discussed in Appendix A to allow it to operate three different small Unmanned
+Aircraft Systems (collectively, the "sUAS"): the Draganfly Innovations X4-ES Draganflyer, the
+3D Robotics Aero-M, and the 3D Robotics X8+. Olsson is a successful engineering and design
+firm that offers solutions for public and private infrastructure projects.1 Olsson plans to use the
+sUAS for aerial inspection and documentation services for its projects located across the United
+States. The services include aerial surveys and mapping, inspections and obtaining still
+photographs, video and other data collected via onboard sensors.
+
+The safety and public benefits of using sUAS for commercial surveying and mapping, project
+documentation, and inspection services are significant. The sUAS reduce the need to operate
+manned aircraft in unconventional operations, provide more accurate data in a manner that is
+more safe, economical and efficient, and with a reduced impact on the environment. Because
+Olsson plans to utilize the sUAS in many of its public infrastructure and related projects, the
+operations will also directly translate to measurable savings for local, state and federal agencies
+and ultimately, taxpayers.
+
+1 Olsson's design and consulting services touch upon numerous industries and subject matters, including:
+water/wastewater, water resources, land development, landscape architecture, urban planning, environmental
+resources and compliance, transportation, technology, municipal, geotechnical, and mechanical and electrical.
+
+                                                                                                                                                                                   4847-4394-2433.3
+February 20, 2015
+Page 2
+
+Operations pursuant to the exemption will be subject to strict operating requirements and
+conditions to ensure at least an equivalent level of safety to currently authorized operations
+using manned aircraft and under conditions as may be modified by the FAA as required by
+Section 333. At 5.5 pounds for the Draganfly X4-ES, 7.9 pounds for the 3D Robotics Aero-M,
+and 7.3 pounds for the X8+, including payload, the proposed sUAS are small in size and are
+powered electrically via small, rechargeable, lithium batteries. The sUAS have extensive
+automated control features, redundant systems, and integrated fail-safes, and will be operated
+under controlled conditions and at low altitudes in airspace that is limited in scope.
+
+Though the sUAS may safely be operated by one person, flight operations performed pursuant
+to this exemption will consist of at least two people: a pilot-in-command (the "PIC") and visual
+observer. The PIC is responsible for the direct and safe operation of the sUAS, monitoring its
+status and flight dynamics while maintaining visual line of sight and keeping the flight within
+the manufacturer's specified limits in terms of wind, flight range, battery life, etc. The observer
+will be responsible for monitoring the airspace for other aircraft and hazards, advising the PIC
+before and during flight of all such observed risks, and monitoring the controlled operating area.
+Individuals acting as the PIC will complete manufacturer-approved training specific to the
+sUAS. The PIC will be a certificated airman with private pilot privileges and limitations, and
+maintain a current third-class medical certificate.
+
+Because the sUAS will be used in lieu of comparatively higher risk operations now conducted
+with fixed wing and rotary manned aircraft, the FAA can have confidence that Olsson's
+operations will achieve at least an equivalent level of safety and fulfill the Secretary of
+Transportation's responsibilities under Section 333(c) of the Reform Act to "establish
+requirements for the safe operation of such aircraft systems in the national airspace system."
+
+Applicant Information
+
+The name of the applicant is:
+
+Olsson Associates
+
+The primary contact for this application is:
+
+Jonathan Harris
+Unmanned Systems Program Director
+Olsson Associates
+760 Horizon Drive, Suite 102
+Grand Junction, CO 81506
+Ph: 970.263.6029
+Fax: 970.263.7456
+
+                                                                                                                                                                                   4847-4394-2433.3
+February 20, 2015
+Page 3
+
+Exemptions Requested
+
+Olsson respectfully requests exemptions from the following regulations:2
+
+14 C.F.R. Part 21, Subpart H;
+14 C.F.R. § 91.7;
+14 C.F.R. § 91.9(b)(2);
+14 C.F.R. § 91.113;
+14 C.F.R. § 61.113(a), (b);
+14 C.F.R. § 61.133(a);
+14 C.F.R. § 91.119(c);
+14 C.F.R. § 91.151;
+14 C.F.R. § 91.203;
+14 C.F.R. § 91.405(a) and (b);
+14 C.F.R. § 91.407(a)(1);
+14 C.F.R. § 91.409(a)(1)-(2); and
+14 C.F.R. § 91.417(a).
+
+              THE APPLICABLE LEGAL STANDARD UNDER SECTION 333
+
+Grant of this exemption application for use of the sUAS in precision aerial surveys, mapping
+and inspection operations will advance the Congressional mandate in Section 333 of the
+Reform Act to accelerate the introduction of UAS into the national airspace system ("NAS")
+if it can be accomplished safely. This law directs the Secretary of Transportation to consider
+whether certain UAS may operate safely in the NAS before completion of the rulemaking
+required under Section 332 of the Reform Act. In making this determination, the Secretary is
+required to determine which types of UAS do not create a hazard to users of the NAS or the
+public, or pose a threat to national security in light of the following:
+
+              The UAS's size, weight, speed, and operational capability;
+
+              Operation of the UAS in close proximity to airports and populated areas; and
+
+              Operation of the UAS within visual line of sight of the operator.
+
+2 As set forth in Appendix C, Olsson will operate under similar operating conditions as those required in the other
+grants of exemption, in which exemptions for certain FARs was deemed by the FAA as "not necessary."
+Accordingly, Olsson does not request FAA exemption from 14 C.F.R. 45.23(b), 91.103, and 91.109(a). Should the
+FAA determine that relief from these or any other regulation is required for the operations proposed herein, Olsson
+will be happy to submit an amendment to this request and include justifications for those necessary additional
+exemptions.
+
+                                                                                                                                                                                   4847-4394-2433.3
+February 20, 2015
+Page 4
+
+Reform Act § 333(a)(1). If the Secretary determines that such vehicles "may operate safely in
+the national airspace system, the Secretary shall establish requirements for the safe operation
+of such aircraft in the national airspace system." Id. §333(c) (emphasis added).3
+
+The Federal Aviation Act expressly grants the FAA the authority to issue exemptions. This
+statutory authority, by its terms, includes exempting civil aircraft, as the term is defined under
+§40101 of the Act, from the requirement that all civil aircraft must have a current
+airworthiness certificate and those regulations requiring commercial pilots to operate aircraft
+in commercial service:
+
+             The Administrator may grant an exemption from a requirement
+             of a regulation prescribed under subsection (a) or (b) of this
+             section or any of sections 44702-44716 of this title if the
+             Administrator finds the exemption is in the public interest.
+
+49 U.S.C. §44701(f). See also 49 USC §44711(a); 49 USC §44704.
+
+The grant of the requested exemption is in the public interest based on the clear direction in
+Section 333 of the Reform Act; the additional authority in the Federal Aviation Act, as
+amended; the strong equivalent level of safety surrounding the proposed operations; and the
+significant public benefit, including enhanced safety and cost savings associated with
+transitioning to UAS for aerial surveys, mapping and inspections. Olsson therefore respectfully
+requests that the FAA grant the requested exemption without delay.
+
+Airworthiness of the sUAS
+
+One element of the exemption application involves evidence of the airworthiness of the sUAS.
+Olsson and the manufacturers of the sUAS ­ 3D Robotics and Draganfly Innovations ­ believe
+that the sUAS have been shown to be airworthy and compliant with a significant level of safety.
+Indeed, as discussed more fully in Draganfly Innovations own exemption request, Docket No.
+FAA-2014-0963, numerous public agencies and organizations have received FAA permission to
+operate X4 models including, without limitation, the Mesa County (CO) Sheriff's Office,
+Illinois State Police, University of North Dakota, Texas A&M University and the Northern
+Plains UAS Test Site, just to name a few. In Canada, moreover, the X4 models have been
+operating since 2008 under the authority of Transport Canada and Special Flight Operations
+
+3 This provision places a duty on the Administrator to not only process applications for exemptions under
+Section 333, but for the Administrator, if he deems the conditions proposed herein require modification in order
+to allow approval, to supply conditions for the safe operation of the UAS. Olsson welcomes the opportunity to
+consult with FAA staff to address any issues or concerns that this proposal may raise that they believe may
+require modification.
+
+                                                                                                                                                                                   4847-4394-2433.3
+February 20, 2015
+Page 5
+
+Certificates issued by that federal agency to federal and state law enforcement agencies,
+universities and for various commercial operations in Canada.
+
+To enhance safety, it is also important to note that the sUAS are equipped with automated
+features which enhance safe takeoff, flight, and landing in many conditions, further details of
+which are provided in the descriptions of both aircraft (Appendices C-E), the X4-ES, Aero-M
+and X8+ manufacturer manuals, and in the Olsson General Operations Manual ("GOM").4
+
+To maintain airworthiness, Olsson will follow a strict inspection and maintenance program.
+That program is enhanced by several automatic checks performed by the sUAS. Malfunctions
+that occur during flight will be detected by the sUAS fault detection systems, which
+communicate a fault warning to the PIC to take necessary action. For certain malfunctions and
+faults (i.e., lost communications), the sUAS may be preprogrammed to automatically respond
+and land either at a designated location (e.g., a return-to-home or point of take-off) or in-place.
+In addition, Olsson will maintain emergency checklists for proper and safe malfunction
+responses that will be used by the PIC during operation of the sUAS. In the event of any
+malfunction, the sUAS will undergo all maintenance required by the manufacturer and undergo
+flight testing before recommencing commercial operations.
+
+Proposed Operations and Associated Conditions
+
+Olsson intends to use the sUAS that weigh significantly less than 55 pounds for the purpose of
+conducting aerial surveys and mapping of land, as well as aerial inspection and documentation
+of its projects. In the survey and mapping context, for example, the sUAS will be used to
+acquire photogrammetric datasets for use in land development and vertical infrastructure design.
+Similarly, Olsson plans to provide engineering-related inspection services with the sUAS to a
+number of industries. This includes, without limitation, the inspection of transportation
+infrastructure, such as rail and automotive bridges, the inspection of utility infrastructure,
+including wind turbines and transmission lines, and the inspection of proposed future building
+sites for overall project feasibility.
+
+All of the sUAS operations will occur under tightly controlled conditions on public or privately
+owned land at the owner's request and consent, solely during daylight hours, and at altitudes
+well below that which would pose a risk to other aircraft. The operations will take place in areas
+away from people, crowds and airports. Moreover, due to the nature and purpose of the
+operations, Olsson anticipates that it will fly the sUAS at relatively low altitudes and speeds.
+The risk of interference with another aircraft is therefore minimal.
+
+Grant of the exemptions to Olsson will be subject to the conditions listed in Appendix B, which
+are based upon the operating conditions required by the FAA's previous grants of exemptions.
+
+4 At the request of the FAA, Olsson will be pleased to provide, under confidentiality, its General Operations
+Manual.
+
+                                                                                                                                                                                   4847-4394-2433.3
+February 20, 2015
+Page 6
+
+In terms of the specific aircraft Olsson will use for its operations, all are characterized by a high
+degree of pre-programmed control and various built-in technical capabilities that limit the
+potential for operation outside of the conditions set forth in Appendix B. They were also
+designed with internal functional and safety features to assist the operator in safe and reliable
+operation. With pre-programmed flights and manual control, operators can easily maintain
+separation from manned aircraft operations and avoid other hazards. In the controlled
+environment under the operations conditions in Appendix B, operations will remain within
+visual line-of-sight (VLOS) and below 400 feet AGL. In addition, Olsson will obtain a
+Certificate of Waiver or Authorization from the FAA Air Traffic Organization to address
+airspace requirements and provide notification by a Notice to Airman (NOTAM).
+
+Operator Requirements
+
+Olsson will use a dedicated staff for the sUAS operations. As a condition to the grant of the
+exemptions, Olsson will require that the PIC hold a private pilot's certificate and a valid third-
+class medical certificate. The PIC will have accumulated and logged a minimum number of
+flight cycles and hours for daytime operations, as necessary. The PIC will also be subject to the
+flight review requirements pursuant to the Federal Aviation Regulations ("FARs").
+
+In addition, the PIC must complete a manufacturer-approved training program for the sUAS that
+he or she will operate. This training is specific to each sUAS and familiarizes the PIC to the
+operations and limitations of each sUAS. Training will also include discussions on the basic
+fundamentals of UAS aerodynamics and technical limitations, as well as the more general topics
+of weather, the National Airspace System, and the legal and regulatory framework.
+
+Olsson does not believe that certified airmen, medical certificates, and the related operating
+conditions, are necessary or required to operate the sUAS. However, Olsson will accept these
+requirements as a condition to the grant of the exemptions. If, and when, the FAA finds such
+conditions unnecessary for operations conducted pursuant to Section 333 exemptions, Olsson
+respectfully reserves the right to amend its operating conditions and request exemptions from
+the relevant FARs to operate without such conditions.
+
+Public Interest
+
+The use of the sUAS in lieu of comparatively hazardous operations currently conducted with
+conventional fixed wing and rotary aircraft offers a net safety benefit and will achieve an
+enhanced level of safety, as mandated under Section 333(c) of the Reform Act. Approval of this
+application will also benefit the public interest by allowing better, safer, and more cost efficient
+information for Olsson and the public.
+
+Conventional aerial survey and inspection operations using manned aircraft involve heavy aerial
+aircraft that must transit from airports to the operational location, carrying significant amounts
+of combustible fuel, and a multi-person crew. The nature of surveying and inspection operations
+
+                                                                                                                                                                                   4847-4394-2433.3
+February 20, 2015
+Page 7
+
+magnify the dangers of using conventional aircraft, as the aircraft fly in unconventional
+operations under FAA waivers and at dangerous altitudes in populated and developed areas.
+Aerial inspection and analysis by traditional manned aircraft is also often times impractical
+because the required altitudes for safe flight can reduce the operative visibility below levels
+necessary to obtain meaningful data.
+
+By contrast, use of the sUAS is safe, economical and efficient. The X4-ES weighs a mere 5.5
+lbs, the Aero-M weighs 7.9 lbs., and the X8+ weighs 7.3 lbs., including payload, they operate
+on battery power, are carried (not flown) to and from the area of activity, remove the need for
+an airborne crew, and pose less risk to people and infrastructure on the ground, as well as other
+aircraft. sUAS operations also avoid the need for inspection personnel to risk their lives on
+buildings, bridges and other structures to perform inspections. If more detailed in-person
+inspections are required, planners can use preliminary sUAS data and target areas of concern
+without putting inspectors and other individuals at risk in hazardous areas. More frequent, safer,
+and cost-efficient inspections by sUAS will also increase safety to the public. In addition, the
+sUAS can map the conditions and problem areas of Olsson projects, assisting personnel to
+determine areas of potential hazard and the need for heightened safety measures. Increased
+inspections will also help to maintain buildings and other structures, keeping the public safe
+from building deterioration and improved building responses during significant weather events.
+
+No national security issue is raised by the grant of the requested exemptions. Given the size,
+load-carrying capacity, speed at which the sUAS operate (the X4-ES at 30 mph, the Aero-M at
+56 mph, and the X8+ at less than 15 mph), and the fact that they do not carry explosives or other
+dangerous materials, the use of the sUAS pose no threat to national security. In fact, the threat
+of causing damage to critical national infrastructure is significantly reduced with the extremely
+low sUAS weights and limited operating areas. Any other security concerns are ameliorated by
+the fact that all individuals holding a private pilot certificate are subject to a security screening
+by the U.S. Department of Homeland Security.
+
+The grant of the requested exemption is in the public interest based on the clear direction in
+Section 333, the Federal Aviation Act,5 the high and equivalent level of safety of the proposed
+operations, and the significant public benefit, including enhanced safety and cost savings to be
+realized as a result of the use of sUAS for aerial inspection and mapping services. Accordingly,
+Olsson respectfully requests that the FAA grant the requested exemption without delay.
+
+5 The Federal Aviation Act ("FAAct") expressly grants the FAA the authority to issue exemptions: The Administrator may grant
+an exemption from a requirement of a regulation prescribed under subsection (a) or (b) of this section or any of sections 44702-
+44716 of this title if the Administrator finds the exemption is in the public interest. 49 U.S.C. § 44701(f).
+
+                                                                                                                                                                                   4847-4394-2433.3
+February 20, 2015  Very truly yours,
+Page 8             NIXON PEABODY, LLP
+
+CRC                Cameron R Cloar
+
+                                       4847-4394-2433.3
+February 20, 2015
+Page 9
+
+                                                 APPENDIX A
+
+    EXEMPTION REQUEST AND EQUIVALENT LEVEL OF SAFETY SHOWINGS
+                  UNDER APPLICABLE RULES SUBJECT TO EXEMPTION
+
+14 C.F.R. Part 21, Subpart H: Airworthiness
+Certificates 14 CFR § 91.203(a)(1)
+
+Section 91.203(a)(1) requires all civil aircraft to have a certificate of airworthiness. Part 21,
+Subpart H, entitled Airworthiness Certificates, establishes the procedural requirements for the
+issuance of airworthiness certificates as required by FAR § 91.203(a)(1). Given the very small
+size of the aircraft and the limited operating area associated with their utilization, it is
+unnecessary to go through the certificate of airworthiness process under Part 21 Subpart H to
+achieve or exceed current safety levels.6
+
+Such an exemption meets the requirements of an equivalent level of safety under Part 11 and
+Section 333 of the Reform Act. The Federal Aviation Act and Section 333 of the Reform Act
+both authorize the FAA to exempt aircraft from the requirement for an airworthiness
+certificate, upon consideration of the size, weight, speed, operational capability, and
+proximity to airports and populated areas of the UAS involved.
+
+In this case, an analysis of these criteria demonstrates that the sUAS operated without an
+airworthiness certificate, under the conditions proposed herein, will be at least as safe, or safer,
+than a conventional aircraft (fixed wing or rotorcraft) with an airworthiness certificate. The X4-
+ES weighs 5.5 lbs., the Aero-M weighs 7.9 lbs., and the X8+ weighs 7.3 lbs., including
+payload. The sUAS do not carry a pilot or passenger, will not carry flammable fuel, and will
+operate exclusively within an area pre-disclosed and in compliance with conditions set forth
+herein. Operations under this exemption will be tightly controlled and monitored by the
+operator, pursuant to the conditions set forth in Appendix B, the Olsson GOM, the
+manufacturers' manuals, and by local public safety requirements.
+
+The FAA will have advance notice of all operations through the filing of NOTAMs. Receipt
+of the prior permission of the land owner (or lessee), the size of the aircraft, the lack of
+flammable fuel, and the fact that the aircraft is carried to the location and not flown there all
+establish the equivalent level of safety. The sUAS provide at least an equivalent level of
+
+6 The FAA has stated that no exemption is needed from this section if a finding is made under the Reform Act that
+the sUAS provide an equivalent level of safety when compared to aircraft normally used for the same application.
+These criteria are satisfied and therefore no exemption is needed. See, e.g., Grant of Exemption to Astraeus Aerial,
+Docket No. FAA-2014-0352 at 13-14, 22. Should the FAA determine that some characteristics of the sUAS fail to
+meet the requirements of the Reform Act, Olsson respectfully requests an exemption.
+
+                                                                                                                                                                                   4847-4394-2433.3
+February 20, 2015
+Page 10
+
+safety to that of such operations being conducted with conventional manned aircraft that
+would be orders-of-magnitude larger and would be carrying passengers, cargo, and
+flammable fuel. The safety features including the redundant sensor systems, as described in
+Appendices C-E, the manufacturers' manuals, and throughout this document, underscore
+the importance placed on safety and reliability in the design and manufacture of the sUAS.
+
+14 C.F.R. § 91.7(a)-(b); Civil Aircraft Airworthiness
+
+Section 91.7(a) requires that a civil aircraft must be in airworthy condition to be operated.
+The FAA has concluded that no exemption is required under 14 C.F.R. § 91.7(a) to the
+extent that the requirements of Part 21 are waived or otherwise found inapplicable. See FAA
+Grant of Exemption to Astraeus Aerial, Docket No. FAA-2014-0352, Exemption No. 11062,
+pp. 14-15, 19, 22. Olsson therefore respectfully requests that the FAA find the requirements
+for section 91.7(a) in accordance with the agency's determination on 14 C.F.R. Part 21,
+Subpart H, discussed supra.
+
+The agency similarly found that relief from section 91.7(b) is not warranted, which places
+responsibility on the PIC to ensure an aircraft is in a condition safe for flight. See Grant of
+Exemption to Astraeus Aerial, Docket No. FAA-2014-0352, Exemption No. 11062, p. 19.
+To the extent, an exemption is required under section 91.7(a) or (b), Olsson respectfully
+requests that the FAA find compliance with the manufacturer's manuals, the Olsson GOM,
+and requirements of the grant of exemption, a sufficient means for ensuring the sUAS are
+and remain in an airworthy condition.
+
+14 C.F.R. § 91.113; Right-of-Way Rules
+
+Section 91.113 requires that vigilance be maintained by each person operating an aircraft to
+see and avoid other aircraft. Unlike manned aircraft, the sUAS pilot is not on-board the
+aircraft to observe and avoid other aircraft, operating the sUAS from the ground.
+
+Olsson's proposed operating conditions will achieve an equivalent or greater level of safety.
+All operations will involve two individuals--one certificated private pilot as the PIC and one
+visual observer who will monitor the immediate and surrounding airspace of the sUAS
+operation for potential obstruction hazards and other possible intrusions. The sUAS will also
+be limited to designated areas below 400 feet AGL and within a virtual fence. Olsson will
+notify the FAA and other pilots of the sUAS operations by NOTAM.
+
+14 C.F.R. § 61.113(a) & (b); 61.133(a): Private Pilot Privileges and Limitations; Pilot
+in Command; Commercial Pilot Privileges and Limitations.
+
+Section 61.113(a) & (b) limit private pilots to non-commercial operations. Unlike a
+conventional aircraft that carries a pilot, passengers, and cargo, the sUAS in this case are
+
+                                                                                                                                                                                   4847-4394-2433.3
+February 20, 2015
+Page 11
+
+remotely controlled with no passengers or property of others on-board. Section 61.133(a)
+requires an individual with a commercial pilot's license to act as pilot in command of an
+aircraft for compensation or hire.
+
+Olsson respectfully proposes that operator requirements should take into account the
+characteristics of the particular UAS. Here, the sUAS have a high degree of pre-programmed
+control and various built-in technical capabilities that strictly limit the potential for operation
+outside of the operating conditions set forth in Appendix B and the exemption application. The
+small size, endurance, range and payload capacities of the sUAS mean that no passengers
+and/or cargo will ever be carried by the aircraft. Rather, commercial operations will be strictly
+limited to conducting aerial surveys and mapping, inspections and acquiring aerial imagery.
+
+Considering these conditions, operating limitations and restrictions, an equivalent level of
+safety will be provided by allowing operation of the sUAS by Olsson with individuals who
+possess a valid FAA private pilot certificate and Class III medical certificate. The risks
+associated with the operation of the sUAS (given their small size, speed, operational
+capabilities and limitations, and lack of combustible fuel) are so diminished from the level of
+risk associated with commercial operations (and even operations permitted with a private pilot
+certificate) contemplated by Part 61 with manned aircraft, that allowing operations of the sUAS
+as set forth in Appendix B meets and exceeds the present level of safety provided under 14
+C.F.R. § 61.113(a)-(b), and does not call for a commercial pilot certificate as set forth in §
+61.133.
+
+14 CFR § 91.119: Minimum Safe Altitudes
+
+Section 91.119 establishes safe altitudes for operation of civil aircraft. Specifically, 91.119(c)
+limits aircraft flying over areas other than congested areas to an altitude of 500 feet above the
+surface, except over open water or sparsely populated areas. In those cases, the aircraft may
+not be operated closer than 500 feet to any person, vessel, vehicle, or structure.
+
+As set forth herein, the sUAS will not operate at higher than 400 feet AGL. The sUAS will,
+however, be operated to avoid congested or populated areas. Because aerial survey work must
+be accomplished at relatively low altitudes and at altitudes less than 500 feet AGL, an
+exemption from Section 91.119(c) is needed.
+
+The equivalent level of safety will be achieved given the size, weight, speed, and material with
+which the sUAS are built. Also, no flight will takeoff or land without the permission of the land
+owner or those who control the land. Because of the advance notice to the landowner, all
+affected individuals will be aware of the flights.
+
+Compared to operations conducted with aircraft or rotorcraft weighing far more than the sUAS,
+and carrying flammable fuel, any risk associated with these operations will be significantly less
+
+                                                                                                                                                                                   4847-4394-2433.3
+February 20, 2015
+Page 12
+
+than those currently allowed with conventional aircraft operating at or below 500 feet AGL.
+Indeed, the low-altitude operations of the sUAS will maintain separation from operations of
+conventional aircraft that must comply with Section 91.119.
+
+14 C.F.R. § 91.151(a): Fuel Requirements for Flight in VFR Conditions
+
+This regulation prohibits an individual from beginning "a flight in an airplane under VFR
+conditions unless (considering wind and forecast weather conditions) there is enough fuel to fly
+to the first point of intended landing and, assuming normal cruising speed ­ (1) During the day,
+to fly after that for at least 30 minutes; or (2) At night, to fly after that for at least 45 minutes."
+
+The X4-ES is powered by a removable, rechargeable, lithium-polymer battery that provides
+approximately 20 minutes of powered flight. Without an exemption from § 14 CFR 91.151, the
+X4-ES flights by Olsson would not be permissible. The Aero-M is also powered by a lithium-
+polymer battery that provides up to 40 minutes of powered flight. Without an exemption from
+91.151 for it, flights would be limited to 10 minutes in duration. Given the limitations on the
+proposed operations and their locations, a longer time frame for flight in daylight VFR
+conditions is reasonable. Similarly, the battery on the 3DR Robotics X8+ provides up to 15
+minutes of powered flight. Without an exemption from 91.151 for it, flights would be
+impossible.
+
+An exemption from 14 CFR § 91.151(a) is safe and within the scope of a prior exemption. See
+Grant of Exemption to Lockheed Martin Corporation, Docket No. FAA-2014-10673 (allowing
+operations without compliance with 91.151(a). Operating the sUAS, without 30 minutes of
+reserve fuel does not engender the type of risks that Section 91.151(a) was meant to prevent
+given the size and speed at which the sUAS operate. The fact that they carry no pilot,
+passenger, or cargo also enhances their safety. As does the fact that the operations will be
+conducted within the VLOS of the PIC and in a strictly controlled location. In the unlikely
+event that the sUAS should run out of fuel, each aircraft is designed to land on its own (e.g.,
+an auto-land function is initiated upon a critical battery warning). Given their design, weight
+and construction material, the risks are less than contemplated by the current regulation.
+
+For the X4-ES, an equivalent level of safety can be achieved by maintaining 5 minutes of
+reserve fuel, which would be more than adequate to return the UAS to its planned landing zone
+from anywhere in its operating area given that the systems are designed to be flown within
+direct VLOS of the PIC.
+
+For the Aero-M, an equivalent level of safety can be achieved by maintaining 10 minutes of
+reserve fuel, which would be more than adequate to return the aircraft to its planned landing
+zone from anywhere in its operating area, particularly since it must be flown within direct
+VLOS of the PIC.
+
+                                                                                                                                                                                   4847-4394-2433.3
+February 20, 2015
+Page 13
+
+For the X8+, an equivalent level of safety can be achieved by maintaining 5 minutes of reserve
+fuel, which would be more than adequate to return the aircraft to its planned landing zone from
+anywhere in its operating area, particularly since it must be flown within direct VLOS of the
+PIC.
+
+Similar exemptions have been granted to other operators and systems. See Docket Nos.
+2689F, 5745, and 10673.
+
+14 C.F.R. §§ 91.9(b)(2); 91.203(a)-(b); Carriage of Civil Aircraft Airworthiness
+Certificate and Registration
+
+Sections 91.9(b) and 91.203(a)-(b) require an aircraft operator to carry airworthiness
+documents and other aircraft manuals onboard the aircraft at all times. Because the sUAS
+are small in size and contain no cabin or flight deck, carriage of such documents and
+manuals is impossible.
+
+The intent of these regulations is to ensure that the PIC has access to important documents
+during flight. Here, an equivalent level of safety is achieved if the PIC has access to the
+applicable sUAS manual(s), registration certificate and other required documents from the
+Ground Control Station from which he or she is operating the sUAS. This is consistent with
+a prior opinion of the FAA Office of the Chief Counsel, and other grants of exemptions for
+commercial UAS operations. See Memorandum from Mark Bury, FAA Assistant Chief
+Counsel for International Law, Legislation and Regulation, to John Duncan, FAA Flight
+Standards Service (Aug. 8, 2014); see also FAA Grant of Exemption to Astraeus Aerial,
+Docket No. FAA-2014-0352, Exemption No. 11062, pp. 16-18.
+
+14 C.F.R. §§ 91.405(a); 407(a)(1); 409(a)(2); 417(a): Maintenance Inspections
+
+Section 91.405(a) requires that an aircraft operator or owner "shall have that aircraft inspected
+as prescribed in subpart E of this part and shall between required inspections, except as
+provided in paragraph (c) of this section, have discrepancies repaired as prescribed in part 43 of
+this chapter...." Section 91.407 similarly makes reference to requirements in Part 43; Section
+91.409(a)(2) requires an annual inspection for the issuance of an airworthiness certificate.
+Section 91.417(a) requires the owner or operator to keep records showing certain maintenance
+work that has been accomplished by certificated mechanics, under Part 43, or licensed pilots
+and records of approval of the aircraft for return to service.
+
+An equivalent level of safety will be achieved because the sUAS are small in size, will solely
+operate in restricted predetermined areas and are not complex mechanical devices. Olsson will
+perform all maintenance and inspections in accordance with the manufacturers' manuals and
+any required manufacturer Safety or Service Bulletins. In addition, the PIC will conduct a pre-
+flight inspection of the sUAS and all associated equipment to account for all discrepancies
+
+                                                                                                                                                                                   4847-4394-2433.3
+February 20, 2015
+Page 14
+
+and/or inoperable components, pursuant to the Olsson GOM. Maintenance will be performed
+and verified to address any conditions potentially affecting safe operation of the sUAS and no
+flights will occur unless and until all flight critical components of the sUAS have been found
+to be airworthy and in a condition for safe operation. A functional flight test will be conducted
+following the replacement of any flight-critical components. As required by the Olsson GOM,
+the PIC who conducts the functional test flight will make an entry for the flight in the aircraft
+records.
+The Olsson GOM also includes requirements to follow the manufacturer's aircraft/component,
+maintenance, overhaul, replacement, inspection, and life limit requirements for all applicable
+components identified by each manufacturer. In addition, the GOM includes procedures to
+document and maintain a record of sUAS maintenance under this grant of exemption. Finally,
+Olsson will incorporate any additional required high-time component maintenance and
+replacement requirements into its GOM that is requested by Draganfly, 3D Robotics and/or
+the FAA.
+
+                                                                                                                                                                                   4847-4394-2433.3
+February 20, 2015
+Page 15
+
+                                                APPENDIX B
+
+               OLSSON OPERATING RESTRICTIONS AND LIMITATIONS
+
+ 1) Operations shall be limited to the following aircraft described in the Olsson General
+         Operations Manual ("GOM"): the Draganfly Innovations X4-ES Draganflyer model
+         aircraft, and the 3D Robotics Aero-M and X8+ (collectively "sUAS"). All three of the
+         aircraft weigh less than 10 pounds. Proposed operations of any other aircraft will require
+         a new petition or a petition to amend this grant.
+
+ 2) The sUAS shall not be flown at a ground speed exceeding 100 mph or no more than the
+         maximum permissible operating speed required by the manufacturer, whichever is less.
+
+ 3) Above Ground Level ("AGL") altitude shall be restricted to 400 feet, as indicated by the
+         procedures specified in the GOM. All altitudes reported to Air Traffic Control ("ATC")
+         shall be in feet AGL.
+
+ 4) The sUAS shall be operated within Visual Line-of-Sight ("VLOS") of the pilot-in-
+         command ("PIC") and visual observer at all times. The PIC must use human vision
+         unaided by any device other than corrective lenses, as specified on the PIC's FAA-
+         issued medical certificate.
+
+ 5) All operations must utilize a visual observer. The visual observer may be used to satisfy
+         the VLOS requirement as long as the PIC maintains VLOS capability. The observer and
+         PIC must be able to communicate verbally at all times. The PIC must be designated
+         before the flight and cannot transfer his or her designation for the duration of the flight.
+         The PIC must confirm that the visual observer can perform the functions prescribed in
+         the GOM.
+
+ 6) Any and all additional requirements identified in the exemption grant by the FAA shall
+         be added to the GOM. The GOM must be maintained and made available to the
+         Administrator upon request. If a discrepancy exists between the conditions and
+         limitations in the granted exemptions and the GOM, the conditions and limitations in the
+         granted exemptions shall take precedence and must be followed. Otherwise, the operator
+         must follow the procedures outlined in the GOM.
+
+         The operator may update or revise its GOM. It is the operator's responsibility to track
+         such revisions and present updated and revised documents to the Administrator upon the
+         request. The operator must also present updated and revised documents if it petitions for
+         an extension or amendment of the granted exemptions. If the operator determines that
+         any update or revision would affect the basis upon which the FAA granted the
+         exemptions, then the operator must petition for amendment to its exemptions. The
+
+                                                                                                                                                                                   4847-4394-2433.3
+February 20, 2015
+Page 16
+
+         FAA's UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+         updates or revisions to the GOM.
+
+ 7) Prior to each flight the PIC must inspect the sUAS to confirm that it is in a condition for
+         safe flight. The PIC shall not operate the aircraft if the inspection reveals a condition
+         that affects the safe operation of the sUAS until the necessary maintenance has been
+         performed and the sUAS is found to be in a condition for safe flight. The Ground
+         Control Station ("GCS") shall be included in the preflight inspection. All maintenance
+         and alternations must be properly documented in the aircraft records.
+
+ 8) Any sUAS that has undergone maintenance or alterations that affect the sUAS operation
+         or flight characteristics (e.g., replacement of a flight critical component) must undergo a
+         functional test flight in accordance with the GOM. The PIC who conducts the functional
+         test flight must make an entry in the sUAS aircraft records of the flight. The
+         requirements and procedures for a functional test flight and aircraft record entry shall be
+         included in the GOM.
+
+ 9) Olsson must follow the manufacturer's UAS aircraft/component maintenance, overhaul,
+         replacement, inspection, and life limit requirements, with particular attention to flight
+         critical components that may not be addressed in the manufacturer's manuals.
+
+ 10) Olsson shall carry out their maintenance, inspections, and record keeping requirements,
+         in accordance with the GOM. Maintenance, inspection, and alterations must be noted in
+         the aircraft logbook, including total flight hours, description of work accomplished, and
+         the signature of the authorized sUAS technician returning the sUAS to service.
+
+ 11) sUAS technicians must receive and document training referenced in the GOM.
+
+ 12) sUAS maintenance technicians must make a record entry in the sUAS logbook or
+         equivalent document of the corrective action taken against discrepancies discovered
+         between inspections.
+
+ 13) The PIC must possess at least a private pilot certificate and at least a current third-class
+         medical certificate. The PIC must also meet the flight review requirements specified in
+         14 C.F.R. § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+
+ 14) Olsson will not permit any PIC to operate the sUAS unless and until that PIC has
+         demonstrated through the training and currency requirements set forth in the GOM, that
+         the PIC is able to safely operate the sUAS in a manner consistent with how the sUAS
+         will be operated pursuant to this exemption, including evasive and emergency
+         maneuvers and maintaining appropriate distances from people, vessels, vehicles and
+         structures.
+
+                                                                                                                                                                                   4847-4394-2433.3
+February 20, 2015
+Page 17
+
+ 15) Prior to the operation, the PIC must have accumulated and logged a minimum of 1 hour
+         as sUAS pilot operating the sUAS and three take-offs and three landings within the
+         preceding 90 days.7
+
+ 16) Prior to operations, a flight demonstration as set forth in the GOM, administered by an
+         Olsson-approved and qualified-pilot must be successfully completed and documented.
+         This documentation must be available for review upon request by the Administrator. The
+         flight demonstration shall be conducted in accordance with the GOM.
+
+ 17) The sUAS shall not be operated directly over any person, except authorized and
+         consenting individuals, below an altitude that is hazardous to persons or property on the
+         surface in the event of a sUAS failure or emergency.
+
+ 18) Operating of the sUAS may be conducted at distances less than 500 feet from
+         participating persons, vessels, vehicles or structures that perform an essential function in
+         connection with these special purpose operations. Operations closer than 500 feet from
+         the PIC, visual observer, operator trainees, and essential persons, are permitted when
+         operationally necessary; but never so close as to present an undue hazard, per §
+         91.119(a).
+
+ 19) Operations of the sUAS may be conducted at distances less than 500 feet from vessels,
+         vehicles or structures so long as the owner/controller grants such permission and the
+         operation closer to these objects presents no safety hazard to nonparticipating persons or
+         property.
+
+ 20) Operation of the sUAS must be conducted at least 500 feet from all nonparticipating
+         persons, vessels, vehicles, and structures.
+
+ 21) If the sUAS loses communications or loses its GPS signal, the sUAS must return to a
+         pre-determined location within the security perimeter and land or be recovered in
+         accordance with the GOM.
+
+ 22) The sUAS must abort the flight in the event of unpredicted obstacles or emergencies in
+         accordance with the GOM.
+
+ 23) The PIC is prohibited from beginning a sUAS flight unless (considering wind and
+         forecast weather conditions) there is enough power to fly to the intended point of
+
+7 Training, proficiency, experience-building, and take-off and landing currency flights can be conducted under this
+grant of exemption to accomplish the required flight time and 90 day currency. During training, proficiency,
+experience building, and take-off and landing currency flights all persons not essential for flight operations are
+considered nonparticipants and the operator must operate the sUAS with appropriate distance from nonparticipants
+in accordance with 91 C.F.R. § 91.119.
+
+                                                                                                                                                                                   4847-4394-2433.3
+February 20, 2015
+Page 18
+
+         landing and, assuming normal cruising speed, to fly after that for at least 5 minutes for
+         the X4-ES and the X8+, and at least 10 minutes for the Aero-M.
+
+ 24) Olsson shall obtain an Air Traffic Organization (ATO) issued Certificate of Waiver of
+         Authorization (COA) prior to conducting any operation. This COA will also require the
+         filing of the NOTAM not more than 72 hours in advance, but not less than 48 hours
+         prior to the operation.
+
+ 25) All aircraft operated in accordance with the requested exemption must be identified by
+         serial number, registered in accordance with 14 C.F.R. Part 47, and have identification
+         (N-Number) markings in accordance with 14 C.F.R. Part 45, Subpart C. Markings shall
+         be as large as practicable.
+
+ 26) Each sUAS must comply with all manufacturer System and Safety Bulletins.
+
+ 27) The preflight inspection required in the GOM shall account for all discrepancies (i.e.,
+         inoperable components, items, or equipment) not covered in the relevant pre-flight
+         inspection sections of the manufacturer's operating manual.
+
+ 28) The radio frequency spectrum used for operation and control of the sUAS must comply
+         with Federal Communication (FCC) or other appropriate government oversight agency
+         requirements.
+
+ 29) The documents required under 14 C.F.R. §§ 91.9 and 91.203 shall be available to the
+         operator at the Ground Control Station of the sUAS any time the aircraft is operating.
+         These documents must be made available to the Administrator or any law enforcement
+         official upon request.8
+
+ 30) The sUAS must remain clear and yield the right of way to all other manned operations
+         and activities at all times (including, without limitation, ultralight vehicles, parachute
+         activities, parasailing activities, hang gliders, etc.).
+
+ 31) Operations shall occur under Visual Meteorological Conditions (VMC); flights under
+         special visual flight rules (SVFR) shall not be conducted.
+
+ 32) sUAS shall not be operated from any moving device or vehicle.
+
+8 This is consistent with an FAA Office of Chief Counsel Opinion, dated August 8, 2014, and prepared by Dean E.
+Griffith, AGC-220, in which it was acknowledged that the intent of 14 C.F.R. § 91.9(b) and 91.203(a), (b) is met if
+the PIC of the sUAS has access to the aircraft flight manual, registration certificate, and other required documents
+from the ground control station from which he or she is operating the sUAS. Memorandum from Mark Bury, FAA
+Assistant Chief Counsel for International Law, Legislation and Regulation, to John Duncan, FAA Flight Standards
+Service (Aug. 8, 2014); see also FAA Grant of Exemption to Astraeus Aerial, Docket No. FAA-2014-0352,
+Exemption No. 11062,pp. 16-18.
+
+                                                                                                                                                                                   4847-4394-2433.3
+February 20, 2015
+Page 19
+
+ 33) sUAS shall not be operated less than 500 feet below or less than 2,000 feet horizontally
+         from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+ 34) Operations shall not occur in congested or densely populated areas. The sUAS may not
+         operate in Class B, C, D or E airspace without written approval from the controlling
+         authority. Operations will not be conducted within a 5 NM range of the geographic
+         center of an airport as denoted on a current FAA-published aeronautical chart unless
+         permission has been obtained from the local control tower or, in the case of a non-
+         towered airport, written notice has been provided to the airport's management, and the
+         operation is conducted in accordance with a NOTAM as required by the grant of this
+         exemption.
+
+ 35) Take-off and landing operations shall be conducted over private and/or controlled-access
+         property (i.e. no unauthorized persons). Permission from the landowner, controller,
+         manager or authorized representative will be obtained for each flight to be conducted.
+
+ 36) Any incident, accident, or flight operation that transgresses the lateral or vertical
+         boundaries of the operational area as defined by the applicable COA shall be reported to
+         the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents shall be
+         reported to the National Transportation Safety Board (NTSB) per instructions contained
+         on the NTSB Web site: www.ntsb.gov.
+
+ 37) UAS operations may not be conducted during night, as defined by 14 C.F.R. § 1.1. All
+         operations must be conducted under visual meteorological conditions ("VMC"). Flights
+         under special visual flight rules (SVFR) are not authorized.
+
+                                                                                                                                                                                   4847-4394-2433.3
+February 20, 2015
+Page 20
+
+                                                APPENDIX C
+
+                   SMALL UNMANNED AERIAL SYSTEM DESCRIPTION
+
+                                              Draganfly X4-ES
+
+Draganfly systems have been approved by the FAA for operational COAs and have a
+demonstrated safety track record. The Draganfly UAS platforms were the first to officially fly
+at the first operational the FAA's UAS Test Sites (Northern Plains UAS Test Site, North
+Dakota). Many customers from emergency services, to education to police and even
+commercial operations for industrial inspections have been given approval to fly in US,
+Canada, UK, Australia, Japan, amongst others. As to the X4-ES, the FAA has granted COAs
+to the Mesa County Sheriff's Office and the Grand Forks Sheriff's Office.
+
+Systems Overview
+
+The Draganflyer X4-ES system can carry payloads up to 1.8 lbs. The X4-ES operates with a
+maximum wind threshold of 30 mph for sustained winds and wind gusts up to 35 mph. The
+system contains 11 sensors on-board, including 3 gyros, 3 magnetometers, 3 accelerometers, a
+barometric pressure sensor and GPS module. This sensor package provides for default of level
+flight and does not allow the X4-ES to go beyond a 38 degree angle. This eliminates the
+difficult portion of flying. Meaning that, the operator is only steering the aircraft (controlling
+the system's latitudinal direction) and adjusting its altitude.
+
+All flight operations are capable of control through GPS, making the system easy to navigate. In
+the case of lost GPS, a manual user flight mode is enabled which allows the pilot-in-command
+("PIC") to provide manual navigation inputs to assist in landing the vehicle. At all times
+through the ground control station, the PIC is able to monitor the sUAS location through the
+mapping function and is provided with continuous altitude information. In GPS mode, the
+aircraft compensates for wind at the altitude the system is operating. The end result is a system
+capable of gathering high quality aerial data at much higher wind thresholds and is a trait that is
+imperative for many aerial inspection operations. While GPS Position Hold mode is one
+available benefit of the system, it is not necessary for operation of the aircraft. When GPS is
+either not available or has degraded, the PIC may still ensure safe operations.
+
+The X4-ES has an operational range of over 1/2 a mile,9 but was designed to be flown within
+the direct Visual Line-of-Sight ("VLOS") of the operator at all times. All flight operations take
+place as a result of direct input by the PIC. Flight adjustments are made based on a two
+joystick control system, which allows for very precise movements and makes it extremely
+
+9 Control transmission signal is rated for in excess of 1/2 mile; however, battery flight endurance limits require the
+  operator to restrict maximum distance to ensure safe return of the sUAS.
+
+                                                                                                                                                                                   4847-4394-2433.3
+February 20, 2015
+Page 21
+
+easy to navigate in either Manual or GPS Position Hold. In the Manual mode, flight altitude is
+maintained based on barometric pressure and can be easily adjusted by the PIC using the left
+joystick. In the GPS Position Hold mode, the system is designed to hold its GPS position (and
+altitude and heading) if the PIC is not explicitly commanding the system to move. Camera
+stability is further enhanced by a 2 axis brushless mount to ensure the most stability and least
+amount of vibration regardless of the wind speed.
+
+The Draganfly X4-ES provides two semi-autonomous flight modes using a two joystick
+configuration and video interface. The user controls the aircraft in either a Manual/Altitude
+(Manual) Hold mode or GPS Position Hold mode to the areas of interest maintaining VLOS of
+the aircraft at all times. Instrumentation indicating heading, bearing, altitude, climb rate,
+horizontal speed, GPS position, battery level, data link, and GPS accuracy are additional aids
+made available to the PIC on the ground control station ("GCS").
+
+Autonomous operations are also available through pre-programmed flight plans, which must be
+uploaded to the aircraft prior to take-off. After departing the ground, the PIC can execute the
+preprogramed flight. At any time during the programmed flight, the PIC can provide inputs to
+abort and/or override the programmed flight to take immediate control of the aircraft. For pre-
+programmed flight, the PIC may utilize additional navigation settings, including landing zones
+and flight area (including visual no-fly zones, maximum altitude, and minimum altitude), so that
+the sUAS operates only within operator-specified flight parameters. In other words, Olsson will
+set up virtual fencing around the operational area, preventing the X4-ES and the PIC from
+operating outside the planned flight area, including altitude. This reduces the needed operating
+area by omitting the need to factor in additional room for PIC operating error.
+
+The ability to fly in both Manual mode and GPS Position Hold, as well as in a GPS deprived
+environment, makes the X4-ES one of the safest choices for both urban and nonurban
+environments. Many advanced safety features were also designed into the aircraft, including
+intelligent fault handling that allows the aircraft to detect a system fault while airborne, and to
+automatically fly back to its take-off location and land. For example, the X4-ES detects a loss
+of GPS and warns the PIC of the status. Other faults that can be detected include loss of
+communication, low battery levels, magnetic anomalies, battery cell imbalances, and
+temperature fluctuations. Prior to takeoff, the aircraft completes a sensor self-check. If an error
+is detected in the pitch, roll or yaw gyros between the time motors are engaged and takeoff, the
+aircraft will abort the takeoff and issue an alarm message. It should also be noted that the PIC
+can create maximum flight altitudes so the sUAS cannot go above a pre-set maximum altitude.
+
+                                                                                                                                                                                   4847-4394-2433.3
+February 20, 2015
+Page 22
+
+Physical Characteristics of the X4-ES
+
+         Dimensions
+                  - Width: 87cm (34.25in)
+                  - Length: 87cm (34.25in)
+                  - Height: 30cm (12in)
+
+         Weight and payload
+                  - Helicopter weight w/battery: 1,670g (3.7lbs)
+                  - Payload capacity: 800g (1.8Ibs)
+                  - Max take-off weight: 2,470g (5.4lbs)
+
+         Flight characteristics
+                  - Max climb rate: 2m/s (6.5ft/s)
+                  - Max descent rate: 2m/s (6.5ft/s)
+                  - Max turn rate: 90 degrees/sec
+                  - Approx max air speed: 50km/h (30mph)
+                  - Minimum air speed: 0km/h (0mph)
+                  - Launch type: VTOL
+                  - Max altitude ASL 2,438m (8,000ft)
+                  - Approx sound at 1 meter distance: 72db
+                  - Approx sound at 3 meters distance: 62db
+
+Landing style/type - Autonomous vertical lift
+
+Propulsion System
+              Engines - The X4-ES is powered by 4 electric direct drive brushless DC
+                  motors.
+              Batteries - The X4-ES utilizes a removable, rechargeable, lithium-polymer
+                  battery. The charge level status from the battery on the aircraft is continually
+                  monitored and real time levels are displayed on the control system used by the
+                  PIC. Predefined voltage levels indicate a low battery warning, which provides
+                  the PIC with a warning alarm that is both visual and audible. A critical battery
+                  warning alarm that is both visual and audible is also provided to the PIC. At the
+                  critical battery warning alarm, the aircraft also initiates a safe descent and land
+                  at a pre-determined controlled rate. At any time during the battery warnings,
+                  full control of the aircraft is maintained. However, ignoring the critical battery
+                  warning and overriding the descent feature could result in a critical flight
+                  system failure at which point the aircraft may crash. The battery is charged
+                  using a standard wall charger that is provided with the aircraft.
+
+                                                                                                                                                                                   4847-4394-2433.3
+February 20, 2015
+Page 23
+
+Maintenance - The X4-ES is nearly maintenance free. The airframe has only 2 ceramic
+bearings per motor and, thus, has very few moving parts. Maintenance consists of inspections
+and verification of communications performed by a qualified person prior to each flight.
+
+         Preflight checklist includes but is not limited to:
+              Visual inspection of the airframe, including the boom and canopy, side arms,
+                  landing gear, rotors, motors, and canopy;
+              Visual inspections of rotor integrity;
+              All payload system connections and components;
+              Check charge of all batteries (aerial vehicle, control system, video repeater
+                  station).
+
+Reliability ­ The X4-ES is designed for maximum reliability and to maintain performance
+over its life. The only components that experience routine wear are rotors, batteries, motors,
+and legs. Battery and motor conditions are monitored by the system with deviations reported
+to the operator.
+
+Contact with other objects during flight may cause other components, particularly rotors, and
+motor arms, to become damaged. Damaged components are likely to be detected during the
+full visual inspection of the airframe performed before each flight.
+
+TheX4-ES detects numerous conditions which may make flying unsafe, such as reduced GPS
+accuracy, magnetic anomalies, low battery charge, battery cell imbalances, and temperature
+fluctuations. Automatic pre-flight calibration checks prevent the aircraft from taking off if such
+conditions are present. An automatic preflight check also tests the calibrations of the pitch, rolls
+and yaw gyros, and aborts the takeoff and delivers an alarm message, should an error be
+detected. During flight, a degradation or loss of communications between the X4-ES and the
+ground station may initiate a failsafe action of return-to-home, where the aircraft returns to its
+point of take-off at its current altitude. At that point, the PIC may land the aircraft, or an auto-
+land is initiated in which the aircraft descends at a controlled rate from its current position. For
+the failsafe action of Return-To-Home, the X4-ES must be in GPS Position Hold mode.
+Otherwise, the aircraft is set for a default to auto-land. In the event that the system senses a low
+battery of the X4-ES during a Return-to-Home action, the aircraft defaults to the auto-land
+maneuver.
+
+Command and Control Systems - The Draganflyer GCS, which is used by the X4-ES (and
+several other Draganflyer models), allows the PIC simultaneous control over the aircraft and
+any payloads. The joysticks, located on the GCS, allow for quick navigation and the display
+screen provides all essential flight data to the PIC. Telemetry data is transmitted to the GCS at
+least once per second. The GCS display screen provides all essential data to the operator.
+
+                                                                                                                                                                                   4847-4394-2433.3
+February 20, 2015
+Page 24
+
+Displayed on GCS:
+          Barometric Altitude
+          Bearing
+          Heading10
+          Attitude
+          Ground Speed
+          Climb Rate
+          Flight Time
+          Data Link
+          Position
+          GPS Satellite (number of satellites)
+          GPS Satellite Precision Dilution of Precision (PDOP)11
+          GPS satellite errors
+          Control system battery level
+          X4-ES battery level
+          Local time
+          UAS failsafe action
+          UAS Status
+
+Onboard Flight Instruments - The X4-ES is equipped with an Inertial Navigation System (3-
+axis gyroscope, 3-axis magnetometer, 3 axis accelerometers, GPS receiver, barometric
+pressure sensor and GPS module).
+
+On-board computer systems - The X4-ES is equipped with on-board computer systems to
+monitor (sensors, battery, etc.), control (speeds, altitude, position, etc.), and communicate
+(control, telemetry, etc.) with the PIC.
+
+On-board Guidance and Navigation Equipment - The X4-Es can operate autonomously. As
+described, supra, autonomous flight first requires the PIC to initiate and complete the takeoff
+sequence, and then place the aircraft into GPS mode. The PIC also retains the ability to
+immediately take control of the X4-ES with Manual flight mode.
+
+Frequency Allocations ­ 900 MHz, 2.4 GHz, and 5.8 GHz.
+
+Flight termination link ­ A flight termination link is available to the PIC on the GCS to
+prevent a "fly away" or other potentially dangerous situation.
+
+10 The X4-ES may be pointed in one direction yet fly towards a completely different direction. In other words, the
+heading and bearing can be different. Thus, both parameters are displayed on the X4-ES GCS home screen.
+11 This is the accuracy to the real time GPS reading.
+
+                                                                                                                                                                                   4847-4394-2433.3
+February 20, 2015
+Page 25
+
+Takeoff and Landing ­ The X4ES has vertical lift autonomous launch. For takeoff, the UAS
+will takeoff and hover approximately 3-4 feet until further inputs are made by the PIC.
+Horizontal position of the aircraft is controlled by the PIC using the right joystick.
+
+Navigation System ­ In most cases, navigation of the aircraft is through the visual line-of-
+sight of the PIC. However, the X4-ES may also be operated through pre-programmed flight
+plans, which are uploaded to the aircraft prior to take-off. Once the auto-takeoff is complete,
+the PIC can execute the programmed flight which is performed through an autopilot function.
+At any time during the preprogrammed flight, the PIC can override the autopilot, abort the
+mission, and take immediate control of the aircraft. In preprogrammed flight, there are several
+navigation settings and/or tools, including landing zones and flight areas (including visual no-
+fly zones, maximum altitude, and minimum altitude). This has the effect of creating a virtual
+fencing around the operational area.
+
+Redundant Systems ­ The X4-ES combines the input from a multitude of sensors. Even
+though the data from all sensors is required for optimal system performance, dependent on the
+sensor, a single sensor malfunction is likely to result in degraded performance rather than a
+fatal response.
+
+Emergency Procedures and System Failures
+
+         Sensor Failure ­ A failure of onboard flight instruments and/or sensors will degrade
+         the X4-ES performance and will result in either a fatal critical response or a non-fatal
+         critical response.12 The type of response will depend on the nature and severity of the
+         failure. If the aircraft becomes unstable due to sensor failure, this may result in loss of
+         performance or features. In most instances, the aircraft remains in stable flight so that
+         the PIC may initiate a landing, the aircraft itself initiates an auto-land. For instance, a
+         magnetometer failure may lead to a non-fatal critical response. In extreme cases, like
+         an accelerometer failure, a fatal response may result that causes the aircraft a fatal
+         response such as a crash.
+
+         Motor Failure ­ This will cause a fatal response in flight performance if one or more
+         motors fails.
+
+         Airframe Failure ­ Depending on the nature and severity, an airframe failure may
+         result in decreased flight performance or a fatal response such as a crash, depending on
+         the nature of the airframe failure.
+
+12 A fatal response generally references a complete and catastrophic systems failure leading to the loss of control of
+the aircraft, causing it to enter an uncontrolled descent and ultimately impacting the ground or other object.
+
+                                                                                                                                                                                   4847-4394-2433.3
+February 20, 2015
+Page 26
+
+         Navigation System Failure ­ In a navigation system failure, degraded GPS will result
+         in a response warning to the pilot in which the system would be flown in manual mode.
+         This will result in degraded GPS position performance, but manual flight by the PIC is
+         not affected.
+         Power Failure ­ A complete battery failure which results in power loss to the aircraft
+         will result in a fatal response and the aircraft may shutdown and crash, if airborne.
+         Low Battery Condition ­ The PIC/operator is alerted of a low battery condition through
+         both a visual and aural warning. In a critical battery condition, the PIC/operator is
+         again alerted through an aural and visual warning, and the X4-ES will begin an auto-
+         land at a controlled and safe rate of descent.
+         Line-of-Sight Loss ­ All flight operations will be conducted with the X4-ES within
+         visual sight of the pilot. If the PIC's view becomes obstructed and line-of-sight is lost,
+         the PIC may instruct the aircraft to hover in place until line-of-sight is re-established,
+         return to the takeoff position, or land at the current position.
+         Security ­ The X4-ES and communications links are encrypted by the manufacturer's
+         proprietary software.
+
+                                                                                                                                                                                   4847-4394-2433.3
+February 20, 2015
+Page 27
+
+                                                APPENDIX D
+
+                   SMALL UNMANNED AERIAL SYSTEM DESCRIPTION
+
+                                            3D Robotics Aero-M
+
+Systems Overview
+
+The 3D Robotics Aero-M system can carry payloads up to 1.1 lbs. It operates with a maximum
+wind threshold of 25 mph. The system contains two full Inertial Measurement Unit ("IMU")
+sensor suites, one acting as the primary flight sensor and the other used as a comparison for
+monitoring IMU health and full failover functionality, if it becomes necessary. The system
+also contains two barometer sensors. This eliminates the difficult portion of flying. The pilot-
+in-command ("PIC") has the ability to control the speed, roll, yaw and pitch of the aircraft.
+
+The Aero-M has an operational range of approximately 250 acres,13 but was designed to be
+flown within the direct Visual Line-of-Sight ("VLOS") of the operator at all times. All flight
+operations take place as a result of direct input by the PIC. Flight adjustments are made based
+on a two control stick system that is located on the Ground Control Station ("GCS").
+Instrumentation indicating heading, altitude, climb rate, horizontal speed, GPS position, battery
+level, data link, and GPS accuracy are additional aids made available to the PIC through the
+flight data screen located on the GCS. The aircraft was designed to operate in six different flight
+modes. In the basic "Manual" operations mode, the PIC controls all axes of the Aero-M without
+any assistance from the system's autopilot function. The remaining control methods are semi-
+autonomous in functionality.
+
+An autonomous operations, or "Auto," mode is available through available pre-programmed
+flight plans, which must be uploaded to the aircraft prior to take-off using the 3D Robotics
+Mission Planner software application. The PIC may set the Aero-M to either an automatic
+takeoff or manual takeoff setting. After departing the ground, the aircraft initiates the
+preprogramed flight. At any time during the programmed flight, the PIC can provide inputs to
+abort and/or override the programmed flight to take immediate control of the Aero-M. For pre-
+programmed flight, the PIC may utilize additional navigation settings, including landing zones
+and flight area (including visual no-fly zones, maximum altitude, and minimum altitude), so that
+the Aero-M operates only within operator-specified flight parameters. In other words, Olsson
+will set up virtual fencing around the operational area, preventing the Aero-M and the PIC from
+operating outside the planned flight area, including altitude. This reduces the needed operating
+area by omitting the need to factor in additional room for PIC operating error.
+
+13 Control transmission signal is rated for in excess of 1/2 mile; however, battery flight endurance limits require the
+
+  operator to restrict maximum distance to ensure safe return of the sUAS.
+
+                                                                                                                                                                                   4847-4394-2433.3
+February 20, 2015
+Page 28
+
+In a "Fly by Wire" mode, the autopilot manages the control surfaces and navigates the Aero-M
+based on direction by the PIC. In a "Return to Launch" mode, the Aero-M returns to the
+position where it acquired GPS lock and enters a circle pattern at an altitude of 100 meters
+which is programmable by the operator. Similarly, in the "Loiter" mode, the Aero-M enters a
+circle pattern with a radius of 60 meters at its current altitude, which is again programmable by
+the PIC. Finally, "Stabilize" mode allows for manual control by the PIC. When the PIC releases
+the right control stick, however, the Aero-M will automatically return to level flight.
+
+The Aero-M utilizes GPS for many modes of operation, making the system easy to navigate. In
+the case of lost or degraded GPS signal, the PIC may enable either the Manual or Fly by Wire
+operations modes to navigate the aircraft to a safe landing point. At all times through the GCS,
+the PIC is able to monitor the location of the Aero-M through the flight data screen.
+
+Many advanced safety features were also designed into the aircraft, including intelligent fault
+handling that allows the aircraft to detect a system fault while airborne, and to automatically
+initiate the Return-to-Launch operations mode. For example, the Aero-M detects a loss of GPS
+and warns the PIC of the status. Other faults that can be detected include loss of
+communication, and low battery levels. The PIC can also create maximum flight altitudes so
+the Aero-M cannot go above a pre-set maximum altitude.
+
+Physical Characteristics of the Aero-M
+
+         Dimensions
+                  - Width: 188 cm (74 in) (wingspan)
+                  - Length: 129 cm (51 in)
+
+         Weight and payload
+                  - Aircraft weight w/battery: 6.8 lbs
+                  - Payload capacity: 1.1 lbs
+                  - Max take-off weight: 7.9 lbs
+
+         Flight characteristics
+                  - Maximum Turbulence Rating: light
+                  - Radio Range: .6 miles14
+                  - Flight Time: 40 minutes
+                  - Max Operational Wind Speed: 25 mph (11 m/s)
+                  - Approx max airspeed: 56 mph (90 kmh)
+                  - Approx min airspeed: 22 mph (35 kmh)
+                  - Max altitude ASL: approximately 8,000 feet15
+                  - Landing Accuracy: 6.5 feet latitude x 131 feet longitude (2 m x 40 m)
+
+14 This figure reflects estimated values at ideal operating conditions. Environmental conditions may affect flight
+time, range, area coverage, and ground sampling distance.
+15 Olsson will not operate the aircraft above 400 ft. AGL.
+
+                                                                                                                                                                                   4847-4394-2433.3
+February 20, 2015
+Page 29
+
+Landing style/type ­ Approach and controlled descent / manual or automatic landing
+available
+
+Propulsion System
+              Engines - The Aero-M is powered by 1 Tiger AT2820-7, 830 kV motor that is
+                  connected to a Gemfan 11x7 propeller.
+              Batteries - The Aero-M utilizes a removable, rechargeable, lithium-polymer
+                  battery. The charge level status from the battery on the aircraft is continually
+                  monitored and real time levels are displayed on the control system used by the
+                  PIC. Predefined voltage levels indicate a low battery warning, which provides
+                  the PIC with a warning alarm that is both visual and audible. In such an
+                  instance, the aircraft will automatically return to circle above the point of
+                  launch/take-off and circle overhead. If the battery reaches 25% of charge, the
+                  aircraft will result in an additional low battery alarm that is both visual and
+                  audible. At any time during the battery warnings, full control of the aircraft is
+                  maintained. Ignoring the critical battery warning could result in a critical flight
+                  system failure. The battery is charged using a standard wall charger that is
+                  provided with the aircraft.
+
+Maintenance - The Aero-M is nearly maintenance free. The airframe has only 2 ceramic
+bearings in its motor and, thus, has very few moving parts. Maintenance consists of
+inspections and verification of communications performed by a qualified person prior to each
+flight.
+
+         Preflight checklist includes but is not limited to:
+              Visual inspection of the airframe, including the airframe, tail and tail boom, the
+                  servo rods, airspeed sensor, and proper balance of the aircraft;
+              All payload system connections and components;
+              Check charge of all batteries (aerial vehicle and control system).
+
+Reliability ­ The Aero-M is designed for maximum reliability and to maintain performance
+over its life. The only components that experience routine wear are the propeller, batteries,
+motor, and servos. Battery conditions are monitored by the system with deviations reported to
+the operator.
+
+Contact with other objects during flight may cause other components, particularly the
+propeller, wings and servos to become damaged. Damaged components are likely to be
+detected during the full visual inspection of the airframe performed before each flight.
+
+                                                                                                                                                                                   4847-4394-2433.3
+February 20, 2015
+Page 30
+
+The Aero-M detects numerous conditions which may make flying unsafe, such as reduced GPS
+accuracy, low battery charge, and lost-link with the GCS. Automatic pre-flight calibration
+checks prevent the aircraft from taking off if such conditions are present. During flight, a
+degradation or loss of communications between the Aero-M and the GCS may initiate a failsafe
+action of Return-to-Launch. This is displayed visually on the GCS. At that point, the PIC may
+land the aircraft, or an auto-land is initiated in which the aircraft descends at a controlled rate
+from its current position.
+
+Command and Control Systems - The GCS allows the PIC simultaneous control over the
+aircraft and any payloads. The right and left control sticks are located on the GCS and permit
+quick navigation. The flight data display screen provides all essential flight data to the PIC.
+The transmission of telemetry data to the GCS is selectable to the PIC at a rate up to 20 hz.
+
+Displayed on GCS:
+          Barometric Altitude
+
+          Heading
+          Bank Angle
+          Attitude
+          Ground Speed
+          Climb Rate
+          Flight Time
+          Ground Station Signal
+          Position (Latitude and Longitude)
+          Mode of Operation
+          GPS Satellite (number of satellites)
+          GPS Satellite HDOP
+          GPS Status
+          GCS Battery Status
+          Aero-M Battery Status
+          Local time
+          UAS Failsafe Action (e.g., low battery, etc.)
+
+Onboard Flight Instruments - The Aero-M is equipped with an Inertial Navigation System
+(3- axis gyroscope, 3-axis magnetometer, 3 axis accelerometers, GPS receiver, barometric
+pressure sensor and GPS module).
+
+On-board computer systems - The Aero-M is equipped with on-board computer systems to
+monitor (sensors, battery, etc.), control (speeds, altitude, position, etc.), and communicate
+(control, telemetry, etc.) with the PIC.
+
+                                                                                                                                                                                   4847-4394-2433.3
+February 20, 2015
+Page 31
+
+On-board Guidance and Navigation Equipment - The Aero-M can operate autonomously
+for take-off, inflight operations, and landing. In automatic takeoff, the PIC must set the aircraft
+to autonomous mode and it then senses direction of movement and launches the aircraft in that
+direction. For autonomous inflight operations 3D Robotics utilizes the Mission Planner
+software application. Mission Planner is a computer-based application for the PIC or operator
+to build a flight plan that is loaded to the Aero-M prior to takeoff. In automatic landing, the
+PIC must input a pattern of waypoints into a mission prior to takeoff. The waypoints are set at
+different locations and altitudes so that the aircraft gradually descends in a controlled and
+gradual manner to land safely. The PIC retains the ability to immediately take control of the
+Aero-M with a manual flight mode.
+
+The Aero-M has six different operations modes:
+     Auto: This is used for autonomous missions preprogrammed using the 3D Robotics
+         Mission Planner software application.
+     Fly by Wire: An assisted manual control where the autopilot system manages the
+         flight control surfaces and navigates the aircraft based on inputs from the PIC.
+     Return-to-Launch: This mode directs the aircraft tto circle over the takeoff or launch
+         point. The aircraft will enter a circle pattern at an altitude of 100 meters.
+     Loiter: By selecting this mode, the PIC directs the aircraft to enter a circle pattern with
+         a radius of 60 meters at the current altitude. The PIC may adjust the position of the
+         circle pattern with the right control stick.
+     Stabilize: This mode consists of manual control by the PIC with an additional
+         safeguard that returns the aircraft to a level flight orientation with release of the right
+         control stick.
+     Manual: This is full manual control without assistance of the autopilot.
+
+Frequency Allocations - 900 MHz, 2.4 GHz, and 5.8 GHz.
+
+Takeoff and Landing ­ Manual and automatic takeoff and landing functions exist on the
+Aero-M. In automatic takeoff, the PIC must set the aircraft to autonomous mode and it then
+senses direction of movement. The PIC stands into the wind holding the aircraft above his or
+her head. The PIC then runs and throws the Aero-M at an upwards angle. The aircraft senses
+the throw, powers the motor, and climbs to the altitude specified by the "takeoff" waypoint
+preprogrammed in the Mission Planner application uploaded to the aircraft prior to flight. In
+manual mode, the Aero-M is launched into the air from the same running position used in
+automatic takeoff, however, the PIC must immediately adjust the GCS to control the aircraft
+once it is airborne.
+
+In automatic landing, the PIC must input a pattern of waypoints into a mission, using the
+Mission Planner software application, prior to takeoff. The waypoints are set at different
+locations and altitudes so that the aircraft gradually descends in a controlled and gradual
+
+                                                                                                                                                                                   4847-4394-2433.3
+February 20, 2015
+Page 32
+
+manner to land safely. In manual landing mode, the PIC directs the Aero-M to a circle pattern
+(similar to a traffic pattern used in manned aircraft flight), followed by a final approach pattern
+flown into the wind at decreasing altitude.
+
+Navigation System ­ The Aero-M is capable of navigation solely by the visual line-of-sight
+of the PIC and in manual mode operation. However, the aircraft may also be operated through
+pre-programmed flight plans, which are uploaded to the aircraft prior to take-off. An auto
+takeoff may be performed, after which the aircraft then begins its preprogrammed flight plan.
+Alternatively, the PIC may conduct a manual takeoff and then initiate the preprogrammed
+flight plan. At any time during the preprogrammed flight, the PIC can override the autopilot,
+abort the mission, and take immediate control of the aircraft. The aircraft supports complex
+and simple geo-fencing features that allow the PIC to create vertical and horizontal virtual
+walls to prevent the aircraft from operating outside that preprogrammed area.
+
+Redundant Systems -- The Aero-M combines the input from a multitude of sensors. Even
+though the data from all sensors is required for optimal system performance, dependent on the
+sensor, a single sensor malfunction is likely to result in degraded performance rather than a
+fatal response.
+
+Emergency Procedures and System Failures
+
+         Motor Failure - This will cause a fatal response in flight performance if the motor
+         fails. However, the flight control surfaces will remain responsive and the aircraft can
+         glide to the ground under manual control.
+
+         Airframe Failure ­ Depending on the nature and severity, an airframe failure may
+         result in decreased flight performance or a fatal response16.
+
+         Navigation System Failure ­ In a navigation system failure, or loss of communications
+         channels required for autonomous operations, a failsafe visual and aural warning will
+         display on the GCS and the Aero-M will initiate Return to Launch mode. Manual
+         control may also be initiated on the GCS.
+
+         Power Failure ­ A complete battery failure which results in power loss to the aircraft
+         will result in a fatal response.
+
+         Low Battery Condition ­ The PIC is alerted of a low battery condition through both a
+         visual and aural warning, and the Aero-M initiates Return to Launch mode where it
+
+16 In a fatal response, the autopilot will maintain the aircraft operating above stall speed and it will descend along
+its flight path. Assuming the aircraft is within the VLOS of the PIC, the PIC would then take manual control and
+land the aircraft.
+
+                                                                                                                                                                                   4847-4394-2433.3
+February 20, 2015
+Page 33
+
+         enters a circle pattern. In a critical battery condition, the PIC is again alerted through
+         an aural and visual warning.
+         GCS Fail or Shutdown ­ A failure or shutdown of the GCS automatically initiates
+         Return-to-Launch mode. In "Auto" mode, the aircraft will continue on its mission.
+         Line-of-Sight Loss ­ All flight operations will be conducted with the Aero-M within
+         visual line-of-sight of the PIC. If the PIC's view becomes obstructed and line-of-sight
+         is lost, the PIC may immediately place the aircraft into the Return to Launch or Loiter
+         modes of operations.
+         Security ­ The Aero-M and communications links are encrypted by the manufacturer's
+         proprietary software.
+
+                                                                                                                                                                                   4847-4394-2433.3
+February 20, 2015
+Page 34
+
+                                                APPENDIX E
+
+                   SMALL UNMANNED AERIAL SYSTEM DESCRIPTION
+
+                                              3D Robotics X8+
+
+Systems Overview
+
+The 3D Robotics X8+ system can carry payloads up to 1.7 lbs. The system contains two full
+Inertial Measurement Unit (IMU) sensor suites, one acting as the primary flight sensor and the
+other used to compare data inflight and failover functionality, if it becomes necessary. The
+system also contains a barometer sensor. This eliminates the difficult portion of flying. The
+pilot-in-command ("PIC") has the ability to control the speed, roll, yaw and pitch of the
+aircraft.
+
+The X8+ was designed to be flown within the direct Visual Line-of-Sight ("VLOS") of the
+operator at all times. All flight operations take place as a result of direct input by the PIC. Flight
+adjustments are made based on a two control stick system that is located on the Ground Control
+Station ("GCS"). Instrumentation indicating heading, altitude, horizontal speed, GPS position,
+battery level, data link, and GPS accuracy are additional aids made available to the PIC through
+the flight data screen located on the GCS. The aircraft was designed to operate in three different
+flight modes. In the basic "Manual" operations mode, the PIC controls all axes of the X8+
+without any assistance from the system's autopilot function.
+
+An autonomous operations, or "Auto," mode is available through available pre-programmed
+flight plans, which must be uploaded to the aircraft prior to take-off using the 3D Robotics
+Mission Planner software application. The PIC may set the X8+ to either an automatic takeoff
+or manual takeoff setting. At any time during the programmed flight, the PIC can provide inputs
+to abort and/or override the programmed flight to take immediate control of the aircraft. For
+pre-programmed flight, the PIC may utilize additional navigation settings, including landing
+spots and flight area (including visual no-fly zones, maximum altitude, and minimum altitude),
+so that the aircraft operates only within operator-specified flight parameters. In other words,
+Olsson will set up virtual fencing around the operational area, preventing the X8+ and the PIC
+from operating outside the planned flight area, including altitude. This reduces the needed
+operating area by omitting the need to factor in additional room for PIC operating error. In
+addition to the pre-programmable parameters, the X8+ is also set to default limits of 300 meters
+in distance and 100 meters in altitude.
+
+In a "Return-to-Launch" mode, the X8+ returns to the position where it acquired GPS lock and
+completes an automatic landing. Similarly, in the "Loiter" mode, the X8+ enters a hover at its
+current altitude, which is again directed by the PIC on the GCS. In "Land" operations mode, the
+X8+ initiates an automatic landing at its current location.
+
+                                                                                                                                                                                   4847-4394-2433.3
+February 20, 2015
+Page 35
+
+The X8+ utilizes GPS for many modes of operation, making the system easy to navigate. In the
+case of lost or degraded GPS signal, the aircraft automatically switches to Manual operations
+mode so that the PIC may navigate the aircraft to a safe landing point. At all times through the
+GCS, the PIC is able to monitor the location of the X8+ through the flight data screen.
+
+Many advanced safety features were also designed into the aircraft, including intelligent fault
+handling that allows the aircraft to detect a system fault while airborne, and to automatically
+initiate the Return-to-Launch operations mode. For example, the X8+ detects a loss of GPS,
+warns the PIC of the status and automatically enters Manual operations mode. Other faults that
+can be detected include loss of communication, and low battery levels. The PIC also comes
+with default geo-fence settings that limit the aircraft's operating altitude and operating
+distance.
+
+Physical Characteristics of the X8+
+
+         Dimensions
+                  - Width: 35 cm
+                  - Length: 51 cm
+                  - Height: 20 cm
+
+         Weight and payload
+                  - Aircraft weight w/battery: 5.6 lbs
+                  - Payload capacity: 1.7 lbs
+                  - Max take-off weight: 7.3 lbs
+
+         Flight characteristics
+                  - Maximum Turbulence Rating: light
+                  - Radio Range: .6 miles17
+                  - Flight Time: 15 minutes
+                  - Airspeed: 14.5 mph default (6.5 m/s)
+                  - Max altitude ASL: approximately 8,000 feet (MSL)18
+
+Landing style/type ­ vertical lift / manual or automatic landing available
+
+Propulsion System
+              Engines - The X8+ is powered by SunnySky V2216-12 KV800 II motors that
+                  are connected to 8 APC propellers.
+              Batteries - The X8+ utilizes a removable, rechargeable, lithium-polymer
+                  battery. The charge level status from the battery on the aircraft is continually
+                  monitored and real time levels are displayed on the control system used by the
+
+17 This figure reflects estimated values at ideal operating conditions. Environmental conditions may affect flight
+time, range, area coverage, and ground sampling distance.
+18 Olsson will not operate the aircraft above 400 AGL.
+
+                                                                                                                                                                                   4847-4394-2433.3
+February 20, 2015
+Page 36
+
+PIC. Predefined voltage levels indicate a low battery warning, which provides
+the PIC with a warning alarm that is both visual and audible. In such an
+instance, the aircraft will automatically initiate a landing at its current location.
+At any time during the battery warnings, full control of the aircraft is
+maintained. The battery is charged using a standard wall charger that is
+provided with the aircraft.
+
+Maintenance - The X8+ is nearly maintenance free. Maintenance consists of inspections and
+verification of communications performed by a qualified person prior to each flight.19
+
+Preflight checklist includes but is not limited to:
+     Visual inspection of the aircraft, including the airframe, the front and rear arms,
+         the propellers, and GPS mast;
+     All payload system connections and components;
+     Check charge of all batteries (aircraft and control system).
+
+Reliability ­ The X8+ is designed for maximum reliability and to maintain performance over
+its life. The only components that experience routine wear are the propeller, batteries, motor,
+and servos. Battery conditions are monitored by the system with deviations reported to the
+PIC.
+
+Contact with other objects during flight may cause other components, particularly the
+propeller, wings and servos to become damaged. Damaged components are likely to be
+detected during the full visual inspection of the airframe performed before each flight.
+
+The X8+ detects numerous conditions which may make flying unsafe, such as reduced GPS
+accuracy, low battery charge, and lost-link with the GCS. Automatic pre-flight calibration
+checks prevent the aircraft from taking off if such conditions are present. During flight, a
+degradation or loss of communications between the X8+ and the GCS will initiate a failsafe
+action of Return-to-Launch and complete an automatic landing. This is displayed visually on the
+GCS.
+
+Command and Control Systems - The GCS allows the PIC simultaneous control over the
+aircraft and any payloads. The right and left control sticks are located on the GCS and permit
+quick navigation. The flight data display screen provides all essential flight data to the PIC.
+The transmission of telemetry data to the GCS is selectable to the PIC at a rate up to 20 hz.
+
+Displayed on GCS:
+          Barometric Altitude
+          Ground Speed
+
+19 Olsson specific maintenance procedures can be found in the Olsson GOM.
+
+                                                                           4847-4394-2433.3
+February 20, 2015
+Page 37
+
+          Flight Time
+          Ground Station Signal
+          Position (Latitude and Longitude)
+          Mode of Operation
+          GPS Satellite (number of satellites)
+          GPS Status
+          GCS Battery Status
+          X8+ Battery Status
+          Meters from Launch Point
+          UAS Failsafe Action (e.g., low battery, etc.)
+
+Onboard Flight Instruments - The X8+ is equipped with an Inertial Navigation System (3-
+axis gyroscope, 3-axis magnetometer, 3 axis accelerometers, GPS receiver, barometric
+pressure sensor and GPS module).
+
+Onboard Computer Systems - The X8+ is equipped with on-board computer systems to
+monitor (sensors, battery, etc.), control (speeds, altitude, position, etc.), and communicate
+(control, telemetry, etc.) with the PIC.
+
+On-board Guidance and Navigation Equipment - The X8+ can operate autonomously for
+take-off, inflight operations, and landing. In automatic takeoff, the PIC must first arm the X8+
+and its propellers in standard mode. The PIC then switches the X8+ to automatic mode and
+raises the throttle. For autonomous inflight operations 3D Robotics utilizes the Mission
+Planner software application. Mission Planner is a computer-based application for the PIC or
+operator to build a flight plan that is loaded to the X8+ prior to takeoff. In automatic landing,
+the PIC must input a landing waypoint into a mission prior to takeoff. The aircraft will land
+automatically at the landing waypoint, but the PIC must lower the throttle fully down so that
+the propellers disarm after the aircraft completes the landing. The PIC retains the ability to
+immediately take control of the X8+ with manual flight mode.
+
+The X8+ has three different operations modes:
+     Auto: This is used for autonomous missions preprogrammed using the 3D Robotics
+         Mission Planner software application.
+     Loiter: By selecting this mode, the PIC directs the aircraft to enter a hover.
+     Standard: This is full manual control without assistance of the autopilot.
+
+The X8+ has two additional landing modes:
+     Land: By selecting this switch, the PIC directs the X8+ to end its flight and land at the
+         current position. The throttle joystick must be lowered fully down so that the X8+
+         automatically disarms the propellers upon touchdown. During the land sequence, the
+         PIC may reposition the X8+ using the right joystick.
+
+                                                                                                                                                                                   4847-4394-2433.3
+February 20, 2015
+Page 38
+
+     Return-to-Launch: With this switch selected, the X8+ returns to the launch point and
+         initiates an automatic landing. The throttle joystick must be lowered fully down so that
+         the X8+ automatically disarms its propellers upon touchdown. During the automatic
+         landing, the PIC may reposition the X8+ using the right joystick. Note that the Return-
+         to-Launch landing point is the location where the X8+ was armed prior to takeoff.
+
+Frequency Allocations ­ 900 MHz, 2.4 GHz, and 5.8 GHz.
+
+Takeoff and Landing ­ Manual and automatic takeoff and landing functions exist on the
+X8+. Automatic takeoff requires the use of the Mission Planner software application. To
+initiate the automatic takeoff, the PIC must arm the aircraft and its propellers and then switch
+the aircraft into automatic mode and raise the throttle. For manual takeoff, the X8+ must be
+armed at which point the motors will spin. The X8+ will also initiate an automatic landing
+when operating in an autonomous mode using the Mission Planner application. In the Return-
+to-Launch mode, the X8+ will return to its point of launch and automatically land. Similarly,
+in the Land mode, the X8+ will land at its current location.
+
+Navigation System ­ The X8+ requires GPS lock prior to operation. The X8+ is capable of
+navigation solely by the visual line-of-sight of the PIC and in manual mode operation.
+However, the aircraft may also be operated through pre-programmed flight plans, which are
+uploaded to the aircraft prior to take-off. An auto takeoff may be performed, after which the
+aircraft then begins its preprogrammed flight plan. Alternatively, the PIC may conduct a
+manual takeoff and then initiate the preprogrammed flight plan. At any time during the
+preprogrammed flight, the PIC can override the autopilot, abort the mission, and take
+immediate control of the aircraft. The X8+ is set to default geo-fence settings that prevent the
+aircraft from exceeding an altitude of 100m (328 ft), and a distance of 300m (984 ft) from the
+GCS. If those limitations are exceeded, the aircraft automatically initiates the Return-to-
+Launch mode and lands.
+
+Redundant Systems ­ The X8+ combines the input from a multitude of sensors. Even though
+the data from all sensors is required for optimal system performance, dependent on the sensor,
+a single sensor malfunction is likely to result in degraded performance rather than a fatal
+response.
+
+Emergency Procedures and System Failures
+         Airframe Failure ­ Depending on the nature and severity, an airframe failure may
+         result in decreased flight performance or a fatal response20.
+
+20 In a fatal response, the autopilot will maintain the aircraft operating above stall speed and it will descend along
+its flight path. Assuming the aircraft is within the VLOS of the PIC, the PIC would then take manual control and
+lands the aircraft.
+
+                                                                                                                                                                                   4847-4394-2433.3
+February 20, 2015
+Page 39
+
+         Navigation System Failure ­ The X8+ requires GPS for operations. GPS must lock
+         prior to takeoff. If the X8+ loses GPS lock in flight, an aural and visual warning is
+         provided to the PIC. The aircraft automatically switches into manual control (altitude
+         hold mode) on the GCS. The PIC may also change this failsafe from manual control to
+         an automatic landing.
+         Power Failure ­ A complete battery failure which results in power loss to the aircraft
+         will result in a fatal response.
+         Low Battery Condition ­ The PIC is alerted of a low battery condition through both a
+         visual and aural warning, and the X8+ initiates an immediate landing mode at its
+         current location.
+         GCS Fail or Shutdown ­ A failure or shutdown of the GCS automatically initiates
+         Return to Launch mode. In "Auto" mode, the aircraft will continue on its mission.
+         GCS Signal Loss ­ If the X8+ loses contact with the GCS, the aircraft returns to the
+         launch point and lands automatically. The PIC is alerted to this situation with a
+         blinking yellow status LED on the GCS.
+         Line-of-Sight Loss ­ All flight operations will be conducted with the X8+ within visual
+         line-of-sight of the PIC. The X8+ is set to a default of a geo-fence of 300m (984 ft). If
+         the X8+ travels beyond the 300m geo-fence, it automatically returns to its launch point
+         and lands. The default setting may be disabled by the PIC.
+         Altitude Failsafe ­ The X8+ has a 100m (328 ft) altitude geo-fence enabled by default.
+         If the geo-fence is exceeded, the X8+ automatically switches to Return-to-Launch.
+         Security ­ The X8+ and communications links are encrypted by the manufacturer's
+         proprietary software.
+
+                                                                                                                                                                                   4847-4394-2433.3
+February 20, 2015
+Page 40
+
+                                                APPENDIX F
+                                 FEDERAL REGISTRY SUMMARY
+Pursuant to 14 C.F.R. Part 11, Olsson offers the following summary for publication in the
+Federal Register, should publication be necessary:
+         Olsson Associates seeks an exemption from the following rules:
+         14 C.F.R. Part 21, Subpart H; 14 C.F.R. § 91.7; 14 C.F.R. § 91.9(b)(2); 14
+         C.F.R. § 91.113; 14 C.F.R. § 61.113(a)-(b); 14 C.F.R. § 61.133(a); 14 C.F.R. §
+         91.119(c); 14 C.F.R. § 91.151; 14 C.F.R. § 91.203; 14 C.F.R. § 91.405(a)-(b); 14
+         C.F.R. § 91.407(a)(1); 14 C.F.R. § 91.409(a)(1)-(2); and, 14 C.F.R. § 91.417(a).
+Approval of these exemptions will permit Olsson to conduct commercial unmanned
+aircraft systems ("UAS") operations in a number of industries and applications. The
+exemptions will enhance safety by reducing risk to the general public and property
+owners from the risk and hazards associated with performing equivalent work through
+conventional manned aircraft.
+
+                                                                                                                                                                                   4847-4394-2433.3
+

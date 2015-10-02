@@ -1,0 +1,1693 @@
+June 23, 2015
+
+                                                           Exemption No. 11891
+                                                           Regulatory Docket No. FAA­2015­0778
+
+Ms. Constance M. Pendleton, Esq.
+Mr. Davis Wright Tremaine LLP
+Counsel for Idaho Power Company
+1919 Pennsylvania Avenue, NW.
+Suite 800
+Washington, DC 20006
+
+Dear Ms. Pendleton and Mr. Wright:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter dated March 23, 2015, you petitioned the Federal Aviation Administration (FAA) on
+behalf of Idaho Power Company (hereinafter petitioner or operator) for an exemption. The
+petitioner requested to operate an unmanned aircraft system (UAS) to conduct low altitude
+environmental research and resource monitoring, including monitoring of salmon spawning
+activity in the Snake River.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner is a MikroKopter sUAS.
+                                                                                                                 2
+
+The petitioner requested relief from 14 CFR part 21, Certification procedures for products
+and parts, Subpart H--Airworthiness Certificates. In accordance with the statutory criteria
+provided in Section 333 of Public Law 112-95 in reference to 49 U.S.C. § 44704, and in
+consideration of the size, weight, speed, and limited operating area associated with the
+aircraft and its operation, the Secretary of Transportation has determined that this aircraft
+meets the conditions of Section 333. Therefore, the FAA finds that the requested relief from
+14 CFR part 21, Certification procedures for products and parts, Subpart H--Airworthiness
+Certificates, and any associated noise certification and testing requirements of part 36, is
+not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+ They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+ The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+ A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, Idaho Power Company is granted an exemption from
+14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a), 91.7(a), 91.119(c),
+91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a) and (b), to
+the extent necessary to allow the petitioner to operate a UAS to perform aerial data collection.
+This exemption is subject to the conditions and limitations listed below.
+                                                                                             3
+
+Conditions and Limitations
+
+In this grant of exemption, Idaho Power Company is hereafter referred to as the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+1. Operations authorized by this grant of exemption are limited to the MikroKopter
+    sUAS when weighing less than 55 pounds including payload. Proposed operations of
+    any other aircraft will require a new petition or a petition to amend this exemption.
+
+2. Operations for the purpose of closed-set motion picture and television filming are
+    not permitted.
+
+3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+    exemption holder may use either groundspeed or calibrated airspeed to determine
+    compliance with the 87 knot speed restriction. In no case will the UA be operated at
+    airspeeds greater than the maximum UA operating airspeed recommended by the
+    aircraft manufacturer.
+
+4. The UA must be operated at an altitude of no more than 400 feet above ground level
+    (AGL). Altitude must be reported in feet AGL.
+
+5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+
+    This requires the PIC to be able to use human vision unaided by any device other than
+    corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+    U.S. driver's license.
+
+6. All operations must utilize a visual observer (VO). The UA must be operated within
+    the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+    to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+    capability. The VO and PIC must be able to communicate verbally at all times;
+    electronic messaging or texting is not permitted during flight operations. The PIC
+    must be designated before the flight and cannot transfer his or her designation for the
+    duration of the flight. The PIC must ensure that the VO can perform the duties
+    required of the VO.
+
+7. This exemption and all documents needed to operate the UAS and conduct its
+    operations in accordance with the conditions and limitations stated in this grant of
+    exemption, are hereinafter referred to as the operating documents. The operating
+    documents must be accessible during UAS operations and made available to the
+    Administrator upon request. If a discrepancy exists between the conditions and
+    limitations in this exemption and the procedures outlined in the operating documents,
+    the conditions and limitations herein take precedence and must be followed.
+                                                                                                            4
+
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+                                                                                                            5
+
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+    exemption holder may apply for a new or amended COA if it intends to conduct
+    operations that cannot be conducted under the terms of the attached COA.
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+    number, registered in accordance with 14 CFR part 47, and have identification
+                                                                                                               6
+
+       (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+       be as large as practicable.
+
+   23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+       any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+       PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+       These documents must be made available to the Administrator or any law enforcement
+       official upon request.
+
+   24. The UA must remain clear and give way to all manned aviation operations and
+       activities at all times.
+
+   25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+   26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+       persons, vessels, vehicles, and structures unless:
+          a. Barriers or structures are present that sufficiently protect nonparticipating persons
+             from the UA and/or debris in the event of an accident. The operator must ensure
+             that nonparticipating persons remain under such protection. If a situation arises
+             where nonparticipating persons leave such protection and are within 500 feet of
+             the UA, flight operations must cease immediately in a manner ensuring the safety
+             of nonparticipating persons; and
+          b. The owner/controller of any vessels, vehicles or structures has granted permission
+             for operating closer to those objects and the PIC has made a safety assessment of
+             the risk of operating closer to those objects and determined that it does not
+             present an undue hazard.
+
+       The PIC, VO, operator trainees or essential persons are not considered
+       nonparticipating persons under this exemption.
+
+   27. All operations shall be conducted over private or controlled-access property with
+       permission from the property owner/controller or authorized representative.
+       Permission from property owner/controller or authorized representative will be
+       obtained for each flight to be conducted.
+
+   28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+       boundaries of the operational area as defined by the applicable COA must be reported
+       to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+       reported to the National Transportation Safety Board (NTSB) per instructions
+       contained on the NTSB Web site: www.ntsb.gov.
+
+If this exemption permits operations for the purpose of closed-set motion picture and
+television filming and production, the following additional conditions and limitations apply.
+                                                                                                                 7
+
+    29. The operator must have a motion picture and television operations manual (MPTOM)
+         as documented in this grant of exemption.
+
+    30. At least 3 days before aerial filming, the operator of the UAS affected by this
+         exemption must submit a written Plan of Activities to the local Flight Standards
+         District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+         notification may be waived with the concurrence of the FSDO. The plan of activities
+         must include at least the following:
+           a. Dates and times for all flights;
+           b. Name and phone number of the operator for the UAS aerial filming conducted
+              under this grant of exemption;
+           c. Name and phone number of the person responsible for the on-scene operation of
+              the UAS;
+           d. Make, model, and serial or N-Number of UAS to be used;
+           e. Name and certificate number of UAS PICs involved in the aerial filming;
+           f. A statement that the operator has obtained permission from property owners
+              and/or local officials to conduct the filming production event; the list of those
+              who gave permission must be made available to the inspector upon request;
+           g. Signature of exemption holder or representative; and
+           h. A description of the flight activity, including maps or diagrams of any area, city,
+              town, county, and/or state over which filming will be conducted and the altitudes
+              essential to accomplish the operation.
+
+    31. Flight operations may be conducted closer than 500 feet from participating persons
+         consenting to be involved and necessary for the filming production, as specified in the
+         exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                    8
+
+This exemption terminates on June 30, 2017, unless sooner superseded or rescinded.
+Sincerely,
+
+/s/
+John S. Duncan
+Director, Flight Standards Service
+                   UNITED STATES OF AMERICA
+             DEPARTMENT OF TRANSPORTATION
+           FEDERAL AVIATION ADMINISTRATION
+
+                          WASHINGTON, D.C.
+
+IDAHO POWER COMPANY'S PETITION FOR EXEMPTION
+                  PURSUANT TO SECTION 333 OF
+
+THE FAA MODERNIZATION AND REFORM ACT OF 2012
+                (PUBLIC LAW 112-95, 126 STAT 11)
+
+IDAHO POWER COMPANY     Submitted on March 23, 2015
+Phillip A. Groves
+Nathan Gardiner, Esq.   DAVIS WRIGHT TREMAINE LLP
+1221 West Idaho Street  Constance M. Pendleton, Esq.
+Boise, Idaho 83702      1919 Pennsylvania Avenue, NW, Suite 800
+Tel: (208) 388-2597     Washington, DC 20006-3401
+                        Tel: (202) 973-4229
+Applicant               Fax: (202) 973-4499
+                        Email: conniependleton@dwt.com
+
+                        Attorneysfor Idaho Power ompany
+                                          TABLE OF CONTENTS
+
+I. SUMMARY AND BACKGROUND ......................................... ......................................... 1
+         A. Applicant Idaho Power Company............................................................... ............. 1
+         B. Idaho Power Company's Proposed sUAS ...............................................................2
+         C. Idaho Power Company's Proposed Use ofsUAS ................................................... .3
+
+II. RELEVANT AUTHORITY ................................................................................................4
+         A. Section 333 ................................................................... ... ........................................4
+         B. Section 44701(:£)...................................................................................................... 5
+         C. Other Authority........................................................................................................5
+
+III. BASIS FOR PETITION .. ...... .. ................................... .........................................................6
+         A. Name and Address of the Applicant. .................................................................. .....6
+         B. Specific Sections of 14 C.F.R. From Which Idaho Power Company Seeks
+                  Exemption............................................................................................................ .... 6
+         C. The Extent ofReliefidaho Power Company'Seeks and the Reason Idaho
+                  Power Company Seeks Relief From Specific Parts of the Federal Aviation
+                  Regulations ............................................................................................................ 17
+         D. Granting Idaho Power Company's Request Would Be In The Public Interest
+                  and Would Benefit the Public as a Whole .............................................................21
+         E. The Reasons Why Granting the Exemptions Would Not Adversely Affect
+                  Safety, or How the Exemptions Would Provide a Level of Safety at Least
+                  Equal to that Provided by the Existing Rule..........................................................28
+         F. Summary Suitable for Publication in the Federal Register. ..................................37
+         G. Additional Information..........................................................................................37
+
+IV. CONCLUSION........ ..........................................................................................................38
+
+                                                                                     1
+                                I. SUMMARY AND BACKGROUND
+
+          Idaho Power Company ("IPC") respectfully requests an expedited exemption from
+
+Federal Aviation Regulations ("FARs") pursuant to Section 333 ofthe FAA Modernization and
+
+Reform Act of2012, to operate a small unmanned airsystem ("sUAS"). IPC's requested
+
+exemption would support IPC's application for a civil, commercial Certificate of Authorization
+
+("COA'') to use a MikroKopter sUAS over sparsely populated and unpopulated areas in Idaho
+
+for low altitude environmental research and resource monitoring, including monitoring of salmon
+
+spawning activity in the Snake River as part ofiPC's efforts to comply with the Environmental
+
+Species Act ("ESA") and to support hydro-facility relicensing required by the Federal Energy
+
+Regulatory Commission ("FERC"). 1
+
+         A. Applicant Idaho Power Company
+
+          IPC, an electric utility company headquartered in Boise, Idaho, is engaged in the
+
+generation, transmission, distribution, sale and purchase of electric energy. Since 1916, IPC has
+
+provided safe, reliable, responsible, fair-priced service to its customers. In addition to providing
+
+energy, IPC cares for the environment. Some of IPC' s environmental work - including
+
+monitoring of salmon spawning activity and vegetation mapping -requires aerial surveys in
+
+1 As described in more detail in this Petition, IPC requests exemption from the following
+regulations: 14 C.F.R. Part 21, Subpart H, §§ 21.173 and 21.175(a) and (b) (airworthiness
+certificates); 14 C.F.R. § 45.23(a) and (b) (display of marks); 14 C.F.R. § 45.27(a) (location of
+marks); 14 C.F.R. § 45.29(a), (b)(3), (c), (d), (e), and (f) (size of marks); 14 C.F.R. § 61.113(a)
+and (b) (private pilot privileges and limitations); 14 C.F.R. § 61.133(a) (commercial pilot
+privileges and limitations); 14 C.F.R. § 91.7(a) (civil aircraft airworthiness); 14 C.F.R. § 91.9(a),
+(b), and (c) (civil aircraft flight manual); 14 C.F.R. § 91.109(a) (flight instruction); 14 C.F.R.
+§ 91.119 (minimum safe altitudes); 14 C.F.R. § 91.121 (altimeter settings); 14 C.F.R.
+§ 91.151(b) (fuel requirements); 14 C.F.R. § 91.203 (civil aircraft certifications); 14 C.F.R.
+§ 91.405(a) (required maintenance); 14 C.F.R. § 91.407(a)(1) (operation after maintenance,
+rebuilding or alteration); 14 C.F.R. § 91.409(a) (inspections); and 14 C.F.R. § 91.417(a) and (b)
+(maintenance records). IPC also requests the exemptions that are necessary to such approval
+pursuant to 49 U.S.C. § 44701(±), and 14 C.F.R. § 11.81.
+
+                                                                1
+rugged, isolated, wilderness terrain along the Snake River in Idaho, for which IPC seeks to use
+sUAS.
+
+         B. Idaho Power Company's Proposed sUAS
+         IPC proposes to use a MikroKopter sUAS, built and distributed by Quadcopter, LLC, in
+Montana. As set forth in more detail in the MikroKopter Pilots Operating Manual, attached
+hereto as Exhibit 1 (translated from the original German), the MikroKopter sUAS consists of a
+lightweight hexa-rotor craft (Hexacopter), a laptop computer-based ground control system, and a
+2.4 GHz radio control transmitter commonly associated with recreational models. The
+Hexacopter has a ten inch diameter central hub, protected by a plastic dome, that contains all of
+the major electrical components, including microchips for flight and navigation control, onboard
+GPS, flight recording, multi-axis accelerometers (for auto-stabilization), and remote control
+radio receivers. Six regularly spaced aluminum arms radiate out horizontally from the central
+hub. A small brushless motor and propeller blade are attached to the distal end of each arm.
+Along the bottom of the forward arm are a set ofbright red LED lights, and along two ofthe rear
+facing legs are sets of bright blue LED lights. These lights are on when the sUAS is under
+power, enhancing visibility of the sUAS for personnel on the ground.
+         Directly beneath the central hub is a camera mount that can hold a payload of
+approximately 150 grams. The Hexacopter has an overall diameter of approximately 2.3 feet,
+stands about one foot high, and weighs slightly less than five pounds (with camera payload).
+The Hexacopter is battery operated and can maintain flight for approximately 20 minutes on a
+full charge. Typical cruising speed over the ground is approximately ten nautical miles per hour,
+and maximum speed is approximately 35 nautical miles per hour. The Hexacopter carries
+onboard either a GoPro video or a small Pentax still camera.
+
+                                                          2
+          C. Idaho Power Company's Proposed Use of sUAS
+          sUAS will provide IPC a safer and more efficient means to collect low altitude, precision
+video or photogrammetry to support and enhance IPC's monitoring of environmental resource
+programs. The high-resolution data obtained by a sUAS can be used to monitor ESA-listed
+salmon spawning activity in hard-to-access or environmentally sensitive areas, assess changes in
+vegetation type and cover in sensitive areas, catalogue archaeological resources, and map
+aquatic, littoral, and terrestrial habitat for sensitive species without the use of helicopters or other
+vehicles that may have more impact than sUAS. Helicopters are not only more expensive than
+sUAS, they are also more dangerous, as demonstrated by a 2010 helicopter crash in Idaho in a
+mission similar to IPC's that resulted in the loss oflife of the pilot and biologists on board.
+sUAS would allow IPC biologists and resource managers to remotely obtain high quality data,
+while increasing the overall safety of personnel, potentially reducing or eliminating impacts to
+the environment, and reducing operation and maintenance costs.
+         IPC proposes to use sUAS that weigh five or fewer pounds, operate at a speed often
+nautical miles per hour and no more than 35 nautical miles per hour, and contain built-in safety
+features. In addition, IPC proposes to use the sUAS at low altitudes no more than 400 feet above
+ground level ("AGL"), away from airports or densely populated areas, on property that is owned
+or controlled by IPC (or with the permission of the property owner), in sparsely populated or
+unpopulated areas. IPC would operate the sUAS within the visual line of sight ofthe operator,
+during the daytime, and under controlled conditions.
+         Given the sUAS's light weight, flight performance, fully qualified operators, and strict
+operation under the guidelines established in FAA Policy Order 8900.227 and outlined in this
+Petition, IPC's operations will have a level of safety equivalent to or greater than manned aircraft
+performing similar missions. The grant of this requested exemption is in the public interest
+
+                                                            3
+based on the clear direction in Section 333 of the Reform Act, the environmental benefits and
+
+reduced environmental impact, enhanced safety, and cost savings associated with transitioning to
+
+sUAS for low altitude environmental resource monitoring and mapping.
+
+          The next salmon spawning season on the Snake River begins in October of2015.
+
+Accordingly, IPC respectfully requests that the Administration grant the requested exemption
+without delay.2
+
+                                     II. RELEVANT AUTHORITY
+
+          The following laws, rules, and policy order provide the basis for IPC's requested
+
+exemption:
+
+          · Section 333 ofthe FAA Modernization and Reform Act of2012 (the "Reform
+                   Act")
+
+      · 49 u.s.c. § 44701(f)
+
+          · 14 C.F.R. Part 11, Subpart A, Section 11.61(b)
+          · FAA Policy Order 8900.227, Paragraph 16
+
+         A. Section 333.
+
+         Section 333 of the Reform Act is a pathway for "expedited operational authorization."
+
+Section 332(b)(1). Section 333 expressly grants the FAA, through the Secretary of
+
+Transportation, the authority to "determine if certain unmanned aircraft systems may operate
+
+safely in the national airspace system before completion of the plan and rulemaking required by"
+
+other sections ofthe Reform Act.
+
+2 Under 14 C.F.R. § 11.87, the Administration need not publish a summary ofiPC's Petition and
+request comment if IPC presents or the Administration finds good cause why the Administration
+should not delay action on IPC's Petition. Here, IPC' s petition is filed seven months before the
+October 2015 salmon spawning season and is therefore timely. Delaying action on IPC's
+Petition until after salmon spawning season would affect IPC adversely. In addition, the relief
+IPC requests is identical to various exemptions the Administration has previously granted, as
+described herein. Finally, granting the Petition would set a precedent for other petitions seeking
+to use sUAS for research and monitoring of natural resources.
+
+                                                        4
+Section 333(b)(1) outlines the factors that the Administration shall use to determine
+
+whether UAS may be operated safely in the national airspace system: size, weight, speed,
+
+operational capability, proximity to airports and populated areas, and operation within visual line
+
+of sight. In addition, Section 333(b)(2) provides the Administration with the discretion to
+
+determine that a certificate of waiver, certificate of authorization, or airworthiness certification is
+
+not required to operate sUAS that are found to be appropriate under Section 333(b)(1). Finally,
+
+Section 333(c) allows the Administration to establish requirements for safe operation of the
+
+sUAS determined to be able to be operated safely in the national airspace system.
+
+B. Section 44701(t).
+In addition to its specific authority related to authorizing sUAS operation under Section
+
+333, the Administration has general authority to grant exemptions from its safety requirements
+
+and minimum standards if the Administration finds that the exemption is in the public interest.
+
+49 U.S.C. § 44701(f). Administration regulations set forth the information that must be included
+
+in a petition for exemption: (1) the applicant's name and mailing address; (2) the regulations
+
+from which the applicant seeks exemption; (3) the extent of relief sought and why; (4) the
+
+reasons why granting the request would be in the public interest and how it would benefit the
+
+public as a whole; and (5) the reasons why granting the exemption would not adversely affect
+
+safety, or how the exemption would provide a level of safety at least equal to the rule from which
+
+the applicant seeks exemption. 14 C.F.R. § 11.81.
+
+C. Other Authority.
+In addition, Part 11 of 14 C.F.R., Subpart A,§ 11.6l(b), provides the FAA the authority
+
+to grant exemptions to any current regulation of 14 C.F.R. FAA Policy Order 8900.227,
+
+paragraph 16, discusses sUAS pilot qualifications, and notes that, if certain conditions are met, a
+
+current pilot certificate is not required.
+
+                                            5
+                                        III. BASIS FOR PETITION
+
+         A. Name and Address of the Applicant.
+
+          The name and address of the Applicant is:
+
+                   Idaho Power Company
+                   1221 West Idaho Street
+                   Boise, Idaho 83702
+
+          The point of contact for this Petition, and specific contact information is:
+
+                   Constance M. Pendleton, Esq.
+                   Davis Wright Tremaine LLP
+                   1919 Pennsylvania Ave, NW, Suite 800
+                   Washington, DC 20006-3401
+                   Direct Tel: (202) 973-4229
+                   Fax: (202) 973-4499
+                   Email: conniependleton@dwt.com
+
+         B. Specific Sections of 14 C.F.R. From Which Idaho Power Company Seeks
+                  Exemption.3
+
+                   1. IPC Seeks Exemption From the Requirements of Part 21, Subpart H:
+                            Airworthiness Certificates,§§ 21.173, and 21.175(a) and (b)-
+                            Airworthiness Certificates.
+
+         Part 21, Subpart H: Airworthiness Certificates, Sections 21.173 and 21.175(a) and (b),
+
+provides:
+
+         Section 21.173, entitled Eligibility, states:
+
+                   Any registered owner of a U.S.registered aircraft (or the agent of
+                   the owner) may apply for an airworthiness certificate for that
+                   aircraft. An application for an airworthiness certificate must be
+                   made in a form and manner acceptable to the FAA, and may be
+                   submitted to any FAA office.
+
+         Section 21.175(a) and (b), entitled Airworthiness certificates: classification, states:
+
+3 IPC has attempted to identify the applicable regulations for which an exemption is required for
+its proposed sUAS use. To the extent that the Administration determines that any other safety
+regulations might apply to IPC's proposed use, IPC further requests that this Petition be deemed
+to seek an exemption from those requirements.
+
+                                                                 6
+                   (a) Standard airworthiness certificates are airworthiness
+                            certificates issued for aircraft type certificated in the
+                            normal, utility, acrobatic, commuter, or transport category,
+                            and for manned free balloons, and for aircraft designated by
+                            the FAA as special classes of aircraft.
+
+                   (b) Special airworthiness certificates are primary, restricted,
+                            limited, light-sport, and provisional airworthiness
+                            certificates, special flight permits, and experimental
+                            certificates.
+
+                  2. IPC Seeks Exemption From the Requirements of§ 45.23(a) and (b)-
+                            Display of Marks.
+
+         Section 45.23, entitled Display ofmarks; general, subsections (a) and (b), provides:
+
+                   (a) Each operator of an aircraft must display on that aircraft
+                            marks consisting of the Roman capital letter "N" (denoting
+                            United States registration) followed by the registration
+                            number of the aircraft. Each suffix letter used in the marks
+                            displayed must also be a Roman capital letter.
+
+                   (b) When marks include only the Roman capital letter "N" and
+                            the registration number is displayed on limited, restricted or
+                            light-sport category aircraft or experimental or
+                            provisionally certificated aircraft, the operator must also
+                            display on that aircraft near each entrance to the cabin,
+                            cockpit, or pilot station, in letters not less than 2 inches nor
+                            more than 6 inches high, the words "limited," "restricted,"
+                            "light-sport," "experimental," or "provisional," as
+                            applicable.
+
+                  3. IPC Seeks Exemption From the Requirements of§ 45.27(a)-
+                           Location of Marks.
+
+         Section 45.27, entitled Location ofmarks; nonfixed-wing aircraft, subsection (a),
+
+provides:
+
+                  (a) Rotorcraft. Each operator of a rotorcraft must display on
+                            that rotorcraft horizontally on both surfaces of the cabin,
+                            fuselage, boom, or tail the marks required by§ 45.23.
+
+                                                            7
+         4. IPC Seeks Exemption From the Requirements of§ 45.29(a), (b)(3), (c),
+                  (d), (e), and (f) - Size of Marks.
+
+Section 45.29, entitled Size ofmarks (for subsections noted above), provides:
+
+         (a) Except as provided in paragraph (f) of this section, each
+                   operator of an aircraft must display marks on the aircraft
+                   meeting the size requirements of this section.
+
+         (b) Height. Except as provided in paragraph (h) of this part, the
+                  nationality and registration marks must be of equal height
+                   and on:
+
+                                   ***
+
+                   (3) Rotorcraft, must be at least 12 inches high, except
+                  that rotorcraft displaying before April18, 1983, marks
+                  required by§ 45.29(b)(3) in effect on April17, 1983, and
+                  rotorcraft manufactured on or after April18, 1983, but
+                  before December 31, 1983, may display those marks until
+                  the aircraft is repainted or the marks are repainted, restored,
+                  or changed.
+
+         (c) Width. Characters must be two-thirds as wide as they are
+                  high, except the number "1 ", which must be one-sixth as
+                  wide as it is high, and the letters "M" and "W" which may
+                  be as wide as they are high.
+
+         (d) Thickness. Characters must be formed by solid lines one-
+                  sixth as thick as the character is high.
+
+         (e) Spacing. The space between each character may not be
+                  less than one-fourth of the character width.
+
+         (f) If either one of the surfaces authorized for displaying
+                  required marks under§ 45.25 is large enough for display of
+                  marks meeting the size requirements ofthis section and the
+                  other is not, full size marks must be placed on the larger
+                  surface. If neither surface is large enough for full size
+                  marks, marks as large as practicable must be displayed on
+                  the larger of the two surfaces. If no surface authorized to
+                  be marked by§ 45.27 is large enough for full-size marks,
+                  marks as large as practicable must be placed on the largest
+                  of the authorized surfaces. However, powered parachutes
+                  and weight-shift-control aircraft must display marks at least
+                  3 inches high.
+
+                                                8
+                  5. IPC Seeks Exemption From the Requirements of§ 61.113(a) and (b)-
+                            Private Pilot Privileges and Limitations.
+
+         Section 61.113, entitled Private pilot privileges and limitations: Pilot in command,
+
+subsections (a) and (b), provides:
+
+                   (a) Except as provided in paragraphs (b) through (h) ofthis
+                            section, no person who holds a private pilot certificate may
+                            act as a pilot in command of an aircraft that is carrying
+                            passengers or property for compensation or hire; nor may
+                            that person, for compensation or hire; nor may that person,
+                            for compensation or hire, act as pilot in command of an
+                            aircraft.
+
+                  (b) A private pilot may, for compensation or hire, act as pilot
+                            in command of an aircraft in connection with any business
+                            or employment if:
+
+                            (1) The flight is only incidental to that business or
+                                     employment; and
+
+                            (2) The aircraft does not carry passengers or property
+                                     for compensation or hire.
+
+                  6. IPC Seeks Exemption From the Requirements of§ 61.133(a)-
+                           Commercial Pilot Privileges and Limitations.
+
+         Section 61.133, entitled Commercial pilot privileges and limitations, subsection (a),
+
+provides:
+
+                  (a) Privileges:
+
+                           (1) General. A person who holds a commercial pilot
+                                     certificate may act as pilot in command in command
+                                     of an aircraft:
+
+                                     (i) Carrying persons or property for
+                                              compensation or hire, provided the person is
+                                              qualified in accordance with this part and
+                                              with the applicable parts of this chapter that
+                                              apply to the operation; and
+
+                                     (ii) For compensation or hire, provided the
+                                              person is qualified in accordance with this
+                                              part and with the applicable parts of this
+                                              chapter that apply to the operation.
+
+                                                         9
+                  7. IPC Seeks Exemption From the Requirements of§ 91.7(a)- Civil
+                            Aircraft Ainvorthiness.
+
+         Section 91.7, entitled Civil aircraft airworthiness, subsection (a), provides:
+
+                  (a) No person may operate a civil aircraft unless it is in an
+                            airworthy condition.
+
+                  8. IPC Seeks Exemption From the Requirements of§ 91.9(a), (b), and (c)
+                           - Civil Aircraft Flight Manual, Marking and Placard.
+
+         Section 91.9, entitled Civil aircraftflight manual, marking, and placard requirements,
+
+subsections (a), (b), and (c), provides:
+
+                  (a) Except as provided in paragraph (d) of this section, no
+                            person may operate a civil aircraft without complying with
+                            the operating limitations specified in the approved Airplane
+                            or Rotorcraft Flight Manual, markings, and placards, or as
+                            otherwise prescribed by the certificating authority of the
+                            country of registry.
+
+                  (b) No person may operate a U.S.-registered civil aircraft:
+
+                            (1) For which an Airplane or Rotorcraft Flight Manual
+                                     is required by § 21.5 of this chapter unless there is
+                                     available in the aircraft a current, approved Airplane
+                                     or Rotorcraft Flight Manual or the manual provided
+                                     for in§ 121.141(b); and
+
+                            (2) For which an Airplane or Rotorcraft Flight Manual
+                                     is not required by § 21.5 ofthis chapter, unless there
+                                     is available in the aircraft a current approved
+                                     Airplane or Rotorcraft Flight Manual, approved
+                                     manual material, markings, and placards, or any
+                                     combination thereof.
+
+                  (c) No person may operate a U.S.-registered civil aircraft
+                           unless that aircraft is identified in accordance with part 45
+                           ofthis chapter.
+
+                                                           10
+                  9. IPC Seeks Exemption From the Requirements of§ 91.109(a)- Flight
+                           Instruction.
+
+         Section 91.109, entitled Flight instruction; Simulated instrumentflight and certain flight
+
+tests, subsection (a), provides:
+
+                  (a) No person may operate a civil aircraft (except a manned
+                            free balloon) that is being used for flight instruction unless
+                            that aircraft has fully functioning dual controls. However,
+                            instrument flight instruction may be given in an airplane
+                            that is equipped with a single, functioning throwover
+                            control wheel that controls the elevator and ailerons, in
+                            place of fixed, dual controls, when:
+
+                                     (1) The instructor has determined that the flight can be
+                                               conducted safely; and
+
+                                     (2) The person manipulating the controls has at least a private
+                                               pilot certificate with appropriate category and class ratings.
+
+                  10. IPC Seeks Exemption From the Requirements of§ 91.119- Minimum
+                           Safe Altitudes.
+
+         Section 91.119, entitled Minimum safe altitudes: General, provides:
+
+                  Except when necessary for takeoff or landing, no person may
+                  operate an aircraft below the following altitudes:
+
+                            (a) Anywhere. An altitude allowing, if a power unit
+                                     fails, an emergency landing without undue hazard to
+                                     persons or property on the surface.
+
+                            (b) Over congested areas. Over any congested area of
+                                     a city, town, or settlement, or over any open air
+                                     assembly of persons, an altitude of 1,000 feet above
+                                     the highest obstacle within a horizontal radius of
+                                     2,000 feet of the aircraft.
+
+                            (c) Over other than congested areas. An altitude of
+                                     500 feet above the surface, except over open water
+                                     or sparsely populated areas. In those cases, the
+                                     aircraft may not be operated closer than 500 feet to
+                                     any person, vessel, vehicle, or structure.
+
+                            (d) Helicopters, poweredparachutes, and weight-shift-
+                                     control aircraft. If the operation is conducted
+
+                                                             11
+                           without hazard to persons or property on the
+                            surface:
+
+                           (1) A helicopter may be operated at less than the
+                                     minimums prescribed in paragraph (b) or (c)
+                                     of this section, provided each person
+                                     operating the helicopter complies with any
+                                     routes or altitudes specifically prescribed for
+                                     helicopters by the FAA; and
+
+                           (2) A powered parachute or weight-shift-control
+                                     aircraft may be operated at less than the
+                                     minimums prescribed in paragraph (c) of
+                                     this section.
+
+         11. IPC Seeks Exemption From the Requirements of§ 91.121 -Altimeter
+                  Settings.
+
+Section 91.121, entitled Altimeter settings, subsection (a), provides:
+
+         (a) Each person operating an aircraft shall maintain the
+                  cruising altitude or flight level of that aircraft, as the case
+                  may be, by reference to an altimeter that is set, when
+                  operating:
+
+                  (1) Below 18,000 feet MSL, to
+
+                           (i) The current reported altimeter setting of a
+                                    station along the route and within 100
+                                    nautical miles of the aircraft;
+
+                           (ii) If there is no station within the area
+                                    prescribed in paragraph (a)(l)(i) of this
+                                    section, the current reported altimeter setting
+                                    of an appropriate available station; or
+
+                           (iii) In the case of an aircraft not equipped with a
+                                    radio, the elevation of the departure airport
+                                    or an appropriate altimeter setting available
+                                    before departure[.]
+
+                                                 12
+                  12. IPC Seeks Exemption From the Requirements of§ 91.151(b)- Fuel
+                           Requirements.
+
+         Section 91.151, entitled Fuel requirements for flight in VFR conditions, subsection (b),
+
+provides:
+
+                  (b) No person may begin a flight in a rotorcraft under VFR
+                            conditions unless (considering wind and forecast weather
+                            conditions) there is enough fuel to fly to the first point of
+                            intended landing and, assuming normal cruising speed, to
+                            fly after that for at least 20 minutes.
+
+                  13. IPC Seeks Exemption From the Requirements of§ 91.203 - Display of
+                           Civil Aircraft Certifications.
+
+         Section 91.203, entitled Civil aircraft: Certifications required, provides:
+
+                  (a) Except as provided in§ 91.715, no person may operate a
+                            civil aircraft unless it has within it the following:
+
+                            (1) An appropriate and current airworthiness certificate.
+                                     Each U.S. airworthiness certificate used to comply
+                                     with this subparagraph (except a special flight
+                                     permit, a copy ofthe applicable operations
+                                     specifications issued under § 21.197(c) of this
+                                     chapter, appropriate sections of the air carrier
+                                     manual required by parts 121 and 135 of this
+                                     chapter containing that portion of the operations
+                                     specifications issued under § 21.197(c), or an
+                                     authorization under§ 91.611) must have on it the
+                                     registration number assigned to the aircraft under
+                                     part 47 of this chapter. However, the airWorthiness
+                                     certificate need not have on it an assigned special
+                                     identification number before 10 days after that
+                                     number is first affixed to the aircraft. A revised
+                                     airworthiness certificate having on it an assigned
+                                     special identification number that has been affixed
+                                     to an aircraft, may only be obtained upon
+                                     application to an FAA Flight Standards district
+                                     office.
+
+                           (2) An effective U.S. registration certificate issued to
+                                     its owner or, for operation within the United States,
+                                     the second copy of the Aircraft registration
+                                     Application as provided for in § 47.31 (c), or a
+
+                                                           13
+                                     registration certification issued under the laws of a
+                                     foreign country.
+
+                  (b) No person may operate a civil aircraft unless the
+                           airworthiness certificate required by paragraph (a) of this
+                            section or a special flight authorization issued under
+                            § 91.715 is displayed at the cabin or cockpit entrance so
+                           that it is legible to passengers or crew.
+
+                  (c) No person may operate an aircraft with a fuel tank installed
+                           within the passenger compartment or a baggage
+                           compartment unless the installation was accomplished
+                           pursuant to part 43 ofthis chapter, and a copy of FAA
+                           Form 337 authorizing that installation is on board the
+                           aircraft.
+
+                  (d) No person may operate a civil airplane (domestic or
+                           foreign) into or out of an airport in the United States unless
+                           it complies with the fuel venting and exhaust emissions
+                           requirements of part 34 of this chapter.
+
+                  14. IPC Seeks Exemption From the Requirement of§ 91.405(a)-
+                           Required Maintenance.
+
+         Section 91.405, entitled Maintenance required, subsection (a), provides:
+
+                  (a) Each owner or operator of an aircraft:
+
+                  (b) Shall have that aircraft inspected as prescribed in subpart E
+                           of this part and shall between required inspections, except
+                           as provided in paragraph (c) of this section, have
+                           discrepancies repaired as prescribed in part 43 of this
+                           chapter[.]
+
+                  15. IPC Seeks Exemption From the Requirements of§ 91.407(a)(1)-
+                           Operation After Maintenance, Rebuilding or Alteration.
+
+         Section 91.407, entitled Operation qfter maintenance, preventive maintenance,
+
+rebuilding, or alteration, subsection (a)(l), provides:
+
+                  (a) No person may operate any aircraft that has undergone
+                           maintenance, preventive maintenance, rebuilding, or
+                           alteration unless:
+
+                           (i) It has been approved for return to service by a
+                                    person authorized under§ 43.7 ofthis chapter[.]
+
+                                                          14
+         16. IPC Seeks Exemption From the Requirements of§ 91.409(a)-
+                  Inspections.
+
+Section 91.409, entitled Inspections, subsection (a), provides:
+
+         (a) Except as provided in paragraph (c) of this section, no
+                   person may operate an aircraft unless, within the preceding
+                   12 calendar months, it has had:
+
+                   (1) An annual inspection in accordance with part 43 of
+                            this chapter and has been approved for return to
+                            service by a person authorized by§ 43.7 of this
+                            chapter; or
+
+                   (2) An inspection for the issuance of an airworthiness
+                            certificate in accordance with part 21 of this
+                            chapter.
+
+         17. IPC Seeks Exemption From the Requirements of§ 91.417(a) and (b)-
+                  Maintenance Records.
+
+Section 91.417, entitled Maintenance records, subsections (a) and (b), provides:
+
+         (a) Except for work performed in accordance with§§ 91.411 and 91.413, each
+                   registered owner or operator shall keep the following records for the
+                   periods specified in paragraph (b) of this section:
+
+                  (1) Records of the maintenance, preventive
+                            maintenance, and alteration and records of the 100-
+                            hour, annual, progressive, and other required or
+                            approved inspections, as appropriate, for each
+                            aircraft (including the airframe) and each engine,
+                            propeller, rotor, and appliance of an aircraft. The
+                            records must include:
+
+                            (i) A description (or reference to data
+                            acceptable to the Administrator) ofthe work
+                            performed; and
+
+                            (ii) The date of completion ofthe work
+                            performed; and
+
+                            (iii) The signature and certificate number of the
+                            person approving the aircraft for return to service.
+
+                                                   15
+         (2) Records containing the following information:
+
+                  (i) The total time in service of the airframe,
+                  each engine, each propeller, and each rotor.
+
+                  (ii) The current status of life-limited parts of
+                  each airframe, engine, propeller, rotor, and
+                  appliance.
+
+                  (iii) The time since last overhaul of all items
+                  installed on the aircraft which are required to be
+                  overhauled on a specified time basis.
+
+                  (iv) The current inspection status ofthe aircraft,
+                  including the time since the last inspection required
+                  by the inspection program under which the aircraft
+                  and its appliances are maintained.
+
+                  (v) The current status of applicable
+                  airworthiness directives (AD) and safety directives
+                  including, for each, the method of compliance, the
+                  AD or safety directive number and revision date. If
+                  the AD or safety directive involves recurring action,
+                  the time and date when the next action is required.
+
+                  (vi) Copies ofthe forms prescribed by§ 43.9(d)
+                  of this chapter for each major alteration to the
+                  airframe and currently installed engines, rotors,
+                  propellers, and appliances.
+
+(b) The owner or operator shall retain the following records for
+         the periods prescribed:
+
+         (1) The records specified in paragraph (a)(l) of this
+                  section shall be retained until the work is repeated
+                  or superseded by other work or for 1 year after the
+                  work is performed.
+
+         (2) The records specified in paragraph (a)(2) ofthis
+                  section shall be retained and transferred with the
+                  aircraft at the time the aircraft is sold.
+
+         (3) A list of defects furnished to a registered owner or
+                  operator under§ 43.11 of this chapter shall be
+                  retained until the defects are repaired and the
+                  aircraft is approved for return to service.
+
+                                       16
+         C. The Extent of Relief Idaho Power Company Seeks and the Reason Idaho
+                   Power Company Seeks Relief From Specific Parts of the Federal Aviation
+                   Regulations
+                   1. Extent of relief IPC seeks and the reason IPC seeks relief from Part
+                            21, Subpart H: Airworthiness Certificates, §§ 21.173 and 21.175(a)
+                            and (b) - Airworthiness Certificates.
+
+         Part 21 establishes procedural requirements for certifications under Section 44704,
+including airworthy certificates. Both Sections 333 and 44701(b) authorize the Administration
+to exempt aircraft from airworthiness certification under this Part based upon consideration of its
+size, weight, speed, operational capability, and proximity to airports and populated areas. See
+Section 333.
+
+         An exemption from the certificate of airworthiness requirement is reasonable here given
+that the sUAS IPC intends to use is not of a type that is typically certificated (e.g., normal,
+utility, acrobatic, commuter, or transport category). In addition, the sUAS does not fit the
+criteria for craft that are typically granted a special airworthiness certificate (e.g., light-sport,
+experimental, etc.). Therefore, IPC seeks relief from this requirement.
+
+                  2. Extent of relief IPC seeks and the reason IPC seeks relief from
+                            § 45.23(a) and (b) - Display of Marks.
+
+         Because the size of the sUAS IPC proposes to use is small and does not have a
+conventional fuselage, cabin, cockpit, or main aircraft body on which the required marking could
+be displayed, IPC seeks relief from Section 45.23, subsections (a) and (b).
+
+                  3. Extent of relief IPC seeks and the reason IPC seeks relief from
+                           § 45.27(a)- Location of Marks.
+
+         As discussed in item 2 above, the size of the sUAS IPC proposes to use is small and does
+not have a conventional fuselage, cabin, cockpit, or main aircraft body on which the required
+marking could be displayed. Therefore, IPC seeks relief from Section 45.27(a).
+
+                                                            17
+                  4. Extent of relief IPC seeks and the reason IPC seeks relief from
+                           § 45.29(a), (b)(3), (c), (d), (e), and (f)- Size of Marks.
+
+          As discussed in items 2 and 3 above, the size ofthe sUAS IPC proposes to use is small
+and does not have a conventional fuselage, cabin, cockpit, or main aircraft body on which the
+required marking could be displayed. The sUAS does not have enough surface area to comply
+with the intent of Section 45.29(a), (b)(3), (c), (d), (e), or (f). Therefore, IPC seeks relief from
+this section.
+
+                  5. Extent of relief IPC seeks and the reason IPC seeks relief from
+                           § 61.113(a) and (b)- Private Pilot Privileges and Limitations.
+
+          The sUAS IPC intends to use will be used for incidental purposes of business or
+employment, namely environmental resource monitoring projects as part of IPC's efforts to
+comply with the ESA and to support hydro-facility relicensing required by FERC. Because the
+sUAS cannot carry passengers or property, but will be operated in accordance with FAA Order
+8900.227, paragraph 16(c)(2)(c), IPC seeks relief from Section 61.113(a) and (b).
+
+                  6. Extent of relief IPC seeks and the reason IPC seeks relief from
+                           § 61.133(a)- Commercial Pilot Privileges and Limitations.
+
+         Section 61.133 describes the privileges associated with holding a commercial pilot
+certificate. The sUAS IPC intends to use will be used for incidental purposes ofbusiness or
+employment, namely environmental resource monitoring projects as part ofiPC's efforts to
+comply with the ESA and to support hydro-facility relicensing required by FERC. Because the
+sUAS cannot carry passengers or property, and will be operated in accordance with FAA Order
+8900.227, paragraph 16(c)(2)(c), IPC seeks relieffrom Section 61.133(a).
+
+                  7. Extent ofreliefiPC seeks and the reason IPC seeks relief from
+                          § 91.7(a)- Civil Aircraft Airworthiness.
+
+         IPC seeks relief from Section 91.7(a) to the extent required to allow IPC operators to
+determine that IPC's intended sUAS is in an airworthy condition prior to every flight.
+
+                                                             18
+Airworthiness will be determined by complying with IPC operating manual (see Exhibit 1), and
+by complying with a pre-flight and post-flight checklist for each flight, attached hereto as
+Exhibits 2 and 3, respectively, including before first flight and after major maintenance or
+upgrades. Therefore, IPC seeks relief from this requirement.
+
+                   8. Extent of relief IPC seeks and the reason IPC seeks relief from
+                           § 91.9(a), (b), and (c)- Civil Flight Manual, Markings and Placard.
+
+          IPC seeks exemption from Section 91.9(a), (b) and (c) which refer to maintaining the
+presence of flight manuals, specific placards, and specific markings on and onboard aircraft. The
+intent of these requirements is to ensure that the aircraft is in an airworthy condition, that flight
+manuals are available to the aircrew while operating the aircraft, and that aircraft may be readily
+identified. Because of the size and configuration of the sUAS IPC will use, it is not possible to
+carry such a flight manual on the sUAS. Therefore, IPC seeks relief from this requirement.
+
+                  9. Extent of relief IPC seeks and the reason IPC seeks relief from
+                           § 91.109(a)- Flight Instruction.
+
+         IPC seeks exemption from Section 91.109 concerning dual flight controls used during
+flight instruction. Flight control for the sUAS IPC intends to use for operations is accomplished
+through direct control from a standard hand-held 2.4 GHz radio control transmitter, pre-
+programmed semi-autonomous auto pilot, or a lap top computer ground control station. None of
+these components offers a simultaneous second set of_controls. Therefore, IPC seeks relief from
+this requirement.
+
+                  10. Extent of relief IPC seeks and the reason IPC seeks relief from
+                           § 91.119 -Minimum Safe Altitudes.
+
+         Section 91.119, concerning minimum safe altitudes, generally requires that a minimum
+safe altitude should be 500 feet above the ground surface, or no closer than 500 feet to personnel,
+vessels, vehicles, or structures. This section allows for a helicopter to operate at less than those
+
+                                                             19
+minimum altitudes under certain conditions. Because IPC intends to operate a sUAS at
+elevations less than 400 feet AGL, relief from this regulation is requested.
+
+                  11. Extent of relief IPC seeks and the reason IPC seeks relief from
+                           § 91.121 -Altimeter Settings.
+
+         Section 91.121 requires that manned aircraft maintain safe altitudes by referencing an
+altimeter setting available within 100 nautical miles ofthe aircraft. The sUAS IPC intends to use
+will be flown within visual sight of the pilot in command ("PIC") and visual observer ("VO"),
+and will be operated below 400 feet AGL. Therefore, it will not be necessary to maintain
+hemispherical cruising altitudes in order to de-conflict with other aircraft. Therefore, IPC seeks
+relief from this requirement.
+
+                  12. Extent of relief IPC seeks and the reason IPC seeks relief from
+                           § 91.151(b)- Fuel Requirements.
+
+         Section 91.151 (b) provides that no person may begin a flight in an airplane under day-
+VFR conditions unless there is enough fuel to fly to the first point of intended landing and to fly
+after that for at least 30 minutes. The purpose of this section is to provide a reserve of energy as
+a safety buffer for go-arounds and other landing delays. The sUAS IPC intends to use is battery
+operated and the maximum duration of flight from a full battery charge is approximately 20
+minutes. IPC's intended operations generally require less than 10 minutes of flight time (50% of
+available flight time), leaving an additional 10 minutes of reserve energy to correct or alleviate
+unforeseen developments. Therefore, IPC seeks relief from this requirement.
+
+                  13. Extent of relief IPC seeks and the reason IPC seeks relief from
+                           § 91.203 - Display of Civil Aircraft Certifications.
+
+         The sUAS that IPC intends to use will not have a traditional airworthiness certificate. In
+addition, the sUAS does not have a cabin or cockpit entrance, will not carry a pilot, crew or
+passengers, does not have a fuel tank, and will not be operating out of an airport. It would not be
+
+                                                            20
+practicable to carry or display registration documents on the sUAS. Accordingly, relief from
+Section 91.203 is warranted.
+
+                  14. Extent ofreliefiPC seeks and the reason IPC seeks relief from
+                           §§ 91.405(a), 91.407(a)(l), 91.409(a), and 91.417(a) and (b)- Required
+                            Maintenance.
+
+         These sections set forth requirements for repairs and maintenance of aircraft, specifically
+aircraft inspections, approvals by authorized personnel, and record keeping. IPC requests relief
+from these requirements because they apply only to aircraft with an airworthiness certificate, not
+to IPC's proposed operation of sUAS, and IPC's sUAS will be maintained by the operator
+pursuant to the manufacturer's specifications, or, when necessary, by the manufacturer.
+
+         D. Granting Idaho Power Company's Request Would Be In The Public Interest
+                  and Would Benefit the Public as a Whole
+
+         Granting IPC's petition will provide significant benefits to the public, the environment,
+IPC, and its employees and customers by allowing IPC to safely, efficiently, and economically
+perform aerial acquisition of data for research and monitoring of environmental resources, in
+support of hydro-facility relicensing required by FERC and ofthe Endangered Species Act. The
+use of sUAS would decrease congestion of the national airspace, reduce pollution, and provide
+benefits to the economy. These benefits will be realized without privacy implications.
+
+                  1. Public Benefit from the Aerial Acquisition of Data.
+         The commercial use of sUAS for acquiring aerial data for research and monitoring of
+natural resources- including salmon spawning surveys along the Hells Canyon Reach of the
+Snake River- will be of significant benefit to the public. This data supports critical needs under
+the Endangered Species Act and FERC hydro relicensing associated with the continued operation
+of private hydroelectric facilities, such as those owned and operated by IPC. FERC relicensing
+requirements for hydro-facilities generally ensure the stewardship responsibilities of private
+
+                                                        21
+entities that benefit from the use of public natural resources. Traditional methods for acquiring
+this data include using manned aircraft at higher elevations, resulting in lower resolution of data,
+and personnel on the ground, which reduces the ability to cover large areas efficiently. Using
+sUAS for data acquisition allows for imagery collection at much lower altitudes than manned
+aircraft, which provides an overall increase in the resolution of critical data. It also allows for
+more precise control of the data collection, and the ability to review data quickly to ensure that
+the proper information is being accessed. Moreover, using sUAS provides a perspective that
+cannot be achieved by use of either traditional manned aircraft or personnel on the ground.
+Finally, the use of sUAS also provides for opportunity to interact with several federal, state,
+tribal, and other public and private entities on cooperative projects.
+
+                  2. Public Benefit from Decreased Congestion of the NAS.
+         The sUAS IPC intends to use is small, lightweight, and operates on battery power. It is
+safer and more efficient and economical than manned aircraft, such as helicopters, traditionally
+used to obtain aerial imagery. An exemption would reduce the amount of manned aircraft in the
+NAS, reduce noise and air pollution, and increase the safety for people and property in the air
+and on the ground. An exemption would also help alleviate congestion around local airports,
+caused by arriving, loitering, and departing aircraft. A reduction of manned aircraft conducting
+aerial missions would also result in a reduced management load handled by air traffic control
+during ground, takeoff, departure, arrival, loitering, and landing phases of flight operations.
+
+                  3. Public Benefit with Respect to Safety.
+         Conducting aerial data acquisition with a sUAS, instead of traditional manned aircraft,
+would greatly benefit the public by reducing or eliminating several safety risks. Because the
+sUAS IPC intends to use is small, lightweight, and operates on electric battery power, it would
+eliminate air pollution, and significantly reduce noise pollution generated by traditional aerial
+
+                                                     22
+survey flight operations. The sUAS is an environmentally conscious alternative to large,
+traditionally used manned aircraft (fixed wing or rotorcraft) that burn fossil fuel.
+
+         The use of sUAS for IPC's environmental resources monitoring programs, including
+salmon spawning surveys along the Snake River, substantially reduces or eliminates risk to
+safety and life of personnel. Even when operated under strict safety guidelines, traditional
+manned aircraft, both fixed-wing and rotor craft, can and do fail during natural resource
+monitoring projects similar to IPC's, often resulting in severe personal injury, or death to
+personnel involved in the operations. (See, e.g., NTSB Reports SEA99FA013, WPR10FA440,
+and SEA01FA100.)
+
+         A recent helicopter crash in Idaho during a natural resource monitoring mission caused
+IPC to seriously review its monitoring operations, and to explore new technologies that would
+reduce or eliminate risks to personnel and property. See NTSB report WPR10FA440. The
+purpose of that flight was to conduct salmon spawning surveys similar to IPC' s program. The
+crash occurred on the Clearwater River in northern Idaho, near the site ofiPC's monitoring
+program. The accident killed everyone onboard - two biologists and the pilot. It also
+completely destroyed the helicopter and damaged property on the ground (see Figure 1). IPC
+believes that use of sUAS in IPC's environmental resource monitoring program will prevent
+these types of deadly accidents. Time is of the essence because IPC is scheduled to conduct its
+next monitoring project in September and October 2015, when the salmon spawning season
+begins.
+
+         Figure 1. Photograph shows the helicopter crash site where two Idaho Fish and Game
+biologists and their pilot were killed during a salmon spawning survey, near Kamiah, Idaho,
+August 2010 due to an apparent mechanical malfunction (Photo from Kyle Mills, Lewiston
+
+                                                             23
+        ..
+
+Tribune), see htto://missoulian.com/news/state-and-regional/k:illed-when-fish-and-game-
+helicopter-crashes-in-kamiah-idaho/article fed8a14e-b54c-ll df-bfl a-001cc4c002e0.html.
+
+         Because the sUAS IPC would use for its surveys carries no pilot, crew, or passengers,
+these types of safety risks would be completely eliminated. In addition, because the sUAS is
+lightweight (< 5.0 pounds with camera payload), and carries no fuel, if an accident ever were to
+occur, there is a significantly lower risk of collateral damage to personnel or property on the
+ground or in the air as compared to manned aircraft that typically conduct aerial data acquisition.
+
+                  4. Public Benefit with Respect to Economy.
+         In addition to being safe and efficient, the sUAS is also an economical alternative to
+using manned aircraft to collect natural resources monitoring data. By reducing the cost of
+operations, IPC can remain competitive and profitable, and can reduce costs to its customers.
+
+                                                           24
+                  5. Privacy Issues.
+         sUAS would take the place of manned aircraft that, for decades, have flown similar
+environmental research and monitoring missions. Just as the manned aircraft operations pose no
+privacy issues, so too the sUAS carries little risk of any invasion ofprivacy. IPC's operations
+will occur over remote, unpopulated areas along the Snake River in Idaho, as well as over IPC's
+private property, or other private property with the owner's explicit permission. Figure 2 shows
+the general area where the IPC salmon spawning surveys take place, and Figures 3, 4, and 5
+show typical, isolated wilderness terrain in the area where IPC's surveys occur.
+
+                  6. Integration of sUAS With National Airspace.
+         The requested use presents a compelling case for the Administration moving forward
+with efforts to integrate sUAS into the national airspace system as required by Section 333. The
+public has a significant interest in efficient and safe environmental research and monitoring, and
+IPC has proposed using sUAS to further this public interest in a way that is at least as safe as
+operation of aircraft under existing regulations. IPC's request therefore provides the
+Administration an appropriate vehicle to further Congress' mandate to expedite integration of
+sUAS. In addition, IPC's operational experience resulting from the use of sUAS in these
+operations may be valuable to the Administration in developing comprehensive rules governing
+sUAS for the electric and other industries involved in natural resource monitoring projects.
+
+                                                           25
+         Figure 2. General map of the lower Snake River, showing the regional area where the
+IPC salmon spawning surveys occur (enclosed in the red polygon), and the isolation from
+populated areas. This area of the Snake River flows largely through a wilderness area (Hells
+Canyon Recreation Area; Wallowa-Whitman National Forest), and is bordered on the east by
+Idaho, on the northwest by Washington, and on the southwest by Oregon.
+
+                                                           26
+         Figure 3. View, facing upstream, of the Bernard Creek to Saddle Creek salmon spawning
+area on the Snake River (near river mile 236), demonstrates the isolation and ruggedness of the
+terrain associated with the Hells Canyon Reach of the Snake River.
+
+         Figure 4. View, facing downstream, of the Imnaha River to Eureka Bar salmon spawning
+area on the Snake River (near river mile 191), demonstrates the isolation and ruggedness ofthe
+terrain associated with the Hells Canyon Reach of the Snake River.
+
+                                                           27
+         Figure 5. View, facing downstream, of the Buffalo Island salmon spawning area on the
+Snake River (near river mile 161), demonstrates the isolation and ruggedness of the terrain
+associated with the Hells Canyon Reach of the Snake River.
+
+         E. The Reasons Why Granting the Exemptions Would Not Adversely Affect
+                  Safety, or How the Exemptions Would Provide a Level of Safety at Least
+                  Equal to that Provided by the Existing Rule.
+                  1. Part 21, Subpart H: §§ 21.173 and 21.175(a) and (b) -Airworthiness
+                            Certificates.
+
+         The sUAS that IPC intends to use cannot carry a pilot, passengers or property for hire,
+does not carry flammable fuel, and will be flown only under strict operational requirements.
+Combined with the fact that the sUAS weighs less than five pounds and is constructed from
+lightweight materials, the' sUAS and its operations will be as safe as or safer than a
+conventionally certificated manned aircraft performing similar missions.
+
+                  2. Section 45.23(a) and (b)- Marking Requirements.
+         IPC proposes to achieve an equivalent level of safety by including the word
+"EXPERIMENTAL" on the sUAS propeller booms, where individuals in the vicinity ofthe
+
+                                                     28
+sUAS, while it is preparing for launch, will be able to see the designation. Additionally, the
+permanent placard discussed for item 13 below will provide sUAS registration information
+should it be found on the ground, if it were ever lost. Finally, IPC will display at the ground
+station a high contrast flag or banner that contains the words "Unmanned Aircraft Ground
+Station" in letters three inches high or greater. Because the sUAS will operate within one-half
+nautical mile of the ground station, the banner should be visible to anyone who observes the
+sUAS and chooses to investigate its point of origin.
+
+                  3. Section 45.27(a)- Location of Marks.
+         As discussed in item 2 above, IPC proposes to achieve an equivalent level of safety by
+including the word "EXPERIMENTAL" on the sUAS propeller booms, where individuals in the
+vicinity of the sUAS, while it is preparing for launch, will be able to see the designation.
+Additionally, the permanent placard discussed for item 13 below will provide sUAS registration
+
+                                                                                                                          /
+
+information should it be found on the ground, if it were ever lost. Finally, IPC will display at the
+ground station a high contrast flag or banner that contains the words "Unmanned Aircraft
+Ground Station" in letters three inches high or greater. Because the sUAS will operate within
+one-half nautical mile of the ground station, the banner should be visible to anyone who observes
+the sUAS and chooses to investigate its point of origin.
+
+                  4. Section 45.29(a), (b)(3), (c), (d), (e), and (f)- Size of Marks.
+         As discussed in items 2 and 3 above, IPC will achieve an equivalent level of safety by
+including the word "EXPERIMENTAL" on the sUAS propeller booms, where individuals in the
+vicinity ofthe sUAS, while it is preparing for launch, will be able to see the designation.
+Additionally, the permanent placard discussed for item 13 below will provide sUAS registration
+information should it be found on the ground, if it were ever lost. Finally, IPC will display at the
+ground station a high contrast flag or banner that contains the words "Unmanned Aircraft
+
+                                                     29
+Ground Station" in letters three inches high or greater. Because the sUAS will operate within
+
+one-half nautical mile of the ground station, the banner should be visible to anyone who observes
+
+the sUAS and chooses to investigate its point of origin.
+
+                  5. Section 61.113(a) and (b)- Private Pilot Privileges and Limitations.
+
+         By following certain requirements, an equivalent or higher level of safety can be
+
+maintained throughout all sUAS flight operations. Specifically, the sUAS will be operated in the
+
+field with both a pilot in command ("PIC") and a ground-based visual observer ("VO") in
+
+accordance with FAA Policy N 8900.227 Section 14 "Operational Requirements for UAS," with
+
+the following restrictions:
+
+                   (a) All operations will occur in Class G airspace at no more than 400 feet
+                            AGL. This provides safe separation between the sUAS and manned
+                            aircraft;
+
+                   (b) Operations will occur over property owned or controlled by IPC, over
+                            private property with the permission ofthe land owner, or over sparsely
+                            populated or unpopulated areas. This provides an order of safety and
+                            privacy from unwarranted surveillance of non-participating individuals;
+
+                   (c) Operations over unpopulated portions of public lands (e.g., public forests,
+                            national recreation areas, etc.) will occur with permission of the respective
+                            administrative agency (e.g., U.S. Forest Service, Bureau of Land
+                            Management, etc.) This provides a level of security to operations;
+
+                   (d) When necessary, all required permits will be obtained from federal, state,
+                            and local government prior to operation. This provides a level of security
+                            to operations;
+
+                  (e) The sUAS will not be operated over urban or populated areas. This
+                            provides for safety, security, and privacy of individuals, and separation
+                            from manned aircraft;
+
+                  (f) The sUAS will not be operated at air shows or over an open-air assembly
+                            of people. This provides a level of safety, security, and privacy of
+                            individuals, and separation from manned aircraft;
+
+                  (g) The sUAS will not be operated over heavily trafficked roads. This
+                            provides a level of safety, security, and privacy for individuals, and
+                            separation from manned aircraft;
+
+                                                            30
+                   (h) The sUAS will not be operated within five nautical miles of an airport or
+                            heliport with active ATC. This provides a level of security and safety with
+                            reference to separation from manned aircraft;
+
+                   (i) Operations will be limited to daytime, visual meteorological conditions.
+                            This provides for overall safe operations and enhances the ability to
+                            maintain separation from manned aircraft;
+
+                   G) The sUAS will remain within Visual Line of Sight, at no greater than one-
+                            half nautical mile of the PIC at all times. This provides for overall safe
+                            operations, and enhances the ability to maintain separation from manned
+                            aircraft;
+
+                   (k) While the sUAS is airborne, aVO will be positioned within normal voice
+                            distance to the PIC. This provides for overall safe operations, and
+                            enhances the ability to maintain separation from manned aircraft;
+
+                   (1) The PIC will file a notice to airmen ("NOTAM") providing radial/DME,
+                            radius, and a date/time group for each operation. This provides for overall
+                            safe operations, and enhances the ability to maintain separation with
+                            manned aircraft.
+
+         In addition, personnel who may act as PIC, operators, or VO will meet the requirements
+
+outlined in FAA Policy N 8900.227, Section 16 "Personnel Qualifications." These individuals
+
+will be required to successfully complete a FAA-recognized private pilot ground instruction and
+
+pass the FAA Private Pilot written examination. Therefore, operators will receive instruction in
+
+basic aeronautics, navigation, meteorology, and aviation regulations before conducting sUAS
+
+operations. This measure aligns with the rule proposed in Administration's Notice of Proposed
+Rulemaking,4 as a minimum requirement for commercial operators of unmanned aircraft that
+
+weigh less than 55 pounds.
+
+         Personnel who may act as PIC, operators, or VO will be required to complete ten hours of
+
+computer-based flight simulation (using the radio transmitter that controls the actual sUAS), and
+
+4 Operation and Certification of Small Unmanned Aircraft Systems, 80 Fed. Reg. 9544 (Feb. 23,
+2015).
+
+                                                            31
+ten training flight hours (or 60 flights) on the sUAS intended for use. These training exercises
+will occur before commencing actual field operations.
+
+         In other Section 333 exemptions the FAA has granted recently, the FAA has required a
+current commercial or private pilot certificate for the express purpose of satisfying security
+screening of operators. In lieu of obtaining commercial or private pilot certifications, and in
+order to fulfill Administration recommendations of complying with Department of Homeland
+Security ("DHS") security screenings, IPC requests that its operators undergo a security
+screening of equivalent level.
+
+         IPC notes that the Administration has found that similar requirements provided an
+equivalent or better level of safety for operation of sUAS for operations permitted pursuant to
+public COAs.
+
+         Additionally, the sUAS (MikroKopter- hexa) that IPC proposes to use has a high degree
+of pre-programmed safety control. Three levels of safety are pre-programmed into the sUAS and
+activated in the event of a loss of controllinlc First, each sUAS has four active radio receivers.
+If one fails, resulting in the loss oflink to the on-ground radio transmitter, any ofthe remaining
+three radio receivers will immediately pick up the control signal. Second, if all four radio
+receivers fail, and ifthe sUAS has GPS signal, it will immediately cease movement and hover in
+place at elevation for a pre-programmed amount of time. If control is not re-established during
+that time, the sUAS will then automatically return to its point oflaunch and initiate another pre-
+set hovering period. If control is not re-established during the home-point hover period, the
+sUAS will then automatically reduce power and return to the ground. Third, if all radio receivers
+fail, and ifthe sUAS does not have GPS signal, upon loss of control, the sUAS will immediately
+cease movement and initiate a pre-programmed hover period, at elevation. If control has not
+
+                                                           32
+been re-established by the end of the pre-set hover period, the sUAS will then reduce power and
+return to the ground.
+
+                   6. Section 61.133(a) - Commercial Pilot Privileges and Limitations.
+          As discussed in item 5 above, by following certain requirements, an equivalent or higher
+level of safety can be maintained throughout all sUAS flight operations. Specifically, the sUAS
+will be operated in the field with both a PIC and a ground-based VO in accordance with FAA
+Policy N 8900.227 Section 14 "Operational Requirements for UAS," with the restrictions noted
+in item 5 above.
+         Personnel who may act as PIC, operators, or VO will meet the requirements outlined in
+FAA Policy N 8900.227 Section 16 "Personnel Qualifications." These individuals will be
+required to successfully complete a FAA-recognized private pilot ground instruction and pass the
+FAA Private Pilot written examination. Therefore, operators will receive instruction in basic
+aeronautics, navigation, meteorology, and aviation regulations prior to conducting sUAS
+operations. Finally, based on the Administration's recent Notice of Proposed Rulemaking on
+sUAS, it appears to be the aim of the Administration to develop a new classification of airman
+specifically for the sUAS operations that would require operator training and certification
+identical to that which IPC proposes.
+         Personnel who ma:r act as PIC, operators, or VO will be required to complete training as
+noted in item number 5 above.
+         In other Section 333 exemptions the FAA has granted recently, the FAA has required a
+current commercial or private pilot certificate for the express purpose of satisfying security
+screening of operators. In lieu of obtaining commercial or private pilot certifications, and in
+order to fulfill FAA recommendations to comply with DHS security screenings, IPC requests
+that its operators undergo a security screening of equivalent level.
+
+                                                           33
+          IPC notes that the Administration has found that similar requirements provided an
+equivalent or better level of safety for operation of sUAS for cases of operations permitted
+pursuant to public COAs.
+
+                   7. Section 91.7(a)- Civil Aircraft Airworthiness.
+          An exemption to this section will not affect the level of safety intended by the
+Administration. An equivalent level of safety will be provided because sUAS operating manuals
+and pre- and post-flight checklists will be present at the ground station and followed by the
+operators. This will ensure an airworthy condition.
+
+                  8. Section 91.9(a), (b) and (c)- Civil Flight Manual, Markings, and
+                            Placard.
+
+          With respect to airworthy condition, see discussion in item 7 above.
+          With respect to markings and placards, see items 2, 3, and 4 above.
+          With respect to having flight manuals onboard the aircraft, given the small size and
+configuration of the sUAS, the lack of a cockpit, and the fact that no persons will be aboard the
+sUAS, it is unnecessary and not possible to carry the documents required by this section. To
+obtain an equivalent level of safety and meet the intent of Section 91.9, IPC will make a current,
+approved sUAS operating manual (see Exhibit 1) available to the operator at the ground station
+anytime the sUAS is being prepared for flight, or is in flight, so that the operator has immediate
+access to the manual. The Administration has previously issued exemptions to this regulation:
+See, e.g., Exemption Nos. 8607, 8737, 8738, 9299, 9299A, 9565, 9565B, 10167, 10167A, 10602,
+32827, and 10700.
+
+                  9. Section 91.109- Flight Instruction.
+         An equivalent level of safety can be assured with instruction provided through a training
+program. During training flights the instructor and trainee will be situated side by side, and the
+
+                                                            34
+control transmitter can be readily passed between the instructor and trainee. In addition, the
+sUAS will not carry a pilot or passengers. The size and speed of the sUAS, and its safety
+features limiting the potential for operation outside the operating conditions set forth in this
+Petition provide an equivalent level of safety. The FAA has approved exemptions for flight
+training without fully functional dual controls for a number of aircraft and for flight instruction
+in experimental aircraft. See Exemption Nos. 5778K and 9862A.
+
+                  10. Section 91.119- Minimum Safe Altitudes.
+         To provide an equivalent level of safety, flights will only occur over sparsely populated
+or un-populated areas, private property owned by IPC, or with the permission of the private
+property owners. If flown over private property not owned by IPC, and if bystanders are present,
+those individuals will be notified about the expected flight route and the associated risks to
+persons and property on the ground. Because of the small size, light weight, and speed of the
+sUAS, the risk to people, vessels, vehicles, and structures is substantially lower than that of
+manned aircraft operating at or below 500 AGL. The sUAS will not be operated over congested
+areas or over any open air assembly of people. The sUAS does not carry flammable fuel. The
+sUAS will be operated at an altitude allowing, if a power unit fails, an emergency landing
+without undue risk to people or property on the ground. The low altitude flight ofiPC's sUAS
+operations will ensure separation between IPC's sUAS operations and the normal operations of
+conventional manned aircraft, which generally operate above 500 feet AGL.
+
+                  11. Section 91.121 -Altimeter Settings.
+         An appropriate altimeter measurement presented to the sUAS operator/pilot should be
+above ground level based on the local barometric pressure at the point of launch. To provide an
+equivalent level of safety, the sUAS altimeter will be set to zero on the ground prior to each and
+every flight. Since the sUAS can fly no more than 20 minutes and is intended to remain within
+
+                                                     35
+the visual line of sight of the operator(s), even rapid changes in barometric pressure will have
+limited effect on the safety of the flight.
+
+                   12. Section 91.151(b)- Fuel Requirements.
+          Since IPC's operations generally require less than ten minutes and the sUAS will not be
+flown more than one-half nautical mile from the point of launch and intended landing, a full
+battery charge at launch will ensure that the intent ofthe reserve energy requirement ofthis
+section is met. IPC believes that relief from this section of 14 C.F.R. is safe and within the scope
+of exemptions to other applicants previously granted.
+
+                   13. Section 91.203 -Display of Civil Aircraft Certifications.
+          In order to meet or exceed an equivalent level of safety, IPC proposes to affix a placard to
+the sUAS that provides the following information:
+
+                   (a) Manufacturer;
+                   (b) Serial Number (or IPC Property Number);
+                   (c) IPC Contact Information.
+         In addition, registration documents will be kept on the ground at the control point where
+the operator will have immediate access to them.
+                  14. Sections 91.405(a), 91.407(a)(1), 91.409(a), and 91.417(a) and (b)
+
+                           inclusive - Required Maintenance.
+         IPC plans to have the PIC perform maintenance and inspection of the sUAS and be
+authorized to approve the sUAS for return to service. As provided in the attached sUAS
+operating manual (see Exhibit 1), the PIC will ensure that the sUAS is in an airworthy condition
+prior to flight and conduct detailed inspections after every ten hours of operation. Maintenance
+performed by the PIC will be limited to replacing rotor booms, replacing propellers, motors and
+wires, repairing and replacing the camera mount/gimbal, repairing and replacing landing struts,
+
+                                                          36
+ and updating software and firmware. All other maintenance will be performed by the
+manufacturer. The PIC will document work performed. IPC is confident that, because of the
+small size, construction, and simplicity ofthe sUAS, and lack of flammable fuel, the PIC can
+ensure an equivalent level of safety. In granting exemptions from these sections to other
+applicants, the Administration has found an equivalent level of safety compared to manned
+aircraft. See, e.g., Exemption Nos. 11109, 11136, and 11138.
+
+         F. Summary Suitable for Publication in the Federal Register.
+          IPC petitions the Federal Aviation Administration for relief from compliance with 14
+C.F.R. Part 21 Subpart H;14 C.F.R. Part 27; 14 C.F.R. §§ 45.23(a) and (b); 45.27(a); 45.29(a),
+(b)(3), (c), (d), (e) and (f); 61.113 (a) and (b); 61.133(a); 91.7(a); 91.9(a), (b) and (c); 91.109(a);
+91.119; 91.121; 91.151(b); 91.203; 91.405(a); 91.407(a)(l); 91.409(a); 91.417(a) and (b) for
+purposes of operating small unmanned aircraft weighing less than five pounds on property that is
+owned or controlled by IPC, over private property with permission of the landowner, and/or over
+sparsely populated or unpopulated areas. IPC proposes that its operation be subject to the
+operating conditions and safety standards set forth in the Petition in lieu ofthe above-referenced
+regulations in order to provide a level of safety equivalent to those regulations.
+         G. Additional Information.
+         In support of its Petition, IPC includes, for the Administration's review and
+consideration, the operating manual for the sUAS IPC plans to use for its natural resource,
+research, and monitoring, MikroKopter Pilots Operating Manual, translated from German
+(attached as Exhibit 1), the Checklist for Use Prior to First Flight, and After Major Maintenance
+Upgrades (attached as Exhibit 2), and MikroKopter Pre-Flight Checklist and MikroKopter Post-
+Flight Checklist (attached as Exhibit 3).
+
+                                                            37
+                        IV. CONCLUSION
+
+For the reasons set forth above, IPC satisfies the relevant criteria for approval under
+
+Section 333 of the Reform Act and exemptions from referenced regulations pursuant to 49
+
+U.S.C. § 44701 (f). Accordingly, IPC respectfully requests that the Administration grant the
+
+relief requested in this Petition to allow IPC to use sUAS for the purposes and under the
+
+conditions set forth herein. Granting this Petition will not only further Congress' instruction to
+
+expedite the safe integration ofUAS into the national airspace system, but will also further the
+
+significant public interest in the safe and reliable research and monitoring of natural resources.
+
+March 23, 2015          Respectfully submitted,
+
+                        Constance M. Pendlet n
+                        Davis Wright Tremaine LLP
+                        1919 Pennsylvania Ave, NW
+                        Suite 800
+                        Washington, DC 20006-3401
+                        Tel: (202) 973-4229
+                        Fax: (202) 973-4499
+                        Email: conniependleton@dwt.com
+
+                        Attorneys for Idaho Power Company
+
+IDAHO POWER COMPANY
+Phillip A. Groves
+Nathan Gardiner, Esq.
+1221 West Idaho Street
+Boise, Idaho 83702
+Tel: (208) 388-2597
+
+Applicant
+
+                        38
+

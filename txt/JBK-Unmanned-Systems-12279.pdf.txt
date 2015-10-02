@@ -1,0 +1,538 @@
+August 03, 2015
+
+                                                           Exemption No. 12279
+                                                           Regulatory Docket No. FAA­2015­2102
+
+Mr. James P. Gilbert, Jr.
+President
+JBK Unmanned Systems
+8 Sentinel Trail
+Palm Coast, FL 32164
+
+Dear Mr. Gilbert:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter dated May 26, 2015, you petitioned the Federal Aviation Administration (FAA) on
+behalf of JBK Unmanned Systems (hereinafter petitioner or operator) for an exemption. The
+petitioner requested to operate an unmanned aircraft system (UAS) to conduct aerial
+photography, videography, survey and mapping, inspections, and services for search and
+rescue/recovery and firefighting operations.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner are the DJI Inspire 1 and DJI Phantom 3.
+
+The petitioner requested relief from 14 CFR part 21, Certification procedures for products
+and parts, Subpart H--Airworthiness Certificates. In accordance with the statutory criteria
+                                                                                                                 2
+
+provided in Section 333 of Public Law 112-95 in reference to 49 U.S.C. § 44704, and in
+consideration of the size, weight, speed, and limited operating area associated with the
+aircraft and its operation, the Secretary of Transportation has determined that this aircraft
+meets the conditions of Section 333. Therefore, the FAA finds that the requested relief from
+14 CFR part 21, Certification procedures for products and parts, Subpart H--Airworthiness
+Certificates, and any associated noise certification and testing requirements of part 36, is
+not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection1. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+ They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+ The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+ A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, JBK Unmanned Systems is granted an exemption from
+14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a), 91.7(a), 91.119(c),
+91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a) and (b), to
+the extent necessary to allow the petitioner to operate a UAS to perform aerial data collection.
+This exemption is subject to the conditions and limitations listed below.
+
+1 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                              3
+
+Conditions and Limitations
+
+In this grant of exemption, JBK Unmanned Systems is hereafter referred to as the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+1. Operations authorized by this grant of exemption are limited to the DJI Inspire 1 and
+    DJI Phantom 3 when weighing less than 55 pounds including payload. Proposed
+    operations of any other aircraft will require a new petition or a petition to amend this
+    exemption.
+
+2. Operations for the purpose of closed-set motion picture and television filming are
+    not permitted.
+
+3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+    exemption holder may use either groundspeed or calibrated airspeed to determine
+    compliance with the 87 knot speed restriction. In no case will the UA be operated at
+    airspeeds greater than the maximum UA operating airspeed recommended by the
+    aircraft manufacturer.
+
+4. The UA must be operated at an altitude of no more than 400 feet above ground level
+    (AGL). Altitude must be reported in feet AGL.
+
+5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+
+    This requires the PIC to be able to use human vision unaided by any device other than
+    corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+    U.S. driver's license.
+
+6. All operations must utilize a visual observer (VO). The UA must be operated within
+    the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+    to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+    capability. The VO and PIC must be able to communicate verbally at all times;
+    electronic messaging or texting is not permitted during flight operations. The PIC
+    must be designated before the flight and cannot transfer his or her designation for the
+    duration of the flight. The PIC must ensure that the VO can perform the duties
+    required of the VO.
+
+7. This exemption and all documents needed to operate the UAS and conduct its
+    operations in accordance with the conditions and limitations stated in this grant of
+    exemption, are hereinafter referred to as the operating documents. The operating
+    documents must be accessible during UAS operations and made available to the
+    Administrator upon request. If a discrepancy exists between the conditions and
+    limitations in this exemption and the procedures outlined in the operating documents,
+                                                                                                            4
+
+    the conditions and limitations herein take precedence and must be followed.
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+                                                                                                            5
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+    exemption holder may apply for a new or amended COA if it intends to conduct
+    operations that cannot be conducted under the terms of the attached COA.
+                                                                                                            6
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+    be as large as practicable.
+
+23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+    any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+    PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+    These documents must be made available to the Administrator or any law enforcement
+    official upon request.
+
+24. The UA must remain clear and give way to all manned aviation operations and
+    activities at all times.
+
+25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless:
+      a. Barriers or structures are present that sufficiently protect nonparticipating persons
+          from the UA and/or debris in the event of an accident. The operator must ensure
+          that nonparticipating persons remain under such protection. If a situation arises
+          where nonparticipating persons leave such protection and are within 500 feet of
+          the UA, flight operations must cease immediately in a manner ensuring the safety
+          of nonparticipating persons; and
+      b. The owner/controller of any vessels, vehicles or structures has granted permission
+          for operating closer to those objects and the PIC has made a safety assessment of
+          the risk of operating closer to those objects and determined that it does not
+          present an undue hazard.
+
+    The PIC, VO, operator trainees or essential persons are not considered
+    nonparticipating persons under this exemption.
+
+27. All operations shall be conducted over private or controlled-access property with
+    permission from the property owner/controller or authorized representative.
+    Permission from property owner/controller or authorized representative will be
+    obtained for each flight to be conducted.
+
+28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+    boundaries of the operational area as defined by the applicable COA must be reported
+    to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+    reported to the National Transportation Safety Board (NTSB) per instructions
+    contained on the NTSB Web site: www.ntsb.gov.
+                                                                                                                 7
+
+ If this exemption permits operations for the purpose of closed-set motion picture and
+ television filming and production, the following additional conditions and limitations apply.
+
+    29. The operator must have a motion picture and television operations manual (MPTOM)
+         as documented in this grant of exemption.
+
+    30. At least 3 days before aerial filming, the operator of the UAS affected by this
+         exemption must submit a written Plan of Activities to the local Flight Standards
+         District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+         notification may be waived with the concurrence of the FSDO. The plan of activities
+         must include at least the following:
+           a. Dates and times for all flights;
+           b. Name and phone number of the operator for the UAS aerial filming conducted
+              under this grant of exemption;
+           c. Name and phone number of the person responsible for the on-scene operation of
+              the UAS;
+           d. Make, model, and serial or N-Number of UAS to be used;
+           e. Name and certificate number of UAS PICs involved in the aerial filming;
+           f. A statement that the operator has obtained permission from property owners
+              and/or local officials to conduct the filming production event; the list of those
+              who gave permission must be made available to the inspector upon request;
+           g. Signature of exemption holder or representative; and
+           h. A description of the flight activity, including maps or diagrams of any area, city,
+              town, county, and/or state over which filming will be conducted and the altitudes
+              essential to accomplish the operation.
+
+    31. Flight operations may be conducted closer than 500 feet from participating persons
+         consenting to be involved and necessary for the filming production, as specified in the
+         exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                                                 8
+
+This exemption terminates on August 31, 2017, unless sooner superseded or rescinded.
+
+Sincerely,
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+JBK Unmanned Systems
+8 Sentinel Trail
+Palm Coast, Fl 32164
+386.559.4831
+jbkunmannedsystems@gmail.com
+
+May 26th, 2015
+
+U. S. Department of Transportation
+Docket Management System
+1200 New Jersey Ave., SE
+Washington, DC 20590
+
+Re: Request for Exemption per PL 112-95 §333 from 14 CFR 61.113(a) and (b),
+14 CFR 91.103, 14 CFR 91.105, 14 CFR 91.109, 14 CFR 91.119, 14 CFR
+91.121, 14 CFR 91.151(a), 14 CFR 91.405(a), 14 CFR 91.407(a)(1), 14 CFR
+91.409(a)(2), 14 CFR 91.417(a) and (b)
+
+Dear Sir or Madam:
+
+JBK Unmanned Systems respectfully requests an exemption of the above
+applicable sections of title 14 CFR for the purpose of conducting commercial
+operations including, but not limited to, aerial photography, videography, survey
+and mapping, inspections as well as providing services for search and
+rescue/recovery and firefighting operations. JBK will use its small Unmanned
+Aircraft System(sUAS) within controlled access airspace, using licensed airmen,
+and will employ a comprehensive safety, training, and planning program. The
+employment of sUAS platforms for these missions should provide the FAA with
+good cause to find that these operations enhance safety by eliminating the need
+to use conventional aircraft in the sometimes unique environments where a
+sUAS would be particularly adept, but a conventional aircraft may pose a hazard
+to its crew and those on the ground.
+JBK Unmanned Systems requests exemption from the following applicable
+regulations, pursuant to the Administrator's authority to grant exemptions
+contained in 49 U.S.C. § 106(f), 40113, and 44701:
+14 CFR 21 Part H - Airworthiness Certificates,
+14 CFR 61.113(a) and (b) ­ Pilot in Command,
+14 CFR 91.103 ­ Preflight action,
+14 CFR 91.105 ­ Flight crewmembers at stations,
+14 CFR 91.109 ­ Flight instructions,
+14 CFR 91.119 - Minimum Safe Altitudes,
+14 CFR 91.121 - Altimeter settings,
+14 CFR 91.151(a) - Fuel requirements,
+14 CFR 91.405(a) - Maintenance required,
+14 CFR 91.407(a)(1) - Operations after maintenance,
+14 CFR 91.409(a)(2) - Inspections,
+14 CFR 91.417(a) and (b) ­ Maintenance records
+
+OPERATIONS OVERVIEW
+
+Our operations utilize sUAS in a manner that provides services not offered by
+manned aircraft or enhances the level of safety at which the tasks can be
+completed in manned aircraft. Examples of the proposed aerial photography
+operations include real estate, insurance damage assessment and various
+inspection services. These types of operations restrict the use of the sUAS to a
+small area typically encompassing a limited number of residential and
+commercial properties at a time. The areas in which the flight takes place can
+readily be protected with secured access. The structures on these properties
+provide sufficient protection from the sUAS and can be completed with much less
+risk than that of a manned operation at low altitudes.
+
+JBK's survey, mapping and inspection operations will include mapping and
+inspections of both agriculture and construction sites utilizing a sUAS rotorcraft
+flying pre-programmed grids that can be interrupted and returned to a safe
+landing zone. Currently these operations are executed by general aviation
+aircraft carrying hundreds of pounds of fuel and equipment flying at low altitudes
+and speeds. Our operation would greatly increase the level of safety, replacing
+large aircraft with a sUAS under 35 pounds and restricted to speeds no greater
+than 50 knots. These sites are areas that can readily be secured by JBK
+personnel and would not provide any additional risk to the general public.
+
+JBK Unmanned Systems will offer services to local public safety agencies where
+FAA rules and local laws permit. These services could include search and rescue
+of missing persons, evidence search, structural and wildland firefighting
+operations and other operations where permitted.
+Any operations under this exemption would be conducted in accordance with the
+strict parameters specified in the confidential Flight Operations Manual and
+confidential Pilot Operating Handbooks.
+
+The limitations and conditions that JBK Unmanned Systems agrees to be bound
+to include:
+
+1. The sUAS will weigh less than 35 lbs.
+2. Flights will be operated within VLOS of a pilot and/or observer and will be
+conducted during daylight hours only.
+3. Flights will be terminated at 25% battery power reserve.
+4. Flights will be operated at an altitude of no more than 400 feet AGL and
+ground speed will not exceed 50 knots.
+5. Preflight inspections of all components of the system and a safety risk
+assessment will be conducted and a separate log/checklist will be filed for each
+flight.
+6. Minimum crew for each operation will consist of the sUAS Pilot, the Visual
+Observer and based on results of the safety assessment may include a security
+coordinator. A sensor operator may also be used when necessary.
+7. Observer and pilot will at all times be able to communicate by voice.
+8. Pilot and observer will be trained in the operation of the UAS to be used and
+will receive up-to-date information on the particular UAS to be operated as
+required in the Flight Operations Manual (FOM will be provided upon request).
+9. sUAS pilot will be an FAA licensed airman with at least a sport pilot
+certificate and drivers license as required in the current FAA policy.
+10. The UAS will only operate within a confined "Safety Perimeter" as defined in
+the FOM.
+11. A briefing will be conducted in regard to the planned sUAS operations prior to
+each day's activities. It will be mandatory that all personnel who will be
+performing duties within the boundaries of the safety perimeter be present for this
+briefing.
+12. Written and/or oral permission from the relevant property holders will be
+obtained.
+13. All required permissions and permits will be obtained from territorial, state,
+county or city jurisdictions, including local law enforcement, fire, or other
+appropriate governmental agencies.
+14. If the sUAS loses communications or loses its GPS signal, the UAS will have
+the capability to return to a pre-determined location within the Safety Perimeter
+and land.
+AIRCRAFT TO BE UTILIZED
+
+JBK Unmanned Systems will utilize a DJI Inspire 1 and DJI Phantom 3 for its
+operations. The sUAS are rotocopter configuration and will weigh no more than
+35 pounds. They will operate no faster than 50 knots groundspeed. The aircraft
+are agile, having the ability to hover, and move about its three axes
+simultaneously. The aircraft will be operated below 400 feet Above Ground Level
+(AGL) and continuously within the Pilot in Command's (PIC) line of sight, so as to
+not create a hazard to users of the national airspace system or public.
+
+The above aircraft are equipped with the following safety features:
+
+    1) Both units have a "Return to Home" feature that is automatically activated
+         when controller signal is lost and can be activated manually when
+         problems occur or a preset battery level indicator is activated.
+
+    2) Both units have GPS capability that provides stability and allows the PIC
+         more control in various conditions.
+
+    3) Both units have programming such as "No Fly Zone" (preprogrammed no
+         fly zones around certain airports) and "Flight Limitations" that provide the
+         ability to manually program height and distance limitations to meet FAA
+         rules.
+
+    4) The Inspire 1 has dual controllers so the camera can be controlled by a
+         second operator, thus allowing the PIC complete concentration on flight
+         operations only.
+
+    5) The Phantom 3 has a "Waypoint System" allowing preprogrammed flight
+         operations in certain circumstance.
+
+Because of the sUAS' specifications and flight characteristics, it poses no threat
+to national security.
+
+FLIGHT CREW
+
+All of JBK Unmanned Systems operations will be performed by FAA licensed
+pilots with trained Visual Observers and, where necessary, Site Security
+Coordinators. These operations will be in controlled and secured environments
+and only after a safety assessment has been completed. Prior to flight, the PIC
+and Visual Observer (VO) will complete the qualification process as outlined in
+the company's FOM. The Pilot in Charge will possess, at a minimum, a sport
+pilot's certificate, meet applicable recent flight experience requirements and hold
+a state driver's license. The Visual Observer will be trained in accordance with
+the company's FOM.
+PREFLIGHT ACTION
+
+In accordance with 14 CFR 91.103, the PIC will, at minimum, receive a weather
+briefing, survey the launch and recovery environments and review takeoff and
+landing distances and other applicable aircraft performance data, check the
+aircraft and ground station/transmitter battery levels, and brief the Visual
+Observer (VO) and any other supporting crew on the mission, safety, and
+contingencies. All flights will be conducted in Day VMC conditions. Minimum
+flight crew shall include the PIC, Visual Observer to assist with seeing-and-
+avoiding other aircraft, a Site Security Coordinator as determined by preflight risk
+analysis.
+
+FUEL REQUIREMENTS
+
+All JBK Unmanned Systems PICs will terminate flights when remaining battery
+power level reaches 25%.
+
+sUAS MAINTENANCE
+
+JBK Unmanned Systems will conduct all maintenance on the sUAS in
+accordance with the FOM, POH and Manufacturer user manuals. All
+maintenance will be conducted by trained JBK Unmanned Systems personnel.
+Repairs will be conducted by same or authorized manufacturer representative
+and will require a test flight after completion. Maintenance, repair and software
+update logs will be strictly maintained and available for inspection by the proper
+authorities.
+
+FLIGHT SAFETY AND SECURITY
+
+Because of the relatively small operating perimeter, any mechanical issues that
+may arise during a flight could be quickly mitigated by terminating the flight.
+Security of flight operations will follow procedures outlined in earlier sections.
+FOM and POH include sections on limitations of safe operations as well as
+emergency and abnormal operating procedures. Requirements for basic training
+and continuing education have been established.
+
+Several principals of JBK Unmanned are current or former law enforcement
+and/or fire service personnel, including FEMA and USAR operations. Safety and
+security of all flights is of the utmost importance to JBK. The safety and security
+of flight operations personnel and the public will not be adversely affected during
+these activities.
+PUBLIC BENEFIT
+
+Use of sUAS technology to obtain imagery, information and data currently
+obtained by use of manned flight or manual methods:
+
+         1) Reduces statistical risk to human life due to manned aircraft accidents
+or due to other dangerous activities that can be avoided.
+
+         2) Reduces the cost of obtaining such information, which benefits
+consumers and the economy.
+
+         3) Reduces environmental impact by eliminating sources of hydrocarbon
+emissions from manned aircraft.
+
+CONCLUSION
+
+Satisfaction of the criteria provided in Section 333 of the Reform Act of
+2012 (size, weight, speed, operating capabilities, proximity to airports and
+populated areas and operation within visual line of sight and national security)
+provide more than adequate justification to grant JBK Unmanned Systems
+requested exemption, allowing for JBK Unmanned Systems commercial
+operations for the purpose of photography, videography, inspections and survey
+pursuant to the company's FOM and POH. Confidential Manuals are available on
+request.
+
+Sincerely,
+
+James P. Gilbert Jr.
+President, JBK Unmanned Systems
+

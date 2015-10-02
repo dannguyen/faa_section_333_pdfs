@@ -1,0 +1,1098 @@
+August 3, 2015
+
+                                                           Exemption No. 12272
+                                                           Regulatory Docket No. FAA­2015­2143
+
+Mr. Cameron R Cloar-Zavaleta
+Nixon Peabody, LLP
+Counsel
+One Embarcadero Center, 18th Floor
+San Francisco, CA 94111-3600
+
+Dear Mr. Cloar-Zavaleta:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter dated May 20, 2015, you petitioned the Federal Aviation Administration (FAA) on
+behalf of Pepper Construction Company (hereinafter petitioner or operator) for an exemption.
+The petitioner requested to operate an unmanned aircraft system (UAS) to conduct aerial
+imagery, inspection, and data collection services in construction.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner are the DJI Phantom 2 Vision + and DJI Inspire 1.
+                                                                                                                 2
+
+The petitioner requested relief from 14 CFR part 21, Certification procedures for products
+and parts, Subpart H--Airworthiness Certificates. In accordance with the statutory criteria
+provided in Section 333 of Public Law 112-95 in reference to 49 U.S.C. § 44704, and in
+consideration of the size, weight, speed, and limited operating area associated with the
+aircraft and its operation, the Secretary of Transportation has determined that this aircraft
+meets the conditions of Section 333. Therefore, the FAA finds that the requested relief from
+14 CFR part 21, Certification procedures for products and parts, Subpart H--Airworthiness
+Certificates, and any associated noise certification and testing requirements of part 36, is
+not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection1. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+· They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+· The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+· A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, Pepper Construction Company is granted an exemption
+from 14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a), 91.7(a),
+91.119(c), 91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a)
+
+1 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                                                 3
+
+and (b), to the extent necessary to allow the petitioner to operate a UAS to perform aerial data
+collection. This exemption is subject to the conditions and limitations listed below.
+
+Conditions and Limitations
+
+In this grant of exemption, Pepper Construction Company is hereafter referred to as
+the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+    1. Operations authorized by this grant of exemption are limited to the DJI Phantom 2
+         Vision + and DJI Inspire 1 when weighing less than 55 pounds including payload.
+         Proposed operations of any other aircraft will require a new petition or a petition to
+         amend this exemption.
+
+    2. Operations for the purpose of closed-set motion picture and television filming are
+         not permitted.
+
+    3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+         exemption holder may use either groundspeed or calibrated airspeed to determine
+         compliance with the 87 knot speed restriction. In no case will the UA be operated at
+         airspeeds greater than the maximum UA operating airspeed recommended by the
+         aircraft manufacturer.
+
+    4. The UA must be operated at an altitude of no more than 400 feet above ground level
+         (AGL). Altitude must be reported in feet AGL.
+
+    5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+         This requires the PIC to be able to use human vision unaided by any device other than
+         corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+         U.S. driver's license.
+
+    6. All operations must utilize a visual observer (VO). The UA must be operated within
+         the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+         to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+         capability. The VO and PIC must be able to communicate verbally at all times;
+         electronic messaging or texting is not permitted during flight operations. The PIC
+         must be designated before the flight and cannot transfer his or her designation for the
+         duration of the flight. The PIC must ensure that the VO can perform the duties
+         required of the VO.
+
+    7. This exemption and all documents needed to operate the UAS and conduct its
+         operations in accordance with the conditions and limitations stated in this grant of
+                                                                                                            4
+
+    exemption, are hereinafter referred to as the operating documents. The operating
+    documents must be accessible during UAS operations and made available to the
+    Administrator upon request. If a discrepancy exists between the conditions and
+    limitations in this exemption and the procedures outlined in the operating documents,
+    the conditions and limitations herein take precedence and must be followed.
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+                                                                                                            5
+
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+                                                                                       6
+
+exemption holder may apply for a new or amended COA if it intends to conduct
+operations that cannot be conducted under the terms of the attached COA.
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+    be as large as practicable.
+
+23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+    any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+    PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+    These documents must be made available to the Administrator or any law enforcement
+    official upon request.
+
+24. The UA must remain clear and give way to all manned aviation operations and
+    activities at all times.
+
+25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless:
+      a. Barriers or structures are present that sufficiently protect nonparticipating persons
+          from the UA and/or debris in the event of an accident. The operator must ensure
+          that nonparticipating persons remain under such protection. If a situation arises
+          where nonparticipating persons leave such protection and are within 500 feet of
+          the UA, flight operations must cease immediately in a manner ensuring the safety
+          of nonparticipating persons; and
+      b. The owner/controller of any vessels, vehicles or structures has granted permission
+          for operating closer to those objects and the PIC has made a safety assessment of
+          the risk of operating closer to those objects and determined that it does not
+          present an undue hazard.
+
+The PIC, VO, operator trainees or essential persons are not considered
+nonparticipating persons under this exemption.
+
+27. All operations shall be conducted over private or controlled-access property with
+    permission from the property owner/controller or authorized representative.
+    Permission from property owner/controller or authorized representative will be
+    obtained for each flight to be conducted.
+
+28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+    boundaries of the operational area as defined by the applicable COA must be reported
+    to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+                                                                                               7
+
+reported to the National Transportation Safety Board (NTSB) per instructions
+contained on the NTSB Web site: www.ntsb.gov.
+
+If this exemption permits operations for the purpose of closed-set motion picture and
+television filming and production, the following additional conditions and limitations apply.
+
+29. The operator must have a motion picture and television operations manual (MPTOM)
+    as documented in this grant of exemption.
+
+30. At least 3 days before aerial filming, the operator of the UAS affected by this
+    exemption must submit a written Plan of Activities to the local Flight Standards
+    District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+    notification may be waived with the concurrence of the FSDO. The plan of activities
+    must include at least the following:
+      a. Dates and times for all flights;
+      b. Name and phone number of the operator for the UAS aerial filming conducted
+          under this grant of exemption;
+      c. Name and phone number of the person responsible for the on-scene operation of
+          the UAS;
+      d. Make, model, and serial or N-Number of UAS to be used;
+      e. Name and certificate number of UAS PICs involved in the aerial filming;
+      f. A statement that the operator has obtained permission from property owners
+          and/or local officials to conduct the filming production event; the list of those
+          who gave permission must be made available to the inspector upon request;
+      g. Signature of exemption holder or representative; and
+      h. A description of the flight activity, including maps or diagrams of any area, city,
+          town, county, and/or state over which filming will be conducted and the altitudes
+          essential to accomplish the operation.
+
+31. Flight operations may be conducted closer than 500 feet from participating persons
+    consenting to be involved and necessary for the filming production, as specified in the
+    exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                      8
+
+This exemption terminates on August 31, 2017, unless sooner superseded or rescinded.
+
+Sincerely,
+
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+                                                                                                                    C ameron R C loar-Z avaleta
+                                                                                                                    A ssociate
+                                                                                                                    T 415-984-8285
+                                                                                                                    ccloar@nixonpeabody.com
+
+                                                                                                                    One Embarcadero Center, 18th Floor
+                                                                                                                    San Francisco, CA 94111-3600
+                                                                                                                    415-984-8200
+
+                                                  May 20, 2015
+
+U.S. Department of Transportation
+Docket Management System
+1200 New Jersey Ave, SE
+Washington, DC 20590
+
+         RE: Exemption Request Under Section 333 of the FAA Reform Act and Part 11
+                  of the Federal Aviation Regulations
+
+Dear Sir or Madam:
+
+Pursuant to Section 333 of the FAA Modernization and Reform Act of 2012 (the "Reform Act"
+or "Section 333"), Subsection (f) of 49 U.S.C. § 44701, and 14 C.F.R. Part 11, Pepper
+Construction Company ("Pepper Construction") seeks an exemption from the Federal Aviation
+Regulations ("FARs") listed below and discussed in A ppend ix A to allow it to operate the DJI
+Phantom 2 Vision+ and DJI Inspire 1 small Unmanned Aircraft Systems (collectively, "sUAS").
+Pepper Construction is a construction firm that constructs buildings and acts as a general
+contractor in a number of industries including, without limitation, healthcare, education,
+hospitality, industrial, entertainment and retail, office and corporate headquarters. Pepper
+Construction plans to use the sUAS for aerial imagery, inspection and data collection services
+for its projects at construction sites across the United States. The information collected by the
+sUAS will help Pepper Construction inspect, monitor and oversee its construction projects. This
+will in turn translate to improved and more real-time decisions in construction that will enhance
+overall safety and lead to economic efficiencies.
+
+The safety and public benefits of using the sUAS in commercial construction applications are
+significant. The sUAS reduce the need to operate manned aircraft in unconventional operations,
+provide more accurate data in a manner that is more safe, economical and efficient, and with a
+reduced impact on the environment. Importantly, use of the sUAS also allows Pepper
+Construction to limit inspections and construction site monitoring that must otherwise be
+accomplished by individuals, often times involving lifts, ladders, scaffolds and other equipment
+at a height above the surface. Injuries and fatalities of construction workers performing such
+tasks are well-documented. Accordingly, use of the sUAS for these services will result in
+increased safety for construction workers.
+
+                                                                                                                                                                                   4810-8141-4946.1
+May 20, 2015
+Page 2
+
+Operations pursuant to the exemption will be subject to strict operating requirements and
+conditions to ensure at least an equivalent level of safety to currently authorized operations
+using manned aircraft and under conditions as may be modified by the FAA as required by
+Section 333. The Phantom 2 Vision+ weighs approximately 2.7 pounds (1,242 grams) and the
+Inspire 1 weighs approximately 6.5 pounds (2,935 grams). Both models are powered electrically
+via small, lithium polymer batteries that drive electric propellers. They operate at a cruising
+speed of no more than 22 meters per second (the Phantom Vision 2+ operates at a maximum of
+15 m/s and the Inspire 1 at a maximum of 22 m/s). The sUAS were designed with extensive
+automated control features, redundant systems, and integrated fail-safes, and they will be
+operated under controlled conditions and at low altitudes in airspace that is limited in scope.
+
+Though the sUAS may safely be operated by one person, flight operations performed pursuant
+to this exemption will consist of at least two people: a pilot-in-command (the "PIC") and visual
+observer. The PIC is responsible for the direct and safe operation of the sUAS, monitoring their
+status and flight dynamics while maintaining visual line of sight and keeping the flight within
+the manufacturer's specified limits in terms of wind, flight range, battery life, and other
+operating limitations. The observer will be responsible for monitoring the airspace for other
+aircraft and hazards, advising the PIC before and during flight of all such observed risks, and
+monitoring the controlled operating area. Individuals acting as the PIC will complete training
+specific to the sUAS. The PIC will be a certificated airman who holds either an airline transport,
+commercial, private, recreational or sport pilot certificate. The PIC must also hold a current
+FAA airman medical certificate or a valid U.S. driver's license issued by a state, the District of
+Columbia, Puerto Rico, a territory, possession, or the federal government.
+
+Because the sUAS will be used in lieu of comparatively higher risk operations now conducted
+with either fixed wing and rotary manned aircraft or by individuals, the FAA can have
+confidence that Pepper Construction's operations will achieve at least an equivalent level of
+safety and fulfill the Secretary of Transportation's responsibilities under Section 333(c) of the
+Reform Act to "establish requirements for the safe operation of such aircraft systems in the
+national airspace system." Moreover, the FAA has already granted many 333 exemption
+requests for operation of the sUAS models requested here. [See, e.g,FAA Exemption Nos.
+11325; 11351; 11357; 11325, 11327.] Accordingly, it should grant this exemption request
+without delay.
+
+A pplicantInformation
+
+The name of the applicant is:
+
+Pepper Construction Company
+
+                                                                                                                                                                                   4810-8141-4946.1
+May 20, 2015
+Page 3
+
+The primary contact for this application is:
+
+Kevin Bredeson
+Pepper Construction Company
+411 Lake Zurich Road
+Barrington, Illinois 60010
+Phone: (847) 381-2760
+E-mail: kbredeson@pepperconstruction.com
+
+E x emptions Requ ested
+
+Pepper Construction respectfully requests exemptions from the following regulations:1
+
+14 C.F.R. Part 21, Subpart H;
+14 C.F.R. § 91.7;
+14 C.F.R. § 91.9(b)(2);
+14 C.F.R. § 91.113;
+14 C.F.R. § 61.113(a), (b);
+14 C.F.R. § 61.133(a);
+14 C.F.R. § 91.119(c);
+14 C.F.R. § 91.121;
+14 C.F.R. § 91.151;
+14 C.F.R. § 91.203;
+14 C.F.R. § 91.405(a) and (b);
+14 C.F.R. § 91.407(a)(1);
+14 C.F.R. § 91.409(a)(1)-(2); and
+14 C.F.R. § 91.417(a).
+
+               TH E A P P L IC A B L E L E GA L S TA N D A RD UN D E R S E C TIO N 333
+
+Grant of this exemption application for use of the sUAS in precision aerial photography, data
+collection and inspection and monitoring applications will advance the Congressional
+mandate in Section 333 of the Reform Act to accelerate the introduction of UAS into the
+national airspace system ("NAS") if it can be accomplished safely. This law directs the
+Secretary of Transportation to consider whether certain UAS may operate safely in the NAS
+before completion of the rulemaking required under Section 332 of the Reform Act. In
+
+1 As set forth in Appendix B, Pepper Construction will operate under similar operating conditions as those required
+in the other grants of exemption, in which exemptions for certain FARs were deemed by the FAA as "not
+necessary." Accordingly, Pepper Construction does not request FAA exemption from 14 C.F.R. 45.23(b), 91.103,
+and 91.109(a). If the FAA determines that relief from these or any other regulation is required for the operations
+proposed herein, Pepper Construction will be happy to submit an amendment to this request and include
+justifications for those necessary additional exemptions.
+
+                                                                                                                                                                                   4810-8141-4946.1
+May 20, 2015
+Page 4
+
+making this determination, the Secretary is required to determine which types of UAS do not
+create a hazard to users of the NAS or the public, or pose a threat to national security in light
+of the following:
+
+              The UAS's size, weight, speed, and operational capability;
+
+              Operation of the UAS in close proximity to airports and populated areas; and
+
+              Operation of the UAS within visual line of sight of the operator.
+
+Reform Act § 333(a)(1). If the Secretary determines that such vehicles "may operate safely in
+the national airspace system, the Secretary shall establish requirements for the safe operation
+of such aircraft in the national airspace system." Id .§333(c) (emphasis added).2
+
+The Federal Aviation Act expressly grants the FAA the authority to issue exemptions. This
+statutory authority, by its terms, includes exempting civil aircraft, as the term is defined under
+§40101 of the Act, from the requirement that all civil aircraft must have a current
+airworthiness certificate and those regulations requiring commercial pilots to operate aircraft
+in commercial service:
+
+             The Administrator may grant an exemption from a requirement
+             of a regulation prescribed under subsection (a) or (b) of this
+             section or any of sections 44702-44716 of this title if the
+             Administrator finds the exemption is in the public interest.
+
+49 U.S.C. §44701(f). S ee also 49 USC §44711(a); 49 USC §44704.
+
+The grant of the requested exemption is in the public interest based on the clear direction in
+Section 333 of the Reform Act; the additional authority in the Federal Aviation Act, as
+amended; the strong equivalent level of safety surrounding the proposed operations; and the
+significant public benefit, including enhanced safety and cost savings associated with
+transitioning to UAS for aerial imagery, data collection and inspection services. Pepper
+Construction therefore respectfully requests that the FAA grant the requested exemption without
+delay.
+
+2 This provision places a duty on the Administrator to not only process applications for exemptions under
+Section 333, but for the Administrator, if he deems the conditions proposed herein to require modification in
+order to allow approval, to supply conditions for the safe operation of the UAS. Pepper Construction welcomes
+the opportunity to consult with FAA staff to address any issues or concerns that this proposal may raise that
+FAA staff believes may require modification.
+
+                                                                                                                                                                                   4810-8141-4946.1
+May 20, 2015
+Page 5
+
+A irworthiness of the D JIP hantom 2 V ision+and the D JIInspire 1
+
+One element of the exemption application involves evidence of the airworthiness of the sUAS.
+Pepper Construction believes that the sUAS have been shown to be airworthy and compliant
+with a significant level of safety. The many previous 333 Grants of Exemptions by the FAA
+further highlight that operations of the sUAS will not adversely affect safety when compared to
+similar operations conducted by aircraft that have been issued an airworthiness certificate under
+14 C.F.R. Part 21, Subpart H. [E .g.,FAA Exemption Nos. 11357, 11325.]
+
+To enhance safety, it is also important to note that the sUAS are equipped with automated
+features which enhance safe takeoff, flight, and landing in many conditions, further details of
+which are provided in the applicable DJI User Manuals.3
+
+To maintain airworthiness, Pepper Construction will follow the inspection and maintenance
+programs designed specifically for the sUAS by their manufacturer, DJI. Those programs are
+enhanced by an inflight monitoring system for the sUAS that monitor current position, wind
+speed and direction, battery charge, flight time, and altitude, including both above the takeoff
+location and above sea level. If onboard sensors detect a critical situation at any time (low
+battery, close proximity to the ground, weak data link signal, etc.) the sUAS will automatically
+initiate a preprogrammed safety procedure. In the event of any malfunction, the sUAS will
+undergo all maintenance required by the manufacturer and undergo flight testing before
+recommencing commercial operations.
+
+P roposed O perations and A ssociated C ond itions
+
+Pepper Construction intends to use the sUAS that weigh significantly less than 55 pounds for
+the purpose of collecting aerial photography and data, as well as aerial inspection and
+monitoring applications at commercial construction sites.
+
+All of the sUAS operations will occur under tightly controlled conditions on privately owned
+land at the owner's request and consent, solely during daylight hours, and at altitudes well
+below that which would pose a risk to other aircraft. The operations will take place in areas
+away from people, crowds and airports. Moreover, due to the nature and purpose of the
+operations, Pepper Construction anticipates that it will fly the sUAS at relatively low altitudes
+and speeds. The risk of interference with another aircraft is therefore minimal.
+
+3 Pepper Construction submits the following documents, as proprietary and under confidentiality, in support of this
+exemption request: the DJI Inspire 1 Safety Guidelines v1.0, Inspire 1 User Manual v1.0, Inspire 1 Quick Start
+Guide v1.0, Inspire 1 Maintenance Manual v1.0, Intelligent Flight Battery Safety Guidelines v1.0, Phantom 2
+Vision+ User Manual v1.8, Smart Flight Battery Guidelines, Phantom 2 Vision+ Pilot Training Guide v1.1, and the
+Phantom 2 Vision+ Quick Start Guide. At the request of the FAA, Pepper Construction will also be pleased to
+provide, under confidentiality, its sUAS General Operations Manual ("GOM").
+
+                                                                                                                                                                                   4810-8141-4946.1
+May 20, 2015
+Page 6
+
+Grant of this exemption to Pepper Construction will be subject to the conditions listed in
+A ppend ix B , which are based upon the operating conditions required by the FAA's previous
+grants of exemptions. The sUAS are characterized by a high degree of pre-programmed control
+and various built-in technical capabilities that limit the potential for operation outside of the
+conditions set forth in A ppend ix B . They were also designed with internal functional and safety
+features to assist the operator in safe and reliable operation. With pre-programmed flights and
+manual control, operators can easily maintain separation from manned aircraft operations and
+avoid other hazards. In the controlled environment under the operations conditions in A ppend ix
+B , operations will remain within visual line-of-sight (VLOS) and below 400 feet AGL. In
+addition, Pepper Construction will obtain a Certificate of Waiver or Authorization from the
+FAA Air Traffic Organization to address airspace requirements and provide notification by a
+Notice to Airman (NOTAM).
+
+O peratorRequ irem ents
+
+As a condition to the grant of the exemptions, Pepper Construction will require that the PIC
+hold either an airline transport, commercial, private, recreational or sport pilot certificate. The
+PIC must also hold a current FAA airman medical certificate or a valid U.S. driver's license
+issued by a state, the District of Columbia, Puerto Rico, a territory, possession, or the federal
+government. The PIC will also be subject to the flight review requirements pursuant to the
+Federal Aviation Regulations ("FARs").
+
+In addition, the PIC must complete a training program for each sUAS that he or she will operate
+for Pepper Construction. This training familiarizes the PIC to the operations and limitations of
+the sUAS. Training will also include discussions on the basic fundamentals of UAS
+aerodynamics and technical limitations, as well as the more general topics of weather, the
+National Airspace System, and the regulatory framework.
+
+Pepper Construction does not believe that certified airmen, medical certificates, and the related
+operating conditions, are necessary or required to operate the sUAS. However, Pepper
+Construction will accept these requirements as a condition to the grant of this exemption. If, and
+when, the FAA finds such conditions unnecessary for operations conducted pursuant to Section
+333 exemptions, Pepper Construction respectfully reserves the right to amend its operating
+conditions and request exemption from the relevant FARs to operate without such conditions.
+
+P u blic Interest
+
+The use of the sUAS in lieu of comparatively hazardous operations currently conducted with
+conventional fixed wing and rotary aircraft offers a net safety benefit and will achieve an
+enhanced level of safety, as mandated under Section 333(c) of the Reform Act. Approval of this
+application will also benefit the public interest by allowing better, safer, and more cost efficient
+information for Pepper Construction and the public. Moreover, it will lessen the need for
+
+                                                                                                                                                                                   4810-8141-4946.1
+May 20, 2015
+Page 7
+
+inspections by individuals that must often use equipment to observe construction sites from
+heights above the surface.
+
+Conventional aerial photography, inspection and monitoring operations using manned aircraft
+involve heavy aerial aircraft that must transit from airports to the operational location, carrying
+significant amounts of combustible fuel, and a multi-person crew. Manned aircraft are also at
+risk of fuel spillage and fire in the event of an accident or incident. By contrast, use of the sUAS
+is safe, economical and efficient. The Phantom 2 Vision+ weighs approximately 2.7 pounds and
+the DJI Inspire 1 weighs approximately 6.5 pounds. Both sUAS are carried (not flown) to and
+from the area of activity, remove the need for an airborne crew, and pose less risk to people and
+infrastructure on the ground, as well as other aircraft.
+
+No national security issue is raised by the grant of the requested exemptions. Given the size,
+load-carrying capacity, the speed at which the sUAS operates (less than 25 meters per second),
+and the fact that they do not carry explosives or other dangerous materials, the use of the sUAS
+pose no threat to national security. In fact, the threat of causing damage to property is
+significantly reduced with the extremely low weight of the sUAS and limited operating areas.
+Any other security concerns are ameliorated by the fact that all individuals holding an FAA
+airman certificate are subject to a security screening by the U.S. Department of Homeland
+Security. 49 U.S.C. § 44903(j)(2)(D)(i).
+
+The grant of the requested exemption is in the public interest based on the clear direction in
+Section 333, the Federal Aviation Act,4 the high and equivalent level of safety of the proposed
+operations, and the significant public benefit, including enhanced safety and cost savings to be
+realized as a result of the use of the sUAS for aerial imagery, data collection and inspections. It
+is also in-line with the previous Grants of Exemption by the FAA for the same and similar
+sUAS models. [FAA Exemption Nos. 11357, 11325, 11327.] Accordingly, Pepper Construction
+respectfully requests that the FAA grant an expedited exemption.
+
+///
+
+4 The Federal Aviation Act expressly grants the FAA the authority to issue exemptions: The Administrator may grant an
+exemption from a requirement of a regulation prescribed under subsection (a) or (b) of this section or any of sections 44702-
+44716 of this title if the Administrator finds the exemption is in the public interest. 49 U.S.C. § 44701(f).
+
+                                                                                                                                                                                   4810-8141-4946.1
+May 20, 2015  Very truly yours,
+Page 8        NIXON PEABODY, LLP
+
+CRCZ          Cameron R Cloar-Zavaleta
+
+                                        4810-8141-4946.1
+May 20, 2015
+Page 9
+
+                                                 A P P E N D IX A
+
+    E X E M P TIO N RE Q UE S T A N D E Q UIV A L E N T L E V E L O F S A FE TY S H O W IN GS
+                  UN D E R A P P L IC A B L E RUL E S S UB JE C T TO E X E M P TIO N
+
+14 C .F.R.P art21,S u bpartH :A irworthiness
+C ertificates 14 C FR § 91.203(a)(1)
+
+Section 91.203(a)(1) requires all civil aircraft to have a certificate of airworthiness. Part 21,
+Subpart H, entitled Airworthiness Certificates, establishes the procedural requirements for the
+issuance of airworthiness certificates as required by FAR § 91.203(a)(1). Given the very small
+size of the aircraft and the limited operating area associated with their utilization, it is
+unnecessary to go through the certificate of airworthiness process under Part 21 Subpart H to
+achieve or exceed current safety levels.5
+
+Such an exemption meets the requirements of an equivalent level of safety under Part 11 and
+Section 333 of the Reform Act. The Federal Aviation Act and Section 333 of the Reform Act
+both authorize the FAA to exempt aircraft from the requirement for an airworthiness
+certificate, upon consideration of the size, weight, speed, operational capability, and
+proximity to airports and populated areas of the UAS involved.
+
+In this case, an analysis of these criteria demonstrates that the sUAS operated without an
+airworthiness certificate, under the conditions proposed herein, will be at least as safe, or safer,
+than a conventional aircraft (fixed wing or rotorcraft) with an airworthiness certificate. The
+Phantom 2 Vision+ weighs approximately 2.7 pounds, and the DJI Inspire 1 weighs
+approximately 6.5 pounds. Neither model carries a pilot or passenger; they do not carry
+flammable fuel, and will operate exclusively within an area pre-disclosed and in compliance
+with conditions set forth herein. Operations under this exemption will be tightly controlled
+and monitored by the operator, pursuant to the conditions set forth in A ppend ix B , the
+applicable DJI manuals, the Pepper Construction sUAS General Operations Manual
+("GOM"), and by local public safety requirements.
+
+The FAA will have advance notice of all operations through the filing of NOTAMs. Receipt
+of the prior permission of the land owner (or lessee), the size of the aircraft, the lack of
+flammable fuel, and the fact that the aircraft is carried to the location and not flown there all
+establish the equivalent level of safety. The sUAS provide at least an equivalent level of
+
+5 The FAA has stated that no exemption is needed from this section if a finding is made under the Reform Act that
+the sUAS provide an equivalent level of safety when compared to aircraft normally used for the same application.
+These criteria are satisfied and therefore no exemption is needed. [S ee, e.g.,Exemption No. 11220 (an exemption
+from 91.203 not required for the Phantom).] However, Pepper Construction requests an exemption in the event that
+the FAA determines that some characteristics of the sUAS fail to meet the requirements of the Reform Act.
+
+                                                                                                                                                                                   4810-8141-4946.1
+May 20, 2015
+Page 10
+
+safety to that of such operations conducted with conventional manned aircraft that would be
+orders-of-magnitude larger and would be carrying passengers, cargo, and flammable fuel.
+The safety features including the redundant sensor systems, as described in the DJI User
+Manuals, and throughout this document, underscore the importance placed on safety and
+reliability in the design and manufacture of the sUAS.
+
+14 C .F.R.§ 91.7 (a)-(b);C ivilA ircraftA irworthiness
+
+Section 91.7(a) requires that a civil aircraft must be in airworthy condition to be operated. In
+previous grants of exemption for the sUAS, the FAA concluded that an exemption was
+required under 14 C.F.R. § 91.7(a). In each instance, the FAA granted relief under § 91.7(a)
+through a requirement that each petitioner ensure that the sUAS is in an airworthy condition
+­ based on compliance with the User Manual ­ prior to every flight. [S ee,e.g, Exemption No.
+11220, p. 5.] Pepper Construction therefore requests that the FAA find similar relief under
+the same conditions here.
+
+Section 91.7(b) places responsibility on the PIC to ensure an aircraft is in a condition safe
+for flight. In prior grants of exemption to the sUAS, the FAA determined that exemption
+from this section was not necessary. [S ee, e.g.,Exemption No. 11191; 11195; 11120.] To
+the extent that the FAA determines an exemption is required here, Pepper Construction
+respectfully requests that the FAA find compliance with the manufacturer's manuals, and
+requirements of the grant of exemption, a sufficient means for ensuring that the sUAS are in
+a condition for safe flight.
+
+14 C .F.R.§ 91.113;Right-of-W ay Ru les
+
+Section 91.113 requires that vigilance be maintained by each person operating an aircraft to
+see and avoid other aircraft. Unlike manned aircraft, the sUAS pilot is not on-board the
+aircraft to observe and avoid other aircraft, operating the sUAS from the ground.
+
+Pepper Construction's proposed operating conditions will achieve an equivalent or greater
+level of safety. All operations will involve two individuals--one FAA certificated pilot as
+the PIC and one visual observer who will monitor the immediate and surrounding airspace of
+the operation for potential obstruction hazards and other possible intrusions. The sUAS will
+also be limited to designated areas below 400 feet AGL and within a virtual fence. Pepper
+Construction will notify the FAA and other pilots of the sUAS operations by NOTAM.
+
+14 C .F.R.§ 61.113(a)& (b);61.133(a):P rivate P ilotP rivileges and L imitations;P ilot
+in C om mand ;C om m ercialP ilotP rivileges and L imitations
+
+Section 61.113(a) & (b) limit private pilots to non-commercial operations. Unlike a
+conventional aircraft that carries a pilot, passengers, and cargo, the sUAS are remotely
+
+                                                                                                                                                                                   4810-8141-4946.1
+May 20, 2015
+Page 11
+
+controlled with no passengers or property of others on-board. Section 61.133(a) requires an
+individual with at least a commercial pilot's license to act as pilot in command of an aircraft for
+compensation or hire.
+
+Pepper Construction respectfully proposes that operator requirements should take into account
+the characteristics of the particular UAS. Here, the sUAS have a high degree of pre-
+programmed control and various built-in technical capabilities that strictly limit the potential
+for operation outside of the operating conditions set forth in A ppend ix B and the exemption
+application. The small size, endurance, range and payload capacities of the sUAS mean that no
+passengers and/or cargo will ever be carried by the aircraft. Rather, commercial operations will
+be strictly limited to acquiring aerial imagery, data collection and inspections.
+
+Considering these conditions, operating limitations and restrictions, an equivalent level of
+safety will be provided by allowing operation of the sUAS by Pepper Construction with
+individuals who possess a valid FAA airline transport, commercial, private, recreational or
+sport pilot certificate. The risks associated with the operation of the sUAS (given their small
+size, speed, operational capabilities and limitations, and lack of combustible fuel) are so
+diminished from the level of risk associated with commercial operations (and even operations
+permitted with a private pilot certificate) contemplated by Part 61 with manned aircraft, that
+allowing operations of the sUAS as set forth in A ppend ix B meets and exceeds the present
+level of safety provided under 14 C.F.R. § 61.113(a)-(b), and does not call for a commercial
+pilot certificate as set forth in § 61.133. [FAA Exemption No. 11357 (requiring at least a
+recreational or sport pilot certificate, and a current FAA airman medical certificate or valid
+U.S. driver's license).]
+
+14 C FR § 91.119:M inim u m S afe A ltitu d es
+
+Section 91.119 establishes safe altitudes for operation of civil aircraft. Specifically, 91.119(c)
+limits aircraft flying over areas other than congested areas to an altitude of 500 feet above the
+surface, except over open water or sparsely populated areas. In those cases, the aircraft may
+not be operated closer than 500 feet to any person, vessel, vehicle, or structure.
+
+As set forth herein, the sUAS will not operate at higher than 400 feet AGL. The sUAS will,
+however, be operated to avoid congested or populated areas. Because aerial photography, data
+collection and inspection work must be accomplished at relatively low altitudes and at
+altitudes less than 500 feet AGL, an exemption from Section 91.119(c) is needed.
+
+The equivalent level of safety will be achieved given the size, weight, speed, and material with
+which the sUAS are built. Also, all flights will be conducted over private and/or controlled-
+access property with the permission of the land owner or those who control the land. Because
+of the advance notice to the landowner, all affected individuals will be aware of the flights.
+
+                                                                                                                                                                                   4810-8141-4946.1
+May 20, 2015
+Page 12
+
+Compared to operations conducted with aircraft or rotorcraft weighing far more than the sUAS,
+and carrying flammable fuel, any risk associated with these operations will be significantly less
+than those currently allowed with conventional aircraft operating at or below 500 feet AGL.
+Indeed, the low-altitude operations of the sUAS will maintain separation from operations of
+conventional aircraft that must comply with Section 91.119.
+
+14 C .F.R.§ 91.151(a):Fu elRequ irements forFlightin V FR C ond itions
+
+This regulation prohibits an individual from beginning "a flight in an airplane under VFR
+conditions unless (considering wind and forecast weather conditions) there is enough fuel to fly
+to the first point of intended landing and, assuming normal cruising speed ­ (1) During the day,
+to fly after that for at least 30 minutes; or (2) At night, to fly after that for at least 45 minutes."
+
+The Phantom 2 Vision+ is powered by a removable, rechargeable, lithium-polymer battery that
+provides approximately 25 minutes of powered flight. Without an exemption from § 14 CFR
+91.151, flights by Pepper Construction would not be possible. Given the limitations on the
+proposed operations and their locations, a less burdensome reserve requirement for flight in
+daylight VFR conditions is reasonable. Moreover, the Phantom 2 Vision+ provides low battery
+warnings that indicate the PIC must command the aircraft's return to the launch point when
+low battery capacity voltage is reached. A critical low battery warning is also provided. The
+aircraft will initiate an automatic descent and landing at the critical low battery warning.
+
+The Inspire 1 is also powered by a removable, rechargeable, lithium-polymer battery that
+provides approximately 18 minutes of powered flight. Without an exemption from § 14 CFR
+91.151, flights by Pepper Construction would not be possible. Given the limitations on the
+proposed operations and their locations, a less burdensome reserve requirement for flight in
+daylight VFR conditions is reasonable. Moreover, like the Phantom 2 Vision+, the Inspire 1
+provides low battery warnings that indicate the PIC must command the aircraft's return to the
+launch point when low battery capacity voltage is reached. Likewise, a critical low battery
+warning is also provided. The aircraft will initiate an automatic descent and landing at the
+critical low battery warning.
+
+An exemption from 14 CFR § 91.151(a) is safe and within the scope of the prior exemptions
+for the sUAS. [S ee, e.g.,Exemption No. 11195; 11191.] In line with the previous grants of
+exemption, Pepper Construction requests that the FAA grant relief under the condition that the
+PIC will not begin a flight unless (considering wind and forecast weather conditions) there is
+enough power to fly to the first point of intended landing and, assuming normal cruise speed,
+land the sUAS and to operate after that for at least 5 minutes. [S ee Exemption No. 11325.]
+
+                                                                                                                                                                                   4810-8141-4946.1
+May 20, 2015
+Page 13
+
+14 C .F.R.§ § 91.9(b)(2);91.203(a)-(b);C arriage of C ivilA ircraftA irworthiness
+C ertificate and Registration
+
+Sections 91.9(b) and 91.203(a)-(b) require an aircraft operator to carry airworthiness
+documents and other aircraft manuals onboard the aircraft at all times. Because the sUAS
+are small in size and do not contain a cabin or flight deck, carriage of such documents and
+manuals is impossible.
+
+The intent of these regulations is to ensure that the PIC has access to important documents
+during flight. Here, an equivalent level of safety is achieved if the PIC has access to the
+applicable sUAS manual(s), registration certificate and other required documents from the
+Ground Control Station from which he or she is conducting operations. This is consistent
+with a prior opinion of the FAA Office of the Chief Counsel, and other grants of exemptions
+for commercial UAS operations. [See Memorandum from Mark Bury, FAA Assistant Chief
+Counsel for International Law, Legislation and Regulation, to John Duncan, FAA Flight
+Standards Service (Aug. 8, 2014).]
+
+14 C .F.R.§ 91.121:A ltim eterS ettings
+
+Section 91.121 requires that each individual operating an aircraft shall maintain the cruising
+altitude or flight level of that aircraft, as the case may be, by reference to an altimeter that is
+set, when operating below 18,000 feet MSL to:
+
+     The current reported altimeter setting of a station along the route and within 100
+         nautical miles of the aircraft;
+
+     If there is no station within the area prescribed in paragraph (a)(1)(i) of this section,
+         the current reported altimeter setting of an appropriate available station;
+
+     In the case of an aircraft not equipped with a radio, the elevation of the departure
+         airport or an appropriate altimeter setting available before departure.
+
+To provide an equivalent level of safety, the sUAS autopilot calculates the reference altitude
+(ground level) with on-board GPS. The altitude information generated from the GPS is
+transmitted to the PIC. The PIC shall confirm the altitude of the launch site shown on the
+GPS altitude indicator before flight. The FAA has granted relief from this section in prior
+grants of exemption under the condition that the operator set the altimeter to zero feet AGL
+rather than local barometric pressure or field altitude before each flight. [Exemption Nos.
+11062 and 11067.] A similar grant of exemption is thus warranted here.
+
+                                                                                                                                                                                   4810-8141-4946.1
+May 20, 2015
+Page 14
+
+14 C .F.R.§ § 91.405(a);407 (a)(1);409(a)(2);417 (a):M aintenance Inspections
+Section 91.405(a) requires that an aircraft operator or owner "shall have that aircraft inspected
+as prescribed in subpart E of this part and shall between required inspections, except as
+provided in paragraph (c) of this section, have discrepancies repaired as prescribed in part 43 of
+this chapter...." Section 91.407 similarly makes reference to requirements in Part 43; Section
+91.409(a)(2) requires an annual inspection for the issuance of an airworthiness certificate.
+Section 91.417(a) requires the owner or operator to keep records showing certain maintenance
+work that has been accomplished by certificated mechanics, under Part 43, or licensed pilots
+and records of approval of the aircraft for return to service.
+An equivalent level of safety will be achieved because the sUAS are small in size, will solely
+operate in limited and predetermined areas, and are not large, complex mechanical machines.
+Pepper Construction will perform all maintenance and inspections in accordance with the
+manufacturers' manuals and any required manufacturer Safety or Service Bulletins. In
+addition, the PIC will conduct a pre-flight inspection of the sUAS and all associated
+equipment to account for all discrepancies and/or inoperable components. Maintenance will be
+performed and verified to address any conditions potentially affecting safe operation of the
+sUAS and no flights will occur unless and until all flight critical components of the sUAS
+have been found to be in a condition for safe operation. A functional flight test will be
+conducted following the replacement of any flight-critical components.
+
+                                                                                                                                                                                   4810-8141-4946.1
+May 20, 2015
+Page 15
+
+                                                A P P E N D IX B
+
+     P E P P E R C O N S TRUC TIO N C O M P A N Y O P E RA TIN G RE S TRIC TIO N S A N D
+                                               L IM ITA TIO N S
+
+ 1) Operations authorized by this grant of exemption are limited to the DJI Phantom 2
+         Vision+, which weighs approximately 2.7 pounds, and the DJI Inspire 1, which weighs
+         approximately 6.5 pounds (collectively, the "sUAS"). Proposed operations of any other
+         aircraft will require a new petition or a petition to amend this grant.
+
+ 2) The sUAS shall not be flown at a ground speed exceeding 87 knots (100 miles per hour).
+
+ 3) Above Ground Level ("AGL") altitude shall be restricted to 400 feet. All altitudes
+         reported to Air Traffic Control ("ATC") shall be in feet AGL.
+
+ 4) The sUAS shall be operated within Visual Line-of-Sight ("VLOS") of the pilot-in-
+         command ("PIC") and visual observer at all times. The PIC must use human vision
+         unaided by any device other than corrective lenses, as specified on the PIC's FAA-
+         issued medical certificate.
+
+ 5) All operations must utilize a visual observer ("VO"). The VO may be used to satisfy the
+         VLOS requirement as long as the PIC maintains VLOS capability. The VO and PIC
+         must be able to communicate verbally at all times. The PIC must be designated before
+         the flight and cannot transfer his or her designation for the duration of the flight.
+
+ 6) Any and all additional requirements identified in the exemption grant by the FAA shall
+         be added to the sUAS General Operations Manual ("GOM"). The GOM must be
+         maintained and made available to the Administrator upon request. If a discrepancy exists
+         between the conditions and limitations in the granted exemptions and the GOM, the
+         conditions and limitations in the granted exemptions shall take precedence and must be
+         followed. Otherwise, the operator must follow the procedures outlined in the GOM.
+
+         The operator may update or revise its GOM. It is the operator's responsibility to track
+         such revisions and present updated and revised documents to the Administrator upon the
+         request. The operator must also present updated and revised documents if it petitions for
+         an extension or amendment of the granted exemptions. If the operator determines that
+
+                                                                                                                                                                                   4810-8141-4946.1
+May 20, 2015
+Page 16
+
+         any update or revision would affect the basis upon which the FAA granted the
+         exemptions, then the operator must petition for amendment to its exemptions. The
+         FAA's UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+         updates or revisions to the GOM.
+
+ 7) Prior to each flight the PIC must inspect the sUAS to confirm that it is in a condition for
+         safe flight. The preflight inspection shall account for all discrepancies (i.e., inoperable
+         components, items, or equipment). The PIC shall not operate the aircraft if the
+         inspection reveals a condition that affects the safe operation of the sUAS until the
+         necessary maintenance has been performed and the sUAS is found to be in a condition
+         for safe flight. The Ground Control Station ("GCS") shall be included in the preflight
+         inspection.
+
+ 8) Any sUAS that has undergone maintenance or alterations that affect the sUAS operation
+         or flight characteristics (e.g., replacement of a flight critical component) must undergo a
+         functional test flight. The PIC who conducts the functional test flight must make an
+         entry in the sUAS aircraft records.
+
+ 9) Pepper Construction must follow the manufacturer's aircraft/component maintenance,
+         overhaul, replacement, inspection, and life limit requirements.
+
+ 10) Pepper Construction shall carry out its maintenance, inspections, and record keeping
+         requirements, in accordance with the manufacturer's manuals and instructions.
+         Maintenance, inspection, and alterations must be noted in the aircraft records, including
+         total flight hours, description of work accomplished, and the signature of the authorized
+         PIC or technician returning the sUAS to service.
+
+ 11) The PIC must make a record entry in the aircraft records of the corrective action taken
+         against discrepancies discovered between inspections.
+
+ 12) The PIC must possess either an airline transport, commercial, private, recreational or
+         sport pilot certificate. The PIC must also hold a current FAA airman medical certificate
+         or a valid U.S. driver's license issued by a state, the District of Columbia, Puerto Rico, a
+         territory, a possession, or the federal government. The PIC must also meet the flight
+         review requirements specified in 14 C.F.R. § 61.56 in an aircraft in which the PIC is
+         rated on his or her pilot certificate.
+
+ 13) Pepper Construction will not permit any PIC to operate the sUAS unless and until that
+         PIC demonstrates the ability to safely operate the sUAS in a manner consistent with how
+         the sUAS will be operated pursuant to this exemption, including evasive and emergency
+         maneuvers and maintaining appropriate distances from people, vessels, vehicles and
+         structures. PIC qualification flight hours and currency must be logged in a manner
+         consistent with 14 C.F.R. § 61.51(b).
+
+                                                                                                                                                                                   4810-8141-4946.1
+May 20, 2015
+Page 17
+
+ 14) The sUAS shall not be operated directly over any person, except authorized and
+         consenting individuals, or below an altitude that is hazardous to persons or property on
+         the surface in the event of an sUAS failure or emergency.
+
+ 15) Operating of the sUAS may be conducted at distances less than 500 feet from
+         participating persons, vessels, vehicles or structures that perform an essential function in
+         connection with these special purpose operations. Operations closer than 500 feet from
+         the PIC, visual observer, operator trainees, and essential persons, are permitted when
+         operationally necessary; but never so close as to present an undue hazard, per §
+         91.119(a).
+
+ 16) Operation of the sUAS must be conducted at least 500 feet from all nonparticipating
+         persons, vessels, vehicles, and structures unless:
+
+                  a. the aircraft is operated near vessels, vehicles or structures where
+                  the land owner/controller has granted permission and the PIC has
+                  made a safety assessment of the risk of operating closer to those
+                  objects and determined that it does not present an undue hazard.
+
+ 17) If the sUAS loses communications or loses its GPS signal, the sUAS must return to a
+         pre-determined location within the operational area and land or be recovered in
+         accordance with the manufacturer's user manuals.
+
+ 18) The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+ 19) The PIC is prohibited from beginning a sUAS flight unless (considering wind and
+         forecast weather conditions) there is enough power to fly to the intended point of
+         landing and, assuming normal cruising speed, operate after that for at least 5 minutes.
+
+ 20) Pepper Construction shall obtain an Air Traffic Organization (ATO) issued Certificate of
+         Waiver of Authorization (COA) prior to conducting any operation. This COA will also
+         require the filing of the NOTAM not more than 72 hours in advance, but not less than 48
+         hours prior to the operation.
+
+ 21) All aircraft operated in accordance with the requested exemption must be identified by
+         serial number, registered in accordance with 14 C.F.R. Part 47, and have identification
+         (N-Number) markings in accordance with 14 C.F.R. Part 45, Subpart C. Markings shall
+         be as large as practicable.
+
+ 22) Each sUAS must comply with all manufacturer System and Safety Bulletins.
+
+                                                                                                                                                                                   4810-8141-4946.1
+May 20, 2015
+Page 18
+
+ 23) The radio frequency spectrum used for operation and control of the sUAS must comply
+         with Federal Communication (FCC) or other appropriate government oversight agency
+         requirements.
+
+ 24) The documents required under 14 C.F.R. §§ 91.9 and 91.203 shall be available to the
+         operator at the Ground Control Station of the sUAS any time the aircraft is operating.
+         These documents must be made available to the Administrator or any law enforcement
+         official upon request.6
+
+ 25) The sUAS must remain clear and yield the right of way to all other manned operations
+         and activities at all times (including, without limitation, ultralight vehicles, parachute
+         activities, parasailing activities, hang gliders, etc.).
+
+ 26) Operations shall occur under Visual Meteorological Conditions (VMC); flights under
+         special visual flight rules (SVFR) shall not be conducted.
+
+ 27) The sUAS shall not be operated from any moving device or vehicle.
+
+ 28) The sUAS shall not be operated closer than 500 feet below or 2,000 feet horizontally
+         from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+ 29) Operations shall not occur in congested or densely populated areas. The sUAS may not
+         operate in Class B, C, D or E airspace without written approval from the controlling
+         authority. Operations will not be conducted within a 5 NM range of the geographic
+         center of an airport as denoted on a current FAA-published aeronautical chart unless
+         permission has been obtained from the local control tower or, in the case of a non-
+         towered airport, written notice has been provided to the airport's management, and the
+         operation is conducted in accordance with a NOTAM as required by the grant of this
+         exemption.
+
+ 30) All operations shall be conducted over private and/or controlled-access property with
+         permission from the landowner/controller or authorized representative. Permission from
+         the landowner, controller, manager or authorized representative will be obtained for each
+         flight to be conducted.
+
+ 31) Any incident, accident, or flight operation that transgresses the lateral or vertical
+         boundaries of the operational area as defined by the applicable COA shall be reported to
+
+6 This is consistent with an FAA Office of Chief Counsel Opinion, dated August 8, 2014, and prepared by Dean E.
+Griffith, AGC-220, in which it was acknowledged that the intent of 14 C.F.R. § 91.9(b) and 91.203(a), (b) is met if
+the PIC of the UAS has access to the aircraft flight manual, registration certificate, and other required documents
+from the ground control station from which he or she is operating the UAS. Memorandum from Mark Bury, FAA
+Assistant Chief Counsel for International Law, Legislation and Regulation, to John Duncan, FAA Flight Standards
+Service (Aug. 8, 2014).
+
+                                                                                                                                                                                   4810-8141-4946.1
+May 20, 2015
+Page 19
+
+         the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents shall be
+         reported to the National Transportation Safety Board (NTSB) per instructions contained
+         on the NTSB Web site: www.ntsb.gov.
+ 32) sUAS operations may not be conducted during night, as defined by 14 C.F.R. § 1.1.
+
+                                                                                                                                                                                   4810-8141-4946.1
+May 20, 2015
+Page 20
+
+                                                A P P E N D IX C
+                                 FE D E RA L RE GIS TRY S UM M A RY
+Pursuant to 14 C.F.R. Part 11, Pepper Construction offers the following summary for
+publication in the Federal Register, should publication be necessary:
+         Pepper Construction seeks an exemption from the following rules:
+         14 C.F.R. Part 21, Subpart H; 14 C.F.R. § 91.7; 14 C.F.R. § 91.9(b)(2); 14
+         C.F.R. § 91.113; 14 C.F.R. § 61.113(a)-(b); 14 C.F.R. § 61.133(a); 14 C.F.R. §
+         91.119(c); 14 C.F.R. § 91.121; 14 C.F.R. § 91.151; 14 C.F.R. § 91.203; 14
+         C.F.R. § 91.405(a)-(b); 14 C.F.R. § 91.407(a)(1); 14 C.F.R. § 91.409(a)(1)-(2);
+         and, 14 C.F.R. § 91.417(a).
+Approval of these exemptions will permit Pepper Construction to conduct commercial
+unmanned aircraft systems ("UAS") operations in commercial construction applications.
+The exemptions will enhance safety by reducing risk to the general public and property
+owners from the risk and hazards associated with performing equivalent work through
+individual construction workers and conventional manned aircraft.
+
+                                                                                                                                                                                   4810-8141-4946.1
+

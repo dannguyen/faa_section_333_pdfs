@@ -1,0 +1,895 @@
+August 28, 2015
+
+                                                           Exemption No. 12655
+                                                           Regulatory Docket No. FAA­2015­1606
+
+Mr. Jonathan Adams
+Chief Operating Officer
+Strat Aero International, Inc.
+19500 State Highway 249
+Suite 655
+Houston, TX 77070
+
+Dear Mr. Adams:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter dated May 5, 2015, you petitioned the Federal Aviation Administration (FAA) on
+behalf of Strat Aero International, Inc. (hereinafter petitioner or operator) for an exemption.
+The petitioner requested to operate an unmanned aircraft system (UAS) to conduct aerial data
+collection.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner are the Aerialtronics Altura Zenith ATX8, STR8, Aeryon
+Labs SkyRanger, and DJI S1000.
+                                                                                                                 2
+
+The petitioner requested relief from 14 CFR part 21, Certification procedures for products
+and parts, Subpart H--Airworthiness Certificates. In accordance with the statutory criteria
+provided in Section 333 of Public Law 112-95 in reference to 49 U.S.C. § 44704, and in
+consideration of the size, weight, speed, and limited operating area associated with the
+aircraft and its operation, the Secretary of Transportation has determined that this aircraft
+meets the conditions of Section 333. Therefore, the FAA finds that the requested relief from
+14 CFR part 21, Certification procedures for products and parts, Subpart H--Airworthiness
+Certificates, and any associated noise certification and testing requirements of part 36, is
+not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection1. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+ They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+ The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+ A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, Strat Aero International, Inc. is granted an exemption
+from 14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a), 91.7(a),
+91.119(c), 91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a)
+
+1 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                                                 3
+
+and (b), to the extent necessary to allow the petitioner to operate a UAS to perform aerial data
+collection. This exemption is subject to the conditions and limitations listed below.
+
+Conditions and Limitations
+
+In this grant of exemption, Strat Aero International, Inc. is hereafter referred to as
+the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+    1. Operations authorized by this grant of exemption are limited to the Aerialtronics
+         Altura Zenith ATX8, STR8, Aeryon Labs SkyRanger, and DJI S1000 when weighing
+         less than 55 pounds including payload. Proposed operations of any other aircraft will
+         require a new petition or a petition to amend this exemption.
+
+    2. Operations for the purpose of closed-set motion picture and television filming are
+         not permitted.
+
+    3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+         exemption holder may use either groundspeed or calibrated airspeed to determine
+         compliance with the 87 knot speed restriction. In no case will the UA be operated at
+         airspeeds greater than the maximum UA operating airspeed recommended by the
+         aircraft manufacturer.
+
+    4. The UA must be operated at an altitude of no more than 400 feet above ground level
+         (AGL). Altitude must be reported in feet AGL.
+
+    5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+         This requires the PIC to be able to use human vision unaided by any device other than
+         corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+         U.S. driver's license.
+
+    6. All operations must utilize a visual observer (VO). The UA must be operated within
+         the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+         to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+         capability. The VO and PIC must be able to communicate verbally at all times;
+         electronic messaging or texting is not permitted during flight operations. The PIC
+         must be designated before the flight and cannot transfer his or her designation for the
+         duration of the flight. The PIC must ensure that the VO can perform the duties
+         required of the VO.
+
+    7. This exemption and all documents needed to operate the UAS and conduct its
+         operations in accordance with the conditions and limitations stated in this grant of
+                                                                                                            4
+
+    exemption, are hereinafter referred to as the operating documents. The operating
+    documents must be accessible during UAS operations and made available to the
+    Administrator upon request. If a discrepancy exists between the conditions and
+    limitations in this exemption and the procedures outlined in the operating documents,
+    the conditions and limitations herein take precedence and must be followed.
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+                                                                                                            5
+
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+                                                                                       6
+
+exemption holder may apply for a new or amended COA if it intends to conduct
+operations that cannot be conducted under the terms of the attached COA.
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+
+    be as large as practicable.
+
+23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+    any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+    PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+    These documents must be made available to the Administrator or any law enforcement
+    official upon request.
+
+24. The UA must remain clear and give way to all manned aviation operations and
+    activities at all times.
+
+25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless:
+      a. Barriers or structures are present that sufficiently protect nonparticipating persons
+          from the UA and/or debris in the event of an accident. The operator must ensure
+          that nonparticipating persons remain under such protection. If a situation arises
+          where nonparticipating persons leave such protection and are within 500 feet of
+          the UA, flight operations must cease immediately in a manner ensuring the safety
+          of nonparticipating persons; and
+      b. The owner/controller of any vessels, vehicles or structures has granted permission
+          for operating closer to those objects and the PIC has made a safety assessment of
+          the risk of operating closer to those objects and determined that it does not
+          present an undue hazard.
+
+The PIC, VO, operator trainees or essential persons are not considered
+nonparticipating persons under this exemption.
+
+27. All operations shall be conducted over private or controlled-access property with
+    permission from the property owner/controller or authorized representative.
+    Permission from property owner/controller or authorized representative will be
+    obtained for each flight to be conducted.
+
+28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+
+    boundaries of the operational area as defined by the applicable COA must be reported
+    to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+                                                                                               7
+
+reported to the National Transportation Safety Board (NTSB) per instructions
+contained on the NTSB Web site: www.ntsb.gov.
+
+If this exemption permits operations for the purpose of closed-set motion picture and
+television filming and production, the following additional conditions and limitations apply.
+
+29. The operator must have a motion picture and television operations manual (MPTOM)
+    as documented in this grant of exemption.
+
+30. At least 3 days before aerial filming, the operator of the UAS affected by this
+    exemption must submit a written Plan of Activities to the local Flight Standards
+    District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+    notification may be waived with the concurrence of the FSDO. The plan of activities
+    must include at least the following:
+      a. Dates and times for all flights;
+      b. Name and phone number of the operator for the UAS aerial filming conducted
+          under this grant of exemption;
+      c. Name and phone number of the person responsible for the on-scene operation of
+          the UAS;
+      d. Make, model, and serial or N-Number of UAS to be used;
+      e. Name and certificate number of UAS PICs involved in the aerial filming;
+      f. A statement that the operator has obtained permission from property owners
+          and/or local officials to conduct the filming production event; the list of those
+          who gave permission must be made available to the inspector upon request;
+      g. Signature of exemption holder or representative; and
+      h. A description of the flight activity, including maps or diagrams of any area, city,
+          town, county, and/or state over which filming will be conducted and the altitudes
+          essential to accomplish the operation.
+
+31. Flight operations may be conducted closer than 500 feet from participating persons
+
+    consenting to be involved and necessary for the filming production, as specified in the
+    exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                      8
+
+This exemption terminates on August 31, 2017, unless sooner superseded or rescinded.
+Sincerely,
+
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+                                                                                                            Strat Aero International
+                                                                                                                 Ph: 1.832.912.4273
+                                                                                                                Fax: 1.832.553.7975
+
+                                                                                                               www.strat-aero.com
+
+May 5, 2015
+
+Strat Aero International, Inc.
+19500 State Highway 249
+Suite 655
+Houston, TX 77070
+
+U.S. Department of Transportation
+Docket Management System
+1200 New Jersey Ave., SE
+Washington, DC 20590
+
+Subject: Exemption Request under Section 333 of the Federal Aviation Administration Reform Act and Part 11
+           of the Federal Aviation Regulations
+
+Dear Sir or Madam:
+
+Pursuant to Section 333 of the Federal Aviation Administration (FAA) Modernization and Reform Act of 2012
+(the "Reform Act") and Title 14 of the Code of Federal Regulations (CFR) Part 11, Strat Aero International, Inc.
+("Strat Aero"), a Texas-based business providing aviation consulting, aviation software, and UAS training, seeks
+exemptions for the Federal Aviation Regulations ("FARs") in order to train Strat Aero UAS operators and to
+provide aerial photography and persistent surveillance of multiple events and facilities. Strat Aero's limited
+proposed use of sUASs does not create a hazard to the public or other aircraft in the national air space (NAS),
+nor does it threaten national security. The small size, low speed, and safety features of the sUASs to be used
+and operating distance from populated areas ensure the proposed operations would be safer than conducting
+the same operations with manned aircraft and as such is in the best interest of the public. Strat Aero's
+proposed use of sUASs addresses criteria identified in the FAA's exemptions granted to Commonwealth Edison
+(Exemption No. 11185), BNSF Railway Company (Exemption No. 11206), Phoenix Air Unmanned (Exemption
+No. 11241), State Farm Mutual Automobile Insurance Company (Exemption No. 11188) and the City of Roswell
+Coalition (Exemption No. 11265). Please note that Strat Aero is the operator for the City of Roswell Coalition as
+described in the City of Roswell Coalition Exemption, and whenever possible, Strat Aero operations will be
+similar to those approved the same exemption (No. 11265).
+
+The requested exemptions would permit Strat Aero to conduct operations with the Aerialtronics Altura Zenith
+ATX8, the STR8 (an octocopter with operational characteristics similar to the Ascending Technologies Falcon 8
+sUAS), the Aeryon Labs SkyRanger, and/or the DJI S1000 for various purposes (please refer to section 6 for a
+detailed list.
+
+Strat Aero would issue a NOTAM to Air Traffic Control in the area and follow all safety protocols to inspect
+these facilities with sUASs. Strat Aero believes using sUASs responsibly to conduct these types of inspections is
+immensely safer than having personnel or manned aircraft conduct the same inspections.
+
+LONDON  NEW YORK  HOUSTON  DENVER  SEATTLE  SINGAPORE  DUBAI
+                                                                                Strat Aero International
+                                                                                     Ph: 1.832.912.4273
+                                                                                    Fax: 1.832.553.7975
+
+                                                                                   www.strat-aero.com
+
+The aerial data provided by a UAS will improve the ability of customer companies to assess the condition and
+safety of their equipment in a timely manner, thereby enhancing safety for customer companies and for their
+customer bases.
+
+Strat Aero UAS flying operations under the exemption will be conducted according to strict standard operating
+procedures and safety guidelines as set forth by the operator and as may be modified by the FAA. Any sUAS
+system operated by Strat Aero will be flown under controlled conditions by qualified operators. It will be flown
+at low altitudes in airspace that are limited in scope with the exception of industrial inspections as described in
+section 7 below and only under strict conditions. Strat Aero operations with these sUASs will not be conducted
+in a way that violates established industry privacy guidelines or reasonable expectations of privacy.
+
+Regarding the Unmanned Aircraft System
+
+1. Safety
+
+                   Characteristics of the Aerialtronics Altura Zenith
+
+The Altura Zenith ATX8 is an octocopter that can be flown with a tablet or radio controls and can carry a
+wide array of sensors. The Zenith has a maximum takeoff weight of 8.5 kg (18 lbs) and measures 23.6
+inches square. It can fly for up to 35 minutes at a time and has a maximum cruise speed of 20 m/s (40 kts).
+This sUAS has software that allows for automatic take-off and landing, automatic fly home and landing, GPS
+waypoint navigation, direction lock, and geographic information system (GIS) mapping. The FAA has
+previously granted exemptions for this model UAS.
+
+                                        Characteristics of the STR8
+
+The STR8 sUAS consists of an unmanned vehicle, a remote control, and a mobile ground station. The aerial
+vehicle consists of a small V-form rotorcraft lifted and propelled by eight rotors. It is electrically powered
+by lithium power and therefore presents no fuel spill risk. The STR8 has enhanced safety features including
+constant self-monitoring, resistance to external magnetic disturbances, two independent data links, three
+emergency modes, and battery life monitoring. Each of these features help mitigate the risks inherent in
+flying.
+
+The aerial vehicle can hold a pre-planned position. All systems monitor their operational status and battery
+life. An enhanced contingency detection system automatically notifies the pilot when error statuses are
+detected. There are three emergency modes from which the pilot can choose should the data links be lost
+­ the pilot can direct an immediate landing or that the system return to base at its current height or at
+maximum mission height (whichever is the safest option).
+
+           LONDON  NEW YORK  HOUSTON    DENVER  SEATTLE              SINGAPORE  DUBAI
+                                                                                                            Strat Aero International
+                                                                                                                 Ph: 1.832.912.4273
+                                                                                                                Fax: 1.832.553.7975
+
+                                                                                                               www.strat-aero.com
+
+                                              Airworthiness of the Aeryon SkyRanger
+
+    The Aeryon SkyRanger provides two semiautonomous flight modes using a point-and-click map and video
+    interface. The user clicks on a map to direct the SkyRanger to fly to the point on the map where the
+    operator is pointing, or programmed flight plans may be entered for a series of waypoints or grid-based
+    area. Additional navigation aids including landing zones and flight areas may be designated to ensure the
+    SkyRanger operates only within user-specified flight parameters (geo-fencing). All flight operations are GPS
+    controlled making the system easy to navigate, and the flight control system also employs a variety of
+    sensors including sonar, barometric pressure, temperature, wind speed and others to ensure the high
+    stability and reliability in challenging weather conditions. During flight operations, the operator can
+    intervene with a programmed flight and take immediate control. The SkyRanger also has a significant set of
+    automated features to ensure safe takeoff, flight and landing in many conditions, further details of
+    operation can be found in Attachment 3.
+
+    As a result of the considerable number of safety features identified above, the SkyRanger has received
+    multiple approvals for previous operations. Aeryon Labs believes it has shown compliance through its
+    history of successful flight operations which include cooperation with several public agencies. The list of
+    organizations who have used SkyRanger includes: Michigan State Police, US Navy SPAWAR, Mass
+    Development (Joint Base Cape Cod), Unmanned Experts (NIJ Partnership), Western Washington University,
+    Aetos (via Northwest Michigan College), University of Alaska Fairbanks, University of New Mexico, Kansas
+    State University, and Virginia Tech University. The SkyRanger has also successfully completed the
+    Department of Homeland Security RAPS Trial in 2013. In Canada, Aeryon has obtained 19 Special Flight
+    Operations Certificates (SFOCs) from Transport Canada over 5 years and its customers have received
+    multiple certificates to perform demonstration, research and development, public and commercial
+    operations. The criteria set forth in the certificates granted specify the substantive showings of the device's
+    safety and fitness for operation to ensure that the FAA has sufficient basis to evaluate the aircraft's safety.
+
+                                        Airworthiness of the DJI Spreading Wings S1000
+
+    The DJI S1000 has been approved in over 20 granted Section 333 exemptions to date. This is an octocopter
+    with a maximum takeoff weight of 11 kg (24 lbs.) and a 15 minute flight time. The S1000 has numerous
+    built-in safety measures. It can adjust automatically should an engine fail and alerts the PIC to the
+    possibility of a lost link before it occurs. If the control link is broken, the UAS will return to a pre-
+    programmed location for landing.
+
+2. Procedures Ensuring UAS in Condition for Safe Flight
+
+    The pilot will manually inspect the sUAS according to manufacturer's instructions prior to each operation
+    (refer to page 11 in Attachment 2 for the STR8, page 20 in Attachment 3 for the SkyRanger, and page 5 in
+    Attachment 4 for the DJI S1000). The PIC will ensure all visible parts are in good working condition, a good
+
+LONDON  NEW YORK  HOUSTON  DENVER  SEATTLE  SINGAPORE  DUBAI
+                                                                                                            Strat Aero International
+                                                                                                                 Ph: 1.832.912.4273
+                                                                                                                Fax: 1.832.553.7975
+
+                                                                                                               www.strat-aero.com
+
+    signal connection exists between the device used to operate the system and the vehicle itself, and will run
+    any available diagnostics to further ascertain the overall status of the sUAS.
+
+         Risk to National Airspace System (NAS)
+
+         Strat Aero will issue a NOTAM no later than 24 hours prior to any operation, and will notify any
+         additional applicable agencies to enhance traffic de-confliction and safe operation in airspace. When
+         authorized for flying above the FAA blanket AGL altitude, Strat Aero will remain within a 50 foot radius
+         (horizontally and/or vertically) of any protruding structure that is the object of our inspection. These
+         structures have been previously identified by the FAA on aeronautical charts. In consideration of the 50
+         foot radius limitation, the risk of interference with another aircraft is minimal.
+
+         The risk posed by using manned aircraft to conduct these operations is higher than with sUASs, and in
+         some cases manned aircraft cannot duplicate the UAV capabilities. These smaller, lightweight
+         unmanned systems have much less kinetic energy than higher mass manned aircraft, thus much less
+         impact effect. Also, they do not carry fuel and as such do not pose the explosion hazard compared to
+         manned aircraft.
+
+         Risk to Persons and Property on the Ground
+
+         Each of the four sUAS's Strat Aero requests to use commercially has software-based fail-safes that
+         minimize the risk of catastrophic system failure. When these features are coupled with the strict safety
+         procedures to which Strat Aero operators will adhere, Strat Aero sUAS operations will achieve at least
+         an equivalent level of safety to those achieved in manned aircraft operations. For inspection
+         operations, these areas are often access-controlled by the company and/or individuals owning the
+         structures, further ensuring safety of the operational area and reducing risk to people and property.
+
+         Please reference attachments to further review operational characteristics of these systems.
+
+3. Radio Frequency (RF) spectrum
+
+    Aerialtronics Altura Zenith Radio Frequencies: 868/900 MHz, 2.1-2.9 GHz, 5.8 GHz
+    STR8 Control Link: 2.4 GHz, 5.8 GHz, 10-100Mw
+    Aeryon SkyRanger Radio Frequencies: 900 MHz, 2.4 GHz, 5.8 GHz, Custom
+    DJI Spreading Wings S1000 Signal Frequency: 30 Hz ­ 450 MHz, 8KHz
+
+LONDON  NEW YORK  HOUSTON  DENVER  SEATTLE  SINGAPORE  DUBAI
+                                                                                                            Strat Aero International
+                                                                                                                 Ph: 1.832.912.4273
+                                                                                                                Fax: 1.832.553.7975
+
+                                                                                                               www.strat-aero.com
+
+Regarding the Unmanned Aircraft PIC
+
+4. Qualifications Required of PIC(s)
+
+    Strat Aero PICs will comply with FAA minimum guidelines for sUAS pilot certification and training standards.
+    The current minimum requirement is to possess a sport pilot's license. In addition, Strat Aero will ensure
+    that pilots complete manufacturer and company-developed training and will also require currency training
+    at regular intervals.
+
+5. Medical Standards and Certification of the PIC
+
+    Per guidance in Exemption No. 11265, at a minimum, the PIC and VO will each possess a valid U.S. driver's
+    license issued by a state, the District of Colombia, Puerto Rico, a territory, a possession, or the Federal
+    government.
+
+Regarding the Operation of Unmanned Aircraft
+
+6. Intended UAS Operation(s)
+
+    Strat Aero proposed operations include but are not limited to:
+
+       Utility infrastructure monitoring and inspection (e.g. electricity generation facilities (wind, water,
+           solar, gas, and coal), water management, and gas and oil production and transportation facilities);
+
+       UAS operator training and curriculum development;
+       Contingency site surveillance for emergency management;
+       Aerial mapping and surveying;
+       Wildlife monitoring; mining, forestry, and other agricultural applications;
+       Transportation analytics;
+       Intelligence, surveillance, and reconnaissance support to commercial and governmental agencies (to
+
+           include military and/or law enforcement/EMS applications);
+       Still photography;
+       And aerial data collection to aid in research and development initiatives.
+
+7. Proposed Flight Parameters
+
+    Strat Aero expects to be subject to the following mandatory conditions contained in similar recent
+    exemptions:
+
+       Operations to be conducted over private or controlled access property.
+       Permission from land owner/controller required before commencing any flight.
+       Operations to occur during Visual Flight Rules Meteorological Conditions (VMC).
+
+LONDON  NEW YORK  HOUSTON  DENVER  SEATTLE  SINGAPORE  DUBAI
+                                                                                                            Strat Aero International
+                                                                                                                 Ph: 1.832.912.4273
+                                                                                                                Fax: 1.832.553.7975
+
+                                                                                                               www.strat-aero.com
+
+       Aircraft to remain within Visual Line of Sight (VLOS).
+       Operations to occur during daylight hours.
+       Above Ground Level (AGL) altitude to be restricted to 400 feet with the possible exception of certain
+
+           industrial inspections as described below.
+       All operations conducted in vicinity of airport to remain within the boundaries of the authorized
+
+           location and so as to adhere to any conditions set forth in that authorization.
+       Operator will file a NOTAM and/or notify ATC prior to each flight per conditions of authorization.
+       All required permissions and permits will be obtained from territorial, state, county or city
+
+           jurisdictions, including local law enforcement, fire, or other appropriate governmental agencies.
+       All operations will include one pilot for flight control and one observer for VLOS enhancement.
+
+    The requested exemption would especially assist with inspections of industrial and utility infrastructure that
+    can be dangerous and difficult to conduct either manually or with manned aircraft. Strat Aero requests
+    permission to inspect those types of structures that extend above 200 feet above ground level (AGL).1
+    Standard operating procedures would be adhered to that restrict any exceedance of 200 feet AGL to
+    inspection activities within a radius of 50 feet of the structure being inspected. A greater than equivalent
+    level of safety would be achieved by the PIC/Observer focused on inspection activities and avoiding UAV
+    contact with the nearby structure beyond that achieved now using helicopters or people to conduct these
+    inspections. Per the OSHA website, there were 11 fatalities in 2014 and 13 fatalities in 2013 attributed to
+    accidents on or near communications towers. 2
+
+       Some example structure types follow:
+           o Wind turbines ­ Up to 540 ft. altitude (495 turbine height plus 50 feet maximum vertical
+               allowance). Per the 2011 Wind Energy Industry Manufacturing Supplier Handbook, some wind
+               turbine towers are as tall as 330 feet, and blades can be as large as 165 feet. 3 If power to the
+               turbine is shut down (as would be the case in preparation for inspection), a blade could come to
+               rest in its apex position, rendering the maximum height of the entire structure 495 feet.
+           o Radio, television, and cell phone communications towers.
+
+8. Area of Intended Operation(s)
+
+Strat Aero customers and corporate partners are dispersed throughout the United States. As such, Strat Aero
+requests that approval be granted nationwide. Strat Aero will comply with all notice filing and any other
+operational requirements specified by the FAA. Strat-Aero will describe a finite and limited area of operation
+for each mission. Any structure to be inspected that protrudes above the 200'AGL plane will be
+___________________________________________________________________________________________
+
+    1 Source: FAA Website - http://www.faa.gov/news/updates/?newsId=82245
+    2 Source: OSHA website - https://www.osha.gov/doc/topics/communicationtower/index.html
+    3 Source: From the American Wind Energy Association (AWEA) website - http://awea.files.cms-
+    plus.com/FileDownloads/pdfs/Supplier-Handbook.pdf
+
+LONDON  NEW YORK  HOUSTON  DENVER  SEATTLE  SINGAPORE  DUBAI
+                                                                                                            Strat Aero International
+                                                                                                                 Ph: 1.832.912.4273
+                                                                                                                Fax: 1.832.553.7975
+
+                                                                                                               www.strat-aero.com
+
+    specifically identified. All other flight activity will be conducted below the FAA specified blanket altitude,
+    including transit between take-off/landing spot and the target of our inspection. Such structures have
+    already been identified and met FAA criteria. Staying within a 50' radius of these structures should not
+    present a measureable increase of risk nor jeopardize the safety of the public.
+
+9. Proximity to Airports
+
+    Strat Aero will adhere to FAA-issued restrictions with regards to flying in close proximity to airports. The
+    company will not operate sUASs within:
+
+       5 nautical miles (NM) from an airport having an operational control tower; or
+       3 NM from an airport having a published instrument flight procedure, but not having an operational
+
+           control tower; or
+       2 NM from an airport not having a published instrument flight procedure or an operational control
+
+           tower; or
+       2 NM from a heliport
+
+    unless a letter of agreement with that facility's management is obtained or otherwise permitted by a COA
+    issued to the exemption holder. The letter of agreement with the facility or airport management must be
+    made available to the Administrator or any law enforcement official upon request.
+
+10. Compliance with VLOS Requirement
+
+    Both the PIC and VO will ensure operations are conducted within VLOS only. The PIC and VO will use vision
+    unaided by any device other than corrective lenses, as specified on the PIC's FAA-issued airman medical
+    certificate or U.S. driver's license.
+
+11. Pre-flight Safety Risk Assessment
+
+    PIC and VO will conduct a thorough visual sweep of the area of intended operations and a safety briefing
+    before commencing operations. In addition, PIC will ensure all manufacturer and Strat Aero pre-flight
+    inspection procedures are complete including pre-set of minimum and maximum altitudes (see user
+    manuals for specific checklists).
+
+12. Coordination with Flight Standards District Offices (FSDOs)
+
+    Strat Aero will coordinate our flight activities with the local FSDO as required and will submit monthly flight
+    reports as directed.
+
+LONDON  NEW YORK  HOUSTON  DENVER  SEATTLE  SINGAPORE  DUBAI
+                                                                                                            Strat Aero International
+                                                                                                                 Ph: 1.832.912.4273
+                                                                                                                Fax: 1.832.553.7975
+
+                                                                                                               www.strat-aero.com
+
+13. Certificate of Authorization (COA) Application Requirement
+
+Strat Aero will apply for new COAs or COA amendments as required by the FAA or as is necessary based on
+changes in standard operating procedures, aircraft and equipment, and/or other operational considerations
+that would affect the basis upon which the FAA granted this exemption.
+
+The name and address of the applicant is as follows:
+
+         Strat Aero International, Inc.
+         Attn: Jonathan Adams, Chief Operating Officer
+         19500 State Highway 249
+         Suite 655
+         Houston, TX 77070
+         Phone: 518-224-5759
+         Fax: 832-553-7975
+         E-mail: jon@strat-aero.com
+
+                                                            Attachments
+
+    1) Aerialtronics Altura Zenith ATX8 Manual - (this document is being sent to Strat-Aero by the OEM, but is
+         the same document as submitted in conjunction with Public Docket No. FAA-2014-0856 by State Farm
+         Mutual Automobile Insurance Company) will be sent to FAA e-mail upon receipt
+
+    2) STR8 Operating Manual ­ submitted to FAA e-mail as directed
+    3) Aeryon SkyRanger User Guide ­ submitted to FAA e-mail as directed
+    4) DJI S1000 User Manual ­ submitted to FAA e-mail as directed
+
+LONDON  NEW YORK  HOUSTON  DENVER  SEATTLE  SINGAPORE  DUBAI
+                                                                           Strat Aero International
+                                                                                Ph: 1.832.912.4273
+                                                                               Fax: 1.832.553.7975
+
+                                                                              www.strat-aero.com
+
+Exemptions Sought
+
+Section No. (§)  Description                   Reasoning and/or Mitigation
+14 CFR Part 21   Airworthiness Certificates    Given the size of the aircraft (6 lbs.) and the limited
+& 14 CFR                                       operating area associated with its utilization, it is
+§91.203 (a)      Medical certificates:         unnecessary to go through the certificate of airworthiness
+                 Requirement and duration      process under Part 21 Subpart H to achieve or exceed
+14 CFR §61.23                                  current safety levels. It will not carry a pilot or passenger,
+                 Recreational pilot            will not carry flammable fuel, and will operate exclusively
+14 CFR §61.101   privileges and limitations    within an area pre-disclosed and in compliance with
+                                               conditions set forth herein. Operations under this
+14 CFR §61.113   Private pilot privileges and  exemption will be tightly controlled and monitored by both
+                 limitations                   the operator, pursuant to the conditions set forth above, and
+                                               by local public safety requirements. The FAA will have
+                                               advance notice of all operations through the filing of
+                                               NOTAMs. Receipt of the prior permission of the land owner,
+                                               the size of the aircraft, the lack of flammable fuel, and the
+                                               fact that the aircraft is carried to the location and not flown
+                                               there all establish the equivalent level of safety.
+                                               Per previously-granted exemptions, both the PIC and VO will
+                                               possess a valid U.S. driver's license issued by a state,
+                                               territory, or the federal government. Medical certification
+                                               should not be required as these sUASs are lightweight, not
+                                               manned, do not carry liquid fuel, and have built-in software
+                                               ensuring automatic responses to potential safety issues. In
+                                               addition, to further mitigate safety concerns, the on-site lead
+                                               will pre-brief personnel on safety procedures, and any
+                                               personnel can initiate the cessation of operations for any
+                                               safety-related reason.
+                                               The PIC will undergo manufacturer and company-specific
+                                               training in order to achieve a level of safety at least
+                                               equivalent to that of a recreational pilot operating manned
+                                               aircraft pursuant to this section. Strat Aero requests an
+                                               exemption to this section based on the similarities of our
+                                               petition with that of the reliefs granted under Exemption No.
+                                               11241.
+                                               The PIC would possess at least a sport pilot license per
+                                               guidance in previous exemptions (i.e. Exemption No. 11265).
+                                               Strat Aero can achieve an equivalent level of safety to those
+                                               achieved by current regulations because the sUASs are
+                                               unmanned and will only be flown with mission-essential
+                                               personnel in the area. In addition, The Strat Aero operator
+
+LONDON             NEW YORK  HOUSTON           DENVER  SEATTLE  SINGAPORE  DUBAI
+                                                                          Strat Aero International
+                                                                               Ph: 1.832.912.4273
+                                                                              Fax: 1.832.553.7975
+
+                                                                             www.strat-aero.com
+
+14 CFR §61.133  Commercial pilot privileges   will successfully complete manufacturer and petitioner-
+(a)             and limitations               developed training.
+                                              Strat Aero operators will be trained with manufacturer-
+14 CFR §61.315  Sport pilot privileges and    developed and company specific training that will provide
+                limitations                   adequate safety training. Completion of this training and
+14 CFR §91.7                                  adherence to Strat Aero SOPs and manufacturer guidelines
+(a)             Civil aircraft airworthiness  will guarantee a level of safety equivalent to those required
+                                              of larger manned aircraft.
+14 CFR §91.9    Civil Aircraft Fight Manual   The PIC will undergo manufacturer and Strat Aero-specific
+(b) (2) & (c)   in the Aircraft               training in order to achieve a level of safety at least
+                                              equivalent to that of a pilot with a sport license operating
+14 CFR §91.103  Pre-flight action             manned aircraft pursuant to this section. Strat Aero requests
+(b) (2)                                       an exemption to this section based on the similarities of our
+                Flight crewmembers at         petition with that of the reliefs granted under Exemption
+14 CFR §91.105  stations                      Nos. 11241 and 11265.
+                Flight instruction;           The PIC will comply with standards outlined in the
+14 CFR §91.109  simulated instrument flight   appropriate operator's manual to ensure the rotorcraft is in
+                and certain flight tests      an airworthy condition prior to every operation. Pre-flight
+                                              inspections will ensure the craft is safe for operating and will
+                                              meet the intent of this section without requiring a certificate.
+                                              sUAS vehicles cannot carry a manual due to their small size,
+                                              but a manual will be available at the ground control station
+                                              where the pilot flying the sUAS will have immediate access to
+                                              it. The FAA has granted this to others in the following
+                                              exemptions: 8607, 8737, 8738, 9299, 9565, 10167, 10602,
+                                              10700, and 11265.
+                                              While the FAA has not approved a flight manual for
+                                              rotorcraft, the PIC will achieve an equivalent level of safety
+                                              by following the manufacturer's pre-flight checklists.
+                                              Reference page numbers described in section 2 for these
+                                              checklists.
+                                              As the sUASs are unmanned, crew cannot be at stations
+                                              aboard the aircraft, but the pilot, visual observer, and any
+                                              other mission-essential personnel will be at their appropriate
+                                              stations prior to take-off.
+                                              Neither the Falcon 8 nor the SkyRanger have fully functioning
+                                              dual controls, but the pilot will attend manufacturer-
+                                              developed training. After successful completion of the
+                                              training, the pilot will be fully competent with the aircraft
+                                              and able to meet safety requirements as outlined by the FAA
+
+LONDON          NEW YORK  HOUSTON             DENVER  SEATTLE  SINGAPORE  DUBAI
+                                                                            Strat Aero International
+                                                                                 Ph: 1.832.912.4273
+                                                                                Fax: 1.832.553.7975
+
+                                                                               www.strat-aero.com
+
+14 CFR §91.119  Minimum safe altitudes          and per the operating instructions set forth in the
+(b) and (c)                                     manufacturer's guidance.
+14 CFR §91.121  Altimeter settings              The sUAS will remain below 400 feet above ground level
+14 CFR §91.151                                  (AGL) at all times unless during brief periods of industrial
+14 CFR §91.203  Fuel requirements for           inspections as described on page 4 of this exemption request
+(a) & (b)       flights in VFR conditions       letter. The PIC will ensure the sUAS is flown in accordance
+14 CFR §91.405  Civil aircraft: Certifications  with manufacturer's safety guidelines and in such a way that
+                required                        achieves a level of safety equivalent to those allowed for
+14 CFR §91.407  Maintenance required            helicopters operating at similar altitudes.
+                                                The above-referenced sUASs do not have a traditional
+                Operation after                 altimeter. The onboard data systems monitor altitude, all
+                maintenance                     flight data is monitored by the operator, and readings are
+                                                stored on an SD card onboard. All operations will be
+                                                conducted within line of sight, out of the airspace used by
+                                                most manned aircraft, and below 400 feet AGL.
+                                                Each of the sUASs identified in this petition indicate low
+                                                power status to the pilot when there is still sufficient power
+                                                to conduct a safe landing (up to five minutes left in battery
+                                                power). Warnings continue and increase in intensity and
+                                                frequency after the first indication of the battery charge
+                                                being low.
+                                                The request for exemption from 14 CFR §91.203 (a) is
+                                                coupled with the request for relief from 14 CFR Part 21 (see
+                                                top of page 5). With regards to §91.203 (b), the sUASs are
+                                                too small to carry COAs onboard, but the document(s) will be
+                                                available at the ground station. This will ensure the pilot has
+                                                access to these documents at all time.
+                                                The PIC will conduct pre-flight checks to include any visible
+                                                need for maintenance prior to operations. If a problem is
+                                                present but not visible to the pilot, the issue will still be
+                                                corrected ­ both sUASs notify the PIC of maintenance issues
+                                                on startup and continue to monitor status after takeoff.
+                                                When the PIC or other qualified maintainer is alerted to
+                                                maintenance issues, he or she will conduct maintenance as
+                                                directed in the sUAS-specific operating manual. Strat Aero
+                                                will also ensure the systems are periodically inspected for
+                                                any issues to further prevent in-flight errors or failures. A
+                                                maintenance log will be maintained for reference and will be
+                                                available to regulatory officials upon request.
+                                                Due to these systems' consistent self-monitoring and Strat
+                                                Aero's compliance with manufacturer's pre-flight inspection
+
+LONDON          NEW YORK  HOUSTON               DENVER  SEATTLE  SINGAPORE  DUBAI
+14 CFR §91.409 Inspections                                                         Strat Aero International
+                                                                                         Ph: 1.832.912.4273
+14 CFR §91.417 Maintenance records                                                      Fax: 1.832.553.7975
+(a) and (b)
+                                                                                       www.strat-aero.com
+
+                                    checklists, the PIC or other trained technician is qualified to
+                                    ascertain the suitability of the sUAS for continued
+                                    operations.
+                                    Inspections will be conducted before and after each flight as
+                                    well as at periodic intervals. These regular inspections
+                                    ensure a level of safety equivalent to that of inspecting
+                                    manned aircraft annually is achieved.
+                                    The PIC or other similarly-qualified technician will perform
+                                    any maintenance and will make note of any maintenance
+                                    work. Strat Aero seeks exemption from the specified time
+                                    periods, however, as the sUAS conducts self-inspection
+                                    throughout the operation.
+
+LONDON  NEW YORK  HOUSTON           DENVER  SEATTLE  SINGAPORE  DUBAI
+                                                                                                            Strat Aero International
+                                                                                                                 Ph: 1.832.912.4273
+                                                                                                                Fax: 1.832.553.7975
+
+                                                                                                               www.strat-aero.com
+
+                                                             Conclusion
+
+The planned uses for the Aerialtronics Altura Zenith ATX8, STR8, Aeryon SkyRanger, and DJI S1000 systems
+satisfy the criteria set forth in Section 333 of the Reform Act. Strat Aero's proposed sUAS operations, subject
+to the conditions listed above, do not create a hazard to users of the national air space (NAS) or the public or
+threaten national security. The small size, low weight, low speed, safety features, and operating distance from
+airports and populated areas mitigate these safety issues.
+
+The operation of the sUAS for aerial data collection in accordance with the strict conditions outlined herein will
+provide more than an equivalent level of safety, supporting the grant of the exemptions requested. Approval of
+the exemptions allowing operations of the aforementioned systems for aerial photography and surveillance will
+enhance safety by reducing the risks inherent in the same services when conducted manually or with manned
+aircraft. Other aerial inspection options available to Strat Aero customers using conventional rotary aircraft,
+present risks associated with vehicles that often weigh several thousand pounds and carry large quantities of
+fuel, passengers, and cargo. Such aircraft must fly to and from the inspection locations. While these sUASs will
+operate at similar speeds and altitudes of manned aircraft, the heaviest weighs approximately 6 pounds (89%
+less weight than the 55 pound maximum established by the FAA), is powered by batteries, and will be carried
+to the inspection location. The sUASs will not fly over residences and will not expose any individuals to the
+risks associated with manned aircraft flights. All of these factors greatly reduce the risks associated with
+conventional operations.
+
+Given their reduced size, speed, load capacity, and lack of fuel spill risk, the Aerialtronics Altura Zenith ATX8,
+DJI S1000, STR8, and Aeryon SkyRanger sUASs pose no threat to national security. Further, the operating
+capabilities, avoidance of airspace used by other aircraft, operation within visual line of sight, and use of
+licensed pilots provide adequate justification to grant the requested exemptions.
+
+Best regards,
+
+//signed, rc, 05 May 15//
+Renae Compton
+Project Manager ­ Administration
+Strat Aero International, Inc.
+
+LONDON  NEW YORK  HOUSTON  DENVER  SEATTLE  SINGAPORE  DUBAI
+

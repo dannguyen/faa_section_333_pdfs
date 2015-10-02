@@ -1,0 +1,680 @@
+June 5, 2015
+
+                                                           Exemption No. 11741
+                                                           Regulatory Docket No. FAA­2015­0892
+
+Mr. Trevor D. Witt
+President
+Witt Tech LLC
+1648 S Ohio Street #117
+Salina, KS 67401
+
+Dear Mr. Witt:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter dated March 31, 2015, you petitioned the Federal Aviation Administration (FAA) on
+behalf of Witt Tech LLC (hereinafter petitioner or operator) for an exemption. The petitioner
+requested to operate an unmanned aircraft system (UAS) to conduct remote sensing with a
+focus in mapping, real estate, insurance evaluations, and industrial inspection.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner is a 3D Robotics IRIS+.
+
+In accordance with the statutory criteria provided in Section 333 of Public Law 112-95 in
+reference to 49 U.S.C. § 44704, and in consideration of the size, weight, speed, and limited
+operating area associated with the aircraft and its operation, the Secretary of Transportation
+                                                                                                                 2
+
+has determined that this aircraft meets the conditions of Section 333. Therefore, the FAA
+finds that relief from 14 CFR part 21, Certification procedures for products and parts,
+Subpart H--Airworthiness Certificates, and any associated noise certification and testing
+requirements of part 36, is not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection1. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+ They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+ The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+ A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, Witt Tech LLC is granted an exemption from 14 CFR
+§§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a), 91.7(a), 91.119(c), 91.121,
+91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a) and (b), to the
+extent necessary to allow the petitioner to operate a UAS to perform aerial data collection.
+This exemption is subject to the conditions and limitations listed below.
+
+Conditions and Limitations
+
+In this grant of exemption, Witt Tech LLC is hereafter referred to as the operator.
+
+1 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                                                 3
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+    1. Operations authorized by this grant of exemption are limited to the 3D Robotics IRIS+
+         when weighing less than 55 pounds including payload. Proposed operations of any
+         other aircraft will require a new petition or a petition to amend this exemption.
+
+    2. Operations for the purpose of closed-set motion picture and television filming are
+         not permitted.
+
+    3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+         exemption holder may use either groundspeed or calibrated airspeed to determine
+         compliance with the 87 knot speed restriction. In no case will the UA be operated at
+         airspeeds greater than the maximum UA operating airspeed recommended by the
+         aircraft manufacturer.
+
+    4. The UA must be operated at an altitude of no more than 400 feet above ground level
+         (AGL). Altitude must be reported in feet AGL.
+
+    5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+         This requires the PIC to be able to use human vision unaided by any device other than
+         corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+         U.S. driver's license.
+
+    6. All operations must utilize a visual observer (VO). The UA must be operated within
+         the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+         to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+         capability. The VO and PIC must be able to communicate verbally at all times;
+         electronic messaging or texting is not permitted during flight operations. The PIC
+         must be designated before the flight and cannot transfer his or her designation for the
+         duration of the flight. The PIC must ensure that the VO can perform the duties
+         required of the VO.
+
+    7. This exemption and all documents needed to operate the UAS and conduct its
+         operations in accordance with the conditions and limitations stated in this grant of
+         exemption, are hereinafter referred to as the operating documents. The operating
+         documents must be accessible during UAS operations and made available to the
+         Administrator upon request. If a discrepancy exists between the conditions and
+         limitations in this exemption and the procedures outlined in the operating documents,
+         the conditions and limitations herein take precedence and must be followed.
+         Otherwise, the operator must follow the procedures as outlined in its operating
+         documents. The operator may update or revise its operating documents. It is the
+         operator's responsibility to track such revisions and present updated and revised
+         documents to the Administrator or any law enforcement official upon request. The
+                                                                                                            4
+
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+                                                                                                            5
+
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+    exemption holder may apply for a new or amended COA if it intends to conduct
+    operations that cannot be conducted under the terms of the attached COA.
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+    be as large as practicable.
+                                                                                                               6
+
+   23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+       any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+       PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+       These documents must be made available to the Administrator or any law enforcement
+       official upon request.
+
+   24. The UA must remain clear and give way to all manned aviation operations and
+       activities at all times.
+
+   25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+   26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+       persons, vessels, vehicles, and structures unless:
+          a. Barriers or structures are present that sufficiently protect nonparticipating persons
+             from the UA and/or debris in the event of an accident. The operator must ensure
+             that nonparticipating persons remain under such protection. If a situation arises
+             where nonparticipating persons leave such protection and are within 500 feet of
+             the UA, flight operations must cease immediately in a manner ensuring the safety
+             of nonparticipating persons; and
+          b. The owner/controller of any vessels, vehicles or structures has granted permission
+             for operating closer to those objects and the PIC has made a safety assessment of
+             the risk of operating closer to those objects and determined that it does not
+             present an undue hazard.
+
+       The PIC, VO, operator trainees or essential persons are not considered
+       nonparticipating persons under this exemption.
+
+   27. All operations shall be conducted over private or controlled-access property with
+       permission from the property owner/controller or authorized representative.
+       Permission from property owner/controller or authorized representative will be
+       obtained for each flight to be conducted.
+
+   28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+       boundaries of the operational area as defined by the applicable COA must be reported
+       to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+       reported to the National Transportation Safety Board (NTSB) per instructions
+       contained on the NTSB Web site: www.ntsb.gov.
+
+If this exemption permits operations for the purpose of closed-set motion picture and
+television filming and production, the following additional conditions and limitations apply.
+
+   29. The operator must have a motion picture and television operations manual (MPTOM)
+       as documented in this grant of exemption.
+                                                                                                                 7
+
+    30. At least 3 days before aerial filming, the operator of the UAS affected by this
+         exemption must submit a written Plan of Activities to the local Flight Standards
+         District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+         notification may be waived with the concurrence of the FSDO. The plan of activities
+         must include at least the following:
+           a. Dates and times for all flights;
+           b. Name and phone number of the operator for the UAS aerial filming conducted
+              under this grant of exemption;
+           c. Name and phone number of the person responsible for the on-scene operation of
+              the UAS;
+           d. Make, model, and serial or N-Number of UAS to be used;
+           e. Name and certificate number of UAS PICs involved in the aerial filming;
+           f. A statement that the operator has obtained permission from property owners
+              and/or local officials to conduct the filming production event; the list of those
+              who gave permission must be made available to the inspector upon request;
+           g. Signature of exemption holder or representative; and
+           h. A description of the flight activity, including maps or diagrams of any area, city,
+              town, county, and/or state over which filming will be conducted and the altitudes
+              essential to accomplish the operation.
+
+    31. Flight operations may be conducted closer than 500 feet from participating persons
+         consenting to be involved and necessary for the filming production, as specified in the
+         exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+
+This exemption terminates on June 30, 2017, unless sooner superseded or rescinded.
+
+Sincerely,
+
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+March 31, 2015
+
+U. S. Department of Transportation
+Docket Management System
+1200 New Jersey Ave, SE
+Washington, DC 20590
+
+Re: Exemption Request under Section 333 of the FAA Reform Act and
+        Part 11 of the Federal Aviation Regulations
+
+Dear Sir or Madam:
+
+Pursuant to Section 333 of the FAA Modernization and Reform Act of 2012 (the "Reform
+Act") and 14 C.F.R. Part 11, Witt Tech LLC, the operator of the 3D Robotics IRIS+
+("sUAS" or "IRIS+"), seeks an exemption from the Federal Aviation Regulations
+("FARs") listed below and discussed in Appendix A.
+
+The requested exemption would permit commercial operation of the 3D Robotics IRIS+,
+which weighs approximately 4 lbs. and is capable of capturing still imagery and video.
+Applications for this sUAS include remote sensing with a focus in mapping, real estate,
+insurance evaluations, and industrial inspection. Use of the IRIS+ for these purposes
+provides high quality data more safely and at a fraction of the cost of using conventional
+aircraft.
+
+Operations under the exemption will be subject to strict operating requirements and
+conditions to ensure at least an equivalent level of safety to currently authorized
+operations using manned aircraft.
+
+As described more fully below, the requested exemption would authorize commercial
+operations of remote sensing using the IRIS+, which at 4 lbs. is small in size. The IRIS+
+will be operated under controlled conditions at low altitude in airspace that is limited in
+scope, as described more fully herein; it will have automated control features, as
+described below. The IRIS+ also will be operated by an individual who has at least a
+private pilot's certification with at least a third class medical and sUAS flight training.
+Finally, the airspace in which the sUAS will operate will be disclosed to the FAA in
+advance through the use of a COA and NOTAMs.
+
+Witt Tech LLC respectfully submits that because this small unmanned aerial vehicle--the
+IRIS+--will be used in lieu of comparatively hazardous operations now conducted with
+fixed wing and rotary conventional aircraft, the FAA can have confidence that the
+operations will achieve at least an equivalent or greater level of safety. Approval of this
+exemption would thereby enhance safety and fulfill the Secretary of Transportation's (the
+FAA Administrator's) responsibilities under Section 333(c) of the Reform Act to
+"establish requirements for the safe operation of such aircraft systems in the national
+airspace system."
+
+The name and address of the applicant are:
+Witt Tech LLC
+Address: 1648 S Ohio St #117, Salina, KS 67401
+Ph: 785-280-3529
+Email: witttechuas@gmail.com
+
+The regulations from which the exemption is requested are as follows:
+
+14 C.F.R. 61.113(a)&(b);
+14 C.F.R. 91.7(a);
+14 C.F.R. 91.119(c);
+14 C.F.R. 91.121;
+14 C.F.R. 91.151(a)(1);
+14 C.F.R. 91.405(a);
+14 C.F.R. 91.407(a) (1);
+14 C.F.R. 91.409(a) (2);
+14 C.F.R. 91.417(a)&(b).
+
+Appendix A discusses each rule listed above and explains why exemptions pursuant to
+the proposal set forth in this letter are appropriate, provide an equivalent level of safety,
+and are in the public interest.
+
+           THE APPLICABLE LEGAL STANDARD UNDER SECTION 333
+Witt Tech LLC submits that grant of this exemption application for use of the IRIS+ for
+remote sensing with a focus in mapping, real estate, insurance evaluations and industrial
+inspection will advance the Congressional mandate in Section 333 of the Reform Act to
+accelerate the introduction of UASs into the national airspace system ("NAS") if it can be
+accomplished safely. This law directs the Secretary of Transportation to consider whether
+certain UASs may operate safely in the NAS before completion of the rulemaking
+required under Section 332 of the Reform Act. In making this determination, the
+Secretary is required to determine which types of UASs do not create a hazard to users of
+the NAS or the public or pose a threat to national security in light of the following:
+· The UAS's size, weight, speed, and operational capability;
+· Operation of the UAS in close proximity to airports and populated areas; and
+· Operation of the UAS within visual line of sight of the operator.
+
+The grant of the requested exemption is in the public interest based on the clear direction
+in Section 333 of the Reform Act; the additional authority in the Federal Aviation Act, as
+amended; the strong equivalent level of safety surrounding the proposed operations; and
+the significant public benefit, including enhanced safety and cost savings associated with
+transitioning to UASs for remote sensing. Accordingly, the applicant respectfully requests
+that the FAA grant the requested exemption without delay.
+
+The sUAS
+
+The IRIS+ complies with the requirements set forth by Section 333 by its small size,
+weight, speed, and operational proximity to airports and densely populated areas. As a
+result under this exemption the IRIS+ is not deemed airworthy by an airworthiness
+certificate, but rather it is deemed airworthy by the operator conducting a thorough
+preflight of the aircraft. This aircraft will also be registered in accordance to 14 CFR Part
+47, marked in accordance to 14 CFR Part 45 Subpart C, and accompanied by a letter of
+alternative marking due to the unconventional design of a quadcopter. Markings will be
+as large as practicable. This aircraft is of the same size, configuration, and operational
+capabilities of the aircraft granted in exemptions 11138, 11153, and 11157.
+
+Aircraft Make and Model: 3D Robotics IRIS+
+Configuration: Quad copter
+
+Aircraft Performance/Specifications:
+     Ground Control Station (GCS): The aircraft will be primarily controlled through
+        the use of a typical 2.4 GHz RC transmitter. The aircraft can also be pre-
+        programmed to conduct a mission through the use of a laptop or tablet via a 915
+        MHz telemetry link. Whenever operations are conducted in this matter, the RC
+        Transmitter will be able to take control of the aircraft if the need arises.
+     Video Downlink: 5.8 GHz at 200mW
+     Lost Com: Aircraft will autonomously return to the launch location and safely
+        land.
+     Emergency Procedure: Should the need arise the aircraft can be commanded by a
+        switch on the RC transmitter to safely land immediately or return and land at the
+        launch location.
+     Power Supply: 3S 5.1Ah 8C Lithium Polymer Battery
+     Dimensions: 550mm motor to motor
+     Maximum Speed: 44 knots
+     Normal operating speed: Less than 30 knots
+     Weight without payload: 1282g (2lb 13oz)
+     Weight with payload: 1656g (3lb 10oz)
+
+Aircraft manuals and operations checklist will be included as additional information to
+this petition for exemption.
+Operator Requirements
+
+To operate the sUAS under this exemption an operator will be required to have at least a
+private pilot's certification, at least a third class medical, and aircraft specific flight
+training as defined below.
+
+        Aircraft specific flight training to include:
+                25 hours as a UAS rotorcraft pilot including,
+                10 hours logged as a UAS pilot with a multi-rotor UAS,
+                5 hours with the specific make and model of the UAS, and
+                At least 3 take-offs and landings within the preceding 90 days
+
+Mandatory Operating Conditions
+
+Grant of the exemption to Witt Tech LLC will be subject to the following mandatory
+conditions for flight operations.
+
+     Operations shall not occur over congested, actively, or densely populated areas as
+        defined by the local FSDO.
+
+     Permission from land owner is required before commencing any flight.
+     Operations will only occur during Visual Flight Rules Meteorological Conditions
+
+        (VMC).
+     Operations will not occur less than 500 feet below or less than 2,000 feet
+
+        horizontally from a cloud or when visibility is less than 3 statute miles from the
+        operator.
+     The sUAS will remain clear of manned aircraft and yield right of way.
+     A flight test will be conducted after any major repair or alteration.
+     A preflight check will be conducted before each flight to assure airworthiness.
+     Aircraft will remain within Visual Line of Sight (VLOS) of the operator.
+     All operations will be conducted with a Visual Observer (VO).
+     Operations will be limited to daylight hours.
+     Operations will be concluded with no less than 25% battery power remaining.
+     Operations will not exceed 400ft AGL.
+     Operations will not occur within 5nm of any airport unless a letter of agreement
+        with that airport's management is obtained.
+     Operations will take place under a COA.
+     Operator will file a NOTAM for each flight.
+     All required permissions and permits will be obtained from territorial, state,
+        county or city jurisdictions, including local law enforcement, fire, or other
+        appropriate governmental agencies.
+     All non-participants will keep 500ft away from operations unless there are
+        adequate barriers to protect them.
+     All operations will be conducted according to the manufacturer's manuals.
+     All documents that will be kept at the GCS include but are not limited to; the
+        aircraft manuals, maintenance logs, aircraft registration, grant of exemption, and
+        COA.
+
+Public Interest
+
+Consistent with the requirements of 14 C.F.R. §11.81(d), Petitioner offers the following
+reasons why granting this petition for exemption is in the public interest, i.e., how
+granting it would benefit the public as a whole.
+
+Approval of this exemption allowing commercial operations of sUAS in the mapping,
+real estate, insurance evaluation, and industrial inspection industries benefits the public as
+a whole in the following ways:
+
+     It helps fulfill Congress' goal in passing Section 333(a) through (c) of the Reform
+        Act, namely, the FAA Administrator's assessment of whether certain UAS may
+        operate safely in the National Airspace System before completion of the
+        rulemaking required under Section 332 of the Reform Act.
+
+     The operation significantly improves safety and reduces risk by alleviating human
+        exposure to danger associated with current aerial remote sensing methods, namely,
+        full size helicopters. Reducing human exposure to death or serious injury
+        associated with manned aircraft performing these tasks furthers the public's
+        interest.
+
+     Petitioner's sUASs are battery powered and create no emissions. If Petitioner's
+        sUAS crashes, there is no fuel to ignite and explode. Any impact of Petitioner's
+        lightweight sUASs is far less than a full size manned aircraft. The public's interest
+        is furthered by minimizing ecological impact of an accident and by reducing
+        human exposure to potentially harmful emissions associated with manned aircraft.
+
+     Remote sensing is as valuable tool for mapping, real estate, insurance evaluations,
+        and industrial inspection. However, problems with safety, cost, statistical integrity,
+        and logistics continue to impede remote sensing from conventional manned
+        aircraft. The use of sUAS addresses these problems and is a powerful tool for
+        performing a wide-range of remote sensing applications. The public as a whole
+        will benefit from the safer and more cost-effective remote sensing services that
+        sUAS operations provide.
+
+Privacy
+
+All flights will occur over property with the landowner's prior consent.
+Conclusion
+
+Witt Tech LLC seeks an exemption from the FARs set forth above and in Appendix A to
+allow commercial operations of a sUAS conducting remote sensing with a focus in
+agriculture, real estate, insurance evaluations and industrial inspection.
+
+Approval of this exemption allowing commercial operations of the IRIS+ for remote
+sensing will enhance safety by reducing risk. Conventional remote sensing operations,
+using turbine or piston-powered aircraft present risks associated with vehicles that can
+weigh 5,000 to 7,000 lbs., or more, carry large quantities of fuel, passengers, and, in
+some cases, cargo. In contrast, an IRIS+ weighing less than 4 lbs. and powered by
+batteries eliminates a portion of that risk given the reduced mass and lack of combustible
+fuel carried on board. The IRIS+ will carry no passengers or crew and, therefore, will not
+expose any individuals to the risks associated with manned aircraft flights.
+
+Additionally, no national security issue is raised by the grant of the requested exemptions
+due to all pilots being certified through the FAA.
+
+The operation of the IRIS+, weighing less than 4 lbs., for remote sensing in accordance
+with the strict conditions outlined above, will provide an equivalent level of safety
+supporting the grant of the exemptions requested herein.
+
+The IRIS+'s satisfaction of the criteria set forth in Section 333 of the Reform Act--size,
+weight, speed, operating capabilities, lack of proximity to airports and populated areas,
+operation within visual line of sight, and national security--and its showing of an
+equivalent level of safety provides more than adequate justification for the grant of the
+requested exemptions allowing commercial operation of the IRIS+ in the remote sensing
+business.
+
+Best Regards,
+
+Trevor D Witt
+President, Witt Tech LLC
+                                             APPENDIX A:
+  EXEMPTION REQUEST AND EQUIVALENT LEVEL OF SAFETY SHOWINGS
+
+               UNDER APPLICABLE RULES SUBJECT TO EXEMPTION
+
+Witt Tech LLC requests an exemption from the following regulations, all of which have
+been granted by every approved Section 333 exemption at the time of this submission.
+
+14 C.F.R. § 61.113 Private pilot privileges and limitations: Pilot in command.
+
+The regulation provides that no person that holds a private pilot certificate may act as
+pilot in command of an aircraft for compensation or hire. Subparagraph (b) allows a
+private pilot to act as pilot in command of an aircraft in connection with any business or
+employment if: (1) The flight is only incidental to that business or employment; and (2)
+The aircraft does not carry passengers or property for compensation or hire.
+
+                                      Equivalent Level of Safety
+Currently, there are no applicable areas identified for sUAS in either the private or
+commercial sector and therefore an exemption is required to conduct commercial
+operations. As flight operations will be conducted in a restricted environment as
+described in the operations section, these strict guidelines will achieve an equivalent level
+of safety for each individual flight especially when compared to commercial flights
+identified in Part 61 when originally developed.
+
+14 C.F.R. § 91.7(a): Civil Aircraft Airworthiness
+
+Petitioner seeks an exemption from 14 C.F.R. § 91.7(a), which requires that a civil
+aircraft be in airworthy condition to be operated. Inasmuch there will be no airworthiness
+certificate issued for the sUAS, should this exemption be granted, no FAA regulatory
+standard will exist for determining airworthiness.
+
+                                      Equivalent Level of Safety
+Given the size of the IRIS+ and the preflight procedures including the review of
+maintenance logs and preflight check lists, an equivalent level of safety will be provided
+to assure the aircraft is in an airworthy condition.
+
+14 C.F.R. § 91.119(c): Minimum Safe Altitudes
+
+Petitioner requests an exemption from the minimum safe altitude requirements of 14
+C.F.R. § 91.119(c) which states that aircraft may not operate closer than 500 feet above
+the surface and away from any person, vessel, vehicle, or structure in non-congested
+areas.
+
+To provide the intended operations, the sUAS is operated below 400 feet AGL.
+                                      Equivalent Level of Safety
+Compared to flight operations with rotorcraft weighing far more than the 4 pounds
+proposed herein, and given the lack of flammable fuel, any risk associated with these
+operations is far less than those that presently exist with conventional aircraft. An
+equivalent level of safety will be achieved given the size, weight, and speed of the UAS,
+as well as the location where it is operated. As set forth in the operations section of this
+exemption, the sUAS will be operated away from densely populated areas and at least
+5nm away from airports (unless a letter of agreement from the airport's management is
+obtained), where buildings and people will not be exposed to operations without their
+pre-obtained consent. Because of the advance notice to the property owners and
+participants, all affected individuals will be well aware of the planned flight operations.
+
+14 C.F.R. § 91.121: Altimeter Settings
+
+This petition seeks an exemption from 14 C.F.R. § 91.121, which requires a person
+operating an aircraft to maintain cruising altitude or flight level by reference to an
+altimeter that is set to the elevation of the departure airport or barometric pressure. An
+exemption is required because the sUAS does not have a barometric altimeter, but rather
+a GPS altitude read out.
+
+                                      Equivalent Level of Safety
+An equivalent level of safety will be achieved by the operator confirming the altitude of
+the launch site shown on the GPS altitude indicator before flight. Moreover, the PIC will
+use the GPS altitude indicator to constantly monitor the sUAS's height, thus ensuring
+operation at safe altitudes.
+
+14 C.F.R. § 91.151(a)(1): Fuel Requirements for Flight in VFR Conditions
+
+Petitioner requests an exemption from 14 C.F.R. § 91.151(a)(1)'s fuel requirements for
+flight in VFR conditions during the day. Section 91.151(a)(1) states:
+(a) No person may begin a flight in an airplane under VFR conditions unless (considering
+wind and forecast weather conditions) there is enough fuel to fly to the first point of
+intended landing and, assuming normal cruising speed ­
+(1) During the day, to fly after that for at least 30 minutes;
+
+Here, the battery powering the IRIS+ provides approximately 16 minutes of flight. To
+meet the 30 minutes reserve requirement in 14 C.F.R. § 91.151, sUAS flights could not
+be conducted. Given the limitations on the sUAS's proposed flight area and the location
+of its proposed operations within a predetermined area, a safety margin based on a
+reserve amount of battery life is needed.
+                                      Equivalent Level of Safety
+An equivalent level of safety will be achieved because the operations will be conducted
+on-site without significant transit time by the sUAS. All flights will be planned to be
+terminated with no less than 25% reserve battery power still available. This restriction
+would be more than adequate to return the sUAS safely to the ground and its planned
+landing zone from anywhere in its limited operating area even in the event of an
+unexpected occurrence. Operation of the sUAS with less than 30 minutes of reserve fuel
+does not include the type of risks that Section 91.151(a)(1) was intended to alleviate
+given the size and speed of the small UAS, and the proximity of the flight operation to
+the landing zone.
+
+14 C.F.R. § 91.405(a), 91.407(a)(1), 91.409(a)(2); 91.417(a) and (b): Maintenance
+Inspections
+
+Petitioner also seeks an exemption from the maintenance inspection requirements
+contained in 14 C.F.R. § 91.405(a), 91.407(a)(1), 91.409(a)(2); 91.417(a) and (b). These
+regulations specify maintenance and inspection standards in reference to 14 C.F.R. Part
+43. See, e.g., 14 C.F.R. § 91.405(a) (stating that each owner or operator of an aircraft
+"[s]hall have the aircraft inspected as prescribed in subpart E of this part and shall
+between required inspections ...have discrepancies repaired as prescribed in part 43 of
+this chapter"). An exemption to these regulations is needed because Part 43 and these
+sections only apply to aircraft with an airworthiness certificate, which the sUAS will not
+have.
+
+                                      Equivalent Level of Safety
+An equivalent level of safety will be achieved because the operator will ensure that the
+sUAS is in working order prior to initiating flight by following the preflight checklist,
+perform required maintenance, and keep a log of any maintenance performed. The
+operator is the person most familiar with the aircraft and best suited to maintain the
+aircraft in an airworthy condition.
+ APPENDIX B: SUMMARY OF WITT TECH LLC SECTION 333 EXEMPTION
+                                               REQUEST
+
+        Witt Tech LLC hereby provides pursuant to Part 11 a summary of its exemption
+application to allow commercial operation of the IRIS+ unmanned aircraft in remote sens-
+ing. An exemption is requested from the following regulations:
+
+        14 C.F.R. 61.113(a)&(b);
+        14 C.F.R. 91.7(a);
+        14 C.F.R. 91.119(c);
+        14 C.F.R. 91.121;
+        14 C.F.R. 91.151(a)(1);
+        14 C.F.R. 91.405(a);
+        14 C.F.R. 91.407(a) (1);
+        14 C.F.R. 91.409(a) (2);
+        14 C.F.R. 91.417(a)&(b).
+

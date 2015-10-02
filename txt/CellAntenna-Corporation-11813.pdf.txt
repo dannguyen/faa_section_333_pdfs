@@ -1,0 +1,1353 @@
+June 16, 2015
+
+                                                           Exemption No. 11813
+                                                           Regulatory Docket No. FAA­2015­1010
+
+Ms. Marjorie K. Conner
+Counsel for CellAntenna Corporation
+700 West View Terrace
+Alexandria, VA 22302
+
+Dear Ms. Conner:
+
+This letter is to inform you that we have granted your request for exemption. It transmits our
+decision, explains its basis, and gives you the conditions and limitations of the exemption,
+including the date it ends.
+
+By letter dated April 6 and May 12, 2015, you petitioned the Federal Aviation Administration
+(FAA) on behalf of CellAntenna Corporation (hereinafter petitioner or operator) for an
+exemption. The petitioner requested to operate an unmanned aircraft system (UAS) to
+conduct visual observation, inspection, and recording and RF signal extension and detection
+work.
+
+See Appendix A for the petition submitted to the FAA describing the proposed operations and
+the regulations that the petitioner seeks an exemption.
+
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register because the requested exemption would not set a precedent, and any
+delay in acting on this petition would be detrimental to the petitioner.
+
+Airworthiness Certification
+
+The UAS proposed by the petitioner are the DJI S1000 Spreading Wings, DJI Inspire, DJI 450
+Flame Wheel Quadcopter, and DJI 550 Flame Wheel Hexacopter.
+
+The petitioner requested relief from 14 CFR part 21, Certification procedures for products
+and parts, Subpart H--Airworthiness Certificates. In accordance with the statutory criteria
+                                                                                                                 2
+
+provided in Section 333 of Public Law 112-95 in reference to 49 U.S.C. § 44704, and in
+consideration of the size, weight, speed, and limited operating area associated with the
+aircraft and its operation, the Secretary of Transportation has determined that this aircraft
+meets the conditions of Section 333. Therefore, the FAA finds that the requested relief from
+14 CFR part 21, Certification procedures for products and parts, Subpart H--Airworthiness
+Certificates, and any associated noise certification and testing requirements of part 36, is
+not necessary.
+
+The Basis for Our Decision
+
+You have requested to use a UAS for aerial data collection1. The FAA has issued grants of
+exemption in circumstances similar in all material respects to those presented in your petition.
+In Grants of Exemption Nos. 11062 to Astraeus Aerial (see Docket No. FAA-2014-0352),
+11109 to Clayco, Inc. (see Docket No. FAA-2014-0507), 11112 to VDOS Global, LLC (see
+Docket No. FAA-2014-0382), and 11213 to Aeryon Labs, Inc. (see Docket No.
+FAA-2014-0642), the FAA found that the enhanced safety achieved using an unmanned
+aircraft (UA) with the specifications described by the petitioner and carrying no passengers or
+crew, rather than a manned aircraft of significantly greater proportions, carrying crew in
+addition to flammable fuel, gives the FAA good cause to find that the UAS operation enabled
+by this exemption is in the public interest.
+
+Having reviewed your reasons for requesting an exemption, I find that--
+
+ They are similar in all material respects to relief previously requested in Grant of
+    Exemption Nos. 11062, 11109, 11112, and 11213;
+
+ The reasons stated by the FAA for granting Exemption Nos. 11062, 11109, 11112, and
+    11213 also apply to the situation you present; and
+
+ A grant of exemption is in the public interest.
+
+Our Decision
+
+In consideration of the foregoing, I find that a grant of exemption is in the public interest.
+Therefore, pursuant to the authority contained in 49 U.S.C. 106(f), 40113, and 44701,
+delegated to me by the Administrator, CellAntenna Corporation is granted an exemption from
+14 CFR §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a), 61.315(a), 91.7(a), 91.119(c),
+91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), and 91.417(a) and (b), to
+the extent necessary to allow the petitioner to operate a UAS to perform aerial data collection.
+This exemption is subject to the conditions and limitations listed below.
+
+1 Aerial data collection includes any remote sensing and measuring by an instrument(s) aboard the UA.
+Examples include imagery (photography, video, infrared, etc.), electronic measurement (precision surveying, RF
+analysis, etc.), chemical measurement (particulate measurement, etc.), or any other gathering of data by
+instruments aboard the UA.
+                                                                                                                 3
+
+Conditions and Limitations
+
+In this grant of exemption, CellAntenna Corporation is hereafter referred to as the operator.
+
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+
+    1. Operations authorized by this grant of exemption are limited to the DJI S1000
+         Spreading Wings, DJI Inspire, DJI 450 Flame Wheel Quadcopter, and DJI 550 Flame
+         Wheel Hexacopter when weighing less than 55 pounds including payload. Proposed
+         operations of any other aircraft will require a new petition or a petition to amend this
+         exemption.
+
+    2. Operations for the purpose of closed-set motion picture and television filming are
+         not permitted.
+
+    3. The UA may not be operated at a speed exceeding 87 knots (100 miles per hour). The
+         exemption holder may use either groundspeed or calibrated airspeed to determine
+         compliance with the 87 knot speed restriction. In no case will the UA be operated at
+         airspeeds greater than the maximum UA operating airspeed recommended by the
+         aircraft manufacturer.
+
+    4. The UA must be operated at an altitude of no more than 400 feet above ground level
+         (AGL). Altitude must be reported in feet AGL.
+
+    5. The UA must be operated within visual line of sight (VLOS) of the PIC at all times.
+         This requires the PIC to be able to use human vision unaided by any device other than
+         corrective lenses, as specified on the PIC's FAA-issued airman medical certificate or
+         U.S. driver's license.
+
+    6. All operations must utilize a visual observer (VO). The UA must be operated within
+         the visual line of sight (VLOS) of the PIC and VO at all times. The VO may be used
+         to satisfy the VLOS requirement as long as the PIC always maintains VLOS
+         capability. The VO and PIC must be able to communicate verbally at all times;
+         electronic messaging or texting is not permitted during flight operations. The PIC
+         must be designated before the flight and cannot transfer his or her designation for the
+         duration of the flight. The PIC must ensure that the VO can perform the duties
+         required of the VO.
+
+    7. This exemption and all documents needed to operate the UAS and conduct its
+         operations in accordance with the conditions and limitations stated in this grant of
+         exemption, are hereinafter referred to as the operating documents. The operating
+         documents must be accessible during UAS operations and made available to the
+         Administrator upon request. If a discrepancy exists between the conditions and
+                                                                                                            4
+
+    limitations in this exemption and the procedures outlined in the operating documents,
+    the conditions and limitations herein take precedence and must be followed.
+    Otherwise, the operator must follow the procedures as outlined in its operating
+    documents. The operator may update or revise its operating documents. It is the
+    operator's responsibility to track such revisions and present updated and revised
+    documents to the Administrator or any law enforcement official upon request. The
+    operator must also present updated and revised documents if it petitions for extension
+    or amendment to this grant of exemption. If the operator determines that any update
+    or revision would affect the basis upon which the FAA granted this exemption, then
+    the operator must petition for an amendment to its grant of exemption. The FAA's
+    UAS Integration Office (AFS-80) may be contacted if questions arise regarding
+    updates or revisions to the operating documents.
+
+8. Any UAS that has undergone maintenance or alterations that affect the UAS operation
+    or flight characteristics, e.g., replacement of a flight critical component, must undergo
+    a functional test flight prior to conducting further operations under this exemption.
+    Functional test flights may only be conducted by a PIC with a VO and must remain at
+    least 500 feet from other people. The functional test flight must be conducted in such
+    a manner so as to not pose an undue hazard to persons and property.
+
+9. The operator is responsible for maintaining and inspecting the UAS to ensure that it is
+    in a condition for safe operation.
+
+10. Prior to each flight, the PIC must conduct a pre-flight inspection and determine the
+    UAS is in a condition for safe flight. The pre-flight inspection must account for all
+    potential discrepancies, e.g., inoperable components, items, or equipment. If the
+    inspection reveals a condition that affects the safe operation of the UAS, the aircraft is
+    prohibited from operating until the necessary maintenance has been performed and the
+    UAS is found to be in a condition for safe flight.
+
+11. The operator must follow the UAS manufacturer's maintenance, overhaul,
+    replacement, inspection, and life limit requirements for the aircraft and
+    aircraft components.
+
+12. Each UAS operated under this exemption must comply with all manufacturer
+    safety bulletins.
+
+13. Under this grant of exemption, a PIC must hold either an airline transport,
+    commercial, private, recreational, or sport pilot certificate. The PIC must also hold a
+    current FAA airman medical certificate or a valid U.S. driver's license issued by a
+    state, the District of Columbia, Puerto Rico, a territory, a possession, or the Federal
+    government. The PIC must also meet the flight review requirements specified in
+    14 CFR § 61.56 in an aircraft in which the PIC is rated on his or her pilot certificate.
+                                                                                                            5
+
+14. The operator may not permit any PIC to operate unless the PIC demonstrates the
+    ability to safely operate the UAS in a manner consistent with how the UAS will be
+    operated under this exemption, including evasive and emergency maneuvers and
+    maintaining appropriate distances from persons, vessels, vehicles and structures. PIC
+    qualification flight hours and currency must be logged in a manner consistent with
+    14 CFR § 61.51(b). Flights for the purposes of training the operator's PICs and VOs
+    (training, proficiency, and experience-building) and determining the PIC's ability to
+    safely operate the UAS in a manner consistent with how the UAS will be operated
+    under this exemption are permitted under the terms of this exemption. However,
+    training operations may only be conducted during dedicated training sessions. During
+    training, proficiency, and experience-building flights, all persons not essential for
+    flight operations are considered nonparticipants, and the PIC must operate the UA
+    with appropriate distance from nonparticipants in accordance with 14 CFR § 91.119.
+
+15. UAS operations may not be conducted during night, as defined in 14 CFR § 1.1. All
+    operations must be conducted under visual meteorological conditions (VMC). Flights
+    under special visual flight rules (SVFR) are not authorized.
+
+16. The UA may not operate within 5 nautical miles of an airport reference point (ARP) as
+    denoted in the current FAA Airport/Facility Directory (AFD) or for airports not
+    denoted with an ARP, the center of the airport symbol as denoted on the current
+    FAA-published aeronautical chart, unless a letter of agreement with that airport's
+    management is obtained or otherwise permitted by a COA issued to the exemption
+    holder. The letter of agreement with the airport management must be made available
+    to the Administrator or any law enforcement official upon request.
+
+17. The UA may not be operated less than 500 feet below or less than 2,000 feet
+    horizontally from a cloud or when visibility is less than 3 statute miles from the PIC.
+
+18. If the UAS loses communications or loses its GPS signal, the UA must return to a
+    pre-determined location within the private or controlled-access property.
+
+19. The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+20. The PIC is prohibited from beginning a flight unless (considering wind and forecast
+    weather conditions) there is enough available power for the UA to conduct the
+    intended operation and to operate after that for at least five minutes or with the reserve
+    power recommended by the manufacturer if greater.
+
+21. Air Traffic Organization (ATO) Certificate of Waiver or Authorization (COA). All
+    operations shall be conducted in accordance with an ATO-issued COA. The
+    exemption holder may apply for a new or amended COA if it intends to conduct
+    operations that cannot be conducted under the terms of the attached COA.
+                                                                                                            6
+
+22. All aircraft operated in accordance with this exemption must be identified by serial
+    number, registered in accordance with 14 CFR part 47, and have identification
+    (N-Number) markings in accordance with 14 CFR part 45, Subpart C. Markings must
+    be as large as practicable.
+
+23. Documents used by the operator to ensure the safe operation and flight of the UAS and
+    any documents required under 14 CFR §§ 91.9 and 91.203 must be available to the
+    PIC at the Ground Control Station of the UAS any time the aircraft is operating.
+    These documents must be made available to the Administrator or any law enforcement
+    official upon request.
+
+24. The UA must remain clear and give way to all manned aviation operations and
+    activities at all times.
+
+25. The UAS may not be operated by the PIC from any moving device or vehicle.
+
+26. All Flight operations must be conducted at least 500 feet from all nonparticipating
+    persons, vessels, vehicles, and structures unless:
+      a. Barriers or structures are present that sufficiently protect nonparticipating persons
+          from the UA and/or debris in the event of an accident. The operator must ensure
+          that nonparticipating persons remain under such protection. If a situation arises
+          where nonparticipating persons leave such protection and are within 500 feet of
+          the UA, flight operations must cease immediately in a manner ensuring the safety
+          of nonparticipating persons; and
+      b. The owner/controller of any vessels, vehicles or structures has granted permission
+          for operating closer to those objects and the PIC has made a safety assessment of
+          the risk of operating closer to those objects and determined that it does not
+          present an undue hazard.
+
+    The PIC, VO, operator trainees or essential persons are not considered
+    nonparticipating persons under this exemption.
+
+27. All operations shall be conducted over private or controlled-access property with
+    permission from the property owner/controller or authorized representative.
+    Permission from property owner/controller or authorized representative will be
+    obtained for each flight to be conducted.
+
+28. Any incident, accident, or flight operation that transgresses the lateral or vertical
+    boundaries of the operational area as defined by the applicable COA must be reported
+    to the FAA's UAS Integration Office (AFS-80) within 24 hours. Accidents must be
+    reported to the National Transportation Safety Board (NTSB) per instructions
+    contained on the NTSB Web site: www.ntsb.gov.
+                                                                                                                 7
+
+ If this exemption permits operations for the purpose of closed-set motion picture and
+ television filming and production, the following additional conditions and limitations apply.
+
+    29. The operator must have a motion picture and television operations manual (MPTOM)
+         as documented in this grant of exemption.
+
+    30. At least 3 days before aerial filming, the operator of the UAS affected by this
+         exemption must submit a written Plan of Activities to the local Flight Standards
+         District Office (FSDO) with jurisdiction over the area of proposed filming. The 3-day
+         notification may be waived with the concurrence of the FSDO. The plan of activities
+         must include at least the following:
+           a. Dates and times for all flights;
+           b. Name and phone number of the operator for the UAS aerial filming conducted
+              under this grant of exemption;
+           c. Name and phone number of the person responsible for the on-scene operation of
+              the UAS;
+           d. Make, model, and serial or N-Number of UAS to be used;
+           e. Name and certificate number of UAS PICs involved in the aerial filming;
+           f. A statement that the operator has obtained permission from property owners
+              and/or local officials to conduct the filming production event; the list of those
+              who gave permission must be made available to the inspector upon request;
+           g. Signature of exemption holder or representative; and
+           h. A description of the flight activity, including maps or diagrams of any area, city,
+              town, county, and/or state over which filming will be conducted and the altitudes
+              essential to accomplish the operation.
+
+    31. Flight operations may be conducted closer than 500 feet from participating persons
+         consenting to be involved and necessary for the filming production, as specified in the
+         exemption holder's MPTOM.
+
+Unless otherwise specified in this grant of exemption, the UAS, the UAS PIC, and the UAS
+operations must comply with all applicable parts of 14 CFR including, but not limited to,
+parts 45, 47, 61, and 91.
+                                                                                    8
+
+This exemption terminates on June 30, 2017, unless sooner superseded or rescinded.
+
+Sincerely,
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+Enclosures
+                                             MARJORIE K. CONNER
+                                                    ATTORNEY
+
+                                           700 WEST VIEW TERRACE
+                                        ALEXANDRIA, VIRGINIA 22302
+
+                                                  APRIL 6, 2015
+
+703-706-5917
+mkconner@mkconnerlaw.com
+
+U.S. Department of Transportation
+Docket Management System
+1200 New Jersey Ave., S.E.
+Washington, D.C. 20590
+
+         Re: CellAntenna Corporation Petition for Exemption
+                  Pursuant to Section 333 of the FAA Modernization and Reform Act of 2012 and
+                  Section 11.81 of the FAA's rules, 14 C.F.R. §11.81
+
+Dear USDOT:
+
+         By counsel, and pursuant to Section 333 of the FAA Modernization and Reform Act of
+2012 ("Reform Act"), and Section 11.81 of the FAA's rules, 14 C.F.R. § 11.81, CellAntenna
+Corporation ("CellAntenna") petitions for exemption from a number of Federal Aviation
+Regulations ("FARs"),1 as detailed herein, to allow commercial operation of small unmanned
+aircraft systems2 ("UAS").
+
+         CellAntenna's petition for exemption ("Petition") is supported by the information
+provided herein, as well as its appended CellAntenna UAS Operations Manual ("CellAntenna
+Manual") and each manufacturer's UAS Manual ("UAS Manual").3 CellAntenna submits the
+CellAntenna Manual and UAS Manual (the "Manuals") as confidential documents, consistent
+with Section 11.35(b) of the FAA's rules, 14 C.F.R. §11.35(b). The Manuals contain
+confidential commercial and/or proprietary information that CellAntenna has not shared and will
+not share with others. The Manuals set forth operating conditions and procedures that are not
+generally available to the public and are protected from release under the Freedom of
+Information Act, 5 U.S.C. § 552 et. seq. and any other disclosure requirements established by the
+FAA pursuant to Section 333 of the Reform Act.
+
+1 Specifically, CellAntenna requests exemption from Part 21, Subpart H; Part 27; Sections 45.23(b); 45.27(a);
+61.113; 91.7(a); 91.9(b)(2); 91.9(c); 91.103; 91.105; 91.109(a); 91.119; 91.121; 91.151(a); 91.203(a) and (b);
+91.405(a); 91.407(a)(1); 91.409(a)(1) and (2); 91.417(a) and (b), and any other provision which the FAA determines
+should be included in the exemption request. See Jeffrey J. Walsh, Reg. Docket No. FAA-2014-0681, at 3-4.
+2 CellAntenna envisions that its UAS services will include, but will not be limited to, motion picture filming and
+other photographic services, bridge, building, construction, and other architectural observation and inspection,
+electrical power grid inspection, telecom infrastructure inspection, disaster recovery and insurance site inspection, as
+well as agriculture observation and inspection. In addition to these video and visual observation services,
+CellAntenna will provide UAS borne communications services, consistent with FCC rules and regulations.
+3 The UAS Manual includes all manufacturer publications relating to the device, including, without limitation,
+operations and flight manuals, user guides, component maintenance manuals, pilot training manuals, service
+information letters and safety/service bulletins.
+U.S. Department of Transportation
+Docket Management System
+April 6, 2015
+Page 2
+
+    I. CellAntenna
+
+         CellAntenna is a family-owned U.S. company, based in Coral Springs, Florida. Since
+2002, CellAntenna has led the industry in marketing and servicing communications devices. In
+the course of its business, CellAntenna has developed a special interest in UAS, particularly in
+combining its wireless communications expertise with UAS devices. CellAntenna's
+communications expertise brings added reliability and diversity to its UAS operations.
+
+         CellAntenna's contact information is:
+
+         Sid Kopperl
+         Chief Operating Officer
+         CellAntenna Corporation
+         12453 NW 44th Street
+         Coral Springs, Florida 33065
+         sk@cellantenna.com
+         Telephone: 954-340-7053
+
+         CellAntenna's counsel:
+
+         Marjorie K. Conner
+         700 West View Terrace
+         Alexandria, Virginia 22301
+
+    II. CellAntenna's Proposed Operation
+
+    CellAntenna proposes to use UAS for visual observation, inspection, and recording and RF
+signal extension and detection work. CellAntenna has tailored its operations to meet the criteria
+established in the FAA's grant of the Astraeus Aerial exemption, Exemption No. 11062, Reg.
+Docket No. FAA-2014-0352 ("Astraeus Aerial") and the dozens of similar exemptions granted
+based on the Astraeus Aerial precedent. CellAntenna's UAS operations will be conducted in
+accord with the conditions and limitations set forth in the grant of this Petition, CellAntenna's
+Manual and the UAS Manual.
+
+    CellAntenna's UAS operations will be conducted in controlled circumstances, away from
+spectators and persons not involved in the operation. All operations will be conducted during
+daylight, Visual Flight Rule ("VFR") conditions, at altitudes below 400 feet Above Ground
+Level ("AGL"). CellAntenna's operations will be conducted at a level of safety superior to that
+of fixed wing aircraft or helicopters performing the same or similar work.
+
+    III. Relevant Statutory Authority
+
+         This Petition is submitted pursuant to Section 333(a) through (c) of the Reform Act. In
+the Reform Act, Congress directed the FAA to "safely accelerate the integration of civil
+unmanned aircraft systems into the national airspace system." As directed by Section 333 of the
+Reform Act, where it is safe to do so, the FAA Administrator may permit unmanned aircraft
+systems to operate in the National Air Space ("NAS"), based on specific considerations:
+U.S. Department of Transportation
+Docket Management System
+April 6, 2015
+Page 3
+
+              The UAS' size, weight, speed, and operational capability;
+              Control of operation of the UAS in close proximity to airports and populated
+
+                  areas; and
+              Operation of the UAS within the visual line of sight of the operator.
+
+    The Administrator of the FAA also has general authority to grant exemptions from its safety
+regulations and minimum standards when the Administrator determines a requested exemption is
+in the public interest.4
+
+    IV. CellAntenna's Proposed Operations are Consistent
+             with Section 333 of the Reform Act and the Astraeus Aerial Exemption
+             and the dozens of Exemptions Granted based on the Astraeus Aerial Precedent.
+
+    CellAntenna's proposed operations fit each of the criteria for expedited approval set forth in
+Section 333 of the Reform Act, and is consistent in its basis with the 69 Petitions granted by the
+FAA between September 25, 2014 and May 26, 2015, including Astraeus Aerial.
+
+         A. UAS Size, Weight, Speed, and Operational Capability
+
+    A grant of the requested exemption is appropriate because the physical properties of
+CellAntenna's UAS meet the size, weight, speed, and operational capability criteria meet the
+parameters set forth in the Astraeus Aerial grant, and its progeny. Specifically, CellAntenna's
+UAS
+
+              Weigh less than 55 lb.;
+              Will not be flown in excess of 87 knots;
+              Will not be flown above 400 ft. AGL;
+              Will be flown so that the flights may be safely terminated, including with a
+
+                  reserve of 20% of the battery's maximum charge capacity;
+              The UAS will generate altitude information using onboard GPS triangulation
+
+                  equipment, digitally encoded barometric altimeter, radio altimeter, or a
+                  combination of them. Altitude information will be transmitted to the pilot in
+                  charge by telemetric data feed.
+              The UAS will have system redundancies and independent functionalities to ensure
+                  the overall safety and predictability of the system. If connection to the remote
+                  control or ground control station is lost, failsafe systems will permit the UAS to
+                  return to home or to a predetermined location and safely land without injury or
+                  damage.
+              The radio frequencies used for operations and control of the UAS will comply
+                  with Federal Communications Commission ("FCC") and/or other controlling
+                  rules and specifications.
+
+4 See generally, 49 U.S.C. §§ 106(f), 44701(a), (b), and (f), and 44702-44716, et. seq., and, more specifically, 14
+C.F.R. § 11.81.
+U.S. Department of Transportation
+Docket Management System
+April 6, 2015
+Page 4
+
+         The Administrator has noted that if the operations proposed in this petition were
+conducted using a helicopter, the aircraft's take-off weight could "weigh thousands of pounds or
+more and [would be] operated by an onboard pilot, in addition to other onboard crewmembers."5
+The weight difference between a helicopter and CellAntenna's UAS significantly reduces the
+potential harm to the operator and the public, in the event of an accident or incident. Remote
+operation of the UAS eliminates the risk of harm to the onboard pilot and camera or other device
+operator. The Administrator is well-acquainted with helicopter accidents that may be avoided by
+conducting aerial filming, observation, and other activities by UAS.6
+
+         B. The Operational Restrictions set forth in the CellAntenna Manual meet the
+             Administrator's criteria.
+
+         The CellAntenna Manual and the UAS Manual provide the procedures and limitations
+necessary to safely and successfully perform the operations contemplated by this petition. Of
+note, the CellAntenna Manual and the UAS Manual provide operational limitations and
+conditions to ensure a high level of safety to operations, consistent to or exceeding current FAA
+guidelines:
+
+         1. The UAS weighs less than 55 lb., fully loaded.
+
+         2. The minimum crew for each operation will include a Pilot-in-Command of the UAS,
+             and one or more Visual Observers ("Observer"), as necessary to conduct a safe
+             mission.
+
+         3. The UAS shall be operated within Visual Line of Sight ("VLOS") of the PIC and
+             Observer at all times.
+
+         4. The PIC must use human vision unaided by any device other than corrective lenses.
+
+         5. The Observer designated for any operation will be in constant voice contact with the
+             PIC.
+
+         6. Any additional requirements set forth in the Administrator's grant of this petition
+             shall be added to the CellAntenna Manual. The CellAntenna Manual shall be
+             maintained and made available to the Administrator upon request. If any discrepancy
+             exists between the conditions and limitations in the exemption, as granted, and the
+             CellAntenna Manual, the conditions and limitations in the exemption, as granted,
+             shall take precedence and shall be followed.
+
+         7. Maximum total flight time for each operational flight shall be limited to that amount
+             of time that the UAS may be flown and still maintain a reserve battery power capacity
+             of no less than 20%.
+
+5 Singer's Creations, Exemption No. 11191, Reg. Docket No. FAA-2014-0915, at 2.
+6 The National Transportation Safety Board ("NTSB") maintains a database of Aviation Accidents. It may be
+accessed at: http://www.ntsb.gov/_layouts/ntsb.aviation/month.aspx. Some of the helicopter accidents reported
+there include: NTSB Report AAR-84-14, reporting three fatalities and six injuries in a closed set helicopter filming
+operation; MIA07FAH7, reporting two fatalities and one serious injury in a photo shoot over water; and
+NIC08FA071, reporting three fatalities during a search for a lost hunter.
+U.S. Department of Transportation
+Docket Management System
+April 6, 2015
+Page 5
+
+         8. Flights will be operated at an altitude of no more than 400 feet AGL. Flights will
+             never enter navigable controlled airspace without prior written authorization and
+             approval from the FAA.
+
+         9. Lateral distances from participating persons, as defined in FAA Order 8900.1 V3, C8,
+             S1, will be maintained.
+
+         10. Flights will be operated at a lateral distance of at least 500 feet from any non-
+             participating persons, unless that person is in a position in which he or she is shielded
+             from the UAS and possible debris resulting from UAS failure. Flight will be
+             terminated if a non-participating person within 500 feet of the UAS leaves a shielded
+             position. At no time will the UAS be conducted so close to persons or objects to
+             present and undue hazard to the PIC or Observer, as prescribed in Section 91.119(a)
+             of the FAA's rules, 14 U.S.C. § 91.119(a).
+
+         11. Flights will be limited to a speed of 78 knots.
+
+         12. Prior to each flight the PIC shall inspect the UAS to confirm that it is in safe-flight
+             condition. The PIC shall not operate the UAS if the inspection reveals a condition
+             that adversely affects the safe operation of the UAS unless and until the condition has
+             been removed and the UAS is found to be in safe-flight condition. The Ground
+             Control Station ("GCS") shall be included in the preflight inspection. All
+             maintenance, repairs, and alterations shall be properly documented in the UAS
+             records.
+
+         13. Any UAS that has undergone maintenance, repair, or alteration that affects the UAS
+             operation or flight characteristics must undergo functional test flight in accordance
+             with the CellAntenna Manual. The PIC conducting the functional test flight must
+             record the functional test flight and its results in the UAS aircraft records. The
+             requirements and procedures for functional test flights and UAS entry are prescribed
+             by the CellAntenna Manual.
+
+         14. The UAS will be operated and maintained according to the UAS Manual.
+
+         15. Prior to any flight, a Mission Plan shall be recorded, setting forth the operational
+             limitations and conditions for the mission, as well as key personnel contact
+             information and a description of any anticipated hazards on or in the vicinity of the
+             planned flight path or area.
+
+         16. Unless the FAA relieves it of this obligation, CellAntenna shall obtain a Certificate of
+             Waiver or Authorization ("COA") from an Air Traffic Organization ("ATO") prior to
+             conducting operations. As long as required or appropriate, CellAntenna shall request
+             a Notice to Airmen ("NOTAM") with the appropriate ATC facility between 48 ­ 72
+             hours before flight.
+
+         17. If any permissions or permits are required by territorial, state, county, or municipal
+             jurisdictions before flight, CellAntenna shall obtain them.
+
+         18. CellAntenna shall coordinate its operations with the appropriate Flight Standards
+             District Office ("FSDO"), as required.
+
+         19. If the UAS loses communication with the PIC, it shall return to a pre-determined
+             location within the operational area and land safely.
+U.S. Department of Transportation
+Docket Management System
+April 6, 2015
+Page 6
+
+         20. CellAntenna will ensure contingency plans to safely terminate the flight if there is a
+             loss of communication between the PIC and the Observer.
+
+         21. The UAS shall have the capability to abort the flight safely in the case of flight-
+             affecting unpredicted obstacles or emergencies.
+
+         22. Each PIC and each Observer will hold at least a current second class medical
+             Certificate.
+
+         23. Each PIC shall have accumulated and logged at least 12 hours training hours or 24
+             flights accrued before designated as a PIC on any flight.
+
+         24. Each PIC shall have accumulated and logged a minimum of 5 hours as a UAS pilot
+             operating the make and model of UAS to be utilized for operations under the
+             exemption, including three take-offs and three landings within the 90 days
+             immediately preceding any flight.
+
+         25. Operations shall be conducted only during daytime VFR Meteorological Conditions;
+             no flights shall be conducted under special visual flight rules ("SVFR").
+
+         26. The UAS shall remain clear and yield the right of way to any and all manned
+             operations and activities at all times, including, without limitation, ultralight vehicles,
+             parachute activities, parasailing activities, hang gliders.
+
+         27. UAS operations under Instrument Flight Rules, at night, or beyond VLOS are
+             prohibited.
+
+    V. Regulations from which CellAntenna requests Exemption.
+
+    CellAntenna requests exemption from several interrelated provisions of Title 14 of the CFR,
+Parts 21, 45, 61, and 91, for purposes of conducting its UAS operations. The specific code
+sections are listed below, along with operational protections demonstrating that CellAntenna will
+achieve equivalent or greater safety protections than the rule from which it seeks exemption.
+
+    A. Certain required documents to be kept at the CGS:
+         Sections 91.9(b), 91.203(a) and (b), 47.31(b)(2), and 47.31(c) of Title 14 of the CFR.
+
+    On August 8, 2014, Mark W. Bury, Assistant Chief Counsel for International Law,
+Legislation and Regulations, AGC-200, issued a Memorandum regarding the maintenance of
+certain required documents when flying UAS ("Memorandum"). Specifically, the Memorandum
+stated that maintenance of the airworthiness certificates, aircraft manuals, and aircraft
+registration certificates at the CGS would satisfy the intent of the governing FAA regulations.7
+CellAntenna proposes to maintain the required documents at the GCS, available to the PIC.
+
+7 See also, e.g., Astraeus Aerial, 19-20; Jeffrey J. Walsh, Grant of Exemption No. 11229, Reg Docket No. FAA-
+2014-0681, at 4 ("Walsh").
+U.S. Department of Transportation
+Docket Management System
+April 6, 2015
+Page 7
+
+    B. Provisions from which Exemption may be Unnecessary.
+
+         In an abundance of caution, CellAntenna seeks exemption from the obligations of certain
+provisions with which the Administrator may find CellAntenna's operations comply or that they
+are inapplicable to UAS operation. These sections are:
+
+             1. Airworthiness Standards Normal Category Rotorcraft: 14 C.F.R. Part 27
+                  Airworthiness Certificates: 14 C.F.R. Part 21
+
+         Part 21 of Title 14 sets for the requirements for Airworthiness Certificates for Products
+         and Parts. Part 27 of Title 14 sets forth the procedural requirements for airworthiness
+         certification of normal category rotorcraft. In the recent decision on the petition for
+         exemption filed by Solusia Air, LLC,8 the FAA determined that in accord with the
+         statutory criteria set forth in Section 333 of Reform Act, and in consideration of the size,
+         weight, speed, and limited operating area associated with UAS and its operation, the
+         Secretary of Transportation has determined that the UAS meets the criteria of Section
+         333 of the Reform Act. Therefore, the FAA found that relief from 14 C.F.R. Part 21, and
+         27 was well as any associated noise certification and testing requirements of Part 36 was
+         unnecessary.
+
+         Similarly, the UAS proposed for CellAntenna's operations meets the Section 333 criteria.
+         CellAntenna requests a determination that relief from Parts 21, 27, and 36 is unnecessary.
+
+             2. Aircraft Marking and Identification Requirements: 14 C.F.R. §§ 91.9(c),
+                  45.23(b), and 45.27(a)
+
+         In Solusia Air, the FAA said that it has previously determined, in Astraeus Aerial, that
+         relief from these sections is not necessary. Relevant materials may be kept in a location
+         accessible to the PIC in compliance with the regulations, and , as in Astraeus Aerial,
+         compliance with registration and marking requirements of Part 45 may be met9 because
+         the UAS is not granted experimental certificates under Section 21.191 of the FAA's
+         rules, and because the UAS may be marked, in accord with 14 C.F.R. Part 45 with
+         identification markings "as large as practicable."10
+
+         CellAntenna will mark its UAS with N-Number identifiers in a manner which is as large
+         as practicable, so that and equivalent level of safety may be achieved.
+
+             3. Preflight Action: 14 C.F.R. § 91.103
+
+         CellAntenna requests exemption from Section 91.103 of the FAA's rules, 14 C.F.R. §
+         91.103, which requires a PIC to become familiar with specific information before each
+         flight, including information contained in the FAA-approved Flight Manual on board the
+
+8 Solusia Air, LLC, March 20, 2015, Exemption No.11216, Reg. Docket No. FAA-2014-0912, at 2.
+9 Solusia Air, at 5.
+10 Astraeus Aerial, at 14.
+U.S. Department of Transportation
+Docket Management System
+April 6, 2015
+Page 8
+
+         aircraft. The FAA stated that a UAS operator can comply with the other requirements of
+         Section 91.103(b)(2). Pre-flight procedures that require reviewing weather, flight battery
+         requirements, landings, and take-off distances and aircraft performance data before
+         initiation of flight address the FAA's concerns regarding compliance with Section
+         91.103(b).11 The CellAntenna Manual sets for exactly these pre-flight procedures and
+         more.
+
+         CellAntenna will achieve an equivalent level of safety by ensuring compliance with the
+         procedures set forth in the CellAntenna Manual. The PIC will review a series of
+         checklists designed to identify any defects or inoperable components in in accord with
+         the CellAntenna Manual, including checklists covering Pre-Flight, Launch, Landing, and
+         Post-Flight procedures. The PIC will also be required to review weather, flight
+         requirements, battery charge, landing and takeoff distance, UAS performance data, and
+         contingency landing areas ­ before initiation of flight. The PIC and the Observer will
+         take into account the FAA's stricter requirements with regard to visibility and distance
+         from clouds. They will also be aware of sun glare hazards.
+
+    C. Other Provisions from which CellAntenna Seeks Exemption.
+
+             1. Civil Aircraft Airworthiness: 14 C.F.R. § 91.7(a) and (b)
+
+         In Solusia Air, the FAA determined that relief from Section 91.7(a) and (b) is
+         necessary.12 It determined that compliance with the UAS operating documents to be a
+         sufficient means for determining an airworthy condition ­ based on compliance with the
+         operating documents prior to every flight.13
+
+         CellAntenna requests exemption from Section 91.7(a) of the FAA's rules, 14 C.F.R §
+         91.7(a). The CellAntenna and the UAS Manual require the PIC to perform UAS
+         inspection prior to every flight. The Manuals set forth standards for test flight after repair
+         or significant maintenance, and set forth the timetable for routine maintenance and
+         replacement of parts. An equivalent level of safety is achieved by the degree of attention
+         to the airworthiness of CellAntenna's UAS.
+
+             2. Flight crewmembers at stations: 14 C.F.R. § 91.105
+
+         Section 91.105 of the FAA's rules, 14 C.F.R. § 91.105, requires that flight crewmembers
+         be at specific places aboard the aircraft. Because the UAS is unmanned, no
+         crewmembers are present on UAS flights. Compliance with Section 91.105, is therefore
+         impossible.
+
+         CellAntenna will maintain a Section 91.105-equivalent level of safety because it will
+         avoid the dangers sought to be ameliorated by it. As no passengers or crew will be
+
+11 Solusia Air, at 5.
+12 In contrast, in Astraeus Aerial, the FAA determined that "because an airworthiness certificate will not be issued,
+exemption from § 91.7(a) is not necessary. In an abundance of caution, CellAntenna requests an exemption of §
+91.7(a), if the FAA determines an exemption is necessary and appropriate.
+13 Solusia Air, at 2.
+U.S. Department of Transportation
+Docket Management System
+April 6, 2015
+Page 9
+
+         onboard, there is no need to specify the places at which the crewmembers will be
+         stationed. CellAntenna will achieve an equivalent level of safety because the
+         CellAntenna Manual specifies stations for the PIC and Observer for all flight phases.
+
+             3. Minimum Safe Altitudes: 14 C.F.R. § 91.119(c)
+
+         CellAntenna requests an exemption from the minimum safe altitude requirements set
+         forth in Section 91.119 of the FAA's rules, 14 C.F.R. § 91.119. Section 91.119
+         prescribes the minimum safe altitudes under which aircraft may not operate, including
+         500 feet above the surface and away from any person, vessel, vehicle, or structure in non-
+         congested areas. (Section 91.119(c)) Section 91.119(d) allows for a helicopter to operate
+         a lower altitudes when it can be operated "without hazard to persons or property on the
+         surface," provided that "each person operating the helicopter complies with any routes or
+         altitudes specifically prescribed for helicopters by the FAA."
+
+         An exemption is appropriate because in order to conduct aerial observation and filming
+         and conduct the RF applications proposed by CellAntenna, a UAS must operate at an
+         altitude of lower than 400 feet AGL. Order No. 8900.1 V3, C8, S1 allows UAS
+         operations to be closer than 500 feet from persons involved in the flight operations.
+
+         CellAntenna will accomplish an equivalent level of safety by minimizing the dangers
+         attendant to the flights generally controlled by Section 91.119. Helicopters, by their size,
+         fuel load, and difficulty to control, are much more dangerous than UAS devices. With
+         the minimal size, weight, and speed of CellAntenna's UAS, as well as the CellAntenna
+         Manual's requirement that flights be in restricted areas, a lateral distance of at least 500
+         feet from any nonparticipating unshielded person, CellAntenna's proposed UAS flights
+         are much safer than helicopter or fixed wing manned flights for the same purposes.
+
+         If any nonparticipating person leaves a shielded position, the CellAntenna Manual
+         requires that the flight be terminated. Additionally, the CellAntenna Manual requires that
+         UAS operations occur at least 500 feet away from vehicles or structures for which the
+         property owner or controller has not granted permission and the PIC or the Observer has
+         not conducted a safety assessment.
+
+         CellAntenna requests permission to conduct operations as close as 200 feet from non-
+         participating persons with the consent of the Administrator, as granted to Astraeus
+         Aerial.14
+
+         Even in the closer proximities, CellAntenna's operations will achieve and equivalent or
+         even greater level of safety than that traditionally accomplished by Section 91.119.
+
+             4. Altimeter Settings: 14 C.F.R. § 91.121
+
+         CellAntenna requests an exemption from Section 91.121 of the FAA's rules, 14 C.F.R. §
+         91.121, which requires a person operating an aircraft to maintain cruising altitude or
+
+14 Astraeus Aerial, at 20-21.
+U.S. Department of Transportation
+Docket Management System
+April 6, 2015
+Page 10
+
+         flight level by reference to an altimeter that is set to the elevation of the departure airport
+         or barometric pressure. And exemption is required to the extent that UASs do not use a
+         barometric altimeter. Rather UASs maintain altitude and monitor it through an onboard
+         GPS altitude read out.
+
+         In the grant of the Astraeus Aerial exemption, the FAA has stated than a Section 91.121
+         equivalent level of safety can be achieved in circumstances where: 1) the UAS is
+         operated at 400 feet AGL or below; 2) within VLOS; 3) where GPS based altitude
+         information is relayed in real time to the operator at a ground-based on-screen display;
+         and 4) where prior to each flight, a zero altitude initiation point is established for the PIC
+         to confirm accuracy of the onboard GPS. 15
+
+         CellAntenna's UAS meets all of these described operational characteristics. As required
+         by the CellAntenna Manual, the PIC will be required to calibrate the aricraft's GPS
+         compass prior to each flight. Like the grant of the Astraeus Aerial exemption, the
+         CellAntenna UAS, and the CellAntenna Manual safety mitigation procedures both ensure
+         a Section 91.121-equivalent level of safety.
+
+             5. Fuel Requirements for Flight in VFR Conditions: 14 C.F.R. § 91.151(a)
+
+         CellAntenna requests an exemption from Section 91.151(a) fuel requirements for flight in
+         VFR conditions. Section 91.151 requires sufficient fuel onboard to fly to the first point
+         of intended landing and then some before a flight may begin. Because UAS devices are
+         not powered by "fuel" but by battery power, the fuel requirement is not meaningful in the
+         UAS context.
+
+         The FAA has recognized that an equivalent level of safety may be achieved through
+         reservation of ample battery power, specified as a reserve of 20% of battery power or
+         completion of the flight within 30 minutes flight time, whichever comes first.16
+
+         Not only does the CellAntenna Manual specify compliance with the FAA's battery
+         reservation requirement, but CellAntenna's UAS uses a low battery warning system. The
+         amount of battery reserve power remaining will be transmitted to the PIC via telemetric
+         data feed, which downlinks from the UAS to a ground-based-on-screen display. As
+         specified in the CellAntenna Manual, the PIC will immediately fly the UAS back to the
+         home launch location or a pre-determined location at which the UAS may land safely,
+         while still maintaining a minimum of 20% reserve battery power. The CellAntenna
+         Manual procedures, combined with its flight limitations, the size, weight, speed, and
+         operational capability of the UAS devices ­ within the VLOS of the PIC and Observer
+         ensure that CellAntenna's proposed operation will equal, and may exceed, Section 91.151
+         safety levels.
+
+             6. Maintenance Inspections: 14 C.F.R. §§ 91.405(a), 91.407(a)(1), 91.409(a)(1)
+                  and (2), 91.417(a) and (b)
+
+15 Astraeus Aerial, at 21.
+16 See, e.g., Astraeus Aerial, at 21; Clayco, Inc., Exemption No. 11109, Docket No. FAA-2014-0507, at 15.
+U.S. Department of Transportation
+Docket Management System
+April 6, 2015
+Page 11
+
+         Sections 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), 91.417(a) and (b) of the FAA's
+         rules, 14 C.F.R. §§ 91.405(a), 91.407(a)(1), 91.409(a)(1) and (2), 91.417(a) and (b),
+         require that an aircraft be inspected and have discrepancies repaired, in accord with Part
+         43 of the FAA's rules. Part 43 relates to airworthiness certification processes.
+         Airworthiness certificates are not appropriately obtained for UAS devices, so that an
+         exemption from the Maintenance Inspection rules is appropriate.
+
+         CellAntenna will maintain an equivalent level of safety by conducting maintenance and
+         inspections in accord with the CellAntenna Manual and the UAS Manual. The PIC will
+         conduct a pre-flight inspection of the UAS and all associated equipment to account for
+         any discrepancies or inoperable components. CellAntenna will perform and verify
+         maintenance to correct any conditions which may affect safe operation of the UAS. No
+         flights will be undertaken unless and until all flight-critical components of the UAS have
+         been determined to be airworthy and in a safe operation condition. CellAntenna will
+         conduct a functional test flight following the replacement or repair of any flight-critical
+         components. The PIC will record the functional test flight in the aircraft records upon
+         successful completion.
+
+         The CellAntenna Manual also includes requirements to follow manufacturer UAS
+         aircraft/component, maintenance, overhaul, replacement, inspection, and life-limit
+         specifications for essential components, including: powertrain system (power plant),
+         propellers, avionics, and control surfaces (including ailerons/elevens), structures and
+         airframe, camera system, electrical systems (including batteries), GCS, hazard
+         accessories, and spare parts. The CellAntenna Manual also includes procedures to
+         document and maintain a record of the UAS maintenance, preventative maintenance,
+         alterations, status of replacement/overhaul component parts, and the total time in-service
+         of CellAntenna's UASs. As a whole, the procedures specified in the CellAntenna
+         Manual ensure that maintenance inspections will be conducted in a manner to achieve an
+         equivalent or higher level of safety, when compared to the FAA's rules.
+
+             7. Private Pilot Privileges and Limitations: 14 C.F.R. § 61.113
+
+         Section 61.113 of the FAA's rules, 14 C.F.R. § 61.113, restricts private pilot certificate
+         holders from flying aircraft for compensation or hire. It also would require each PIC to
+         hold a second class medical certificate. The restrictions and requirements of Part 61 are
+         designed to protect passengers or cargo when carried for hire. Operation of a UAS for
+         hire bears much less risk to life, limb, and treasure, because of the size, weight, speed,
+         and operational capability of the UAS. CellAntenna's UAS will not carry passengers or
+         cargo.
+
+         The FAA has recognized the unique characteristics of UAS, and acknowledged that UAS
+         operation does not warrant the additional cost and restrictions attendant to requiring a
+         PIC for hire to have a commercial pilot certificate and a second class medical certificate.
+
+         CellAntenna will ensure Section 61.113-equivalent safety through the requirements set
+         forth in the CellAntenna Manual. The CellAntenna Manual includes the restrictions
+U.S. Department of Transportation
+Docket Management System
+April 6, 2015
+Page 12
+
+         imposed on Astraeus Aerial in the exemption granted to it. CellAntenna will operate
+         away its UAS away from persons and property not involved in its operation. Flights will
+         be conducted by VLOS at 400 feet AGL or below. When required, a NOTAM will be
+         issued between 48 and 72 hours before the flight will commence. As required, the flight
+         will be coordinated with the appropriate FSDO.
+
+         CellAntenna's PICs are and will be thoroughly conversant in airspace and
+         communications issues arising in all aircraft operations and, particularly, in the unique
+         aspects of UAS operations. The CellAntenna Manual requires PICs to have UAS
+         experience, including flight time logged with the specific make and model he or she
+         deploys for each mission. These precautions ensure that CellAntenna's operations will
+         achieve a level of safety equivalent to or even higher than that achieved by the
+         requirements of Section 61.113 of the FAA's rules.
+
+    D. Drug and Alcohol Program
+
+    CellAntenna is an ongoing business. It is a small, family-owned company. It currently has
+policies in place to ensure that no person is under the influence of alcohol or any drug while
+conducting CellAntenna business. Its policies will extend to ensure that no person may
+participate in UAS flight operations under the influence of alcohol or any drug.
+
+    E. Public Interest.
+
+    The FAA recently documented the significant public interest in the grant of petitions for
+exemption so that UAS may be commercially deployed. In the process of proposing rules for
+UAS, the FAA's Office of Aviation Policy and Plans, Economic Analysis Division issued an
+evaluation of the impact of the proposed rules ("OAPP Regulatory Evaluation"). The evaluation
+found both economic benefits and safety benefits in the operation of UAS, particularly to the
+extent UAS replaced more dangerous activities.17
+
+    In the OAPP Regulatory Evaluation, the FAA specifically analyzed four UAS commercial
+uses: A) Aerial Photography; B) Precision Agriculture; C) Search and rescue/law enforcement;
+and D) Bridge Inspection.
+
+    A. Aerial Photography
+
+    Considering use of UAS in Aerial Photography, the FAA found that by substituting an
+unmanned aviation operation using a very light aircraft for a more complex manned aviation
+operation that uses a much heavier aircraft, dangers of an accident, to both people onboard and
+on the ground, are minimized. The FAA also recognizes that cost-savings will occur by the
+reduction in cost for aerial photography. 18
+
+17 OAPP Regulatory Evaluation, at 14-26
+18 Id., at 16-17
+U.S. Department of Transportation
+Docket Management System
+April 6, 2015
+Page 13
+
+    B. Precision Agriculture
+
+    Considering use of UAS in precision agriculture, the FAA recognized the likely limited use
+of UAS in agriculture. The FAA did not expect that UAS would be used to apply pesticides or
+fertilizers, but UAS can be used to monitor application and yields. UAS may be employed to
+collect data on the hydration and general condition of crops. The information gathered allows
+farmers to manage water, insecticide application, and nutrient application. These more efficient
+uses of resources save agricultural investment, increase productivity, and may even have a
+positive impact on the environment.19
+
+    C. Law Enforcement
+
+    Law enforcement uses of UAS are of particular interest to CellAntenna.20 In considering use
+of UAS in law enforcement and disaster recovery and relief, the FAA recognized the significant
+cost savings to federal, state, and local governmental entities. Cost savings, as compared to
+deployment of helicopters, runs up to $550/hour of governmental funds. While not all helicopter
+missions may be replaced with UAS missions, the cost savings of substitution may be
+significant. Additionally, the speed to deployment, the stealth capabilities, and the safety aspects
+of UAS substitution bring significant benefit to the public.21
+
+    D. Bridge Inspections
+
+    In considering use of UAS in bridge inspections, the FAA noted that it is difficult for
+helicopters to get close enough to bridges for adequate inspection. Expensive, special equipment
+must be deployed, and often human beings climb the bridges to view bridge conditions up close.
+Use of UAS in bridge inspections bring cost savings and safety benefits.22
+
+    E. FAA Precedent
+
+    Even before the FAA conducted its analysis of the public interest benefits of commercial
+deployment of UAS, the FAA recognized its benefits. In granting the dozens of exemptions
+granted so far, the FAA found that UAS operations significantly improve safety and reduce risk
+by alleviating the public's exposure to danger and emissions associated with traditional aircraft
+and helicopter operation. CellAntenna's proposed operations will be battery powered avoiding
+the ignition hazards attendant to fuel-powered operations. The FAA has recognized that
+accidents involving UAS are significantly less dangerous -- to pilots and the public -- than
+accidents involving full-size helicopters.
+
+    CellAntenna's proposed operations are similar to the operations proposed in the dozens of
+exemptions granted by the FAA. Particularly, in the recent grant to Jeffrey J. Walsh,23 the FAA
+noted that the enhanced safety achieved using an unmanned aircraft (UA), as proposed by Mr.
+
+19 Id., at 18
+20 CellAntenna's long service to law enforcement agencies is documented, in part, in its efforts to eradicate
+contraband wireless devices from correctional facilities in FCC Docket No. 13-111.
+21 OAPP Regulatory Evaluation, at 18-20
+22 Id., at 22-23
+23 Jeffrey J. Walsh, Docket No. FAA-2014-0681, granted March 24, 2015.
+U.S. Department of Transportation
+Docket Management System
+April 6, 2015
+Page 14
+
+Walsh and CellAntenna, and carrying no passengers or crew, rather than a manned aircraft of
+significantly greater proportions, carrying crew, in addition to flammable fuel, gives the FAA
+good cause to find that the UAS operation enabled by [Mr. Walsh's] exemption is in the public
+interest.
+
+    F. Federal Register Summary
+
+    CellAntenna notes that the relief requested in this petition is identical to the exemption
+granted to dozens of other petitioners. Pursuant to Section 11.87 of the FAA's rules,
+CellAntenna asks that the FAA forego publication of its petition in the FEDERAL REGISTER. If the
+FAA determines that FEDERAL REGISTER publication is necessary, CellAntenna provides the
+following summary for publication in the FEDERAL REGISTER.
+
+         CellAntenna seeks an exemption from the several provisions of Title 14 of the Code of
+         Federal Regulations. Specifically:
+
+         Part 21, Subpart H; Part 27; Sections 45.23(b); 45.27(a); 61.113; 91.7(a); 91.9(b)(2);
+         91.9(c); 91.103; 91.105; 91.109(a); 91.119; 91.121; 91.151(a); 91.203(a) and (b);
+         91.405(a); 91.407(a)(1); 91.409(a)(1) and (2); 91.417(a) and (b).
+
+         The requested exemption will enhance public safety by reducing risk to the general
+         public and property owners from the substantial hazards associated with performing
+         equivalent work with conventional fixed-wing aircraft, rotorcraft, or other methods.
+U.S. Department of Transportation
+Docket Management System
+April 6, 2015
+Page 15
+
+    G. Conclusion
+
+    CellAntenna's Petition for exemption satisfies the criteria articulated in Section 333 of the
+Reform act, including size, weight, speed, and operational capability, proximity to airports and
+populated areas, operation within VLOS and national security. The proposed UAS operations
+will benefit the public as a whole by improving safety and reducing risk by alleviating human
+exposure to danger. In consideration of the foregoing, this Petition for Exemption provides the
+FAA with sufficient justification for grant of the request allowing CellAntenna to perform
+commercial operations using UAS.
+
+    CellAntenna appreciates your prompt consideration of its Petition. Should questions arise,
+please give me a call to discuss.
+
+                                             Very truly yours,
+
+                                             Marjorie K. Conner
+                                             Counsel to CellAntenna Corporation
+
+Attachment A: CellAntenna Manual
+Attachment B: UAS Manual
+
+Attachments contain proprietary and commercial information and are exempt from disclosure
+under the Freedom of Information Act, 5 U.S.C. § 552, et. seq., and should be held in a separate
+confidential file in accord with Section 11.35(b) of the FAA's rules, 14 C.F.R. § 11.35(b).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+                  Confidential Attachment A
+                      CellAntenna Manual
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+                   Confidential Attachment B
+                           UAS Manual
+FAA FORM 7711-1 UAS COA Attachment  Page 1 of 6
+                    FAA-2015-1010
+
+                                       DEPARTMENT OF TRANSPORTATION
+                                     FEDERAL AVIATION ADMINISTRATION
+                             CERTIFICATE OF WAIVER OR AUTHORIZATION
+
+ISSUED TO
+CellAntenna Corporation
+700 West View Terrace
+Alexandria, VA 22302
+
+   This certificate is issued for the operations specifically described hereinafter. No person shall conduct
+any operation pursuant to the authority of this certificate except in accordance with the standard and special
+provisions contained in this certificate, and such other requirements of the Federal Aviation Regulations not
+specifically waived by this certificate.
+
+OPERATIONS AUTHORIZED
+Operation of DJI S1000 Spreading Wings, DJI Inspire, DJI 450 Flame Wheel Quadcopter, and DJI 550
+Flame Wheel Hexacopter Unmanned Aircraft Systems at or below 200 feet Above Ground Level (AGL)
+for the purpose of aerial data collection.
+LIST OF WAIVED REGULATIONS BY SECTION AND TITLE
+N/A
+
+                                               STANDARD PROVISIONS
+1. A copy of the application made for this certificate shall be attached and become a part hereof.
+2. This certificate shall be presented for inspection upon the request of any authorized representative of the
+Federal Aviation Administration, or of any State or municipal official charged with the duty of enforcing
+local laws or regulations.
+3. The holder of this certificate shall be responsible for the strict observance of the terms and provisions
+contained herein.
+4. This certificate is nontransferable.
+Note-This certificate constitutes a waiver of those Federal rules or regulations specifically referred to
+above. It does not constitute a waiver of any State law or local ordinance.
+
+                                                 SPECIAL PROVISIONS
+Special Provisions are set forth and attached.
+This certificate FAA-2015-1010-333E is effective from June 23, 2015 to June 30, 2017 and is subject to
+cancellation at any time upon notice by the Administrator or his/her authorized representative.
+
+BY DIRECTION OF THE ADMINISTRATOR
+
+FAA Headquarters, AJV-115                /S/
+            (Region)
+                                     Jacqueline R. Jackson
+         June 15, 2015                      (Signature)
+            (Date)
+                           Manager, UAS Tactical Operations Section
+   FAA Form 7711-1 (7-74)                   (Title)
+
+                           Small UAS Operations 200 feet and below for
+                                        Commercial Purposes March 2015
+                           FAA FORM 7711-1 UAS COA Attachment    Page 2 of 6
+                                                  FAA-2015-1010
+
+STANDARD PROVISIONS
+
+A. General.
+
+1. The approval of this COA is effective only with an approved FAA Grant of Exemption.
+
+2. A copy of the COA including the special limitations must be immediately available to all
+    operational personnel at each operating location whenever UAS operations are being
+    conducted.
+
+3. This authorization may be canceled at any time by the Administrator, the person
+    authorized to grant the authorization, or the representative designated to monitor a
+    specific operation. As a general rule, this authorization may be canceled when it is no
+    longer required, there is an abuse of its provisions, or when unforeseen safety factors
+    develop. Failure to comply with the authorization is cause for cancellation. The operator
+    will receive written notice of cancellation.
+
+B. Safety of Flight.
+
+1. The operator or pilot in command (PIC) is responsible for halting or canceling activity in
+    the COA area if, at any time, the safety of persons or property on the ground or in the air
+    is in jeopardy, or if there is a failure to comply with the terms or conditions of this
+    authorization.
+
+See-and-Avoid
+
+Unmanned aircraft have no on-board pilot to perform see-and-avoid responsibilities;
+therefore, when operating outside of active restricted and warning areas approved for
+aviation activities, provisions must be made to ensure an equivalent level of safety exists
+for unmanned operations consistent with 14 CFR Part 91 §91.111, §91.113 and §91.115.
+
+a. The pilot in command (PIC) is responsible:
+
+    · To remain clear and give way to all manned aviation operations and activities at
+         all times,
+
+    · For the safety of persons or property on the surface with respect to the UAS, and
+
+    · For compliance with CFR Parts 91.111, 91.113 and 91.115
+
+b. UAS pilots will ensure there is a safe operating distance between aviation activities
+and unmanned aircraft (UA) at all times.
+
+c. Visual observers must be used at all times and maintain instantaneous communication
+with the PIC.
+
+d. The PIC is responsible to ensure visual observer(s) are:
+
+                                                     Small UAS Operations 200 feet and below for
+                                                                  Commercial Purposes March 2015
+FAA FORM 7711-1 UAS COA Attachment  Page 3 of 6
+                    FAA-2015-1010
+
+             · Able to see the UA and the surrounding airspace throughout the entire flight, and
+
+             · Able to provide the PIC with the UA's flight path, and proximity to all aviation
+                  activities and other hazards (e.g., terrain, weather, structures) sufficiently for the
+                  PIC to exercise effective control of the UA to prevent the UA from creating a
+                  collision hazard.
+
+         e. Visual observer(s) must be able to communicate clearly to the pilot any instructions
+         required to remain clear of conflicting traffic.
+
+    2. Pilots are reminded to follow all federal regulations e.g. remain clear of all Temporary
+         Flight Restrictions, as well as following the exemption granted for their operation.
+
+    3. The operator or delegated representative must not operate in Prohibited Areas, Special
+         Flight Rule Areas or, the Washington National Capital Region Flight Restricted Zone.
+         Such areas are depicted on charts available at
+         http://www.faa.gov/air_traffic/flight_info/aeronav/. Additionally, aircraft operators
+         should beware of and avoid other areas identified in Notices to Airmen (NOTAMS)
+         which restricts operations in proximity to Power Plants, Electric Substations, Dams,
+         Wind Farms, Oil Refineries, Industrial Complexes, National Parks, The Disney Resorts,
+         Stadiums, Emergency Services, the Washington DC Metro Flight Restricted Zone,
+         Military or other Federal Facilities.
+
+    4. All aircraft operated in accordance with this Certificate of Waiver/Authorization must be
+         identified by serial number, registered in accordance with 14 CFR part 47, and have
+         identification (N-Number) markings in accordance with 14 CFR part 45, Subpart C.
+         Markings must be) as large as practicable.
+
+C. Reporting Requirements
+
+    1. Documentation of all operations associated with UAS activities is required regardless of
+         the airspace in which the UAS operates. NOTE: Negative (zero flights) reports are
+         required.
+
+    2. The operator must submit the following information through
+         mailto:9-AJV-115-UASOrganization@faa.gov on a monthly basis:
+         a. Name of Operator, Exemption number and Aircraft registration number
+
+         b. UAS type and model
+
+         c. All operating locations, to include location city/name and latitude/longitude
+
+         d. Number of flights (per location, per aircraft)
+
+         e. Total aircraft operational hours
+
+         f. Takeoff or Landing damage
+
+Small UAS Operations 200 feet and below for
+             Commercial Purposes March 2015
+FAA FORM 7711-1 UAS COA Attachment  Page 4 of 6
+                    FAA-2015-1010
+
+    g. Equipment malfunctions. Reportable malfunctions include, but are not limited to the
+         following:
+         (1) On-board flight control system
+         (2) Navigation system
+         (3) Powerplant failure in flight
+         (4) Fuel system failure
+         (5) Electrical system failure
+         (6) Control station failure
+
+3. The number and duration of lost link events (control, performance and health monitoring,
+    or communications) per UA per flight.
+
+D. Notice to Airmen (NOTAM).
+
+    A distant (D) NOTAM must be issued when unmanned aircraft operations are being
+    conducted. This requirement may be accomplished:
+
+    a. Through the operator's local base operations or NOTAM issuing authority, or
+
+    b. By contacting the NOTAM Flight Service Station at 1-877-4-US-NTMS (1-877-487-
+         6867) not more than 72 hours in advance, but not less than 24 hours prior to the
+         operation, unless otherwise authorized as a special provision. The issuing agency will
+         require the:
+
+         (1) Name and address of the pilot filing the NOTAM request
+
+         (2) Location, altitude, or operating area
+
+         (3) Time and nature of the activity.
+
+         (4) Number of UAS flying in the operating area.
+
+AIR TRAFFIC CONTROL SPECIAL PROVISIONS
+
+  A. Coordination Requirements.
+
+       1. Operators and UAS equipment must meet the requirements (communication,
+            equipment and clearance) of the class of airspace they will operate in.
+
+       2. Operator filing and the issuance of required distance (D) NOTAM, will serve as
+            advance ATC facility notification of UAS operations in an area.
+
+       3. Operator must cancel NOTAMs when UAS operations are completed or will not be
+            conducted.
+
+       4. Coordination and deconfliction between Military Training Routes (MTRs) is the
+            operator's responsibility. When identifying an operational area the operator must
+
+                                                              Small UAS Operations 200 feet and below for
+                                                                            Commercial Purposes March 2015
+FAA FORM 7711-1 UAS COA Attachment            Page 5 of 6
+                    FAA-2015-1010
+
+evaluate whether an MTR will be affected. In the event the UAS operational area
+overlaps (5 miles either side of centerline) an MTR, the operator will contact the
+scheduling agency 24 hours in advance to coordinate and deconflict. Approval from
+the scheduling agency is not required. Scheduling agencies are listed in the Area
+Planning AP/1B Military Planning Routes North and South America, if unable to gain
+access to AP/1B contact the FAA at email address
+mailto:9-AJV-115-UASOrganization@faa.gov with the IR/VR routes affected and the
+FAA will provide the scheduling agency information. If prior coordination and
+deconfliction does not take place 24 hours in advance, the operator must remain clear
+of all MTRs.
+
+B. Communication Requirements.
+
+1. When operating in the vicinity of an airport without an operating control tower,
+    announce your operations in accordance with the FAA Aeronautical Information
+    Manual (AIM) 4-1-9 Traffic Advisory Practices at Airports without Operating Control
+    Towers.
+
+C. Flight Planning Requirements.
+
+Note: For all UAS requests not covered by the conditions listed below, the exemption
+holder may apply for a new Air Traffic Organization (ATO) Certificate of Waiver or
+Authorization (COA) at https://oeaaa.faa.gov/oeaaa/external/uas/portal.jsp
+
+    This COA will allow small UAS (55 pounds or less) operations during daytime VFR
+    conditions under the following conditions and limitations:
+
+      (1) At or below 200 feet AGL; and
+
+      (2) Beyond the following distances from the airport reference point (ARP) of a public use
+           airport, heliport, gliderport, seaplane base and military airports listed in the
+           Airport/Facility Directory, Alaska Supplement, or Pacific Chart Supplement of the
+           U.S. Government Flight Information Publications.
+               a) 5 nautical miles (NM) from an airport having an operational control tower; or
+
+               b) 3 NM from an airport having a published instrument flight procedure, but not
+                    having an operational control tower; or
+
+               c) 2 NM from an airport not having a published instrument flight procedure or an
+                    operational control tower; or
+
+               d) 2 NM from a heliport, gliderport or seaplane base
+
+D. Emergency/Contingency Procedures.
+
+1. Lost Link/Lost Communications Procedures:
+
+                                  Small UAS Operations 200 feet and below for
+                                               Commercial Purposes March 2015
+FAA FORM 7711-1 UAS COA Attachment  Page 6 of 6
+                    FAA-2015-1010
+
+         · If the UAS loses communications or loses its GPS signal, the UA must return to a
+             pre-determined location within the private or controlled-access property and land.
+
+         · The PIC must abort the flight in the event of unpredicted obstacles or emergencies.
+
+     2. Any incident, accident, or flight operation that transgresses the lateral or vertical
+     boundaries defined in this COA must be reported to the FAA via email at
+     mailto:9-AJV-115-UASOrganization@faa.gov within 24 hours. Accidents must be reported
+     to the National Transportation Safety Board (NTSB) per instructions contained on the
+     NTSB Web site: www.ntsb.gov
+
+AUTHORIZATION
+This Certificate of Waiver or Authorization does not, in itself, waive any Title 14 Code of
+Federal Regulations, nor any state law or local ordinance. Should the proposed operation
+conflict with any state law or local ordinance, or require permission of local authorities or
+property owners, it is the responsibility of the operator to resolve the matter. This COA does not
+authorize flight within Special Use airspace without approval from the scheduling agency. The
+operator is hereby authorized to operate the small Unmanned Aircraft System in the National
+Airspace System.
+
+Small UAS Operations 200 feet and below for
+             Commercial Purposes March 2015
+
