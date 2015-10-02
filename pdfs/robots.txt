@@ -1,0 +1,23 @@
+
+# we maintain a different version of this file on dev and QA
+
+User-agent: *
+Disallow: /air_traffic/flight_info/aeronav/procedures/application/?event=airport.results
+Disallow: /air_traffic/flight_info/aeronav/procedures/application/?event=procedure.results
+Disallow: /air_traffic/flight_info/aeronav/procedures/application/?event=main.showAccountHeader
+Disallow: /airports_airtraffic/
+Disallow: /contact_faa/
+Disallow: /data_statistics/
+Disallow: /data_statistics_old/
+Disallow: /demos/
+Disallow: /documentLibrary/media/form/cancelled/
+Disallow: /education_research/
+Disallow: /education_research_old/
+Disallow: /email_page/
+Disallow: /exit/
+Disallow: /search/
+Disallow: /test/
+
+User-agent: imo-google-robot-intelink
+User-agent: Wotbox
+Disallow: /air_traffic/flight_info/aeronav/procedures/application/
